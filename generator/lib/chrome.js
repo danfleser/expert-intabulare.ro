@@ -14,8 +14,9 @@ function loadPartial(name) {
   return fs.readFileSync(path.join(PARTIALS_DIR, name), 'utf8');
 }
 
-// ~0.7KB, minified by hand. Replaces the theme JS bundle on generated pages:
-// navbar collapse, mobile dropdown togglers, cookie alert (same cookie name as live site).
+// ~0.8KB, minified by hand. Replaces the theme JS bundle on generated pages:
+// navbar collapse, mobile dropdown togglers, cookie alert (same cookie name as live site),
+// sticky-bar auto-hide while the page-hero CTA is on screen (no IO support → bar stays visible).
 const CHROME_JS =
   "(function(){var n=document.getElementById('saasboxNav'),t=document.querySelector('.navbar-toggler');" +
   "if(t&&n){t.addEventListener('click',function(){n.classList.toggle('show');t.setAttribute('aria-expanded',n.classList.contains('show'))})}" +
@@ -25,7 +26,10 @@ const CHROME_JS =
   "var c=document.querySelector('.cookiealert'),b=document.querySelector('.acceptcookies');" +
   "if(c&&b){if(document.cookie.indexOf('acceptCookies=')<0){c.classList.add('show')}" +
   "b.addEventListener('click',function(){var d=new Date();d.setTime(d.getTime()+31536e6);" +
-  "document.cookie='acceptCookies=true;expires='+d.toUTCString()+';path=/';c.classList.remove('show')})}})();";
+  "document.cookie='acceptCookies=true;expires='+d.toUTCString()+';path=/';c.classList.remove('show')})}" +
+  "var mb=document.querySelector('.mobile-cta-bar'),hc=document.querySelector('.page-hero .cta-whatsapp');" +
+  "if(mb&&hc&&'IntersectionObserver'in window){new IntersectionObserver(function(e){" +
+  "mb.classList.toggle('is-hidden',e[0].isIntersecting)}).observe(hc)}})();";
 
 /** Build the WhatsApp prefill message for a namespace + topic. */
 function waMessage(site, namespace, topic) {
@@ -52,7 +56,7 @@ function ctaWhatsapp(site, { namespace, topic, literalMessage, en = false, extra
   });
 }
 
-function headerRo(site, { enHref }) {
+function headerRo(site, { enHref, namespace, topic, literalMessage }) {
   const serviceMenuItems = site.nav.services
     .map((s) => `<li><a href="/servicii/${escAttr(s.slug)}/">${escHtml(s.label)}</a></li>`)
     .join('');
@@ -65,17 +69,18 @@ function headerRo(site, { enHref }) {
     serviceMenuItems,
     countyMenuItems,
     enHref: enHref || '/en/',
+    waHeaderHref: waHrefFor(site, namespace, topic, literalMessage),
   });
 }
 
-function headerEn(site, { roHref }) {
+function headerEn(site, { roHref, namespace, topic, literalMessage }) {
   const enMenuItems = site.en.navItems
     .map((it) => `<li><a href="${escAttr(it.href)}">${escHtml(it.label)}</a></li>`)
     .join('');
   return renderTemplate(loadPartial('header-en.html'), {
     enMenuItems,
     roHref: roHref || '/',
-    enContactHref: site.en.contactHref,
+    waHeaderHref: waHrefFor(site, namespace, topic, literalMessage),
   });
 }
 
@@ -141,7 +146,7 @@ function cookieAlert(site, en = false) {
 
 function trustBar(site) {
   return renderTemplate(loadPartial('trust-bar.html'), {
-    trustLine: site.trustStats.join(' · '),
+    trustLine: site.trustStats.map(escHtml).join('<span class="sep"> · </span>'),
   });
 }
 
@@ -170,7 +175,7 @@ function breadcrumbs(site, items) {
 function contactCard(site, { namespace, topic, literalMessage, en = false }) {
   const t = en ? site.en : site.ro;
   return (
-    `<div class="card about-card mb-4"><div class="card-body">` +
+    `<div class="card c-card-contact sidebar-sticky mb-4"><div class="card-body">` +
     `<h2 class="h5 mb-2">${escHtml(t.contactCardHeading)}</h2>` +
     `<p class="fz-14 mb-3">${escHtml(t.contactCardText)}</p>` +
     ctaWhatsapp(site, { namespace, topic, literalMessage, en }) +

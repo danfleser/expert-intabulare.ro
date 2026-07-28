@@ -8,38 +8,27 @@
     <title>{{title}}</title>
     <!-- Favicon-->
     <link rel="shortcut icon" href="/img/core-img/favicon.ico" type="image/x-icon">
-    <!-- All CSS Stylesheet-->
-    <link rel="stylesheet" href="/css/all-css-libraries.css">
-    <!-- Core Stylesheet-->
-    <link rel="stylesheet" href="/style.css">
+    <!-- Fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap">
+    <!-- Site Stylesheet-->
+    <link rel="stylesheet" href="/css/site.css">
     <link rel="canonical" href="{{canonical}}">
     {{{hreflangTags}}}
-    <style>
-      /* Inner-page adjustments only — theme CSS stays untouched */
-      .header-area.header-2.sticky-on{background-color:#ffffff}
-      .breadcrumb-wrapper{height:auto;min-height:0;padding:120px 0 48px}
-      .breadcrumb-wrapper .breadcrumb-content{margin-top:0}
-      .breadcrumb-wrapper .breadcrumb-title{color:#1f0757;text-align:left}
-      .breadcrumb-wrapper .breadcrumb{justify-content:flex-start}
-      .breadcrumb-wrapper .breadcrumb .breadcrumb-item{color:#8480ae}
-      .breadcrumb-wrapper .breadcrumb .breadcrumb-item a{color:#0d6efd;font-size:.875rem}
-      .breadcrumb-wrapper .breadcrumb .breadcrumb-item+.breadcrumb-item::before{color:#8480ae}
-      @media print{.header-area,.footer-area,.cookiealert,.cta-whatsapp,.trust-bar,.breadcrumb-wrapper .breadcrumb{display:none!important}.breadcrumb-wrapper{padding:0;background:none}}
-    </style>
     {{{jsonld}}}
   </head>
   <body class="bg-white">
     {{{header}}}
-    <!-- Breadcrumb Area-->
-    <div class="breadcrumb-wrapper">
+    <!-- Page hero-->
+    <div class="page-hero">
       <div class="container">
-        <div class="breadcrumb-content">
-          <h1 class="breadcrumb-title mb-3">{{h1}}</h1>
-          <nav aria-label="breadcrumb">
-            <ol class="breadcrumb d-flex flex-wrap">{{{breadcrumbItems}}}</ol>
-          </nav>
-          {{{heroCta}}}
-        </div>
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb d-flex flex-wrap">{{{breadcrumbItems}}}</ol>
+        </nav>
+        <h1 class="mb-2">{{h1}}</h1>
+        <p class="credential-line"><i class="bi bi-patch-check-fill me-1"></i>Autorizat ANCPI · 25+ ani experiență</p>
+        {{{heroCta}}}
       </div>
     </div>
     <!--content:start-->
@@ -58,6 +47,11 @@
     </div>
     {{{footer}}}
     {{{cookie}}}
+    <!-- Sticky mobile CTA bar-->
+    <nav class="mobile-cta-bar" aria-label="Contact rapid">
+      <a href="{{waBarHref}}" target="_blank" rel="noopener"><i class="bi bi-whatsapp"></i>WhatsApp</a>
+      <a href="tel:{{telHref}}" aria-label="Sună"><i class="bi bi-telephone"></i>{{telDisplay}}</a>
+    </nav>
     <script>{{{chromeJs}}}</script>
     {{{extraJs}}}
   </body>

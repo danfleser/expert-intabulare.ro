@@ -78,8 +78,8 @@ function assemblePage(ctx, opts) {
     hreflangTags: hreflangTags(site, opts.hreflangRo, opts.hreflangEn),
     jsonld,
     header: en
-      ? chrome.headerEn(site, { roHref: opts.roHref || '/' })
-      : chrome.headerRo(site, { enHref: opts.enHref || '/en/' }),
+      ? chrome.headerEn(site, { roHref: opts.roHref || '/', namespace: opts.namespace, topic: opts.waTopic, literalMessage: opts.waLiteral })
+      : chrome.headerRo(site, { enHref: opts.enHref || '/en/', namespace: opts.namespace, topic: opts.waTopic, literalMessage: opts.waLiteral }),
     h1: opts.h1,
     breadcrumbItems: bc.html,
     heroCta: cta('mt-2'),
@@ -92,6 +92,9 @@ function assemblePage(ctx, opts) {
       ? chrome.footerEn(site, { roHref: opts.roHref || '/', enPages: ctx.enPagesForFooter })
       : chrome.footerRo(site),
     cookie: chrome.cookieAlert(site, en),
+    waBarHref: chrome.waHrefFor(site, opts.namespace, opts.waTopic, opts.waLiteral),
+    telHref: site.nap.phone,
+    telDisplay: site.nap.phoneDisplay,
     chromeJs: chrome.CHROME_JS,
     extraJs: opts.extraJs || '',
   }, ctx.warnings, opts.path);
@@ -102,9 +105,16 @@ function assemblePage(ctx, opts) {
 // ---------- shared building blocks ----------
 
 function cardBlock(heading, innerHtml, icon) {
+  if (icon) {
+    return (
+      `<div class="card c-card-service mb-5"><div class="card-body">` +
+      `<div class="icon-chip"><i class="bi ${icon}"></i></div>` +
+      `<h2 class="h5 mb-3">${escHtml(heading)}</h2>${innerHtml}</div></div>`
+    );
+  }
   return (
     `<div class="card about-card mb-5"><div class="card-body">` +
-    `<h2 class="h5 mb-3">${icon ? `<i class="bi ${icon} me-2"></i>` : ''}${escHtml(heading)}</h2>${innerHtml}</div></div>`
+    `<h2 class="h5 mb-3">${escHtml(heading)}</h2>${innerHtml}</div></div>`
   );
 }
 
@@ -437,6 +447,18 @@ function buildServiceLocality(ctx, service, loc, emitted) {
 function buildServiceHub(ctx, service, emitted) {
   const { site } = ctx;
   const pagePath = `/servicii/${service.slug}/index.html`;
+  // Hub pages have no locality — fill authored {param} placeholders with generic
+  // phrasing so no literal braces reach the page (same keys/aliases as copyParams).
+  const hubParams = {
+    locality: 'localitatea dumneavoastră',
+    county: 'județul dumneavoastră',
+    ocpi: 'biroul de cadastru competent',
+    service: service.name,
+    distance: '', distanceKm: '', villages: '', profile: '',
+  };
+  hubParams.localitate = hubParams.locality; hubParams.judet = hubParams.county;
+  hubParams.serviciu = hubParams.service; hubParams.sate = hubParams.villages;
+  hubParams.distanta = hubParams.distance;
   const introSource = service.hubIntro || service.intro || '';
   const introHtml = introSource
     ? (introSource.trim().startsWith('<') ? introSource : `<p class="lead">${escHtml(introSource)}</p>`)
@@ -444,14 +466,14 @@ function buildServiceHub(ctx, service, emitted) {
 
   const documentsBlock = checklistBlock('Acte necesare (orientativ)', service.documents);
   const processBlock = (service.process && service.process.length)
-    ? `<div class="mb-5"><h2 class="h5 mb-3">Cum decurge procesul</h2><ol class="ps-3">${service.process.map((s) => `<li class="mb-2">${escHtml(fillParams(s, {}))}</li>`).join('')}</ol></div>`
+    ? `<div class="mb-5"><h2 class="h5 mb-3">Cum decurge procesul</h2><ol class="ps-3">${service.process.map((s) => `<li class="mb-2">${escHtml(fillParams(s, hubParams))}</li>`).join('')}</ol></div>`
     : '';
   let priceBlock = '';
   if (service.priceTable && service.priceTable.rows) {
     const head = (service.priceTable.head || []).map((h) => `<th>${escHtml(h)}</th>`).join('');
     const rows = service.priceTable.rows.map((r) => `<tr>${r.map((c) => `<td>${escHtml(c)}</td>`).join('')}</tr>`).join('');
     priceBlock =
-      `<div class="mb-5"><h2 class="h5 mb-3">Prețuri orientative</h2><div class="table-responsive"><table class="table table-striped">` +
+      `<div class="mb-5"><h2 class="h5 mb-3">Prețuri orientative</h2><div class="table-scroll"><table class="table table-striped">` +
       (head ? `<thead><tr>${head}</tr></thead>` : '') + `<tbody>${rows}</tbody></table></div>` +
       `<p class="fz-14">${escHtml(site.priceDisclaimer)}</p></div>`;
   } else if (service.priceRange) {
@@ -875,7 +897,7 @@ function buildDictTerm(ctx, term, termsBySlug) {
 // ~1KB progressive-enhancement filter for the A–Z index
 const DICT_FILTER_JS =
   `<script>(function(){var f=document.getElementById('dictFilter');if(!f)return;` +
-  `var items=document.querySelectorAll('.dict-item'),heads=document.querySelectorAll('.dict-letter'),nr=document.getElementById('dictNoResults');` +
+  `var items=document.querySelectorAll('.dict-list li'),heads=document.querySelectorAll('.dict-letter'),nr=document.getElementById('dictNoResults');` +
   `function norm(s){return s.toLowerCase().replace(/[\\u0103\\u00e2]/g,'a').replace(/\\u00ee/g,'i').replace(/[\\u0219\\u015f]/g,'s').replace(/[\\u021b\\u0163]/g,'t')}` +
   `f.addEventListener('input',function(){var q=norm(f.value.trim()),n=0;` +
   `for(var i=0;i<items.length;i++){var hit=!q||norm(items[i].getAttribute('data-term')||items[i].textContent).indexOf(q)>-1;` +
@@ -907,10 +929,10 @@ function buildDictIndex(ctx, terms) {
     const lis = byLetter
       .get(l)
       .map((t) =>
-        `<li class="dict-item mb-2" data-term="${escAttr(t.term)}"><a href="/dictionar/${escAttr(t.slug)}.html">${escHtml(t.term)}</a>${t.gloss ? ` — <span class="fz-14">${escHtml(t.gloss)}</span>` : ''}</li>`
+        `<li data-term="${escAttr(t.term)}"><a href="/dictionar/${escAttr(t.slug)}.html">${escHtml(t.term)}</a>${t.gloss ? ` — <span>${escHtml(t.gloss)}</span>` : ''}</li>`
       )
       .join('');
-    listParts.push(`<h2 class="h5 mt-4 dict-letter" id="lit-${escAttr(l)}">${escHtml(l)}</h2><ul class="list-unstyled">${lis}</ul>`);
+    listParts.push(`<h2 class="h5 mt-4 dict-letter" id="lit-${escAttr(l)}">${escHtml(l)}</h2><ul class="list-unstyled dict-list">${lis}</ul>`);
   }
 
   const waTopic = 'un termen din dicționar';

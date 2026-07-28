@@ -8,16 +8,14 @@
     <title>Servicii Topografie, Cadastru, Releveu, Trasare, Intabulare, Extras CF</title>
     <!-- Favicon-->
     <link rel="shortcut icon" href="img/core-img/favicon.ico" type="image/x-icon">
-    <!-- All CSS Stylesheet-->
-    <link rel="stylesheet" href="css/all-css-libraries.css">
     <!-- Core Stylesheet-->
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/site.css">
+    <!-- Fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&amp;display=swap">
   </head>
   <body>
-    <!-- Preloader-->
-    <div class="preloader" id="preloader">
-      <div class="spinner-grow text-light" role="status"><span class="visually-hidden">Loading...</span></div>
-    </div>
     <!-- Header Area-->
     <header class="header-area header-2">
       <nav class="navbar navbar-expand-lg">
@@ -31,12 +29,13 @@
               <li><a href="index.html#services">Servicii</a></li>
               <li><a href="index.html#reviews">Recenzii</a></li>
             </ul>
-            <!-- Login Button --><a class="btn btn-warning btn-sm ms-auto mb-3 mb-lg-0" href="index.html#contact">Contact</a>
+            <!-- Contact Button --><a class="btn btn-navy btn-sm ms-auto mb-3 mb-lg-0" href="index.html#contact">Contact</a>
           </div>
         </div>
       </nav>
     </header>
-    <div class="container pt-120">
+    <div class="page-hero">
+      <div class="container">
       <div class="row justify-content-center">
         <div class="col-12">
           <h4>Politica de confidențialitate</h4>
@@ -137,6 +136,7 @@
           <p>Ne rezervăm dreptul de a modifica această politică de confidențialitate.</p>
         </div>
       </div>
+      </div>
     </div>
     <!-- Footer Area-->
     <footer class="footer-area pt-120 mb-50">
@@ -144,7 +144,7 @@
         <div class="row g-4 g-lg-5">
           <!-- Footer Widget Area -->
           <div class="col-12 col-sm-6 col-lg-3">
-            <div class="footer-widget-area"><a class="d-block mb-4" href="index.html"><img src="img/core-img/logo.png" alt=""></a>
+            <div class="footer-widget-area"><a class="d-block mb-4" href="index.html"><span class="footer-wordmark">TOPO<span>EXPERT</span></span></a>
               <p>Servicii complete de Cadastru, Intabulare, Măsurători terenuri, Relevee și alte servicii topografice pe toată raza județului Alba.</p>
               <!-- Contact Button-->
               <div class="mb-4"><a class="btn btn-warning btn-sm" href="index.html#contact">Contact</a></div>
@@ -172,7 +172,7 @@
               <p class="mb-0">Suna:<a class="ml-1 footer-text" href="tel:0741 478 540">0741 478 540</a></p>
               <p class="mb-0">Email:<a class="ml-1 footer-text" href="mailto:aurelfleser@yahoo.com">aurelfleser@yahoo.com</a></p>
               <!-- Footer Social Icon-->
-              <div class="footer-social-icon d-flex align-items-center mt-3"><a href="https://www.google.com/maps/place/Birou+particular+Cadastru,+Topografie,+Releveu+-+Trasare,+Intabulare,+Extras+CF/@46.3212173,23.7176085,19z/data=!3m1!4b1!4m5!3m4!1s0x4749578f1113eda7:0x79df4f368ffdd9!8m2!3d46.3212173!4d23.718157" target="_blank" data-bs-toggle="tooltip" data-bs-placement="top" title="Google Maps"><i class="bi bi-google"></i></a></div>
+              <div class="footer-social-icon d-flex align-items-center mt-3"><a href="https://www.google.com/maps/place/Birou+particular+Cadastru,+Topografie,+Releveu+-+Trasare,+Intabulare,+Extras+CF/@46.3212173,23.7176085,19z/data=!3m1!4b1!4m5!3m4!1s0x4749578f1113eda7:0x79df4f368ffdd9!8m2!3d46.3212173!4d23.718157" target="_blank" title="Google Maps"><i class="bi bi-google"></i></a></div>
             </div>
           </div>
         </div>
@@ -195,15 +195,27 @@
         </div>
       </div>
     </footer>
-    <!-- Scroll To Top  -->
-    <div id="scrollTopButton"><i class="bi bi-arrow-up-short"></i></div>
     <!-- Cookie Alert Area-->
     <div class="cookiealert">
       <p>Acest site folosește cookie-uri. Folosim cookie-uri pentru a ne asigura că aveți cea mai bună experiență pe site-ul nostru. Pentru detalii, vă rugăm să verificați<a class="ml-1" href="privacy-policy.html" target="_blank">Politica de Confidențialitate.</a></p>
       <button class="btn btn-primary btn-sm acceptcookies" type="button" aria-label="Close">Sunt de acord</button>
     </div>
-    <!-- All JavaScript Files-->
-    <script src="js/all-js-libraries.js"></script>
-    <script src="js/active.js"></script>
+    <!-- Sticky Mobile CTA Bar-->
+    <nav class="mobile-cta-bar" aria-label="Contact rapid">
+      <a href="https://api.whatsapp.com/send/?phone=40741478540&amp;text=Salut%21%20Doresc%20o%20ofert%C4%83.&amp;type=phone_number&amp;app_absent=0" target="_blank" rel="noopener"><i class="bi bi-whatsapp"></i>WhatsApp</a>
+      <a href="tel:0741478540" aria-label="Sună"><i class="bi bi-telephone"></i>0741 478 540</a>
+    </nav>
+    <!-- Site chrome JS (navbar, cookie alert)-->
+    <script>
+      (function(){var n=document.getElementById('saasboxNav'),t=document.querySelector('.navbar-toggler');
+      if(t&&n){t.addEventListener('click',function(){n.classList.toggle('show');t.setAttribute('aria-expanded',n.classList.contains('show'))})}
+      var ds=document.querySelectorAll('li.sb-dropdown');for(var i=0;i<ds.length;i++){(function(li){
+      var g=li.querySelector('.dropdown-toggler'),m=li.querySelector('.sb-dropdown-menu');
+      if(g&&m){g.addEventListener('click',function(){m.style.display=m.style.display==='block'?'none':'block'})}})(ds[i])}
+      var c=document.querySelector('.cookiealert'),b=document.querySelector('.acceptcookies');
+      if(c&&b){if(document.cookie.indexOf('acceptCookies=')<0){c.classList.add('show')}
+      b.addEventListener('click',function(){var d=new Date();d.setTime(d.getTime()+31536e6);
+      document.cookie='acceptCookies=true;expires='+d.toUTCString()+';path=/';c.classList.remove('show')})}})();
+    </script>
   </body>
 </html>
