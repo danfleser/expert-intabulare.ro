@@ -8,27 +8,29 @@
     <title>{{title}}</title>
     <!-- Favicon-->
     <link rel="shortcut icon" href="/img/core-img/favicon.ico" type="image/x-icon">
-    <!-- Fonts-->
+    <!-- Fonts (D1 §4.5: Plex Sans 400/600/700 + Plex Mono 500, latin-ext)-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500&family=IBM+Plex+Sans:wght@400;600;700&display=swap">
     <!-- Site Stylesheet-->
     <link rel="stylesheet" href="/css/site.css">
     <link rel="canonical" href="{{canonical}}">
     {{{hreflangTags}}}
     {{{jsonld}}}
   </head>
-  <body class="bg-white">
+  <body>
     {{{header}}}
     <!-- Page hero-->
     <div class="page-hero">
       <div class="container">
         <nav aria-label="breadcrumb">
-          <ol class="breadcrumb d-flex flex-wrap">{{{breadcrumbItems}}}</ol>
+          <ol class="breadcrumb">{{{breadcrumbItems}}}</ol>
         </nav>
-        <h1 class="mb-2">{{h1}}</h1>
-        <p class="credential-line"><i class="bi bi-patch-check-fill me-1"></i>ANCPI licensed surveyor · 25+ years of experience</p>
+        <h1>{{h1}}</h1>
         {{{heroCta}}}
+        <div class="data-strip">
+          {{{dataStrip}}}
+        </div>
       </div>
     </div>
     <!--content:start-->
@@ -38,7 +40,7 @@
     <!-- Pre-footer CTA-->
     <div class="pb-120">
       <div class="container">
-        <div class="card about-card"><div class="card-body p-4 p-md-5">
+        <div class="card about-card"><div class="card-body">
           <h2 class="h4 mb-2">{{preFooterHeading}}</h2>
           <p class="mb-3">{{preFooterText}}</p>
           {{{preFooterCta}}}
@@ -48,9 +50,9 @@
     {{{footer}}}
     {{{cookie}}}
     <!-- Sticky mobile CTA bar-->
-    <nav class="mobile-cta-bar" aria-label="Quick contact">
-      <a href="{{waBarHref}}" target="_blank" rel="noopener"><i class="bi bi-whatsapp"></i>WhatsApp</a>
-      <a href="tel:{{telHref}}" aria-label="Call"><i class="bi bi-telephone"></i>{{telDisplay}}</a>
+    <nav class="sticky-bar" aria-label="Quick contact">
+      <a class="btn btn-wa" href="{{waBarHref}}" target="_blank" rel="noopener"><i class="bi bi-whatsapp"></i>WhatsApp</a>
+      <a class="btn btn-ghost" href="tel:{{telHref}}" aria-label="Call {{telDisplay}}">Call</a>
     </nav>
     <script>{{{chromeJs}}}</script>
     {{{extraJs}}}

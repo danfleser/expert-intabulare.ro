@@ -37,7 +37,7 @@ function renderSections(sections, ctx, warnings) {
           .map((r) => `<tr>${r.map((c) => `<td>${escHtml(c)}</td>`).join('')}</tr>`)
           .join('');
         parts.push(
-          `<div class="mb-5">${heading}<div class="table-responsive"><table class="table table-striped">` +
+          `<div class="mb-5">${heading}<div class="table-scroll"><table class="table">` +
           (head ? `<thead><tr>${head}</tr></thead>` : '') +
           `<tbody>${rows}</tbody></table></div></div>`
         );
@@ -47,13 +47,21 @@ function renderSections(sections, ctx, warnings) {
         const items = (s.items || []);
         faqs.push(...items);
         const blocks = items
-          .map((f) => `<details class="mb-3"><summary class="fw-bold">${escHtml(f.q)}</summary><p class="mt-2 mb-0">${escHtml(f.a)}</p></details>`)
+          .map((f) => `<details class="panel mb-2" open data-mob><summary><span class="q">${escHtml(f.q)}</span><span class="count"></span></summary><div class="panel-body"><p class="mt-2 mb-0">${escHtml(f.a)}</p></div></details>`)
           .join('');
         parts.push(`<div class="mb-5">${s.heading ? heading : '<h2 class="h4 mb-3">Întrebări frecvente</h2>'}${blocks}</div>`);
         break;
       }
       case 'process': {
-        const steps = (s.steps || s.items || []).map((st) => `<li class="mb-2">${escHtml(st)}</li>`).join('');
+        // steps are plain strings or {title, text} objects (guides/verticals)
+        const steps = (s.steps || s.items || [])
+          .map((st) => {
+            if (typeof st === 'string') return `<li class="mb-2">${escHtml(st)}</li>`;
+            const title = st.title ? `<strong>${escHtml(st.title)}</strong>` : '';
+            const text = st.text ? escHtml(st.text) : '';
+            return `<li class="mb-2">${title}${title && text ? ' — ' : ''}${text}</li>`;
+          })
+          .join('');
         parts.push(`<div class="mb-5">${heading}<ol class="ps-3">${steps}</ol></div>`);
         break;
       }

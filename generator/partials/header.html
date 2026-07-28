@@ -1,28 +1,34 @@
-<!-- Header Area-->
-<header class="header-area header-2 sticky-on">
-  <nav class="navbar navbar-expand-lg">
-    <div class="container">
-      <!-- Navbar Brand --><a class="navbar-brand" href="/"><img src="/img/core-img/logo.png" alt="Fleser Aurel Expert — topografie și cadastru"></a>
-      <!-- Navbar Toggler -->
-      <button class="navbar-toggler" type="button" aria-controls="saasboxNav" aria-expanded="false" aria-label="Toggle navigation"><i class="bi bi-grid"></i></button>
-      <!-- Navbar Nav-->
-      <div class="collapse navbar-collapse" id="saasboxNav">
-        <ul class="navbar-nav navbar-nav-scroll">
-          <li class="sb-dropdown"><a href="{{serviciiHref}}">Servicii</a>
-            <div class="dropdown-toggler"><i class="bi bi-caret-down-fill"></i></div>
-            <ul class="sb-dropdown-menu">{{{serviceMenuItems}}}</ul>
-          </li>
-          <li class="sb-dropdown"><a href="{{zoneHref}}">Zone</a>
-            <div class="dropdown-toggler"><i class="bi bi-caret-down-fill"></i></div>
-            <ul class="sb-dropdown-menu">{{{countyMenuItems}}}</ul>
-          </li>
-          <li><a href="/fonduri-europene/">Fonduri europene</a></li>
-          <li><a href="/parcuri-fotovoltaice/">Fotovoltaice</a></li>
-          <li><a href="/dictionar/">Dicționar</a></li>
-          <li><a href="{{enHref}}" hreflang="en">EN</a></li>
-        </ul>
-        <!-- WhatsApp Button --><a class="btn btn-navy btn-sm ms-auto mb-3 mb-lg-0" href="{{waHeaderHref}}" target="_blank" rel="noopener"><i class="bi bi-whatsapp me-1"></i>WhatsApp</a>
+<!-- Header (D1 chrome) -->
+<header class="site-header">
+  <div class="container header-in">
+    <a class="wordmark" href="/" aria-label="Fleser Aurel Expert — topografie și cadastru">
+      <svg class="mark" width="34" height="34" viewBox="0 0 34 34" fill="none" aria-hidden="true">
+        <rect x="1" y="1" width="32" height="32" rx="2" stroke="#16232C" stroke-width="1.5"/>
+        <path d="M17 8 L26 25 H8 Z" stroke="#16232C" stroke-width="1.5" fill="none"/>
+        <circle cx="17" cy="19.5" r="2.4" fill="#25D366"/>
+      </svg>
+      <span class="wm-text">
+        <span class="wm-name">TOPO<span>EXPERT</span></span>
+        <span class="wm-sub">Cadastru · Topografie</span>
+      </span>
+    </a>
+    <nav class="nav-desktop" id="siteNav" aria-label="Meniu principal">
+      <div class="nav-item">
+        <a href="{{serviciiHref}}">Servicii</a>
+        <button class="nav-toggler" type="button" aria-expanded="false" aria-label="Deschide submeniul Servicii"><span class="caret"></span></button>
+        <ul class="nav-menu">{{{serviceMenuItems}}}</ul>
       </div>
-    </div>
-  </nav>
+      <div class="nav-item">
+        <a href="{{zoneHref}}">Zone</a>
+        <button class="nav-toggler" type="button" aria-expanded="false" aria-label="Deschide submeniul Zone"><span class="caret"></span></button>
+        <ul class="nav-menu">{{{countyMenuItems}}}</ul>
+      </div>
+      <a href="/fonduri-europene/">Fonduri europene</a>
+      <a href="/parcuri-fotovoltaice/">Fotovoltaice</a>
+      <a href="/dictionar/">Dicționar</a>
+      <a href="{{enHref}}" hreflang="en">EN</a>
+      <a class="btn btn-ink nav-cta" href="{{waHeaderHref}}" target="_blank" rel="noopener">WhatsApp</a>
+    </nav>
+    <button class="burger" type="button" aria-controls="siteNav" aria-expanded="false" aria-label="Deschide meniul"><span></span><span></span><span></span></button>
+  </div>
 </header>

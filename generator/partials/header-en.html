@@ -1,18 +1,22 @@
-<!-- Header Area (EN chrome)-->
-<header class="header-area header-2 sticky-on">
-  <nav class="navbar navbar-expand-lg">
-    <div class="container">
-      <!-- Navbar Brand --><a class="navbar-brand" href="/en/"><img src="/img/core-img/logo.png" alt="Fleser Aurel Expert — licensed land surveyor, Romania"></a>
-      <!-- Navbar Toggler -->
-      <button class="navbar-toggler" type="button" aria-controls="saasboxNav" aria-expanded="false" aria-label="Toggle navigation"><i class="bi bi-grid"></i></button>
-      <!-- Navbar Nav-->
-      <div class="collapse navbar-collapse" id="saasboxNav">
-        <ul class="navbar-nav navbar-nav-scroll">
-          {{{enMenuItems}}}
-          <li><a href="{{roHref}}" hreflang="ro">RO</a></li>
-        </ul>
-        <!-- WhatsApp Button --><a class="btn btn-navy btn-sm ms-auto mb-3 mb-lg-0" href="{{waHeaderHref}}" target="_blank" rel="noopener"><i class="bi bi-whatsapp me-1"></i>WhatsApp</a>
-      </div>
-    </div>
-  </nav>
+<!-- Header (D1 chrome, EN) -->
+<header class="site-header">
+  <div class="container header-in">
+    <a class="wordmark" href="/en/" aria-label="Fleser Aurel Expert — licensed land surveyor, Romania">
+      <svg class="mark" width="34" height="34" viewBox="0 0 34 34" fill="none" aria-hidden="true">
+        <rect x="1" y="1" width="32" height="32" rx="2" stroke="#16232C" stroke-width="1.5"/>
+        <path d="M17 8 L26 25 H8 Z" stroke="#16232C" stroke-width="1.5" fill="none"/>
+        <circle cx="17" cy="19.5" r="2.4" fill="#25D366"/>
+      </svg>
+      <span class="wm-text">
+        <span class="wm-name">TOPO<span>EXPERT</span></span>
+        <span class="wm-sub">Cadastru · Topografie</span>
+      </span>
+    </a>
+    <nav class="nav-desktop" id="siteNav" aria-label="Main menu">
+      {{{enMenuItems}}}
+      <a href="{{roHref}}" hreflang="ro">RO</a>
+      <a class="btn btn-ink nav-cta" href="{{waHeaderHref}}" target="_blank" rel="noopener">WhatsApp</a>
+    </nav>
+    <button class="burger" type="button" aria-controls="siteNav" aria-expanded="false" aria-label="Open menu"><span></span><span></span><span></span></button>
+  </div>
 </header>

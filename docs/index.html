@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ro">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -12,749 +12,578 @@
     <link rel="alternate" hreflang="x-default" href="https://expert-intabulare.ro/">
     <!-- Favicon-->
     <link rel="shortcut icon" href="img/core-img/favicon.ico" type="image/x-icon">
-    <!-- All CSS Stylesheet-->
-    <link rel="stylesheet" href="css/all-css-libraries.css">
-    <!-- Core Stylesheet-->
-    <link rel="stylesheet" href="style.css">
-    <!-- Redesign override layer-->
-    <link rel="stylesheet" href="css/home-redesign.css">
+    <!-- Stylesheets-->
+    <link rel="stylesheet" href="css/site.css">
+    <link rel="stylesheet" href="css/home.css">
     <!-- Fonts-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&amp;display=swap">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500&amp;family=IBM+Plex+Sans:wght@400;600;700&amp;display=swap" rel="stylesheet">
   </head>
   <body>
-    <!-- Header Area-->
-    <header class="header-area header-2">
-      <nav class="navbar navbar-expand-lg">
-        <div class="container">
-          <!-- Navbar Brand --><a class="navbar-brand" href="index.html"><img src="img/core-img/logo.png" alt=""></a>
-          <!-- Navbar Toggler -->
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#saasboxNav" aria-controls="saasboxNav" aria-expanded="false" aria-label="Toggle navigation"><i class="bi bi-grid"></i></button>
-          <!-- Navbar Nav-->
-          <div class="collapse navbar-collapse" id="saasboxNav">
-            <ul class="navbar-nav navbar-nav-scroll">
-              <li class="sb-dropdown"><a href="index.html#services">Servicii</a>
-                <div class="dropdown-toggler"><i class="bi bi-caret-down-fill"></i></div>
-                <ul class="sb-dropdown-menu">
-                  <li><a href="servicii/cadastru-si-intabulare/">Cadastru și intabulare</a></li>
-                  <li><a href="servicii/intabulare-teren/">Intabulare teren</a></li>
-                  <li><a href="servicii/intabulare-casa-constructie/">Intabulare casă / construcție</a></li>
-                  <li><a href="servicii/intabulare-apartament/">Intabulare apartament</a></li>
-                  <li><a href="servicii/dezmembrare-alipire/">Dezmembrare / alipire</a></li>
-                  <li><a href="servicii/plan-topografic/">Plan topografic</a></li>
-                  <li><a href="servicii/trasare-teren/">Trasare teren</a></li>
-                  <li><a href="servicii/actualizare-carte-funciara/">Actualizare carte funciară</a></li>
-                  <li><a href="servicii/topografie-constructii/">Topografie construcții</a></li>
-                  <li><a href="servicii/servicii-ocpi/">Servicii OCPI</a></li>
-                  <li><a href="servicii/certificat-energetic/">Certificat energetic</a></li>
-                  <li><a href="servicii/expertize-documentatii/">Expertize și documentații</a></li>
-                </ul>
-              </li>
-              <li class="sb-dropdown"><a href="zone/alba/">Zone</a>
-                <div class="dropdown-toggler"><i class="bi bi-caret-down-fill"></i></div>
-                <ul class="sb-dropdown-menu">
-                  <li><a href="zone/alba/">Județul Alba</a></li>
-                  <li><a href="zone/cluj/">Județul Cluj</a></li>
-                  <li><a href="zone/mures/">Județul Mureș</a></li>
-                  <li><a href="zone/sibiu/">Județul Sibiu</a></li>
-                  <li><a href="zone/hunedoara/">Județul Hunedoara</a></li>
-                </ul>
-              </li>
-              <li><a href="fonduri-europene/">Fonduri europene</a></li>
-              <li><a href="parcuri-fotovoltaice/">Fotovoltaice</a></li>
-              <li><a href="dictionar/">Dicționar</a></li>
-              <li><a href="index.html#reviews">Recenzii</a></li>
-              <li><a href="en/" hreflang="en">EN</a></li>
-            </ul>
-            <!-- Contact Button --><a class="btn btn-navy btn-sm ms-auto mb-3 mb-lg-0" href="index.html#contact">Contact</a>
+    <!-- Shared SVG symbols-->
+    <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+      <defs>
+        <symbol id="i-star" viewBox="0 0 24 24"><path d="m12 2 3 6.6 7 .9-5.2 4.9 1.4 7L12 18l-6.2 3.4 1.4-7L2 9.5l7-.9Z"/></symbol>
+        <symbol id="i-wa" viewBox="0 0 24 24"><path d="M12 2a10 10 0 0 0-8.5 15.3L2 22l4.9-1.4A10 10 0 1 0 12 2Zm0 18.2a8.2 8.2 0 0 1-4.2-1.1l-.3-.2-2.9.8.8-2.8-.2-.3A8.2 8.2 0 1 1 12 20.2Zm4.6-6.1c-.3-.1-1.5-.7-1.7-.8-.2-.1-.4-.1-.6.1-.2.3-.7.8-.8 1-.1.2-.3.2-.5.1a6.7 6.7 0 0 1-3.4-2.9c-.3-.4 0-.6.1-.8l.4-.5c.1-.2.1-.3.2-.5v-.5c0-.1-.6-1.4-.8-1.9-.2-.5-.4-.4-.6-.4h-.5c-.2 0-.5.1-.7.3-.2.3-.9.9-.9 2.2s.9 2.5 1.1 2.7c.1.2 1.9 2.9 4.6 4.1.6.3 1.1.4 1.5.6.6.2 1.2.2 1.6.1.5-.1 1.5-.6 1.7-1.2.2-.6.2-1.1.2-1.2-.1-.2-.3-.2-.7-.3Z"/></symbol>
+        <symbol id="i-tel" viewBox="0 0 24 24"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2Z"/></symbol>
+        <symbol id="i-arr" viewBox="0 0 24 24"><path d="M5 12h14m-6-6 6 6-6 6"/></symbol>
+      </defs>
+    </svg>
+
+    <!-- ============ HEADER (canonical D1 chrome — matches generator/partials/header.html) ============ -->
+    <header class="site-header">
+      <div class="container header-in">
+        <a class="wordmark" href="/" aria-label="Fleser Aurel Expert — topografie și cadastru">
+          <svg class="mark" width="34" height="34" viewBox="0 0 34 34" fill="none" aria-hidden="true">
+            <rect x="1" y="1" width="32" height="32" rx="2" stroke="#16232C" stroke-width="1.5"/>
+            <path d="M17 8 L26 25 H8 Z" stroke="#16232C" stroke-width="1.5" fill="none"/>
+            <circle cx="17" cy="19.5" r="2.4" fill="#25D366"/>
+          </svg>
+          <span class="wm-text">
+            <span class="wm-name">TOPO<span>EXPERT</span></span>
+            <span class="wm-sub">Cadastru · Topografie</span>
+          </span>
+        </a>
+        <nav class="nav-desktop" id="siteNav" aria-label="Meniu principal">
+          <div class="nav-item">
+            <a href="/#services">Servicii</a>
+            <button class="nav-toggler" type="button" aria-expanded="false" aria-label="Deschide submeniul Servicii"><span class="caret"></span></button>
+            <ul class="nav-menu"><li><a href="/servicii/cadastru-si-intabulare/">Cadastru și intabulare</a></li><li><a href="/servicii/intabulare-teren/">Intabulare teren</a></li><li><a href="/servicii/intabulare-casa-constructie/">Intabulare casă / construcție</a></li><li><a href="/servicii/intabulare-apartament/">Intabulare apartament</a></li><li><a href="/servicii/dezmembrare-alipire/">Dezmembrare / alipire</a></li><li><a href="/servicii/plan-topografic/">Plan topografic</a></li><li><a href="/servicii/trasare-teren/">Trasare teren</a></li><li><a href="/servicii/actualizare-carte-funciara/">Actualizare carte funciară</a></li><li><a href="/servicii/topografie-constructii/">Topografie construcții</a></li><li><a href="/servicii/servicii-ocpi/">Servicii OCPI</a></li><li><a href="/servicii/certificat-energetic/">Certificat energetic</a></li><li><a href="/servicii/expertize-documentatii/">Expertize și documentații</a></li></ul>
           </div>
-        </div>
-      </nav>
-    </header>
-    <!-- Welcome Area -->
-    <div class="welcome-area hero2">
-      <div class="container">
-        <div class="row">
-          <div class="col-12 col-lg-8">
-            <!-- Welcome Content -->
-            <div class="welcome-content">
-              <h1>Servicii profesionale, pentru orice proiect</h1>
-              <p class="mb-4">Măsurători topografice, servicii cadastru, topografie inginerească.</p>
-              <div class="cta-whatsapp d-flex flex-wrap align-items-center">
-                <a class="btn btn-wa me-3 mb-2" href="https://api.whatsapp.com/send/?phone=40741478540&amp;text=Salut%21%20Doresc%20o%20ofert%C4%83.&amp;type=phone_number&amp;app_absent=0" target="_blank" rel="noopener"><i class="bi bi-whatsapp me-2"></i>Scrie-ne pe WhatsApp</a>
-                <a class="btn btn-tel mb-2" href="tel:0741478540"><i class="bi bi-telephone me-2"></i>0741 478 540</a>
-              </div>
-              <p class="hero-cta-note mt-2 mb-0"><a href="#contact">sau lasă-ne un mesaj</a></p>
-              <div class="badge-chip-row">
-                <span class="badge-chip"><i class="bi bi-patch-check-fill"></i>Autorizat ANCPI</span>
-                <span class="badge-chip">25+ ani experiență</span>
-                <span class="badge-chip">1052+ proiecte finalizate</span>
-              </div>
-            </div>
+          <div class="nav-item">
+            <a href="/zone/alba/">Zone</a>
+            <button class="nav-toggler" type="button" aria-expanded="false" aria-label="Deschide submeniul Zone"><span class="caret"></span></button>
+            <ul class="nav-menu"><li><a href="/zone/alba/">Alba</a></li><li><a href="/zone/cluj/">Cluj</a></li><li><a href="/zone/mures/">Mureș</a></li><li><a href="/zone/sibiu/">Sibiu</a></li><li><a href="/zone/hunedoara/">Hunedoara</a></li></ul>
           </div>
-        </div>
+          <a href="/fonduri-europene/">Fonduri europene</a>
+          <a href="/parcuri-fotovoltaice/">Fotovoltaice</a>
+          <a href="/dictionar/">Dicționar</a>
+          <a href="/#reviews">Recenzii</a>
+          <a href="/en/" hreflang="en">EN</a>
+          <a class="btn btn-ink nav-cta" href="/#contact">Contact</a>
+        </nav>
+        <button class="burger" type="button" aria-controls="siteNav" aria-expanded="false" aria-label="Deschide meniul"><span></span><span></span><span></span></button>
       </div>
-    </div>
-    <!-- Path Band -->
-    <section class="path-band">
+    </header>
+
+    <!-- ============ HERO ============ -->
+    <section class="hero">
       <div class="container">
-        <h2 class="path-band-title text-center">Cu ce vă putem ajuta?</h2>
-        <div class="row g-4">
-          <div class="col-12 col-md-4"><a class="path-card" href="servicii/cadastru-si-intabulare/"><span class="icon-chip"><i class="bi bi-house-door"></i></span>Sunt proprietar de teren sau casă</a></div>
-          <div class="col-12 col-md-4"><a class="path-card" href="fonduri-europene/"><span class="icon-chip"><i class="bi bi-file-earmark-text"></i></span>Am un proiect cu fonduri europene</a></div>
-          <div class="col-12 col-md-4"><a class="path-card" href="parcuri-fotovoltaice/"><span class="icon-chip"><i class="bi bi-sun"></i></span>Dezvolt un parc fotovoltaic</a></div>
+        <div class="hero-grid">
+          <div>
+            <p class="overline">Cadastru · Topografie<span class="ov-x"> · Intabulare</span> — Jud. Alba</p>
+            <h1>Servicii profesionale, pentru orice proiect</h1>
+            <p class="lead">Măsurători topografice, servicii cadastru, topografie inginerească.</p>
+            <div class="cta-row">
+              <a class="btn btn-wa" href="https://api.whatsapp.com/send/?phone=40741478540&amp;text=Salut%21%20Doresc%20o%20ofert%C4%83.&amp;type=phone_number&amp;app_absent=0" target="_blank" rel="noopener">
+                <svg width="20" height="20" fill="currentColor" aria-hidden="true"><use href="#i-wa"/></svg>
+                Scrie-ne pe WhatsApp
+              </a>
+              <a class="btn btn-ghost" href="tel:0741478540">
+                <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><use href="#i-tel"/></svg>
+                0741 478 540
+              </a>
+            </div>
+            <p class="cta-note"><a href="#contact">sau lasă-ne un mesaj</a></p>
+          </div>
+          <figure class="hero-fig" aria-hidden="true">
+            <svg viewBox="0 0 460 360" fill="none" width="100%">
+              <defs>
+                <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+                  <path d="M36 0H0V36" stroke="#EDF1F4" stroke-width="1"/>
+                </pattern>
+              </defs>
+              <rect width="460" height="360" fill="url(#grid)"/>
+              <rect x="1" y="1" width="458" height="358" stroke="#D9E0E5" stroke-width="1"/>
+              <!-- parcel -->
+              <path d="M96 84 L306 56 L396 158 L356 300 L128 288 Z" fill="rgba(37,211,102,.06)" stroke="#16232C" stroke-width="1.5"/>
+              <!-- dimension lines -->
+              <g stroke="#8798A4" stroke-width="1">
+                <path d="M96 68 L306 40"/><path d="M96 74 v-10"/><path d="M306 46 v-10"/>
+                <path d="M412 158 L372 300"/><path d="M406 156 h12"/><path d="M366 298 h12"/>
+              </g>
+              <g font-family="IBM Plex Mono,monospace" font-size="10.5" fill="#475763">
+                <text x="168" y="46" transform="rotate(-7.5 168 46)">42,75 m</text>
+                <text x="398" y="226" transform="rotate(74 402 226)">38,20 m</text>
+                <text x="196" y="180" font-size="12">S = 1.052 m²</text>
+                <text x="196" y="198" font-size="10.5" fill="#8798A4">teren intravilan</text>
+              </g>
+              <!-- vertices -->
+              <g>
+                <circle cx="96" cy="84" r="4" fill="#25D366" stroke="#fff" stroke-width="1.5"/>
+                <circle cx="306" cy="56" r="4" fill="#25D366" stroke="#fff" stroke-width="1.5"/>
+                <circle cx="396" cy="158" r="4" fill="#25D366" stroke="#fff" stroke-width="1.5"/>
+                <circle cx="356" cy="300" r="4" fill="#25D366" stroke="#fff" stroke-width="1.5"/>
+                <circle cx="128" cy="288" r="4" fill="#25D366" stroke="#fff" stroke-width="1.5"/>
+              </g>
+              <!-- benchmark triangle -->
+              <g transform="translate(96 84)">
+                <path d="M0 -14 L10 4 H-10 Z" stroke="#16232C" stroke-width="1.3" fill="#fff"/>
+                <circle r="1.8" cy="-2" fill="#16232C"/>
+              </g>
+              <!-- north arrow -->
+              <g transform="translate(420 40)">
+                <circle r="14" stroke="#B7C3CC" stroke-width="1" fill="#fff"/>
+                <path d="M0 -9 L4 6 L0 3 L-4 6 Z" fill="#16232C"/>
+                <text y="-18" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="10" fill="#475763">N</text>
+              </g>
+              <!-- scale bar -->
+              <g transform="translate(24 332)">
+                <path d="M0 0 h120" stroke="#16232C" stroke-width="1.5"/>
+                <path d="M0 -4 v8 M30 -3 v6 M60 -4 v8 M90 -3 v6 M120 -4 v8" stroke="#16232C" stroke-width="1"/>
+                <text x="130" y="4" font-family="IBM Plex Mono,monospace" font-size="10" fill="#475763">0 — 30 m</text>
+              </g>
+            </svg>
+            <figcaption class="hero-fig-cap"><span>PLAN DE AMPLASAMENT</span><span>SC. 1:500</span></figcaption>
+          </figure>
+        </div>
+        <div class="data-strip">
+          <div class="cell"><span class="badge-dot"></span><span class="lbl lbl-strong">Autorizat ANCPI</span></div>
+          <div class="cell"><span class="num">25+</span><span class="lbl">ani experiență</span></div>
+          <div class="cell"><span class="num">1052+</span><span class="lbl">proiecte finalizate</span></div>
         </div>
       </div>
     </section>
-    <!-- Cool Facts Area -->
-    <div class="cool-facts-wrapper pt-120 pb-120" id="stats">
+
+    <!-- ============ PATH BAND ============ -->
+    <section class="section sect-paths">
       <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-12 col-sm-10 col-md-9 col-lg-8">
-            <div class="section-heading text-center">
-              <h2>Peste<span> 1052</span> proiecte finalizate cu succes</h2>
-            </div>
-          </div>
+        <div class="section-head">
+          <h2 class="h2-s">Cu ce vă putem ajuta?</h2>
+        </div>
+        <div class="paths">
+          <a class="path" href="servicii/cadastru-si-intabulare/"><span class="idx">01</span><span class="txt">Sunt proprietar de teren sau casă</span><svg class="arr" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><use href="#i-arr"/></svg></a>
+          <a class="path" href="fonduri-europene/"><span class="idx">02</span><span class="txt">Am un proiect cu fonduri europene</span><svg class="arr" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><use href="#i-arr"/></svg></a>
+          <a class="path" href="parcuri-fotovoltaice/"><span class="idx">03</span><span class="txt">Dezvolt un parc fotovoltaic</span><svg class="arr" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><use href="#i-arr"/></svg></a>
         </div>
       </div>
+    </section>
+
+    <!-- ============ STATS BAND ============ -->
+    <section class="section stats" id="stats">
       <div class="container">
-        <div class="row g-4 justify-content-center">
-          <!-- Single Cool Facts -->
-          <div class="col-6 col-sm-4">
-            <div class="single-cool-fact">
-              <h2><span class="counter">1052</span>+</h2>
-              <h6 class="mb-0">Total proiecte</h6>
-            </div>
-          </div>
-          <!-- Single Cool Facts -->
-          <div class="col-6 col-sm-4">
-            <div class="single-cool-fact">
-              <h2><span class="counter">25</span>+</h2>
-              <h6 class="mb-0">Ani experiență în domeniu</h6>
-            </div>
-          </div>
-          <!-- Single Cool Facts -->
-          <div class="col-6 col-sm-4">
-            <div class="single-cool-fact">
-              <h2><span class="counter">2681</span>+</h2>
-              <h6 class="mb-0">Colaborări</h6>
-            </div>
-          </div>
+        <p class="overline">Rezultate</p>
+        <h2>Peste <em>1052</em> proiecte finalizate cu succes</h2>
+        <div class="stats-grid">
+          <div class="stat"><div class="val">1052<sup>+</sup></div><div class="lbl">Total proiecte</div></div>
+          <div class="stat"><div class="val">25<sup>+</sup></div><div class="lbl">Ani experiență în domeniu</div></div>
+          <div class="stat"><div class="val">2681<sup>+</sup></div><div class="lbl">Colaborări</div></div>
         </div>
       </div>
-    </div>
-    <!-- About Area -->
-    <div class="about-area pt-120 pb-120" id="services">
+    </section>
+
+    <!-- ============ SERVICES ============ -->
+    <section class="section" id="services">
       <div class="container">
-        <div class="about-content">
-          <div class="row g-5 g-lg-4">
-            <!-- Single About Area-->
-            <div class="col-12 col-sm-6 col-lg-3">
-              <div class="single-about-item text-center">
-                <div class="icon mx-auto mb-4"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 10.5 12 3l9 7.5"></path><path d="M5 9.5V21h14V9.5"></path><path d="M10 21v-6h4v6"></path></svg></div>
-                <h5 class="mb-3">Întabulare imobile și construcții</h5>
-                <p class="mb-0">Terenuri intravilane, extravilane, constructii noi/existente, Extinderi, Radiere construcții.</p>
-              </div>
-            </div>
-            <!-- Single About Area-->
-            <div class="col-12 col-sm-6 col-lg-3">
-              <div class="single-about-item text-center">
-                <div class="icon mx-auto mb-4"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 2.5h8.5L19 7v14.5H6z"></path><path d="M14.5 2.5V7H19"></path><path d="M9 12h7M9 15.5h7M9 8.5h2.5"></path></svg></div>
-                <h5 class="mb-3">Planuri topografice, Autorizatii de Construire, PUD, PUZ, PUG</h5>
-                <p class="mb-0">Dezmembrari si alipiri imobile, Certificat de Urbanism, Apartamentari/Re-apartamentari.</p>
-              </div>
-            </div>
-            <!-- Single About Area-->
-            <div class="col-12 col-sm-6 col-lg-3">
-              <div class="single-about-item text-center">
-                <div class="icon mx-auto mb-4"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12a9 9 0 1 1-2.64-6.36"></path><path d="M21 3v6h-6"></path></svg></div>
-                <h5 class="mb-3">Actualizare date carte funciară</h5>
-                <p class="mb-0">Rectificări suprafețe, Schimbări destinații, Schimbări categorii folosință.</p>
-              </div>
-            </div>
-            <!-- Single About Area-->
-            <div class="col-12 col-sm-6 col-lg-3">
-              <div class="single-about-item text-center">
-                <div class="icon mx-auto mb-4"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="4" y="2.5" width="16" height="19" rx="2"></rect><path d="M8 7h8M8 10.5h8"></path><circle cx="12" cy="15.5" r="2.25"></circle><path d="M10.5 17.5 9.5 21l2.5-1.25L14.5 21l-1-3.5"></path></svg></div>
-                <h5 class="mb-3">Documentatii</h5>
-                <p class="mb-0">Rapoarte expertiză, Dobandire drept proprietate, Certificate energetice.</p>
-              </div>
-            </div>
+        <div class="section-head">
+          <p class="overline">Servicii</p>
+          <h2>Servicii de cadastru și topografie</h2>
+        </div>
+        <div class="svc-grid">
+          <div class="svc">
+            <span class="legend-cell">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M3 21h18M5 21V10l7-6 7 6v11"/><path d="M9.5 21v-6h5v6"/></svg>
+            </span>
+            <h3>Întabulare imobile și construcții</h3>
+            <p>Terenuri intravilane, extravilane, constructii noi/existente, Extinderi, Radiere construcții.</p>
           </div>
+          <div class="svc">
+            <span class="legend-cell">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><rect x="3.5" y="3.5" width="17" height="17" rx="1"/><path d="M7.5 16.5 10 9l4 5 2.5-6.5"/><circle cx="7.5" cy="16.5" r="1.3" fill="currentColor" stroke="none"/><circle cx="16.5" cy="7.5" r="1.3" fill="currentColor" stroke="none"/></svg>
+            </span>
+            <h3>Planuri topografice, Autorizatii de Construire, PUD, PUZ, PUG</h3>
+            <p>Dezmembrari si alipiri imobile, Certificat de Urbanism, Apartamentari/Re-apartamentari.</p>
+          </div>
+          <div class="svc">
+            <span class="legend-cell">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M20 11a8 8 0 0 0-14.9-3M4 13a8 8 0 0 0 14.9 3"/><path d="M5 4v4h4M19 20v-4h-4"/></svg>
+            </span>
+            <h3>Actualizare date carte funciară</h3>
+            <p>Rectificări suprafețe, Schimbări destinații, Schimbări categorii folosință.</p>
+          </div>
+          <div class="svc">
+            <span class="legend-cell">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M7 3h8l4 4v14H7z"/><path d="M15 3v4h4M10.5 12h5M10.5 16h5"/><path d="M4 7v14h11" opacity=".45"/></svg>
+            </span>
+            <h3>Documentatii</h3>
+            <p>Rapoarte expertiză, Dobandire drept proprietate, Certificate energetice.</p>
+          </div>
+        </div>
+
+        <div class="panel-grid">
+          <details class="panel" data-mob open>
+            <summary><h3>Topografie inginereasca</h3><span class="count">20 poziții</span></summary>
+            <ul>
+              <li>realizarea releveului topografic</li>
+              <li>trasări de limite de proprietate</li>
+              <li>trasarea în teren a proiectelor inginerești</li>
+              <li>urmărirea comportării în timp a terenurilor și construcțiilor</li>
+              <li>verificarea topografica privind executia corecta a constructiilor de orice natura</li>
+              <li>realizarea calculelor de volumetrie</li>
+              <li>Trasarea limitei pentru săpătură</li>
+              <li>Trasare poziție proiectată piloți</li>
+              <li>Trasare poziție proiectată pereți mulați</li>
+              <li>Trasarea axelor din proiect pentru fiecare nivel</li>
+              <li>Trasarea cotei 0 și a altor cote din proiect</li>
+              <li>Trasare cote și poziție cofraje</li>
+              <li>Poziționare și verificare verticalitate macarale și alte echipamnte de lucru</li>
+              <li>Verificări zilnice ale elementelor executate (armături, cofraje, stâlpi, diafragme)</li>
+              <li>Trasarea cotelor pentru beton egalizare</li>
+              <li>Poziționare armătura și plăcute metalice</li>
+              <li>Poziționare și urmărire verticalitate pentru stâlpi metalici sau din beton</li>
+              <li>Poziționare grinzi și verificare geometrie structură</li>
+              <li>Calculul volumelor de săpătură / umplutură (volume de terasamente)</li>
+              <li>GPS – ridicări și trasări de puncte</li>
+            </ul>
+          </details>
+          <details class="panel" data-mob open>
+            <summary><h3>Avize tehnice</h3><span class="count">18 poziții</span></summary>
+            <ul>
+              <li>Planuri de situație pentru obținerea autorizației de construcție si a certificatului de urbanism</li>
+              <li>Proiect pentru autorizarea executarea lucrărilor de construire(PAC)</li>
+              <li>Plan urbanistic zonal(PUZ), Plan urbanistic de detaliu(PUD), Plan urbanistic general(PUG)</li>
+              <li>Ridicări de rețele edilitare, drumuri, suprafețe de teren și clădiri civile, agricole și industriale</li>
+              <li>Certificate energetice pentru locuințe, spații comerciale și industriale</li>
+              <li>Obținere certificat de urbanism pentru dezmembrare/alipire</li>
+              <li>Obţinere adeverinţe primărie</li>
+              <li>Obținere Certificat edificare construcții</li>
+              <li>Realizare Certificat de performanță energetică</li>
+              <li>Obținere Certificat de Atestare Fiscală</li>
+              <li>Obținere Adeverintă/Certificat de număr poștal</li>
+              <li>Obținere copii diverse, documente emise de primării, notariate, instanțe etc.</li>
+              <li>Obținere planuri încadrare în zonă</li>
+              <li>Obținere extrase plan cadastral pe ortofotoplan</li>
+              <li>Obținere extrase de carte funciară</li>
+              <li>Obținere copii certificate din arhivă cadastru/carte funciară</li>
+              <li>Obținere certificat de sarcini</li>
+              <li>Obținere confirmare existentă carte funciară</li>
+            </ul>
+          </details>
+          <details class="panel" data-mob open>
+            <summary><h3>Cadastru si intabulare</h3><span class="count">14 poziții</span></summary>
+            <ul>
+              <li>intabulări titlu de proprietate</li>
+              <li>Intabulare garsoniera, apartament, casa</li>
+              <li>Intabulare teren intravilan si extravilan cu sau fara constructii</li>
+              <li>Intabulare constructie noua</li>
+              <li>Dezmembrare teren</li>
+              <li>Alipire(comasare) teren</li>
+              <li>Actualizare/rectificare cadastru</li>
+              <li>Ieșiri din indiviziune</li>
+              <li>Modificarea limitei de proprietate</li>
+              <li>Modificarea suprafetei imobilului</li>
+              <li>Expertize extrajudiciare și notări de sentințe</li>
+              <li>Obtinere extras de carte funciara</li>
+              <li>Obtinere duplicat cadastru pierdut</li>
+              <li>Ieșiri din circuitul agricol</li>
+            </ul>
+          </details>
+          <details class="panel" data-mob open>
+            <summary><h3>Servicii OCPI</h3><span class="count">15 poziții</span></summary>
+            <ul>
+              <li>Extras de Carte Funciară</li>
+              <li>Extras de Plan Cadastral</li>
+              <li>Extras de Carte Funciară Colectivă</li>
+              <li>Identificare imobile după proprietar</li>
+              <li>Identificare imobil după adresă</li>
+              <li>Copie Plan Încadrare</li>
+              <li>Copie Plan Cadastral</li>
+              <li>Copie certificată din arhiva OCPI</li>
+              <li>Copie inventar de coordonate Stereo 70</li>
+              <li>Copie Carte Funciară (in extenso)</li>
+              <li>Copie Intabulare</li>
+              <li>Copie Contract Vânzare Cumpărare</li>
+              <li>Plan de amplasament și delimitare</li>
+              <li>Copie după Releveu</li>
+              <li>Certificat de sarcini</li>
+            </ul>
+          </details>
         </div>
       </div>
-    </div>
-    <!-- About Area -->
-    <div class="about-area pb-120">
+    </section>
+
+    <!-- ============ REVIEWS ============ -->
+    <section class="section sect-alt" id="reviews">
       <div class="container">
-        <div class="row align-items-center justify-content-between g-5">
-          <!-- About Content Area -->
-          <div class="col-12">
-            <div class="about-content">
-              <div class="row g-4 g-xl-5">
-                <!-- Single About Area -->
-                <div class="col-12 col-sm-6">
-                  <div class="card about-card">
-                    <div class="card-body">
-                      <h5 class="mb-3">Topografie inginereasca</h5>
-                      <details class="d-md-open" open>
-                        <summary>Vezi lista completă</summary>
-                        <ul class="mb-0">
-                          <li>realizarea releveului topografic</li>
-                          <li>trasări de limite de proprietate</li>
-                          <li>trasarea în teren a proiectelor inginerești</li>
-                          <li>urmărirea comportării în timp a terenurilor și construcțiilor</li>
-                          <li>verificarea topografica privind executia corecta a constructiilor de orice natura</li>
-                          <li>realizarea calculelor de volumetrie</li>
-                          <li>Trasarea limitei pentru săpătură</li>
-                          <li>Trasare poziție proiectată piloți</li>
-                          <li>Trasare poziție proiectată pereți mulați</li>
-                          <li>Trasarea axelor din proiect pentru fiecare nivel</li>
-                          <li>Trasarea cotei 0 și a altor cote din proiect</li>
-                          <li>Trasare cote și poziție cofraje</li>
-                          <li>Poziționare și verificare verticalitate macarale și alte echipamnte de lucru</li>
-                          <li>Verificări zilnice ale elementelor executate (armături, cofraje, stâlpi, diafragme)</li>
-                          <li>Trasarea cotelor pentru beton egalizare</li>
-                          <li>Poziționare armătura și plăcute metalice</li>
-                          <li>Poziționare și urmărire verticalitate pentru stâlpi metalici sau din beton</li>
-                          <li>Poziționare grinzi și verificare geometrie structură</li>
-                          <li>Calculul volumelor de săpătură / umplutură (volume de terasamente)</li>
-                          <li>GPS – ridicări și trasări de puncte</li>
-                        </ul>
-                      </details>
-                    </div>
-                  </div>
-                </div>
-                <!-- Single About Area-->
-                <div class="col-12 col-sm-6">
-                  <div class="card about-card">
-                    <div class="card-body">
-                      <h5 class="mb-3">Avize tehnice</h5>
-                      <details class="d-md-open" open>
-                        <summary>Vezi lista completă</summary>
-                        <ul class="mb-0">
-                          <li>Planuri de situație pentru obținerea autorizației de construcție si a certificatului de urbanism</li>
-                          <li>Proiect pentru autorizarea executarea lucrărilor de construire(PAC)</li>
-                          <li>Plan urbanistic zonal(PUZ), Plan urbanistic de detaliu(PUD), Plan urbanistic general(PUG)</li>
-                          <li>Ridicări de rețele edilitare, drumuri, suprafețe de teren și clădiri civile, agricole și industriale</li>
-                          <li>Certificate energetice pentru locuințe, spații comerciale și industriale</li>
-                          <li>Obținere certificat de urbanism pentru dezmembrare/alipire</li>
-                          <li>Obţinere adeverinţe primărie</li>
-                          <li>Obținere Certificat edificare construcții</li>
-                          <li>Realizare Certificat de performanță energetică</li>
-                          <li>Obținere Certificat de Atestare Fiscală</li>
-                          <li>Obținere Adeverintă/Certificat de număr poștal</li>
-                          <li>Obținere copii diverse, documente emise de primării, notariate, instanțe etc.</li>
-                          <li>Obținere planuri încadrare în zonă</li>
-                          <li>Obținere extrase plan cadastral pe ortofotoplan</li>
-                          <li>Obținere extrase de carte funciară</li>
-                          <li>Obținere copii certificate din arhivă cadastru/carte funciară</li>
-                          <li>Obținere certificat de sarcini</li>
-                          <li>Obținere confirmare existentă carte funciară</li>
-                        </ul>
-                      </details>
-                    </div>
-                  </div>
-                </div>
-                <!-- Single About Area-->
-                <div class="col-12 col-sm-6">
-                  <div class="card about-card">
-                    <div class="card-body">
-                      <h5 class="mb-3">Cadastru si intabulare</h5>
-                      <details class="d-md-open" open>
-                        <summary>Vezi lista completă</summary>
-                        <ul class="mb-0">
-                          <li>intabulări titlu de proprietate</li>
-                          <li>Intabulare garsoniera, apartament, casa</li>
-                          <li>Intabulare teren intravilan si extravilan cu sau fara constructii</li>
-                          <li>Intabulare constructie noua</li>
-                          <li>Dezmembrare teren</li>
-                          <li>Alipire(comasare) teren</li>
-                          <li>Actualizare/rectificare cadastru</li>
-                          <li>Ieșiri din indiviziune</li>
-                          <li>Modificarea limitei de proprietate</li>
-                          <li>Modificarea suprafetei imobilului</li>
-                          <li>Expertize extrajudiciare și notări de sentințe</li>
-                          <li>Obtinere extras de carte funciara</li>
-                          <li>Obtinere duplicat cadastru pierdut</li>
-                          <li>Ieșiri din circuitul agricol</li>
-                        </ul>
-                      </details>
-                    </div>
-                  </div>
-                </div>
-                <!-- Single About Area-->
-                <div class="col-12 col-sm-6">
-                  <div class="card about-card">
-                    <div class="card-body">
-                      <h5 class="mb-3">Servicii OCPI</h5>
-                      <details class="d-md-open" open>
-                        <summary>Vezi lista completă</summary>
-                        <ul class="mb-0">
-                          <li>Extras de Carte Funciară</li>
-                          <li>Extras de Plan Cadastral</li>
-                          <li>Extras de Carte Funciară Colectivă</li>
-                          <li>Identificare imobile după proprietar</li>
-                          <li>Identificare imobil după adresă</li>
-                          <li>Copie Plan Încadrare</li>
-                          <li>Copie Plan Cadastral</li>
-                          <li>Copie certificată din arhiva OCPI</li>
-                          <li>Copie inventar de coordonate Stereo 70</li>
-                          <li>Copie Carte Funciară (in extenso)</li>
-                          <li>Copie Intabulare</li>
-                          <li>Copie Contract Vânzare Cumpărare</li>
-                          <li>Plan de amplasament și delimitare</li>
-                          <li>Copie după Releveu</li>
-                          <li>Certificat de sarcini</li>
-                        </ul>
-                      </details>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+        <div class="section-head">
+          <p class="overline">Recenzii</p>
+          <h2 class="h2-narrow">Citiți câteva recenzii de la clienții noștri dragi despre munca noastră</h2>
+          <p class="lead">Vă oferim serviciile noastre cu profesionalism și implicare. Nu ezitați să luați legătura cu noi prin orice mijloace.</p>
         </div>
-      </div>
-    </div>
-    <!-- Client Feedback Area-->
-    <div class="client-feedback-area bg-gray pt-120 pb-120" id="reviews">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-12 col-sm-9 col-md-8 col-lg-7">
-            <div class="section-heading text-center">
-              <h6>Recenzii</h6>
-              <h2>Citiți câteva recenzii de la clienții noștri dragi despre munca noastră</h2>
-              <p>Vă oferim serviciile noastre cu profesionalism și implicare. Nu ezitați să luați legătura cu noi prin orice mijloace.</p>
-            </div>
-          </div>
+        <div class="rev-grid">
+          <article class="rev">
+            <div class="stars" aria-label="5 din 5 stele"><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg></div>
+            <p>Recomand, super profesionisti, in sfarsit am terminat odata cu actele. Excelent si pe partea de comunicare cu clientul!</p>
+            <div class="who"><span class="name">Alexandru Oroian</span><span class="role">Client</span></div>
+          </article>
+          <article class="rev">
+            <div class="stars" aria-label="5 din 5 stele"><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg></div>
+            <p>Pentru proiectul important pe care l-am avut in Aiud, a fost cea mai buna alegere in materie de servicii topografice. Bun profesionist si punct.</p>
+            <div class="who"><span class="name">Valentin Cordova</span><span class="role">Client</span></div>
+          </article>
+          <article class="rev">
+            <div class="stars" aria-label="5 din 5 stele"><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg></div>
+            <p>Echipa perfecta pentru asftel de servicii. M-au ajutat rapid cu acte, iar comunicarea a fost peste asteptari. Multumesc si mult succes in continuare!</p>
+            <div class="who"><span class="name">Timea Doru</span><span class="role">Client</span></div>
+          </article>
+          <article class="rev">
+            <div class="stars" aria-label="5 din 5 stele"><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg></div>
+            <p>Promptitudine și calitate duse la extrem!!!</p>
+            <div class="who"><span class="name">Tudor Negru</span><span class="role">Client</span></div>
+          </article>
+          <article class="rev">
+            <div class="stars" aria-label="5 din 5 stele"><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg></div>
+            <p>Prompt, pret pont si lucrare in conformitate cu cerintele. Foarte multumit</p>
+            <div class="who"><span class="name">Dorina Cadar</span><span class="role">Client</span></div>
+          </article>
+          <article class="rev">
+            <div class="stars" aria-label="5 din 5 stele"><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg></div>
+            <p>Amabil, clar în explicații, profesionist.</p>
+            <div class="who"><span class="name">Vlad Toth</span><span class="role">Client</span></div>
+          </article>
         </div>
-      </div>
-      <div class="container">
-        <div class="review-grid">
-          <!-- Review-->
-          <div class="review-card">
-            <div class="client-info d-flex align-items-center">
-              <div class="client-thumb me-2" data-initial="A"></div>
-              <div class="client-name">
-                <h6 class="fz-14 mb-0 text-capital">Alexandru Oroian</h6>
-                <p class="mb-0 fz-12">Client</p>
-              </div>
-            </div>
-            <div class="ratings mt-3 mb-3 fz-14"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-            <p class="mb-0">Recomand, super profesionisti, in sfarsit am terminat odata cu actele. Excelent si pe partea de comunicare cu clientul!</p>
-          </div>
-          <!-- Review-->
-          <div class="review-card">
-            <div class="client-info d-flex align-items-center">
-              <div class="client-thumb me-2" data-initial="V"></div>
-              <div class="client-name">
-                <h6 class="fz-14 mb-0 text-capital">Valentin Cordova</h6>
-                <p class="mb-0 fz-12">Client</p>
-              </div>
-            </div>
-            <div class="ratings mt-3 mb-3 fz-14"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-            <p class="mb-0">Pentru proiectul important pe care l-am avut in Aiud, a fost cea mai buna alegere in materie de servicii topografice. Bun profesionist si punct.</p>
-          </div>
-          <!-- Review-->
-          <div class="review-card">
-            <div class="client-info d-flex align-items-center">
-              <div class="client-thumb me-2" data-initial="T"></div>
-              <div class="client-name">
-                <h6 class="fz-14 mb-0 text-capital">Timea Doru</h6>
-                <p class="mb-0 fz-12">Client</p>
-              </div>
-            </div>
-            <div class="ratings mt-3 mb-3 fz-14"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-            <p class="mb-0">Echipa perfecta pentru asftel de servicii. M-au ajutat rapid cu acte, iar comunicarea a fost peste asteptari. Multumesc si mult succes in continuare!</p>
-          </div>
-          <!-- Review-->
-          <div class="review-card">
-            <div class="client-info d-flex align-items-center">
-              <div class="client-thumb me-2" data-initial="T"></div>
-              <div class="client-name">
-                <h6 class="fz-14 mb-0 text-capital">Tudor Negru</h6>
-                <p class="mb-0 fz-12">Client</p>
-              </div>
-            </div>
-            <div class="ratings mt-3 mb-3 fz-14"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-            <p class="mb-0">Promptitudine și calitate duse la extrem!!!</p>
-          </div>
-          <!-- Review-->
-          <div class="review-card">
-            <div class="client-info d-flex align-items-center">
-              <div class="client-thumb me-2" data-initial="D"></div>
-              <div class="client-name">
-                <h6 class="fz-14 mb-0 text-capital">Dorina Cadar</h6>
-                <p class="mb-0 fz-12">Client</p>
-              </div>
-            </div>
-            <div class="ratings mt-3 mb-3 fz-14"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-            <p class="mb-0">Prompt, pret pont si lucrare in conformitate cu cerintele. Foarte multumit</p>
-          </div>
-          <!-- Review-->
-          <div class="review-card">
-            <div class="client-info d-flex align-items-center">
-              <div class="client-thumb me-2" data-initial="V"></div>
-              <div class="client-name">
-                <h6 class="fz-14 mb-0 text-capital">Vlad Toth</h6>
-                <p class="mb-0 fz-12">Client</p>
-              </div>
-            </div>
-            <div class="ratings mt-3 mb-3 fz-14"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-            <p class="mb-0">Amabil, clar în explicații, profesionist.</p>
-          </div>
-        </div>
-        <details class="reviews-more">
+        <details class="rev-more">
           <summary>Vezi toate recenziile</summary>
-          <div class="review-grid">
-            <!-- Review-->
-            <div class="review-card">
-              <div class="client-info d-flex align-items-center">
-                <div class="client-thumb me-2" data-initial="M"></div>
-                <div class="client-name">
-                  <h6 class="fz-14 mb-0 text-capital">Marius Georgescu</h6>
-                  <p class="mb-0 fz-12">Client</p>
-                </div>
-              </div>
-              <div class="ratings mt-3 mb-3 fz-14"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-              <p class="mb-0">Profesionist! Top!</p>
-            </div>
-            <!-- Review-->
-            <div class="review-card">
-              <div class="client-info d-flex align-items-center">
-                <div class="client-thumb me-2" data-initial="M"></div>
-                <div class="client-name">
-                  <h6 class="fz-14 mb-0 text-capital">Mihaela Beluga</h6>
-                  <p class="mb-0 fz-12">Client</p>
-                </div>
-              </div>
-              <div class="ratings mt-3 mb-3 fz-14"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-              <p class="mb-0">Servicii de cea mai buna calitate. Recomand cu incredere.</p>
-            </div>
-            <!-- Review-->
-            <div class="review-card">
-              <div class="client-info d-flex align-items-center">
-                <div class="client-thumb me-2" data-initial="A"></div>
-                <div class="client-name">
-                  <h6 class="fz-14 mb-0 text-capital">Alin Sporcescu</h6>
-                  <p class="mb-0 fz-12">Client</p>
-                </div>
-              </div>
-              <div class="ratings mt-3 mb-3 fz-14"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-              <p class="mb-0">Super profesioniști!</p>
-            </div>
-            <!-- Review-->
-            <div class="review-card">
-              <div class="client-info d-flex align-items-center">
-                <div class="client-thumb me-2" data-initial="A"></div>
-                <div class="client-name">
-                  <h6 class="fz-14 mb-0 text-capital">Alexandra Salagean</h6>
-                  <p class="mb-0 fz-12">Client</p>
-                </div>
-              </div>
-              <div class="ratings mt-3 mb-3 fz-14"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-              <p class="mb-0">I recommend with confidence. I turned to the services of the Fleser Aurel Expert PFA studio and found professionalism, promptness and adequate advice.</p>
-            </div>
-            <!-- Review-->
-            <div class="review-card">
-              <div class="client-info d-flex align-items-center">
-                <div class="client-thumb me-2" data-initial="T"></div>
-                <div class="client-name">
-                  <h6 class="fz-14 mb-0 text-capital">Tarlea Alessandra</h6>
-                  <p class="mb-0 fz-12">Client</p>
-                </div>
-              </div>
-              <div class="ratings mt-3 mb-3 fz-14"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-              <p class="mb-0">I recommend with confidence!</p>
-            </div>
-            <!-- Review-->
-            <div class="review-card">
-              <div class="client-info d-flex align-items-center">
-                <div class="client-thumb me-2" data-initial="A"></div>
-                <div class="client-name">
-                  <h6 class="fz-14 mb-0 text-capital">Andrei Lucian</h6>
-                  <p class="mb-0 fz-12">Client</p>
-                </div>
-              </div>
-              <div class="ratings mt-3 mb-3 fz-14"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-              <p class="mb-0">The company stands out for its efficiency, promptness, customer advice and seriousness.</p>
-            </div>
-            <!-- Review-->
-            <div class="review-card">
-              <div class="client-info d-flex align-items-center">
-                <div class="client-thumb me-2" data-initial="I"></div>
-                <div class="client-name">
-                  <h6 class="fz-14 mb-0 text-capital">Ioana Catodea</h6>
-                  <p class="mb-0 fz-12">Client</p>
-                </div>
-              </div>
-              <div class="ratings mt-3 mb-3 fz-14"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-              <p class="mb-0">I RECOMMEND WITH GREAT CONFIDENCE!</p>
-            </div>
-            <!-- Review-->
-            <div class="review-card">
-              <div class="client-info d-flex align-items-center">
-                <div class="client-thumb me-2" data-initial="O"></div>
-                <div class="client-name">
-                  <h6 class="fz-14 mb-0 text-capital">Ovidiu Mandic</h6>
-                  <p class="mb-0 fz-12">Client</p>
-                </div>
-              </div>
-              <div class="ratings mt-3 mb-3 fz-14"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-              <p class="mb-0">Quality services. Seriousness and promptness. Recommended!</p>
-            </div>
-            <!-- Review-->
-            <div class="review-card">
-              <div class="client-info d-flex align-items-center">
-                <div class="client-thumb me-2" data-initial="C"></div>
-                <div class="client-name">
-                  <h6 class="fz-14 mb-0 text-capital">Calin Mustreata</h6>
-                  <p class="mb-0 fz-12">Client</p>
-                </div>
-              </div>
-              <div class="ratings mt-3 mb-3 fz-14"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-              <p class="mb-0">recomand cu drag, printre cei mai profesionisti</p>
-            </div>
-            <!-- Review-->
-            <div class="review-card">
-              <div class="client-info d-flex align-items-center">
-                <div class="client-thumb me-2" data-initial="P"></div>
-                <div class="client-name">
-                  <h6 class="fz-14 mb-0 text-capital">Paul Oniga</h6>
-                  <p class="mb-0 fz-12">Client</p>
-                </div>
-              </div>
-              <div class="ratings mt-3 mb-3 fz-14"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-              <p class="mb-0">Seriozitate și promptitudine. Recomand cu drag.</p>
-            </div>
-            <!-- Review-->
-            <div class="review-card">
-              <div class="client-info d-flex align-items-center">
-                <div class="client-thumb me-2" data-initial="S"></div>
-                <div class="client-name">
-                  <h6 class="fz-14 mb-0 text-capital">Sorina Circo</h6>
-                  <p class="mb-0 fz-12">Client</p>
-                </div>
-              </div>
-              <div class="ratings mt-3 mb-3 fz-14"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-              <p class="mb-0">They helped me quickly with documents, and the communication was above expectations. Thanks and good luck in the future!</p>
-            </div>
-            <!-- Review-->
-            <div class="review-card">
-              <div class="client-info d-flex align-items-center">
-                <div class="client-thumb me-2" data-initial="D"></div>
-                <div class="client-name">
-                  <h6 class="fz-14 mb-0 text-capital">Doru Florea</h6>
-                  <p class="mb-0 fz-12">Client</p>
-                </div>
-              </div>
-              <div class="ratings mt-3 mb-3 fz-14"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-              <p class="mb-0">Un Profesionist!! Recomand!!</p>
-            </div>
-            <!-- Review-->
-            <div class="review-card">
-              <div class="client-info d-flex align-items-center">
-                <div class="client-thumb me-2" data-initial="D"></div>
-                <div class="client-name">
-                  <h6 class="fz-14 mb-0 text-capital">Dionis Jimborea</h6>
-                  <p class="mb-0 fz-12">Client</p>
-                </div>
-              </div>
-              <div class="ratings mt-3 mb-3 fz-14"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-              <p class="mb-0">Colaborare excelentă,recomand!</p>
-            </div>
+          <div class="rev-grid">
+            <article class="rev">
+              <div class="stars" aria-label="5 din 5 stele"><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg></div>
+              <p>Profesionist! Top!</p>
+              <div class="who"><span class="name">Marius Georgescu</span><span class="role">Client</span></div>
+            </article>
+            <article class="rev">
+              <div class="stars" aria-label="5 din 5 stele"><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg></div>
+              <p>Servicii de cea mai buna calitate. Recomand cu incredere.</p>
+              <div class="who"><span class="name">Mihaela Beluga</span><span class="role">Client</span></div>
+            </article>
+            <article class="rev">
+              <div class="stars" aria-label="5 din 5 stele"><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg></div>
+              <p>Super profesioniști!</p>
+              <div class="who"><span class="name">Alin Sporcescu</span><span class="role">Client</span></div>
+            </article>
+            <article class="rev">
+              <div class="stars" aria-label="5 din 5 stele"><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg></div>
+              <p>I recommend with confidence. I turned to the services of the Fleser Aurel Expert PFA studio and found professionalism, promptness and adequate advice.</p>
+              <div class="who"><span class="name">Alexandra Salagean</span><span class="role">Client</span></div>
+            </article>
+            <article class="rev">
+              <div class="stars" aria-label="5 din 5 stele"><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg></div>
+              <p>I recommend with confidence!</p>
+              <div class="who"><span class="name">Tarlea Alessandra</span><span class="role">Client</span></div>
+            </article>
+            <article class="rev">
+              <div class="stars" aria-label="5 din 5 stele"><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg></div>
+              <p>The company stands out for its efficiency, promptness, customer advice and seriousness.</p>
+              <div class="who"><span class="name">Andrei Lucian</span><span class="role">Client</span></div>
+            </article>
+            <article class="rev">
+              <div class="stars" aria-label="5 din 5 stele"><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg></div>
+              <p>I RECOMMEND WITH GREAT CONFIDENCE!</p>
+              <div class="who"><span class="name">Ioana Catodea</span><span class="role">Client</span></div>
+            </article>
+            <article class="rev">
+              <div class="stars" aria-label="5 din 5 stele"><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg></div>
+              <p>Quality services. Seriousness and promptness. Recommended!</p>
+              <div class="who"><span class="name">Ovidiu Mandic</span><span class="role">Client</span></div>
+            </article>
+            <article class="rev">
+              <div class="stars" aria-label="5 din 5 stele"><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg></div>
+              <p>recomand cu drag, printre cei mai profesionisti</p>
+              <div class="who"><span class="name">Calin Mustreata</span><span class="role">Client</span></div>
+            </article>
+            <article class="rev">
+              <div class="stars" aria-label="5 din 5 stele"><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg></div>
+              <p>Seriozitate și promptitudine. Recomand cu drag.</p>
+              <div class="who"><span class="name">Paul Oniga</span><span class="role">Client</span></div>
+            </article>
+            <article class="rev">
+              <div class="stars" aria-label="5 din 5 stele"><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg></div>
+              <p>They helped me quickly with documents, and the communication was above expectations. Thanks and good luck in the future!</p>
+              <div class="who"><span class="name">Sorina Circo</span><span class="role">Client</span></div>
+            </article>
+            <article class="rev">
+              <div class="stars" aria-label="5 din 5 stele"><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg></div>
+              <p>Un Profesionist!! Recomand!!</p>
+              <div class="who"><span class="name">Doru Florea</span><span class="role">Client</span></div>
+            </article>
+            <article class="rev">
+              <div class="stars" aria-label="5 din 5 stele"><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg><svg fill="currentColor" aria-hidden="true"><use href="#i-star"/></svg></div>
+              <p>Colaborare excelentă,recomand!</p>
+              <div class="who"><span class="name">Dionis Jimborea</span><span class="role">Client</span></div>
+            </article>
           </div>
         </details>
       </div>
-    </div>
-    <!-- Zone de lucru Area-->
-    <div class="about-area pt-120 pb-120" id="zone">
+    </section>
+
+    <!-- ============ ZONES ============ -->
+    <section class="section" id="zone">
       <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-12 col-sm-10 col-md-9 col-lg-8">
-            <div class="section-heading text-center">
-              <h2>Zone de lucru</h2>
-              <p>Acoperim județul Alba în întregime și localitățile apropiate din județele învecinate. Alege județul și găsește pagina serviciului pentru localitatea ta.</p>
-            </div>
-          </div>
+        <div class="section-head">
+          <p class="overline">Zone de lucru</p>
+          <h2>Zone de lucru</h2>
+          <p class="lead">Acoperim județul Alba în întregime și localitățile apropiate din județele învecinate. Alege județul și găsește pagina serviciului pentru localitatea ta.</p>
         </div>
-        <div class="row g-4 justify-content-center text-center">
-          <div class="col-6 col-sm-4 col-lg-2"><a class="btn btn-outline-primary w-100" href="zone/alba/">Alba</a></div>
-          <div class="col-6 col-sm-4 col-lg-2"><a class="btn btn-outline-primary w-100" href="zone/cluj/">Cluj</a></div>
-          <div class="col-6 col-sm-4 col-lg-2"><a class="btn btn-outline-primary w-100" href="zone/mures/">Mureș</a></div>
-          <div class="col-6 col-sm-4 col-lg-2"><a class="btn btn-outline-primary w-100" href="zone/sibiu/">Sibiu</a></div>
-          <div class="col-6 col-sm-4 col-lg-2"><a class="btn btn-outline-primary w-100" href="zone/hunedoara/">Hunedoara</a></div>
+        <div class="zone-chips">
+          <a href="zone/alba/">Alba</a>
+          <a href="zone/cluj/">Cluj</a>
+          <a href="zone/mures/">Mureș</a>
+          <a href="zone/sibiu/">Sibiu</a>
+          <a href="zone/hunedoara/">Hunedoara</a>
         </div>
-        <div class="row justify-content-center mt-4">
-          <div class="col-12 col-md-8 text-center">
-            <p class="mb-0"><a href="ghid/">Ghiduri practice</a> · <a href="dictionar/">Dicționar de cadastru și topografie</a> · <a href="fonduri-europene/">Documentație pentru fonduri europene</a> · <a href="parcuri-fotovoltaice/">Topografie pentru parcuri fotovoltaice</a></p>
-          </div>
+        <div class="zone-links">
+          <a href="ghid/">Ghiduri practice</a>
+          <a href="dictionar/">Dicționar de cadastru și topografie</a>
+          <a href="fonduri-europene/">Documentație pentru fonduri europene</a>
+          <a href="parcuri-fotovoltaice/">Topografie pentru parcuri fotovoltaice</a>
         </div>
       </div>
-    </div>
-    <!-- Contact Area-->
-    <div class="saasbox-contact-us-area pt-120 pb-120 d-block" id="contact">
+    </section>
+
+    <!-- ============ CONTACT ============ -->
+    <section class="section sect-alt sect-contact" id="contact">
       <div class="container">
-        <div class="row g-4 justify-content-between">
-          <!-- Contact Side Info-->
-          <div class="col-12 col-lg-5 col-xl-4">
-            <div class="contact-side-info mb-4 mb-md-0">
-              <h2 class="h1 mb-3">Trimite-ne <br> un mesaj!</h2>
-              <p class="mb-4">Scrie-ne sau sună-ne. Vă vom răspunde cât mai curând posibil. Poate dura până la 24 de ore.</p>
-              <div class="contact-mini-card-wrapper">
-                <!-- Contact Mini Card-->
-                <div class="contact-mini-card">
-                  <div class="contact-mini-card-icon"><i class="bi bi-envelope"></i></div>
-                  <p><a href="mailto:aurelfleser@yahoo.com">aurelfleser@yahoo.com</a></p>
-                </div>
-                <!-- Contact Mini Card-->
-                <div class="contact-mini-card">
-                  <div class="contact-mini-card-icon"><i class="bi bi-headphones"></i></div>
-                  <p><a href="tel:0741 478 540">0741 478 540</a></p>
-                </div>
-                <!-- Contact Mini Card-->
-                <div class="contact-mini-card">
-                  <div class="contact-mini-card-icon"><i class="bi bi-clock"></i></div>
-                  <p>Disponibili Luni-Vineri, între 9:00 - 17:00</p>
-                </div>
+        <div class="contact-grid">
+          <div>
+            <p class="overline">Contact</p>
+            <h2>Trimite-ne un&nbsp;mesaj!</h2>
+            <p class="lead">Scrie-ne sau sună-ne. Vă vom răspunde cât mai curând posibil. Poate dura până la 24 de ore.</p>
+            <div class="c-rows">
+              <div class="c-row">
+                <svg class="ic" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="1"/><path d="m3 7 9 6 9-6"/></svg>
+                <a href="mailto:aurelfleser@yahoo.com">aurelfleser@yahoo.com</a>
+              </div>
+              <div class="c-row">
+                <svg class="ic" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><use href="#i-tel"/></svg>
+                <a href="tel:0741478540">0741 478 540</a>
+              </div>
+              <div class="c-row">
+                <svg class="ic" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="12" cy="12" r="8.5"/><path d="M12 7v5l3.5 2"/></svg>
+                <span class="sub">Disponibili Luni-Vineri, între 9:00 - 17:00</span>
               </div>
             </div>
           </div>
-          <!-- Contact Form-->
-          <div class="col-12 col-lg-7">
-            <div class="contact-form">
-              <div class="row">
-                <div class="col-12">
-                  <label class="form-label" for="message">Scurtă descriere a situației:</label>
-                  <textarea class="form-control mb-30" id="message" rows="5" placeholder="Ex.: Am un teren în Aiud pe care vreau să-l intabulez."></textarea>
-                </div>
-                <div class="col-12 text-center">
-                  <a class="btn btn-wa w-100" id="waSend" href="https://api.whatsapp.com/send/?phone=40741478540&amp;text=Salut%21%20Doresc%20o%20ofert%C4%83.&amp;type=phone_number&amp;app_absent=0" target="_blank" rel="noopener"><i class="bi bi-whatsapp me-2"></i>Trimite pe WhatsApp</a>
-                  <p class="fz-14 mt-3 mb-0">Mesajul se deschide în WhatsApp — poți atașa acolo și poze cu actele. Fără formulare, fără e-mail.</p>
-                </div>
-              </div>
-              <script>
-                (function () {
-                  var t = document.getElementById('message');
-                  var a = document.getElementById('waSend');
-                  a.addEventListener('click', function () {
-                    var msg = 'Salut! Doresc o ofertă.' + (t.value.trim() ? ' ' + t.value.trim() : '');
-                    a.href = 'https://api.whatsapp.com/send/?phone=40741478540&text=' + encodeURIComponent(msg) + '&type=phone_number&app_absent=0';
-                  });
-                })();
-              </script>
+          <div class="contact-form">
+            <div class="field">
+              <label for="message">Scurtă descriere a situației:</label>
+              <textarea id="message" rows="5" placeholder="Ex.: Am un teren în Aiud pe care vreau să-l intabulez."></textarea>
             </div>
+            <a class="btn btn-wa btn-block" id="waSend" href="https://api.whatsapp.com/send/?phone=40741478540&amp;text=Salut%21%20Doresc%20o%20ofert%C4%83.&amp;type=phone_number&amp;app_absent=0" target="_blank" rel="noopener">
+              <svg width="20" height="20" fill="currentColor" aria-hidden="true"><use href="#i-wa"/></svg>
+              Trimite pe WhatsApp
+            </a>
+            <p class="form-note">Mesajul se deschide în WhatsApp — poți atașa acolo și poze cu actele. Fără formulare, fără e-mail.</p>
           </div>
         </div>
       </div>
+    </section>
+
+    <!-- ============ GOOGLE MAPS ============ -->
+    <div class="maps">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d27372.065394154706!2d23.69070672328658!3d46.326653687869495!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4749578f1113eda7%3A0x79df4f368ffdd9!2sBirou%20particular%20Cadastru%2C%20Topografie%2C%20Releveu%20-%20Trasare%2C%20Intabulare%2C%20Extras%20CF!5e0!3m2!1sen!2sro!4v1665154001276!5m2!1sen!2sro" title="Hartă — Birou Cadastru și Topografie, Aiud" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
-    <!-- Google Maps-->
-    <div class="google-maps-wrapper">
-      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d27372.065394154706!2d23.69070672328658!3d46.326653687869495!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4749578f1113eda7%3A0x79df4f368ffdd9!2sBirou%20particular%20Cadastru%2C%20Topografie%2C%20Releveu%20-%20Trasare%2C%20Intabulare%2C%20Extras%20CF!5e0!3m2!1sen!2sro!4v1665154001276!5m2!1sen!2sro" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-    </div>
-    <!-- Footer Area-->
-    <footer class="footer-area pt-120 mb-50">
+
+    <!-- ============ FOOTER ============ -->
+    <footer class="site-footer">
       <div class="container">
-        <div class="row g-4 g-lg-5">
-          <!-- Footer Widget Area -->
-          <div class="col-12 col-sm-6 col-lg-3">
-            <div class="footer-widget-area"><a class="d-block mb-4" href="index.html"><img src="img/core-img/logo.png" alt=""><span class="footer-wordmark">TOPO<span>EXPERT</span></span></a>
-              <p>Servicii complete de Cadastru, Intabulare, Măsurători terenuri, Relevee și alte servicii topografice pe toată raza județului Alba.</p>
-              <!-- Contact Button-->
-              <div class="mb-4"><a class="btn btn-warning btn-sm" href="index.html#contact">Contact</a></div>
-            </div>
+        <div class="footer-top">
+          <div>
+            <a class="wordmark" href="/" aria-label="Fleser Aurel Expert">
+              <svg class="mark" width="34" height="34" viewBox="0 0 34 34" fill="none" aria-hidden="true">
+                <rect x="1" y="1" width="32" height="32" rx="2" stroke="#E8EEF3" stroke-width="1.5"/>
+                <path d="M17 8 L26 25 H8 Z" stroke="#E8EEF3" stroke-width="1.5" fill="none"/>
+                <circle cx="17" cy="19.5" r="2.4" fill="#25D366"/>
+              </svg>
+              <span class="wm-text">
+                <span class="wm-name">TOPO<span>EXPERT</span></span>
+                <span class="wm-sub">Cadastru · Topografie</span>
+              </span>
+            </a>
+            <p class="footer-about">Servicii complete de Cadastru, Intabulare, Măsurători terenuri, Relevee și alte servicii topografice pe toată raza județului Alba.</p>
+            <p class="f-coord">46.3212° N · 23.7182° E — AIUD, JUD. ALBA</p>
           </div>
-          <!-- Footer Widget Area-->
-          <div class="col-12 col-sm-6 col-lg-3">
-            <div class="footer-widget-area">
-              <h5 class="mb-4">Servicii</h5>
-              <ul class="list-unstyled">
-                <li><a href="servicii/cadastru-si-intabulare/"><i class="bi bi-caret-right"></i>Cadastru și intabulare</a></li>
-                <li><a href="servicii/intabulare-teren/"><i class="bi bi-caret-right"></i>Intabulare teren</a></li>
-                <li><a href="servicii/intabulare-casa-constructie/"><i class="bi bi-caret-right"></i>Intabulare casă</a></li>
-                <li><a href="servicii/intabulare-apartament/"><i class="bi bi-caret-right"></i>Intabulare apartament</a></li>
-                <li><a href="servicii/dezmembrare-alipire/"><i class="bi bi-caret-right"></i>Dezmembrare / alipire</a></li>
-                <li><a href="servicii/plan-topografic/"><i class="bi bi-caret-right"></i>Plan topografic</a></li>
-                <li><a href="servicii/trasare-teren/"><i class="bi bi-caret-right"></i>Trasare teren</a></li>
-                <li><a href="servicii/actualizare-carte-funciara/"><i class="bi bi-caret-right"></i>Actualizare carte funciară</a></li>
-              </ul>
-            </div>
-          </div>
-          <!-- Footer Widget Area-->
-          <div class="col-12 col-sm-6 col-lg-3">
-            <div class="footer-widget-area">
-              <h5 class="mb-4">Zone și resurse</h5>
-              <ul class="list-unstyled">
-                <li><a href="zone/alba/"><i class="bi bi-caret-right"></i>Județul Alba</a></li>
-                <li><a href="zone/cluj/"><i class="bi bi-caret-right"></i>Județul Cluj</a></li>
-                <li><a href="zone/mures/"><i class="bi bi-caret-right"></i>Județul Mureș</a></li>
-                <li><a href="zone/sibiu/"><i class="bi bi-caret-right"></i>Județul Sibiu</a></li>
-                <li><a href="zone/hunedoara/"><i class="bi bi-caret-right"></i>Județul Hunedoara</a></li>
-                <li><a href="ghid/"><i class="bi bi-caret-right"></i>Ghiduri practice</a></li>
-                <li><a href="dictionar/"><i class="bi bi-caret-right"></i>Dicționar de cadastru</a></li>
-                <li><a href="fonduri-europene/"><i class="bi bi-caret-right"></i>Fonduri europene</a></li>
-                <li><a href="parcuri-fotovoltaice/"><i class="bi bi-caret-right"></i>Parcuri fotovoltaice</a></li>
-              </ul>
-            </div>
-          </div>
-          <!-- Footer Widget Area -->
-          <div class="col-12 col-sm-6 col-lg-3">
-            <div class="footer-widget-area">
-              <h5 class="mb-4">Contact</h5>
-              <p class="lh-base mb-3">Fleser Aurel Expert PFA <br> Florilor 1A, Aiud, Alba</p>
-              <p class="mb-0">Suna:<a class="ml-1 footer-text" href="tel:0741 478 540">0741 478 540</a></p>
-              <p class="mb-0">WhatsApp:<a class="ml-1 footer-text" href="https://api.whatsapp.com/send/?phone=40741478540&amp;text=Salut%21%20Doresc%20o%20ofert%C4%83.&amp;type=phone_number&amp;app_absent=0" target="_blank" rel="noopener">0741 478 540</a></p>
-              <p class="mb-0">Email:<a class="ml-1 footer-text" href="mailto:aurelfleser@yahoo.com">aurelfleser@yahoo.com</a></p>
-              <!-- Footer Social Icon-->
-              <div class="footer-social-icon d-flex align-items-center mt-3"><a href="https://www.google.com/maps/place/Birou+particular+Cadastru,+Topografie,+Releveu+-+Trasare,+Intabulare,+Extras+CF/@46.3212173,23.7176085,19z/data=!3m1!4b1!4m5!3m4!1s0x4749578f1113eda7:0x79df4f368ffdd9!8m2!3d46.3212173!4d23.718157" target="_blank" title="Google Maps"><i class="bi bi-google"></i></a></div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="container">
-        <div class="copywrite-wrapper mt-5 rounded d-lg-flex align-items-lg-center justify-content-lg-between">
-          <!-- Copywrite Text-->
-          <div class="copywrite-text text-center text-lg-start mb-3 mb-lg-0 me-lg-4">
-            <p class="mb-0"><span id="websiteYear"></span> &copy;
-              <script type="text/javascript">document.getElementById("websiteYear").innerText = new Date().getFullYear();</script><a href="https://northdan.com/" target="_blank">Northdan</a>.<span class="ml-1">Toate drepturile rezervate</span>
-            </p>
-          </div>
-          <!-- Footer Nav-->
-          <div class="footer-nav mb-3 mb-lg-0">
-            <ul class="mb-0 d-flex flex-wrap justify-content-center list-unstyled">
-              <li><a href="privacy-policy.html" target="_blank">Politică de Confidențialitate</a></li>
-              <li><a href="terms-and-conditions.html" target="_blank">Termeni si condiții</a></li>
+          <div>
+            <p class="f-h">Servicii</p>
+            <ul>
+              <li><a href="/servicii/cadastru-si-intabulare/">Cadastru și intabulare</a></li>
+              <li><a href="/servicii/intabulare-teren/">Intabulare teren</a></li>
+              <li><a href="/servicii/intabulare-casa-constructie/">Intabulare casă / construcție</a></li>
+              <li><a href="/servicii/intabulare-apartament/">Intabulare apartament</a></li>
+              <li><a href="/servicii/dezmembrare-alipire/">Dezmembrare / alipire</a></li>
+              <li><a href="/servicii/plan-topografic/">Plan topografic</a></li>
+              <li><a href="/servicii/trasare-teren/">Trasare teren</a></li>
+              <li><a href="/servicii/actualizare-carte-funciara/">Actualizare carte funciară</a></li>
             </ul>
           </div>
+          <div>
+            <p class="f-h">Zone și resurse</p>
+            <ul>
+              <li><a href="/zone/alba/">Județul Alba</a></li>
+              <li><a href="/zone/cluj/">Județul Cluj</a></li>
+              <li><a href="/zone/mures/">Județul Mureș</a></li>
+              <li><a href="/zone/sibiu/">Județul Sibiu</a></li>
+              <li><a href="/zone/hunedoara/">Județul Hunedoara</a></li>
+              <li><a href="/ghid/">Ghiduri practice</a></li>
+              <li><a href="/dictionar/">Dicționar de cadastru</a></li>
+              <li><a href="/fonduri-europene/">Fonduri europene</a></li>
+              <li><a href="/parcuri-fotovoltaice/">Parcuri fotovoltaice</a></li>
+            </ul>
+          </div>
+          <div>
+            <p class="f-h">Contact</p>
+            <p class="f-nap">
+              <strong>Fleser Aurel Expert PFA</strong><br>
+              Florilor 1A, Aiud, Alba<br><br>
+              Suna: <a href="tel:0741478540">0741 478 540</a><br>
+              WhatsApp: <a href="https://api.whatsapp.com/send/?phone=40741478540&amp;text=Salut!%20Doresc%20o%20ofert%C4%83.&amp;type=phone_number&amp;app_absent=0" target="_blank" rel="noopener">0741 478 540</a><br>
+              Email: <a href="mailto:aurelfleser@yahoo.com">aurelfleser@yahoo.com</a><br>
+              <a href="https://www.google.com/maps/place/Birou+particular+Cadastru,+Topografie,+Releveu+-+Trasare,+Intabulare,+Extras+CF/@46.3212173,23.7176085,19z/data=!3m1!4b1!4m5!3m4!1s0x4749578f1113eda7:0x79df4f368ffdd9!8m2!3d46.3212173!4d23.718157" target="_blank" rel="noopener">Vezi biroul pe Google Maps</a>
+            </p>
+          </div>
+        </div>
+        <div class="footer-bottom">
+          <span><span id="websiteYear"></span> &copy; <a href="https://northdan.com/" target="_blank" rel="noopener">Northdan</a>. Toate drepturile rezervate</span>
+          <span><a href="/privacy-policy.html">Politică de Confidențialitate</a> &nbsp;·&nbsp; <a href="/terms-and-conditions.html">Termeni si condiții</a></span>
         </div>
       </div>
     </footer>
+
     <!-- Cookie Alert Area-->
     <div class="cookiealert">
-      <p>Acest site folosește cookie-uri. Folosim cookie-uri pentru a ne asigura că aveți cea mai bună experiență pe site-ul nostru. Pentru detalii, vă rugăm să verificați<a class="ml-1" href="privacy-policy.html" target="_blank">Politica de Confidențialitate.</a></p>
-      <button class="btn btn-primary btn-sm acceptcookies" type="button" aria-label="Close">Sunt de acord</button>
+      <p>Acest site folosește cookie-uri. Folosim cookie-uri pentru a ne asigura că aveți cea mai bună experiență pe site-ul nostru. Pentru detalii, vă rugăm să verificați<a class="ml-1" href="/privacy-policy.html" target="_blank">Politica de Confidențialitate.</a></p>
+      <button class="btn btn-ink btn-sm acceptcookies" type="button" aria-label="Close">Sunt de acord</button>
     </div>
+
     <!-- Sticky Mobile CTA Bar-->
-    <nav class="mobile-cta-bar" aria-label="Contact rapid">
-      <a href="https://api.whatsapp.com/send/?phone=40741478540&amp;text=Salut%21%20Doresc%20o%20ofert%C4%83.&amp;type=phone_number&amp;app_absent=0" target="_blank" rel="noopener"><i class="bi bi-whatsapp"></i>WhatsApp</a>
-      <a href="tel:0741478540" aria-label="Sună"><i class="bi bi-telephone"></i>0741 478 540</a>
+    <nav class="sticky-bar" aria-label="Contact rapid">
+      <a class="btn btn-wa" href="https://api.whatsapp.com/send/?phone=40741478540&amp;text=Salut%21%20Doresc%20o%20ofert%C4%83.&amp;type=phone_number&amp;app_absent=0" target="_blank" rel="noopener">
+        <svg width="18" height="18" fill="currentColor" aria-hidden="true"><use href="#i-wa"/></svg>
+        WhatsApp
+      </a>
+      <a class="btn btn-ghost" href="tel:0741478540">Sună</a>
     </nav>
-    <!-- Site chrome JS (navbar, dropdowns, cookie alert, details collapse, CTA bar auto-hide)-->
+
+    <!-- Site chrome JS — same patterns as generator/lib/chrome.js (burger → .nav-desktop.show,
+         .nav-toggler → .nav-item.open, cookie, data-mob panel collapse, sticky-bar auto-hide)
+         + homepage-only: waSend widget, footer year -->
     <script>
-      (function(){var n=document.getElementById('saasboxNav'),t=document.querySelector('.navbar-toggler');
-      if(t&&n){t.addEventListener('click',function(){n.classList.toggle('show');t.setAttribute('aria-expanded',n.classList.contains('show'))})}
-      var ds=document.querySelectorAll('li.sb-dropdown');for(var i=0;i<ds.length;i++){(function(li){
-      var g=li.querySelector('.dropdown-toggler'),m=li.querySelector('.sb-dropdown-menu');
-      if(g&&m){g.addEventListener('click',function(){m.style.display=m.style.display==='block'?'none':'block'})}})(ds[i])}
+      (function(){var n=document.getElementById('siteNav'),t=document.querySelector('.burger');
+      if(t&&n){t.addEventListener('click',function(){var o=n.classList.toggle('show');t.setAttribute('aria-expanded',o)})}
+      var ts=document.querySelectorAll('.nav-toggler');for(var i=0;i<ts.length;i++){(function(g){
+      g.addEventListener('click',function(){var o=g.parentNode.classList.toggle('open');g.setAttribute('aria-expanded',o)})})(ts[i])}
       var c=document.querySelector('.cookiealert'),b=document.querySelector('.acceptcookies');
       if(c&&b){if(document.cookie.indexOf('acceptCookies=')<0){c.classList.add('show')}
       b.addEventListener('click',function(){var d=new Date();d.setTime(d.getTime()+31536e6);
       document.cookie='acceptCookies=true;expires='+d.toUTCString()+';path=/';c.classList.remove('show')})}
-      if(window.innerWidth<768){var dd=document.querySelectorAll('details.d-md-open');for(var j=0;j<dd.length;j++){dd[j].removeAttribute('open')}}
-      var bar=document.querySelector('.mobile-cta-bar'),hero=document.querySelector('.welcome-content .cta-whatsapp');
-      if(bar&&hero&&'IntersectionObserver' in window){new IntersectionObserver(function(es){bar.classList.toggle('is-hidden',es[0].isIntersecting)}).observe(hero)}})();
+      if(window.innerWidth<960){var ps=document.querySelectorAll('details.panel[data-mob]');
+      for(var j=0;j<ps.length;j++){ps[j].removeAttribute('open')}}
+      var m=document.getElementById('message'),a=document.getElementById('waSend');
+      if(m&&a){a.addEventListener('click',function(){var msg='Salut! Doresc o ofertă.'+(m.value.trim()?' '+m.value.trim():'');
+      a.href='https://api.whatsapp.com/send/?phone=40741478540&text='+encodeURIComponent(msg)+'&type=phone_number&app_absent=0'})}
+      var mb=document.querySelector('.sticky-bar'),hc=document.querySelector('.cta-row');
+      if(mb&&hc&&'IntersectionObserver' in window){new IntersectionObserver(function(e){
+      mb.classList.toggle('is-hidden',e[0].isIntersecting)}).observe(hc)}
+      var y=document.getElementById('websiteYear');if(y){y.textContent=new Date().getFullYear()}})();
     </script>
   </body>
 </html>

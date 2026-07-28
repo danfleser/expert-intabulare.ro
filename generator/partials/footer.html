@@ -1,60 +1,49 @@
-<!-- Footer Area-->
-<footer class="footer-area pt-120 mb-50">
+<!-- Footer (D1 chrome) -->
+<footer class="site-footer">
   <div class="container">
-    <div class="row g-4 g-lg-5">
-      <!-- Footer Widget Area -->
-      <div class="col-12 col-sm-6 col-lg-3">
-        <div class="footer-widget-area"><a class="d-block mb-4" href="/" aria-label="Fleser Aurel Expert"><span class="footer-wordmark">TOPO<span>EXPERT</span></span></a>
-          <p>Servicii complete de Cadastru, Intabulare, Măsurători terenuri, Relevee și alte servicii topografice pe toată raza județului Alba.</p>
-          <!-- Contact Button-->
-          <div class="mb-4"><a class="btn btn-warning btn-sm" href="/#contact">Contact</a></div>
-        </div>
+    <div class="footer-top">
+      <div>
+        <a class="wordmark" href="/" aria-label="Fleser Aurel Expert">
+          <svg class="mark" width="34" height="34" viewBox="0 0 34 34" fill="none" aria-hidden="true">
+            <rect x="1" y="1" width="32" height="32" rx="2" stroke="#E8EEF3" stroke-width="1.5"/>
+            <path d="M17 8 L26 25 H8 Z" stroke="#E8EEF3" stroke-width="1.5" fill="none"/>
+            <circle cx="17" cy="19.5" r="2.4" fill="#25D366"/>
+          </svg>
+          <span class="wm-text">
+            <span class="wm-name">TOPO<span>EXPERT</span></span>
+            <span class="wm-sub">Cadastru · Topografie</span>
+          </span>
+        </a>
+        <p class="footer-about">Servicii complete de Cadastru, Intabulare, Măsurători terenuri, Relevee și alte servicii topografice pe toată raza județului Alba.</p>
+        <p class="f-coord">{{coordsLine}}</p>
       </div>
-      <!-- Footer Widget Area-->
-      <div class="col-12 col-sm-6 col-lg-3">
-        <div class="footer-widget-area">
-          <h5 class="mb-4">Servicii</h5>
-          <ul class="list-unstyled">
-            {{{footerServiceLinks}}}
-          </ul>
-        </div>
-      </div>
-      <!-- Footer Widget Area-->
-      <div class="col-12 col-sm-6 col-lg-3 mt-0">
-        <div class="footer-widget-area">
-          <h5 class="mb-4">Zone și resurse</h5>
-          <ul class="list-unstyled">
-            {{{footerZoneLinks}}}
-          </ul>
-        </div>
-      </div>
-      <!-- Footer Widget Area -->
-      <div class="col-12 col-sm-6 col-lg-3">
-        <div class="footer-widget-area">
-          <h5 class="mb-4">Contact</h5>
-          <p class="lh-base mb-3">{{napName}} <br> {{napAddress}}</p>
-          <p class="mb-0">Suna:<a class="ml-1 footer-text" href="tel:{{telHref}}">{{telDisplay}}</a></p>
-          <p class="mb-0">WhatsApp:<a class="ml-1 footer-text" href="{{waHrefFooter}}" target="_blank" rel="noopener">{{telDisplay}}</a></p>
-          <p class="mb-0">Email:<span class="ml-1 footer-text">{{napEmail}}</span></p>
-          <!-- Footer Social Icon-->
-          <div class="footer-social-icon d-flex align-items-center mt-3"><a href="{{mapsUrl}}" target="_blank" rel="noopener" title="Google Maps"><i class="bi bi-google"></i></a></div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="container">
-    <div class="copywrite-wrapper mt-5 rounded d-lg-flex align-items-lg-center justify-content-lg-between">
-      <!-- Copywrite Text-->
-      <div class="copywrite-text text-center text-lg-start mb-3 mb-lg-0 me-lg-4">
-        <p class="mb-0">{{year}} &copy; <a href="https://northdan.com/" target="_blank" rel="noopener">Northdan</a>.<span class="ml-1">Toate drepturile rezervate</span></p>
-      </div>
-      <!-- Footer Nav-->
-      <div class="footer-nav mb-3 mb-lg-0">
-        <ul class="mb-0 d-flex flex-wrap justify-content-center list-unstyled">
-          <li><a href="/privacy-policy.html">Politică de Confidențialitate</a></li>
-          <li><a href="/terms-and-conditions.html">Termeni si condiții</a></li>
+      <div>
+        <p class="f-h">Servicii</p>
+        <ul>
+          {{{footerServiceLinks}}}
         </ul>
       </div>
+      <div>
+        <p class="f-h">Zone și resurse</p>
+        <ul>
+          {{{footerZoneLinks}}}
+        </ul>
+      </div>
+      <div>
+        <p class="f-h">Contact</p>
+        <p class="f-nap">
+          <strong>{{napName}}</strong><br>
+          {{napAddress}}<br><br>
+          Suna: <a href="tel:{{telHref}}">{{telDisplay}}</a><br>
+          WhatsApp: <a href="{{waHrefFooter}}" target="_blank" rel="noopener">{{telDisplay}}</a><br>
+          Email: <a href="mailto:{{napEmail}}">{{napEmail}}</a><br>
+          <a href="{{mapsUrl}}" target="_blank" rel="noopener">Vezi biroul pe Google Maps</a>
+        </p>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>{{year}} &copy; <a href="https://northdan.com/" target="_blank" rel="noopener">Northdan</a>. Toate drepturile rezervate</span>
+      <span><a href="/privacy-policy.html">Politică de Confidențialitate</a> &nbsp;·&nbsp; <a href="/terms-and-conditions.html">Termeni si condiții</a></span>
     </div>
   </div>
 </footer>

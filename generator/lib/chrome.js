@@ -1,6 +1,7 @@
 'use strict';
 // Site chrome: header/footer/cookie (RO + EN), breadcrumbs, WhatsApp CTA, sidebar, inline JS.
-// All markup mirrors the live SaasBox theme (docs/index.html) — classes must not drift.
+// All markup follows the D1 Swiss/engineering system (mockup-D1.html is the reference;
+// class contract shared with css/site.css — see spec-redesign-v2.md §4.2/§4.4).
 
 const fs = require('fs');
 const path = require('path');
@@ -14,20 +15,22 @@ function loadPartial(name) {
   return fs.readFileSync(path.join(PARTIALS_DIR, name), 'utf8');
 }
 
-// ~0.8KB, minified by hand. Replaces the theme JS bundle on generated pages:
-// navbar collapse, mobile dropdown togglers, cookie alert (same cookie name as live site),
-// sticky-bar auto-hide while the page-hero CTA is on screen (no IO support → bar stays visible).
+// ~0.8KB, minified by hand. All chrome behavior on generated pages:
+// burger → .nav-desktop.show, submenu togglers → .nav-item.open, cookie alert
+// (same cookie name as live site), FAQ panels collapsed on mobile (<960px),
+// sticky-bar auto-hide while the page-hero CTA is on screen.
 const CHROME_JS =
-  "(function(){var n=document.getElementById('saasboxNav'),t=document.querySelector('.navbar-toggler');" +
-  "if(t&&n){t.addEventListener('click',function(){n.classList.toggle('show');t.setAttribute('aria-expanded',n.classList.contains('show'))})}" +
-  "var ds=document.querySelectorAll('li.sb-dropdown');for(var i=0;i<ds.length;i++){(function(li){" +
-  "var g=li.querySelector('.dropdown-toggler'),m=li.querySelector('.sb-dropdown-menu');" +
-  "if(g&&m){g.addEventListener('click',function(){m.style.display=m.style.display==='block'?'none':'block'})}})(ds[i])}" +
+  "(function(){var n=document.getElementById('siteNav'),t=document.querySelector('.burger');" +
+  "if(t&&n){t.addEventListener('click',function(){var o=n.classList.toggle('show');t.setAttribute('aria-expanded',o)})}" +
+  "var ts=document.querySelectorAll('.nav-toggler');for(var i=0;i<ts.length;i++){(function(g){" +
+  "g.addEventListener('click',function(){var o=g.parentNode.classList.toggle('open');g.setAttribute('aria-expanded',o)})})(ts[i])}" +
   "var c=document.querySelector('.cookiealert'),b=document.querySelector('.acceptcookies');" +
   "if(c&&b){if(document.cookie.indexOf('acceptCookies=')<0){c.classList.add('show')}" +
   "b.addEventListener('click',function(){var d=new Date();d.setTime(d.getTime()+31536e6);" +
   "document.cookie='acceptCookies=true;expires='+d.toUTCString()+';path=/';c.classList.remove('show')})}" +
-  "var mb=document.querySelector('.mobile-cta-bar'),hc=document.querySelector('.page-hero .cta-whatsapp');" +
+  "if(window.innerWidth<960){var ps=document.querySelectorAll('details.panel[data-mob]');" +
+  "for(var j=0;j<ps.length;j++){ps[j].removeAttribute('open')}}" +
+  "var mb=document.querySelector('.sticky-bar'),hc=document.querySelector('.page-hero .cta-whatsapp');" +
   "if(mb&&hc&&'IntersectionObserver'in window){new IntersectionObserver(function(e){" +
   "mb.classList.toggle('is-hidden',e[0].isIntersecting)}).observe(hc)}})();";
 
@@ -75,8 +78,8 @@ function headerRo(site, { enHref, namespace, topic, literalMessage }) {
 
 function headerEn(site, { roHref, namespace, topic, literalMessage }) {
   const enMenuItems = site.en.navItems
-    .map((it) => `<li><a href="${escAttr(it.href)}">${escHtml(it.label)}</a></li>`)
-    .join('');
+    .map((it) => `<a href="${escAttr(it.href)}">${escHtml(it.label)}</a>`)
+    .join('\n      ');
   return renderTemplate(loadPartial('header-en.html'), {
     enMenuItems,
     roHref: roHref || '/',
@@ -84,23 +87,30 @@ function headerEn(site, { roHref, namespace, topic, literalMessage }) {
   });
 }
 
+/** Mono GPS coordinates line for the footer — "a surveyor signs with coordinates" (D1 §3). */
+function coordsLine(site) {
+  const { lat, lon, city, county } = site.nap;
+  return `${lat.toFixed(4)}° N · ${lon.toFixed(4)}° E — ${city.toUpperCase()}, JUD. ${county.toUpperCase()}`;
+}
+
 function footerRo(site) {
   const bySlug = new Map(site.nav.services.map((s) => [s.slug, s]));
   const footerServiceLinks = site.footer.coreServices
     .map((slug) => {
       const s = bySlug.get(slug) || { label: slug, slug };
-      return `<li><a href="/servicii/${escAttr(s.slug)}/"><i class="bi bi-caret-right"></i>${escHtml(s.label)}</a></li>`;
+      return `<li><a href="/servicii/${escAttr(s.slug)}/">${escHtml(s.label)}</a></li>`;
     })
     .join('');
   const countyLinks = site.nav.counties
-    .map((c) => `<li><a href="/zone/${escAttr(c.slug)}/"><i class="bi bi-caret-right"></i>Județul ${escHtml(c.label)}</a></li>`)
+    .map((c) => `<li><a href="/zone/${escAttr(c.slug)}/">Județul ${escHtml(c.label)}</a></li>`)
     .join('');
   const resourceLinks = site.footer.resources
-    .map((r) => `<li><a href="${escAttr(r.href)}"><i class="bi bi-caret-right"></i>${escHtml(r.label)}</a></li>`)
+    .map((r) => `<li><a href="${escAttr(r.href)}">${escHtml(r.label)}</a></li>`)
     .join('');
   return renderTemplate(loadPartial('footer.html'), {
     footerServiceLinks,
     footerZoneLinks: countyLinks + resourceLinks,
+    coordsLine: coordsLine(site),
     napName: site.nap.name,
     napAddress: `${site.nap.street}, ${site.nap.city}, ${site.nap.county}`,
     napEmail: site.nap.email,
@@ -118,12 +128,12 @@ function footerEn(site, { roHref, enPages }) {
     : site.en.navItems.map((n) => ({ path: n.href, title: n.label }))
   )
     .slice(0, 8)
-    .map((p) => `<li><a href="${escAttr(p.path)}"><i class="bi bi-caret-right"></i>${escHtml(p.navLabel || p.title)}</a></li>`)
+    .map((p) => `<li><a href="${escAttr(p.path)}">${escHtml(p.navLabel || p.title)}</a></li>`)
     .join('');
   return renderTemplate(loadPartial('footer-en.html'), {
     footerEnLinks,
     roHref: roHref || '/',
-    enContactHref: site.en.contactHref,
+    coordsLine: coordsLine(site),
     napName: site.nap.name,
     napAddress: `${site.nap.street}, ${site.nap.city}, ${site.nap.county}, Romania`,
     napEmail: site.nap.email,
@@ -144,10 +154,53 @@ function cookieAlert(site, en = false) {
   });
 }
 
-function trustBar(site) {
+// EN twins of the numeric trustStats labels (RO strings live in site.json; the EN
+// forms mirror the old hardcoded EN credential line — no invented facts).
+const STAT_LABELS_EN = {
+  'ani experiență': 'years of experience',
+  'proiecte finalizate': 'completed projects',
+  'colaborări': 'collaborations',
+};
+
+/** Split "1052+ proiecte finalizate" → { num: "1052", label } (null if non-numeric). */
+function parseStat(s) {
+  const m = String(s).match(/^(\d+)\+?\s+(.+)$/);
+  return m ? { num: m[1], label: m[2] } : null;
+}
+
+/** Navy stats band (D1 §3): mono numerals + superscript green "+", hairline 3-col table. */
+function trustBar(site, en = false) {
+  const statCells = site.trustStats
+    .map(parseStat)
+    .filter(Boolean)
+    .map((st) => {
+      const label = en ? STAT_LABELS_EN[st.label] || st.label : st.label;
+      return `<div class="stat"><div class="val">${escHtml(st.num)}<sup>+</sup></div><div class="lbl">${escHtml(label)}</div></div>`;
+    })
+    .join('\n      ');
   return renderTemplate(loadPartial('trust-bar.html'), {
-    trustLine: site.trustStats.map(escHtml).join('<span class="sep"> · </span>'),
+    statsOverline: en ? 'Results' : 'Rezultate',
+    statCells,
   });
+}
+
+/** Page-hero data strip (D1 §3): ANCPI dot cell + the first two numeric stats. */
+function dataStrip(site, en = false) {
+  const cells = [];
+  const ancpi = site.trustStats.find((s) => /ANCPI/i.test(s));
+  if (ancpi) {
+    cells.push(
+      `<div class="cell"><span class="badge-dot"></span><span class="lbl" style="font-weight:600;color:var(--ink)">${escHtml(en ? 'ANCPI licensed surveyor' : ancpi)}</span></div>`
+    );
+  }
+  for (const s of site.trustStats) {
+    if (cells.length >= 3) break;
+    const st = parseStat(s);
+    if (!st) continue;
+    const label = en ? STAT_LABELS_EN[st.label] || st.label : st.label;
+    cells.push(`<div class="cell"><span class="num">${escHtml(st.num)}+</span><span class="lbl">${escHtml(label)}</span></div>`);
+  }
+  return cells.join('\n          ');
 }
 
 function deplasareBlock(site) {
@@ -188,7 +241,7 @@ function contactCard(site, { namespace, topic, literalMessage, en = false }) {
 function linkCard(heading, links) {
   if (!links.length) return '';
   const lis = links
-    .map((l) => `<li class="mb-2"><a href="${escAttr(l.href)}"><i class="bi bi-caret-right"></i>${escHtml(l.label)}</a></li>`)
+    .map((l) => `<li class="mb-2"><a href="${escAttr(l.href)}">${escHtml(l.label)}</a></li>`)
     .join('');
   return (
     `<div class="card about-card mb-4"><div class="card-body">` +
@@ -201,6 +254,6 @@ module.exports = {
   loadPartial,
   waMessage, waHrefFor, ctaWhatsapp,
   headerRo, headerEn, footerRo, footerEn,
-  cookieAlert, trustBar, deplasareBlock,
+  cookieAlert, trustBar, dataStrip, deplasareBlock,
   breadcrumbs, contactCard, linkCard,
 };

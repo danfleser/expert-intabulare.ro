@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ro">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Servicii Topografie, Cadastru, Releveu, Trasare, Intabulare, Extras CF - Birou particular PFA Fleser Aurel Expert">
     <!-- Title-->
-    <title>Servicii Topografie, Cadastru, Releveu, Trasare, Intabulare, Extras CF</title>
+    <title>Termeni și condiții — Fleser Aurel Expert PFA</title>
     <!-- Favicon-->
     <link rel="shortcut icon" href="img/core-img/favicon.ico" type="image/x-icon">
     <!-- Core Stylesheet-->
@@ -13,32 +13,60 @@
     <!-- Fonts-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&amp;display=swap">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500&amp;family=IBM+Plex+Sans:wght@400;600;700&amp;display=swap" rel="stylesheet">
+    <!-- Minimal prose layout (page-local)-->
+    <style>
+      .legal-main{padding:var(--s7) 0 var(--s8)}
+      .legal-prose{max-width:70ch;overflow-wrap:break-word}
+      .legal-prose h1{font-size:clamp(26px,3.2vw,36px);line-height:1.2;margin:0 0 var(--s3)}
+      .legal-prose h5{font-size:20px;line-height:1.4;margin:var(--s5) 0 var(--s1)}
+      .legal-prose h6{font-size:16.5px;line-height:1.4;margin:var(--s4) 0 var(--s0)}
+      .legal-prose p{margin:0 0 1rem;color:var(--ink-2)}
+      .legal-prose ul{margin:0 0 1rem;padding-left:1.25rem;list-style:disc}
+      .legal-prose li{margin:6px 0;color:var(--ink-2)}
+      .legal-prose a{text-decoration:underline;text-underline-offset:3px}
+    </style>
   </head>
   <body>
-    <!-- Header Area-->
-    <header class="header-area header-2">
-      <nav class="navbar navbar-expand-lg">
-        <div class="container">
-          <!-- Navbar Brand --><a class="navbar-brand" href="index.html"><img src="img/core-img/logo.png" alt=""></a>
-          <!-- Navbar Toggler -->
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#saasboxNav" aria-controls="saasboxNav" aria-expanded="false" aria-label="Toggle navigation"><i class="bi bi-grid"></i></button>
-          <!-- Navbar Nav-->
-          <div class="collapse navbar-collapse" id="saasboxNav">
-            <ul class="navbar-nav navbar-nav-scroll">
-              <li><a href="index.html#services">Servicii</a></li>
-              <li><a href="index.html#reviews">Recenzii</a></li>
-            </ul>
-            <!-- Contact Button --><a class="btn btn-navy btn-sm ms-auto mb-3 mb-lg-0" href="index.html#contact">Contact</a>
+    <!-- ============ HEADER (canonical D1 chrome — matches generator/partials/header.html) ============ -->
+    <header class="site-header">
+      <div class="container header-in">
+        <a class="wordmark" href="/" aria-label="Fleser Aurel Expert — topografie și cadastru">
+          <svg class="mark" width="34" height="34" viewBox="0 0 34 34" fill="none" aria-hidden="true">
+            <rect x="1" y="1" width="32" height="32" rx="2" stroke="#16232C" stroke-width="1.5"/>
+            <path d="M17 8 L26 25 H8 Z" stroke="#16232C" stroke-width="1.5" fill="none"/>
+            <circle cx="17" cy="19.5" r="2.4" fill="#25D366"/>
+          </svg>
+          <span class="wm-text">
+            <span class="wm-name">TOPO<span>EXPERT</span></span>
+            <span class="wm-sub">Cadastru · Topografie</span>
+          </span>
+        </a>
+        <nav class="nav-desktop" id="siteNav" aria-label="Meniu principal">
+          <div class="nav-item">
+            <a href="/#services">Servicii</a>
+            <button class="nav-toggler" type="button" aria-expanded="false" aria-label="Deschide submeniul Servicii"><span class="caret"></span></button>
+            <ul class="nav-menu"><li><a href="/servicii/cadastru-si-intabulare/">Cadastru și intabulare</a></li><li><a href="/servicii/intabulare-teren/">Intabulare teren</a></li><li><a href="/servicii/intabulare-casa-constructie/">Intabulare casă / construcție</a></li><li><a href="/servicii/intabulare-apartament/">Intabulare apartament</a></li><li><a href="/servicii/dezmembrare-alipire/">Dezmembrare / alipire</a></li><li><a href="/servicii/plan-topografic/">Plan topografic</a></li><li><a href="/servicii/trasare-teren/">Trasare teren</a></li><li><a href="/servicii/actualizare-carte-funciara/">Actualizare carte funciară</a></li><li><a href="/servicii/topografie-constructii/">Topografie construcții</a></li><li><a href="/servicii/servicii-ocpi/">Servicii OCPI</a></li><li><a href="/servicii/certificat-energetic/">Certificat energetic</a></li><li><a href="/servicii/expertize-documentatii/">Expertize și documentații</a></li></ul>
           </div>
-        </div>
-      </nav>
+          <div class="nav-item">
+            <a href="/zone/alba/">Zone</a>
+            <button class="nav-toggler" type="button" aria-expanded="false" aria-label="Deschide submeniul Zone"><span class="caret"></span></button>
+            <ul class="nav-menu"><li><a href="/zone/alba/">Alba</a></li><li><a href="/zone/cluj/">Cluj</a></li><li><a href="/zone/mures/">Mureș</a></li><li><a href="/zone/sibiu/">Sibiu</a></li><li><a href="/zone/hunedoara/">Hunedoara</a></li></ul>
+          </div>
+          <a href="/fonduri-europene/">Fonduri europene</a>
+          <a href="/parcuri-fotovoltaice/">Fotovoltaice</a>
+          <a href="/dictionar/">Dicționar</a>
+          <a href="/#reviews">Recenzii</a>
+          <a href="/en/" hreflang="en">EN</a>
+          <a class="btn btn-ink nav-cta" href="/#contact">Contact</a>
+        </nav>
+        <button class="burger" type="button" aria-controls="siteNav" aria-expanded="false" aria-label="Deschide meniul"><span></span><span></span><span></span></button>
+      </div>
     </header>
-    <div class="page-hero">
+    <main class="legal-main">
       <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-12">
-          <h4>Termeni și condiții</h4>
+        <article class="legal-prose">
+          <h1>Termeni și condiții</h1>
           <p>Utilizarea serviciilor oferite de www.expert-intabulare.ro se aplică fiecărui utilizator în parte și presupune acceptarea în totalitate a acestora și acordul dumneavoastră vizavi de termenii și condițiile de mai jos.</p>
           <p>Accesul și utilizarea site-ului www.expert-intabulare.ro sunt gratuite și au scopul de a veni în ajutorul utilizatorilor pentru a găsi informațiile necesare în cel mai ușor și rapid mod posibil, conform cerințelor fiecăruia.</p>
           <h6>Informații despre site</h6>
@@ -153,88 +181,97 @@
           <h5>Cum vă puteți exercita drepturile dumneavoastră?</h5>
           <p>Pentru exercitarea acestor drepturi, dumneavoastră vă puteți adresa Specialistului de date personale din cadrul FLESER AUREL EXPERT PFA cu o cerere scrisă, datată și semnată, la adresa de email: aurelfleser@yahoo.com sau la următoarea adresă de corespondență: FLESER AUREL EXPERT PFA, JUD. ALBA, 515200, MUN. AIUD, STR. SALCÎMILOR, NR.4. Cererii i se va atașa o copie lizibilă a actului de identitate al semnatarului.</p>
           <p>Aceste prevederi pot suferi modificări/actualizări ocazionale. Vă recomandăm să verificați la fiecare utilizare a website-urilor FLESER AUREL EXPERT PFA prezentele prevederi, pentru a fi tot timpul informați în legătură cu acestea. Prin accesarea website-urilor FLESER AUREL EXPERT PFA sau utilizarea serviciilor FLESER AUREL EXPERT PFA prin intermediul website-urilor menționate, ulterior modificărilor, se vor considera acceptate noile prevederi.</p>
-        </div>
+        </article>
       </div>
-      </div>
-    </div>
-    <!-- Footer Area-->
-    <footer class="footer-area pt-120 mb-50">
+    </main>
+    <!-- ============ FOOTER ============ -->
+    <footer class="site-footer">
       <div class="container">
-        <div class="row g-4 g-lg-5">
-          <!-- Footer Widget Area -->
-          <div class="col-12 col-sm-6 col-lg-3">
-            <div class="footer-widget-area"><a class="d-block mb-4" href="index.html"><span class="footer-wordmark">TOPO<span>EXPERT</span></span></a>
-              <p>Servicii complete de Cadastru, Intabulare, Măsurători terenuri, Relevee și alte servicii topografice pe toată raza județului Alba.</p>
-              <!-- Contact Button-->
-              <div class="mb-4"><a class="btn btn-warning btn-sm" href="index.html#contact">Contact</a></div>
-            </div>
+        <div class="footer-top">
+          <div>
+            <a class="wordmark" href="/" aria-label="Fleser Aurel Expert">
+              <svg class="mark" width="34" height="34" viewBox="0 0 34 34" fill="none" aria-hidden="true">
+                <rect x="1" y="1" width="32" height="32" rx="2" stroke="#E8EEF3" stroke-width="1.5"/>
+                <path d="M17 8 L26 25 H8 Z" stroke="#E8EEF3" stroke-width="1.5" fill="none"/>
+                <circle cx="17" cy="19.5" r="2.4" fill="#25D366"/>
+              </svg>
+              <span class="wm-text">
+                <span class="wm-name">TOPO<span>EXPERT</span></span>
+                <span class="wm-sub">Cadastru · Topografie</span>
+              </span>
+            </a>
+            <p class="footer-about">Servicii complete de Cadastru, Intabulare, Măsurători terenuri, Relevee și alte servicii topografice pe toată raza județului Alba.</p>
+            <p class="f-coord">46.3212° N · 23.7182° E — AIUD, JUD. ALBA</p>
           </div>
-          <!-- Footer Widget Area-->
-          <div class="col-12 col-sm-6 col-lg-3">
-            <div class="footer-widget-area">
-              <h5 class="mb-4">Informatii utile</h5>
-              <ul class="list-unstyled">
-                <li><a href="index.html#services" target="_blank"><i class="bi bi-caret-right"></i>Servicii</a></li>
-                <li><a href="index.html#reviews" target="_blank"><i class="bi bi-caret-right"></i>Recenzii</a></li>
-              </ul>
-            </div>
-          </div>
-          <!-- Footer Widget Area-->
-          <div class="col-12 col-sm-6 col-lg-3 mt-0">
-            <div class="footer-widget-area"></div>
-          </div>
-          <!-- Footer Widget Area -->
-          <div class="col-12 col-sm-6 col-lg-3">
-            <div class="footer-widget-area">
-              <h5 class="mb-4">Contact</h5>
-              <p class="lh-base mb-3">Fleser Aurel Expert PFA <br> Florilor 1A, Aiud, Alba</p>
-              <p class="mb-0">Suna:<a class="ml-1 footer-text" href="tel:0741 478 540">0741 478 540</a></p>
-              <p class="mb-0">Email:<a class="ml-1 footer-text" href="mailto:aurelfleser@yahoo.com">aurelfleser@yahoo.com</a></p>
-              <!-- Footer Social Icon-->
-              <div class="footer-social-icon d-flex align-items-center mt-3"><a href="https://www.google.com/maps/place/Birou+particular+Cadastru,+Topografie,+Releveu+-+Trasare,+Intabulare,+Extras+CF/@46.3212173,23.7176085,19z/data=!3m1!4b1!4m5!3m4!1s0x4749578f1113eda7:0x79df4f368ffdd9!8m2!3d46.3212173!4d23.718157" target="_blank" title="Google Maps"><i class="bi bi-google"></i></a></div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="container">
-        <div class="copywrite-wrapper mt-5 rounded d-lg-flex align-items-lg-center justify-content-lg-between">
-          <!-- Copywrite Text-->
-          <div class="copywrite-text text-center text-lg-start mb-3 mb-lg-0 me-lg-4">
-            <p class="mb-0"><span id="websiteYear"></span> &copy;
-              <script type="text/javascript">document.getElementById("websiteYear").innerText = new Date().getFullYear();</script><a href="https://northdan.com/" target="_blank">Northdan</a>.<span class="ml-1">Toate drepturile rezervate</span>
-            </p>
-          </div>
-          <!-- Footer Nav-->
-          <div class="footer-nav mb-3 mb-lg-0">
-            <ul class="mb-0 d-flex flex-wrap justify-content-center list-unstyled">
-              <li><a href="privacy-policy.html" target="_blank">Politică de Confidențialitate</a></li>
-              <li><a href="terms-and-conditions.html" target="_blank">Termeni si condiții</a></li>
+          <div>
+            <p class="f-h">Servicii</p>
+            <ul>
+              <li><a href="/servicii/cadastru-si-intabulare/">Cadastru și intabulare</a></li>
+              <li><a href="/servicii/intabulare-teren/">Intabulare teren</a></li>
+              <li><a href="/servicii/intabulare-casa-constructie/">Intabulare casă / construcție</a></li>
+              <li><a href="/servicii/intabulare-apartament/">Intabulare apartament</a></li>
+              <li><a href="/servicii/dezmembrare-alipire/">Dezmembrare / alipire</a></li>
+              <li><a href="/servicii/plan-topografic/">Plan topografic</a></li>
+              <li><a href="/servicii/trasare-teren/">Trasare teren</a></li>
+              <li><a href="/servicii/actualizare-carte-funciara/">Actualizare carte funciară</a></li>
             </ul>
           </div>
+          <div>
+            <p class="f-h">Zone și resurse</p>
+            <ul>
+              <li><a href="/zone/alba/">Județul Alba</a></li>
+              <li><a href="/zone/cluj/">Județul Cluj</a></li>
+              <li><a href="/zone/mures/">Județul Mureș</a></li>
+              <li><a href="/zone/sibiu/">Județul Sibiu</a></li>
+              <li><a href="/zone/hunedoara/">Județul Hunedoara</a></li>
+              <li><a href="/ghid/">Ghiduri practice</a></li>
+              <li><a href="/dictionar/">Dicționar de cadastru</a></li>
+              <li><a href="/fonduri-europene/">Fonduri europene</a></li>
+              <li><a href="/parcuri-fotovoltaice/">Parcuri fotovoltaice</a></li>
+            </ul>
+          </div>
+          <div>
+            <p class="f-h">Contact</p>
+            <p class="f-nap">
+              <strong>Fleser Aurel Expert PFA</strong><br>
+              Florilor 1A, Aiud, Alba<br><br>
+              Suna: <a href="tel:0741478540">0741 478 540</a><br>
+              WhatsApp: <a href="https://api.whatsapp.com/send/?phone=40741478540&amp;text=Salut!%20Doresc%20o%20ofert%C4%83.&amp;type=phone_number&amp;app_absent=0" target="_blank" rel="noopener">0741 478 540</a><br>
+              Email: <a href="mailto:aurelfleser@yahoo.com">aurelfleser@yahoo.com</a><br>
+              <a href="https://www.google.com/maps/place/Birou+particular+Cadastru,+Topografie,+Releveu+-+Trasare,+Intabulare,+Extras+CF/@46.3212173,23.7176085,19z/data=!3m1!4b1!4m5!3m4!1s0x4749578f1113eda7:0x79df4f368ffdd9!8m2!3d46.3212173!4d23.718157" target="_blank" rel="noopener">Vezi biroul pe Google Maps</a>
+            </p>
+          </div>
+        </div>
+        <div class="footer-bottom">
+          <span><span id="websiteYear"></span> &copy; <a href="https://northdan.com/" target="_blank" rel="noopener">Northdan</a>. Toate drepturile rezervate</span>
+          <span><a href="/privacy-policy.html">Politică de Confidențialitate</a> &nbsp;·&nbsp; <a href="/terms-and-conditions.html">Termeni si condiții</a></span>
         </div>
       </div>
     </footer>
     <!-- Cookie Alert Area-->
     <div class="cookiealert">
-      <p>Acest site folosește cookie-uri. Folosim cookie-uri pentru a ne asigura că aveți cea mai bună experiență pe site-ul nostru. Pentru detalii, vă rugăm să verificați<a class="ml-1" href="privacy-policy.html" target="_blank">Politica de Confidențialitate.</a></p>
-      <button class="btn btn-primary btn-sm acceptcookies" type="button" aria-label="Close">Sunt de acord</button>
+      <p>Acest site folosește cookie-uri. Folosim cookie-uri pentru a ne asigura că aveți cea mai bună experiență pe site-ul nostru. Pentru detalii, vă rugăm să verificați<a class="ml-1" href="/privacy-policy.html" target="_blank">Politica de Confidențialitate.</a></p>
+      <button class="btn btn-ink btn-sm acceptcookies" type="button" aria-label="Close">Sunt de acord</button>
     </div>
     <!-- Sticky Mobile CTA Bar-->
-    <nav class="mobile-cta-bar" aria-label="Contact rapid">
-      <a href="https://api.whatsapp.com/send/?phone=40741478540&amp;text=Salut%21%20Doresc%20o%20ofert%C4%83.&amp;type=phone_number&amp;app_absent=0" target="_blank" rel="noopener"><i class="bi bi-whatsapp"></i>WhatsApp</a>
-      <a href="tel:0741478540" aria-label="Sună"><i class="bi bi-telephone"></i>0741 478 540</a>
+    <nav class="sticky-bar" aria-label="Contact rapid">
+      <a class="btn btn-wa" href="https://api.whatsapp.com/send/?phone=40741478540&amp;text=Salut%21%20Doresc%20o%20ofert%C4%83.&amp;type=phone_number&amp;app_absent=0" target="_blank" rel="noopener">
+        <svg width="18" height="18" fill="currentColor" aria-hidden="true"><use href="#i-wa"/></svg>
+        WhatsApp
+      </a>
+      <a class="btn btn-ghost" href="tel:0741478540">Sună</a>
     </nav>
-    <!-- Site chrome JS (navbar, cookie alert)-->
+    <!-- Site chrome JS (nav, cookie alert, footer year)-->
     <script>
-      (function(){var n=document.getElementById('saasboxNav'),t=document.querySelector('.navbar-toggler');
-      if(t&&n){t.addEventListener('click',function(){n.classList.toggle('show');t.setAttribute('aria-expanded',n.classList.contains('show'))})}
-      var ds=document.querySelectorAll('li.sb-dropdown');for(var i=0;i<ds.length;i++){(function(li){
-      var g=li.querySelector('.dropdown-toggler'),m=li.querySelector('.sb-dropdown-menu');
-      if(g&&m){g.addEventListener('click',function(){m.style.display=m.style.display==='block'?'none':'block'})}})(ds[i])}
+      (function(){var n=document.getElementById('siteNav'),t=document.querySelector('.burger');
+      if(t&&n){t.addEventListener('click',function(){var o=n.classList.toggle('show');t.setAttribute('aria-expanded',o)})}
+      var ts=document.querySelectorAll('.nav-toggler');for(var i=0;i<ts.length;i++){(function(g){
+      g.addEventListener('click',function(){var o=g.parentNode.classList.toggle('open');g.setAttribute('aria-expanded',o)})})(ts[i])}
       var c=document.querySelector('.cookiealert'),b=document.querySelector('.acceptcookies');
       if(c&&b){if(document.cookie.indexOf('acceptCookies=')<0){c.classList.add('show')}
       b.addEventListener('click',function(){var d=new Date();d.setTime(d.getTime()+31536e6);
-      document.cookie='acceptCookies=true;expires='+d.toUTCString()+';path=/';c.classList.remove('show')})}})();
+      document.cookie='acceptCookies=true;expires='+d.toUTCString()+';path=/';c.classList.remove('show')})}
+      var y=document.getElementById('websiteYear');if(y){y.textContent=new Date().getFullYear()}})();
     </script>
   </body>
 </html>

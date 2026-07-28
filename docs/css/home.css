@@ -1,0 +1,136 @@
+/* ============================================================
+   TOPOEXPERT — home.css (homepage only, D1 Swiss / Engineering)
+   Ported from approved mockup-D1.html. Shared tokens/components
+   (buttons, header/nav, data-strip, stats, svc cards, panels,
+   field, footer, sticky bar, cookie banner, section scaffolding)
+   live in site.css v2 — this file holds ONLY homepage-specific
+   sections: hero + plan figure, path band, review grid/expander,
+   zones, contact split, maps frame, plus mockup-exact resets
+   scoped to this page.
+   ============================================================ */
+
+/* mockup base deltas vs site.css element rules (homepage only) */
+p{margin:0}
+h1,h2,h3,h4{margin:0}
+ul{margin:0;padding:0;list-style:none}
+html{scroll-behavior:smooth}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+/* sticky-bar body clearance comes from site.css (<992px) */
+
+/* ---------- typography utilities (mockup) ---------- */
+.h2-s{font-size:clamp(22px,2.4vw,28px)}
+.h2-narrow{max-width:22ch}
+.sect-paths{padding-bottom:var(--s7)}
+.sect-paths .section-head{margin-bottom:var(--s4)}
+.sect-contact{border-bottom:0}
+.stats h2{margin:var(--s2) 0 0}
+
+/* ---------- hero ---------- */
+.hero{border-bottom:1px solid var(--line)}
+.hero-grid{
+  display:grid;grid-template-columns:1fr;gap:var(--s6);
+  padding:var(--section-y) 0;
+}
+@media(min-width:960px){
+  .hero-grid{grid-template-columns:7fr 5fr;gap:var(--s8);align-items:center}
+}
+.hero h1{margin:var(--s2) 0 var(--s3);max-width:16ch}
+.hero .lead{margin-bottom:var(--s4)}
+@media(max-width:719px){
+  .overline .ov-x{display:none}
+}
+.cta-note{margin-top:var(--s2)}
+.cta-note a{font-family:var(--font-mono);font-size:13px;color:var(--ink-2);text-decoration:underline;text-underline-offset:3px}
+.cta-note a:hover{color:var(--ink)}
+.hero-fig{display:none;margin:0}
+@media(min-width:960px){.hero-fig{display:block}}
+.hero-fig-cap{
+  margin-top:var(--s1);display:flex;justify-content:space-between;
+  font-family:var(--font-mono);font-size:11px;color:var(--ink-2);letter-spacing:.06em;
+}
+
+/* ---------- path band ---------- */
+.paths{display:grid;grid-template-columns:1fr;gap:0;border:1px solid var(--line);border-radius:var(--radius);overflow:hidden}
+@media(min-width:960px){.paths{grid-template-columns:repeat(3,1fr)}}
+.path{
+  display:flex;align-items:center;gap:var(--s2);
+  padding:var(--s3);background:var(--paper);
+  border-bottom:1px solid var(--line);
+  text-decoration:none;transition:background .18s;
+}
+.path:last-child{border-bottom:0}
+@media(min-width:960px){
+  .path{border-bottom:0;border-right:1px solid var(--line);padding:var(--s4) var(--s3)}
+  .path:last-child{border-right:0}
+}
+.path:hover{background:var(--green-tint);text-decoration:none}
+.path .idx{font-family:var(--font-mono);font-size:12px;color:var(--green-deep);letter-spacing:.05em}
+.path .txt{font-weight:600;font-size:16px;line-height:1.35;flex:1}
+.path .arr{color:var(--ink-2);flex:none}
+.path:hover .arr{color:var(--green-deep)}
+
+/* ---------- reviews ---------- */
+.rev-grid{display:grid;grid-template-columns:1fr;gap:var(--s3)}
+@media(min-width:720px){.rev-grid{grid-template-columns:1fr 1fr}}
+@media(min-width:1100px){.rev-grid{grid-template-columns:repeat(3,1fr)}}
+.rev{
+  border:1px solid var(--line);border-radius:var(--radius);background:var(--paper);
+  padding:var(--s3);display:flex;flex-direction:column;gap:var(--s2);
+}
+@media(min-width:960px){.rev{padding:var(--s4) var(--s4) var(--s3)}}
+.stars{display:flex;gap:2px;color:var(--amber)}
+.stars svg{width:14px;height:14px}
+.rev p{font-size:15px;line-height:1.6;flex:1;margin:0}
+.rev .who{border-top:1px solid var(--line);padding-top:var(--s2);display:flex;align-items:baseline;justify-content:space-between;gap:8px}
+.rev .who .name{font-weight:600;font-size:14px}
+.rev .who .role{font-family:var(--font-mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-2)}
+/* expander: all 19 reviews in DOM; summary styled as ghost button.
+   site.css styles bare details/summary (FAQ pattern) — neutralized here. */
+.rev-more{margin-top:var(--s4);border:0;border-radius:0;background:transparent}
+.rev-more summary{
+  list-style:none;cursor:pointer;position:static;
+  display:flex;align-items:center;justify-content:center;gap:10px;
+  min-height:48px;padding:0 var(--s3);margin:0 auto;max-width:280px;
+  font-size:16px;font-weight:600;color:var(--ink);
+  border:1px solid var(--line-strong);border-radius:var(--radius);background:transparent;
+  transition:border-color .18s;
+}
+.rev-more summary:hover{border-color:var(--ink);background:transparent}
+.rev-more summary::-webkit-details-marker{display:none}
+.rev-more[open] summary{margin-bottom:var(--s3)}
+.rev-more summary::after{content:"+";position:static;width:auto;height:auto;border:0;transform:none;transition:none;color:var(--green-deep)}
+.rev-more[open] summary::after{content:"−";transform:none}
+.rev-more>.rev-grid{padding:0;margin:0}
+
+/* ---------- zones ---------- */
+.zone-chips{display:flex;flex-wrap:wrap;gap:var(--s1)}
+.zone-chips a{
+  text-decoration:none;font-weight:600;font-size:15px;
+  padding:12px 20px;min-height:44px;display:inline-flex;align-items:center;gap:10px;
+  border:1px solid var(--line-strong);border-radius:var(--radius);background:var(--paper);
+  transition:border-color .18s;
+}
+.zone-chips a:hover{border-color:var(--ink);text-decoration:none}
+.zone-links{margin-top:var(--s4);padding-top:var(--s3);border-top:1px solid var(--line);
+  display:flex;flex-wrap:wrap;gap:var(--s1) var(--s3);font-size:14px}
+.zone-links a{color:var(--ink-2);text-decoration:underline;text-underline-offset:3px}
+.zone-links a:hover{color:var(--ink)}
+
+/* ---------- contact ---------- */
+.contact-grid{display:grid;grid-template-columns:1fr;gap:var(--s6)}
+@media(min-width:960px){.contact-grid{grid-template-columns:5fr 7fr;gap:var(--s8)}}
+.contact-grid h2{margin-top:var(--s2)}
+.contact-grid .lead{margin-top:var(--s2)}
+.c-rows{margin-top:var(--s4);border-top:1px solid var(--line)}
+.c-row{display:flex;align-items:center;gap:var(--s2);padding:var(--s2) 0;border-bottom:1px solid var(--line)}
+.c-row .ic{color:var(--green-deep);flex:none}
+.c-row a{text-decoration:none;font-weight:600}
+.c-row a:hover{text-decoration:underline;text-underline-offset:3px}
+.c-row .sub{font-size:14px;color:var(--ink-2)}
+.contact-form .btn{margin-top:var(--s3)}
+.form-note{margin-top:var(--s2);font-size:13.5px;color:var(--ink-2)}
+
+/* ---------- maps ---------- */
+.maps{border-top:1px solid var(--line)}
+.maps iframe{display:block;width:100%;height:300px;border:0;max-width:100%}
+@media(min-width:960px){.maps iframe{height:360px}}

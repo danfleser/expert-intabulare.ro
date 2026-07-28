@@ -83,8 +83,9 @@ function assemblePage(ctx, opts) {
     h1: opts.h1,
     breadcrumbItems: bc.html,
     heroCta: cta('mt-2'),
+    dataStrip: chrome.dataStrip(site, en),
     content: opts.content,
-    trustBar: opts.trustBar === false ? '' : chrome.trustBar(site),
+    trustBar: opts.trustBar === false ? '' : chrome.trustBar(site, en),
     preFooterHeading: t.preFooterHeading,
     preFooterText: t.preFooterText,
     preFooterCta: cta(''),
@@ -128,9 +129,11 @@ function checklistBlock(heading, items) {
   );
 }
 
+// FAQ as D1 index panels: details + hairline rows, open on desktop, collapsed on
+// mobile (chrome JS strips [open] from [data-mob] panels below 960px).
 function faqDetails(faqs) {
   return faqs
-    .map((f) => `<details class="mb-3"><summary class="fw-bold">${escHtml(f.q)}</summary><p class="mt-2 mb-0">${escHtml(f.a)}</p></details>`)
+    .map((f) => `<details class="panel mb-2" open data-mob><summary><span class="q">${escHtml(f.q)}</span><span class="count"></span></summary><div class="panel-body"><p class="mt-2 mb-0">${escHtml(f.a)}</p></div></details>`)
     .join('');
 }
 
@@ -473,7 +476,7 @@ function buildServiceHub(ctx, service, emitted) {
     const head = (service.priceTable.head || []).map((h) => `<th>${escHtml(h)}</th>`).join('');
     const rows = service.priceTable.rows.map((r) => `<tr>${r.map((c) => `<td>${escHtml(c)}</td>`).join('')}</tr>`).join('');
     priceBlock =
-      `<div class="mb-5"><h2 class="h5 mb-3">Prețuri orientative</h2><div class="table-scroll"><table class="table table-striped">` +
+      `<div class="mb-5"><h2 class="h5 mb-3">Prețuri orientative</h2><div class="table-scroll"><table class="table">` +
       (head ? `<thead><tr>${head}</tr></thead>` : '') + `<tbody>${rows}</tbody></table></div>` +
       `<p class="fz-14">${escHtml(site.priceDisclaimer)}</p></div>`;
   } else if (service.priceRange) {
@@ -564,12 +567,23 @@ function buildCountyHub(ctx, county, emitted, demotedNotes) {
     `<p class="lead">Servicii de cadastru, intabulare și topografie în județul ${escHtml(county.name)} — cu deplasare la fața locului din Aiud.</p>` +
     (county.countyNote ? `<p>${escHtml(county.countyNote)}</p>` : '');
 
+  // ocpiHq is {name, address} (counties.json) or a plain string
+  const ocpiHqText = county.ocpiHq && typeof county.ocpiHq === 'object'
+    ? `${county.ocpiHq.name}${county.ocpiHq.address ? `, ${county.ocpiHq.address}` : ''}`
+    : county.ocpiHq;
   const ocpiBlock = county.ocpiHq
     ? cardBlock(
         `OCPI ${county.name}`,
-        `<p>${escHtml(county.ocpiHq)}</p>` +
+        `<p>${escHtml(ocpiHqText)}</p>` +
         (county.bcpiOffices && county.bcpiOffices.length
-          ? `<p class="mb-0">Birouri de cadastru și publicitate imobiliară (BCPI): <strong>${county.bcpiOffices.map(escHtml).join(', ')}</strong>.</p>`
+          // entries are {name, address, covers} objects (counties.json) or plain strings
+          ? `<p class="mb-0">Birouri de cadastru și publicitate imobiliară (BCPI): ${county.bcpiOffices
+              .map((o) => {
+                const name = typeof o === 'string' ? o : o.name;
+                const addr = o && typeof o === 'object' && o.address ? ` (${escHtml(o.address)})` : '';
+                return `<strong>${escHtml(name)}</strong>${addr}`;
+              })
+              .join(', ')}.</p>`
           : ''),
         'bi-geo-alt'
       )
@@ -591,9 +605,10 @@ function buildCountyHub(ctx, county, emitted, demotedNotes) {
         `<p class="fz-14 mb-0">Lucrăm și în ${escHtml(l.name)}${l.villages && l.villages.length ? ` (${l.villages.map(escHtml).join(', ')})` : ''} — ` +
         `contactați-ne pe WhatsApp sau telefonic pentru orice serviciu de cadastru sau topografie.${note ? '' : ''}</p>`;
     }
+    const kmCount = km != null ? `aprox. ${km} km` : '';
     return (
-      `<details class="mb-2"><summary><strong>${escHtml(l.name)}</strong>${escHtml(kmTxt)}</summary>` +
-      `<div class="py-2 ps-3">${body}</div></details>`
+      `<details class="panel mb-2"><summary><span class="q">${escHtml(l.name)}</span><span class="count">${escHtml(kmCount)}</span></summary>` +
+      `<div class="panel-body py-2">${body}</div></details>`
     );
   });
 
@@ -853,7 +868,7 @@ function buildDictTerm(ctx, term, termsBySlug) {
     .map((slug) => ({ href: `/dictionar/${slug}.html`, label: termsBySlug.get(slug).term }));
   const relatedBlock = relatedLinks.length
     ? `<div class="mb-4"><h2 class="h5 mb-3">Termeni înrudiți</h2><p class="mb-0">${relatedLinks
-        .map((l) => `<a class="btn btn-outline-primary btn-sm me-2 mb-2" href="${escAttr(l.href)}">${escHtml(l.label)}</a>`)
+        .map((l) => `<a class="btn btn-ghost btn-sm me-2 mb-2" href="${escAttr(l.href)}">${escHtml(l.label)}</a>`)
         .join('')}</p></div>`
     : '';
 
@@ -922,7 +937,7 @@ function buildDictIndex(ctx, terms) {
   }
   const letters = [...byLetter.keys()].sort();
   const letterNav = letters
-    .map((l) => `<a class="btn btn-outline-primary btn-sm me-1 mb-1" href="#lit-${escAttr(l)}">${escHtml(l)}</a>`)
+    .map((l) => `<a class="btn btn-ghost btn-sm me-1 mb-1" href="#lit-${escAttr(l)}">${escHtml(l)}</a>`)
     .join('');
   const listParts = [];
   for (const l of letters) {
