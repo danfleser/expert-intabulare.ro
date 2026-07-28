@@ -7,29 +7,29 @@ Spec: `spec-seo-expansion.md` (chair verdict, binding). Rule: a box is ticked **
 
 ## Slices
 
-- [ ] **Slice 0 — Spec + tracker at repo root** (this commit)
-- [ ] **Slice 1 — Data + engine (9 parallel agents, disjoint territories)**
-  - [ ] G1 `generator/` core: build.js, verify.js, lib/, 10 templates, partials (incl. cta-whatsapp), site.json, UAT register snapshots
-  - [ ] G2 geo data: `generator/data/localities/*.json` (163 UAT records, 7 uniqueness slots each) + `counties.json`
-  - [ ] G3 services: `generator/data/services.json` (12 services, ≥6 intro variants each, ~30-question FAQ pools)
-  - [ ] G4 guides: `generator/data/guides/*.json` (20 /ghid/ pages)
-  - [ ] G5 EU funds: `generator/data/verticals-fonduri/*.json` (54 authored pages)
-  - [ ] G6 solar: `generator/data/verticals-solar/*.json` (61 authored pages)
-  - [ ] G7a dictionary A–K (~135 definitions) / G7b dictionary L–Z (~128 definitions)
-  - [ ] G8 English: `generator/data/english/*.json` (25 pages) + `hreflang.json`
-- [ ] **Slice 2 — Homepage edit (G9, solo, own commit)**: Formspree → WhatsApp textarea widget, nav dropdowns, Zone section, footer links; before/after screenshots; #anchors untouched
-- [ ] **Slice 3 — Full build + verify**: `node generator/build.js` → ~1,408 pages + sitemap index + 7 section sitemaps + robots.txt; `node generator/verify.js` all-green (links, uniqueness gates, diacritics, WhatsApp lint, hreflang reciprocity, sizes). No push while red.
-- [ ] **Slice 4 — Staged commits C1→C6 + push waves** (explicit pathspecs, never `git add .`): C1 generator+tracker · C2 homepage + /en/index · C3 hubs+/zone/+/ghid/+robots+sitemap-core · C4 /servicii/ Alba · C5 tier-2 + /fonduri-europene/ + /parcuri-fotovoltaice/ · C6 /dictionar/ + /en/ + sitemap index. Each wave: push → poll Pages build → curl 10 live URLs.
-- [ ] **Slice 5 — Closeout**: live sitemap fetch, 3 live page renders, CEO handoff doc (Google Search Console steps, re-run instructions), tick this tracker, final report.
+- [x] **Slice 0 — Spec + tracker at repo root** (this commit)
+- [x] **Slice 1 — Data + engine (9 parallel agents, disjoint territories)**
+  - [x] G1 `generator/` core: build.js, verify.js, lib/, 10 templates, partials (incl. cta-whatsapp), site.json, UAT register snapshots
+  - [x] G2 geo data: `generator/data/localities/*.json` (163 UAT records, 7 uniqueness slots each) + `counties.json`
+  - [x] G3 services: `generator/data/services.json` (12 services, ≥6 intro variants each, ~30-question FAQ pools)
+  - [x] G4 guides: `generator/data/guides/*.json` (20 /ghid/ pages)
+  - [x] G5 EU funds: `generator/data/verticals-fonduri/*.json` (54 authored pages)
+  - [x] G6 solar: `generator/data/verticals-solar/*.json` (61 authored pages)
+  - [x] G7a dictionary A–K (~135 definitions) / G7b dictionary L–Z (~128 definitions)
+  - [x] G8 English: `generator/data/english/*.json` (25 pages) + `hreflang.json`
+- [x] **Slice 2 — Homepage edit (G9, solo, own commit)**: Formspree → WhatsApp textarea widget, nav dropdowns, Zone section, footer links; before/after screenshots; #anchors untouched
+- [x] **Slice 3 — Full build + verify**: `node generator/build.js` → ~1,408 pages + sitemap index + 7 section sitemaps + robots.txt; `node generator/verify.js` all-green (links, uniqueness gates, diacritics, WhatsApp lint, hreflang reciprocity, sizes). No push while red.
+- [x] **Slice 4 — Staged commits C1→C6 + push waves** (explicit pathspecs, never `git add .`): C1 generator+tracker · C2 homepage + /en/index · C3 hubs+/zone/+/ghid/+robots+sitemap-core · C4 /servicii/ Alba · C5 tier-2 + /fonduri-europene/ + /parcuri-fotovoltaice/ · C6 /dictionar/ + /en/ + sitemap index. Each wave: push → poll Pages build → curl 10 live URLs.
+- [x] **Slice 5 — Closeout**: live sitemap fetch, 3 live page renders, CEO handoff doc (Google Search Console steps, re-run instructions), tick this tracker, final report.
 
 ## User stories (ticked when live)
-- [ ] Landowner googling "«serviciu» «localitate»" lands on a locality page with OCPI office, acte, price range, WhatsApp prefilled with service+locality
-- [ ] Company with EU-funds project finds problem/deliverable pages under /fonduri-europene/ and contacts via WhatsApp at any hour
-- [ ] Solar developer finds lifecycle/problem pages under /parcuri-fotovoltaice/ and can send CF extracts in the WhatsApp thread
-- [ ] Person googling a CF term gets a plain-Romanian definition + related terms + service CTA (263 doors)
-- [ ] Foreign investor lands on /en/ pages (hreflang-routed), full English chrome, English WhatsApp prefill
-- [ ] Every one of the ~1,408 pages is in the sitemap index and returns HTTP 200 live
-- [ ] Zero email forms anywhere; WhatsApp + tel: on every page
+- [x] Landowner googling "«serviciu» «localitate»" lands on a locality page with OCPI office, acte, price range, WhatsApp prefilled with service+locality
+- [x] Company with EU-funds project finds problem/deliverable pages under /fonduri-europene/ and contacts via WhatsApp at any hour
+- [x] Solar developer finds lifecycle/problem pages under /parcuri-fotovoltaice/ and can send CF extracts in the WhatsApp thread
+- [x] Person googling a CF term gets a plain-Romanian definition + related terms + service CTA (263 doors)
+- [x] Foreign investor lands on /en/ pages (hreflang-routed), full English chrome, English WhatsApp prefill
+- [x] Every one of the ~1,408 pages is in the sitemap index and returns HTTP 200 live
+- [x] Zero email forms anywhere; WhatsApp + tel: on every page
 
 ## CEO questions (defaults applied, reversible — answer any time)
 1. Cluj-Napoca basin pages (Cluj-Napoca, Florești, Apahida, Gilău) — default: KEPT.
