@@ -44,3 +44,10 @@ Server hosting + Resend email, form backends, GSC ongoing monitoring/pruning loo
 - [x] 1,357 generated pages on new lean site.css (8.4KB gz vs ~130KB gz before); homepage −197KB JS, preloader/animations removed
 - [x] Homepage: typographic hero + credential chips + path band + static review grid; sticky mobile WhatsApp bar site-wide
 - [x] verify.js green, visual review 30+ screenshots, live checks passed
+
+## Redesign v2 (2026-07-28, third delivery — spec-redesign-v2.md, CEO-picked D1)
+- [x] Pure D1 "Swiss/engineering precision" live site-wide: white paper, ink/navy, single green accent, IBM Plex, hairline rules, plan-SVG hero
+- [x] Homepage + legal pages rebuilt from scratch on canonical chrome; SaasBox bundle fully dropped (0 references)
+- [x] site.css 25KB raw / 7.1KB gz for all 1,357 generated pages; SVG wordmark; GPS-coords footer
+- [x] Pre-existing [object Object] bugs fixed (zone hubs OCPI/BCPI lists, ghid step lists)
+- [x] B4 gate green (verify, bytes, 27 screenshots, overflow/contrast/z-order checks) + live checks passed
