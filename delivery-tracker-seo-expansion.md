@@ -38,3 +38,9 @@ Spec: `spec-seo-expansion.md` (chair verdict, binding). Rule: a box is ticked **
 
 ## Stage 2 (explicitly out of scope now)
 Server hosting + Resend email, form backends, GSC ongoing monitoring/pruning loop.
+
+## Redesign (2026-07-28, second delivery — spec-redesign.md)
+- [x] Trust & Authority visual system live site-wide: navy/blue, green WhatsApp CTAs, Poppins headings
+- [x] 1,357 generated pages on new lean site.css (8.4KB gz vs ~130KB gz before); homepage −197KB JS, preloader/animations removed
+- [x] Homepage: typographic hero + credential chips + path band + static review grid; sticky mobile WhatsApp bar site-wide
+- [x] verify.js green, visual review 30+ screenshots, live checks passed
