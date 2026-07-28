@@ -6,6 +6,10 @@
     <meta name="description" content="Servicii Topografie, Cadastru, Releveu, Trasare, Intabulare, Extras CF - Birou particular PFA Fleser Aurel Expert">
     <!-- Title-->
     <title>Servicii Topografie, Cadastru, Releveu, Trasare, Intabulare, Extras CF</title>
+    <link rel="canonical" href="https://expert-intabulare.ro/">
+    <link rel="alternate" hreflang="ro" href="https://expert-intabulare.ro/">
+    <link rel="alternate" hreflang="en" href="https://expert-intabulare.ro/en/">
+    <link rel="alternate" hreflang="x-default" href="https://expert-intabulare.ro/">
     <!-- Favicon-->
     <link rel="shortcut icon" href="img/core-img/favicon.ico" type="image/x-icon">
     <!-- All CSS Stylesheet-->
@@ -28,8 +32,38 @@
           <!-- Navbar Nav-->
           <div class="collapse navbar-collapse" id="saasboxNav">
             <ul class="navbar-nav navbar-nav-scroll">
-              <li><a href="index.html#services">Servicii</a></li>
+              <li class="sb-dropdown"><a href="index.html#services">Servicii</a>
+                <div class="dropdown-toggler"><i class="bi bi-caret-down-fill"></i></div>
+                <ul class="sb-dropdown-menu">
+                  <li><a href="servicii/cadastru-si-intabulare/">Cadastru și intabulare</a></li>
+                  <li><a href="servicii/intabulare-teren/">Intabulare teren</a></li>
+                  <li><a href="servicii/intabulare-casa-constructie/">Intabulare casă / construcție</a></li>
+                  <li><a href="servicii/intabulare-apartament/">Intabulare apartament</a></li>
+                  <li><a href="servicii/dezmembrare-alipire/">Dezmembrare / alipire</a></li>
+                  <li><a href="servicii/plan-topografic/">Plan topografic</a></li>
+                  <li><a href="servicii/trasare-teren/">Trasare teren</a></li>
+                  <li><a href="servicii/actualizare-carte-funciara/">Actualizare carte funciară</a></li>
+                  <li><a href="servicii/topografie-constructii/">Topografie construcții</a></li>
+                  <li><a href="servicii/servicii-ocpi/">Servicii OCPI</a></li>
+                  <li><a href="servicii/certificat-energetic/">Certificat energetic</a></li>
+                  <li><a href="servicii/expertize-documentatii/">Expertize și documentații</a></li>
+                </ul>
+              </li>
+              <li class="sb-dropdown"><a href="zone/alba/">Zone</a>
+                <div class="dropdown-toggler"><i class="bi bi-caret-down-fill"></i></div>
+                <ul class="sb-dropdown-menu">
+                  <li><a href="zone/alba/">Județul Alba</a></li>
+                  <li><a href="zone/cluj/">Județul Cluj</a></li>
+                  <li><a href="zone/mures/">Județul Mureș</a></li>
+                  <li><a href="zone/sibiu/">Județul Sibiu</a></li>
+                  <li><a href="zone/hunedoara/">Județul Hunedoara</a></li>
+                </ul>
+              </li>
+              <li><a href="fonduri-europene/">Fonduri europene</a></li>
+              <li><a href="parcuri-fotovoltaice/">Fotovoltaice</a></li>
+              <li><a href="dictionar/">Dicționar</a></li>
               <li><a href="index.html#reviews">Recenzii</a></li>
+              <li><a href="en/" hreflang="en">EN</a></li>
             </ul>
             <!-- Login Button --><a class="btn btn-warning btn-sm ms-auto mb-3 mb-lg-0" href="index.html#contact">Contact</a>
           </div>
@@ -597,6 +631,31 @@
         </div>
       </div>
     </div>
+    <!-- Zone de lucru Area-->
+    <div class="about-area pt-120 pb-120" id="zone">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-12 col-sm-10 col-md-9 col-lg-8">
+            <div class="section-heading text-center">
+              <h2>Zone de lucru</h2>
+              <p>Acoperim județul Alba în întregime și localitățile apropiate din județele învecinate. Alege județul și găsește pagina serviciului pentru localitatea ta.</p>
+            </div>
+          </div>
+        </div>
+        <div class="row g-4 justify-content-center text-center">
+          <div class="col-6 col-sm-4 col-lg-2"><a class="btn btn-outline-primary w-100" href="zone/alba/">Alba</a></div>
+          <div class="col-6 col-sm-4 col-lg-2"><a class="btn btn-outline-primary w-100" href="zone/cluj/">Cluj</a></div>
+          <div class="col-6 col-sm-4 col-lg-2"><a class="btn btn-outline-primary w-100" href="zone/mures/">Mureș</a></div>
+          <div class="col-6 col-sm-4 col-lg-2"><a class="btn btn-outline-primary w-100" href="zone/sibiu/">Sibiu</a></div>
+          <div class="col-6 col-sm-4 col-lg-2"><a class="btn btn-outline-primary w-100" href="zone/hunedoara/">Hunedoara</a></div>
+        </div>
+        <div class="row justify-content-center mt-4">
+          <div class="col-12 col-md-8 text-center">
+            <p class="mb-0"><a href="ghid/">Ghiduri practice</a> · <a href="dictionar/">Dicționar de cadastru și topografie</a> · <a href="fonduri-europene/">Documentație pentru fonduri europene</a> · <a href="parcuri-fotovoltaice/">Topografie pentru parcuri fotovoltaice</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
     <!-- Contact Area-->
     <div class="saasbox-contact-us-area pt-120 pb-120 d-block" id="contact">
       <div class="container">
@@ -628,33 +687,26 @@
           <!-- Contact Form-->
           <div class="col-12 col-lg-7">
             <div class="contact-form">
-              <form action="https://formspree.io/f/xpznldon" method="POST">
-                <div class="row">
-                  <div class="col-12 col-lg-6">
-                    <label class="form-label" for="name">Numele Complet:</label>
-                    <input class="form-control mb-30" id="name" type="text" placeholder="Alexandru Popescu" value="" name="name" required>
-                  </div>
-                  <div class="col-12 col-lg-6">
-                    <label class="form-label" for="email">Adresa email:</label>
-                    <input class="form-control mb-30" id="email" type="email" placeholder="alexandru.popescu@gmail.com" name="email" value="" required>
-                  </div>
-                  <div class="col-12 col-lg-6">
-                    <label class="form-label" for="topic">Subiect:</label>
-                    <input class="form-control mb-30" id="topic" type="text" placeholder="Tip lucrare" name="topic" value="" required>
-                  </div>
-                  <div class="col-12 col-lg-6">
-                    <label class="form-label" for="phone">Telefon:</label>
-                    <input class="form-control mb-30" id="phone" type="text" placeholder="0752 111 222" value="" name="phone" required>
-                  </div>
-                  <div class="col-12">
-                    <label class="form-label" for="message">Mesaj:</label>
-                    <textarea class="form-control mb-30" id="message" name="message" placeholder="Scurta descriere despre situatia actuala" required></textarea>
-                  </div>
-                  <div class="col-12 text-center">
-                    <button class="btn btn-primary w-100" type="submit">Trimite</button>
-                  </div>
+              <div class="row">
+                <div class="col-12">
+                  <label class="form-label" for="message">Scurtă descriere a situației:</label>
+                  <textarea class="form-control mb-30" id="message" rows="5" placeholder="Ex.: Am un teren în Aiud pe care vreau să-l intabulez."></textarea>
                 </div>
-              </form>
+                <div class="col-12 text-center">
+                  <a class="btn btn-warning w-100" id="waSend" href="https://api.whatsapp.com/send/?phone=40741478540&amp;text=Salut%21%20Doresc%20o%20ofert%C4%83.&amp;type=phone_number&amp;app_absent=0" target="_blank" rel="noopener"><i class="bi bi-whatsapp me-2"></i>Trimite pe WhatsApp</a>
+                  <p class="fz-14 mt-3 mb-0">Mesajul se deschide în WhatsApp — poți atașa acolo și poze cu actele. Fără formulare, fără e-mail.</p>
+                </div>
+              </div>
+              <script>
+                (function () {
+                  var t = document.getElementById('message');
+                  var a = document.getElementById('waSend');
+                  a.addEventListener('click', function () {
+                    var msg = 'Salut! Doresc o ofertă.' + (t.value.trim() ? ' ' + t.value.trim() : '');
+                    a.href = 'https://api.whatsapp.com/send/?phone=40741478540&text=' + encodeURIComponent(msg) + '&type=phone_number&app_absent=0';
+                  });
+                })();
+              </script>
             </div>
           </div>
         </div>
@@ -679,16 +731,35 @@
           <!-- Footer Widget Area-->
           <div class="col-12 col-sm-6 col-lg-3">
             <div class="footer-widget-area">
-              <h5 class="mb-4">Informatii utile</h5>
+              <h5 class="mb-4">Servicii</h5>
               <ul class="list-unstyled">
-                <li><a href="index.html#services" target="_blank"><i class="bi bi-caret-right"></i>Servicii</a></li>
-                <li><a href="index.html#reviews" target="_blank"><i class="bi bi-caret-right"></i>Recenzii</a></li>
+                <li><a href="servicii/cadastru-si-intabulare/"><i class="bi bi-caret-right"></i>Cadastru și intabulare</a></li>
+                <li><a href="servicii/intabulare-teren/"><i class="bi bi-caret-right"></i>Intabulare teren</a></li>
+                <li><a href="servicii/intabulare-casa-constructie/"><i class="bi bi-caret-right"></i>Intabulare casă</a></li>
+                <li><a href="servicii/intabulare-apartament/"><i class="bi bi-caret-right"></i>Intabulare apartament</a></li>
+                <li><a href="servicii/dezmembrare-alipire/"><i class="bi bi-caret-right"></i>Dezmembrare / alipire</a></li>
+                <li><a href="servicii/plan-topografic/"><i class="bi bi-caret-right"></i>Plan topografic</a></li>
+                <li><a href="servicii/trasare-teren/"><i class="bi bi-caret-right"></i>Trasare teren</a></li>
+                <li><a href="servicii/actualizare-carte-funciara/"><i class="bi bi-caret-right"></i>Actualizare carte funciară</a></li>
               </ul>
             </div>
           </div>
           <!-- Footer Widget Area-->
           <div class="col-12 col-sm-6 col-lg-3 mt-0">
-            <div class="footer-widget-area"></div>
+            <div class="footer-widget-area">
+              <h5 class="mb-4">Zone și resurse</h5>
+              <ul class="list-unstyled">
+                <li><a href="zone/alba/"><i class="bi bi-caret-right"></i>Județul Alba</a></li>
+                <li><a href="zone/cluj/"><i class="bi bi-caret-right"></i>Județul Cluj</a></li>
+                <li><a href="zone/mures/"><i class="bi bi-caret-right"></i>Județul Mureș</a></li>
+                <li><a href="zone/sibiu/"><i class="bi bi-caret-right"></i>Județul Sibiu</a></li>
+                <li><a href="zone/hunedoara/"><i class="bi bi-caret-right"></i>Județul Hunedoara</a></li>
+                <li><a href="ghid/"><i class="bi bi-caret-right"></i>Ghiduri practice</a></li>
+                <li><a href="dictionar/"><i class="bi bi-caret-right"></i>Dicționar de cadastru</a></li>
+                <li><a href="fonduri-europene/"><i class="bi bi-caret-right"></i>Fonduri europene</a></li>
+                <li><a href="parcuri-fotovoltaice/"><i class="bi bi-caret-right"></i>Parcuri fotovoltaice</a></li>
+              </ul>
+            </div>
           </div>
           <!-- Footer Widget Area -->
           <div class="col-12 col-sm-6 col-lg-3">
