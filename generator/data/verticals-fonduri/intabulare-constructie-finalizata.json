@@ -16,10 +16,10 @@
       "type": "process",
       "heading": "Pașii intabulării unei construcții noi",
       "steps": [
-        { "title": "Recepția la terminarea lucrărilor", "text": "Procesul-verbal de recepție, semnat de comisie, este fundamentul întregului lanț. Dacă recepția nu s-a făcut sau are obiecții nerezolvate, de aici începem." },
-        { "title": "Certificatul de atestare a edificării", "text": "Se solicită primăriei care a emis autorizația. Termenele diferă mult între primării — de la câteva zile la câteva săptămâni — deci acest pas se pornește imediat după recepție." },
-        { "title": "Documentația cadastrală", "text": "Măsurăm construcția finală (sau refolosim măsurătorile as-built, dacă le-am făcut noi la recepție) și întocmim documentația de înscriere a construcției, cu planul de amplasament și delimitare actualizat." },
-        { "title": "Înscrierea la OCPI", "text": "Depunem dosarul online; după soluționare, construcția apare în partea I a cărții funciare, iar extrasul CF reflectă în sfârșit realitatea. De acum, orice control de durabilitate găsește documentele în ordine." }
+        "Recepția la terminarea lucrărilor — Procesul-verbal de recepție, semnat de comisie, este fundamentul întregului lanț. Dacă recepția nu s-a făcut sau are obiecții nerezolvate, de aici începem.",
+        "Certificatul de atestare a edificării — Se solicită primăriei care a emis autorizația. Termenele diferă mult între primării — de la câteva zile la câteva săptămâni — deci acest pas se pornește imediat după recepție.",
+        "Documentația cadastrală — Măsurăm construcția finală (sau refolosim măsurătorile as-built, dacă le-am făcut noi la recepție) și întocmim documentația de înscriere a construcției, cu planul de amplasament și delimitare actualizat.",
+        "Înscrierea la OCPI — Depunem dosarul online; după soluționare, construcția apare în partea I a cărții funciare, iar extrasul CF reflectă în sfârșit realitatea. De acum, orice control de durabilitate găsește documentele în ordine."
       ]
     },
     {
@@ -31,10 +31,22 @@
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
-        { "q": "Cât durează intabularea construcției, în total?", "a": "Cu recepția făcută: certificatul de atestare a edificării (zile–săptămâni, în funcție de primărie) + documentația cadastrală (zile, dacă măsurătorile as-built există) + soluționarea la OCPI (de ordinul săptămânilor, cu termene oficiale pe tip de cerere). Realist, de la 3 săptămâni la 2 luni cap-coadă — încă un argument să nu o lași pe ultima clipă." },
-        { "q": "Există un termen legal până la care trebuie intabulată construcția?", "a": "Legea 7/1996 prevede obligația înscrierii, iar din perspectiva finanțării contează cerințele contractului tău — multe ghiduri o cer explicit în perioada de durabilitate. Practic: fă-o imediat după recepție, cât actele sunt calde și oamenii implicați încă răspund la telefon." },
-        { "q": "Recepția s-a făcut acum 3 ani și nimeni nu mai găsește niște acte. Se mai poate?", "a": "Da — actele emise de instituții (autorizația, procesul-verbal de recepție) se pot obține în copie din arhivele acestora, iar noi refacem măsurătorile. Durează mai mult decât varianta „la timp”, dar se rezolvă; am descâlcit dosare și după 10 ani." },
-        { "q": "Ați făcut as-built-ul la recepție. Intabularea e mai ieftină?", "a": "Da, semnificativ — măsurătorile există deja, iar documentația cadastrală se întocmește direct pe ele. E și motivul pentru care propunem pachetul recepție + intabulare de la început: o mobilizare, două proceduri." }
+        {
+          "q": "Cât durează intabularea construcției, în total?",
+          "a": "Cu recepția făcută: certificatul de atestare a edificării (zile–săptămâni, în funcție de primărie) + documentația cadastrală (zile, dacă măsurătorile as-built există) + soluționarea la OCPI (de ordinul săptămânilor, cu termene oficiale pe tip de cerere). Realist, de la 3 săptămâni la 2 luni cap-coadă — încă un argument să nu o lași pe ultima clipă."
+        },
+        {
+          "q": "Există un termen legal până la care trebuie intabulată construcția?",
+          "a": "Legea 7/1996 prevede obligația înscrierii, iar din perspectiva finanțării contează cerințele contractului tău — multe ghiduri o cer explicit în perioada de durabilitate. Practic: fă-o imediat după recepție, cât actele sunt calde și oamenii implicați încă răspund la telefon."
+        },
+        {
+          "q": "Recepția s-a făcut acum 3 ani și nimeni nu mai găsește niște acte. Se mai poate?",
+          "a": "Da — actele emise de instituții (autorizația, procesul-verbal de recepție) se pot obține în copie din arhivele acestora, iar noi refacem măsurătorile. Durează mai mult decât varianta „la timp”, dar se rezolvă; am descâlcit dosare și după 10 ani."
+        },
+        {
+          "q": "Ați făcut as-built-ul la recepție. Intabularea e mai ieftină?",
+          "a": "Da, semnificativ — măsurătorile există deja, iar documentația cadastrală se întocmește direct pe ele. E și motivul pentru care propunem pachetul recepție + intabulare de la început: o mobilizare, două proceduri."
+        }
       ]
     },
     {

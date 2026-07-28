@@ -28,32 +28,64 @@
     {
       "type": "table",
       "heading": "Ce scară se folosește și când",
-      "head": ["Scara", "Utilizare tipică", "Observații"],
+      "head": [
+        "Scara",
+        "Utilizare tipică",
+        "Observații"
+      ],
       "rows": [
-        ["1:500", "Parcele urbane, clădiri, incinte mici", "Standardul pentru DTAC în intravilan"],
-        ["1:1000", "Incinte industriale, amplasamente medii, ferme", "Echilibrul uzual la proiecte cu finanțare"],
-        ["1:2000", "Amplasamente mari, trasee scurte de rețele", "Frecvent la SF-uri pe suprafețe întinse"],
-        ["1:5000", "Planuri de încadrare, studii de traseu, extravilan larg", "De regulă pe suport ortofotoplan"]
+        [
+          "1:500",
+          "Parcele urbane, clădiri, incinte mici",
+          "Standardul pentru DTAC în intravilan"
+        ],
+        [
+          "1:1000",
+          "Incinte industriale, amplasamente medii, ferme",
+          "Echilibrul uzual la proiecte cu finanțare"
+        ],
+        [
+          "1:2000",
+          "Amplasamente mari, trasee scurte de rețele",
+          "Frecvent la SF-uri pe suprafețe întinse"
+        ],
+        [
+          "1:5000",
+          "Planuri de încadrare, studii de traseu, extravilan larg",
+          "De regulă pe suport ortofotoplan"
+        ]
       ]
     },
     {
       "type": "process",
       "heading": "Procesul de obținere, de la comandă la viză",
       "steps": [
-        { "title": "Tema de la proiectant", "text": "Stabilim cu proiectantul zona de studiu, scara și cerințele speciale (curbe de nivel, secțiuni, rețele). O temă clară elimină refacerile — cel mai frecvent motiv de întârziere nu e OCPI-ul, ci zona de studiu măsurată prea mică." },
-        { "title": "Măsurătorile", "text": "Teren cu GPS RTK și stație totală; durata depinde de suprafață și de vegetație — de la câteva ore pentru o parcelă urbană la câteva zile pentru incinte mari." },
-        { "title": "Redactarea și depunerea la OCPI", "text": "Întocmim planul și îl depunem pentru recepție tehnică. Termenul de soluționare la OCPI este de ordinul zilelor lucrătoare, cu variații între oficii și tipuri de lucrări." },
-        { "title": "Livrarea", "text": "Primești planul vizat în PDF pentru dosar și DWG/DXF pentru proiectant, plus inventarul de coordonate. Orice clarificare cerută de OCPI o gestionăm noi — este lucrarea noastră, nu grija ta." }
+        "Tema de la proiectant — Stabilim cu proiectantul zona de studiu, scara și cerințele speciale (curbe de nivel, secțiuni, rețele). O temă clară elimină refacerile — cel mai frecvent motiv de întârziere nu e OCPI-ul, ci zona de studiu măsurată prea mică.",
+        "Măsurătorile — Teren cu GPS RTK și stație totală; durata depinde de suprafață și de vegetație — de la câteva ore pentru o parcelă urbană la câteva zile pentru incinte mari.",
+        "Redactarea și depunerea la OCPI — Întocmim planul și îl depunem pentru recepție tehnică. Termenul de soluționare la OCPI este de ordinul zilelor lucrătoare, cu variații între oficii și tipuri de lucrări.",
+        "Livrarea — Primești planul vizat în PDF pentru dosar și DWG/DXF pentru proiectant, plus inventarul de coordonate. Orice clarificare cerută de OCPI o gestionăm noi — este lucrarea noastră, nu grija ta."
       ]
     },
     {
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
-        { "q": "Cât timp este valabil planul topografic vizat OCPI?", "a": "Legea nu îi dă un termen de expirare; cerința instituțiilor este să fie „actualizat”, adică să reflecte situația reală. Dacă în teren nu s-a schimbat nimic, planul rămâne utilizabil; în practică, multe instituții privesc cu rezervă planurile mai vechi de 6–12 luni și pot cere confirmarea actualității." },
-        { "q": "E același lucru cu planul de amplasament și delimitare (PAD)?", "a": "Nu. PAD-ul e piesă de cadastru — definește limitele juridice pentru cartea funciară. Planul topografic e piesă de proiectare — arată terenul așa cum este, cu relief și detalii. Avem un tabel comparativ pe pagina dedicată PAD-ului." },
-        { "q": "Pot să-l facă „băieții cu drona” mai ieftin?", "a": "Fotogrametria e o unealtă excelentă — o folosim și noi la suprafețe mari — dar viza OCPI cere persoană autorizată ANCPI, măsurători în sistem național și răspundere profesională asumată. Un plan neavizat, oricât de frumos, nu este piesa cerută de ghid sau de primărie." },
-        { "q": "Terenul nu e intabulat. Pot obține plan topografic vizat?", "a": "Planul topografic se poate întocmi, dar fără carte funciară proiectul tău are o problemă mai mare: lipsește dovada proprietății. De regulă rezolvăm împreună — prima înscriere și planul topografic, în aceeași mobilizare de teren, cu economie reală de timp și bani." }
+        {
+          "q": "Cât timp este valabil planul topografic vizat OCPI?",
+          "a": "Legea nu îi dă un termen de expirare; cerința instituțiilor este să fie „actualizat”, adică să reflecte situația reală. Dacă în teren nu s-a schimbat nimic, planul rămâne utilizabil; în practică, multe instituții privesc cu rezervă planurile mai vechi de 6–12 luni și pot cere confirmarea actualității."
+        },
+        {
+          "q": "E același lucru cu planul de amplasament și delimitare (PAD)?",
+          "a": "Nu. PAD-ul e piesă de cadastru — definește limitele juridice pentru cartea funciară. Planul topografic e piesă de proiectare — arată terenul așa cum este, cu relief și detalii. Avem un tabel comparativ pe pagina dedicată PAD-ului."
+        },
+        {
+          "q": "Pot să-l facă „băieții cu drona” mai ieftin?",
+          "a": "Fotogrametria e o unealtă excelentă — o folosim și noi la suprafețe mari — dar viza OCPI cere persoană autorizată ANCPI, măsurători în sistem național și răspundere profesională asumată. Un plan neavizat, oricât de frumos, nu este piesa cerută de ghid sau de primărie."
+        },
+        {
+          "q": "Terenul nu e intabulat. Pot obține plan topografic vizat?",
+          "a": "Planul topografic se poate întocmi, dar fără carte funciară proiectul tău are o problemă mai mare: lipsește dovada proprietății. De regulă rezolvăm împreună — prima înscriere și planul topografic, în aceeași mobilizare de teren, cu economie reală de timp și bani."
+        }
       ]
     },
     {

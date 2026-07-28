@@ -16,10 +16,10 @@
       "type": "process",
       "heading": "Cum verifici o autorizație ANCPI, pas cu pas",
       "steps": [
-        { "title": "Cere numărul autorizației", "text": "Orice topograf serios ți-l dă fără ezitare — seria și numărul certificatului de autorizare, plus categoria. Ezitarea la această întrebare este ea însăși un răspuns." },
-        { "title": "Caută în registrul public", "text": "ANCPI publică pe site-ul propriu (ancpi.ro, secțiunea de autorizare) registrele persoanelor fizice și juridice autorizate, cu numele, categoria și statutul autorizației. Caută numele sau numărul primit." },
-        { "title": "Verifică statutul și categoria", "text": "Contează două lucruri: autorizația să fie validă (nu suspendată/retrasă) și categoria să acopere tipul lucrării tale — categoriile de autorizare diferă ca arie de competență, de la lucrări curente de cadastru până la lucrări de specialitate complexe." },
-        { "title": "Verifică semnătura pe livrabile", "text": "Pe fiecare planșă și documentație predată trebuie să apară datele executantului autorizat — nume, număr de autorizație, semnătură și, la depunerile electronice, semnătura electronică a acestuia. Fără ele, „planul” e un desen." }
+        "Cere numărul autorizației — Orice topograf serios ți-l dă fără ezitare — seria și numărul certificatului de autorizare, plus categoria. Ezitarea la această întrebare este ea însăși un răspuns.",
+        "Caută în registrul public — ANCPI publică pe site-ul propriu (ancpi.ro, secțiunea de autorizare) registrele persoanelor fizice și juridice autorizate, cu numele, categoria și statutul autorizației. Caută numele sau numărul primit.",
+        "Verifică statutul și categoria — Contează două lucruri: autorizația să fie validă (nu suspendată/retrasă) și categoria să acopere tipul lucrării tale — categoriile de autorizare diferă ca arie de competență, de la lucrări curente de cadastru până la lucrări de specialitate complexe.",
+        "Verifică semnătura pe livrabile — Pe fiecare planșă și documentație predată trebuie să apară datele executantului autorizat — nume, număr de autorizație, semnătură și, la depunerile electronice, semnătura electronică a acestuia. Fără ele, „planul” e un desen."
       ]
     },
     {
@@ -31,11 +31,28 @@
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
-        { "q": "Ce diferență e între topograf, inginer geodez și „cel care face cadastre”?", "a": "Titulaturile descriu formarea; pentru OCPI contează un singur lucru: autorizația ANCPI validă, în categoria potrivită lucrării. Un inginer geodez excelent fără autorizație nu poate semna documentația ta; o persoană autorizată răspunde legal pentru ea. Întreabă de autorizație, nu de diplomă." },
-        { "q": "Firma are autorizație de persoană juridică — ajunge?", "a": "Persoanele juridice autorizate execută lucrări prin specialiștii lor, iar regulamentul cere ca lucrările să fie asumate corespunzător. La contractare, e legitim să întrebi cine anume semnează lucrarea ta și ce autorizație are — răspunsul trebuie să fie un nume și un număr, nu „avem noi oameni”." },
-        { "q": "Documentația veche a imobilului e semnată de cineva care între timp nu mai e autorizat. E o problemă?", "a": "Nu retroactiv — lucrările recepționate rămân valabile; contează statutul autorizației la data executării. Pentru lucrări noi pe același imobil ai însă nevoie de o persoană autorizată acum." },
-        { "q": "Pot reclama o lucrare prost făcută de un autorizat?", "a": "Da — ANCPI/OCPI au proceduri disciplinare pentru abateri profesionale, iar sancțiunile merg până la retragerea autorizației. Înainte de plângeri formale, o a doua opinie tehnică lămurește dacă e vorba de o greșeală reală sau de o neînțelegere — facem astfel de verificări documentat și fără patimă." }
+        {
+          "q": "Ce diferență e între topograf, inginer geodez și „cel care face cadastre”?",
+          "a": "Titulaturile descriu formarea; pentru OCPI contează un singur lucru: autorizația ANCPI validă, în categoria potrivită lucrării. Un inginer geodez excelent fără autorizație nu poate semna documentația ta; o persoană autorizată răspunde legal pentru ea. Întreabă de autorizație, nu de diplomă."
+        },
+        {
+          "q": "Firma are autorizație de persoană juridică — ajunge?",
+          "a": "Persoanele juridice autorizate execută lucrări prin specialiștii lor, iar regulamentul cere ca lucrările să fie asumate corespunzător. La contractare, e legitim să întrebi cine anume semnează lucrarea ta și ce autorizație are — răspunsul trebuie să fie un nume și un număr, nu „avem noi oameni”."
+        },
+        {
+          "q": "Documentația veche a imobilului e semnată de cineva care între timp nu mai e autorizat. E o problemă?",
+          "a": "Nu retroactiv — lucrările recepționate rămân valabile; contează statutul autorizației la data executării. Pentru lucrări noi pe același imobil ai însă nevoie de o persoană autorizată acum."
+        },
+        {
+          "q": "Pot reclama o lucrare prost făcută de un autorizat?",
+          "a": "Da — ANCPI/OCPI au proceduri disciplinare pentru abateri profesionale, iar sancțiunile merg până la retragerea autorizației. Înainte de plângeri formale, o a doua opinie tehnică lămurește dacă e vorba de o greșeală reală sau de o neînțelegere — facem astfel de verificări documentat și fără patimă."
+        }
       ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Categoriile de autorizare: de ce nu orice autorizat poate orice lucrare",
+      "html": "<p>Un rafinament pe care merită să-l cunoști când angajezi lucrări mai speciale: autorizarea ANCPI nu e monolitică — regulamentul definește <strong>categorii de lucrări</strong>, iar certificatul fiecărui specialist precizează pentru care dintre ele răspunde. Simplificat: lucrările curente de cadastru și topografie (documentații de imobile, planuri de amplasament, ridicări pentru proiectare) formează fondul comun al profesiunii; lucrările de specialitate mai pretențioase — rețele geodezice, lucrări de nivelment de precizie, categorii speciale definite de regulament — cer trepte de autorizare corespunzătoare, iar persoanele juridice au propriul regim, cu clase legate de specialiștii angajați. Pentru proiectele tipice cu finanțare (intabulări, planuri topografice, trasări, as-built), orice autorizat în categoriile de bază acoperă legal lucrarea; la investiții mari de infrastructură sau la monitorizări de precizie, întrebarea „ce categorie acoperă exact această lucrare?” devine legitimă și profesionistul serios răspunde documentat.</p><p>De ce îți spunem asta în loc s-o ținem ca „secret de breaslă”: pentru că beneficiarul informat pune întrebările corecte, iar întrebările corecte curăță piața de improvizație — în folosul tuturor celor care lucrează pe bune. Verificarea categoriei se face în același registru public ANCPI ca și verificarea autorizației; iar dacă un ofertant se ferește să discute subiectul, tocmai ți-a răspuns.</p>"
     },
     {
       "type": "cta",

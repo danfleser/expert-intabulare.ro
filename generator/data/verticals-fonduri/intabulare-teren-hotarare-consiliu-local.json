@@ -16,10 +16,10 @@
       "type": "process",
       "heading": "Traseul pentru persoane fizice: de la ordin/titlu la extras CF",
       "steps": [
-        { "title": "Verificarea actului", "text": "Citim ordinul de prefect sau titlul: ce suprafață, ce identificare (tarla/parcelă, vecinătăți), pe cine e emis. Dacă titularul a decedat, succesiunea intră în calendar înaintea oricărui pas cadastral." },
-        { "title": "Identificarea parcelei", "text": "Corelăm actul cu planul parcelar, registrul agricol și realitatea din teren. La ordinele de prefect pentru curți-grădini identificarea e de obicei simplă; la titlurile din extravilan poate cere muncă de arhivă." },
-        { "title": "Măsurători și documentație de primă înscriere", "text": "Măsurăm, întocmim documentația cadastrală cu actul administrativ ca temei al dreptului și o depunem la OCPI." },
-        { "title": "Cartea funciară", "text": "După soluționare, imobilul are număr cadastral și CF electronică — iar tu ai, în sfârșit, extrasul pe care îl cere orice ghid de finanțare." }
+        "Verificarea actului — Citim ordinul de prefect sau titlul: ce suprafață, ce identificare (tarla/parcelă, vecinătăți), pe cine e emis. Dacă titularul a decedat, succesiunea intră în calendar înaintea oricărui pas cadastral.",
+        "Identificarea parcelei — Corelăm actul cu planul parcelar, registrul agricol și realitatea din teren. La ordinele de prefect pentru curți-grădini identificarea e de obicei simplă; la titlurile din extravilan poate cere muncă de arhivă.",
+        "Măsurători și documentație de primă înscriere — Măsurăm, întocmim documentația cadastrală cu actul administrativ ca temei al dreptului și o depunem la OCPI.",
+        "Cartea funciară — După soluționare, imobilul are număr cadastral și CF electronică — iar tu ai, în sfârșit, extrasul pe care îl cere orice ghid de finanțare."
       ]
     },
     {
@@ -31,11 +31,28 @@
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
-        { "q": "Am ordin de prefect din 1998 pentru curtea casei. Mai e valabil?", "a": "Da — actul administrativ nu expiră. Ce se degradează în timp e contextul: martori, vecini, limite. Intabularea pe baza lui se face oricând, dar cu cât mai devreme, cu atât mai simplu. Dacă ai un proiect în orizont, acesta e momentul." },
-        { "q": "Titlul de proprietate e pe tata, care a murit. Pot intabula direct pe mine?", "a": "Nu direct — lanțul corect trece prin succesiune: certificatul de moștenitor aduce dreptul la zi, apoi documentația cadastrală îl înscrie. Cele două se pot pregăti în paralel; vezi și pagina noastră despre moșteniri nedezbătute." },
-        { "q": "Primăria are terenul „în inventar” din 1999. De ce nu ajunge pentru proiect?", "a": "Pentru că inventarul atestă apartenența la domeniul public, dar nu ține loc de carte funciară — iar ghidurile și autorizarea cer înscrierea. Vestea bună: inventarul atestat este exact temeiul pe care se face prima înscriere; documentația cadastrală îl transformă în CF." },
-        { "q": "HCL-ul ne dă terenul „în folosință gratuită” pentru un centru social. Ce mai trebuie?", "a": "Dreptul de folosință trebuie constituit în forma cerută de lege și, pentru dosar, înscris în cartea funciară a imobilului — care, la rândul ei, trebuie să existe. Ordinea: intabularea imobilului pe UAT, apoi înscrierea dreptului de folosință. Programează ambele înainte de sesiune." }
+        {
+          "q": "Am ordin de prefect din 1998 pentru curtea casei. Mai e valabil?",
+          "a": "Da — actul administrativ nu expiră. Ce se degradează în timp e contextul: martori, vecini, limite. Intabularea pe baza lui se face oricând, dar cu cât mai devreme, cu atât mai simplu. Dacă ai un proiect în orizont, acesta e momentul."
+        },
+        {
+          "q": "Titlul de proprietate e pe tata, care a murit. Pot intabula direct pe mine?",
+          "a": "Nu direct — lanțul corect trece prin succesiune: certificatul de moștenitor aduce dreptul la zi, apoi documentația cadastrală îl înscrie. Cele două se pot pregăti în paralel; vezi și pagina noastră despre moșteniri nedezbătute."
+        },
+        {
+          "q": "Primăria are terenul „în inventar” din 1999. De ce nu ajunge pentru proiect?",
+          "a": "Pentru că inventarul atestă apartenența la domeniul public, dar nu ține loc de carte funciară — iar ghidurile și autorizarea cer înscrierea. Vestea bună: inventarul atestat este exact temeiul pe care se face prima înscriere; documentația cadastrală îl transformă în CF."
+        },
+        {
+          "q": "HCL-ul ne dă terenul „în folosință gratuită” pentru un centru social. Ce mai trebuie?",
+          "a": "Dreptul de folosință trebuie constituit în forma cerută de lege și, pentru dosar, înscris în cartea funciară a imobilului — care, la rândul ei, trebuie să existe. Ordinea: intabularea imobilului pe UAT, apoi înscrierea dreptului de folosință. Programează ambele înainte de sesiune."
+        }
       ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Capcanele specifice actelor administrative — și cum le dezamorsăm",
+      "html": "<p>Actele emise de autorități au slăbiciunile lor tipice, diferite de ale actelor notariale, și merită știute înainte de a construi un calendar pe ele. <strong>Identificarea sumară:</strong> multe ordine de prefect descriu terenul prin „suprafața aferentă locuinței” fără schiță și fără vecinătăți — poziția exactă se reconstituie din context, iar unde curtea istorică diferă de cea actuală, apar discuții. <strong>Erorile materiale:</strong> nume scrise greșit, suprafețe bătute la mașină cu cifre inversate, parcele atribuite de două ori în tarlale diferite — se corectează, dar corectarea trece pe la emitent (prefectură, comisia de fond funciar), cu termenele instituțiilor. <strong>Suprapunerea reconstituirilor:</strong> titluri emise în anii diferiți, pe planuri parcelare diferite, care revendică aceleași fâșii — cazul greu, care cere corelarea întregii tarlale.</p><p>Modul nostru de lucru cu aceste dosare: înainte de a promite orice termen, facem verificarea completă — actul față de planul parcelar, planul parcelar față de teren, terenul față de imobilele deja înscrise. Abia acest triaj spune dacă ai un caz de șase săptămâni sau unul de șase luni. Iar pentru UAT-urile care au zeci de astfel de situații în inventar, același triaj aplicat pe listă întreagă produce harta realistă a patrimoniului: ce se intabulează acum, ce cere corecturi administrative și ce trebuie lăsat la urmă — cu bugete și termene pe fiecare categorie.</p>"
     },
     {
       "type": "cta",

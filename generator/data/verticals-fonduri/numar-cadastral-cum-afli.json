@@ -16,10 +16,10 @@
       "type": "process",
       "heading": "Cum îl afli, de la simplu la detectivistic",
       "steps": [
-        { "title": "Caută în actele imobilului", "text": "Contractele notariale de după ~2000, certificatele de moștenitor recente și orice extras CF menționează numărul cadastral (uneori notat „nr. cad.” sau, la imobile mai vechi, „nr. topografic”). E cea mai rapidă sursă." },
-        { "title": "Caută pe geoportalul ANCPI", "text": "Intră pe geoportal.ancpi.ro, aplicația de consultare a imobilelor (eTerra). Navighează pe hartă până la teren sau caută după localitate; imobilele înscrise apar cu contur și număr cadastral afișat la clic. Gratuit, public, fără cont." },
-        { "title": "Întreabă la primărie sau verifică documentele fiscale", "text": "Registrul agricol și evidențele de taxe locale menționează frecvent identificatorii imobilului; utile mai ales la terenurile moștenite, unde actele sunt împrăștiate prin familie." },
-        { "title": "Dacă nu-l găsești nicăieri: probabil nu există încă", "text": "Un imobil fără număr cadastral nu a fost niciodată înscris în sistemul integrat — nu e o eroare de căutare, e diagnosticul. Următorul pas e prima înscriere: măsurători, documentație cadastrală, OCPI. Exact serviciul nostru de bază." }
+        "Caută în actele imobilului — Contractele notariale de după ~2000, certificatele de moștenitor recente și orice extras CF menționează numărul cadastral (uneori notat „nr. cad.” sau, la imobile mai vechi, „nr. topografic”). E cea mai rapidă sursă.",
+        "Caută pe geoportalul ANCPI — Intră pe geoportal.ancpi.ro, aplicația de consultare a imobilelor (eTerra). Navighează pe hartă până la teren sau caută după localitate; imobilele înscrise apar cu contur și număr cadastral afișat la clic. Gratuit, public, fără cont.",
+        "Întreabă la primărie sau verifică documentele fiscale — Registrul agricol și evidențele de taxe locale menționează frecvent identificatorii imobilului; utile mai ales la terenurile moștenite, unde actele sunt împrăștiate prin familie.",
+        "Dacă nu-l găsești nicăieri: probabil nu există încă — Un imobil fără număr cadastral nu a fost niciodată înscris în sistemul integrat — nu e o eroare de căutare, e diagnosticul. Următorul pas e prima înscriere: măsurători, documentație cadastrală, OCPI. Exact serviciul nostru de bază."
       ]
     },
     {
@@ -31,11 +31,28 @@
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
-        { "q": "Pe geoportal, terenul vecinilor apare cu contur, al meu nu. Ce înseamnă?", "a": "Aproape sigur imobilul tău nu e înscris în sistemul integrat — vecinii au făcut cadastrul, tu nu încă. Pentru orice dosar de finanțare, prima înscriere devine pasul zero; realist durează câteva săptămâni, deci nu-l lăsa pe ultima lună." },
-        { "q": "Conturul de pe geoportal pare deplasat față de gardul meu. E grav?", "a": "Geoportalul afișează datele cum au fost înscrise; deplasările vizibile pot fi de la măsurători vechi sau erori de integrare — sau doar de la fundalul ortofoto. Dacă diferența e mare, merită o verificare profesională: poate fi o suprapunere latentă care ți-ar bloca următoarea documentație." },
-        { "q": "Cu numărul cadastral pot afla cine e proprietarul unui teren?", "a": "Numărul în sine nu afișează public proprietarul, dar cu el se poate solicita un extras CF de informare — serviciu public, contra unui tarif mic, disponibil online. Extrasul arată proprietarul, suprafața și sarcinile; e instrumentul legal de verificare înainte de orice tranzacție sau proiect." },
-        { "q": "Am numărul cadastral. Ce îmi mai trebuie pentru dosar?", "a": "De regulă: extras CF recent (≤30 de zile la depunere), iar în funcție de proiect — plan de amplasament, plan topografic vizat, documente pe drept. Trimite-ne numărul pe WhatsApp și îți spunem în aceeași zi statusul imobilului și lista exactă a pieselor lipsă." }
+        {
+          "q": "Pe geoportal, terenul vecinilor apare cu contur, al meu nu. Ce înseamnă?",
+          "a": "Aproape sigur imobilul tău nu e înscris în sistemul integrat — vecinii au făcut cadastrul, tu nu încă. Pentru orice dosar de finanțare, prima înscriere devine pasul zero; realist durează câteva săptămâni, deci nu-l lăsa pe ultima lună."
+        },
+        {
+          "q": "Conturul de pe geoportal pare deplasat față de gardul meu. E grav?",
+          "a": "Geoportalul afișează datele cum au fost înscrise; deplasările vizibile pot fi de la măsurători vechi sau erori de integrare — sau doar de la fundalul ortofoto. Dacă diferența e mare, merită o verificare profesională: poate fi o suprapunere latentă care ți-ar bloca următoarea documentație."
+        },
+        {
+          "q": "Cu numărul cadastral pot afla cine e proprietarul unui teren?",
+          "a": "Numărul în sine nu afișează public proprietarul, dar cu el se poate solicita un extras CF de informare — serviciu public, contra unui tarif mic, disponibil online. Extrasul arată proprietarul, suprafața și sarcinile; e instrumentul legal de verificare înainte de orice tranzacție sau proiect."
+        },
+        {
+          "q": "Am numărul cadastral. Ce îmi mai trebuie pentru dosar?",
+          "a": "De regulă: extras CF recent (≤30 de zile la depunere), iar în funcție de proiect — plan de amplasament, plan topografic vizat, documente pe drept. Trimite-ne numărul pe WhatsApp și îți spunem în aceeași zi statusul imobilului și lista exactă a pieselor lipsă."
+        }
       ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Unde apare numărul cadastral în dosarul tău — harta mențiunilor",
+      "html": "<p>Odată aflat, numărul cadastral devine firul roșu al întregului dosar de finanțare — și verificarea coerenței lui prin toate piesele e unul dintre controalele noastre standard înainte de depunere. Harta locurilor unde trebuie să apară identic: <strong>extrasul CF</strong> (evident — el e sursa); <strong>cererea de finanțare</strong>, la secțiunea de identificare a amplasamentului; <strong>planul de amplasament și delimitare</strong> și <strong>planul topografic</strong>, în cartuș și pe planșă; <strong>certificatul de urbanism</strong> și, mai târziu, <strong>autorizația de construire</strong>; <strong>contractele</strong> care poartă drepturi pe imobil (superficie, concesiune); și <strong>studiile</strong> — SF, geotehnic, unde identificarea amplasamentului e capitol obligatoriu. O piesă cu numărul greșit sau lipsă e o clarificare garantată; două piese cu numere diferite pentru „același” teren sunt un semnal de alarmă care poate escalada.</p><p>Sursele clasice de neconcordanță, ca să le eviți: imobile dezlipite sau alipite în timpul pregătirii proiectului (numărul vechi moare, apare unul nou — dar SF-ul comandat devreme rămâne pe cel vechi), confuzia dintre numărul cadastral și numărul cărții funciare (ambele cerute, des inversate în formulare) și copierea din acte vechi care menționează numere topografice istorice. Regula simplă care le previne pe toate: după orice operațiune cadastrală, actualizează numărul în toate piesele vii ale dosarului — sau lasă-ne pe noi să facem verificarea de coerență la final; e inclusă în pachetele pentru dosare de finanțare.</p>"
     },
     {
       "type": "cta",

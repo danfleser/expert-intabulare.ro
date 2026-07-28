@@ -16,33 +16,86 @@
       "type": "process",
       "heading": "Constituirea și intabularea superficiei, pas cu pas",
       "steps": [
-        { "title": "Clarificarea terenului-suport", "text": "Terenul trebuie să fie intabulat, cu proprietar clar și fără sarcini care blochează grevarea (o interdicție de grevare din partea băncii, de exemplu, cere acordul acesteia). Verificăm extrasul CF înainte de orice drum la notar." },
-        { "title": "Dezlipirea, dacă superficia privește doar o parte din teren", "text": "Superficia se poate constitui pe întregul imobil sau pe o parte determinată — caz în care e nevoie de dezlipirea cadastrală a lotului vizat sau de identificarea lui printr-o documentație specifică. Aici intrăm noi: măsurători, documentație, recepție OCPI." },
-        { "title": "Actul notarial", "text": "Superficia asupra imobilelor se constituie prin act autentic — notarul redactează contractul (cu titlu oneros sau gratuit, cu durata și condițiile negociate). Mergem noi cu documentația cadastrală pregătită, ca actul să refere exact imobilul corect." },
-        { "title": "Intabularea în cartea funciară", "text": "Notarul depune actul spre înscriere; superficia apare în cartea funciară, iar superficiarul (firma ta) poate obține de acum extras CF care dovedește dreptul — piesa cerută de finanțator și baza autorizației de construire." }
+        "Clarificarea terenului-suport — Terenul trebuie să fie intabulat, cu proprietar clar și fără sarcini care blochează grevarea (o interdicție de grevare din partea băncii, de exemplu, cere acordul acesteia). Verificăm extrasul CF înainte de orice drum la notar.",
+        "Dezlipirea, dacă superficia privește doar o parte din teren — Superficia se poate constitui pe întregul imobil sau pe o parte determinată — caz în care e nevoie de dezlipirea cadastrală a lotului vizat sau de identificarea lui printr-o documentație specifică. Aici intrăm noi: măsurători, documentație, recepție OCPI.",
+        "Actul notarial — Superficia asupra imobilelor se constituie prin act autentic — notarul redactează contractul (cu titlu oneros sau gratuit, cu durata și condițiile negociate). Mergem noi cu documentația cadastrală pregătită, ca actul să refere exact imobilul corect.",
+        "Intabularea în cartea funciară — Notarul depune actul spre înscriere; superficia apare în cartea funciară, iar superficiarul (firma ta) poate obține de acum extras CF care dovedește dreptul — piesa cerută de finanțator și baza autorizației de construire."
       ]
     },
     {
       "type": "table",
       "heading": "Superficie vs. alternativele ei, din perspectiva finanțatorului",
-      "head": ["Criteriu", "Superficie", "Comodat", "Arendă", "Concesiune"],
+      "head": [
+        "Criteriu",
+        "Superficie",
+        "Comodat",
+        "Arendă",
+        "Concesiune"
+      ],
       "rows": [
-        ["Natura dreptului", "Drept real, opozabil tuturor", "Drept de folosință contractual", "Folosință agricolă contractuală", "Drept real (bunuri publice/private ale statului/UAT)"],
-        ["Permite autorizarea construcțiilor", "Da — scopul ei principal", "De regulă nu, singur", "Nu", "Da, conform contractului"],
-        ["Înscriere", "În cartea funciară", "Posibilă notare", "Registrul arendelor la primărie", "În cartea funciară"],
-        ["Acceptare în ghiduri pentru construcții", "Larg acceptată", "Rar, doar investiții fără construcții", "Doar folosință agricolă", "Acceptată (tipic pentru terenuri UAT)"],
-        ["Durata tipică", "Până la 99 de ani", "Negociabilă", "Negociabilă", "Conform contractului de concesiune"]
+        [
+          "Natura dreptului",
+          "Drept real, opozabil tuturor",
+          "Drept de folosință contractual",
+          "Folosință agricolă contractuală",
+          "Drept real (bunuri publice/private ale statului/UAT)"
+        ],
+        [
+          "Permite autorizarea construcțiilor",
+          "Da — scopul ei principal",
+          "De regulă nu, singur",
+          "Nu",
+          "Da, conform contractului"
+        ],
+        [
+          "Înscriere",
+          "În cartea funciară",
+          "Posibilă notare",
+          "Registrul arendelor la primărie",
+          "În cartea funciară"
+        ],
+        [
+          "Acceptare în ghiduri pentru construcții",
+          "Larg acceptată",
+          "Rar, doar investiții fără construcții",
+          "Doar folosință agricolă",
+          "Acceptată (tipic pentru terenuri UAT)"
+        ],
+        [
+          "Durata tipică",
+          "Până la 99 de ani",
+          "Negociabilă",
+          "Negociabilă",
+          "Conform contractului de concesiune"
+        ]
       ]
     },
     {
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
-        { "q": "Cât durează toată procedura de superficie?", "a": "Cu terenul-suport intabulat și fără dezlipire: programarea la notar plus înscrierea — realist 1–3 săptămâni. Cu dezlipire cadastrală înainte: adaugă 2–5 săptămâni. Este una dintre cele mai rapide căi de a obține un drept acceptat de finanțator — motiv pentru care e și „planul B” clasic al terenurilor neintabulabile la timp." },
-        { "q": "Superficia mă ferește de probleme dacă familia se ceartă mai târziu?", "a": "Fiind drept real înscris în CF, superficia supraviețuiește vânzării terenului și moștenirilor — noul proprietar o preia ca sarcină. E exact motivul pentru care băncile și finanțatorii o preferă comodatului. Condițiile de încetare sunt cele din contract — de negociat atent la notar." },
-        { "q": "Ce se întâmplă cu construcția la expirarea superficiei?", "a": "Regula din Codul civil: proprietarul terenului devine proprietarul construcției, cu obligațiile de despăgubire prevăzute de lege sau de contract. La 99 de ani, problema e teoretică pentru un proiect de finanțare; la durate scurte, merită clauze clare — discută cu notarul și avocatul." },
-        { "q": "Finanțatorul cere „drept asupra terenului pe minim X ani”. Superficia noastră are mai puțin. Se poate prelungi?", "a": "Da — prin act notarial adițional, cu acordul proprietarului, urmat de actualizarea înscrierii în CF. Fă-o înainte de depunere; un drept „aproape suficient” e un motiv de clarificări sau respingere." }
+        {
+          "q": "Cât durează toată procedura de superficie?",
+          "a": "Cu terenul-suport intabulat și fără dezlipire: programarea la notar plus înscrierea — realist 1–3 săptămâni. Cu dezlipire cadastrală înainte: adaugă 2–5 săptămâni. Este una dintre cele mai rapide căi de a obține un drept acceptat de finanțator — motiv pentru care e și „planul B” clasic al terenurilor neintabulabile la timp."
+        },
+        {
+          "q": "Superficia mă ferește de probleme dacă familia se ceartă mai târziu?",
+          "a": "Fiind drept real înscris în CF, superficia supraviețuiește vânzării terenului și moștenirilor — noul proprietar o preia ca sarcină. E exact motivul pentru care băncile și finanțatorii o preferă comodatului. Condițiile de încetare sunt cele din contract — de negociat atent la notar."
+        },
+        {
+          "q": "Ce se întâmplă cu construcția la expirarea superficiei?",
+          "a": "Regula din Codul civil: proprietarul terenului devine proprietarul construcției, cu obligațiile de despăgubire prevăzute de lege sau de contract. La 99 de ani, problema e teoretică pentru un proiect de finanțare; la durate scurte, merită clauze clare — discută cu notarul și avocatul."
+        },
+        {
+          "q": "Finanțatorul cere „drept asupra terenului pe minim X ani”. Superficia noastră are mai puțin. Se poate prelungi?",
+          "a": "Da — prin act notarial adițional, cu acordul proprietarului, urmat de actualizarea înscrierii în CF. Fă-o înainte de depunere; un drept „aproape suficient” e un motiv de clarificări sau respingere."
+        }
       ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Costurile și clauzele: la ce să te uiți înainte de a semna",
+      "html": "<p>Orientativ, constituirea unei superficii adună trei categorii de costuri: <strong>onorariul notarial</strong> (dependent de valoarea declarată a dreptului și de tarifele biroului), <strong>tarifele OCPI</strong> pentru înscriere și, unde superficia privește doar o parte din teren, <strong>documentația cadastrală de dezlipire</strong> — componenta noastră. La un montaj tipic de proiect de familie, totalul se încadrează de regulă în ordinul miilor de lei — o fracțiune din orice buget de investiție și incomparabil mai ieftin decât transferul proprietății, cu taxele lui.</p><p>La clauze, punctele care merită atenție înainte de semnare — de discutat cu notarul și, la proiecte mari, cu un avocat: <strong>durata</strong> (generoasă, cu marjă peste cerința ghidului), <strong>caracterul oneros sau gratuit</strong> (redevența anuală, dacă există, intră în cheltuielile proiectului), <strong>regimul construcțiilor la încetare</strong> (despăgubirea superficiarului — contează dacă durata e scurtă), <strong>transmisibilitatea</strong> (poate firma să cedeze superficia odată cu proiectul, la o eventuală vânzare a afacerii?) și <strong>clauzele de încetare anticipată</strong> — un drept reziliabil discreționar de proprietar valorează, pentru un finanțator sau o bancă, cât un comodat. Superficia e un instrument excelent exact pentru că e configurabilă; configureaz-o pentru scenariul de peste zece ani, nu doar pentru dosarul de anul acesta.</p>"
     },
     {
       "type": "cta",

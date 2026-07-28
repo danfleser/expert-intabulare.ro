@@ -16,10 +16,10 @@
       "type": "process",
       "heading": "Cum se obține viza, în patru pași",
       "steps": [
-        { "title": "Măsurătorile", "text": "O persoană autorizată ANCPI măsoară terenul în sistem național — GPS RTK, stație totală — cu toate detaliile cerute de scopul planului." },
-        { "title": "Redactarea documentației", "text": "Planul se întocmește la scara potrivită, cu inventar de coordonate, încadrare în zonă și conținutul cerut de regulament pentru tipul respectiv de lucrare." },
-        { "title": "Depunerea la OCPI", "text": "Documentația intră la recepție tehnică; inspectorul verifică proveniența măsurătorilor, corectitudinea calculelor și integrarea cu imobilele deja înscrise." },
-        { "title": "Recepția", "text": "La aviz favorabil, planul primește procesul-verbal de recepție și marcajul OCPI — de acum e „vizat” și utilizabil în dosare. La observații, executantul corectează și redepune." }
+        "Măsurătorile — O persoană autorizată ANCPI măsoară terenul în sistem național — GPS RTK, stație totală — cu toate detaliile cerute de scopul planului.",
+        "Redactarea documentației — Planul se întocmește la scara potrivită, cu inventar de coordonate, încadrare în zonă și conținutul cerut de regulament pentru tipul respectiv de lucrare.",
+        "Depunerea la OCPI — Documentația intră la recepție tehnică; inspectorul verifică proveniența măsurătorilor, corectitudinea calculelor și integrarea cu imobilele deja înscrise.",
+        "Recepția — La aviz favorabil, planul primește procesul-verbal de recepție și marcajul OCPI — de acum e „vizat” și utilizabil în dosare. La observații, executantul corectează și redepune."
       ]
     },
     {
@@ -31,11 +31,28 @@
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
-        { "q": "Ghidul cere „plan de amplasament vizat OCPI”. E același lucru cu planul topografic vizat?", "a": "Nu chiar — planul de amplasament și delimitare (PAD) e piesă de cadastru, planul topografic e piesă de proiectare; ambele trec prin recepția OCPI, dar au conținut și rol diferit. Trimite-ne formularea exactă din ghid și îți spunem care dintre ele ți se cere de fapt — confuzia asta produce lunar dosare întoarse." },
-        { "q": "Cât durează obținerea vizei?", "a": "Recepția la OCPI durează de regulă de la câteva zile la două săptămâni, în funcție de oficiu și de tipul lucrării, peste timpul de măsurare și redactare. Detalii pe pagina noastră despre termene." },
-        { "q": "Cine poate depune pentru viză — pot merge eu, ca beneficiar?", "a": "Documentația o întocmește și o susține persoana autorizată ANCPI care a executat măsurătorile — inclusiv răspunsurile la eventualele observații ale inspectorului. Ca beneficiar, treaba ta se termină la comandă; restul e răspunderea noastră profesională." },
-        { "q": "Cum verific dacă un plan pe care îl am e într-adevăr vizat?", "a": "Caută marcajul de recepție și numărul procesului-verbal pe planșă, plus autorizația ANCPI a executantului în cartuș. Dacă ai dubii, trimite-ne o poză a planului pe WhatsApp — recunoaștem în două minute dacă e piesă recepționată sau doar un desen frumos." }
+        {
+          "q": "Ghidul cere „plan de amplasament vizat OCPI”. E același lucru cu planul topografic vizat?",
+          "a": "Nu chiar — planul de amplasament și delimitare (PAD) e piesă de cadastru, planul topografic e piesă de proiectare; ambele trec prin recepția OCPI, dar au conținut și rol diferit. Trimite-ne formularea exactă din ghid și îți spunem care dintre ele ți se cere de fapt — confuzia asta produce lunar dosare întoarse."
+        },
+        {
+          "q": "Cât durează obținerea vizei?",
+          "a": "Recepția la OCPI durează de regulă de la câteva zile la două săptămâni, în funcție de oficiu și de tipul lucrării, peste timpul de măsurare și redactare. Detalii pe pagina noastră despre termene."
+        },
+        {
+          "q": "Cine poate depune pentru viză — pot merge eu, ca beneficiar?",
+          "a": "Documentația o întocmește și o susține persoana autorizată ANCPI care a executat măsurătorile — inclusiv răspunsurile la eventualele observații ale inspectorului. Ca beneficiar, treaba ta se termină la comandă; restul e răspunderea noastră profesională."
+        },
+        {
+          "q": "Cum verific dacă un plan pe care îl am e într-adevăr vizat?",
+          "a": "Caută marcajul de recepție și numărul procesului-verbal pe planșă, plus autorizația ANCPI a executantului în cartuș. Dacă ai dubii, trimite-ne o poză a planului pe WhatsApp — recunoaștem în două minute dacă e piesă recepționată sau doar un desen frumos."
+        }
       ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "De unde vine cerința: puțină istorie utilă",
+      "html": "<p>Recepția lucrărilor de specialitate nu e o invenție birocratică recentă — e mecanismul prin care statul își apără evidența imobiliară de haosul măsurătorilor necontrolate. Înainte de centralizarea în sistemul integrat, planurile circulau în sisteme de coordonate locale, cu precizii neverificabile: două lucrări corecte fiecare în sistemul ei puteau fi incompatibile între ele, iar evidențele s-au umplut de contradicții pe care le descâlcim și azi, la conversiile cărților vechi și la suprapunerile cadastrale. Cadrul actual — Legea cadastrului 7/1996 și regulamentele ANCPI, cu Ordinul 700/2014 ca text de referință al avizării și recepției — a impus disciplina: un singur sistem de coordonate național, executanți autorizați cu răspundere personală și un filtru instituțional înaintea oricărei integrări în evidențe.</p><p>Pentru finanțatori, această infrastructură de încredere e exact ce cumpără formularea „vizat OCPI” din ghiduri: nu evaluează ei calitatea măsurătorilor — nici n-ar avea cum — ci se sprijină pe filtrul deja existent al statului. De aceea cerința apare identic la AFIR, în programele regionale și la finanțările naționale: e cel mai ieftin mecanism de asigurare a calității pe care îl poate cere un ghid. Iar pentru tine, morala practică: viza nu e o taxă pe drum, e certificatul de compatibilitate al lucrării tale cu toate celelalte lucrări din România — trecute și viitoare. Și, spre deosebire de aproape orice altă ștampilă din dosar, aceasta chiar verifică ceva măsurabil: coordonate, calcule, integrare — lucruri care ori sunt corecte, ori nu sunt, fără zonă gri de interpretare.</p>"
     },
     {
       "type": "cta",

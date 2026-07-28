@@ -16,10 +16,10 @@
       "type": "process",
       "heading": "Traseul de intrare în legalitate — când e posibil",
       "steps": [
-        { "title": "Evaluarea situației", "text": "Stabilim când și cum a fost edificată construcția și o măsurăm. Contează: încadrarea în reglementările urbanistice ale zonei, respectarea distanțelor și, în anumite cazuri, împlinirea termenului de prescripție pentru sancțiuni." },
-        { "title": "Certificatul de atestare a edificării", "text": "Pentru construcțiile care îndeplinesc condițiile legale, primăria poate emite certificatul de atestare a edificării (art. 37 din Legea 50/1991) — poarta legală spre înscrierea în cartea funciară a construcțiilor realizate fără autorizație sau înainte de regimul autorizării." },
-        { "title": "Documentația cadastrală și înscrierea", "text": "Cu certificatul emis, întocmim documentația cadastrală de înscriere a construcției și o depunem la OCPI. Din acest moment, extrasul CF reflectă realitatea, iar dosarul de finanțare stă pe teren solid." },
-        { "title": "Alternativa dură: desființarea", "text": "Construcțiile care nu pot fi atestate (încalcă reglementările, nu se încadrează în condițiile legale) se desființează — cu autorizație de desființare și actualizarea CF. Sună drastic, dar o magazie demolată e un obstacol dispărut; una „ascunsă” e un risc permanent." }
+        "Evaluarea situației — Stabilim când și cum a fost edificată construcția și o măsurăm. Contează: încadrarea în reglementările urbanistice ale zonei, respectarea distanțelor și, în anumite cazuri, împlinirea termenului de prescripție pentru sancțiuni.",
+        "Certificatul de atestare a edificării — Pentru construcțiile care îndeplinesc condițiile legale, primăria poate emite certificatul de atestare a edificării (art. 37 din Legea 50/1991) — poarta legală spre înscrierea în cartea funciară a construcțiilor realizate fără autorizație sau înainte de regimul autorizării.",
+        "Documentația cadastrală și înscrierea — Cu certificatul emis, întocmim documentația cadastrală de înscriere a construcției și o depunem la OCPI. Din acest moment, extrasul CF reflectă realitatea, iar dosarul de finanțare stă pe teren solid.",
+        "Alternativa dură: desființarea — Construcțiile care nu pot fi atestate (încalcă reglementările, nu se încadrează în condițiile legale) se desființează — cu autorizație de desființare și actualizarea CF. Sună drastic, dar o magazie demolată e un obstacol dispărut; una „ascunsă” e un risc permanent."
       ]
     },
     {
@@ -37,11 +37,28 @@
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
-        { "q": "Construcția e din 1994, dinaintea actualelor reguli. Tot problemă e?", "a": "De regulă nu — construcțiile edificate înainte de anumite praguri legale se pot înscrie pe bază de documente și adeverințe specifice, iar certificatul de atestare acoperă și situații istorice. Dovada vechimii (înregistrări fiscale, registrul agricol) devine piesa importantă; te ajutăm să o construiești." },
-        { "q": "Cât durează intrarea în legalitate?", "a": "Cazul favorabil (construcție atestabilă, primărie cooperantă): câteva săptămâni cap-coadă, inclusiv înscrierea la OCPI. Cazurile care cer expertize sau documentații de urbanism suplimentare: luni. Încă un argument pentru auditul incintei la începutul proiectului, nu la depunere." },
-        { "q": "Nu putem pur și simplu să nu o menționăm? E în spatele halei…", "a": "Nu — și nu doar din etică profesională: planurile pe care le semnăm cu autorizația ANCPI reflectă realitatea măsurată, verificările încrucișate (ortofotoplan, vizite în teren) o scot oricum la iveală, iar o neconcordanță descoperită de alții e infinit mai scumpă decât una rezolvată de tine. Rezolvarea e aproape întotdeauna mai simplă decât frica de ea." },
-        { "q": "Amenda pentru construirea fără autorizație mai poate veni după ani de zile?", "a": "Răspunderea contravențională are termenele ei de prescripție, dar atenție: prescripția amenzii nu legalizează construcția — înscrierea în CF tot prin procedurile legale trece. Sunt două probleme diferite; noi ne ocupăm de a doua, iar pentru nuanțele sancțiunilor îți recomandăm un avocat." }
+        {
+          "q": "Construcția e din 1994, dinaintea actualelor reguli. Tot problemă e?",
+          "a": "De regulă nu — construcțiile edificate înainte de anumite praguri legale se pot înscrie pe bază de documente și adeverințe specifice, iar certificatul de atestare acoperă și situații istorice. Dovada vechimii (înregistrări fiscale, registrul agricol) devine piesa importantă; te ajutăm să o construiești."
+        },
+        {
+          "q": "Cât durează intrarea în legalitate?",
+          "a": "Cazul favorabil (construcție atestabilă, primărie cooperantă): câteva săptămâni cap-coadă, inclusiv înscrierea la OCPI. Cazurile care cer expertize sau documentații de urbanism suplimentare: luni. Încă un argument pentru auditul incintei la începutul proiectului, nu la depunere."
+        },
+        {
+          "q": "Nu putem pur și simplu să nu o menționăm? E în spatele halei…",
+          "a": "Nu — și nu doar din etică profesională: planurile pe care le semnăm cu autorizația ANCPI reflectă realitatea măsurată, verificările încrucișate (ortofotoplan, vizite în teren) o scot oricum la iveală, iar o neconcordanță descoperită de alții e infinit mai scumpă decât una rezolvată de tine. Rezolvarea e aproape întotdeauna mai simplă decât frica de ea."
+        },
+        {
+          "q": "Amenda pentru construirea fără autorizație mai poate veni după ani de zile?",
+          "a": "Răspunderea contravențională are termenele ei de prescripție, dar atenție: prescripția amenzii nu legalizează construcția — înscrierea în CF tot prin procedurile legale trece. Sunt două probleme diferite; noi ne ocupăm de a doua, iar pentru nuanțele sancțiunilor îți recomandăm un avocat."
+        }
       ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Dovada vechimii: cum se reconstituie istoria unei construcții fără hârtii",
+      "html": "<p>La construcțiile vechi, întrebarea primăriei și a OCPI-ului nu e doar „ce există?”, ci „<strong>de când există?</strong>” — pentru că regimul juridic aplicabil depinde de momentul edificării. Iar când autorizația lipsește, vechimea se demonstrează din surse colaterale, pe care le vânăm sistematic împreună cu clientul: <strong>evidențele fiscale</strong> (clădirea impozitată din 1987 exista în 1987 — direcția de taxe eliberează istoricul de rol), <strong>registrul agricol</strong> al primăriei, cu pozițiile construcțiilor pe gospodărie, <strong>ortofotoplanurile istorice</strong> — zborurile oficiale din diverse decade, pe care construcția apare sau nu apare, cu valoare probatorie excelentă pentru încadrarea în timp — plus, unde există, proiecte vechi, chitanțe de materiale, contracte de branșament la curent sau apă datate.</p><p>Din acest puzzle se construiește dosarul pentru certificatul de atestare a edificării sau pentru înscrierea construcțiilor anterioare regimului de autorizare. E muncă de arhivă mai mult decât de teodolit — dar face diferența dintre „nu se poate, nu aveți autorizație” și o construcție înscrisă legal în cartea funciară. Sfatul practic dedus de aici: <strong>nu arunca nicio hârtie veche legată de casă sau de hală</strong>, oricât de neînsemnată pare; chitanța de curent din 1992 poate valora, într-un dosar de atestare, mai mult decât o declarație pe propria răspundere dată azi.</p>"
     },
     {
       "type": "cta",

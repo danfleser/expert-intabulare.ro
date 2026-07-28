@@ -28,6 +28,11 @@
       ]
     },
     {
+      "type": "paragraph",
+      "heading": "Cum arată în practică: anatomia unui inventar de coordonate",
+      "html": "<p>Ca să nu rămână abstract, iată ce primești concret când îți predăm un inventar de coordonate: un tabel cu punctele de contur ale imobilului, numerotate în ordinea parcurgerii conturului, fiecare cu coordonatele lui X și Y în metri (în Stereo 70, X crește spre nord și Y spre est — o convenție care surprinde inginerii obișnuiți cu alte sisteme) și, unde e relevant, cota Z în sistem Marea Neagră 1975. Valorile pentru zona noastră au ordine de mărime caracteristice — sute de mii de metri — iar un specialist recunoaște dintr-o privire, după plaja valorilor, cam în ce parte a țării se află imobilul. Sub tabel: suprafața calculată analitic din coordonate (nu „măsurată cu planimetrul” — calculată matematic din poligon), data măsurătorilor, metoda și semnătura executantului autorizat.</p><p>Acest tabel banal în aparență este, de fapt, forma cea mai durabilă a proprietății tale: planșele se pierd, PDF-urile se șterg, gardurile putrezesc — dar un inventar de coordonate păstrat oriunde permite rematerializarea exactă a limitelor oricând, de către orice topograf, cu orice echipament, peste zece sau cincizeci de ani. De aceea îl includem în fiecare predare și de aceea îți recomandăm să-l arhivezi cu aceeași grijă ca actele de proprietate: e traducerea lor în limbajul care nu se degradează — matematica. Nu o dată am retrasat limite „pierdute” de decenii doar din inventarul de coordonate al unei documentații vechi, păstrat de un client prevăzător: gardul se reconstruiește într-o zi când punctele lui există pe hârtie, și în luni de dispute când nu există.</p>"
+    },
+    {
       "type": "cta",
       "heading": "Nelămuriri despre coordonatele din documentele tale?",
       "text": "Trimite-ne pe WhatsApp planul sau inventarul de coordonate care te încurcă — îți spunem în ce sistem e, dacă e corect și ce lipsește pentru dosar."

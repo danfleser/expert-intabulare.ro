@@ -16,21 +16,41 @@
       "type": "process",
       "heading": "Cum o tratăm, în ordine",
       "steps": [
-        { "title": "Diagnosticul: reală sau de evidență?", "text": "Suprapunem măsurătorile noastre, conturul imobilului vecin din baza OCPI, ortofotoplanul și actele ambelor părți. Concluzia diagnosticului decide tot ce urmează: eroare de înscriere (cazul frecvent) sau limită efectiv disputată (cazul greu)." },
-        { "title": "Cazul erorii de evidență: repoziționarea", "text": "Dacă imobilul vecin a fost înscris cu coordonate greșite dar limitele reale sunt clare, legislația cadastrală permite îndreptarea erorii — repoziționarea imobilului — printr-o documentație specifică. În funcție de situație, e nevoie de acordul sau doar de notificarea vecinului; OCPI decide pe baza documentației." },
-        { "title": "Cazul limitei disputate: acordul sau expertiza", "text": "Dacă vecinul contestă limita, calea amiabilă este procesul-verbal de vecinătate semnat de ambele părți pe limita convenită — noi o măsurăm și o documentăm. Fără acord, rămân expertiza topografică judiciară și instanța: luni sau ani, incompatibil cu orice sesiune apropiată." },
-        { "title": "Redepunerea documentației tale", "text": "După soluționarea suprapunerii, documentația inițială se actualizează și se redepune. Din acest punct, dosarul curge normal: recepție, carte funciară, extras CF pentru finanțator." }
+        "Diagnosticul: reală sau de evidență? — Suprapunem măsurătorile noastre, conturul imobilului vecin din baza OCPI, ortofotoplanul și actele ambelor părți. Concluzia diagnosticului decide tot ce urmează: eroare de înscriere (cazul frecvent) sau limită efectiv disputată (cazul greu).",
+        "Cazul erorii de evidență: repoziționarea — Dacă imobilul vecin a fost înscris cu coordonate greșite dar limitele reale sunt clare, legislația cadastrală permite îndreptarea erorii — repoziționarea imobilului — printr-o documentație specifică. În funcție de situație, e nevoie de acordul sau doar de notificarea vecinului; OCPI decide pe baza documentației.",
+        "Cazul limitei disputate: acordul sau expertiza — Dacă vecinul contestă limita, calea amiabilă este procesul-verbal de vecinătate semnat de ambele părți pe limita convenită — noi o măsurăm și o documentăm. Fără acord, rămân expertiza topografică judiciară și instanța: luni sau ani, incompatibil cu orice sesiune apropiată.",
+        "Redepunerea documentației tale — După soluționarea suprapunerii, documentația inițială se actualizează și se redepune. Din acest punct, dosarul curge normal: recepție, carte funciară, extras CF pentru finanțator."
       ]
     },
     {
       "type": "table",
       "heading": "Scenarii și termene realiste",
-      "head": ["Scenariul", "Traseul", "Durată orientativă"],
+      "head": [
+        "Scenariul",
+        "Traseul",
+        "Durată orientativă"
+      ],
       "rows": [
-        ["Eroare de evidență, vecin cooperant sau doar notificat", "Documentație de repoziționare / rectificare la OCPI", "săptămâni"],
-        ["Limite clare în teren, vecin cooperant, contur vechi imprecis", "Proces-verbal de vecinătate + documentație actualizată", "săptămâni"],
-        ["Vecin de negăsit (plecat, moștenire nedezbătută la ei)", "Proceduri de notificare, durate mai lungi", "luni"],
-        ["Limită efectiv disputată, fără acord", "Expertiză judiciară, instanță", "luni – ani"]
+        [
+          "Eroare de evidență, vecin cooperant sau doar notificat",
+          "Documentație de repoziționare / rectificare la OCPI",
+          "săptămâni"
+        ],
+        [
+          "Limite clare în teren, vecin cooperant, contur vechi imprecis",
+          "Proces-verbal de vecinătate + documentație actualizată",
+          "săptămâni"
+        ],
+        [
+          "Vecin de negăsit (plecat, moștenire nedezbătută la ei)",
+          "Proceduri de notificare, durate mai lungi",
+          "luni"
+        ],
+        [
+          "Limită efectiv disputată, fără acord",
+          "Expertiză judiciară, instanță",
+          "luni – ani"
+        ]
       ]
     },
     {
@@ -42,11 +62,28 @@
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
-        { "q": "Vecinul „a intrat pe hârtie” peste terenul meu. Îmi poate lua pământul?", "a": "Nu prin simpla înscriere greșită — înscrierea în cartea funciară nu creează proprietate peste dreptul tău real. Dar cu cât eroarea stă mai mult necorectată, cu atât corectarea e mai anevoioasă. Dacă ai aflat de suprapunere, acționează acum, nu „când o fi nevoie”." },
-        { "q": "Trebuie să mă cert cu vecinul ca să rezolv?", "a": "În majoritatea cazurilor, nu — suprapunerile de evidență se rezolvă tehnic, iar vecinii cooperează când li se explică faptul că nici lor nu le convine un contur greșit la propria vânzare sau finanțare viitoare. Venim noi la discuție, cu planurile pe masă; e altă conversație decât „peste gard”." },
-        { "q": "Cine plătește rezolvarea, eu sau vecinul?", "a": "Practic, cine are nevoie de ea plătește documentația — de regulă cel cu proiectul. Poți încerca partajarea costului dacă și vecinul are un interes (eroarea îl afectează și pe el), dar nu condiționa calendarul tău de negocierea asta." },
-        { "q": "Suprapunerea e cu un drum sau cu islazul comunei. E mai simplu sau mai greu?", "a": "Depinde de primărie: suprapunerile cu domeniul public cer clarificare cu UAT-ul (uneori și HCL), ceea ce adaugă un actor instituțional. Avem experiență directă cu primăriile din zonă; realist, e un traseu de săptămâni–luni, nu de zile." }
+        {
+          "q": "Vecinul „a intrat pe hârtie” peste terenul meu. Îmi poate lua pământul?",
+          "a": "Nu prin simpla înscriere greșită — înscrierea în cartea funciară nu creează proprietate peste dreptul tău real. Dar cu cât eroarea stă mai mult necorectată, cu atât corectarea e mai anevoioasă. Dacă ai aflat de suprapunere, acționează acum, nu „când o fi nevoie”."
+        },
+        {
+          "q": "Trebuie să mă cert cu vecinul ca să rezolv?",
+          "a": "În majoritatea cazurilor, nu — suprapunerile de evidență se rezolvă tehnic, iar vecinii cooperează când li se explică faptul că nici lor nu le convine un contur greșit la propria vânzare sau finanțare viitoare. Venim noi la discuție, cu planurile pe masă; e altă conversație decât „peste gard”."
+        },
+        {
+          "q": "Cine plătește rezolvarea, eu sau vecinul?",
+          "a": "Practic, cine are nevoie de ea plătește documentația — de regulă cel cu proiectul. Poți încerca partajarea costului dacă și vecinul are un interes (eroarea îl afectează și pe el), dar nu condiționa calendarul tău de negocierea asta."
+        },
+        {
+          "q": "Suprapunerea e cu un drum sau cu islazul comunei. E mai simplu sau mai greu?",
+          "a": "Depinde de primărie: suprapunerile cu domeniul public cer clarificare cu UAT-ul (uneori și HCL), ceea ce adaugă un actor instituțional. Avem experiență directă cu primăriile din zonă; realist, e un traseu de săptămâni–luni, nu de zile."
+        }
       ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Verificarea preventivă pe geoportal: ce poți vedea singur în zece minute",
+      "html": "<p>Nu ai nevoie de topograf ca să faci primul screening. Deschide geoportal.ancpi.ro, aplicația de consultare a imobilelor, și navighează la terenul tău. Ce să urmărești: <strong>conturul propriu</strong> — există? se așază rezonabil peste gardurile vizibile pe fundalul ortofoto? <strong>Contururile vecinilor</strong> — intră vizibil peste terenul tău sau lasă „culoare” nefirești între proprietăți? <strong>Golurile</strong> — fâșiile fără niciun contur între imobile înscrise pot ascunde atât terenul tău neînscris, cât și viitoare dispute de limite. Fă capturi de ecran cu ce ți se pare suspect; sunt exact materialul cu care începe o discuție eficientă cu noi.</p><p>Două avertismente ca să nu tragi concluzii greșite. Întâi: geoportalul are precizia lui de afișare, iar fundalul ortofoto propriile decalaje — un contur care pare „mutat” cu un metru poate fi perfect în regulă în evidențe; alarma justificată începe la nepotriviri evidente, nu la pixeli. Al doilea: absența unei suprapuneri pe geoportal nu e garanție — verificarea profesională se face pe datele complete OCPI, care includ și lucrări în curs de soluționare, invizibile public. Concluzia corectă a celor zece minute: geoportalul îți spune când sigur ai o problemă; doar verificarea la OCPI îți spune când sigur nu ai. Pentru orice teren de proiect, o cerem ca reflex — costă puțin și doarme liniștit toată echipa.</p>"
     },
     {
       "type": "cta",

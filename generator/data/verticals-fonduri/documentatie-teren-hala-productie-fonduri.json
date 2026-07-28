@@ -16,10 +16,10 @@
       "type": "process",
       "heading": "Cum pregătim o incintă industrială pentru dosar",
       "steps": [
-        { "title": "Auditul situației existente", "text": "Comparăm cartea funciară cu realitatea din teren: ce construcții sunt înscrise, ce există fizic, ce diferă. Rezultatul este o listă clară: ce e în regulă, ce trebuie intabulat, ce are nevoie de intrare în legalitate." },
-        { "title": "Regularizarea construcțiilor", "text": "Pentru construcțiile edificate fără autorizație dar care pot fi păstrate: certificat de atestare a edificării de la primărie (unde condițiile legale sunt îndeplinite), apoi documentație cadastrală de înscriere. Pentru cele care nu pot fi atestate — discuția onestă despre demolare sau reproiectare." },
-        { "title": "Documentația pentru investiția nouă", "text": "Plan topografic vizat OCPI pentru SF/DTAC, cu toate rețelele și utilitățile din incintă — la hale, poziția reală a rețelelor de apă, canal, gaz și electricitate decide amplasarea." },
-        { "title": "Execuție și finalizare", "text": "Trasarea halei la începerea lucrărilor, verificări pe parcurs, as-built și intabularea construcției noi la final — piesa cerută în perioada de durabilitate." }
+        "Auditul situației existente — Comparăm cartea funciară cu realitatea din teren: ce construcții sunt înscrise, ce există fizic, ce diferă. Rezultatul este o listă clară: ce e în regulă, ce trebuie intabulat, ce are nevoie de intrare în legalitate.",
+        "Regularizarea construcțiilor — Pentru construcțiile edificate fără autorizație dar care pot fi păstrate: certificat de atestare a edificării de la primărie (unde condițiile legale sunt îndeplinite), apoi documentație cadastrală de înscriere. Pentru cele care nu pot fi atestate — discuția onestă despre demolare sau reproiectare.",
+        "Documentația pentru investiția nouă — Plan topografic vizat OCPI pentru SF/DTAC, cu toate rețelele și utilitățile din incintă — la hale, poziția reală a rețelelor de apă, canal, gaz și electricitate decide amplasarea.",
+        "Execuție și finalizare — Trasarea halei la începerea lucrărilor, verificări pe parcurs, as-built și intabularea construcției noi la final — piesa cerută în perioada de durabilitate."
       ]
     },
     {
@@ -38,10 +38,22 @@
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
-        { "q": "Cât durează să intabulezi o hală existentă?", "a": "Cu actele primăriei obținute (certificatul de atestare a edificării), documentația cadastrală și înscrierea la OCPI durează orientativ 2–4 săptămâni. Variabila mare este primăria: la unele, atestarea durează zile, la altele, săptămâni. De aceea auditul trebuie făcut cu luni înainte de sesiune." },
-        { "q": "Vechiul proprietar a construit fără autorizație. Noi putem intra în legalitate?", "a": "Adesea da — certificatul de atestare a edificării se raportează la construcție, nu la cine a construit-o, dacă sunt îndeplinite condițiile legale (inclusiv încadrarea urbanistică). Fiecare caz se verifică la primărie; vă spunem realist șansele după ce vedem actele și clădirea." },
-        { "q": "Putem depune proiectul și rezolva intabularea „din mers”?", "a": "Riscant. La depunere poate trece, dar la contractare și la autorizare diferențele ies la suprafață, iar termenele curg. Regula noastră: tot ce ține de trecut (intabulări, atestări) — rezolvat înainte de depunere; ce ține de viitor (planuri pentru investiție) — în paralel cu scrierea proiectului." },
-        { "q": "Faceți măsurători și pentru fluxul tehnologic din hală?", "a": "Măsurătorile noastre acoperă terenul, clădirile și rețelele; amplasarea echipamentelor pe fluxul tehnologic e treaba proiectantului — dar îi livrăm releveul halei și cotele de nivel exact în formatul în care lucrează (DWG/DXF, puncte 3D)." }
+        {
+          "q": "Cât durează să intabulezi o hală existentă?",
+          "a": "Cu actele primăriei obținute (certificatul de atestare a edificării), documentația cadastrală și înscrierea la OCPI durează orientativ 2–4 săptămâni. Variabila mare este primăria: la unele, atestarea durează zile, la altele, săptămâni. De aceea auditul trebuie făcut cu luni înainte de sesiune."
+        },
+        {
+          "q": "Vechiul proprietar a construit fără autorizație. Noi putem intra în legalitate?",
+          "a": "Adesea da — certificatul de atestare a edificării se raportează la construcție, nu la cine a construit-o, dacă sunt îndeplinite condițiile legale (inclusiv încadrarea urbanistică). Fiecare caz se verifică la primărie; vă spunem realist șansele după ce vedem actele și clădirea."
+        },
+        {
+          "q": "Putem depune proiectul și rezolva intabularea „din mers”?",
+          "a": "Riscant. La depunere poate trece, dar la contractare și la autorizare diferențele ies la suprafață, iar termenele curg. Regula noastră: tot ce ține de trecut (intabulări, atestări) — rezolvat înainte de depunere; ce ține de viitor (planuri pentru investiție) — în paralel cu scrierea proiectului."
+        },
+        {
+          "q": "Faceți măsurători și pentru fluxul tehnologic din hală?",
+          "a": "Măsurătorile noastre acoperă terenul, clădirile și rețelele; amplasarea echipamentelor pe fluxul tehnologic e treaba proiectantului — dar îi livrăm releveul halei și cotele de nivel exact în formatul în care lucrează (DWG/DXF, puncte 3D)."
+        }
       ]
     },
     {

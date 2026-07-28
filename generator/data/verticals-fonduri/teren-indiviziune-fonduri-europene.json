@@ -16,10 +16,10 @@
       "type": "process",
       "heading": "Traseele de la indiviziune la dosar depus",
       "steps": [
-        { "title": "Succesiunea — dacă defunctul e încă „proprietarul”", "text": "Dezbaterea succesiunii la notar transformă moștenirea de fapt în cote înscrise. Durata depinde de acte și de înțelegerea moștenitorilor: de la câteva săptămâni la, sincer, niciodată — dacă un moștenitor blochează. Fără acest pas, nimic altceva nu e posibil." },
-        { "title": "Partajul — împărțirea reală a terenului", "text": "Coproprietarii pun capăt indiviziunii: fiecare primește o parcelă concretă. Se face voluntar la notar (pe baza unei documentații cadastrale de dezlipire întocmite de noi) sau, în lipsă de acord, în instanță — cu ani de diferență între cele două variante." },
-        { "title": "Dezlipirea lotului tău", "text": "După partaj (sau odată cu el), parcela care revine solicitantului devine imobil separat, cu carte funciară proprie — pe care se poate construi dosarul de finanțare fără semnăturile întregii familii la fiecare pas." },
-        { "title": "Alternativa rapidă: acordul coproprietarilor sau superficia", "text": "Unele programe acceptă investiții pe teren în coproprietate cu acordul autentic al tuturor, sau constituirea unei superficii de către toți coproprietarii în favoarea solicitantului. Mai rapid decât partajul — dar citim ghidul împreună înainte, pentru că acceptarea diferă de la program la program." }
+        "Succesiunea — dacă defunctul e încă „proprietarul” — Dezbaterea succesiunii la notar transformă moștenirea de fapt în cote înscrise. Durata depinde de acte și de înțelegerea moștenitorilor: de la câteva săptămâni la, sincer, niciodată — dacă un moștenitor blochează. Fără acest pas, nimic altceva nu e posibil.",
+        "Partajul — împărțirea reală a terenului — Coproprietarii pun capăt indiviziunii: fiecare primește o parcelă concretă. Se face voluntar la notar (pe baza unei documentații cadastrale de dezlipire întocmite de noi) sau, în lipsă de acord, în instanță — cu ani de diferență între cele două variante.",
+        "Dezlipirea lotului tău — După partaj (sau odată cu el), parcela care revine solicitantului devine imobil separat, cu carte funciară proprie — pe care se poate construi dosarul de finanțare fără semnăturile întregii familii la fiecare pas.",
+        "Alternativa rapidă: acordul coproprietarilor sau superficia — Unele programe acceptă investiții pe teren în coproprietate cu acordul autentic al tuturor, sau constituirea unei superficii de către toți coproprietarii în favoarea solicitantului. Mai rapid decât partajul — dar citim ghidul împreună înainte, pentru că acceptarea diferă de la program la program."
       ]
     },
     {
@@ -31,11 +31,28 @@
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
-        { "q": "Suntem 3 frați, toți de acord. Care e varianta cea mai rapidă?", "a": "Dacă succesiunea e făcută: partaj voluntar la notar cu dezlipire cadastrală — noi pregătim documentația, voi semnați, OCPI înscrie. Cu toată lumea cooperantă și acte în regulă, vorbim de săptămâni, nu luni. Dacă succesiunea nu e făcută, ea vine prima — restul așteaptă." },
-        { "q": "Un frate e plecat în străinătate. Se blochează tot?", "a": "Nu neapărat — poate da procură autentică (inclusiv la consulatul român din țara unde se află) pentru succesiune și partaj. Logistica durează câteva săptămâni în plus; planificați-o de la început, nu când dosarul e la notar." },
-        { "q": "Pot depune proiectul doar pe cota mea de 1/2?", "a": "Pe o cotă ideală nu se poate autoriza o construcție și majoritatea ghidurilor cer dreptul asupra imobilului întreg sau acordul tuturor coproprietarilor. Excepțiile există la investiții fără construcții — dar se verifică pe ghidul concret, nu se presupun." },
-        { "q": "Bunicul are titlu, dar n-a făcut nimeni succesiunea din 1995. Mai e posibil?", "a": "Da — succesiunile se pot dezbate oricând, doar că la două generații distanță cresc numărul moștenitorilor și hârtiile necesare. Cu cât aștepți mai mult, cu atât mai stufos. Dacă există un proiect în orizont, acum e momentul." }
+        {
+          "q": "Suntem 3 frați, toți de acord. Care e varianta cea mai rapidă?",
+          "a": "Dacă succesiunea e făcută: partaj voluntar la notar cu dezlipire cadastrală — noi pregătim documentația, voi semnați, OCPI înscrie. Cu toată lumea cooperantă și acte în regulă, vorbim de săptămâni, nu luni. Dacă succesiunea nu e făcută, ea vine prima — restul așteaptă."
+        },
+        {
+          "q": "Un frate e plecat în străinătate. Se blochează tot?",
+          "a": "Nu neapărat — poate da procură autentică (inclusiv la consulatul român din țara unde se află) pentru succesiune și partaj. Logistica durează câteva săptămâni în plus; planificați-o de la început, nu când dosarul e la notar."
+        },
+        {
+          "q": "Pot depune proiectul doar pe cota mea de 1/2?",
+          "a": "Pe o cotă ideală nu se poate autoriza o construcție și majoritatea ghidurilor cer dreptul asupra imobilului întreg sau acordul tuturor coproprietarilor. Excepțiile există la investiții fără construcții — dar se verifică pe ghidul concret, nu se presupun."
+        },
+        {
+          "q": "Bunicul are titlu, dar n-a făcut nimeni succesiunea din 1995. Mai e posibil?",
+          "a": "Da — succesiunile se pot dezbate oricând, doar că la două generații distanță cresc numărul moștenitorilor și hârtiile necesare. Cu cât aștepți mai mult, cu atât mai stufos. Dacă există un proiect în orizont, acum e momentul."
+        }
       ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Partea omenească: cum se poartă discuția cu familia ca să nu se blocheze",
+      "html": "<p>După ani de lucrări în moșteniri, o observație care nu ține de cadastru dar decide mai multe dosare decât orice regulament: <strong>blocajele de indiviziune sunt rareori despre pământ și aproape întotdeauna despre nedreptăți vechi</strong>. Fratele care „a muncit singur terenul 20 de ani”, sora care „n-a primit nimic la nuntă”, nepotul care nu răspunde la telefon din principiu. Documentația cadastrală nu vindecă asta — dar felul în care e condusă discuția poate să nu o agraveze. Ce funcționează, din experiență: cifre pe masă înaintea emoțiilor (măsurătoarea care arată exact ce există de împărțit, cu planul color pe masa din bucătărie), propuneri de partaj care respectă folosința istorică (cine ce lucrează de fapt), și un termen extern care disciplinează pe toată lumea — sesiunea de finanțare e, paradoxal, cel mai bun mediator: „ori semnăm toți până în martie, ori pierdem banii” limpezește minți pe care zece ani de discuții nu le-au limpezit.</p><p>Rolul nostru în aceste discuții e al tehnicianului neutru: măsurăm, desenăm variante de împărțire cu suprafețe exacte, explicăm fiecărui moștenitor ce primește și ce semnează. Nu ținem partea nimănui — și tocmai de aceea planurile noastre ajung des terenul comun pe care familia se întâlnește. Restul — generozitatea, ranchiuna, semnătura — rămâne al vostru; dar măcar decizia se ia pe fapte.</p>"
     },
     {
       "type": "cta",

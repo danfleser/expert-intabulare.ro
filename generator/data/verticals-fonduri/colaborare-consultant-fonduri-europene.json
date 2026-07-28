@@ -16,10 +16,10 @@
       "type": "process",
       "heading": "Fluxul de lucru cu un consultant, pe un dosar tipic",
       "steps": [
-        { "title": "Trimiterea listei de piese", "text": "Ne dai lista exactă din ghid (sau ghidul întreg) și extrasul CF al clientului. Revenim în aceeași zi cu diagnosticul: ce există, ce lipsește, ce riscă respingere — și un calendar pe fiecare piesă." },
-        { "title": "Lucrul în paralel cu scrierea proiectului", "text": "Cât timp tu scrii cererea, noi rezolvăm terenul: intabulări, actualizări, planuri topografice, documentații cadastrale. Sincronizăm termenele astfel încât piesele cu valabilitate scurtă (extrase) să fie emise ultimele." },
-        { "title": "Livrarea în formatul dosarului", "text": "PDF-uri denumite cum cere opisul tău, planuri la scara din ghid, DWG pentru proiectant, originale unde se cer originale. Un e-mail sau un mesaj — și piesa e în dosar, nu „la scanat săptămâna viitoare”." },
-        { "title": "Suport la clarificări și după contractare", "text": "La întrebările evaluatorului pe partea de imobil răspundem noi, prin tine, cu documente — în termenul clarificării. Iar după semnare rămânem pe proiect: trasare, monitorizare, as-built, intabularea construcției — până la ultima piesă din cererea finală." }
+        "Trimiterea listei de piese — Ne dai lista exactă din ghid (sau ghidul întreg) și extrasul CF al clientului. Revenim în aceeași zi cu diagnosticul: ce există, ce lipsește, ce riscă respingere — și un calendar pe fiecare piesă.",
+        "Lucrul în paralel cu scrierea proiectului — Cât timp tu scrii cererea, noi rezolvăm terenul: intabulări, actualizări, planuri topografice, documentații cadastrale. Sincronizăm termenele astfel încât piesele cu valabilitate scurtă (extrase) să fie emise ultimele.",
+        "Livrarea în formatul dosarului — PDF-uri denumite cum cere opisul tău, planuri la scara din ghid, DWG pentru proiectant, originale unde se cer originale. Un e-mail sau un mesaj — și piesa e în dosar, nu „la scanat săptămâna viitoare”.",
+        "Suport la clarificări și după contractare — La întrebările evaluatorului pe partea de imobil răspundem noi, prin tine, cu documente — în termenul clarificării. Iar după semnare rămânem pe proiect: trasare, monitorizare, as-built, intabularea construcției — până la ultima piesă din cererea finală."
       ]
     },
     {
@@ -31,11 +31,28 @@
       "type": "faq",
       "heading": "Întrebări frecvente (de la consultanți)",
       "items": [
-        { "q": "Aveți capacitate pentru mai multe dosare simultan înaintea unei sesiuni?", "a": "Da, cu o condiție corectă: să intrăm devreme pe listă. Lucrările de birou se paralelizează bine; terenul se planifică pe zone. Trimite-ne portofoliul de dosare cu 2–3 luni înainte de sesiune și primești calendar per dosar, cu angajament ferm pe termene." },
-        { "q": "Clientul are deja un topograf local. Interveniți peste el?", "a": "Nu ne băgăm peste lucrări în curs ale colegilor. Putem prelua când lucrarea e blocată sau abandonată, ori putem verifica o documentație existentă la cererea ta — cu concluzii scrise și diplomatice. Breasla e mică, respectul e regulă." },
-        { "q": "Cum funcționează partea comercială — contract cu voi sau cu clientul?", "a": "De regulă contractăm direct cu beneficiarul (el e proprietarul imobilului și titularul dosarului), iar cu firma de consultanță ținem relația operațională. La partenerii recurenți putem discuta și alte aranjamente — pe WhatsApp sau la telefon, nu pe o pagină publică." },
-        { "q": "Ne puteți ține la curent cu stadiul fără să vă sunăm zilnic?", "a": "Da — grup de WhatsApp pe dosar (tu, clientul, noi), cu update la fiecare mișcare: măsurători făcute, depus la OCPI, notă de completare, soluționat. Zero „ce se mai aude?”; totul e în fir, cu documente atașate." }
+        {
+          "q": "Aveți capacitate pentru mai multe dosare simultan înaintea unei sesiuni?",
+          "a": "Da, cu o condiție corectă: să intrăm devreme pe listă. Lucrările de birou se paralelizează bine; terenul se planifică pe zone. Trimite-ne portofoliul de dosare cu 2–3 luni înainte de sesiune și primești calendar per dosar, cu angajament ferm pe termene."
+        },
+        {
+          "q": "Clientul are deja un topograf local. Interveniți peste el?",
+          "a": "Nu ne băgăm peste lucrări în curs ale colegilor. Putem prelua când lucrarea e blocată sau abandonată, ori putem verifica o documentație existentă la cererea ta — cu concluzii scrise și diplomatice. Breasla e mică, respectul e regulă."
+        },
+        {
+          "q": "Cum funcționează partea comercială — contract cu voi sau cu clientul?",
+          "a": "De regulă contractăm direct cu beneficiarul (el e proprietarul imobilului și titularul dosarului), iar cu firma de consultanță ținem relația operațională. La partenerii recurenți putem discuta și alte aranjamente — pe WhatsApp sau la telefon, nu pe o pagină publică."
+        },
+        {
+          "q": "Ne puteți ține la curent cu stadiul fără să vă sunăm zilnic?",
+          "a": "Da — grup de WhatsApp pe dosar (tu, clientul, noi), cu update la fiecare mișcare: măsurători făcute, depus la OCPI, notă de completare, soluționat. Zero „ce se mai aude?”; totul e în fir, cu documente atașate."
+        }
       ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Ce așteptăm noi de la consultant — parteneriatul e în ambele sensuri",
+      "html": "<p>Ca să fie corect tabloul, iată și ce ne face nouă munca posibilă la calitatea promisă — lista scurtă de „reguli de casă” pe care le stabilim cu fiecare partener nou. <strong>Ghidul întreg, nu rezumatul:</strong> formulările exacte din anexe contează; „trimite-mi te rog PDF-ul ghidului” nu e pedanterie, e prevenirea interpretărilor divergente pe care le plătește clientul. <strong>Un singur punct de adevăr pe dosar:</strong> modificările de amplasament sau de soluție tehnică ajung la noi imediat, nu după ce am depus documentația pe varianta veche — firul de WhatsApp al dosarului există exact pentru asta. <strong>Termenele reale de la client:</strong> dacă beneficiarul întârzie cu actele două săptămâni, calendarul se mișcă pentru toți — preferăm să replanificăm devreme decât să „recuperăm” prost. <strong>Feedback-ul după evaluare:</strong> ce a observat evaluatorul la piesele de teren, chiar când a trecut totul — din asta ne calibrăm standardele pentru sesiunea următoare.</p><p>Partenerii cu care lucrăm de ani de zile confirmă: aceste reguli mărunte sunt motivul pentru care dosarele comune trec de verificarea administrativă fără emoții. Colaborarea bună nu e chimie — e protocol respectat de ambele părți, dosar după dosar, până devine reflex. Restul — chimia — vine de la sine după primele trei dosare reușite.</p>"
     },
     {
       "type": "cta",

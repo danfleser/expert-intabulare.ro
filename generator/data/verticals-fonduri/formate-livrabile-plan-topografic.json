@@ -41,6 +41,11 @@
       ]
     },
     {
+      "type": "paragraph",
+      "heading": "Semnătura electronică și circuitul digital: cum circulă azi documentele",
+      "html": "<p>O schimbare tăcută dar profundă a ultimilor ani: circuitul documentelor topografice și cadastrale a devenit preponderent digital, cap-coadă. Documentațiile intră la OCPI electronic (fișiere semnate cu semnătura electronică a executantului autorizat), extrasele CF se emit semnate electronic și sunt verificabile ca autenticitate, iar finanțatorii primesc și procesează dosare încărcate în platforme, nu bibliorafturi. Consecința practică pentru tine: <strong>PDF-ul semnat electronic pe care ți-l trimitem pe e-mail sau WhatsApp este documentul original</strong>, nu o „copie scanată” — iar instituția care îl primește îi poate verifica integritatea criptografic, lucru imposibil la hârtia cu ștampilă.</p><p>Câteva reguli de igienă digitală pe care le-am învățat din dosarele altora: nu retipări și re-scana documentele semnate electronic (distrugi exact semnătura care le dă valoare — transmite fișierul original mai departe); păstrează structura de foldere pe care ți-o predăm, cu denumirile intacte (redenumirile „mai clare” rup corespondența cu opisul); și arhivează pachetul complet în cel puțin două locuri — un cloud și un disc local — pentru că peste cinci ani, la controlul de durabilitate, „era pe laptopul vechi al colegului care a plecat” e cea mai frecventă frază de dinaintea unei zile foarte proaste. Copia noastră de arhivă există oricum, ca plasă de siguranță — dar plasa de siguranță nu e un sistem de arhivare, e ultima soluție.</p>"
+    },
+    {
       "type": "cta",
       "heading": "Proiectantul sau finanțatorul cere un format anume?",
       "text": "Trimite-ne pe WhatsApp cerința exactă (sau tema de proiectare) — confirmăm formatul și livrarea în aceeași zi, din datele deja măsurate dacă ești client existent."

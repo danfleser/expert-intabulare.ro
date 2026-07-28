@@ -15,24 +15,52 @@
     {
       "type": "table",
       "heading": "Unde apare documentația topografică în ciclul unui proiect PNRR",
-      "head": ["Etapa", "Documentul topografic", "Cine îl folosește"],
+      "head": [
+        "Etapa",
+        "Documentul topografic",
+        "Cine îl folosește"
+      ],
       "rows": [
-        ["Certificat de urbanism", "Plan de situație pe suport topografic sau cadastral", "Primăria / arhitectul-șef"],
-        ["SF / DALI", "Plan topografic actualizat, vizat OCPI (recepționat conform Ordinului 700/2014)", "Proiectantul, verificatorul, finanțatorul"],
-        ["DTAC / autorizație de construire", "Plan topografic vizat OCPI + plan de situație reglementat", "Primăria emitentă"],
-        ["Începerea execuției", "Proces-verbal de trasare a construcției", "Constructorul, dirigintele de șantier"],
-        ["Recepție / cerere finală", "Documentație as-built, măsurători finale, plan de amplasament actualizat", "Comisia de recepție, autoritatea de plată"],
-        ["Durabilitate", "Documentație cadastrală pentru intabularea construcției", "OCPI / beneficiarul"]
+        [
+          "Certificat de urbanism",
+          "Plan de situație pe suport topografic sau cadastral",
+          "Primăria / arhitectul-șef"
+        ],
+        [
+          "SF / DALI",
+          "Plan topografic actualizat, vizat OCPI (recepționat conform Ordinului 700/2014)",
+          "Proiectantul, verificatorul, finanțatorul"
+        ],
+        [
+          "DTAC / autorizație de construire",
+          "Plan topografic vizat OCPI + plan de situație reglementat",
+          "Primăria emitentă"
+        ],
+        [
+          "Începerea execuției",
+          "Proces-verbal de trasare a construcției",
+          "Constructorul, dirigintele de șantier"
+        ],
+        [
+          "Recepție / cerere finală",
+          "Documentație as-built, măsurători finale, plan de amplasament actualizat",
+          "Comisia de recepție, autoritatea de plată"
+        ],
+        [
+          "Durabilitate",
+          "Documentație cadastrală pentru intabularea construcției",
+          "OCPI / beneficiarul"
+        ]
       ]
     },
     {
       "type": "process",
       "heading": "Cum obții planul topografic vizat OCPI — pașii reali",
       "steps": [
-        { "title": "Măsurători în teren", "text": "Ridicare topografică cu GPS RTK și stație totală, în sistemul național de coordonate Stereo 70, cu preluarea detaliilor relevante: limite, construcții, rețele vizibile, accese, diferențe de nivel." },
-        { "title": "Întocmirea planului", "text": "Redactare la scara cerută de proiect (uzual 1:500 sau 1:1000, la investiții liniare și 1:2000), cu inventarul de coordonate și încadrarea în zonă." },
-        { "title": "Recepția OCPI", "text": "Documentația se depune la OCPI pentru recepție tehnică conform Ordinului ANCPI 700/2014; rezultatul este planul cu viza de recepție — piesa pe care o cere finanțatorul și primăria." },
-        { "title": "Predarea livrabilelor", "text": "PDF pentru dosar, DWG/DXF pentru proiectant, inventar de coordonate; la cerere, format LandXML sau shapefile pentru proiecte ale UAT-urilor." }
+        "Măsurători în teren — Ridicare topografică cu GPS RTK și stație totală, în sistemul național de coordonate Stereo 70, cu preluarea detaliilor relevante: limite, construcții, rețele vizibile, accese, diferențe de nivel.",
+        "Întocmirea planului — Redactare la scara cerută de proiect (uzual 1:500 sau 1:1000, la investiții liniare și 1:2000), cu inventarul de coordonate și încadrarea în zonă.",
+        "Recepția OCPI — Documentația se depune la OCPI pentru recepție tehnică conform Ordinului ANCPI 700/2014; rezultatul este planul cu viza de recepție — piesa pe care o cere finanțatorul și primăria.",
+        "Predarea livrabilelor — PDF pentru dosar, DWG/DXF pentru proiectant, inventar de coordonate; la cerere, format LandXML sau shapefile pentru proiecte ale UAT-urilor."
       ]
     },
     {
@@ -44,10 +72,22 @@
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
-        { "q": "Planul topografic vizat OCPI are un termen de valabilitate?", "a": "Legea nu îi fixează o valabilitate în luni, dar instituțiile cer un plan „actualizat” — adică unul care reflectă situația curentă din teren. Dacă între timp s-a construit, s-a demolat sau s-au schimbat limitele, planul trebuie refăcut. În practică, multe autorități privesc cu rezervă planurile mai vechi de 6–12 luni." },
-        { "q": "Pot folosi la PNRR un plan făcut pentru alt proiect?", "a": "Doar dacă este recent, vizat OCPI și acoperă exact imobilul și zona de studiu cerută de proiectant. De multe ori diferă scara sau extinderea zonei măsurate — verificăm gratuit dacă planul existent poate fi folosit sau completat." },
-        { "q": "Cine plătește și comandă planul: beneficiarul sau proiectantul?", "a": "Uzual beneficiarul îl comandă, la specificațiile proiectantului. Noi preferăm să vorbim direct cu proiectantul pentru zona de studiu, curbe de nivel și formate — scurtează drumul și elimină refacerile." },
-        { "q": "Ce diferență este între planul topografic și planul de amplasament și delimitare (PAD)?", "a": "PAD-ul este piesă de documentație cadastrală — definește limitele juridice ale imobilului pentru cartea funciară. Planul topografic este piesă de proiectare — arată relieful și detaliile din teren pentru proiectant. Avem o pagină dedicată exact acestei comparații." }
+        {
+          "q": "Planul topografic vizat OCPI are un termen de valabilitate?",
+          "a": "Legea nu îi fixează o valabilitate în luni, dar instituțiile cer un plan „actualizat” — adică unul care reflectă situația curentă din teren. Dacă între timp s-a construit, s-a demolat sau s-au schimbat limitele, planul trebuie refăcut. În practică, multe autorități privesc cu rezervă planurile mai vechi de 6–12 luni."
+        },
+        {
+          "q": "Pot folosi la PNRR un plan făcut pentru alt proiect?",
+          "a": "Doar dacă este recent, vizat OCPI și acoperă exact imobilul și zona de studiu cerută de proiectant. De multe ori diferă scara sau extinderea zonei măsurate — verificăm gratuit dacă planul existent poate fi folosit sau completat."
+        },
+        {
+          "q": "Cine plătește și comandă planul: beneficiarul sau proiectantul?",
+          "a": "Uzual beneficiarul îl comandă, la specificațiile proiectantului. Noi preferăm să vorbim direct cu proiectantul pentru zona de studiu, curbe de nivel și formate — scurtează drumul și elimină refacerile."
+        },
+        {
+          "q": "Ce diferență este între planul topografic și planul de amplasament și delimitare (PAD)?",
+          "a": "PAD-ul este piesă de documentație cadastrală — definește limitele juridice ale imobilului pentru cartea funciară. Planul topografic este piesă de proiectare — arată relieful și detaliile din teren pentru proiectant. Avem o pagină dedicată exact acestei comparații."
+        }
       ]
     },
     {

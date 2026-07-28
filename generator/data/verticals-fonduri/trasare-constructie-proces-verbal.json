@@ -16,10 +16,10 @@
       "type": "process",
       "heading": "Cum decurge trasarea, pas cu pas",
       "steps": [
-        { "title": "Pregătirea din proiect", "text": "Preluăm coordonatele de trasare din proiectul tehnic (sau le calculăm din planurile de execuție, dacă proiectantul nu le-a livrat explicit) și le verificăm față de limitele imobilului din cartea funciară — aici se prind erorile de proiectare, înainte să ajungă în beton." },
-        { "title": "Marcarea pe teren", "text": "Trasăm axele și colțurile cu GPS RTK și stație totală, materializate cu țăruși, borne sau capre de trasare, plus cota ±0,00 raportată la un reper de nivelment stabil." },
-        { "title": "Verificarea cu dirigintele", "text": "Dirigintele de șantier verifică distanțele față de limite (retragerile din CU/autorizație), dimensiunile între axe și cota de nivel. Este exact lista lui de control — o parcurgem împreună, pe teren." },
-        { "title": "Procesul-verbal", "text": "Întocmim și semnăm procesul-verbal de trasare cu constructorul și dirigintele; documentul, împreună cu inventarul de coordonate, intră în cartea tehnică și în dosarul de finanțare." }
+        "Pregătirea din proiect — Preluăm coordonatele de trasare din proiectul tehnic (sau le calculăm din planurile de execuție, dacă proiectantul nu le-a livrat explicit) și le verificăm față de limitele imobilului din cartea funciară — aici se prind erorile de proiectare, înainte să ajungă în beton.",
+        "Marcarea pe teren — Trasăm axele și colțurile cu GPS RTK și stație totală, materializate cu țăruși, borne sau capre de trasare, plus cota ±0,00 raportată la un reper de nivelment stabil.",
+        "Verificarea cu dirigintele — Dirigintele de șantier verifică distanțele față de limite (retragerile din CU/autorizație), dimensiunile între axe și cota de nivel. Este exact lista lui de control — o parcurgem împreună, pe teren.",
+        "Procesul-verbal — Întocmim și semnăm procesul-verbal de trasare cu constructorul și dirigintele; documentul, împreună cu inventarul de coordonate, intră în cartea tehnică și în dosarul de finanțare."
       ]
     },
     {
@@ -37,10 +37,22 @@
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
-        { "q": "Nu poate constructorul să traseze singur?", "a": "Poate — și uneori o face bine. Dar trasarea de către un topograf independent, cu proces-verbal semnat, separă răspunderile: dacă apare o discuție la recepție, există un document cu coordonate, nu o amintire. La proiecte cu finanțare, unde orice neconformitate poate costa rambursarea, recomandăm fără ezitare varianta documentată." },
-        { "q": "Când trebuie chemad topograful — înainte sau după ordinul de începere?", "a": "Programează-ne odată cu stabilirea ordinului de începere: trasarea se face de regulă în ziua sau zilele imediat următoare, ca șantierul să nu aștepte. La lucrări cu fundații complexe revenim la retrasarea axelor după săpătură — e inclusă în discuția inițială." },
-        { "q": "Construcția a fost trasată „din ochi” și e deja la fundație. Ce se poate face?", "a": "Măsurăm imediat ce există și comparăm cu autorizația. Dacă abaterile sunt în toleranțe, documentăm și mergem înainte; dacă nu, e mai bine să afli acum decât la recepție — soluțiile există (de la modificări de proiect la intrare în legalitate), dar toate sunt mai ieftine cu cât sunt aplicate mai devreme." },
-        { "q": "Faceți și verificări pe parcursul execuției?", "a": "Da — verificări de verticalitate, cote la fiecare etapă, măsurători pentru situațiile de lucrări și as-built la final. La proiectele cu finanțare oferim pachetul complet execuție → recepție, descris pe pagina de monitorizare a implementării." }
+        {
+          "q": "Nu poate constructorul să traseze singur?",
+          "a": "Poate — și uneori o face bine. Dar trasarea de către un topograf independent, cu proces-verbal semnat, separă răspunderile: dacă apare o discuție la recepție, există un document cu coordonate, nu o amintire. La proiecte cu finanțare, unde orice neconformitate poate costa rambursarea, recomandăm fără ezitare varianta documentată."
+        },
+        {
+          "q": "Când trebuie chemad topograful — înainte sau după ordinul de începere?",
+          "a": "Programează-ne odată cu stabilirea ordinului de începere: trasarea se face de regulă în ziua sau zilele imediat următoare, ca șantierul să nu aștepte. La lucrări cu fundații complexe revenim la retrasarea axelor după săpătură — e inclusă în discuția inițială."
+        },
+        {
+          "q": "Construcția a fost trasată „din ochi” și e deja la fundație. Ce se poate face?",
+          "a": "Măsurăm imediat ce există și comparăm cu autorizația. Dacă abaterile sunt în toleranțe, documentăm și mergem înainte; dacă nu, e mai bine să afli acum decât la recepție — soluțiile există (de la modificări de proiect la intrare în legalitate), dar toate sunt mai ieftine cu cât sunt aplicate mai devreme."
+        },
+        {
+          "q": "Faceți și verificări pe parcursul execuției?",
+          "a": "Da — verificări de verticalitate, cote la fiecare etapă, măsurători pentru situațiile de lucrări și as-built la final. La proiectele cu finanțare oferim pachetul complet execuție → recepție, descris pe pagina de monitorizare a implementării."
+        }
       ]
     },
     {

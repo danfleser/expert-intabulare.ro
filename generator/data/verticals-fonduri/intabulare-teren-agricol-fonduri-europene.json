@@ -16,10 +16,10 @@
       "type": "process",
       "heading": "Cum intabulăm o parcelă agricolă, pas cu pas",
       "steps": [
-        { "title": "Analiza actelor și a planului parcelar", "text": "Verificăm titlul de proprietate, poziția în tarla și planul parcelar existent la OCPI sau la primărie. Aici aflăm dacă parcela se poate identifica cert sau dacă tarlaua are probleme (suprapuneri, plan parcelar lipsă)." },
-        { "title": "Măsurători în teren", "text": "Măsurăm limitele reale cu GPS RTK, în prezența ta și, ideal, a vecinilor de parcelă — la extravilan, confirmarea vecinilor previne litigii ulterioare." },
-        { "title": "Documentația cadastrală", "text": "Întocmim planul de amplasament și delimitare (PAD) și dosarul de primă înscriere, pe care îl depunem online la OCPI în format CPXML." },
-        { "title": "Intabularea în cartea funciară", "text": "După recepția OCPI, imobilul primește număr cadastral și carte funciară — de acum poți obține extras CF și extras de plan cadastral pe ortofotoplan pentru orice dosar de finanțare." }
+        "Analiza actelor și a planului parcelar — Verificăm titlul de proprietate, poziția în tarla și planul parcelar existent la OCPI sau la primărie. Aici aflăm dacă parcela se poate identifica cert sau dacă tarlaua are probleme (suprapuneri, plan parcelar lipsă).",
+        "Măsurători în teren — Măsurăm limitele reale cu GPS RTK, în prezența ta și, ideal, a vecinilor de parcelă — la extravilan, confirmarea vecinilor previne litigii ulterioare.",
+        "Documentația cadastrală — Întocmim planul de amplasament și delimitare (PAD) și dosarul de primă înscriere, pe care îl depunem online la OCPI în format CPXML.",
+        "Intabularea în cartea funciară — După recepția OCPI, imobilul primește număr cadastral și carte funciară — de acum poți obține extras CF și extras de plan cadastral pe ortofotoplan pentru orice dosar de finanțare."
       ]
     },
     {
@@ -42,10 +42,22 @@
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
-        { "q": "Am titlu de proprietate din 1995. Nu e suficient pentru dosar?", "a": "Titlul dovedește reconstituirea dreptului, dar finanțatorii cer extras de carte funciară — iar acesta există doar după cadastrare și intabulare. Titlul este punctul de plecare al documentației, nu înlocuitorul ei." },
-        { "q": "Suprafața din titlu diferă de ce se măsoară în teren. Ce se întâmplă?", "a": "Situație foarte frecventă la extravilan. Diferențele mici se pot înscrie conform regulamentului ANCPI; cele mari cer verificarea planului parcelar și, uneori, procedura de modificare a suprafeței. Detaliem scenariile pe pagina despre diferențele de suprafață." },
-        { "q": "Pot comasa parcele care nu sunt încă intabulate?", "a": "Nu — alipirea se face între imobile deja înscrise în cartea funciară. De aceea ordinea corectă este întâi prima înscriere a fiecărei parcele, apoi alipirea. Le programăm ca pe o singură lucrare, în etape." },
-        { "q": "Lucrați în toată zona Aiudului?", "a": "Da — teren în tot județul Alba, plus județele învecinate Cluj, Mureș, Sibiu și Hunedoara. La lucrările cu multe parcele ne organizăm pe zile de teren per tarla, ceea ce reduce costul pe parcelă." }
+        {
+          "q": "Am titlu de proprietate din 1995. Nu e suficient pentru dosar?",
+          "a": "Titlul dovedește reconstituirea dreptului, dar finanțatorii cer extras de carte funciară — iar acesta există doar după cadastrare și intabulare. Titlul este punctul de plecare al documentației, nu înlocuitorul ei."
+        },
+        {
+          "q": "Suprafața din titlu diferă de ce se măsoară în teren. Ce se întâmplă?",
+          "a": "Situație foarte frecventă la extravilan. Diferențele mici se pot înscrie conform regulamentului ANCPI; cele mari cer verificarea planului parcelar și, uneori, procedura de modificare a suprafeței. Detaliem scenariile pe pagina despre diferențele de suprafață."
+        },
+        {
+          "q": "Pot comasa parcele care nu sunt încă intabulate?",
+          "a": "Nu — alipirea se face între imobile deja înscrise în cartea funciară. De aceea ordinea corectă este întâi prima înscriere a fiecărei parcele, apoi alipirea. Le programăm ca pe o singură lucrare, în etape."
+        },
+        {
+          "q": "Lucrați în toată zona Aiudului?",
+          "a": "Da — teren în tot județul Alba, plus județele învecinate Cluj, Mureș, Sibiu și Hunedoara. La lucrările cu multe parcele ne organizăm pe zile de teren per tarla, ceea ce reduce costul pe parcelă."
+        }
       ]
     },
     {
