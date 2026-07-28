@@ -1,0 +1,104 @@
+{
+  "domain": "https://expert-intabulare.ro",
+  "buildDate": "2026-07-28",
+  "brand": "Fleser Aurel Expert",
+  "nap": {
+    "name": "Fleser Aurel Expert PFA",
+    "street": "Florilor 1A",
+    "city": "Aiud",
+    "county": "Alba",
+    "phone": "0741478540",
+    "phoneDisplay": "0741 478 540",
+    "phoneIntl": "+40741478540",
+    "email": "aurelfleser@yahoo.com",
+    "lat": 46.3212173,
+    "lon": 23.718157,
+    "mapsUrl": "https://www.google.com/maps/place/Birou+particular+Cadastru,+Topografie,+Releveu+-+Trasare,+Intabulare,+Extras+CF/@46.3212173,23.7176085,19z/data=!3m1!4b1!4m5!3m4!1s0x4749578f1113eda7:0x79df4f368ffdd9!8m2!3d46.3212173!4d23.718157",
+    "hours": "Disponibili Luni-Vineri, între 9:00 - 17:00"
+  },
+  "whatsapp": {
+    "phone": "40741478540",
+    "greetings": {
+      "servicii": "Salut! Am nevoie de %TOPIC%.",
+      "zone": "Salut! Am nevoie de %TOPIC%.",
+      "ghid": "Salut! Am o întrebare despre %TOPIC%.",
+      "dictionar": "Salut! Am o întrebare despre %TOPIC%.",
+      "fonduri": "Salut! Am un proiect cu fonduri europene (%TOPIC%) și am nevoie de documentație topografică/cadastrală.",
+      "solar": "Salut! Dezvolt un proiect fotovoltaic și am nevoie de %TOPIC%.",
+      "default": "Salut! Doresc o ofertă."
+    },
+    "buttonLabel": "Scrie-ne pe WhatsApp",
+    "buttonLabelEn": "Message us on WhatsApp"
+  },
+  "trustStats": ["25+ ani experiență", "1052+ proiecte finalizate", "2681+ colaborări", "Autorizat ANCPI", "Aiud, jud. Alba"],
+  "deplasareNote": "Deplasare inclusă în județul Alba; în județele învecinate se calculează în funcție de distanță.",
+  "dictionaryDisclaimer": "Informațiile din această pagină au caracter informativ și nu constituie consultanță juridică.",
+  "priceDisclaimer": "Prețurile afișate sunt orientative; costul exact depinde de teren, documente și situația din cartea funciară.",
+  "nav": {
+    "serviciiHref": "/#services",
+    "zoneHref": "/zone/alba/",
+    "services": [
+      { "label": "Cadastru și intabulare", "slug": "cadastru-si-intabulare" },
+      { "label": "Intabulare teren", "slug": "intabulare-teren" },
+      { "label": "Intabulare casă / construcție", "slug": "intabulare-casa-constructie" },
+      { "label": "Intabulare apartament", "slug": "intabulare-apartament" },
+      { "label": "Dezmembrare / alipire", "slug": "dezmembrare-alipire" },
+      { "label": "Plan topografic", "slug": "plan-topografic" },
+      { "label": "Trasare teren", "slug": "trasare-teren" },
+      { "label": "Actualizare carte funciară", "slug": "actualizare-carte-funciara" },
+      { "label": "Topografie construcții", "slug": "topografie-constructii" },
+      { "label": "Servicii OCPI", "slug": "servicii-ocpi" },
+      { "label": "Certificat energetic", "slug": "certificat-energetic" },
+      { "label": "Expertize și documentații", "slug": "expertize-documentatii" }
+    ],
+    "counties": [
+      { "label": "Alba", "slug": "alba", "code": "AB" },
+      { "label": "Cluj", "slug": "cluj", "code": "CJ" },
+      { "label": "Mureș", "slug": "mures", "code": "MS" },
+      { "label": "Sibiu", "slug": "sibiu", "code": "SB" },
+      { "label": "Hunedoara", "slug": "hunedoara", "code": "HD" }
+    ]
+  },
+  "footer": {
+    "coreServices": [
+      "cadastru-si-intabulare",
+      "intabulare-teren",
+      "intabulare-casa-constructie",
+      "intabulare-apartament",
+      "dezmembrare-alipire",
+      "plan-topografic",
+      "trasare-teren",
+      "actualizare-carte-funciara"
+    ],
+    "resources": [
+      { "label": "Ghiduri practice", "href": "/ghid/" },
+      { "label": "Dicționar de cadastru", "href": "/dictionar/" },
+      { "label": "Fonduri europene", "href": "/fonduri-europene/" },
+      { "label": "Parcuri fotovoltaice", "href": "/parcuri-fotovoltaice/" }
+    ]
+  },
+  "en": {
+    "navItems": [
+      { "label": "Home", "href": "/en/" },
+      { "label": "Service area", "href": "/en/service-area.html" },
+      { "label": "Glossary", "href": "/en/guides/glossary-romanian-land-terms.html" }
+    ],
+    "contactHref": "/en/contact.html",
+    "preFooterHeading": "Ready when you are",
+    "preFooterText": "Send us a WhatsApp message describing your project — we usually reply within one business day.",
+    "contactCardHeading": "Quick contact",
+    "contactCardText": "Licensed ANCPI surveyor, 25+ years of field experience in Alba county, Romania.",
+    "cookieText": "This website uses cookies to ensure you get the best experience. For details, please check our ",
+    "cookieLinkLabel": "Privacy Policy.",
+    "cookieButton": "I agree"
+  },
+  "ro": {
+    "preFooterHeading": "Ai o situație asemănătoare?",
+    "preFooterText": "Scrie-ne pe WhatsApp sau sună-ne — răspundem de obicei în aceeași zi lucrătoare.",
+    "contactCardHeading": "Contact rapid",
+    "contactCardText": "Topograf autorizat ANCPI, 25+ ani de experiență în județul Alba și împrejurimi.",
+    "cookieText": "Acest site folosește cookie-uri. Folosim cookie-uri pentru a ne asigura că aveți cea mai bună experiență pe site-ul nostru. Pentru detalii, vă rugăm să verificați",
+    "cookieLinkLabel": "Politica de Confidențialitate.",
+    "cookieButton": "Sunt de acord"
+  }
+}

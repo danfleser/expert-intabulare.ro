@@ -1,0 +1,77 @@
+{
+  "slug": "diferenta-dintre-cadastru-si-intabulare",
+  "title": "Diferența dintre cadastru și intabulare, explicată",
+  "h1": "Cadastru vs. intabulare: care este diferența și de ce ai nevoie de amândouă",
+  "metaDescription": "Cadastrul este partea tehnică (măsurători, număr cadastral), intabularea este partea juridică (înscrierea proprietarului în cartea funciară). Explicație clară, cu exemple și întrebări frecvente.",
+  "whatsappTopic": "diferența dintre cadastru și intabulare",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Răspunsul scurt",
+      "text": "Cadastrul este partea tehnică: măsurarea imobilului, stabilirea limitelor și a suprafeței, atribuirea unui număr cadastral unic — adică identificarea fizică a imobilului. Intabularea este partea juridică: înscrierea dreptului de proprietate (și a altor drepturi) în cartea funciară — adică recunoașterea oficială a faptului că imobilul acela este al dumneavoastră.\n\nÎn vorbirea curentă, „a face cadastrul” înseamnă de fapt amândouă: în sistemul actual, integrat, cele două operațiuni merg împreună — documentația cadastrală se recepționează și, pe baza ei, se deschide cartea funciară în care se intabulează proprietarul. Plătiți o singură lucrare și primiți la final un singur set de documente: încheierea de intabulare și extrasul de carte funciară. De aceea serviciul se și numește, corect, „cadastru și intabulare”."
+    },
+    {
+      "type": "table",
+      "heading": "Cadastru și intabulare, față în față",
+      "head": ["", "Cadastru", "Intabulare"],
+      "rows": [
+        ["Ce este", "identificarea tehnică a imobilului: măsurători, limite, suprafață, număr cadastral", "înscrierea dreptului de proprietate în cartea funciară"],
+        ["Cine o face", "persoana autorizată ANCPI (topograful), prin documentația cadastrală", "registratorul de carte funciară de la BCPI, prin încheiere"],
+        ["Răspunde la întrebarea", "„ce și unde este imobilul?”", "„al cui este imobilul?”"],
+        ["Documentul rezultat", "planul de amplasament și delimitare, numărul cadastral", "încheierea de intabulare, extrasul de carte funciară"],
+        ["Fără ea", "imobilul nu există în evidențele tehnice — nu poate fi înscris", "proprietatea nu este opozabilă — nu puteți vinde sau ipoteca la notar"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "De ce contează practic diferența",
+      "text": "Pentru că întrebarea corectă la orice imobil nu este „are cadastru?”, ci „este înscris în cartea funciară, și pe numele cui?”. Sunt situații reale în care cele două nu coincid: un teren poate avea număr cadastral vechi (măsurat cândva), dar cu proprietarul decedat neactualizat în cartea funciară; un apartament poate fi intabulat pe vechiul proprietar deși dumneavoastră l-ați cumpărat printr-un act care nu a mai ajuns la OCPI; o casă poate fi construită pe teren intabulat, dar fără ca ea însăși să fie înscrisă.\n\nVerificarea durează cinci minute și costă 20 de lei: extrasul de carte funciară de informare, cerut online, arată exact ce este înscris și pe cine. Orice discuție serioasă despre o vânzare, un credit sau o succesiune pornește de la acest extras — nu de la ce „se știe” în familie despre acte.\n\nMai există o confuzie frecventă: cartea funciară nu este totuna cu registrul agricol de la primărie și nici cu rolul fiscal. Faptul că plătiți impozit pe un teren de 30 de ani nu înseamnă că el este intabulat pe numele dumneavoastră — impozitul dovedește folosința declarată, nu proprietatea înscrisă."
+    },
+    {
+      "type": "paragraph",
+      "heading": "Cum arată, concret, o lucrare de „cadastru și intabulare”",
+      "text": "Prima înregistrare a unui imobil parcurge ambele componente într-un singur flux: topograful măsoară imobilul și întocmește documentația cadastrală (partea de cadastru), dosarul se depune la biroul teritorial OCPI, inspectorul recepționează documentația și alocă numărul cadastral, apoi registratorul de carte funciară verifică actele juridice și dispune prin încheiere deschiderea cărții funciare cu intabularea proprietarului (partea de intabulare). Termenul oficial pentru acest flux este de 18 zile lucrătoare în regim normal sau 8 în regim de urgență, iar tariful ANCPI pentru prima înregistrare este în prezent scutit — costul lucrării este onorariul topografului, orientativ 1.400–2.500 lei pentru un teren obișnuit.\n\nDacă imobilul are deja cadastru și carte funciară, iar dumneavoastră doar dobândiți dreptul (cumpărare, moștenire cu acte clare), nu mai e nevoie de topograf: intabularea noului proprietar o face notarul sau o cereți direct la OCPI, pe baza actului. Iar dacă imobilul înscris a suferit modificări fizice (construcție nouă, demolare, alipire), este nevoie de actualizarea documentației cadastrale — despre diferența dintre prima înscriere și actualizare am scris un ghid separat."
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        {
+          "q": "Pot avea cadastru fără intabulare?",
+          "a": "Istoric, da — înainte de sistemul integrat existau documentații cadastrale recepționate fără înscriere în cartea funciară. Astăzi, la prima înregistrare, recepția și intabularea se fac în același flux, deci nu mai primiți una fără cealaltă. Dacă aveți un cadastru vechi „fără intabulare”, situația trebuie verificată la OCPI — de multe ori documentația veche poate fi valorificată."
+        },
+        {
+          "q": "Pot avea intabulare fără cadastru?",
+          "a": "Există cărți funciare vechi (mai ales în Transilvania, din sistemul austro-ungar) în care proprietarii sunt înscriși pe imobile cu numere topografice, fără măsurători moderne. Ele sunt valabile juridic, dar la o tranzacție notarul va cere de regulă documentație cadastrală actuală — adică exact conversia imobilului în sistemul integrat."
+        },
+        {
+          "q": "Am moștenit un teren „cu acte”. Mai trebuie cadastru?",
+          "a": "Certificatul de moștenitor dovedește dreptul, dar dacă terenul nu a fost niciodată înscris în sistemul integrat, este nevoie de prima înregistrare: măsurători, documentație cadastrală, deschiderea cărții funciare. Actele bune fac dosarul simplu — dar nu înlocuiesc măsurătorile."
+        },
+        {
+          "q": "Ce este numărul cadastral și unde îl găsesc?",
+          "a": "Este identificatorul unic al imobilului în sistemul de cadastru, alocat la recepție. Îl găsiți pe încheierea de intabulare, pe extrasul de carte funciară sau pe planul de amplasament. Cu el (plus localitatea) puteți cere oricând extras de carte funciară online."
+        },
+        {
+          "q": "La bloc, ce e „cadastrul apartamentului” dacă blocul are deja cadastru?",
+          "a": "Blocul (imobilul-mamă: teren + construcție) are cartea lui funciară colectivă, iar fiecare apartament are — sau trebuie să aibă — carte funciară individuală, cu propriul număr cadastral. „Cadastrul apartamentului” înseamnă documentația cu releveu prin care apartamentul primește această carte funciară individuală."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Nu știți sigur ce are și ce nu are imobilul dumneavoastră?",
+      "text": "Trimiteți-ne pe WhatsApp ce acte aveți și localitatea imobilului. Verificăm situația în evidențele de cadastru și vă spunem clar: ce este înscris, ce lipsește și care e drumul cel mai scurt până la un extras de carte funciară pe numele dumneavoastră. Informațiile din acest ghid au caracter informativ și nu constituie consultanță juridică."
+    }
+  ],
+  "related": {
+    "services": ["cadastru-si-intabulare", "intabulare-teren", "servicii-ocpi", "actualizare-carte-funciara"],
+    "guides": ["prima-inscriere-vs-actualizare-carte-funciara", "extras-carte-funciara-online", "acte-necesare-intabulare-teren", "cat-dureaza-cadastrul-si-intabularea"]
+  },
+  "sources": [
+    "https://legislatie.just.ro/Public/DetaliiDocument/162860",
+    "https://ms.ancpi.ro/termene/",
+    "https://cnpb.ro/assets/2021/02/ordinul-16-din-2019-tarife-ancpi.pdf",
+    "https://epay.ancpi.ro/epay/SelectProd.action?prodId=14200"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "drum-acces-teren-carte-funciara",
+  "title": "Drumul de acces la teren și cartea funciară — fără acces clar, fără autorizație",
+  "h1": "Drumul de acces în cartea funciară: verifică-l înainte să cumperi terenul",
+  "metaDescription": "Drum de acces teren parc fotovoltaic: drumul din teren nu e totuna cu cel din CF. Servitute, cumpărare de fâșie sau drum public — soluții și documentații.",
+  "whatsappTopic": "clarificarea drumului de acces la un teren",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Un parc fotovoltaic la care nu poți ajunge legal nu e un parc",
+      "html": "<p>La autorizare, primăria îți va cere să arăți cum se accede la amplasament — iar în execuție și operare, pe acel acces vor intra camioane cu structuri, transformatoare agabaritice și echipe de mentenanță timp de decenii. Problema pe care o găsim constant la due diligence: drumul pe care „se intră dintotdeauna\" pe teren există fizic, dar nu există juridic. E o cale bătută peste terenul unui vecin, un fost drum de exploatare arat de mult sau o fâșie al cărei regim juridic nu-l știe nimeni. Un teren excelent, cu acces neclarificat, e un proiect blocat.</p><p>Vestea bună: accesul se verifică ieftin și devreme. Trimite-ne extrasul CF pe WhatsApp și îți spunem în aceeași zi dacă imobilul are front la un drum înscris sau dacă accesul depinde de terenuri terțe — și, în al doilea caz, care sunt variantele de rezolvare și cât durează fiecare, orientativ.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "De ce drumul din teren nu e totuna cu drumul din acte",
+      "html": "<p>În evidențele cadastrale, drumurile sunt imobile ca oricare altele: au poziție, limite și un proprietar — public sau privat. Ce vedem des la verificări: drumul real e deplasat față de cel din evidențe, uneori cu zeci de metri, pentru că arăturile l-au mutat an de an; drumul din planurile vechi a fost desființat faptic și inclus în parcelele vecine; sau accesul se face printr-o trecere tolerată de vecin, fără niciun drept înscris. Niciuna dintre situații nu se vede din mașină — toate se văd la o verificare pe acte dublată de măsurători.</p><p>Verificarea noastră are două componente: desk — analizăm extrasul CF, geoportalul ANCPI și ortofotoplanul, pentru a stabili dacă imobilul are front la un drum înscris și cine e proprietarul acelui drum — și teren, unde măsurăm cu GPS/GNSS RTK poziția reală a drumului și o comparăm cu cea din evidențe. Diferența dintre cele două e exact zona în care se nasc litigiile.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Trei căi de a asigura accesul — comparate",
+      "head": ["Soluția", "Când are sens", "Ce documentație topo-cadastrală presupune"],
+      "rows": [
+        ["Servitute de trecere înscrisă în CF", "vecinul acceptă trecerea, iar traseul e stabil și rezonabil ca lățime", "plan de servitute pentru fiecare CF afectat, cu traseul în coordonate Stereo 70, apoi act notarial și înscrierea în CF"],
+        ["Cumpărarea unei fâșii de teren", "vrei control total pe acces, pe termen lung, fără dependență de vecini", "dezmembrarea fâșiei din imobilul vecinului, act de vânzare, apoi eventual alipirea la imobilul tău"],
+        ["Acces din drum public sau de exploatare", "imobilul are front real la un drum aflat în proprietate publică", "verificarea regimului juridic al drumului la primărie și confirmarea prin măsurători că frontul există și fizic"]
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "Cum alegi între servitute și cumpărare",
+      "html": "<p>Nu există un răspuns universal, dar există criterii clare. Servitutea e mai rapidă și mai ieftină la constituire, iar pentru accesul unui parc e soluția uzuală — cu condiția să fie înscrisă în cartea funciară, nu doar promisă verbal; o servitute corect definită, cu traseu în coordonate, protejează proiectul și la schimbarea proprietarului terenului aservit. Cumpărarea fâșiei costă mai mult și cere dezmembrare la vecin, dar elimină orice dependență — argument care contează la proiectele mari și la exit, când cumpărătorul proiectului va diseca fiecare vulnerabilitate juridică.</p><p>Un detaliu des uitat: accesul fizic al utilajelor nu e singura trecere de asigurat. Cablul de evacuare a energiei traversează de regulă mai multe proprietăți până la punctul de racordare, iar acolo se lucrează cu aceleași instrumente — am detaliat subiectul la <a href=\"/parcuri-fotovoltaice/servitute-trecere-cablu-electric.html\">servitutea de trecere pentru cablul electric</a>. Cele două trasee se proiectează împreună, ca să nu negociezi de două ori cu aceiași vecini.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Ce facem noi concret",
+      "html": "<p>Partea noastră e cea topografică și cadastrală: verificarea desk a accesului pentru terenuri din toată țara, măsurarea poziției reale a drumurilor în Alba, Cluj, Mureș, Sibiu și Hunedoara, planurile de servitute per CF afectat, documentațiile de <a href=\"/parcuri-fotovoltaice/dezmembrare-teren-parcela.html\">dezmembrare</a> pentru fâșiile cumpărate și înscrierile aferente conform Ordinului ANCPI nr. 700/2014. Actele juridice le face notarul; noi livrăm planurile pe care el le poate folosi fără întrebări suplimentare. Colaborăm cu dezvoltatori și constructori, iar la amplasamentele asamblate din mai multe parcele proiectăm accesul odată cu restul lanțului cadastral — nu ca temă separată, descoperită târziu.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Terenul are drum în față. Mai am nevoie de verificare?",
+          "a": "Da. Trebuie confirmat că drumul din teren coincide cu cel din evidențe, că e înscris ca drum și cine îl deține — public sau privat. Un drum aparent public care traversează de fapt proprietăți private e una dintre cele mai frecvente surprize de due diligence."
+        },
+        {
+          "q": "O înțelegere verbală cu vecinul pentru trecere e suficientă?",
+          "a": "Nu, pentru un proiect de zeci de ani. Înțelegerea verbală dispare odată cu vânzarea terenului vecin sau cu o moștenire. Pentru proiect contează dreptul înscris în cartea funciară — servitute cu traseu definit în coordonate — pe care finanțatorul și cumpărătorul proiectului îl pot verifica."
+        },
+        {
+          "q": "Cât durează constituirea unei servituți de trecere?",
+          "a": "Partea topografică — planul de servitute cu traseul în Stereo 70 — durează de regulă câteva zile până la o săptămână, orientativ. Urmează actul notarial, care depinde de disponibilitatea părților, și înscrierea în CF conform termenelor OCPI în vigoare."
+        },
+        {
+          "q": "Ce lățime trebuie să aibă accesul pentru un parc fotovoltaic?",
+          "a": "Depinde de gabaritul transporturilor din execuție — structuri, transformatoare — și de cerințele din proiect; lățimea o stabilește proiectantul, iar noi o transpunem în traseul de servitute sau în fâșia de dezmembrat. Recomandarea practică: dimensionează accesul pentru execuție, nu doar pentru mentenanță."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/servitute-trecere-cablu-electric.html", "label": "Servitute de trecere pentru cablul electric" },
+    { "href": "/parcuri-fotovoltaice/dezmembrare-teren-parcela.html", "label": "Dezmembrarea terenului" },
+    { "href": "/parcuri-fotovoltaice/verificare-carte-funciara-cumparare-teren.html", "label": "Verificare CF înainte de cumpărare" },
+    { "href": "/parcuri-fotovoltaice/trasare-drumuri-interne-parc-fotovoltaic.html", "label": "Trasarea drumurilor interne" },
+    { "href": "/servicii/dezmembrare-alipire/", "label": "Dezmembrare și alipire — serviciul de bază" },
+    { "href": "/dictionar/servitute.html", "label": "Dicționar: servitute" }
+  ],
+  "sources": [
+    { "url": "https://legislatie.just.ro/Public/DetaliiDocument/160177", "title": "Ordinul ANCPI nr. 700/2014 — regulamentul de avizare, recepție și înscriere" }
+  ]
+}

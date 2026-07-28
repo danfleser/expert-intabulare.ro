@@ -1,0 +1,70 @@
+BUILD REPORT — expert-intabulare.ro generator (buildDate 2026-07-28)
+
+Pages emitted: 1357  (+ 9 sitemap/robots files)
+  core: 5
+  dictionar: 265
+  en: 25
+  ghid: 21
+  serviciiAlba: 614
+  serviciiVecini: 312
+  verticale: 115
+
+Data shards missing/unreadable (tolerated — build what exists): 0
+
+Data-gate demotions (matrix row on county hub instead of page): 0
+
+Render-gate demotions: 50
+  - cadastru-si-intabulare/alba/cut: unique words 113 < 120; shingle overlap 72.1% > 70%
+  - cadastru-si-intabulare/alba/posaga: shingle overlap 70.1% > 70%
+  - cadastru-si-intabulare/cluj/viisoara: unique words 118 < 120
+  - cadastru-si-intabulare/mures/cucerdea: unique words 111 < 120
+  - cadastru-si-intabulare/mures/taureni: unique words 116 < 120
+  - cadastru-si-intabulare/sibiu/pauca: unique words 117 < 120
+  - intabulare-casa-constructie/alba/farau: unique words 118 < 120
+  - intabulare-casa-constructie/alba/spring: unique words 119 < 120
+  - intabulare-apartament/alba/cut: unique words 118 < 120
+  - dezmembrare-alipire/alba/abrud: shingle overlap 70.5% > 70%
+  - dezmembrare-alipire/alba/blandiana: shingle overlap 70.3% > 70%
+  - dezmembrare-alipire/alba/calnic: unique words 117 < 120
+  - dezmembrare-alipire/alba/cut: unique words 116 < 120
+  - dezmembrare-alipire/alba/sancel: shingle overlap 77.0% > 70%
+  - dezmembrare-alipire/alba/sibot: shingle overlap 71.3% > 70%
+  - dezmembrare-alipire/alba/sona: shingle overlap 74.5% > 70%
+  - dezmembrare-alipire/mures/taureni: unique words 117 < 120
+  - dezmembrare-alipire/sibiu/atel: unique words 119 < 120; shingle overlap 72.9% > 70%
+  - dezmembrare-alipire/sibiu/hoghilag: shingle overlap 72.8% > 70%
+  - plan-topografic/alba/cut: unique words 105 < 120
+  - plan-topografic/alba/daia-romana: unique words 119 < 120
+  - plan-topografic/alba/garbova: unique words 116 < 120
+  - plan-topografic/alba/posaga: shingle overlap 70.3% > 70%
+  - plan-topografic/cluj/aiton: unique words 119 < 120
+  - plan-topografic/cluj/viisoara: unique words 116 < 120
+  - plan-topografic/mures/atintis: unique words 113 < 120
+  - plan-topografic/mures/bagaciu: unique words 118 < 120
+  - plan-topografic/mures/cucerdea: unique words 117 < 120
+  - plan-topografic/mures/cuci: unique words 116 < 120
+  - plan-topografic/mures/ganesti: unique words 118 < 120
+  - plan-topografic/sibiu/atel: unique words 115 < 120
+  - plan-topografic/sibiu/micasasa: unique words 117 < 120
+  - trasare-teren/alba/cut: unique words 111 < 120; shingle overlap 71.6% > 70%
+  - trasare-teren/alba/spring: unique words 119 < 120
+  - trasare-teren/mures/atintis: unique words 118 < 120
+  - trasare-teren/mures/cucerdea: unique words 117 < 120
+  - cadastru-si-intabulare/alba/calnic: unique words 118 < 120
+  - cadastru-si-intabulare/mures/atintis: unique words 119 < 120
+  - intabulare-casa-constructie/alba/cut: unique words 117 < 120
+  - dezmembrare-alipire/mures/cucerdea: unique words 119 < 120
+  - plan-topografic/mures/adamus: unique words 113 < 120
+  - plan-topografic/mures/bogata: unique words 119 < 120
+  - plan-topografic/mures/ogra: unique words 114 < 120
+  - plan-topografic/mures/sanpaul: unique words 119 < 120
+  - plan-topografic/sibiu/brateiu: unique words 117 < 120
+  - trasare-teren/alba/calnic: unique words 118 < 120
+  - trasare-teren/mures/ganesti: unique words 119 < 120
+  - plan-topografic/mures/bichis: unique words 117 < 120
+  - plan-topografic/alba/farau: unique words 116 < 120
+  - plan-topografic/mures/chetani: unique words 118 < 120
+
+Errors (build fails): 0
+
+Warnings: 0

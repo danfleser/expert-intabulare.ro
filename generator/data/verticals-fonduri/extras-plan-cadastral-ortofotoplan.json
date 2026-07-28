@@ -1,0 +1,61 @@
+{
+  "slug": "extras-plan-cadastral-ortofotoplan",
+  "title": "Extrasul de plan cadastral pe ortofotoplan: când ți-l cere finanțatorul | Expert Intabulare",
+  "h1": "Extrasul de plan cadastral pe ortofotoplan: piesa pe care o cere AFIR și cum o obții",
+  "metaDescription": "Ce este extrasul de plan cadastral pe ortofotoplan, de ce îl cere AFIR în dosarele de finanțare, cum se obține de la OCPI și ce faci dacă nu se poate emite.",
+  "whatsappTopic": "extras de plan cadastral pe ortofotoplan",
+  "hook": "none",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Ce este, pe înțeles",
+      "html": "<p><strong>Extrasul de plan cadastral pe ortofotoplan</strong> este un document emis de OCPI care arată conturul imobilului tău — așa cum e înscris în sistemul integrat — suprapus peste fotografia aeriană oficială a zonei (ortofotoplanul). Practic, e răspunsul vizual la întrebarea „unde este exact terenul acesta?”: se vede parcela, cu numărul cadastral, în contextul real — drumuri, culturi, construcții, vecinătăți.</p><p>De ce îl iubesc finanțatorii, în frunte cu AFIR: evaluatorul care nu va călca niciodată pe terenul tău poate verifica din birou că investiția descrisă în proiect se așază pe parcela declarată — că „ferma de la marginea satului” chiar e la marginea satului, că accesul există, că pe teren nu tronează deja o hală. În dosarele AFIR documentul apare constant la piesele de amplasament, iar la verificările pe teren servește ca referință comună între evaluator, beneficiar și hartă.</p>"
+    },
+    {
+      "type": "process",
+      "heading": "Cum se obține — și condiția fără de care nu se poate",
+      "steps": [
+        { "title": "Condiția prealabilă: imobil înscris", "text": "Extrasul se emite doar pentru imobile cu număr cadastral — conturul care se suprapune pe ortofoto este cel din sistemul integrat. Teren necadastrat = extras imposibil de emis; întâi prima înscriere, apoi extrasul." },
+        { "title": "Cererea la OCPI", "text": "Se depune cererea cu identificarea imobilului (număr cadastral / carte funciară) și se achită tariful — direct de tine, la ghișeu sau online, ori prin noi, odată cu restul pieselor dosarului." },
+        { "title": "Emiterea", "text": "Documentul se eliberează de regulă în câteva zile în regim normal, mai repede cu tarif de urgență — termene de tip „piesă de flux”, nu de fond." },
+        { "title": "Verificarea înainte de dosar", "text": "La primire, verifică — sau verificăm noi — că imobilul afișat corespunde realității: contur așezat corect pe teren, fără suprapuneri vizibile cu vecinii. Documentul care ar trebui să confirme amplasamentul poate, ocazional, să dezvăluie o problemă — mai bine acum decât la evaluare." }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Ce faci când extrasul „iese urât”",
+      "html": "<p>Trei situații pe care le vedem în practică. <strong>Imobilul nu e cadastrat</strong> — cel mai frecvent caz la terenuri agricole moștenite: fără număr cadastral nu există extras; soluția e prima înscriere, cu calendarul ei de săptămâni, deci start imediat. <strong>Conturul e vizibil deplasat față de realitate</strong> — semn de măsurători vechi sau erori de integrare; pentru dosar poate trece, dar pentru orice lucrare viitoare pe imobil merită investigat acum. <strong>Conturul se suprapune cu vecinul</strong> — problema serioasă: suprapunerea care ți-ar fi blocat oricum următoarea documentație tocmai s-a arătat singură; tratamentul e pe pagina noastră dedicată suprapunerilor cadastrale.</p><p>Nota practică pentru dosarele AFIR: cere extrasul <strong>devreme în pregătirea proiectului</strong>, nu în săptămâna depunerii — exact pentru că el poate declanșa una dintre situațiile de mai sus. E un document ieftin care funcționează ca test de sănătate al imobilului.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "E același lucru cu captura de pe geoportalul ANCPI?", "a": "Nu — geoportalul e consultare publică informală, utilă pentru orientare; extrasul de plan cadastral pe ortofotoplan e document oficial emis de OCPI, cu antet și tarif, acceptat în dosare. Evaluatorii cer documentul, nu print-screen-ul." },
+        { "q": "Cât e valabil extrasul pe ortofotoplan?", "a": "Nu are termen de valabilitate legal ca extrasul CF de 30 de zile din ghiduri, dar reflectă situația de la emitere — iar ghidurile pot cere emitere recentă. Verifică cerința exactă a sesiunii tale; dacă e nevoie de unul proaspăt la depunere, se emite rapid." },
+        { "q": "Fotografia aeriană din extras e veche și nu arată construcția mea nouă. E o problemă?", "a": "Ortofotoplanurile oficiale se actualizează ciclic, deci imaginea poate avea câțiva ani. Pentru evaluator contează conturul imobilului și amplasamentul, nu prospețimea pozei; dacă proiectul cere dovada construcțiilor existente, aceea vine din cartea funciară și planuri, nu din fotografie." },
+        { "q": "Puteți obține voi extrasul pentru noi?", "a": "Da — îl includem uzual în pachetul de piese al dosarului, împreună cu extrasul CF și restul documentelor, ca să ai un singur interlocutor și un singur calendar. Trimite-ne numărul cadastral pe WhatsApp și îl punem pe listă." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Îți trebuie extrasul pe ortofotoplan pentru dosar?",
+      "text": "Trimite-ne pe WhatsApp numărul cadastral și termenul depunerii — îl obținem noi și, la primire, îl verificăm gratuit de suprapuneri și deplasări."
+    }
+  ],
+  "related": [
+    "documentatie-topografica-afir",
+    "extras-carte-funciara-fonduri-europene",
+    "numar-cadastral-cum-afli",
+    "suprapunere-cadastrala-rezolvare",
+    "intabulare-teren-agricol-fonduri-europene",
+    "checklist-teren-impadurire-pnrr",
+    "/servicii/cadastru-si-intabulare/",
+    "/dictionar/numar-cadastral.html"
+  ],
+  "sources": [
+    "https://www.ancpi.ro/",
+    "https://www.afir.ro/",
+    "https://geoportal.ancpi.ro/"
+  ]
+}

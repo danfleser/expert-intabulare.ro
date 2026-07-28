@@ -1,0 +1,49 @@
+{
+  "path": "/en/contact.html",
+  "title": "Contact — English-Speaking Land Surveyor in Romania | WhatsApp First",
+  "metaDescription": "Contact an English-speaking, ANCPI-authorized land surveyor in Romania. WhatsApp is the fastest channel — send your question, land book extract or site pin and get a concrete answer.",
+  "h1": "Contact Us: How Remote and International Clients Work With Us",
+  "navLabelEn": "Contact",
+  "roPair": null,
+  "whatsappPrefillEn": "Hello! I'd like to discuss a land surveying / property registration matter in Romania.",
+  "sections": [
+    {
+      "type": "html",
+      "heading": "WhatsApp first — here's why",
+      "html": "<p>The green WhatsApp button on every page of this site is not decoration; it is genuinely how our international clients work with us. One chat thread carries the whole engagement: your questions in English, our answers, photos of documents, land book extracts as attachments, site pins, quotes, and progress updates as your file moves through OCPI. No contact forms that vanish into inboxes, no waiting for office hours across time zones, no attachment limits that email brings.</p><p>Tap the button, and the message opens pre-filled — edit it, add your situation, hit send. Useful things to include from the start: <strong>where the property is</strong> (county and locality, a map pin, or the cadastral number), <strong>what you are trying to achieve</strong> (buy safely, register, survey for design, meet a grant deadline), and <strong>any deadline</strong> already on the table. With those three, our first reply can be concrete: feasible or not, indicative cost range, realistic timeline.</p><p>Prefer voice? Call <strong>+40 741 478 540</strong> — English spoken. Email remains available (see the footer) and is the right channel for large document batches, though most clients simply drop files into the WhatsApp thread.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "How a remote engagement actually runs",
+      "html": "<ul><li><strong>1. First contact:</strong> you describe the property or project; we respond with feasibility, an indicative range, and what documents we need to see.</li><li><strong>2. Documents by chat:</strong> you send what you have — deeds, extracts, titles, old plans, photographs. We tell you what is usable, what is missing, and where the missing pieces live (town hall, notary, archives).</li><li><strong>3. Quote and green light:</strong> a written scope with the fee, the official ANCPI/OCPI fees listed separately, and the honest timeline. You approve; we schedule.</li><li><strong>4. We work locally:</strong> measurements on site, files lodged at the competent OCPI, coordination with your notary, consultant or lawyer — with updates to your thread at each milestone, not silence until the end.</li><li><strong>5. Signatures without travel:</strong> where the law requires your signature, it is handled through your Romanian notary or a power of attorney notarized abroad and apostilled. Most engagements need no visit from you at any point.</li><li><strong>6. Delivery:</strong> final documents as PDFs and working files in the chat and by email; originals by courier wherever you are.</li></ul>"
+    },
+    {
+      "type": "html",
+      "heading": "Who you are dealing with",
+      "html": "<p>An <strong>ANCPI-authorized surveying engineer</strong> based in Aiud, Alba county — central Transylvania — with over 25 years in the field and more than 1,052 completed projects: registrations, surveys, stakeouts and project support for private owners, companies, developers and funded projects. Field range covers Alba, Cluj, Mureș, Sibiu and Hunedoara counties; verification and due diligence services cover all of Romania. Details on the <a href=\"/en/service-area.html\">service area page</a>.</p><p>What you will not get: promises about other professions' work (we coordinate with notaries and lawyers, we do not replace them), fixed prices invented before seeing documents, or optimistic timelines that ignore how OCPI actually works. What you will get: straight answers, including \"no\" when the honest answer is no.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "What are your working hours for international clients?",
+          "a": "Message anytime — WhatsApp is asynchronous by design, and evening messages are normal (many of our clients think about land after work). We reply during Romanian business hours, usually the same or next working day."
+        },
+        {
+          "q": "Can you invoice a foreign company?",
+          "a": "Yes — engagements are regularly invoiced to EU and non-EU entities, with the scope and terms stated in writing before work starts."
+        },
+        {
+          "q": "We don't have WhatsApp. What then?",
+          "a": "Call +40 741 478 540 or use the email address in the footer. The service is identical; WhatsApp is simply the channel where documents, questions and updates flow with the least friction."
+        }
+      ]
+    }
+  ],
+  "related": [
+    "/en/service-area.html",
+    "/en/guides/buying-land-in-romania.html",
+    "/en/services/land-registry-extract.html",
+    "/en/index.html"
+  ]
+}

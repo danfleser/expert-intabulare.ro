@@ -1,0 +1,50 @@
+{
+  "slug": "coordonate-stereo-70",
+  "title": "Stereo 70: de ce coordonatele naționale contează în dosarul tău | Expert Intabulare",
+  "h1": "Stereo 70, pe scurt: sistemul de coordonate care ține România pe aceeași hartă",
+  "metaDescription": "Ce este sistemul Stereo 70, de ce toate planurile din dosarul tău trebuie să fie în el, ce sunt cotele Marea Neagră 1975 și ce pățesc dosarele cu coordonate greșite.",
+  "whatsappTopic": "coordonate Stereo 70 în documentația proiectului",
+  "hook": "none",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Răspunsul scurt",
+      "html": "<p><strong>Stereo 70 este sistemul național de proiecție cartografică al României</strong> — modul oficial în care suprafața curbă a țării se „întinde” pe planuri, astfel încât orice punct de pe teritoriu să aibă o pereche unică de coordonate X și Y, exprimate în metri. Introdus în 1970 (de aici numele — proiecție stereografică 1970), este obligatoriu pentru toate lucrările de cadastru și pentru planurile recepționate de OCPI. Pentru înălțimi se folosește sistemul de cote <strong>Marea Neagră 1975</strong>: „cota 245,3” înseamnă 245,3 metri deasupra nivelului de referință al Mării Negre.</p><p>Ce înseamnă asta pentru dosarul tău: când planul topografic, documentația cadastrală, proiectul tehnic și trasarea sunt toate în Stereo 70, ele vorbesc despre aceleași puncte din realitate, la milimetru. Colțul halei are aceleași coordonate în proiectul arhitectului, în cartea funciară și în GPS-ul echipei care o trasează — iar asta e exact coerența pe care o verifică OCPI la recepție și pe care se bazează finanțatorul când plătește.</p>"
+    },
+    {
+      "type": "paragraph",
+      "heading": "Unde apar coordonatele în proiectul tău — și ce se strică fără ele",
+      "html": "<p>Coordonatele Stereo 70 apar în tot lanțul documentar: în <strong>inventarul de coordonate</strong> al oricărui imobil cadastrat (conturul din cartea funciară e, tehnic, o listă de perechi X,Y), pe <strong>planul topografic vizat</strong>, în <strong>coordonatele de trasare</strong> din proiectul tehnic și în <strong>as-built-ul</strong> final. Când un actor din lanț lucrează în alt sistem — GPS-ul de drumeție al cuiva dă coordonate geografice WGS84, un proiectant străin livrează în sistemul lui local — apar decalajele: construcții „mutate” cu metri buni față de parcela reală, suprapuneri fantomă la OCPI, trasări care nu se închid.</p><p>Este și una dintre erorile clasice semnalate la recepțiile OCPI: lucrări măsurate corect, dar transformate greșit între sisteme. Conversia dintre WGS84 (limbajul sateliților) și Stereo 70 (limbajul cadastrului românesc) se face cu grile și proceduri oficiale — parte din meseria persoanei autorizate, nu un buton dintr-o aplicație de telefon.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Pot să iau coordonatele parcelei de pe Google Maps pentru dosar?", "a": "Nu — Google lucrează în WGS84 și cu precizii de ordinul metrilor; cadastrul cere Stereo 70 și precizii de ordinul centimetrilor. Pentru orientare generală e util; pentru orice document oficial, coordonatele vin din măsurători autorizate." },
+        { "q": "Proiectantul străin al investitorului cere coordonate în alt sistem. Se poate?", "a": "Da — livrăm curent și în WGS84/ETRS89 sau în sisteme cerute de software-ul de proiectare, ca export suplimentar. Documentele oficiale românești rămân însă în Stereo 70; conversiile le facem noi, documentat, ca să nu apară „două adevăruri” pe același proiect." },
+        { "q": "Ce e RN-ul sau reperul de nivelment de care vorbește constructorul?", "a": "Un punct fix cu cotă cunoscută în sistemul Marea Neagră 1975, de la care șantierul își raportează toate înălțimile — de la fundul săpăturii la cota finală a pardoselii. La trasare materializăm reperul și îi predăm constructorului valoarea; de acolo încolo, toate cotele proiectului au aceeași origine." },
+        { "q": "România trece la alt sistem de coordonate în viitor?", "a": "Discuții tehnice despre modernizare există de ani buni la nivel european, dar pentru orice proiect practic din orizontul tău: Stereo 70 este și rămâne sistemul oficial cerut de OCPI. Orice schimbare viitoare ar veni cu perioade lungi de tranziție și conversii oficiale." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Nelămuriri despre coordonatele din documentele tale?",
+      "text": "Trimite-ne pe WhatsApp planul sau inventarul de coordonate care te încurcă — îți spunem în ce sistem e, dacă e corect și ce lipsește pentru dosar."
+    }
+  ],
+  "related": [
+    "plan-topografic-vizat-ocpi",
+    "ce-inseamna-vizat-ocpi",
+    "trasare-constructie-proces-verbal",
+    "formate-livrabile-plan-topografic",
+    "ridicare-topografica-studiu-fezabilitate",
+    "numar-cadastral-cum-afli",
+    "/servicii/plan-topografic/",
+    "/dictionar/stereo-70.html"
+  ],
+  "sources": [
+    "https://www.ancpi.ro/",
+    "https://geoportal.ancpi.ro/"
+  ]
+}

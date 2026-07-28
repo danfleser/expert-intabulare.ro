@@ -1,0 +1,65 @@
+{
+  "slug": "arenda-comodat-concesiune-finantare",
+  "title": "Concesiune, comodat, arendă: ce acceptă finanțatorul și ce trebuie înscris | Expert Intabulare",
+  "h1": "Arendă, comodat, concesiune, superficie: ce drept îți trebuie pentru ce proiect",
+  "metaDescription": "Matricea drept de folosință × tip de proiect: ce acceptă AFIR, PNRR și programele regionale, ce trebuie înscris în CF sau la primărie, capcanele de durată.",
+  "whatsappTopic": "dreptul de folosință potrivit pentru dosarul de finanțare",
+  "hook": "deadline",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Întrebarea corectă: construiești sau doar folosești?",
+      "html": "<p>Toată încurcătura drepturilor de folosință se descâlcește cu o singură întrebare: <strong>proiectul tău construiește ceva pe teren sau doar îl folosește?</strong> Dacă doar folosești (utilaje, animale, culturi, dotări mobile), un drept de folosință contractual — arendă, comodat — poate fi suficient, cu condițiile de durată și înregistrare din ghid. Dacă construiești, ai nevoie de un drept care <em>permite autorizarea</em>: proprietate, superficie, concesiune sau administrare. Nicio primărie nu emite autorizație de construire pe un contract de arendă, oricât de lung.</p><p>A doua regulă de aur: <strong>un drept neînscris nu există pentru evaluator</strong>. Arenda se înregistrează la primărie (registrul special al contractelor de arendă), drepturile reale se înscriu în cartea funciară, iar unele ghiduri cer în plus notarea contractelor de folosință în CF. Verificarea înscrierii durează minute; lipsa ei se descoperă de regulă la clarificări, când termenul curge.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Matricea: drept de folosință × tip de investiție",
+      "head": ["Dreptul", "Investiție cu construcții", "Investiție fără construcții (utilaje, plantații, dotări)", "Unde se înscrie", "Atenție la"],
+      "rows": [
+        ["Proprietate", "Da", "Da", "Cartea funciară", "Indiviziunea — cotele fracționare cer acordul tuturor"],
+        ["Superficie", "Da — soluția tipică pe terenul altuia", "Da", "Cartea funciară", "Durata să acopere implementare + durabilitate"],
+        ["Concesiune", "Da, conform contractului", "Da", "Cartea funciară", "Clauzele contractului privind tipul de investiții permise"],
+        ["Drept de administrare", "Da (instituții publice)", "Da", "Cartea funciară", "Titularul corect: instituția solicitantă, nu UAT-ul generic"],
+        ["Arendă", "Nu", "Da, la proiecte agricole, pe durata cerută", "Registrul arendelor (primărie)", "Contract înregistrat, durată suficientă, obiect corect descris"],
+        ["Comodat", "De regulă nu", "Acceptat de unele programe", "Notare posibilă în CF", "Ghidurile îl acceptă tot mai rar — verifică sesiunea curentă"],
+        ["Închiriere", "Nu", "Rar acceptată", "Notare posibilă în CF", "Cel mai slab drept din listă — evită să construiești dosarul pe el"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Capcana duratei: implementare + durabilitate, nu doar „până terminăm”",
+      "html": "<p>Cerința tipică din ghiduri sună așa: dreptul asupra imobilului trebuie dovedit pe toată durata de implementare <em>plus</em> perioada de durabilitate (uzual 5 ani de la plata finală, la unele programe 3). Aritmetica reală: un proiect depus în 2026, implementat până în 2028, cu durabilitate 5 ani, are nevoie de drept valabil până în <strong>2033 — minimum</strong>. Contractele de arendă „pe 5 ani, prelungibile” nu trec: prelungirea promisă nu e durată dovedită. La fel, comodatul reziliabil oricând ridică semne de întrebare chiar acolo unde e formal acceptat.</p><p>Recomandarea practică, în ordinea robusteții: proprietate sau superficie lungă acolo unde se construiește; arendă înregistrată, pe durată acoperitoare cu marjă, la proiectele agricole; și — indiferent de drept — extrasul CF și dovezile de înregistrare puse în dosar în forma cerută de ghid, cuvânt cu cuvânt.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Am arendă pe 10 ani înregistrată la primărie. Pot construi un depozit pe teren?", "a": "Nu pe baza arendei — pentru autorizația de construire îți trebuie un drept real. Soluțiile: cumpărarea suprafeței necesare, superficia constituită de proprietar, sau mutarea construcției pe un teren propriu. Arenda rămâne perfectă pentru partea de exploatare agricolă a proiectului." },
+        { "q": "Primăria ne dă teren în folosință gratuită prin HCL. E suficient?", "a": "Depinde de forma juridică: dreptul de folosință gratuită asupra bunurilor UAT se constituie în condițiile Codului administrativ și, pentru dosar, trebuie de regulă înscris în cartea funciară. HCL-ul singur, fără înscriere, e frecvent respins la clarificări. Verificăm situația exactă a imobilului UAT înainte de depunere." },
+        { "q": "Ghidul cere „înscrierea dreptului în cartea funciară”, dar arenda se înregistrează la primărie. Cum împac cerința?", "a": "Arenda se poate și nota în cartea funciară, pe lângă înregistrarea la primărie — iar unele ghiduri cer explicit ambele. Citim formularea exactă din ghidul tău și îți spunem ce dovezi intră în dosar; e o verificare de 10 minute care previne o clarificare de 10 zile." },
+        { "q": "Pot schimba dreptul în timpul proiectului — de exemplu din comodat în superficie?", "a": "Tehnic da, iar uneori e chiar cerut la contractare. Dar orice schimbare în situația imobilului în timpul evaluării trebuie anunțată finanțatorului. Cel mai curat: intră în sesiune cu forma finală a dreptului, nu cu una „provizorie”." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Nu ești sigur ce drept îți cere ghidul?",
+      "text": "Trimite-ne pe WhatsApp pagina din ghid cu „dovada dreptului” și extrasul CF — îți spunem exact ce contract îți trebuie și ce se înscrie unde."
+    }
+  ],
+  "related": [
+    "drept-de-superficie-fonduri-europene",
+    "intabulare-dovada-proprietatii-finantare",
+    "documentatie-topografica-afir",
+    "teren-neintabulat-fonduri-europene",
+    "checklist-teren-primarie-uat",
+    "intabulare-teren-hotarare-consiliu-local",
+    "/servicii/cadastru-si-intabulare/",
+    "/dictionar/superficie.html",
+    "/dictionar/carte-funciara.html"
+  ],
+  "sources": [
+    "https://www.afir.ro/",
+    "https://legislatie.just.ro/Public/DetaliiDocument/109884"
+  ]
+}

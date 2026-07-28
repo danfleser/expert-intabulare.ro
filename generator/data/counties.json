@@ -1,0 +1,370 @@
+[
+  {
+    "slug": "alba",
+    "name": "Alba",
+    "ocpiHq": {
+      "name": "OCPI Alba",
+      "address": "Str. Septimius Severus nr. 59, Alba Iulia"
+    },
+    "bcpiOffices": [
+      {
+        "name": "BCPI Alba Iulia",
+        "address": "Str. Septimius Severus nr. 59, Alba Iulia",
+        "covers": [
+          "Alba Iulia",
+          "Almașu Mare",
+          "Berghin",
+          "Blandiana",
+          "Ciugud",
+          "Cricău",
+          "Galda de Jos",
+          "Ighiu",
+          "Întregalde",
+          "Meteș",
+          "Mihalț",
+          "Sântimbru",
+          "Șibot",
+          "Vințu de Jos",
+          "Zlatna"
+        ]
+      },
+      {
+        "name": "BCPI Aiud",
+        "address": "Str. Cuza Vodă nr. 14, Aiud",
+        "covers": [
+          "Aiud",
+          "Fărău",
+          "Hopârta",
+          "Livezile",
+          "Lopadea Nouă",
+          "Lunca Mureșului",
+          "Mirăslău",
+          "Noșlac",
+          "Ocna Mureș",
+          "Ponor",
+          "Rădești",
+          "Râmeț",
+          "Rimetea",
+          "Stremț",
+          "Teiuș",
+          "Unirea"
+        ]
+      },
+      {
+        "name": "BCPI Blaj",
+        "address": "Str. Gării nr. 4, Blaj",
+        "covers": [
+          "Blaj",
+          "Bucerdea Grânoasă",
+          "Cenade",
+          "Cergău",
+          "Ceru-Băcăinți",
+          "Cetatea de Baltă",
+          "Crăciunelu de Jos",
+          "Jidvei",
+          "Roșia de Secaș",
+          "Sâncel",
+          "Șona",
+          "Valea Lungă"
+        ]
+      },
+      {
+        "name": "BCPI Câmpeni",
+        "address": "Str. Meșteșugarilor nr. 2, Câmpeni",
+        "covers": [
+          "Abrud",
+          "Albac",
+          "Arieșeni",
+          "Avram Iancu",
+          "Baia de Arieș",
+          "Bistra",
+          "Bucium",
+          "Câmpeni",
+          "Ciuruleasa",
+          "Gârda de Sus",
+          "Horea",
+          "Lupșa",
+          "Mogoș",
+          "Ocoliș",
+          "Poiana Vadului",
+          "Poșaga",
+          "Roșia Montană",
+          "Sălciua",
+          "Scărișoara",
+          "Sohodol",
+          "Vadu Moților",
+          "Vidra"
+        ]
+      },
+      {
+        "name": "BCPI Sebeș",
+        "address": "Str. Depozitelor nr. 2, Sebeș",
+        "covers": [
+          "Câlnic",
+          "Cugir",
+          "Cut",
+          "Daia Română",
+          "Doștat",
+          "Gârbova",
+          "Ohaba",
+          "Pianu",
+          "Săliștea",
+          "Săsciori",
+          "Sebeș",
+          "Șpring",
+          "Șugag"
+        ]
+      }
+    ],
+    "countyNote": "Județul Alba are 78 de unități administrativ-teritoriale, deservite de cinci birouri teritoriale: BCPI Alba Iulia, Aiud, Blaj, Câmpeni și Sebeș — dosarul se depune întotdeauna la biroul competent pentru localitatea imobilului. Relieful variază de la lunca Mureșului și podișul Târnavelor până la Munții Apuseni, iar asta schimbă natura lucrărilor: parcele agricole comasate în câmpie, crânguri risipite și fânețe în pantă la munte. În multe comune montane evidențele vechi sunt incomplete, iar limitele reale diferă de cele din acte, deci măsurătorile la teren sunt esențiale. Biroul nostru fiind chiar în Aiud, acoperim integral județul, cu deplasare în orice UAT.",
+    "feeNote": "Tarifele OCPI pentru serviciile de cadastru și publicitate imobiliară sunt stabilite prin ordin al directorului general ANCPI și se achită la depunerea dosarului; pentru majoritatea serviciilor există și regim de urgență, cu tarif suplimentar. Onorariul lucrării de specialitate se stabilește separat de aceste tarife."
+  },
+  {
+    "slug": "cluj",
+    "name": "Cluj",
+    "ocpiHq": {
+      "name": "OCPI Cluj",
+      "address": "Str. Alexandru Vaida Voevod nr. 53, Cluj-Napoca"
+    },
+    "bcpiOffices": [
+      {
+        "name": "BCPI Cluj-Napoca",
+        "address": "Str. Alexandru Vaida Voevod nr. 53, Cluj-Napoca",
+        "covers": [
+          "Apahida",
+          "Cluj-Napoca",
+          "Cojocna",
+          "Feleacu",
+          "Florești",
+          "Gilău",
+          "Mociu"
+        ]
+      },
+      {
+        "name": "BCPI Turda",
+        "address": "Str. George Coșbuc nr. 2, Turda",
+        "covers": [
+          "Aiton",
+          "Băișoara",
+          "Călărași",
+          "Câmpia Turzii",
+          "Ceanu Mare",
+          "Ciurila",
+          "Frata",
+          "Iara",
+          "Luna",
+          "Mihai Viteazu",
+          "Moldovenești",
+          "Petreștii de Jos",
+          "Ploscoș",
+          "Săndulești",
+          "Săvădisla",
+          "Tritenii de Jos",
+          "Turda",
+          "Tureni",
+          "Viișoara"
+        ]
+      },
+      {
+        "name": "BCPI Dej",
+        "address": "Dej",
+        "covers": []
+      },
+      {
+        "name": "BCPI Gherla",
+        "address": "Gherla",
+        "covers": []
+      },
+      {
+        "name": "BCPI Huedin",
+        "address": "Huedin",
+        "covers": []
+      }
+    ],
+    "countyNote": "În județul Cluj lucrăm în principal în bazinul Turda – Câmpia Turzii, aflat la circa o jumătate de oră de Aiud pe DN1/E81, și pe culoarul autostrăzii A3 spre Cluj-Napoca. Zona metropolitană clujeană — Florești, Apahida, Gilău — are cea mai activă piață imobiliară din Transilvania, cu volume mari de dezmembrări și intabulări. Partea de Câmpie a Transilvaniei păstrează multe terenuri agricole cu documentații vechi sau neînscrise în sistemul electronic. Dosarele se depun la BCPI Turda sau la BCPI Cluj-Napoca, în funcție de arondarea localității; zonele Dej, Gherla și Huedin nu fac parte din raza noastră curentă.",
+    "feeNote": "Serviciile OCPI Cluj se tarifează conform ordinului ANCPI în vigoare, cu posibilitatea regimului de urgență contra unui tarif suplimentar; termenele efective variază cu volumul de lucru al fiecărui birou teritorial."
+  },
+  {
+    "slug": "mures",
+    "name": "Mureș",
+    "ocpiHq": {
+      "name": "OCPI Mureș",
+      "address": "Str. Căprioarei nr. 2, Târgu Mureș"
+    },
+    "bcpiOffices": [
+      {
+        "name": "BCPI Târgu Mureș",
+        "address": "Str. Căprioarei nr. 2, Târgu Mureș",
+        "covers": [
+          "Ogra",
+          "Sânpaul",
+          "Târgu Mureș",
+          "Ungheni"
+        ]
+      },
+      {
+        "name": "BCPI Luduș",
+        "address": "Str. Republicii nr. 26, Luduș",
+        "covers": [
+          "Ațintiș",
+          "Bichiș",
+          "Bogata",
+          "Chețani",
+          "Cuci",
+          "Iclănzel",
+          "Iernut",
+          "Luduș",
+          "Miheșu de Câmpie",
+          "Papiu Ilarian",
+          "Sânger",
+          "Sărmașu",
+          "Tăureni",
+          "Valea Largă",
+          "Zau de Câmpie"
+        ]
+      },
+      {
+        "name": "BCPI Târnăveni",
+        "address": "Str. Republicii nr. 61, Târnăveni",
+        "covers": [
+          "Adămuș",
+          "Băgaciu",
+          "Cucerdea",
+          "Gănești",
+          "Mica",
+          "Târnăveni"
+        ]
+      },
+      {
+        "name": "BCPI Reghin",
+        "address": "Reghin",
+        "covers": []
+      },
+      {
+        "name": "BCPI Sighișoara",
+        "address": "Sighișoara",
+        "covers": []
+      }
+    ],
+    "countyNote": "Din Aiud, valea Mureșului — Luduș, Iernut, Ungheni, până la Târgu Mureș — este direct accesibilă pe DN15/E60, iar valea Târnavei Mici, cu Târnăveni și Adămuș, se atinge prin Blaj. Câmpia Transilvaniei, de la Sărmașu la Zau de Câmpie, e o zonă agricolă întinsă în care multe terenuri au rămas cu evidențe vechi după retrocedări. Dosarele se depun, după arondare, la BCPI Luduș, BCPI Târnăveni sau BCPI Târgu Mureș. Zonele Reghin și Sighișoara nu fac parte din raza noastră curentă de lucru.",
+    "feeNote": "Tarifele de cadastru și carte funciară din județul Mureș urmează același ordin ANCPI valabil la nivel național, cu regim de urgență disponibil pentru majoritatea serviciilor contra unui tarif suplimentar."
+  },
+  {
+    "slug": "sibiu",
+    "name": "Sibiu",
+    "ocpiHq": {
+      "name": "OCPI Sibiu",
+      "address": "Calea Dumbrăvii nr. 34, Sibiu"
+    },
+    "bcpiOffices": [
+      {
+        "name": "BCPI Sibiu",
+        "address": "Calea Dumbrăvii nr. 34, Sibiu",
+        "covers": [
+          "Loamneș",
+          "Ocna Sibiului",
+          "Păuca",
+          "Sibiu"
+        ]
+      },
+      {
+        "name": "BCPI Mediaș",
+        "address": "Piața Corneliu Coposu nr. 3, Mediaș",
+        "covers": [
+          "Ațel",
+          "Axente Sever",
+          "Bazna",
+          "Blăjel",
+          "Brateiu",
+          "Copșa Mică",
+          "Dârlos",
+          "Dumbrăveni",
+          "Hoghilag",
+          "Mediaș",
+          "Micăsasa",
+          "Șeica Mare",
+          "Șeica Mică",
+          "Târnava",
+          "Valea Viilor"
+        ]
+      },
+      {
+        "name": "BCPI Săliște",
+        "address": "Str. Reuniunea Meseriașilor nr. 3, Săliște",
+        "covers": [
+          "Miercurea Sibiului"
+        ]
+      },
+      {
+        "name": "BCPI Agnita",
+        "address": "Piața Republicii nr. 18, Agnita",
+        "covers": []
+      },
+      {
+        "name": "BCPI Avrig",
+        "address": "Str. Gheorghe Lazăr nr. 41, Avrig",
+        "covers": []
+      }
+    ],
+    "countyNote": "Acoperim în principal nordul județului Sibiu — valea Târnavei Mari, cu Mediaș, Copșa Mică și Dumbrăveni — la care ajungem din Aiud prin Blaj, pe DN14B, plus zona Ocna Sibiului – Miercurea Sibiului dinspre Sebeș și municipiul Sibiu pe A1. Satele săsești din Podișul Târnavelor au particularități cadastrale aparte: parcele lungi și înguste în intravilan și evidențe funciare vechi, austro-ungare. Majoritatea localităților incluse sunt arondate la BCPI Mediaș; Sibiul, Ocna Sibiului, Loamneșul și Păuca țin de BCPI Sibiu, iar Miercurea Sibiului de BCPI Săliște.",
+    "feeNote": "Și în județul Sibiu tarifele OCPI sunt cele stabilite prin ordinul ANCPI în vigoare, identice la nivel național; pentru situații presante există regim de urgență, tarifat suplimentar."
+  },
+  {
+    "slug": "hunedoara",
+    "name": "Hunedoara",
+    "ocpiHq": {
+      "name": "OCPI Hunedoara",
+      "address": "Calea Zarandului nr. 106, Deva"
+    },
+    "bcpiOffices": [
+      {
+        "name": "BCPI Deva",
+        "address": "Calea Zarandului nr. 106, Deva",
+        "covers": [
+          "Băcia",
+          "Deva",
+          "Hărău",
+          "Rapoltu Mare",
+          "Simeria"
+        ]
+      },
+      {
+        "name": "BCPI Orăștie",
+        "address": "Str. George Coșbuc nr. 7, Orăștie",
+        "covers": [
+          "Balșa",
+          "Beriu",
+          "Geoagiu",
+          "Mărtinești",
+          "Orăștie",
+          "Romos",
+          "Turdaș"
+        ]
+      },
+      {
+        "name": "BCPI Hunedoara",
+        "address": "Bd. Libertății nr. 9, Hunedoara",
+        "covers": [
+          "Călan"
+        ]
+      },
+      {
+        "name": "BCPI Brad",
+        "address": "Str. Minerilor nr. 5-7, Brad",
+        "covers": []
+      },
+      {
+        "name": "BCPI Hațeg",
+        "address": "Str. Libertății nr. 6, Hațeg",
+        "covers": []
+      },
+      {
+        "name": "BCPI Petroșani",
+        "address": "Str. Constructorului nr. 14, Petroșani",
+        "covers": []
+      }
+    ],
+    "countyNote": "În Hunedoara lucrăm pe culoarul Mureșului — Orăștie, Geoagiu, Simeria, Deva și Călan — legat de Aiud prin DN7 și autostrada A1, pe la Alba Iulia. Zona are o densitate istorică rară, de la situl neolitic de la Turdaș la cetățile dacice din Munții Orăștiei, iar terenurile din luncă sunt căutate pentru proiecte logistice și energetice. Dosarele se depun la BCPI Orăștie sau BCPI Deva; atenție, orașul Călan este arondat la BCPI Hunedoara. Valea Jiului și zona Brad – Hațeg nu fac parte din raza noastră curentă de lucru.",
+    "feeNote": "Tarifele OCPI Hunedoara sunt cele naționale, stabilite prin ordin ANCPI, cu opțiune de urgență tarifată suplimentar pentru majoritatea serviciilor de cadastru și publicitate imobiliară."
+  }
+]

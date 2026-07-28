@@ -1,0 +1,77 @@
+{
+  "slug": "cat-dureaza-studiu-topografic",
+  "title": "Cât durează un studiu topografic pentru parc fotovoltaic — timeline pe zile",
+  "h1": "Cât durează un studiu topografic: cronologia reală, de la comandă la viza OCPI",
+  "metaDescription": "Cât durează un studiu topografic pentru parc fotovoltaic: timeline pe zile — mobilizare, teren, birou, viză OCPI. Ce prelungește și ce scurtează termenele.",
+  "whatsappTopic": "un studiu topografic urgent pentru un proiect fotovoltaic",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Răspunsul scurt: 2–3 săptămâni până la depunerea la OCPI, orientativ",
+      "html": "<p>Pentru un amplasament fotovoltaic obișnuit — câteva hectare până la câteva zeci de hectare, relief normal, acte în regulă — un studiu topografic durează orientativ 2–3 săptămâni de la comandă până la depunerea documentației la OCPI, la care se adaugă termenul de recepție al OCPI, conform reglementărilor în vigoare. Nu e o promisiune, e o medie onestă: mai jos găsești cronologia pe zile, ce anume o lungește și ce poți face tu ca beneficiar ca să o scurtezi.</p><p>Un lucru merită spus de la început: cea mai mare economie de timp nu se face pe teren, ci înainte de teren. Un extras CF trimis din prima zi, un acces clarificat și cerințele proiectantului formulate devreme taie zile întregi din calendar. Trimite-ne extrasul CF pe WhatsApp odată cu cererea de ofertă — de multe ori putem programa terenul chiar în săptămâna respectivă.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Cronologia pe zile, pentru un amplasament tipic",
+      "head": ["Etapa", "Zile (orientativ)", "Ce se întâmplă concret"],
+      "rows": [
+        ["Comandă și documente", "ziua 0", "Primim extrasul CF, discutăm scopul lucrării și cerințele proiectantului; trimitem oferta"],
+        ["Documentare și mobilizare", "zilele 1–3", "Verificăm CF, cadastrul și ortofotoplanul; descărcăm inventarele de coordonate; programăm echipa și verificăm accesul"],
+        ["Măsurătorile de teren", "zilele 3–6", "1–3 zile efective, în funcție de suprafață, relief și vegetație; peste ~10 ha combinăm GNSS cu zbor de dronă"],
+        ["Prelucrare și întocmire", "zilele 6–13", "Model digital al terenului, curbe de nivel, planșe, memorii tehnice, inventar de coordonate"],
+        ["Verificare internă și depunere", "zilele 13–15", "Control de calitate, semnături, depunerea documentației la OCPI"],
+        ["Recepția OCPI", "conform termenelor OCPI", "Avizare și recepție; eventualele note de completare adaugă un ciclu suplimentar"]
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "Ce prelungește calendarul — și cu cât, din experiență",
+      "html": "<p>Abaterile de la cronologia de mai sus au aproape întotdeauna una dintre cauzele următoare:</p><ul><li><strong>Vegetația înaltă</strong> — porumb în august, mărăciniș, plantații dese. Fie așteptăm recoltarea, fie terenul se curăță, fie măsurăm mai lent și mai scump. Poate adăuga de la câteva zile la câteva săptămâni.</li><li><strong>Vremea</strong> — zborurile de dronă cer vânt rezonabil și vizibilitate; iarna și în perioadele ploioase ferestrele de zbor se răresc.</li><li><strong>Situația cadastrală neclarificată</strong> — limite în litigiu, suprapuneri, CF neactualizat. Măsurătoarea se poate face, dar documentația se poate bloca la recepție; de aceea verificăm CF-ul înainte, nu după. Vezi și <a href=\"/parcuri-fotovoltaice/respingere-documentatie-ocpi.html\">de ce se resping documentațiile la OCPI</a>.</li><li><strong>Suprafețele mari</strong> — peste 50 ha, terenul și prelucrarea se scalează; rămâne valabilă regula: drona comprimă timpul de teren, nu și pe cel de birou.</li><li><strong>Accesul</strong> — porți încuiate, arendaș care nu știe de lucrare, drumuri impracticabile. O zi de teren ratată din motive de acces se reprogramează, cu tot cu deplasare.</li></ul>"
+    },
+    {
+      "type": "html",
+      "heading": "Cum scurtezi termenul: ce depinde de tine",
+      "html": "<p>Partea din calendar aflată sub controlul beneficiarului e mai mare decât pare:</p><ul><li>trimite <strong>extrasul CF și numărul cadastral</strong> de la prima discuție — documentarea începe înainte de semnarea ofertei;</li><li>pune-ne în legătură cu <strong>proiectantul</strong> de la început: echidistanța curbelor, densitatea punctelor și formatele stabilite devreme elimină refacerile;</li><li>asigură <strong>accesul</strong>: anunță proprietarii sau arendașii, deschide porțile, spune-ne unde sunt câinii;</li><li>dacă proiectul are mai multe lucrări (studiu, <a href=\"/parcuri-fotovoltaice/plan-de-situatie-parc-fotovoltaic.html\">plan de situație</a>, documentații cadastrale), comandă-le împreună — o singură mobilizare, o singură bază de măsurători;</li><li>nu programa depunerile la limită: dacă certificatul de urbanism sau <a href=\"/parcuri-fotovoltaice/aviz-ocpi-puz-parc-fotovoltaic.html\">avizul OCPI pentru PUZ</a> au termen fix, pornește studiul cu rezervă de timp pentru un eventual ciclu de completări.</li></ul><p>Durata nu vine la pachet cu un preț mai mare: urgentarea reală se face prin organizare, nu prin tarife de urgență. Despre bani am scris separat, pe pagina de <a href=\"/parcuri-fotovoltaice/pret-studiu-topografic-parc-fotovoltaic.html\">factori de preț</a>.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Puteți face un studiu topografic într-o săptămână?",
+          "a": "Pe suprafețe mici, cu acte în regulă, acces asigurat și vreme bună, măsurătoarea și documentația pot fi gata în câteva zile — dar recepția OCPI are termenele ei, pe care nu le poate comprima nimeni. Spune-ne termenul tău real și construim calendarul invers de la el."
+        },
+        {
+          "q": "Termenul OCPI e inclus în cele 2–3 săptămâni?",
+          "a": "Nu. Cele 2–3 săptămâni acoperă orientativ drumul de la comandă la depunere. Recepția OCPI curge separat, conform termenelor oficiale în vigoare pentru tipul de lucrare, plus un eventual ciclu de completări dacă apar note."
+        },
+        {
+          "q": "Iarna se pot face măsurători?",
+          "a": "Da, adesea chiar mai bine: vegetația e jos și terenul se citește ușor. Limitele reale sunt stratul de zăpadă persistent și ferestrele de zbor pentru dronă. Pentru proiectele cu termen de primăvară, măsurătoarea de iarnă e o strategie bună."
+        },
+        {
+          "q": "Ce se întâmplă dacă OCPI dă notă de completare?",
+          "a": "Remediem și redepunem — asta adaugă un ciclu de câteva zile plus termenul de reanalizare. Ratele mici de respingere vin din verificarea internă înainte de depunere; de aceea preferăm o zi în plus la control decât un ciclu întreg de completare."
+        },
+        {
+          "q": "Pot porni alte etape ale proiectului în paralel cu studiul topografic?",
+          "a": "Da, și e chiar recomandat: verificările de carte funciară, discuțiile cu operatorul de distribuție și pregătirea documentațiilor cadastrale pot curge în paralel cu măsurătoarea. Livrabilele intermediare — de exemplu modelul digital al terenului — le predăm proiectantului înainte de recepția OCPI, ca proiectarea să nu aștepte."
+        },
+        {
+          "q": "Durata diferă la un teren de 5 ha față de unul de 50 ha?",
+          "a": "Da, dar mai puțin decât ai crede: la 50 ha cresc zilele de teren și de prelucrare, însă drona comprimă semnificativ partea de măsurătoare. Diferența tipică e de ordinul a una-două săptămâni în plus, nu al lunilor — cu condiția ca vegetația și accesul să fie rezonabile."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/studiu-topografic-parc-fotovoltaic.html", "label": "Studiu topografic pentru parc fotovoltaic" },
+    { "href": "/parcuri-fotovoltaice/pret-studiu-topografic-parc-fotovoltaic.html", "label": "Cât costă un studiu topografic" },
+    { "href": "/parcuri-fotovoltaice/respingere-documentatie-ocpi.html", "label": "De ce se resping documentațiile la OCPI" },
+    { "href": "/parcuri-fotovoltaice/aviz-ocpi-puz-parc-fotovoltaic.html", "label": "Avizul OCPI pentru PUZ" },
+    { "href": "/servicii/plan-topografic/", "label": "Plan topografic — serviciul de bază" },
+    { "href": "/dictionar/stereografic-1970-stereo-70.html", "label": "Dicționar: Stereo 70" }
+  ],
+  "sources": []
+}

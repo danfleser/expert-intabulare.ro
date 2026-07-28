@@ -1,0 +1,74 @@
+{
+  "slug": "panta-teren-parc-fotovoltaic",
+  "title": "Panta terenului pentru parc fotovoltaic — tracker vs structură fixă, hărți de pantă",
+  "h1": "Panta terenului: cât tolerează un tracker, cât tolerează structura fixă și cum afli cifra reală",
+  "metaDescription": "Panta terenului decide tehnologia parcului fotovoltaic: limite orientative pentru tracker și structură fixă, hărți de pantă din măsurători reale, nu din estimări.",
+  "whatsappTopic": "o analiză de pantă pentru un teren de parc fotovoltaic",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Panta nu e o cifră, e o hartă",
+      "html": "<p>„Ce pantă are terenul?\" e una dintre primele întrebări la evaluarea unui amplasament fotovoltaic — și una la care o singură cifră e aproape întotdeauna un răspuns greșit. Un teren cu pantă medie de 5% poate avea jumătate din suprafață sub 3% și zone de 12% care nu se pot echipa fără terasamente serioase. Decizia tracker vs structură fixă, layoutul rândurilor și bugetul de nivelare nu se iau pe media terenului, ci pe distribuția pantelor pe direcțiile care contează.</p><p>De aceea livrabilul corect nu e un număr, ci o hartă de pantă calculată pe <a href=\"/parcuri-fotovoltaice/model-digital-teren-parc-fotovoltaic.html\">modelul digital al terenului</a> din măsurători reale — cu clase de pantă colorate, direcții de expunere și suprafețele utile pe fiecare clasă. Scrie-ne pe WhatsApp cu numărul cadastral și îți spunem ce presupune o analiză de pantă pe terenul tău și cât durează.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Tracker vs structură fixă: toleranțe diferite, pe direcții diferite",
+      "html": "<p>Cele două tehnologii citesc terenul diferit:</p><ul><li><strong>Structura fixă</strong> e mai iertătoare: rândurile urmăresc terenul, iar pilonii pot compensa denivelări prin lungimi diferite. Pantele acceptabile sunt sensibil mai mari, mai ales pe direcția est–vest, de-a lungul rândului; limita reală o dă de regulă accesul utilajelor și scurgerea apelor, nu structura în sine.</li><li><strong>Tracker-ele monoaxiale</strong> sunt pretențioase pe direcția nord–sud, de-a lungul axului de rotație: fiecare furnizor impune limite de pantă și de toleranță pe rând prin specificația tehnică proprie, tipic de câteva procente pe direcția axului. Terenuri perfect viabile pentru structură fixă pot cere, la tracker, terasamente care schimbă complet economia proiectului.</li></ul><p>Nu cităm o limită universală pentru că nu există: cifrele diferă între furnizori și între generațiile aceluiași produs. Ce facem noi e să suprapunem harta reală de pantă peste limitele din specificația furnizorului tău — sau, dacă furnizorul nu e ales încă, pe praguri orientative convenite cu proiectantul — și să-ți arătăm negru pe alb câte hectare sunt utilizabile direct, câte cer nivelare și câte nu merită echipate.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Ce conține analiza de pantă pe care o livrăm",
+      "items": [
+        "Harta claselor de pantă pe întregul amplasament, cu praguri stabilite împreună cu proiectantul",
+        "Pantele calculate separat pe direcția nord–sud și est–vest — cele care contează pentru tracker, respectiv structură fixă",
+        "Harta de expunere (orientarea versanților), pentru zonele unde relieful înclină natural spre nord",
+        "Suprafețele în hectare pe fiecare clasă de pantă — cifra din care rezultă capacitatea instalabilă realistă",
+        "Identificarea zonelor cu schimbări bruște de pantă, unde interpolarea din date publice minte cel mai mult",
+        "Profil longitudinal pe direcțiile rândurilor propuse, la cerere",
+        "Livrare în format GIS (GeoTIFF, shp) și planșe pdf/dwg pentru discuția cu furnizorul de structură"
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "De ce nu ajung datele satelitare gratuite",
+      "html": "<p>Modelele de teren publice au rezoluții de zeci de metri și erori de cotă care pot depăși metrul — suficient pentru a rata complet rigole, praguri între parcele și valonările scurte care dictează terasamentele. Pe un teren valonat, diferența dintre panta „din satelit\" și panta măsurată se traduce direct în rânduri de panouri câștigate sau pierdute și în volume de <a href=\"/parcuri-fotovoltaice/calcul-volumetrie-terasamente.html\">cut/fill</a> estimate greșit cu zeci de procente.</p><p>Analiza noastră pleacă de la măsurători proprii: GNSS RTK cu precizie de ±2–3 cm în plan și, pe suprafețe mari, fotogrametrie UAV cu puncte de control, în toleranțe de 2–5 cm. Făcută înainte de semnarea antecontractului, analiza de pantă e un instrument de negociere a prețului terenului; împreună cu <a href=\"/parcuri-fotovoltaice/cost-terasamente-teren-inclinat.html\">estimarea costului de terasamente</a>, îți spune cât valorează de fapt hectarul pe care îl cumperi. Colaborăm cu dezvoltatori și constructori pe exact acest tip de decizie.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Cum decurge lucrarea, pas cu pas",
+      "html": "<p>Primul pas e o discuție scurtă despre tehnologia vizată și pragurile de pantă relevante — dacă furnizorul structurii e ales, lucrăm pe specificația lui; dacă nu, convenim praguri orientative cu proiectantul. Urmează măsurătorile de teren, dimensionate pe suprafață: GNSS RTK punct cu punct pe amplasamente mici, zbor UAV cu puncte de control pe cele mari. Din măsurători construim modelul digital al terenului cu breaklines, iar pe el calculăm hărțile de pantă și expunere și suprafețele pe clase.</p><p>Livrarea se încheie cu o discuție, nu doar cu un fișier: parcurgem împreună hărțile, îți arătăm unde terenul lucrează pentru tine și unde împotriva ta, și ce ar însemna fiecare scenariu pentru layoutul și bugetul proiectului. Orientativ, întreaga lucrare durează una până la două săptămâni de la acces pe teren, în funcție de suprafață și vreme — iar dacă proiectul merge mai departe, măsurătorile se refolosesc integral în studiul topografic și în calculele de terasamente.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Care e panta maximă acceptabilă pentru un parc fotovoltaic?",
+          "a": "Nu există o cifră universală. Structurile fixe tolerează pante sensibil mai mari, tracker-ele monoaxiale cer limite stricte pe direcția axului nord–sud, stabilite de fiecare furnizor prin specificația proprie. Răspunsul corect vine din suprapunerea hărții reale de pantă peste specificația structurii alese."
+        },
+        {
+          "q": "Terenul meu are pantă spre nord. E eliminatoriu?",
+          "a": "Nu automat. Contează cât de mare e panta, pe ce suprafață și ce tehnologie folosești — expunerea nordică reduce producția, dar analiza pe modelul digital al terenului cuantifică exact pierderea, iar decizia devine una economică, nu una de intuiție."
+        },
+        {
+          "q": "Pot face analiza de pantă înainte să cumpăr terenul?",
+          "a": "Da, și e cel mai bun moment: rezultatul e argument de negociere. Pentru o pre-evaluare rapidă lucrăm de la birou pe datele disponibile, iar pentru cifra pe care îți construiești business case-ul facem măsurători pe teren, cu acordul proprietarului."
+        },
+        {
+          "q": "Ce primesc concret la final?",
+          "a": "Hărțile de pantă și expunere, suprafețele pe clase de pantă, profilele cerute de proiectant și fișierele sursă în format GIS și dwg — plus o discuție în care îți explicăm ce înseamnă cifrele pentru layoutul și bugetul proiectului."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/model-digital-teren-parc-fotovoltaic.html", "label": "Model digital al terenului (MDT)" },
+    { "href": "/parcuri-fotovoltaice/calcul-volumetrie-terasamente.html", "label": "Calcul volumetrie terasamente" },
+    { "href": "/parcuri-fotovoltaice/cost-terasamente-teren-inclinat.html", "label": "Cât costă terasamentele pe teren înclinat" },
+    { "href": "/parcuri-fotovoltaice/trasare-trackere-fotovoltaice.html", "label": "Trasare tracker-e monoaxiale" },
+    { "href": "/parcuri-fotovoltaice/analiza-umbrire-teren-fotovoltaic.html", "label": "Analiza de umbrire pe relief" },
+    { "href": "/servicii/plan-topografic/", "label": "Plan topografic — serviciul de bază" }
+  ],
+  "sources": []
+}

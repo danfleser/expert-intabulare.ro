@@ -1,0 +1,56 @@
+{
+  "path": "/en/solar/drone-photogrammetry-dtm-solar-sites.html",
+  "title": "Drone Photogrammetry & Digital Terrain Models for Solar Sites in Romania",
+  "metaDescription": "UAV photogrammetry for solar site design in Romania: digital terrain models, orthophotos and slope analysis delivered in formats for PVsyst, PVcase and Civil 3D, with ground-truth accuracy.",
+  "h1": "Drone Photogrammetry and Terrain Models for Solar Site Design",
+  "roPair": "https://expert-intabulare.ro/parcuri-fotovoltaice/fotogrametrie-drona-teren.html",
+  "whatsappPrefillEn": "Hello! I need a drone survey and digital terrain model for a solar site in Romania.",
+  "sections": [
+    {
+      "type": "html",
+      "heading": "When the drone beats the total station — and when it doesn't",
+      "html": "<p>Above roughly ten hectares, capturing terrain point by point stops making sense: a survey drone photographs the whole site in hours and photogrammetry turns the images into a dense, accurate 3D surface. For PV design — where layout, tracker feasibility and earthworks costs all hang on the terrain model — this density is not a luxury; sparse models hide the local slope variations that later surface as change orders.</p><p>The honest caveats: photogrammetry measures what the camera sees, so tall dense vegetation degrades ground accuracy (we schedule flights seasonally or supplement with ground measurement), and accuracy claims mean nothing without <strong>ground control</strong>. Every flight we deliver is anchored to surveyed ground control points and independently checked — the same RTK/total-station rigor as our classic work, and the difference between a pretty 3D model and a measurement instrument.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Deliverables, in the formats your tools eat",
+      "html": "<ul><li><strong>Digital terrain model (DTM):</strong> ground surface as grid or TIN — LandXML for AutoCAD Civil 3D, formats suitable for PVsyst and PVcase import, or point/contour exports per your team's pipeline</li><li><strong>High-resolution orthophoto:</strong> the geometrically corrected aerial image of the site — GeoTIFF, usable as a design underlay, a stakeholder communication tool, and a dated record of site condition</li><li><strong>Contours and slope maps:</strong> slope-class analysis showing directly where trackers fit, where fixed-tilt survives, and where grading money will go</li><li><strong>Cut/fill volumetrics:</strong> earthworks estimates from the model — a due-diligence-stage number that has renegotiated more than one land price</li><li><strong>Progress flights:</strong> repeat orthophotos during construction for monitoring and documentation</li></ul>"
+    },
+    {
+      "type": "html",
+      "heading": "How a flight campaign runs",
+      "html": "<p>We plan the flight around the site's shape and the accuracy target, lay and survey the ground control, fly (compliantly with Romanian airspace rules — rural Transylvanian sites are rarely problematic, but we verify per location), process, and quality-check against independent checkpoints before anything leaves our desk. From mobilization to delivered DTM is typically days, not weeks, for sites in our Alba–Cluj–Mureș–Sibiu–Hunedoara range.</p><p>Photogrammetry complements rather than replaces the <a href=\"/en/solar/solar-park-topographic-survey.html\">OCPI-stamped topographic survey</a>: the stamped plan serves permitting; the DTM serves design. One field campaign, with ground survey where law and accuracy require it and the drone where density pays, feeds both.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "What accuracy does the DTM achieve?",
+          "a": "With proper ground control, centimeter-level accuracy on open terrain — verified against independent surveyed checkpoints and reported, not just claimed. Vegetated areas are flagged and, where they matter to design, supplemented with ground measurement."
+        },
+        {
+          "q": "Can you fly a site we are only considering buying?",
+          "a": "Yes — with the owner's access permission, a reconnaissance flight plus desk due diligence is an efficient pre-acquisition package: terrain reality and legal reality in one report."
+        },
+        {
+          "q": "Our designers use PVcase. Do we need to convert anything?",
+          "a": "No — tell us the toolchain when scoping and we deliver the terrain model and orthophoto in formats it imports directly. Format conversion done by the surveyor, once, beats every designer improvising their own."
+        },
+        {
+          "q": "How does drone survey pricing compare with classic ground survey?",
+          "a": "On large open sites the drone is decisively cheaper per hectare and faster by days; on small or heavily vegetated sites the advantage shrinks or inverts. We quote whichever method — or mix — actually serves the site, since we operate both; a provider that only flies will always recommend flying."
+        },
+        {
+          "q": "Can the drone data serve the OCPI-stamped survey too?",
+          "a": "Photogrammetric data can feed the topographic plan, but the reception procedure has its own requirements that ground measurement must anchor — control, boundaries, verifications. In practice we combine them: the drone for dense terrain capture, ground survey for the legal and accuracy framework, one campaign feeding both the stamped plan and the design DTM."
+        }
+      ]
+    }
+  ],
+  "related": [
+    "/en/solar/solar-park-topographic-survey.html",
+    "/en/solar/land-due-diligence-survey-romania.html",
+    "/en/solar/as-built-survey-pv-plants.html",
+    "/en/solar/land-surveying-pv-projects-transylvania.html"
+  ]
+}

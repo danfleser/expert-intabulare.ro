@@ -1,0 +1,76 @@
+{
+  "slug": "arenda-sau-superficie-parc-fotovoltaic",
+  "title": "Arendă sau superficie pentru parc fotovoltaic — ce acceptă banca",
+  "h1": "Arendă sau superficie pentru parcul fotovoltaic: de ce finanțatorul cere drept real înscris în CF",
+  "metaDescription": "Arendă sau superficie pentru un parc fotovoltaic? Banca cere superficie înscrisă în CF, până la 99 de ani. Comparație clară plus documentația cadastrală necesară.",
+  "whatsappTopic": "documentația cadastrală de superficie pentru terenul unui parc fotovoltaic",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Răspunsul scurt: finanțatorul vrea superficie înscrisă în CF",
+      "html": "<p>Dacă terenul parcului fotovoltaic nu se cumpără, ci se folosește pe bază de contract, alegerea dintre arendă și superficie nu e o nuanță juridică — e diferența dintre un proiect finanțabil și unul blocat. Banca sau fondul care finanțează construcția cere, de regulă, un drept de superficie înscris în cartea funciară, constituit pe o durată care acoperă viața proiectului — legea permite până la 99 de ani. Arenda nu se poate ipoteca, deci nu poate sta la baza garanțiilor dintr-o finanțare de proiect.</p><p>Mulți dezvoltatori află asta târziu, după ce au semnat contracte de arendă pe zeci de hectare și au plătit avansuri. Pagina asta pune cele două variante față în față, îți arată ce documentație cadastrală stă în spatele superficiei și în ce ordine se fac pașii ca să nu pierzi luni. Noi pregătim exact această parte: planurile, dezmembrările pe lotul util și documentațiile pentru înscrierea superficiei în cartea funciară.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Arendă și superficie, pe înțelesul unui dezvoltator",
+      "html": "<p><strong>Arenda</strong> este contractul prin care proprietarul îți dă terenul agricol în folosință, contra unei plăți periodice. Este un raport contractual: îți dă dreptul să folosești terenul, dar nu îți dă un drept real asupra lui. Pentru exploatare agricolă e suficient. Pentru o investiție cu structuri montate pe teren pentru 25–35 de ani, nu — pentru că arenda nu se poate ipoteca și nu îi oferă finanțatorului o poziție înscrisă în cartea funciară pe care să își construiască garanțiile.</p><p><strong>Superficia</strong> este un drept real: dreptul de a avea sau de a edifica o construcție pe terenul altuia, împreună cu dreptul de a folosi terenul în acest scop. Se constituie prin act notarial, se poate întinde pe o durată de până la 99 de ani și se înscrie în cartea funciară, unde devine vizibilă și opozabilă oricui — inclusiv unui cumpărător ulterior al terenului și băncii care analizează proiectul. De aceea due diligence-ul oricărui finanțator începe cu <a href=\"/dictionar/extras-de-carte-funciara-pentru-informare.html\">extrasul de carte funciară</a>: dacă superficia nu e acolo, proiectul nu este considerat bancabil.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Arendă vs superficie: comparația care contează la finanțare",
+      "head": ["Criteriu", "Arendă", "Superficie"],
+      "rows": [
+        ["Natura dreptului", "Drept de folosință născut din contract (drept de creanță)", "Drept real imobiliar asupra terenului"],
+        ["Durata", "Cea convenită în contract", "Se poate constitui până la 99 de ani"],
+        ["Înscrierea în cartea funciară", "Nu conferă un drept real înscris în CF", "Se înscrie în CF și devine opozabilă terților"],
+        ["Poate garanta o finanțare?", "Nu — arenda nu se poate ipoteca", "Da — forma cerută uzual de bănci și fonduri"],
+        ["Pentru ce e potrivită", "Exploatare agricolă", "Construcții pe termen lung: parc fotovoltaic, stație, împrejmuire"],
+        ["Reacția tipică a finanțatorului", "Respinge structura sau cere conversia în superficie", "Standardul acceptat pentru proiecte PV pe teren neachiziționat"]
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "Documentația cadastrală din spatele superficiei",
+      "html": "<p>Superficia se constituie la notar, dar înainte de notar imobilul trebuie pregătit cadastral. În practică, pașii arată așa:</p><ol><li><strong>Verificarea cărții funciare</strong> — terenul trebuie să fie intabulat, fără sarcini care blochează tranzacția și fără suprapuneri cadastrale. Dacă terenul nu are carte funciară, se începe cu <a href=\"/parcuri-fotovoltaice/intabulare-teren-parc-fotovoltaic.html\">intabularea</a>.</li><li><strong>Definirea lotului util</strong> — superficia nu trebuie constituită pe toată parcela. Dacă parcul ocupă doar o parte, facem <a href=\"/parcuri-fotovoltaice/dezmembrare-teren-parcela.html\">dezmembrarea</a> strict pe suprafața necesară, iar proprietarul rămâne cu restul terenului liber de orice drept al tău.</li><li><strong>Documentația cadastrală și recepția OCPI</strong> — planurile și piesele întocmite conform Ordinului ANCPI nr. 700/2014, depuse și recepționate.</li><li><strong>Actul notarial și înscrierea superficiei în CF</strong> — momentul din care dreptul există cu adevărat și e vizibil pentru orice finanțator.</li></ol><p>Trimite-ne extrasul CF pe WhatsApp și îți spunem în aceeași zi ce pași sunt necesari pe terenul tău și în ce ordine se leagă.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Greșeli care întorc proiectul din drum",
+      "html": "<p>Cea mai frecventă: contracte de arendă semnate pe zeci de parcele, cu clauze vagi de „transformare în superficie la cerere”. Când vine momentul finanțării, o parte dintre proprietari renegociază, alții au vândut între timp, alții au decedat și succesiunile nu sunt dezbătute — iar <a href=\"/parcuri-fotovoltaice/teren-mai-multi-proprietari-parc-fotovoltaic.html\">terenul cu mulți proprietari</a> devine un șantier juridic care ține proiectul pe loc. A doua greșeală: superficie constituită pe un teren cu limite incerte sau cu suprapuneri cadastrale — dreptul se înscrie, dar pe un imobil cu probleme, iar corecțiile ulterioare cer din nou semnăturile tuturor. A treia: durata superficiei mai scurtă decât orizontul finanțării plus perioada de operare — finanțatorul o va cere reconstituită, adică încă un tur pe la notar cu toți proprietarii.</p><p>Ordinea sănătoasă e inversă față de instinct: întâi verificarea cadastrală și măsurătoarea, apoi negocierea comercială, apoi notarul. Costul verificării e o fracțiune din costul renegocierii.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Pot transforma contractele de arendă existente în superficie?",
+          "a": "Da, cu acordul proprietarilor, prin act notarial. Partea cadastrală — verificarea CF, eventuala dezmembrare pe lotul util, documentațiile pentru înscriere — o pregătim noi, astfel încât la notar totul să fie gata de semnat."
+        },
+        {
+          "q": "Pe ce durată se constituie superficia pentru un parc fotovoltaic?",
+          "a": "Legea permite până la 99 de ani. Durata concretă se negociază cu proprietarul, dar finanțatorii cer de regulă o durată care acoperă confortabil termenul finanțării și viața tehnică a parcului."
+        },
+        {
+          "q": "Superficia se înscrie pe toată parcela sau doar pe zona parcului?",
+          "a": "Poate fi înscrisă doar pe lotul efectiv necesar, după o dezmembrare. E soluția corectă pentru ambele părți: tu plătești doar pentru ce folosești, proprietarul rămâne liber pe restul terenului."
+        },
+        {
+          "q": "Ce vă trimit ca să începem?",
+          "a": "Extrasul CF sau măcar numărul cadastral și localitatea, plus schița zonei vizate pentru parc. Pe WhatsApp — răspunsul cu pașii necesari și oferta orientativă vine de regulă în aceeași zi."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/superficie-parc-fotovoltaic.html", "label": "Documentația cadastrală pentru superficie" },
+    { "href": "/parcuri-fotovoltaice/dezmembrare-teren-parcela.html", "label": "Dezmembrare doar pe lotul util" },
+    { "href": "/parcuri-fotovoltaice/teren-mai-multi-proprietari-parc-fotovoltaic.html", "label": "Teren cu mai mulți proprietari" },
+    { "href": "/parcuri-fotovoltaice/intabulare-teren-parc-fotovoltaic.html", "label": "Intabularea terenului pentru parc fotovoltaic" },
+    { "href": "/servicii/cadastru-si-intabulare/", "label": "Cadastru și intabulare — serviciul de bază" },
+    { "href": "/dictionar/superficie.html", "label": "Dicționar: superficie" }
+  ],
+  "sources": [
+    { "url": "https://legislatie.just.ro/Public/DetaliiDocument/160177", "title": "Ordinul ANCPI nr. 700/2014 — regulamentul de avizare, recepție și înscriere" }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "agrivoltaic-romania-teren",
+  "title": "Agrivoltaic în România — ce permite legea și ce măsurători îți trebuie",
+  "h1": "Agrivoltaic în România: cadrul legal real și partea topografică a sistemului dual",
+  "metaDescription": "Agrivoltaic România: nu există lege dedicată — cadrul actual e art. 92 din Legea 18/1991. Pe ce terenuri e permis sistemul dual și ce măsurători îți trebuie.",
+  "whatsappTopic": "măsurători pentru un proiect agrivoltaic pe teren agricol",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Agrivoltaic: mult interes, un singur text de lege aplicabil",
+      "html": "<p>Agrivoltaicul — panouri fotovoltaice și producție agricolă pe același teren — apare tot mai des în discuțiile cu dezvoltatorii, de obicei împreună cu întrebarea „a apărut legea agrivoltaicelor?\". Răspunsul corect la data la care scriem: <strong>nu există o lege dedicată agrivoltaicelor în vigoare în România</strong>. Există inițiative legislative discutate public, dar cât timp nu sunt adoptate și publicate, nu poți construi un proiect pe ele.</p><p>Cadrul pe care se poate lucra astăzi este art. 92 alin. (4²) din Legea fondului funciar nr. 18/1991, introdus prin Legea 254/2022. Acesta permite utilizarea în sistem dual — producție agricolă plus producție de energie — a terenurilor agricole din extravilan, <strong>cu excepția categoriei de folosință arabil</strong>. Practic, sistemul dual e posibil pe pășuni, vii și livezi, iar scoaterea din circuitul agricol se face doar pentru suprafețele efectiv ocupate de echipamente; restul terenului rămâne în circuitul agricol și se exploatează agricol în continuare.</p><p>Pentru un topograf, exact această construcție juridică generează lucrarea: cineva trebuie să delimiteze precis, în coordonate, „suprafețele efectiv ocupate\". Aici intrăm noi.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Pe ce terenuri se poate și pe ce terenuri nu",
+      "html": "<p>Regula din art. 92 alin. (4²) desparte terenurile agricole extravilane în două situații:</p><ul><li><strong>Pășuni, vii, livezi</strong> — sistemul dual este permis: panourile coexistă cu utilizarea agricolă, iar din circuitul agricol se scot doar amprentele echipamentelor. Atenție însă: pășunile au un regim juridic special, cu verificări suplimentare obligatorii înainte de orice angajament — am detaliat capcanele pe pagina despre <a href=\"/parcuri-fotovoltaice/teren-pasune-parc-fotovoltaic-probleme.html\">terenurile de pășune</a>.</li><li><strong>Arabil</strong> — exclus de la sistemul dual. Pe arabil extravilan rămâne traseul clasic: <a href=\"/parcuri-fotovoltaice/scoatere-din-circuit-agricol-fotovoltaic.html\">scoaterea din circuitul agricol</a> a întregii suprafețe construite, cu regulile speciale valabile pentru terenurile de clasa III–V de fertilitate.</li></ul><p>Prima verificare e deci banală, dar decisivă: ce categorie de folosință are terenul <em>în cartea funciară și în realitate</em>. Vedem frecvent terenuri folosite ca pășune dar înscrise ca arabil, și invers — iar pentru încadrarea juridică contează înscrierea, corelată cu situația de fapt. Dacă e nevoie, pregătim documentația de <a href=\"/parcuri-fotovoltaice/schimbare-categorie-de-folosinta-teren.html\">actualizare a categoriei de folosință</a> înainte de orice pas către autorizare.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Partea topografică: delimitarea suprafețelor efectiv ocupate",
+      "html": "<p>Într-un proiect agrivoltaic, documentația trebuie să răspundă la o întrebare pe care un parc clasic nu o are: <strong>cât anume din teren ocupă efectiv echipamentele?</strong> Răspunsul se dă din măsurătoare și din proiect, nu din estimări:</p><ul><li>ridicarea topografică completă a terenului, cu relief și limite cadastrale verificate — baza pentru layout;</li><li>calculul suprafețelor efectiv ocupate: amprentele piloniilor și ale structurilor, platformele stațiilor și ale echipamentelor, drumurile de exploatare nou-create;</li><li>planul care delimitează aceste suprafețe în coordonate Stereo 70, ca anexă la documentația de scoatere din circuitul agricol — doar pentru ele, nu pentru tot terenul;</li><li>trasarea pe teren la execuție, ca amprenta reală să corespundă cu cea aprobată.</li></ul><p>Diferența financiară nu e mică: taxele și obligațiile legate de scoaterea din circuitul agricol se raportează la suprafața scoasă. O delimitare corectă, pe care o poți apăra cu măsurători, înseamnă că plătești pentru amprenta reală a echipamentelor, nu pentru hectare întregi.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Ce urmează legislativ — și cum planifici în incertitudine",
+      "html": "<p>Zona legislativă e în mișcare: pentru proiectele fotovoltaice pe terenuri agricole există și PLx 255/2025, un proiect legislativ în dezbatere care propune, între altele, ridicarea plafonului de la 50 la 100 ha și eliminarea cerinței de PUZ pentru astfel de proiecte. Subliniem: <strong>proiect în dezbatere, nu lege în vigoare</strong> — nu construi calendarul proiectului pe el. La fel, excepția actuală din Legea 254/2022 pentru terenurile arabile de clasa III–V produce efecte până la 31 decembrie 2026, deci fereastra pentru traseul clasic pe arabil e aproape de expirare.</p><p>Recomandarea noastră practică: lucrează pe legea în vigoare, cu documentația făcută corect de la început, și tratează orice relaxare viitoare ca bonus. Trimite-ne extrasul CF pe WhatsApp și îți spunem în aceeași zi ce categorie de folosință are terenul, ce traseu juridic i se aplică și ce măsurători îți trebuie pentru fiecare variantă.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Există o lege a agrivoltaicelor în România?",
+          "a": "Nu, la data redactării nu există o lege dedicată agrivoltaicelor în vigoare. Cadrul aplicabil este art. 92 alin. (4²) din Legea 18/1991, introdus prin Legea 254/2022, care permite sistemul dual pe terenuri agricole extravilane, cu excepția arabilului."
+        },
+        {
+          "q": "Pot face agrivoltaic pe teren arabil?",
+          "a": "Sistemul dual nu e permis pe arabil. Pe arabil extravilan se aplică traseul clasic de scoatere din circuitul agricol, cu excepția specială pentru clasele III–V de fertilitate valabilă până la 31 decembrie 2026. Pentru sistem dual rămân pășunile, viile și livezile."
+        },
+        {
+          "q": "Se scoate tot terenul din circuitul agricol la un proiect agrivoltaic?",
+          "a": "Nu. Se scot doar suprafețele efectiv ocupate de echipamente — amprentele structurilor, platformele, drumurile noi. Restul terenului rămâne în circuitul agricol și se folosește agricol în continuare. Delimitarea acestor suprafețe se face prin măsurători și plan în coordonate."
+        },
+        {
+          "q": "Ce verificați voi înainte să pornesc un proiect agrivoltaic?",
+          "a": "Categoria de folosință din CF și corespondența ei cu terenul real, situația juridică a imobilului, limitele cadastrale și eventualele suprapuneri. Apoi măsurăm terenul și pregătim planurile de delimitare a suprafețelor ocupate, pentru documentația de scoatere din circuitul agricol."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/teren-pasune-parc-fotovoltaic-probleme.html", "label": "Terenuri de pășune — regim special și capcane" },
+    { "href": "/parcuri-fotovoltaice/scoatere-din-circuit-agricol-fotovoltaic.html", "label": "Scoaterea din circuitul agricol" },
+    { "href": "/parcuri-fotovoltaice/schimbare-categorie-de-folosinta-teren.html", "label": "Schimbarea categoriei de folosință" },
+    { "href": "/parcuri-fotovoltaice/studiu-topografic-parc-fotovoltaic.html", "label": "Studiu topografic pentru parc fotovoltaic" },
+    { "href": "/servicii/cadastru-si-intabulare/", "label": "Cadastru și intabulare" },
+    { "href": "/dictionar/carte-funciara.html", "label": "Dicționar: carte funciară" }
+  ],
+  "sources": [
+    { "url": "https://agrointel.ro/229751/panouri-fotovoltaice-pe-terenuri-agricole-legea-a-fost-publicata-in-monitorul-oficial", "title": "Legea 254/2022 — fotovoltaice pe terenuri agricole, publicată în Monitorul Oficial" },
+    { "url": "https://www.wall-street.ro/special/romaniaverde/298101/legislatia-privind-autorizarea-construirii-proiectelor-solare-si-eoliene-modificata-iar-ce-se-intampla-cu-regula-celor-50-de-hectare.html", "title": "PLx 255/2025 — proiect legislativ în dezbatere privind autorizarea proiectelor solare" }
+  ]
+}

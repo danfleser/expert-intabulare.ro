@@ -1,0 +1,73 @@
+{
+  "slug": "trasare-drumuri-interne-parc-fotovoltaic",
+  "title": "Trasare drumuri interne, șanțuri de cabluri și împrejmuire — parc fotovoltaic",
+  "h1": "Trasarea infrastructurii parcului: drumuri interne, șanțuri de cabluri, platforme, împrejmuire",
+  "metaDescription": "Trasare drumuri interne, trasee de cabluri, platforme de stații și împrejmuire pentru parcuri fotovoltaice. Axe, cote și ordinea corectă a lucrărilor pe șantier.",
+  "whatsappTopic": "trasarea drumurilor interne și a traseelor de cabluri pentru un parc fotovoltaic",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Parcul nu înseamnă doar piloni",
+      "html": "<p>Între rândurile de panouri trăiește o întreagă infrastructură care se trasează la fel de riguros ca pilonii: drumurile interne pe care circulă utilajele și, ani la rând, echipele de mentenanță; șanțurile în care coboară cablurile de string și de medie tensiune; platformele stațiilor de transformare și ale punctelor de conexiune; împrejmuirea cu porțile de acces. Fiecare element are axe, cote și lățimi din proiect — și fiecare intră în conflict cu celelalte dacă ordinea trasării e greșită.</p><p>Noi trasăm toată această infrastructură din aceeași referință de coordonate Stereo 70 folosită la <a href=\"/parcuri-fotovoltaice/trasare-piloni-parc-fotovoltaic.html\">trasarea piloniilor</a>, pe rețeaua de sprijin materializată încă de la studiul topografic. Un singur sistem de referință pe șantier înseamnă că drumul, șanțul și rândul de panouri se întâlnesc acolo unde le-a desenat proiectantul — nu cu jumătate de metru mai încolo. Scrie-ne pe WhatsApp cu planșele de organizare și îți spunem cum eșalonăm trasarea pe graficul vostru de execuție.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Ce trasăm, element cu element",
+      "html": "<ul><li><strong>Drumurile interne</strong> — axul și marginile platformei drumului, cu cotele de proiect pe profile transversale; la drumurile cu sistem rutier pe straturi, trasăm și verificăm cotele pe fiecare strat, ca grosimile decontate să fie cele reale.</li><li><strong>Șanțurile de cabluri</strong> — traseele de la stringuri la invertoare și de la invertoare la stația de transformare, cu adâncimile din proiect; trasarea corectă previne cea mai neplăcută coliziune de pe șantierele PV: plugul de cablu care întâlnește o fundație sau alt cablu deja pozat.</li><li><strong>Platformele stațiilor de transformare și BESS</strong> — conturul, cotele de fundare și cota platformei finite, verificate prin <a href=\"/parcuri-fotovoltaice/nivelment-de-precizie.html\">nivelment de precizie</a>; aici toleranțele sunt cele mai strânse din tot parcul.</li><li><strong>Împrejmuirea și porțile</strong> — trasată strict pe limita din proiect, verificată față de limitele cadastrale ale imobilului. O împrejmuire ieșită peste limita proprietății e o problemă juridică, nu doar tehnică, iar corectarea ei după montaj costă mult mai mult decât o verificare înainte.</li><li><strong>Traseul de racordare</strong> în afara incintei — de la stația parcului spre punctul de conexiune, lucrare pe care o tratăm separat la <a href=\"/parcuri-fotovoltaice/ridicare-topografica-racord-electric.html\">ridicarea topografică a racordului electric</a>.</li></ul>"
+    },
+    {
+      "type": "table",
+      "heading": "Ordinea contează: cine se trasează înaintea cui",
+      "head": ["Etapă", "Ce se trasează", "De ce în această ordine"],
+      "rows": [
+        ["1. Organizare de șantier", "Accese, drumul principal, platforme tehnice", "Utilajele au nevoie de circulație înainte de orice altceva"],
+        ["2. Incinta", "Împrejmuirea și porțile, verificate pe limita cadastrală", "Închide șantierul și fixează cadrul juridic al execuției"],
+        ["3. Câmpul de panouri", "Pilonii, pe fronturi de lucru", "Ritmul utilajului de batere dictează graficul"],
+        ["4. Rețelele", "Șanțurile de cabluri, după baterea zonelor traversate", "Evită coliziunile cablu–fundație și săpăturile duble"],
+        ["5. Finalizare", "Verificări de cote, măsurători pentru as-built", "Fiecare element măsurat înainte de acoperire"]
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "Precizie unde trebuie, ritm unde trebuie",
+      "html": "<p>Nu toată infrastructura cere aceeași precizie, și e o risipă să pretinzi altceva: axele de drum și traseele de șanțuri se trasează eficient cu GNSS RTK la ±2–3 cm în plan, în timp ce platformele stațiilor și elementele cu toleranțe strânse se lucrează cu stația totală, la precizie milimetrică pe distanțe scurte. Alegem metoda pe element, nu pe obișnuință — așa trasarea ține pasul cu șantierul fără să sacrifice punctele critice.</p><p>Un detaliu care se plătește singur: măsurăm traseele de cabluri deschise înainte de acoperire, poziție și adâncime. Cablurile îngropate nemăsurate sunt cea mai frecventă gaură din documentațiile <a href=\"/parcuri-fotovoltaice/as-built-parc-fotovoltaic.html\">as-built</a> — și cea mai scumpă de completat retroactiv, când singura metodă rămasă e săpătura. Colaborăm cu dezvoltatori și constructori și planificăm aceste măsurători direct pe graficul de pozare, ca să nu ținem nicio echipă pe loc.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Documentează acum ce îngropi acum",
+      "html": "<p>Pe un parc fotovoltaic în exploatare, cel mai căutat document nu e planul rândurilor — e planul rețelelor îngropate. Orice intervenție ulterioară, de la înlocuirea unui tronson de cablu la extinderea parcului, începe cu întrebarea „pe unde trec cablurile?\", iar răspunsul corect există doar dacă traseele au fost măsurate cu șanțul deschis. De aceea tratăm măsurătorile de pre-acoperire ca parte din trasare, nu ca opțiune: echipa care pozează anunță, noi măsurăm poziție și adâncime pe tronsonul deschis, șanțul se acoperă fără să aștepte.</p><p>Același reflex se aplică subtraversărilor, căminelor, prizelor de pământ și oricărui element care dispare sub cotă finală. Fiecare măsurătoare intră în baza de date a șantierului și iese, la final, în documentația as-built — completă, fără mențiuni de tipul „traseu aproximativ, conform indicațiilor constructorului\", care scad credibilitatea întregului dosar la recepție și la due diligence. Trimite-ne graficul de pozare pe WhatsApp și îți propunem un program de măsurători care nu încetinește nicio echipă.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Puteți trasa doar drumurile și șanțurile, dacă pilonii i-a trasat altcineva?",
+          "a": "Da. Preluăm rețeaua de sprijin folosită la trasarea piloniilor, o verificăm prin măsurători de control și trasăm restul infrastructurii pe aceeași referință. Verificarea e obligatorie — două referințe diferite pe același șantier garantează conflicte."
+        },
+        {
+          "q": "Ce se întâmplă dacă împrejmuirea din proiect iese peste limita cadastrală?",
+          "a": "Semnalăm înainte de trasare — verificarea limitei din proiect față de limitele din cartea funciară face parte din pregătirea lucrării. Corecția pe planșă costă o discuție cu proiectantul; corecția după montaj costă demontare și, uneori, un litigiu cu vecinul."
+        },
+        {
+          "q": "Măsurați și cantitățile de lucrări pentru decont?",
+          "a": "Da — lungimi de drumuri și șanțuri, suprafețe de platforme, volume de săpătură pe măsurători înainte și după, în aceeași logică din calculul de volumetrie. Constructorul și beneficiarul decontează pe cifre măsurate, nu estimate."
+        },
+        {
+          "q": "În ce zonă lucrați pe șantiere?",
+          "a": "Județul Alba și județele vecine: Cluj, Mureș, Sibiu, Hunedoara. Pentru șantiere cu prezență recurentă stabilim un program pe faze, sincronizat cu graficul constructorului."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/trasare-piloni-parc-fotovoltaic.html", "label": "Trasare piloni parc fotovoltaic" },
+    { "href": "/parcuri-fotovoltaice/nivelment-de-precizie.html", "label": "Nivelment de precizie pentru fundații" },
+    { "href": "/parcuri-fotovoltaice/calcul-volumetrie-terasamente.html", "label": "Calcul volumetrie terasamente" },
+    { "href": "/parcuri-fotovoltaice/ridicare-topografica-racord-electric.html", "label": "Ridicare topografică racord electric" },
+    { "href": "/parcuri-fotovoltaice/as-built-parc-fotovoltaic.html", "label": "Documentație as-built" },
+    { "href": "/servicii/trasare-teren/", "label": "Trasare teren — serviciul de bază" }
+  ],
+  "sources": []
+}

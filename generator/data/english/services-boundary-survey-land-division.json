@@ -1,0 +1,63 @@
+{
+  "path": "/en/services/boundary-survey-land-division.html",
+  "title": "Boundary Survey, Land Division & Plot Merging in Romania (Dezmembrare / Alipire)",
+  "metaDescription": "Boundary surveys, land subdivision (dezmembrare) and parcel merging (alipire) in Romania: how the cadastral and notarial steps fit together, timelines, and what investors should know.",
+  "h1": "Boundary Surveys, Land Division and Plot Merging in Romania",
+  "navLabelEn": "Boundary survey & division",
+  "roPair": "https://expert-intabulare.ro/servicii/dezmembrare-alipire/",
+  "whatsappPrefillEn": "Hello! I need a boundary survey or a land division/merger (dezmembrare/alipire) in Romania.",
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Knowing exactly what you own — and reshaping it",
+      "html": "<p>Three related jobs live on this page, because in Romanian practice they share the same field work and the same cadastral machinery:</p><ul><li><strong>Boundary survey</strong> — measuring and marking where a parcel legally ends, reconciling deeds, the land book and the fence line on the ground.</li><li><strong>Land division (<em>dezmembrare</em>)</strong> — splitting one registered parcel into two or more lots, each receiving its own cadastral number and land book.</li><li><strong>Plot merging (<em>alipire</em>)</strong> — the reverse: consolidating adjacent parcels into a single one, essential when a project site was assembled from many small acquisitions.</li></ul><p>Each operation has a cadastral half (our documentation, received by OCPI) and a legal half (a notarial deed formalizing the division or merger, which the notary then registers in the land book). We prepare everything the notary needs and coordinate with them directly, so the two halves happen in the right order.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Why investors use these operations",
+      "html": "<p><strong>Buying part of a parcel:</strong> Romanian law transfers ownership per land book unit, so if you want 2 hectares out of a seller's 10, the parcel must first be divided — the sale deed can only be signed on the new, separately registered lot.</p><p><strong>Solar and industrial sites:</strong> developers typically assemble a site from 10–30 small agricultural parcels. Merging them into one compact parcel simplifies the superficie or purchase structure, the permitting file and the bank's collateral. Conversely, dividing lets you register rights only over the useful part of a large parcel and save on notarial taxes — see <a href=\"/en/solar/superficie-right-land-registration-solar.html\">superficie rights for solar projects</a>.</p><p><strong>Inheritance and co-ownership exits:</strong> dividing a parcel is how co-owners or heirs convert paper shares into individually owned, sellable lots.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "What we need to start",
+      "items": [
+        "Current land book extract(s) for the parcel(s) involved",
+        "Owners' identity or company documents",
+        "Your sketch or description of the intended division/merger",
+        "For divisions in built-up areas: the urbanism certificate, where the town hall requires one for the operation",
+        "Power of attorney details if owners sign remotely through a notary"
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "How long does a division or merger take?",
+          "a": "The survey and documentation take days; OCPI reception and the notarial deed add weeks in total, depending on office workloads and how quickly all owners can sign. Multi-parcel mergers take longer simply because every land book involved must be clean first — we sequence the work so nothing waits unnecessarily."
+        },
+        {
+          "q": "The neighbour disputes the boundary. Can you fix that?",
+          "a": "We establish the technically and legally supportable boundary and document it, including with neighbours' signatures where obtainable. If a genuine legal dispute remains, it is resolved in court through a judicial survey expertise — an area we can support with measurements and documentation."
+        },
+        {
+          "q": "Can parcels with different land-use categories be merged?",
+          "a": "Merging works on adjacent parcels within the same locality and intravilan/extravilan situation; differing use categories and encumbrances can complicate or block it. We check feasibility on the land book extracts before you spend anything on deeds."
+        },
+        {
+          "q": "Do encumbrances survive a division or merger?",
+          "a": "Yes — mortgages, easements and notes carry over onto the resulting lots according to legal rules, and a mortgage bank's consent is typically needed before the operation. This is exactly why we read Part III of every land book involved before designing the division, so the notary is not surprised at the deed."
+        },
+        {
+          "q": "What does a division cost and what drives the price?",
+          "a": "The cadastral fee scales mainly with the number of resulting lots and the field complexity; OCPI's official tariffs apply per operation, and the notarial deed is a separate cost on the legal side. We quote an indicative range after seeing the land book extract — a clean parcel split into two is a routine job, a lotting of thirty parcels for a site assembly is a project, and we price each honestly as what it is."
+        }
+      ]
+    }
+  ],
+  "related": [
+    "/en/services/cadastral-registration.html",
+    "/en/solar/unregistered-land-romania-pv-developers.html",
+    "/en/solar/superficie-right-land-registration-solar.html",
+    "/en/guides/buying-land-in-romania.html"
+  ]
+}

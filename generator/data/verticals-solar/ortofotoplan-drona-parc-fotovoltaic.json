@@ -1,0 +1,65 @@
+{
+  "slug": "ortofotoplan-drona-parc-fotovoltaic",
+  "title": "Ortofotoplan cu drona pentru parc fotovoltaic — rezoluție centimetrică",
+  "h1": "Ortofotoplan de înaltă rezoluție: de la avizare la monitorizarea șantierului",
+  "metaDescription": "Ortofotoplan cu drona pentru parcuri fotovoltaice: rezoluție centimetrică, georeferențiere Stereo 70, plan de situație, monitorizare șantier, GeoTIFF.",
+  "whatsappTopic": "un ortofotoplan cu drona pentru un teren de parc fotovoltaic",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "O fotografie pe care poți măsura — și pe care o înțelege oricine",
+      "html": "<p>Ortofotoplanul este imaginea aeriană a terenului corectată geometric și georeferențiată: fiecare pixel are coordonate reale în Stereo 70, deci pe el se pot măsura distanțe și suprafețe, se pot suprapune limitele cadastrale și layout-ul de panouri. Spre deosebire de o simplă fotografie din dronă, ortofotoplanul este un document tehnic; spre deosebire de imaginile satelitare gratuite sau de ortofotoplanurile publice, care pot avea ani vechime și rezoluție de zeci de centimetri pe pixel, al nostru arată terenul tău de săptămâna aceasta, la rezoluție de ordinul centimetrilor pe pixel.</p><p>Pentru un dezvoltator fotovoltaic asta înseamnă trei lucruri: documente de avizare pe imagini actuale, prezentări către investitori și finanțatori pe care le înțelege și un om fără pregătire tehnică și o evidență vizuală, datată, a ceea ce există pe teren la fiecare moment-cheie al proiectului.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "La ce îl folosești concret",
+      "html": "<ul><li><strong>Avizare și urbanism</strong> — <a href=\"/parcuri-fotovoltaice/plan-de-situatie-parc-fotovoltaic.html\">planul de situație pentru certificatul de urbanism</a> se prezintă mult mai convingător pe un ortofotoplan actual decât pe unul public vechi de câțiva ani, mai ales unde terenul s-a schimbat între timp.</li><li><strong>Due diligence și achiziție</strong> — vezi ocupări reale, drumuri de exploatare bătute peste limita cadastrală, construcții neînscrise, vegetație — înainte să semnezi.</li><li><strong>Prezentare pentru investitori și bănci</strong> — layout-ul suprapus pe imaginea reală a terenului răspunde dintr-o privire la întrebarea „unde e proiectul și cum arată”.</li><li><strong>Monitorizarea șantierului</strong> — zboruri repetate la interval fix documentează progresul lucrărilor: terasamente, piloni bătuți, drumuri executate, cabluri pozate. Comparația între două ortofotoplanuri datate rezolvă discuții despre stadii de execuție.</li><li><strong>Documentare la recepție</strong> — imaginea finală a parcului completează <a href=\"/parcuri-fotovoltaice/as-built-parc-fotovoltaic.html\">documentația as-built</a> cu o dovadă vizuală a stării de fapt.</li></ul>"
+    },
+    {
+      "type": "html",
+      "heading": "Cum îl producem și de unde vine calitatea",
+      "html": "<p>Ortofotoplanul este produsul finit al unui zbor fotogrametric făcut ca la carte: plan de zbor cu acoperire suficientă între imagini, GSD ales după scopul livrabilului și — decisiv — puncte de control la sol măsurate cu GNSS RTK, care leagă imaginea de coordonatele reale. Fără puncte de control, o imagine din dronă poate „aluneca” cu metri întregi față de cadastru, iar suprapunerea cu limitele de proprietate devine o sursă de concluzii false. Detaliile despre metodă sunt pe pagina de <a href=\"/parcuri-fotovoltaice/fotogrametrie-drona-teren.html\">fotogrametrie cu drona</a> — ortofotoplanul și modelul digital al terenului ies din același zbor, deci dacă ai nevoie de amândouă, le primești dintr-o singură mobilizare.</p><p>Livrăm GeoTIFF georeferențiat în Stereo 70, gata de încărcat în AutoCAD, QGIS sau în softul de layout PV, plus, la cerere, export pentru prezentări și planșe tipăribile la scară. Rezoluția o stabilim împreună, după scop: una e imaginea pentru un board de investiții, alta e cea pe care constructorul măsoară stadii de execuție.</p><p>Când comanzi și date de proiectare — model digital al terenului, curbe de nivel — ortofotoplanul vine practic gratuit din același zbor, pentru că imaginile sunt deja făcute; rămâne doar prelucrarea suplimentară. Invers, dacă ai nevoie doar de imagine, zborul se poate face mai repede și mai ieftin decât unul dimensionat pentru precizie topografică. De aceea prima întrebare pe care ți-o punem e la ce va folosi livrabilul — și abia apoi vorbim de preț.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Monitorizare de șantier prin zboruri repetate",
+      "html": "<p>Pe durata execuției, un zbor lunar sau la fiecare etapă contractuală importantă produce o serie de ortofotoplanuri comparabile — aceleași puncte de control, aceeași georeferențiere, deci diferențele dintre imagini sunt reale, nu artefacte. Beneficiarul vede de la birou ce s-a executat; constructorul are dovada datată a stadiilor; finanțatorul primește rapoarte vizuale pe care nu trebuie să le interpreteze un inginer. Colaborăm cu dezvoltatori și constructori și pe acest tip de abonament de monitorizare, cu livrare rapidă după fiecare zbor.</p><p>Dacă vrei să vezi cum ar arăta pentru amplasamentul tău: trimite-ne extrasul CF sau coordonatele terenului pe WhatsApp și îți spunem în aceeași zi fereastra de zbor, rezoluția recomandată și costul orientativ.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Care e diferența față de imaginile din geoportalul ANCPI sau Google?",
+          "a": "Actualitatea și rezoluția. Imaginile publice pot avea ani vechime și pixeli de zeci de centimetri; ortofotoplanul nostru e zburat la comandă, cu rezoluție centimetrică și georeferențiere verificată pe puncte de control măsurate la sol — deci pe el se poate măsura cu încredere."
+        },
+        {
+          "q": "Pot suprapune limitele cadastrale peste ortofotoplan?",
+          "a": "Da, exact asta e utilizarea lui principală: livrat georeferențiat în Stereo 70, se suprapune direct cu limitele din cadastru și cu layout-ul de proiect. Așa se văd imediat ocupările, drumurile deviate de la limita din acte și orice nepotrivire teren–documente."
+        },
+        {
+          "q": "Cât durează până primesc ortofotoplanul după zbor?",
+          "a": "De regulă câteva zile lucrătoare pentru un amplasament tipic — prelucrarea depinde de suprafață și de rezoluția cerută. Pentru monitorizarea de șantier convenim un termen fix de livrare după fiecare zbor."
+        },
+        {
+          "q": "Ce rezoluție să aleg pentru ortofotoplan?",
+          "a": "Depinde de utilizare: pentru prezentări și planuri de situație e suficientă o rezoluție moderată; pentru monitorizarea execuției și măsurători pe imagine merită o rezoluție mai fină, deci zbor mai jos și prelucrare mai lungă. Îți recomandăm varianta potrivită după ce ne spui scopul."
+        },
+        {
+          "q": "Aveți nevoie de autorizații pentru zbor?",
+          "a": "Operarea dronei se face conform regulilor de zbor în vigoare pentru categoria de operațiune și zona respectivă; verificăm restricțiile de spațiu aerian pentru amplasament înainte de programare și îți spunem din start dacă zona are limitări."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/fotogrametrie-drona-teren.html", "label": "Fotogrametrie cu drona — metodă și precizie" },
+    { "href": "/parcuri-fotovoltaice/plan-de-situatie-parc-fotovoltaic.html", "label": "Plan de situație pentru certificatul de urbanism" },
+    { "href": "/parcuri-fotovoltaice/as-built-parc-fotovoltaic.html", "label": "Documentație as-built la recepție" },
+    { "href": "/parcuri-fotovoltaice/model-digital-teren-parc-fotovoltaic.html", "label": "Model digital al terenului (MDT)" },
+    { "href": "/servicii/plan-topografic/", "label": "Plan topografic — serviciul de bază" },
+    { "href": "/dictionar/ortofotoplan.html", "label": "Dicționar: ortofotoplan" }
+  ],
+  "sources": []
+}

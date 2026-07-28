@@ -1,0 +1,62 @@
+{
+  "slug": "diferenta-suprafata-acte-teren",
+  "title": "Suprafața din acte diferă de cea măsurată — îți afectează finanțarea? | Expert Intabulare",
+  "h1": "Suprafața din acte nu bate cu terenul: când e o formalitate și când îți blochează proiectul",
+  "metaDescription": "Diferență între suprafața din acte și cea măsurată: toleranțe la înscriere, rectificarea suprafeței, când devine blocantă pentru dosarul de finanțare.",
+  "whatsappTopic": "diferență de suprafață între acte și măsurători",
+  "hook": "deadline",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "De ce aproape niciun teren vechi nu are suprafața din acte",
+      "html": "<p>Terenurile intrate în circuitul civil înainte de măsurătorile moderne au suprafețe „moștenite” din surse aproximative: registre agricole completate din declarații, titluri de proprietate emise pe planuri parcelare desenate la birou, cărți funciare vechi cu stânjeni convertiți în metri pătrați. Când măsurăm cu GPS-ul, adevărul iese la lumină — și aproape întotdeauna diferă. O diferență de câteva procente este <strong>norma</strong>, nu excepția.</p><p>Pentru un dosar de finanțare, întrebarea corectă nu este „de ce diferă?”, ci „<strong>diferența împiedică înscrierea corectă în cartea funciară?</strong>”. Pentru că evaluatorul nu măsoară terenul — el compară documentele între ele: extras CF, plan de amplasament, studiu de fezabilitate, autorizație. Atâta timp cât toate spun aceeași suprafață — cea măsurată și înscrisă — dosarul e coerent. Problemele apar când documentele se contrazic: CF spune 5.000 mp, SF-ul e proiectat pe 5.800 mp „că atât e gardul”, iar titlul spune 5.500 mp.</p>"
+    },
+    {
+      "type": "paragraph",
+      "heading": "Ce se întâmplă la înscriere: toleranțe și proceduri",
+      "html": "<p>Regulamentul ANCPI tratează diferențele de suprafață în funcție de mărimea lor și de situația imobilului:</p><ul><li><strong>Diferențe mici, în limitele de toleranță</strong> prevăzute de regulament (praguri diferite pentru intravilan și extravilan): la prima înscriere se poate înscrie direct suprafața măsurată — documentația noastră consemnează diferența, OCPI o validează.</li><li><strong>Diferențe peste toleranță, în plus:</strong> e nevoie de procedura de modificare a suprafeței, care poate implica declarații, acordul vecinilor privind limitele sau, în cazurile disputate, hotărâre judecătorească. Durata crește de la zile la săptămâni sau luni.</li><li><strong>Diferențe în minus semnificative:</strong> juridic mai simple de înscris, dar economic dureroase — proiectul tău are mai puțin teren decât credeai. La investiții dimensionate pe suprafață (ferme, plantații, parcuri fotovoltaice), asta se află <em>înainte</em> de a semna contracte, nu după.</li></ul><p>Concluzia practică: <strong>măsurătoarea nu creează problema — o descoperă</strong>. Iar momentul ideal al descoperirii este la începutul proiectului, când toate variantele de rezolvare sunt încă pe masă.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Scenarii tipice și impactul asupra dosarului",
+      "head": ["Scenariul", "Impact asupra finanțării", "Rezolvarea"],
+      "rows": [
+        ["CF nou, suprafață măsurată, acte concordante", "Niciun impact", "Nimic de făcut — cazul ideal"],
+        ["Diferență mică față de titlu, teren necadastrat", "Întârziere minimă", "Prima înscriere cu suprafața măsurată, în toleranțe"],
+        ["Diferență mare în plus față de acte", "Risc de întârziere serioasă", "Procedura de modificare a suprafeței, pornită imediat"],
+        ["Diferență în minus, investiție dimensionată pe suprafață", "Risc economic direct", "Redimensionarea proiectului înainte de depunere"],
+        ["Documentele din dosar declară suprafețe diferite între ele", "Clarificări garantate, risc de respingere", "Aliniere completă pe suprafața din CF, înainte de depunere"]
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Gardul e mai larg decât actele. Pot înscrie suprafața „de la gard”?", "a": "Doar dacă diferența se încadrează în toleranțele regulamentului sau treci prin procedura de modificare a suprafeței — și doar dacă surplusul nu provine din terenul vecinului sau din domeniul public. Măsurătoarea și verificarea vecinătăților la OCPI dau răspunsul cert; promisiuni înainte de măsurare nu facem." },
+        { "q": "Diferența de suprafață îmi poate respinge dosarul de finanțare?", "a": "Diferența în sine, nu — neconcordanța dintre documente, da. Dacă extrasul CF, planurile și studiile declară aceeași suprafață, evaluatorul nu are ce contesta. Rolul nostru e să aliniem toate piesele pe realitatea măsurată." },
+        { "q": "Cât durează procedura de modificare a suprafeței?", "a": "Cazurile cu vecini cooperanți și limite clare: săptămâni. Cazurile cu limite disputate: pot ajunge în instanță, deci luni sau mai mult. De aceea insistăm pe măsurarea timpurie — cu un an înainte de sesiune, orice scenariu e gestionabil." },
+        { "q": "Terenul e deja în CF cu o suprafață, dar realitatea diferă. Mai contează?", "a": "Pentru finanțare, CF-ul e litera de lege — proiectul se face pe suprafața înscrisă. Dacă vrei să valorifici diferența (sau să corectezi o eroare veche), procedura există; discutăm dacă merită efortul raportat la calendarul proiectului tău." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Bănuiești o diferență de suprafață?",
+      "text": "Trimite-ne pe WhatsApp extrasul CF sau titlul și localitatea — o măsurătoare de verificare lămurește situația înainte ca ea să devină problema dosarului tău."
+    }
+  ],
+  "related": [
+    "suprapunere-cadastrala-rezolvare",
+    "motive-respingere-dosar-teren-proprietate",
+    "teren-neintabulat-fonduri-europene",
+    "intabulare-teren-agricol-fonduri-europene",
+    "extras-carte-funciara-fonduri-europene",
+    "aviz-ocpi-respins-motive",
+    "/servicii/cadastru-si-intabulare/",
+    "/dictionar/carte-funciara.html"
+  ],
+  "sources": [
+    "https://www.ancpi.ro/",
+    "https://legislatie.just.ro/Public/DetaliiDocument/159910"
+  ]
+}

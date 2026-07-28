@@ -1,0 +1,74 @@
+{
+  "slug": "alipire-parcele-teren",
+  "title": "Alipirea parcelelor de teren — comasare cadastrală pentru parc fotovoltaic",
+  "h1": "Alipirea parcelelor: din 20 de CF-uri fragmentate, un singur imobil de proiect",
+  "metaDescription": "Alipirea parcelelor pentru parc fotovoltaic: comasarea cadastrală a terenurilor cumpărate de la mai mulți proprietari într-un singur imobil cu CF unic.",
+  "whatsappTopic": "alipirea mai multor parcele de teren pentru un parc fotovoltaic",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Terenul de parc se cumpără bucată cu bucată — dar se dezvoltă întreg",
+      "html": "<p>În zonele agricole din Transilvania, un amplasament de 20 de hectare înseamnă rareori un singur proprietar: tipic sunt 10–30 de parcele înguste, moștenite pe familii, fiecare cu istoria ei cadastrală. Le cumperi pe rând, dar proiectul nu se poate așeza pe un mozaic de CF-uri: fiecare act notarial, fiecare înscriere de superficie sau ipotecă și fiecare documentație de autorizare s-ar multiplica cu numărul parcelelor. Soluția este alipirea — operațiunea cadastrală care unește imobilele alăturate într-unul singur, cu un număr cadastral nou și o singură carte funciară.</p><p>Ce primești la final: un imobil unic, cu limite verificate pe teren, pe care banca înscrie o singură ipotecă, notarul autentifică o singură superficie și primăria emite o singură autorizație. Diferența de cost administrativ și de timp față de varianta „lucrăm pe 20 de CF-uri” se simte în fiecare etapă care urmează.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Condițiile alipirii — și de ce ordinea pașilor decide calendarul",
+      "html": "<p>Ca parcelele să poată fi alipite, câteva condiții trebuie îndeplinite: imobilele să fie alăturate, fiecare să fie intabulat individual, cu limite fără suprapuneri, și să aparțină aceluiași proprietar — alipirea unește imobile, nu rezolvă proprietăți. Operațiunea se face pe baza unei documentații cadastrale recepționate de OCPI, conform Ordinului ANCPI nr. 700/2014, iar actul de alipire se autentifică la notar și se înscrie în cartea funciară.</p><p>De aici rezultă ordinea corectă pe un proiect cu mulți vânzători: identificarea certă a fiecărei parcele, antecontracte, intabularea parcelelor care nu au cadastru, cumpărarea, apoi alipirea. Cine inversează pașii — de exemplu cumpără „pe acte” parcele neidentificate cert pe teren — descoperă suprapunerile și lipsurile de suprafață abia la alipire, când renegocierea cu vânzătorii nu mai e posibilă. Am detaliat această secvență pe pagina despre <a href=\"/parcuri-fotovoltaice/teren-mai-multi-proprietari-parc-fotovoltaic.html\">terenurile cu mai mulți proprietari</a>.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Ce verificăm înainte să pornim alipirea",
+      "items": [
+        "Toate parcelele sunt intabulate, cu documentații cadastrale fără suprapuneri între ele sau cu vecinii",
+        "Proprietarul este același pe toate CF-urile — inclusiv regimul matrimonial și cotele, care trebuie să permită operațiunea",
+        "Parcelele sunt efectiv alăturate — un drum de exploatare care taie terenul poate împărți alipirea în două corpuri",
+        "Sarcinile existente (ipoteci, servituți) sunt inventariate — ele se preiau asupra imobilului rezultat și trebuie corelate cu finanțatorul",
+        "Categoria de folosință a fiecărei parcele — relevantă pentru scoaterea din circuitul agricol de mai târziu"
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "Cum lucrăm și cât durează",
+      "html": "<p>Începem de la evidențele OCPI și de la măsurători pe teren: verificăm fiecare parcelă cu GNSS RTK la ±2–3 cm, comparăm limitele reale cu cele din documentațiile existente și semnalăm din timp orice nepotrivire — e mult mai ieftin să corectezi o documentație veche înainte de alipire decât să o descoperi respinsă în dosar. Apoi întocmim documentația de alipire, o depunem la OCPI pentru recepție, iar după autentificarea actului la notar imobilul rezultat se înscrie în cartea funciară.</p><p>Durata depinde aproape integral de starea de pornire: cu toate parcelele intabulate curat, vorbim de săptămâni, dominate de termenele OCPI și de programarea la notar; cu parcele de intabulat sau documentații vechi de corectat, calendarul îl dictează <a href=\"/parcuri-fotovoltaice/intabulare-teren-parc-fotovoltaic.html\">intabularea</a> prealabilă. De aceea prima livrare utilă e un audit scurt: îți spunem exact care parcele sunt gata de alipire și care au teme de rezolvat. Trimite-ne extrasele CF pe WhatsApp — sau doar lista numerelor cadastrale — și primești evaluarea în câteva zile.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "După alipire: imobilul de proiect",
+      "html": "<p>Pe imobilul rezultat se construiește tot ce urmează: <a href=\"/parcuri-fotovoltaice/superficie-parc-fotovoltaic.html\">superficia până la 99 de ani</a> cerută de finanțatori se înscrie o singură dată, <a href=\"/parcuri-fotovoltaice/scoatere-din-circuit-agricol-fotovoltaic.html\">scoaterea din circuitul agricol</a> se documentează unitar, iar studiul topografic și autorizarea lucrează cu o singură limită de proprietate. Dacă ulterior o parte din teren rămâne neutilizată, se poate <a href=\"/parcuri-fotovoltaice/dezmembrare-teren-parcela.html\">dezmembra</a> înapoi — operațiunea inversă, din același dosar de măsurători. Colaborăm cu dezvoltatori și constructori pe astfel de proiecte de la primul antecontract până la as-built.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Putem alipi parcele cumpărate pe firme diferite din același grup?",
+          "a": "Nu direct — imobilele alipite trebuie să aibă același proprietar în CF. Structura de deținere se aliniază înainte, cu juristul proiectului; noi îți spunem din audit care CF-uri au proprietari diferiți, ca tema să ajungă la jurist devreme."
+        },
+        {
+          "q": "Un drum de exploatare taie terenul în două. Se poate alipi?",
+          "a": "Parcelele de pe aceeași parte a drumului da; peste drum, nu — drumul e imobil separat, de regulă al UAT-ului. Rezultă două corpuri de proiect, iar traversarea drumului cu cabluri se rezolvă separat. Semnalăm situația din faza de verificare."
+        },
+        {
+          "q": "Ce se întâmplă cu ipotecile de pe o parcelă la alipire?",
+          "a": "Sarcinile se preiau asupra imobilului rezultat, deci o ipotecă mică pe o parcelă ajunge să greveze întregul. De aceea inventariem sarcinile înainte și le corelăm cu juristul și finanțatorul — de regulă se radiază sau se restructurează înainte de alipire."
+        },
+        {
+          "q": "Alipirea scumpește sau ieftinește etapele următoare?",
+          "a": "Le ieftinește aproape întotdeauna: un singur act de superficie, o singură documentație de autorizare, un singur dosar de scoatere din circuitul agricol. Costul alipirii se recuperează din taxele și timpul economisit la primele etape care urmează."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/teren-mai-multi-proprietari-parc-fotovoltaic.html", "label": "Teren cu mai mulți proprietari — ordinea pașilor" },
+    { "href": "/parcuri-fotovoltaice/intabulare-teren-parc-fotovoltaic.html", "label": "Intabularea parcelelor fără cadastru" },
+    { "href": "/parcuri-fotovoltaice/dezmembrare-teren-parcela.html", "label": "Dezmembrarea — operațiunea inversă" },
+    { "href": "/parcuri-fotovoltaice/superficie-parc-fotovoltaic.html", "label": "Superficie pe imobilul rezultat" },
+    { "href": "/servicii/dezmembrare-alipire/", "label": "Dezmembrare și alipire — serviciul de bază" },
+    { "href": "/dictionar/carte-funciara.html", "label": "Dicționar: carte funciară" }
+  ],
+  "sources": [
+    { "url": "https://legislatie.just.ro/Public/DetaliiDocument/160177", "title": "Ordinul ANCPI nr. 700/2014 — regulamentul de avizare, recepție și înscriere" }
+  ]
+}

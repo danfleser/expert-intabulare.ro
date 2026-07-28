@@ -1,0 +1,62 @@
+{
+  "path": "/en/services/land-registry-extract.html",
+  "title": "Land Registry Extract in Romania (Extras de Carte Funciară) — Title Search & Verification",
+  "metaDescription": "How to obtain and read a Romanian land registry extract (extras de carte funciară): what the three sections show, informative vs authentication extracts, and how we verify title before you buy.",
+  "h1": "Land Registry Extracts in Romania: Your Title Search Starts Here",
+  "navLabelEn": "Land registry extract",
+  "roPair": "https://expert-intabulare.ro/servicii/servicii-ocpi/",
+  "whatsappPrefillEn": "Hello! I need a land registry extract (extras de carte funciara) obtained and checked for a property in Romania.",
+  "sections": [
+    {
+      "type": "html",
+      "heading": "What a Romanian land registry extract is",
+      "html": "<p>The <strong>extras de carte funciară</strong> is the official certified copy of a property's land book entry, issued by the county land registration office (OCPI) under the national agency ANCPI. It is the closest Romanian equivalent to a title search report: one document that tells you who owns the property, exactly what the property is, and what claims are attached to it.</p><p>Every serious step in a Romanian property transaction runs on this document. Notaries will not authenticate a sale without a fresh one; banks will not lend without it; EU grant authorities typically require one issued within the last 30 days.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "How to read it: the three sections",
+      "html": "<p>A land book entry has three parts, and each matters:</p><ul><li><strong>Part I (Foaia A) — the property.</strong> Cadastral number, location, surface area, land-use category, and buildings, if any. This is where you check whether the registered area matches what you think you are buying.</li><li><strong>Part II (Foaia B) — the owners.</strong> Who holds title, in what shares, and under which legal act (purchase, inheritance, court decision, restitution title). Co-ownership in undivided shares is common on agricultural land and changes your whole acquisition strategy.</li><li><strong>Part III (Foaia C) — encumbrances.</strong> Mortgages, easements (such as a neighbour's right of way or a power line corridor), usufruct, superficie rights, seizure notes, pending litigation, and sale prohibitions. Anything in this section can delay, complicate or kill a transaction — this is the section foreign buyers most often fail to read.</li></ul>"
+    },
+    {
+      "type": "table",
+      "heading": "The two types of extract",
+      "head": ["Type", "Purpose", "Key property"],
+      "rows": [
+        ["Extras pentru informare (informative)", "Due diligence, grant files, bank files, general verification", "Anyone can request it for any property; purely informational"],
+        ["Extras pentru autentificare (for authentication)", "Requested by the notary immediately before signing a sale or mortgage deed", "Blocks the land book for a short legal window so no competing registration can slip in before your deed"]
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "What we do beyond fetching the document",
+      "html": "<p>Obtaining the extract is the easy part — ANCPI even issues informative extracts online. Our value is the reading: we check the extract against the cadastral plan and the national geoportal, verify that the parcel geometry does not overlap a neighbour, compare the deed area with the registered and measured area, and translate the legal notes in Part III into plain English with a clear verdict: <em>safe to proceed, proceed with these conditions, or walk away</em>.</p><p>This is a desk service we provide for property <strong>anywhere in Romania</strong>, usually within days. For land acquisitions and PV projects we bundle it into a fuller <a href=\"/en/solar/land-due-diligence-survey-romania.html\">land due diligence survey</a> that adds field measurements.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "How current does an extract need to be?",
+          "a": "Legally an informative extract has no expiry, but in practice institutions want a recent one — grant authorities and banks commonly require issuance within 30 days. Since the land book can change any day, we always pull a fresh extract before giving an opinion."
+        },
+        {
+          "q": "Can a foreigner request an extract for a property they don't own?",
+          "a": "Yes. The Romanian land book is public: anyone can request an informative extract for any property, which is exactly what makes proper due diligence possible before you commit."
+        },
+        {
+          "q": "The property has no land book at all. What does that mean?",
+          "a": "It means the property has never been through first registration — common for rural land. There is nothing to extract yet; the path forward is cadastral registration. See our page on first registration of unregistered land."
+        },
+        {
+          "q": "How fast can you deliver a verification, and what does it cost?",
+          "a": "A single-parcel extract with a written plain-English reading is typically delivered within days of your request, for a small fixed-scope desk fee; multi-parcel portfolios are priced per parcel with the findings consolidated into one report. Send the cadastral numbers on WhatsApp and we confirm scope, fee and turnaround the same day."
+        }
+      ]
+    }
+  ],
+  "related": [
+    "/en/services/cadastral-registration.html",
+    "/en/guides/romanian-land-registry-explained.html",
+    "/en/solar/land-due-diligence-survey-romania.html",
+    "/en/guides/buying-land-in-romania.html"
+  ]
+}

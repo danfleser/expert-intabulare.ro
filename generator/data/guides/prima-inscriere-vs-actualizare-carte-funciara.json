@@ -1,0 +1,95 @@
+{
+  "slug": "prima-inscriere-vs-actualizare-carte-funciara",
+  "title": "Prima înscriere vs. actualizare carte funciară — diferențe",
+  "h1": "Prima înscriere vs. actualizarea cărții funciare: ce lucrare îți trebuie de fapt",
+  "metaDescription": "Nu știi dacă ai nevoie de primă înscriere sau doar de actualizare în cartea funciară? Diferențele, cazurile tipice, actele, termenele și costurile orientative pentru fiecare, explicate simplu.",
+  "whatsappTopic": "prima înscriere sau actualizarea cărții funciare",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Două lucrări diferite, adesea confundate",
+      "text": "„Vreau să-mi fac cadastrul” poate însemna, tehnic, două lucrări foarte diferite. Prima înscriere (prima înregistrare) este pentru imobilele care nu există încă în sistemul integrat de cadastru și carte funciară: terenul sau apartamentul nu are număr cadastral și nu are carte funciară deschisă. Actualizarea este pentru imobilele deja înscrise, la care realitatea s-a schimbat față de ce scrie în cartea funciară: ați construit sau demolat ceva, s-a schimbat categoria de folosință, suprafața măsurată diferă, adresa s-a modificat.\n\nDistincția nu e pedanterie: cele două lucrări au acte diferite, tarife diferite și termene diferite la OCPI. Prima întrebare pe care v-o punem la telefon este exact aceasta — iar răspunsul se află în 5 minute, dintr-un extras de carte funciară de informare sau dintr-o verificare pe geoportalul ANCPI."
+    },
+    {
+      "type": "table",
+      "heading": "Prima înscriere vs. actualizare — comparație",
+      "head": ["", "Prima înscriere", "Actualizare / modificare"],
+      "rows": [
+        ["Situația imobilului", "nu are număr cadastral, nu are carte funciară", "înscris în cartea funciară, dar datele nu mai corespund"],
+        ["Exemple tipice", "teren cu titlu din '91 nemăsurat vreodată; apartament fără CF individuală", "casă nouă pe teren intabulat; extindere; demolare; schimbare categorie de folosință; diferență de suprafață"],
+        ["Documentație", "documentație cadastrală de primă înregistrare", "documentație cadastrală de actualizare (înscriere construcție, modificare suprafață etc.)"],
+        ["Tarif ANCPI (regim normal)", "în prezent scutit de tarif", "se tarifează conform Ordinului 16/2019, per serviciu"],
+        ["Termen OCPI orientativ", "18 zile lucrătoare (8 în urgență)", "mai scurt de regulă, în funcție de serviciu"],
+        ["Rezultat", "carte funciară nouă, proprietar intabulat", "carte funciară actualizată cu situația reală"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Cazurile tipice de actualizare, pe scurt",
+      "text": "Înscrierea construcției: ați ridicat o casă pe un teren intabulat — construcția se adaugă în cartea funciară pe baza actelor de la primărie (autorizație, recepție, certificat de atestare a edificării) și a documentației cu relevee. Este cea mai frecventă actualizare și am dedicat un ghid separat actelor necesare.\n\nModificarea suprafeței: măsurătorile moderne arată altceva decât scrie în carte — se rezolvă în limitele și cu documentele prevăzute de regulament (detalii în ghidul despre diferențele de suprafață). Schimbarea categoriei de folosință: arabilul devine curte-construcții la construire, sau invers — se operează pe bază de documentație și, după caz, acte administrative. Demolarea: construcția radiată din teren se radiază și din cartea funciară, pe baza autorizației de desființare. Repoziționarea: imobilul e înscris, dar geometria lui e plasată greșit față de realitate — o corecție tehnică tot mai des întâlnită la imobilele înscrise în anii 2000.\n\nDacă imobilul dumneavoastră bifează mai multe dintre acestea (casă nouă + diferență de suprafață, de exemplu), ele se rezolvă de regulă într-o singură documentație de actualizare — nu plătiți lucrări separate."
+    },
+    {
+      "type": "process",
+      "heading": "Cum aflăm ce lucrare vă trebuie",
+      "steps": [
+        {
+          "title": "Verificarea în evidențe",
+          "text": "Cu adresa, numărul cadastral sau o poză după acte, verificăm în evidențele de cadastru dacă imobilul este înscris și ce anume scrie în cartea funciară."
+        },
+        {
+          "title": "Confruntarea cu realitatea",
+          "text": "Stabilim ce s-a schimbat: construcții noi, limite, suprafețe, folosință. La nevoie, cu o măsurătoare de constatare la fața locului."
+        },
+        {
+          "title": "Diagnosticul și oferta",
+          "text": "Vă spunem exact ce lucrare trebuie (primă înscriere, actualizare sau ambele — de exemplu teren neînscris + casă de înscris), cu actele, termenul și prețul pentru cazul concret."
+        },
+        {
+          "title": "Execuția și depunerea",
+          "text": "Măsurători, documentație, depunere la BCPI competent, urmărirea dosarului până la încheiere și extrasul final."
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        {
+          "q": "Am cadastru făcut în 2005. Mai e valabil sau trebuie refăcut?",
+          "a": "Cadastrul nu „expiră” — dacă imobilul e înscris și nimic nu s-a schimbat, nu trebuie refăcut nimic. Documentațiile vechi au însă uneori geometrii imprecise; dacă la o tranzacție sau la o măsurătoare vecină iese o neconcordanță, se rezolvă prin actualizare sau repoziționare, nu prin „cadastru de la zero”."
+        },
+        {
+          "q": "Am cumpărat recent un apartament cu carte funciară. Trebuie să fac ceva?",
+          "a": "Dacă notarul a depus actul la OCPI (procedura standard), sunteți deja intabulat — verificați cu un extras de informare de 20 lei. Nicio lucrare cadastrală nu e necesară dacă apartamentul nu a fost modificat."
+        },
+        {
+          "q": "Casa apare pe extras, dar cu suprafață mai mică decât în realitate (am extins-o). Ce lucrare e?",
+          "a": "Actualizare — înscrierea extinderii. Dacă extinderea a fost autorizată și recepționată, se face pe actele de la primărie plus relevee noi. Dacă nu a fost autorizată, întâi se clarifică situația la primărie — vedeți ghidul despre intabularea caselor."
+        },
+        {
+          "q": "Terenul e înscris, dar pe vechiul proprietar decedat. E primă înscriere?",
+          "a": "Nu — imobilul este înscris; ce lipsește este transferul dreptului. Se dezbate succesiunea la notar, iar intabularea moștenitorilor se face pe baza certificatului de moștenitor, fără documentație cadastrală nouă (dacă imobilul nu s-a schimbat fizic)."
+        },
+        {
+          "q": "Cât costă o actualizare față de o primă înscriere?",
+          "a": "Depinde de tipul actualizării: înscrierea unei construcții e comparabilă ca efort cu o primă înscriere (relevee, acte de la primărie), în timp ce o schimbare de categorie de folosință e mai simplă. Orientativ, actualizările pornesc de la circa 800 lei onorariu, plus tarifele OCPI aferente serviciului. Oferta exactă — după diagnostic."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Nu ghiciți ce lucrare vă trebuie — verificăm noi",
+      "text": "Trimiteți pe WhatsApp adresa imobilului sau o poză după acte și spuneți-ne ce s-a schimbat. Vă răspundem cu diagnosticul (primă înscriere sau actualizare), actele necesare și costul orientativ. Informațiile din acest ghid au caracter informativ și nu constituie consultanță juridică."
+    }
+  ],
+  "related": {
+    "services": ["actualizare-carte-funciara", "cadastru-si-intabulare", "intabulare-casa-constructie", "servicii-ocpi"],
+    "guides": ["diferenta-dintre-cadastru-si-intabulare", "suprafata-din-acte-difera-de-teren", "acte-necesare-intabulare-casa", "extras-carte-funciara-online", "taxe-si-tarife-ocpi-ancpi"]
+  },
+  "sources": [
+    "https://legislatie.just.ro/Public/DetaliiDocument/162860",
+    "https://cnpb.ro/assets/2021/02/ordinul-16-din-2019-tarife-ancpi.pdf",
+    "https://ms.ancpi.ro/termene/",
+    "https://ct.ancpi.ro/termene-servicii/"
+  ]
+}

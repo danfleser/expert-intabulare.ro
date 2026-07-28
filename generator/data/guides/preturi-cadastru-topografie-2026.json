@@ -1,0 +1,96 @@
+{
+  "slug": "preturi-cadastru-topografie-2026",
+  "title": "Prețuri cadastru și topografie 2026 — tarife orientative",
+  "h1": "Prețuri cadastru, intabulare și topografie în 2026 (orientative)",
+  "metaDescription": "Cât costă cadastrul și intabularea în 2026: prețuri orientative pentru teren, apartament, casă, dezmembrare, plan topografic, trasare. Plus tarifele oficiale ANCPI/OCPI.",
+  "whatsappTopic": "o ofertă de preț pentru o lucrare de cadastru sau topografie",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Cum se formează prețul unei lucrări de cadastru",
+      "text": "Prețul unei lucrări de cadastru sau topografie are două componente: onorariul persoanei autorizate ANCPI (negociat liber — nu există tarife impuse pentru topografi) și tarifele oficiale ANCPI/OCPI, care sunt fixe și publice. De aceea două oferte pentru „același” serviciu pot diferi mult: onorariul depinde de suprafață, de forma și accesibilitatea terenului, de calitatea actelor, de distanța de deplasare și de cât de complicată este situația juridică.\n\nToate prețurile din acest ghid sunt intervale orientative, culese din piața serviciilor de cadastru și topografie în 2026. Ele nu sunt o ofertă — prețul exact se poate stabili doar după ce topograful vede actele și înțelege situația concretă. Regula sănătoasă: cereți oferta pe situația dumneavoastră, nu comparați doar cifrele de pe site-uri."
+    },
+    {
+      "type": "table",
+      "heading": "Prețuri orientative pentru servicii de cadastru și topografie (2026)",
+      "head": ["Serviciu", "Interval orientativ", "Ce influențează prețul"],
+      "rows": [
+        ["Cadastru și intabulare teren", "1.400 – 2.500 lei", "suprafață, formă, intravilan/extravilan, calitatea actelor"],
+        ["Cadastru și intabulare casă cu teren", "1.400 – 2.500 lei și peste", "mărimea casei, anexe, dacă terenul e deja intabulat"],
+        ["Cadastru și intabulare apartament", "500 – 1.100 lei", "număr de camere, existența CF a blocului"],
+        ["Înscriere construcție nouă (casă existentă pe teren intabulat)", "de la 1.500 lei", "niveluri, relevee, stadiul actelor de la primărie"],
+        ["Dezmembrare teren", "1.200 – 2.800 lei (total, funcție de numărul de loturi)", "numărul de loturi rezultate, certificat de urbanism"],
+        ["Alipire (comasare) terenuri", "similar dezmembrării, per imobil implicat", "numărul imobilelor alipite"],
+        ["Ridicare topografică", "800 – 2.500 lei", "suprafață, relief, densitatea detaliilor cerute"],
+        ["Plan de situație (pentru certificat de urbanism / proiectare)", "800 – 900 lei", "scara cerută, avizarea OCPI"],
+        ["Plan topografic vizat OCPI pentru autorizația de construire", "de la 800 lei", "suprafață, termenul de avizare"],
+        ["Trasare teren / limite de proprietate", "500 – 1.200 lei", "numărul de puncte trasate, distanță"],
+        ["Actualizare / rectificare carte funciară", "de la 800 lei", "natura modificării, acte disponibile"],
+        ["Certificat energetic", "de la câteva sute de lei", "tip imobil (apartament/casă), suprafață"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Tarifele oficiale ANCPI/OCPI — ce plătiți statului",
+      "text": "Separat de onorariul topografului, există tarifele ANCPI, stabilite prin Ordinul 16/2019 (cu modificările ulterioare, inclusiv Ordinul 441/2025). Cele mai relevante pentru persoane fizice:\n\nPrima înregistrare a imobilului (recepție + înființarea cărții funciare) este în prezent scutită de tarif în regim normal — statul nu vă ia bani pentru prima intabulare a unui imobil neînscris. Extrasul de carte funciară de informare costă 20 lei online (epay.ancpi.ro) sau 25 lei la ghișeu; extrasul pentru autentificare, folosit de notari, costă 40 lei. Intabularea dreptului la cumpărare (când imobilul are deja cadastru și doar se transferă dreptul) se tarifează la 0,15% din prețul din contract pentru persoane fizice (minimum 60 lei) și 0,5% pentru persoane juridice — de regulă notarul o încasează și o virează la depunerea actului.\n\nPentru soluționare în regim de urgență, OCPI percepe un tarif suplimentar de urgență, iar termenul scade semnificativ (la prima înregistrare: de la 18 la 8 zile lucrătoare). Tarifele exacte pe fiecare serviciu sunt publicate pe paginile OCPI județene — le verificăm pentru dumneavoastră la fiecare lucrare."
+    },
+    {
+      "type": "paragraph",
+      "heading": "De ce diferă atât de mult ofertele între topografi",
+      "text": "Onorariile nu sunt reglementate, iar diferențele reflectă de obicei lucruri concrete: cine plătește deplasarea și câte drumuri sunt incluse, dacă oferta include obținerea actelor de la primărie sau doar măsurătorile, dacă include și taxele de urgență, cât de multă muncă juridică pregătitoare cere dosarul (succesiuni, diferențe de suprafață, plan parcelar lipsă). O ofertă vizibil mai mică poate exclude exact pașii care durează.\n\nCând comparați oferte, întrebați explicit: ce este inclus (măsurători, documentație, depunere OCPI, ridicarea încheierii), cine plătește tarifele OCPI și de urgență, câte deplasări sunt incluse și ce se întâmplă dacă OCPI cere completări. Un răspuns clar la aceste patru întrebări spune mai mult despre seriozitatea topografului decât prețul afișat.\n\nPentru lucrări în județul Alba, deplasarea este inclusă; în județele învecinate se calculează în funcție de distanță — spuneți-ne localitatea și primiți costul final, fără surprize."
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente despre prețuri",
+      "items": [
+        {
+          "q": "De ce nu găsesc nicăieri un preț fix pentru cadastru?",
+          "a": "Pentru că nu există două lucrări identice: aceeași suprafață poate însemna un dosar de o săptămână sau unul de trei luni, în funcție de acte, vecinătăți și istoric. Orice preț fix afișat fără a vedea actele este fie orientativ, fie va fi ajustat ulterior. Intervalele din acest ghid sunt exact asta: repere oneste, nu oferte."
+        },
+        {
+          "q": "Prima intabulare chiar este gratuită la stat?",
+          "a": "Da — serviciile de primă înregistrare (recepția documentației și înființarea cărții funciare) sunt în prezent scutite de tarif ANCPI în regim normal, conform Ordinului 16/2019 cu modificările ulterioare. Plătiți însă onorariul topografului pentru documentație și, dacă alegeți regim de urgență, tariful de urgență al OCPI."
+        },
+        {
+          "q": "Cât costă intabularea când cumpăr o casă care are deja cadastru?",
+          "a": "În acest caz nu mai e nevoie de topograf: notarul depune actul la OCPI, iar tariful de intabulare este 0,15% din prețul din contract pentru persoane fizice, minimum 60 lei (0,5% pentru firme)."
+        },
+        {
+          "q": "Regimul de urgență merită banii?",
+          "a": "Dacă aveți un termen real — o vânzare programată, un credit, o finanțare cu deadline — da: la prima înregistrare, termenul scade de la 18 la 8 zile lucrătoare. Dacă nu vă presează nimic, regimul normal este alegerea economică, mai ales că prima înregistrare normală nu are tarif ANCPI."
+        },
+        {
+          "q": "Prețul include și actele de la primărie (certificat fiscal, adeverințe)?",
+          "a": "Depinde de ofertă — de aceea trebuie întrebat explicit. La lucrările noastre vă spunem de la început ce obținem noi și ce trebuie ridicat personal (unele acte se eliberează doar titularului)."
+        },
+        {
+          "q": "Există cadastru gratuit prin programul național?",
+          "a": "Da, prin PNCCF — dar numai când primăria derulează înregistrarea sistematică în localitatea sau sectorul cadastral unde se află imobilul, nu la cerere individuală. Am explicat pe larg în ghidul despre cadastrul gratuit PNCCF cine beneficiază și cum aflați dacă localitatea dumneavoastră e pe listă."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Cereți un preț exact pentru situația dumneavoastră",
+      "text": "Trimiteți pe WhatsApp localitatea, tipul lucrării și o poză după acte. Primiți o ofertă concretă — cu tot ce include, termen realist și fără costuri ascunse. Prețurile din acest ghid sunt orientative; informațiile au caracter informativ."
+    }
+  ],
+  "related": {
+    "services": ["cadastru-si-intabulare", "intabulare-teren", "intabulare-apartament", "plan-topografic", "dezmembrare-alipire", "trasare-teren"],
+    "guides": ["taxe-si-tarife-ocpi-ancpi", "acte-necesare-intabulare-teren", "cadastru-gratuit-pnccf", "cat-dureaza-cadastrul-si-intabularea", "dezmembrare-teren-pasi"]
+  },
+  "sources": [
+    "https://www.necesit.ro/preturi/cadastru-topografie-geodezie/cadastru-si-intabulare-pret",
+    "https://www.necesit.ro/preturi/cadastru-topografie-geodezie/cadastru-apartament-pret",
+    "https://www.necesit.ro/preturi/cadastru-topografie-geodezie/dezmembrare-sau-alipire-mobil-pret",
+    "https://www.necesit.ro/preturi/cadastru-topografie-geodezie/ridicare-topografica-pret",
+    "https://eghiseul.ro/cat-costa-cadastrul-si-intabularea/",
+    "https://topocadvision.ro/preturi/",
+    "https://www.veritatopo.ro/preturi.html",
+    "https://www.daibau.ro/preturi/cadastru_geodezie_topografie",
+    "https://cnpb.ro/assets/2021/02/ordinul-16-din-2019-tarife-ancpi.pdf",
+    "https://www.ancpi.ro/transparenta07-02-2025/",
+    "https://epay.ancpi.ro/epay/SelectProd.action?prodId=14200",
+    "https://ms.ancpi.ro/termene/"
+  ]
+}

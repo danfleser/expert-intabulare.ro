@@ -1,0 +1,56 @@
+{
+  "path": "/en/eu-funds/surveying-eu-funded-projects-romania.html",
+  "title": "Surveying Documents for EU-Funded Projects in Romania — Stage by Stage",
+  "metaDescription": "The surveying and cadastral documents EU grant files require in Romania, stage by stage: land book extracts, ownership proof, OCPI-stamped plans, as-built and final registration. Deadline-driven delivery.",
+  "h1": "Surveying Documentation for EU-Funded Projects in Romania",
+  "navLabelEn": "EU-funded projects",
+  "roPair": "https://expert-intabulare.ro/fonduri-europene/",
+  "whatsappPrefillEn": "Hello! We have an EU-funded project in Romania and need the surveying/cadastral documentation.",
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Grant files run on land documents — and deadlines",
+      "html": "<p>Whether the money comes from the PNRR recovery plan, agricultural funds (AFIR), regional programs or national schemes, Romanian grant files share one anatomy: at defined stages, the beneficiary must prove <strong>what the land is, who owns it, and what stands on it</strong> — with documents only the cadastral system produces. The requirements arrive with short, hard deadlines, and \"the land papers weren't ready\" is one of the most common reasons Romanian projects lose funding they had already won.</p><p>For foreign-owned companies implementing projects in Romania, this page maps what gets asked when, so your consultant's requests stop being surprises. When a deadline is already burning: message us on WhatsApp with the date, and we plan backwards from it — that is how we work with funded projects.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "What is required at each project stage",
+      "head": ["Stage", "Typical requirements", "Watch out for"],
+      "rows": [
+        ["Application", "Recent land book extract (commonly required ≤30 days old), proof of ownership or usable land right, site identification plans", "Unregistered land — first registration takes weeks you may not have; encumbrances in Part III can affect eligibility"],
+        ["Contracting", "Updated extract, site and delimitation plan (PAD), proof the right covers the whole implementation period", "Leases and informal arrangements the program does not accept; rights must often be registered, e.g. superficie"],
+        ["Design & permits (SF/DALI, DTAC)", "OCPI-stamped topographic survey, site plans for the urbanism certificate, terrain data for designers", "The OCPI reception has its own timeline — file early; unstamped plans are rejected from the permit file"],
+        ["Implementation", "Construction stakeout with official report, verification measurements, updated documentation after changes", "Undocumented design changes surface painfully at reimbursement"],
+        ["Completion & reimbursement", "As-built documentation, acceptance reports, registration of the finished construction in the land book", "Building registration is commonly mandatory in the sustainability period — start it at acceptance, not when audited"]
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "What we do — and how fast",
+      "html": "<p>We produce every land-side document in that table: extracts and due diligence readings, <a href=\"/en/services/cadastral-registration.html\">first registrations</a>, PADs, <a href=\"/en/services/topographic-survey.html\">OCPI-stamped topographic surveys</a>, <a href=\"/en/services/building-stakeout.html\">stakeouts with official reports</a>, as-built files and <a href=\"/en/services/construction-registration.html\">final building registration</a>. Where the file needs pieces outside our trade — succession deeds, permits — we tell you immediately and coordinate with the notary or consultant handling them.</p><p>On timing, honesty is the service: OCPI processing times are legal facts we can accelerate only with the official urgency fee, and an unsettled inheritance cannot be surveyed away. What we can do is compress everything within our control, run steps in parallel, and tell you on day one whether your deadline is achievable — so if plan B (a different parcel, a registered-right structure, a phased submission) is needed, you learn it while there is still time to execute it.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Our consultant asked for an 'extras CF de dată recentă' and a 'PAD'. What are these?",
+          "a": "A recent land book extract — the official ownership record, usually required issued within the last 30 days — and the site and delimitation plan, the cadastral drawing defining the parcel. Both are standard grant-file items; we obtain and prepare them routinely. Unfamiliar terms are covered in our glossary of Romanian land terms."
+        },
+        {
+          "q": "The program requires ownership but the land is only leased. Is the project dead?",
+          "a": "Not necessarily — many programs accept defined registered rights (superficie, concession) for defined durations, and program guides differ. The legal reading is your consultant's; once the acceptable structure is chosen, we prepare the cadastral documentation to register it."
+        },
+        {
+          "q": "Can you work directly with our funding consultant?",
+          "a": "Preferably — consultants know the file, we know the land machinery, and direct coordination removes a translation layer. Many of our funded-project engagements come through consultants for exactly that reason."
+        }
+      ]
+    }
+  ],
+  "related": [
+    "/en/services/cadastral-registration.html",
+    "/en/services/topographic-survey.html",
+    "/en/services/construction-registration.html",
+    "/en/guides/glossary-romanian-land-terms.html"
+  ]
+}

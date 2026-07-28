@@ -1,0 +1,66 @@
+{
+  "slug": "checklist-teren-unitate-procesare",
+  "title": "Checklist teren: unitate de procesare produse agricole | Expert Intabulare",
+  "h1": "Checklist de teren pentru unitatea de procesare finanțată prin AFIR",
+  "metaDescription": "Terenul pentru o unitate de procesare produse agricole pe fonduri AFIR: apă și canalizare în plan, drum de acces înscris, intabulare, DSVSA. Checklist de la topograf.",
+  "whatsappTopic": "verificarea terenului pentru unitate de procesare",
+  "hook": "deadline",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Procesarea are două rânduri de exigențe: finanțatorul și autoritățile sanitare",
+      "html": "<p>Unitățile de procesare — abatoare mici, carmangerii, brutării, prese de ulei, unități de lactate, depozite frigorifice — sunt printre investițiile constant finanțate prin AFIR și prin GAL-uri. Față de o hală obișnuită, terenul lor trebuie să mulțumească un client în plus: <strong>autoritatea sanitar-veterinară (DSVSA)</strong>, ale cărei cerințe de flux, apă potabilă și evacuare a apelor uzate se traduc direct în cerințe de amplasament. Un teren care „merge” pentru un depozit poate fi nepotrivit pentru o carmangerie — nu din cauza cadastrului, ci a canalizării.</p><p>De aceea checklist-ul de mai jos are două straturi: stratul juridic-cadastral (comun oricărei investiții) și stratul tehnic-sanitar (specific procesării), unde utilitățile nu mai sunt un detaliu din plan, ci un criteriu de eligibilitate practică a amplasamentului.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Checklist: amplasamentul unității de procesare",
+      "items": [
+        "Teren intabulat, extras CF pe solicitant sau drept real acceptat de ghid (superficie/concesiune) pe toată durata cerută",
+        "Funcțiune urbanistică compatibilă cu producția agroalimentară — confirmată prin certificat de urbanism, nu presupusă",
+        "APA: sursă reală (rețea publică cu presiune/debit suficiente sau foraj propriu autorizabil) — poziționată în planul topografic",
+        "CANALIZAREA: racord la rețea sau soluție proprie autorizabilă (stație de epurare/bazin vidanjabil) cu spațiul necesar pe teren — DSVSA și Apele Române nu negociază aici",
+        "Drumul de acces înscris în CF sau pe domeniul public, cu gabarit pentru autospeciale și trafic de aprovizionare",
+        "Distanțele față de vecinătăți sensibile (locuințe, surse de poluare) — verificate la faza de CU, nu la autorizarea sanitară",
+        "Construcțiile existente intabulate; cele care intră în fluxul tehnologic, apte de autorizare sanitară",
+        "Spațiu pentru fluxuri separate în incintă: acces materie primă vs. produs finit, zona de deșeuri — se verifică pe planul de situație",
+        "Curent electric cu puterea necesară echipamentelor frigorifice — traseul și capacitatea, confirmate cu distribuitorul",
+        "Extras CF ≤30 de zile la depunere, ca la orice dosar"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Ce livrăm noi pentru acest tip de proiect",
+      "html": "<p>Partea noastră în dosarul unei unități de procesare: <strong>planul topografic vizat OCPI cu toate utilitățile</strong> — apă, canal, curent, gaz, cu cămine și cote — pe care proiectantul tehnolog și cel de rețele își construiesc soluțiile; <strong>planul de situație pentru CU</strong> cu fluxurile de incintă schițate împreună cu proiectantul; documentațiile cadastrale pentru orice regularizare (intabulări, alipiri pentru incintă compactă, dezlipirea suprafeței pentru superficie); iar la execuție, trasarea, verificările de cote (critice la pardoselile cu pante de scurgere impuse sanitar) și as-built-ul pentru recepție și intabulare. Nu facem proiectarea tehnologică sau avizarea DSVSA — colaborăm cu proiectanții care le fac, iar planurile noastre sunt limbajul comun al tuturor.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Satul nu are canalizare. Se mai poate face unitatea de procesare?", "a": "Adesea da, cu soluție proprie — bazin vidanjabil sau ministație de epurare — dacă terenul are spațiul și condițiile pentru autorizarea ei. Exact de aceea punem canalizarea în capul listei: soluția proprie consumă suprafață și buget, și trebuie să apară din prima în planul de situație și în devizul proiectului." },
+        { "q": "Pot pune unitatea în fosta fermă zootehnică cumpărată de la CAP?", "a": "Incintele vechi sunt tentante (utilități, poziție), dar vin cu bagaj: construcții neintabulate, sarcini vechi, suprapuneri. Facem auditul complet al incintei înainte de decizie — uneori e chilipir, alteori e capcană; diferența o arată actele și măsurătorile, nu aspectul." },
+        { "q": "Drumul până la unitate trece prin curtea fostei ferme, care are alt proprietar. E ok?", "a": "Nu fără forma juridică: servitute de trecere înscrisă în CF sau acces alternativ pe domeniul public. „Am înțelegere cu vecinul” nu trece de evaluare și nici de autorizare — iar înscrierea servituții cere documentație cadastrală și act notarial, deci timp planificabil." },
+        { "q": "DSVSA se pronunță pe teren înainte de proiect?", "a": "Formal, avizarea vine pe documentație, dar practic merită o discuție prealabilă la DSVSA cu schița de flux pe planul de situație — evită reproiectări. Pregătim planul de situație exact pentru astfel de discuții, înainte ca proiectul să fie „turnat în beton” pe hârtie." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Pregătești o unitate de procesare?",
+      "text": "Trimite-ne pe WhatsApp extrasul CF al terenului vizat și ce vrei să procesezi — verificăm amplasamentul pe checklist, cu accent pe apă, canal și acces."
+    }
+  ],
+  "related": [
+    "checklist-teren-hala-productie",
+    "documentatie-teren-hala-productie-fonduri",
+    "documentatie-topografica-afir",
+    "plan-topografic-vizat-ocpi",
+    "arenda-comodat-concesiune-finantare",
+    "intabulare-teren-agricol-fonduri-europene",
+    "/servicii/topografie-constructii/",
+    "/dictionar/carte-funciara.html"
+  ],
+  "sources": [
+    "https://www.afir.ro/",
+    "https://www.ansvsa.ro/"
+  ]
+}

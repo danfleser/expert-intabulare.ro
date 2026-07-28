@@ -1,0 +1,74 @@
+{
+  "slug": "intabulare-teren-parc-fotovoltaic",
+  "title": "Intabularea terenului pentru parc fotovoltaic — de la acte vechi la CF curat",
+  "h1": "Intabularea terenului: condiția zero pentru orice finanțare fotovoltaică",
+  "metaDescription": "Intabularea terenului pentru parc fotovoltaic: de la acte vechi sau moștenire la carte funciară curată. Măsurători, documentație cadastrală, înscriere OCPI.",
+  "whatsappTopic": "intabularea unui teren pentru un parc fotovoltaic",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Fără carte funciară nu există proiect — oricât de bun ar fi terenul",
+      "html": "<p>Poți avea cel mai bun teren din județ — plan, orientat perfect, lângă stația de transformare — dacă nu e intabulat, pentru bancă și pentru autorități el nu există. Nu poți semna superficie sau vânzare la notar în formă opozabilă, nu poți obține autorizație de construire, nu poți ipoteca nimic. Intabularea — prima înscriere a imobilului în cartea funciară, pe baza documentației cadastrale recepționate de OCPI — este condiția zero a oricărui proiect fotovoltaic, iar în zonele rurale din Transilvania o parte semnificativă a terenurilor agricole încă nu au parcurs-o.</p><p>Vestea bună: intabularea e o procedură cu pași clari, reglementată prin Ordinul ANCPI nr. 700/2014, iar cu actele în regulă durează săptămâni, nu ani. Vestea mai puțin bună: „cu actele în regulă” e partea care se verifică înainte de orice promisiune de calendar. Trimite-ne pe WhatsApp actele pe care le ai — extras CF vechi, titlu de proprietate, certificat de moștenitor — și îți spunem în aceeași zi pe ce traseu ești și cât durează realist.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Situațiile tipice pe care le întâlnim la terenuri de parc fotovoltaic",
+      "html": "<ul><li><strong>Titlu de proprietate din anii '90, fără cadastru</strong> — cel mai frecvent caz: terenul are titlu emis pe legile fondului funciar, dar nu a fost măsurat și înscris niciodată. Se face identificarea în <a href=\"/parcuri-fotovoltaice/plan-parcelar-identificare-teren.html\">planul parcelar al tarlalei</a>, măsurătoarea și prima înscriere.</li><li><strong>Moștenire nedezbătută</strong> — proprietarul din acte a decedat, iar succesiunea nu s-a făcut. Dezbaterea succesorală la notar precedă sau însoțește intabularea; noi pregătim partea tehnică în paralel, ca să nu se piardă luni în serie.</li><li><strong>Diferențe între acte și teren</strong> — suprafața din titlu nu corespunde cu terenul folosit, vecinii au gard peste limită, drumul de exploatare taie parcela. Se rezolvă documentat, cu măsurători și, unde e cazul, cu procedurile OCPI aferente.</li><li><strong>Mai mulți coproprietari</strong> — terenul e pe indiviziune între moștenitori; ordinea corectă a pașilor devine critică, am detaliat-o pe pagina despre <a href=\"/parcuri-fotovoltaice/teren-mai-multi-proprietari-parc-fotovoltaic.html\">terenurile cu mai mulți proprietari</a>.</li></ul><p>Fiecare traseu are altă durată și alte riscuri — de aceea evaluarea pe acte, înainte de antecontract, e cea mai ieftină asigurare a proiectului. Decision-tree-ul complet e pe pagina despre <a href=\"/parcuri-fotovoltaice/teren-neintabulat-parc-fotovoltaic.html\">terenurile neintabulate</a>.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Cum decurge intabularea, pas cu pas",
+      "html": "<p>Partea noastră începe cu verificarea actelor și a evidențelor OCPI, continuă cu măsurătoarea terenului — limitele se stabilesc pe teren, cu vecinii unde e nevoie, nu se desenează din birou — și se încheie cu documentația cadastrală depusă la OCPI: plan de amplasament și delimitare, memorii, inventarul de coordonate în Stereo 70. După recepția documentației și înscrierea în cartea funciară, imobilul are număr cadastral și CF propriu, iar notarul poate autentifica actele proiectului.</p><p>Două detalii de calendar pe care finanțatorii le verifică mereu: extrasul de carte funciară pentru autentificare la notar e valabil 10 zile, iar pentru analiza de creditare se cere de regulă un extras de informare recent, de maximum 30 de zile — deci succesiunea notariat–bancă se programează pe zile, nu „când apucăm”. Un dosar cadastral făcut curat de la început elimină exact notele de completare care strică astfel de calendare.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Durate orientative pe trasee tipice",
+      "head": ["Situația de pornire", "Durată orientativă", "De ce depinde"],
+      "rows": [
+        ["Acte complete, teren fără litigii", "câteva săptămâni", "programarea măsurătorii și termenele OCPI în vigoare"],
+        ["Titlu vechi, identificare în plan parcelar", "săptămâni–luni", "calitatea planului parcelar și situația vecinilor"],
+        ["Moștenire nedezbătută", "luni", "dezbaterea succesorală la notar, numărul de moștenitori"],
+        ["Diferențe acte–teren sau suprapuneri", "de la caz la caz", "procedurile OCPI necesare; se evaluează pe documente"]
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "De ce contează cine face documentația",
+      "html": "<p>Pentru un proiect fotovoltaic, intabularea nu e un act administrativ izolat — e fundația pe care urmează <a href=\"/parcuri-fotovoltaice/alipire-parcele-teren.html\">alipirea parcelelor</a>, <a href=\"/parcuri-fotovoltaice/superficie-parc-fotovoltaic.html\">superficia cerută de finanțator</a> și autorizarea. O primă înscriere făcută cu limite aproximative se plătește scump mai târziu, când suprapunerile ies la iveală fix în due diligence. Noi măsurăm de la început la precizia de care va fi nevoie în toate etapele următoare, cu GNSS RTK la ±2–3 cm, și păstrăm baza de date pentru tot ciclul de viață al proiectului.</p><p>Colaborăm cu dezvoltatori și constructori, dar lucrăm la fel de des direct cu proprietarii care vor să-și pregătească terenul pentru vânzare sau superficie — un teren intabulat se negociază de pe altă poziție.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Cine plătește intabularea: proprietarul sau dezvoltatorul?",
+          "a": "Se negociază. În practică, dezvoltatorul avansează adesea costul ca să deblocheze proiectul, cu reglarea în prețul terenului sau în redevența de superficie. Important e ca obligația să fie clară în antecontract, cu termene."
+        },
+        {
+          "q": "Se poate semna antecontractul înainte de intabulare?",
+          "a": "Da, și e practica uzuală: antecontractul fixează înțelegerea, iar transferul sau superficia se autentifică după înscrierea în CF. Recomandarea noastră: condiționează plățile de etapele cadastrale efectiv finalizate, nu de promisiuni de termen."
+        },
+        {
+          "q": "Verificați și terenuri din alte județe?",
+          "a": "Verificările pe acte și evidențe le facem pentru orice județ, de la birou. Măsurătorile de teren le facem în Alba și în județele vecine: Cluj, Mureș, Sibiu, Hunedoara."
+        },
+        {
+          "q": "Ce acte trebuie să vă trimit pentru evaluare?",
+          "a": "Ce ai: titlu de proprietate, contracte vechi, certificat de moștenitor, extras CF dacă există, plus localitatea și tarlaua. Pozele actelor trimise pe WhatsApp sunt suficiente pentru prima evaluare."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/teren-neintabulat-parc-fotovoltaic.html", "label": "Teren neintabulat — trasee și durate" },
+    { "href": "/parcuri-fotovoltaice/plan-parcelar-identificare-teren.html", "label": "Identificarea terenului în planul parcelar" },
+    { "href": "/parcuri-fotovoltaice/alipire-parcele-teren.html", "label": "Alipirea parcelelor după intabulare" },
+    { "href": "/parcuri-fotovoltaice/superficie-parc-fotovoltaic.html", "label": "Superficie pentru parc fotovoltaic" },
+    { "href": "/servicii/intabulare-teren/", "label": "Intabulare teren — serviciul de bază" },
+    { "href": "/dictionar/intabulare.html", "label": "Dicționar: intabulare" }
+  ],
+  "sources": [
+    { "url": "https://legislatie.just.ro/Public/DetaliiDocument/160177", "title": "Ordinul ANCPI nr. 700/2014 — regulamentul de avizare, recepție și înscriere" }
+  ]
+}

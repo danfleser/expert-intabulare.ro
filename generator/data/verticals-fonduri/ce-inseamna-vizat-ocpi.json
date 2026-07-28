@@ -1,0 +1,60 @@
+{
+  "slug": "ce-inseamna-vizat-ocpi",
+  "title": "Ce înseamnă „vizat OCPI” și de ce cere finanțatorul asta | Expert Intabulare",
+  "h1": "„Vizat OCPI”: ce înseamnă exact și de ce apare în toate ghidurile",
+  "metaDescription": "Ce înseamnă plan vizat OCPI: recepția tehnică conform Ordinului 700/2014, cine o poate obține, cum arată viza și de ce o cere finanțatorul și primăria.",
+  "whatsappTopic": "ce înseamnă plan vizat OCPI",
+  "hook": "none",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Răspunsul scurt",
+      "html": "<p><strong>„Vizat OCPI” înseamnă că planul a trecut prin recepția tehnică a Oficiului de Cadastru și Publicitate Imobiliară</strong>: un inspector a verificat că măsurătorile sunt executate de o persoană autorizată ANCPI, în sistemul național de coordonate Stereo 70, după regulile Ordinului ANCPI nr. 700/2014, și că rezultatul se integrează corect în evidențele naționale. Confirmarea se materializează printr-un proces-verbal de recepție și marcajul aplicat pe plan — „viza” din limbajul curent.</p><p>Cu alte cuvinte: un plan vizat nu e doar desenul unui specialist — e un document verificat de instituția care ține evidența oficială a imobilelor din România. De aceea îl cer primăriile la autorizare, proiectanții la SF/DALI (prin HG 907/2016) și finanțatorii în anexele tehnice ale ghidurilor: viza le garantează tuturor că lucrează pe aceeași realitate, verificată independent.</p>"
+    },
+    {
+      "type": "process",
+      "heading": "Cum se obține viza, în patru pași",
+      "steps": [
+        { "title": "Măsurătorile", "text": "O persoană autorizată ANCPI măsoară terenul în sistem național — GPS RTK, stație totală — cu toate detaliile cerute de scopul planului." },
+        { "title": "Redactarea documentației", "text": "Planul se întocmește la scara potrivită, cu inventar de coordonate, încadrare în zonă și conținutul cerut de regulament pentru tipul respectiv de lucrare." },
+        { "title": "Depunerea la OCPI", "text": "Documentația intră la recepție tehnică; inspectorul verifică proveniența măsurătorilor, corectitudinea calculelor și integrarea cu imobilele deja înscrise." },
+        { "title": "Recepția", "text": "La aviz favorabil, planul primește procesul-verbal de recepție și marcajul OCPI — de acum e „vizat” și utilizabil în dosare. La observații, executantul corectează și redepune." }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Ce NU înseamnă viza — trei confuzii frecvente",
+      "html": "<p><strong>Viza nu certifică proprietatea.</strong> Recepția tehnică validează măsurătorile, nu dreptul — dovada proprietății rămâne extrasul de carte funciară. Sunt documente complementare, nu interschimbabile.</p><p><strong>Viza nu e permanentă „prin lege”.</strong> Planul vizat rămâne valabil cât timp reflectă realitatea; instituțiile cer plan „actualizat”, iar un plan vizat acum cinci ani, pe un teren între timp construit, nu mai ajută pe nimeni.</p><p><strong>Viza nu se poate „aranja” fără măsurători reale.</strong> Recepția verifică proveniența și coerența datelor; un plan desenat din ortofoto sau copiat dintr-o lucrare veche nu trece — și nici n-ar trebui, pentru că pe planul acela cineva chiar va proiecta o clădire.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Ghidul cere „plan de amplasament vizat OCPI”. E același lucru cu planul topografic vizat?", "a": "Nu chiar — planul de amplasament și delimitare (PAD) e piesă de cadastru, planul topografic e piesă de proiectare; ambele trec prin recepția OCPI, dar au conținut și rol diferit. Trimite-ne formularea exactă din ghid și îți spunem care dintre ele ți se cere de fapt — confuzia asta produce lunar dosare întoarse." },
+        { "q": "Cât durează obținerea vizei?", "a": "Recepția la OCPI durează de regulă de la câteva zile la două săptămâni, în funcție de oficiu și de tipul lucrării, peste timpul de măsurare și redactare. Detalii pe pagina noastră despre termene." },
+        { "q": "Cine poate depune pentru viză — pot merge eu, ca beneficiar?", "a": "Documentația o întocmește și o susține persoana autorizată ANCPI care a executat măsurătorile — inclusiv răspunsurile la eventualele observații ale inspectorului. Ca beneficiar, treaba ta se termină la comandă; restul e răspunderea noastră profesională." },
+        { "q": "Cum verific dacă un plan pe care îl am e într-adevăr vizat?", "a": "Caută marcajul de recepție și numărul procesului-verbal pe planșă, plus autorizația ANCPI a executantului în cartuș. Dacă ai dubii, trimite-ne o poză a planului pe WhatsApp — recunoaștem în două minute dacă e piesă recepționată sau doar un desen frumos." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Ți se cere un plan vizat OCPI?",
+      "text": "Trimite-ne pe WhatsApp formularea exactă din ghid sau certificatul de urbanism — îți spunem ce piesă ți se cere de fapt, cât durează și cât costă orientativ."
+    }
+  ],
+  "related": [
+    "plan-topografic-vizat-ocpi",
+    "plan-amplasament-delimitare-pad",
+    "termene-avizare-ocpi",
+    "topograf-autorizat-ancpi-verificare",
+    "aviz-ocpi-respins-motive",
+    "coordonate-stereo-70",
+    "/servicii/plan-topografic/",
+    "/dictionar/ordinul-700-2014.html"
+  ],
+  "sources": [
+    "https://legislatie.just.ro/Public/DetaliiDocument/159910",
+    "https://www.ancpi.ro/"
+  ]
+}

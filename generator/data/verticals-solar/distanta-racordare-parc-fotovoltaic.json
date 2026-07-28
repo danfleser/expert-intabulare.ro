@@ -1,0 +1,63 @@
+{
+  "slug": "distanta-racordare-parc-fotovoltaic",
+  "title": "Distanța de racordare a parcului fotovoltaic — traseul real, nu linia dreaptă",
+  "h1": "Distanța până la punctul de racordare: de ce traseul real bate linia dreaptă din birou",
+  "metaDescription": "Distanța de racordare a unui parc fotovoltaic nu e linia dreaptă de pe hartă. Traseul real, măsurat topografic, decide costul racordului și servituțile necesare.",
+  "whatsappTopic": "măsurarea traseului de racordare pentru un parc fotovoltaic",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Kilometrul de racord se plătește pe traseul real",
+      "html": "<p>Distanța până la punctul de racordare e unul dintre cei mai mari factori de cost ai unui proiect fotovoltaic — și unul dintre cei mai prost estimați. Reflexul obișnuit e să măsori linia dreaptă pe hartă între teren și stația sau linia vizată. Numai că niciun cablu nu merge în linie dreaptă: traseul real urmează drumuri și limite de proprietate, ocolește obstacole și traversează terenurile altora — iar costul racordării, care e integral în sarcina ta ca beneficiar, se calculează pe kilometrii reali, nu pe cei din birou.</p><p>Noi măsurăm traseul real: ridicarea topografică a coridorului, profilul longitudinal pentru proiectantul de rețea și identificarea fiecărei cărți funciare traversate. Cu aceste date, estimarea de cost devine calcul, iar negocierile cu proprietarii de pe traseu încep devreme, nu în criză de timp.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "De ce linia dreaptă minte",
+      "html": "<p>Între linia trasă cu rigla și traseul construibil apar sistematic diferențe, din câteva surse:</p><ul><li><strong>Traseul urmează drumurile și limitele</strong> — cablurile subterane se pozează de regulă de-a lungul drumurilor publice și al limitelor de proprietate, nu prin diagonala tarlalelor; asta lungește traseul de la prima schiță.</li><li><strong>Ocolirile</strong> — cursuri de apă, căi ferate, construcții, alte rețele existente cu culoarele lor de protecție: fiecare traversare sau ocolire adaugă lungime și lucrări speciale.</li><li><strong>Relieful</strong> — pe teren frământat, lungimea reală a traseului e mai mare decât proiecția lui pe hartă, iar pantele pot impune schimbări de coridor.</li><li><strong>Proprietarii de pe traseu</strong> — fiecare parcelă privată traversată înseamnă o <a href=\"/parcuri-fotovoltaice/servitute-trecere-cablu-electric.html\">servitute de trecere</a> negociată și înscrisă per carte funciară; un singur proprietar care refuză poate muta coridorul cu totul.</li></ul><p>Diferența dintre linia dreaptă și traseul real nu e o rotunjire — pe multe proiecte, ea schimbă ordinea de mărime a bugetului de racordare și, uneori, verdictul asupra terenului însuși.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Contextul ATR: unde intră măsurătoarea în procedura de racordare",
+      "html": "<p>Procedura de racordare are pași clari: avizul tehnic de racordare (ATR) emis de operatorul de distribuție — sau de Transelectrica, la puteri mari — apoi contractul de racordare, cu costurile în sarcina beneficiarului, punerea în funcțiune și certificatul de racordare. Detalii despre aviz, pe scurt, și în <a href=\"/dictionar/atr-aviz-tehnic-de-racordare.html\">dicționar la ATR</a>.</p><p>Măsurătoarea topografică a traseului nu înlocuiește niciun pas din procedură — dar alimentează aproape fiecare pas: soluția de racordare se proiectează pe date reale de teren, costul din contractul de racordare depinde de lungimea și de condițiile traseului, iar servituțile de pe coridor trebuie clarificate înainte ca proiectul să fie finanțabil. Cine măsoară traseul târziu descoperă târziu și costul, și proprietarii-problemă.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Ce măsurăm pe traseu",
+      "html": "<p>Pentru coridorul de racordare livrăm pachetul de care are nevoie proiectantul de rețea:</p><ul><li><a href=\"/parcuri-fotovoltaice/ridicare-topografica-racord-electric.html\">ridicarea topografică a traseului</a> — planimetrie și altimetrie pe întreg coridorul, cu drumuri, șanțuri, rețele existente și stâlpii liniilor aeriene;</li><li><a href=\"/parcuri-fotovoltaice/profil-longitudinal-traseu-electric.html\">profilul longitudinal</a> — cote pe axul traseului, pentru pozare, subtraversări și calculul real al lungimii;</li><li><strong>inventarul cărților funciare traversate</strong> — lista imobilelor afectate, cu proprietarii din CF, baza pentru negocierea servituților;</li><li><strong>planurile de servitute</strong> — câte unul per imobil afectat, pentru notar și înscrierea în cartea funciară;</li><li><strong>punctele critice</strong> — traversări de drumuri și ape, zone cu recepție GNSS slabă, porțiuni cu pante mari, documentate separat.</li></ul><p>Trimite-ne extrasul CF al terenului și punctul de racordare avut în vedere pe WhatsApp — îți spunem ce presupune măsurarea coridorului și în cât timp o putem face.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Voi stabiliți traseul cablului?",
+          "a": "Nu — soluția de racordare și traseul final le stabilesc operatorul de rețea și proiectantul de specialitate. Noi livrăm datele topografice pe care se proiectează traseul și documentele cadastrale pentru servituțile de pe el. Colaborăm curent cu proiectanții de rețele."
+        },
+        {
+          "q": "Cu cât e mai lung traseul real față de linia dreaptă?",
+          "a": "Nu există un procent universal — depinde de drumuri, obstacole și proprietăți. Diferențe semnificative sunt regula, nu excepția, și exact de aceea estimarea de buget pe linia dreaptă e periculoasă. Măsurătoarea îți dă lungimea reală, pe coridorul construibil."
+        },
+        {
+          "q": "Când are sens să măsurați traseul — înainte sau după ATR?",
+          "a": "O recunoaștere a coridorului ajută încă din faza de alegere a terenului, pentru bugetare. Ridicarea detaliată se face de regulă când soluția de racordare prinde contur, ca profilul și planurile de servitute să fie pe traseul care se și construiește."
+        },
+        {
+          "q": "Ce se întâmplă dacă un proprietar de pe traseu refuză servitutea?",
+          "a": "Coridorul se reproiectează pe o variantă ocolitoare — de aceea inventarul CF-urilor traversate trebuie făcut devreme. E mult mai ieftin să afli refuzul înainte de proiectare decât după."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/ridicare-topografica-racord-electric.html", "label": "Ridicare topografică pentru racordul electric" },
+    { "href": "/parcuri-fotovoltaice/profil-longitudinal-traseu-electric.html", "label": "Profil longitudinal pentru traseul electric" },
+    { "href": "/parcuri-fotovoltaice/servitute-trecere-cablu-electric.html", "label": "Servitutea de trecere pentru cablu" },
+    { "href": "/parcuri-fotovoltaice/drum-acces-teren-carte-funciara.html", "label": "Drumul de acces înscris în CF" },
+    { "href": "/servicii/plan-topografic/", "label": "Plan topografic — serviciul de bază" },
+    { "href": "/dictionar/atr-aviz-tehnic-de-racordare.html", "label": "Dicționar: ATR" }
+  ],
+  "sources": [
+    { "url": "https://veltol-energy.ro/conditii-de-infiintare-pentru-un-parc-fotovoltaic-etape-documente-si-autorizatii-necesare/", "title": "Etapele racordării unui parc fotovoltaic: ATR, contract, certificat de racordare" }
+  ]
+}

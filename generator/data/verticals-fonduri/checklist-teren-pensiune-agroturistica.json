@@ -1,0 +1,64 @@
+{
+  "slug": "checklist-teren-pensiune-agroturistica",
+  "title": "Checklist teren: pensiune agroturistică pe fonduri AFIR | Expert Intabulare",
+  "h1": "Checklist de teren pentru pensiunea agroturistică finanțată prin AFIR",
+  "metaDescription": "Checklist printabil: actele de teren pentru o pensiune agroturistică pe fonduri AFIR — intabulare, categoria de folosință, CU, superficie, acces. De la topograf.",
+  "whatsappTopic": "acte de teren pentru pensiune agroturistică",
+  "hook": "deadline",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "De ce pensiunile pică la teren mai des decât la punctaj",
+      "html": "<p>Pensiunea agroturistică e proiectul-vedetă al finanțărilor rurale — și unul dintre cele mai expuse la probleme de teren, dintr-un motiv structural: se construiește aproape întotdeauna pe <strong>terenul familiei</strong>, în sate unde actele au rămas cu o generație în urmă. Combinația tipică: teren moștenit informal + categoria de folosință „arabil” sau „livadă” + un corp de casă vechi neintabulat + drum de acces „dintotdeauna” dar neînscris. Fiecare element din combinație e rezolvabil; toate patru împreună, descoperite cu șase săptămâni înainte de sesiune, înseamnă sesiunea pierdută.</p><p>Checklist-ul de mai jos e gândit ca să-l parcurgi cu actele pe masă — singur sau cu consultantul — cu multe luni înainte de depunere. Secțiunea se poate imprima; bifează ce ai, încercuiește ce lipsește.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Checklist: terenul pensiunii, gata de dosar",
+      "items": [
+        "Proprietatea clarificată: succesiune dezbătută, teren intabulat, extras CF pe numele solicitantului (sau superficie constituită de proprietar în favoarea firmei/PFA-ului solicitant)",
+        "Categoria de folosință compatibilă: pentru construcție e nevoie de teren apt de autorizare — arabilul din intravilan se rezolvă la autorizare, extravilanul cere introducere în intravilan sau proceduri suplimentare; verifică devreme la primărie",
+        "Certificat de urbanism obținut sau măcar solicitat: el spune negru pe alb ce se poate construi și ce avize trebuie",
+        "Construcțiile existente pe teren, toate intabulate — inclusiv casa veche pe care o transformi în pensiune",
+        "Accesul la drum public: înscris în CF sau pe domeniul public — nu „pe cărarea de la bunica”",
+        "Utilitățile în planul topografic: fântână/racord apă, fosă/canalizare, curent — proiectantul și avizatorii le cer poziționate",
+        "Suprafață suficientă și formă utilizabilă: pensiunea + parcarea + spațiile exterioare cerute de normele de clasificare încap pe teren?",
+        "Extras CF de informare recent (≤30 de zile) — scos ultimul, chiar înainte de depunere"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Punctele care cer timp: categoria de folosință și construcțiile vechi",
+      "html": "<p>Două elemente din checklist au calendar propriu și merită start imediat. <strong>Primul: categoria de folosință și regimul urbanistic.</strong> Dacă terenul e în extravilan, introducerea în intravilan prin PUZ durează multe luni — practic redefinește calendarul întregului proiect. Dacă e în intravilan dar „arabil”, situația e mult mai blândă și se tratează prin autorizare, cu taxele aferente scoaterii suprafeței construite din circuitul agricol acolo unde legea o cere. <strong>Al doilea: casa veche.</strong> Transformarea ei în pensiune presupune acte: intabulare (pe baza vechimii sau a certificatului de atestare a edificării), apoi autorizația de modificare/extindere. O casă „din registrul agricol” nu poate fi nici măcar expertizată corect pentru proiect.</p><p>Rolul nostru în acest tip de proiect: auditul inițial al actelor și terenului, intabularea a tot ce lipsește, planul topografic cu utilități pentru proiectant, apoi trasarea și as-built-ul la execuție. Un singur partener pentru toată partea de teren, de la primul extras până la recepție.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Pensiunea se face pe terenul părinților. Care e varianta corectă?", "a": "Cea mai folosită: superficia constituită de părinți în favoarea solicitantului (firmă sau PFA), pe durată lungă, înscrisă în CF — permite autorizarea și e acceptată de ghiduri. Alternativ, donația terenului. Comodatul rareori ajunge pentru construcție. Detalii pe pagina noastră despre superficie." },
+        { "q": "Terenul e livadă în intravilan. Pot construi pensiunea?", "a": "De regulă da, prin procedura normală de autorizare — categoria de folosință se schimbă în „curți-construcții” pentru suprafața construită, cu obligațiile legale aferente. Confirmarea o dă certificatul de urbanism; cere-l devreme, e cel mai ieftin test al întregului proiect." },
+        { "q": "Câte luni înainte de sesiune ar trebui să încep cu actele?", "a": "Pentru combinația tipică (succesiune + intabulare + CU): minimum 4–6 luni. Doar intabulare și CU, cu acte în regulă: 2–3 luni confortabil. Peste aceste praguri intră orice complicație descoperită pe parcurs — iar la terenurile de familie, complicațiile sunt regula, nu excepția." },
+        { "q": "Faceți și planul topografic pentru proiectul pensiunii?", "a": "Da — plan topografic vizat OCPI cu utilități și vecinătăți pentru arhitect, plan de situație pentru CU, iar la execuție trasarea și documentația as-built. Aceleași măsurători servesc toate etapele, deci costul total scade dacă lucrăm de la început." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Visezi la pensiune, dar actele sunt „la țară”?",
+      "text": "Trimite-ne pe WhatsApp poze cu actele terenului și spune-ne satul — parcurgem checklist-ul împreună și îți spunem exact ce lipsește și cât durează."
+    }
+  ],
+  "related": [
+    "acte-teren-tineri-fermieri-afir",
+    "drept-de-superficie-fonduri-europene",
+    "constructie-fara-autorizatie-fonduri-europene",
+    "acte-teren-proiect-gal-leader",
+    "plan-de-situatie-certificat-urbanism",
+    "intabulare-constructie-finalizata",
+    "/servicii/intabulare-teren/",
+    "/dictionar/superficie.html"
+  ],
+  "sources": [
+    "https://www.afir.ro/",
+    "https://www.ancpi.ro/"
+  ]
+}

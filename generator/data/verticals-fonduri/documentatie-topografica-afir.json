@@ -1,0 +1,78 @@
+{
+  "slug": "documentatie-topografica-afir",
+  "title": "Documentație topografică pentru proiecte AFIR (PS PAC 2023–2027) | Expert Intabulare",
+  "h1": "Documentație topografică și cadastrală pentru proiecte AFIR — Planul Strategic PAC 2023–2027",
+  "metaDescription": "Ce cere AFIR la depunere și la prima tranșă: extras CF, plan de amplasament, extras de plan cadastral pe ortofotoplan. Sesiuni DR active în 2026. Topograf ANCPI.",
+  "whatsappTopic": "documentație pentru proiect AFIR",
+  "hook": "deadline",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "De la PNDR la Planul Strategic PAC: ce s-a schimbat pentru actele de teren",
+      "html": "<p>Dacă ultima ta experiență cu AFIR a fost pe PNDR 2014–2020, cadrul s-a schimbat: finanțările rurale curg acum prin <strong>Planul Strategic PAC 2023–2027</strong>, iar măsurile s-au transformat în <strong>intervenții cu cod DR</strong> — de exemplu DR-12 pentru consolidarea fermelor tinerilor fermieri (sesiune lansată în ianuarie 2026, sprijin de până la 200.000 de euro) sau DR-36 pentru LEADER, prin Grupurile de Acțiune Locală. Codurile și alocările se schimbă de la an la an — de aceea pe această pagină vorbim despre ce rămâne constant: <strong>documentația de teren pe care AFIR o cere în aproape orice intervenție cu investiții</strong>.</p><p>Un principiu de reținut: AFIR verifică terenul în două momente diferite, cu exigențe diferite. La <strong>depunere</strong> contează eligibilitatea — cine deține terenul și cu ce drept. La <strong>contractare și la prima tranșă de plată</strong> contează forma juridică completă — înscrieri la zi în cartea funciară, autorizații, planuri avizate. Mulți solicitanți trec de depunere cu acte provizorii și se blochează la tranșă.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Ce cere AFIR: depunere vs. contractare/prima tranșă",
+      "head": ["Moment", "Documente de teren tipice", "Capcana frecventă"],
+      "rows": [
+        ["Depunerea cererii de finanțare", "Extras CF de informare recent (de regulă ≤30 zile), extras de plan cadastral pe ortofotoplan, dovada folosinței (proprietate/arendă/concesiune înscrisă la primărie sau în CF)", "Extras CF expirat la data depunerii sau teren neînscris în sistemul integrat"],
+        ["Contractare", "Dovada dreptului pe durata cerută de ghid (inclusiv perioada de monitorizare), fără sarcini incompatibile în partea a III-a", "Arendă pe termen prea scurt sau drept nedovedit pe toată durata de durabilitate"],
+        ["Autorizare lucrări (dacă proiectul construiește)", "Plan topografic vizat OCPI pentru SF/DTAC, plan de situație pentru certificatul de urbanism", "Planuri neavizate sau întocmite pe alt contur decât cel din CF"],
+        ["Prima tranșă / plăți", "Documente actualizate, PV de trasare la începerea execuției, situații conforme cu autorizația", "Diferențe între proiect, autorizație și realitatea din teren"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Extrasul de plan cadastral pe ortofotoplan — piesa specifică AFIR",
+      "html": "<p>Spre deosebire de alte programe, AFIR cere frecvent <strong>extrasul de plan cadastral pe ortofotoplan</strong> — o piesă emisă de OCPI care arată imobilul suprapus pe fotografia aeriană a zonei. Rolul lui: să demonstreze că investiția se amplasează exact pe parcela declarată. Pentru terenurile agricole din extravilan, unde reperele fizice lipsesc, este singurul mod în care evaluatorul „vede” terenul. Dacă imobilul nu e cadastrat, extrasul nu se poate emite — încă un motiv pentru care intabularea trebuie rezolvată înainte de sesiune, nu în timpul ei. Avem o pagină separată dedicată acestui document.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Pregătirea terenului pentru o sesiune AFIR — în ordinea corectă",
+      "items": [
+        "Verifică situația în cartea funciară cu 3–6 luni înainte de sesiunea vizată — nu în săptămâna depunerii",
+        "Terenul neintabulat: pornește prima înscriere imediat; realist durează câteva săptămâni, plus timpul de pregătire a actelor",
+        "Arendă sau concesiune: verifică durata rămasă față de cerința ghidului (implementare + monitorizare) și înregistrarea contractului",
+        "Comandă extrasul de plan cadastral pe ortofotoplan după ce imobilul are număr cadastral",
+        "Extrasul CF de informare — abia la final, cât mai aproape de depunere, ca să fie în termenul de 30 de zile",
+        "Dacă proiectul construiește: plan topografic vizat OCPI comandat odată cu tema de proiectare, nu după"
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Ce intervenții AFIR sunt active în 2026?", "a": "Calendarul se actualizează periodic pe afir.ro și madr.ro. În 2026 sunt programate sau deschise, printre altele, sesiuni pentru tineri fermieri (DR-12), ferme mici, procesare și apeluri LEADER prin GAL-uri (DR-36). Verifică întotdeauna ghidul consolidat al sesiunii curente — cerințele de acte pot diferi între intervenții." },
+        { "q": "Pot depune la AFIR cu teren doar în arendă?", "a": "Pentru multe intervenții da, dacă contractul acoperă durata cerută de ghid și este înregistrat corespunzător; pentru construcții, de regulă e nevoie de un drept real (proprietate, superficie) care să permită autorizarea. Matricea drept–program o detaliem pe pagina despre arendă, comodat și concesiune." },
+        { "q": "Terenul e moștenit și succesiunea nu e dezbătută. Mai prind sesiunea?", "a": "Depinde de calendarul succesiunii, nu al nostru: notarul are nevoie de acte, apoi urmează documentația cadastrală și intabularea. Am detaliat scenariul exact — cu timeline — pe pagina dedicată tinerilor fermieri și pe cea despre moșteniri nedezbătute." },
+        { "q": "Lucrați cu consultanții care ne scriu proiectul?", "a": "Da, curent. Consultantul ne trimite lista de piese din ghid, noi livrăm documentele topografice și cadastrale direct în formatul dosarului și ținem legătura cu el la fiecare clarificare AFIR." }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Sfatul de calendar pe care îl dăm oricărui solicitant AFIR din zonă",
+      "html": "<p>Sesiunile AFIR au un efect secundar pe care puțini îl anticipează: în lunile dinaintea unei sesiuni mari, birourile de cadastru din zonele agricole se aglomerează cu exact același tip de cereri — prime înscrieri, extrase, planuri pe ortofotoplan — depuse de toți ceilalți solicitanți care s-au trezit odată cu tine. Termenele oficiale rămân aceleași, dar cozile practice cresc, iar orice notă de completare te aruncă la coada următoare. De aceea, regula noastră pentru clienții care vizează o intervenție anunțată în calendarul MADR: <strong>partea cadastrală se termină înainte să se publice ghidul final, nu după</strong>. Ghidul poate modifica detalii de eligibilitate, dar nu va cere niciodată mai puțin decât un teren corect înscris — deci lucrul făcut devreme nu e niciodată pierdut. Al doilea sfat, la fel de bătătorit: citiți anexele ghidului cu lista documentelor <em>împreună cu topograful</em>, nu doar cu consultantul. Formulările de tip „plan de situație a amplasamentului” sau „document de identificare a imobilului” au corespondent tehnic precis, iar interpretarea greșită se plătește la clarificări. Ne poți trimite lista pe WhatsApp — traducerea ei în piese concrete, cu termene și costuri, este gratuită și te scutește de descoperiri târzii.</p>"
+    },
+    {
+      "type": "cta",
+      "heading": "Sesiune AFIR în calendar?",
+      "text": "Trimite-ne pe WhatsApp intervenția vizată și data estimată a sesiunii — verificăm situația cadastrală a terenului și îți spunem ce trebuie rezolvat până la depunere."
+    }
+  ],
+  "related": [
+    "acte-teren-tineri-fermieri-afir",
+    "intabulare-teren-agricol-fonduri-europene",
+    "extras-plan-cadastral-ortofotoplan",
+    "arenda-comodat-concesiune-finantare",
+    "acte-teren-proiect-gal-leader",
+    "extras-carte-funciara-fonduri-europene",
+    "/servicii/intabulare-teren/",
+    "/dictionar/plan-parcelar.html"
+  ],
+  "sources": [
+    "https://www.afir.ro/",
+    "https://www.madr.ro/comunicare/a-fost-publicat-calendarul-estimativ-al-lansarilor-interventiilor-din-pilonul-ii-al-planului-strategic-pac-2023-2027.html"
+  ]
+}

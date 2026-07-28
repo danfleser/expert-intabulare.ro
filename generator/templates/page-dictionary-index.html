@@ -1,0 +1,20 @@
+<!-- Dictionary A–Z index /dictionar/-->
+<div class="pb-120 pt-3">
+  <div class="container">
+    <div class="row g-5">
+      <div class="col-12 col-lg-8">
+        <p class="mb-4">{{introText}}</p>
+      </div>
+      <div class="col-12 col-lg-4">
+        {{{sidebar}}}
+      </div>
+    </div>
+    <div class="mb-4">
+      <label class="form-label" for="dictFilter">{{filterLabel}}</label>
+      <input class="form-control" id="dictFilter" type="search" placeholder="{{filterPlaceholder}}" autocomplete="off">
+    </div>
+    <nav class="mb-4" aria-label="Index alfabetic">{{{letterNav}}}</nav>
+    {{{termList}}}
+    <p class="mb-0 d-none" id="dictNoResults">{{noResultsText}}</p>
+  </div>
+</div>

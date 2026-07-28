@@ -1,0 +1,79 @@
+{
+  "slug": "plan-topografic-pnrr",
+  "title": "Plan topografic pentru proiecte finanțate prin PNRR — ghid beneficiar | Expert Intabulare",
+  "h1": "Plan topografic pentru proiecte finanțate prin PNRR — ghidul beneficiarului",
+  "metaDescription": "Unde apare planul topografic vizat OCPI într-un proiect PNRR: SF, DALI, DTAC, execuție, recepție. Ghid practic pentru beneficiari, cu situația reală din 2026.",
+  "whatsappTopic": "plan topografic pentru proiect PNRR",
+  "hook": "deadline",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Un singur plan? Nu — o familie de planuri, în etape diferite",
+      "html": "<p>„Ne trebuie planul topografic pentru PNRR” este, de obicei, o simplificare. Într-un proiect de investiții finanțat european, documentația topografică apare în <strong>cel puțin patru momente diferite</strong>, cu conținut și scop diferit de fiecare dată. Confuzia între ele costă timp: am văzut dosare întoarse pentru că la studiul de fezabilitate s-a atașat un simplu plan de situație neavizat, sau pentru că planul „de la autorizație” avea doi ani vechime și nu mai reflecta realitatea din teren.</p><p>Temeiul este HG 907/2016 privind documentațiile tehnico-economice: la studiul de fezabilitate (SF) și la documentația de avizare a lucrărilor de intervenții (DALI) se anexează <strong>planul topografic sau cadastral actualizat, vizat de OCPI</strong>. Același plan stă la baza certificatului de urbanism, a PUZ-ului dacă e cazul și a proiectului pentru autorizarea executării lucrărilor (DTAC).</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Unde apare documentația topografică în ciclul unui proiect PNRR",
+      "head": ["Etapa", "Documentul topografic", "Cine îl folosește"],
+      "rows": [
+        ["Certificat de urbanism", "Plan de situație pe suport topografic sau cadastral", "Primăria / arhitectul-șef"],
+        ["SF / DALI", "Plan topografic actualizat, vizat OCPI (recepționat conform Ordinului 700/2014)", "Proiectantul, verificatorul, finanțatorul"],
+        ["DTAC / autorizație de construire", "Plan topografic vizat OCPI + plan de situație reglementat", "Primăria emitentă"],
+        ["Începerea execuției", "Proces-verbal de trasare a construcției", "Constructorul, dirigintele de șantier"],
+        ["Recepție / cerere finală", "Documentație as-built, măsurători finale, plan de amplasament actualizat", "Comisia de recepție, autoritatea de plată"],
+        ["Durabilitate", "Documentație cadastrală pentru intabularea construcției", "OCPI / beneficiarul"]
+      ]
+    },
+    {
+      "type": "process",
+      "heading": "Cum obții planul topografic vizat OCPI — pașii reali",
+      "steps": [
+        { "title": "Măsurători în teren", "text": "Ridicare topografică cu GPS RTK și stație totală, în sistemul național de coordonate Stereo 70, cu preluarea detaliilor relevante: limite, construcții, rețele vizibile, accese, diferențe de nivel." },
+        { "title": "Întocmirea planului", "text": "Redactare la scara cerută de proiect (uzual 1:500 sau 1:1000, la investiții liniare și 1:2000), cu inventarul de coordonate și încadrarea în zonă." },
+        { "title": "Recepția OCPI", "text": "Documentația se depune la OCPI pentru recepție tehnică conform Ordinului ANCPI 700/2014; rezultatul este planul cu viza de recepție — piesa pe care o cere finanțatorul și primăria." },
+        { "title": "Predarea livrabilelor", "text": "PDF pentru dosar, DWG/DXF pentru proiectant, inventar de coordonate; la cerere, format LandXML sau shapefile pentru proiecte ale UAT-urilor." }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Situația în 2026: planul topografic la finalul PNRR",
+      "html": "<p>Cu termenul final de implementare la sfârșitul lunii august 2026, cererea reală pe care o vedem la proiectele PNRR nu mai este planul pentru SF — acela trebuia făcut demult — ci <strong>măsurătorile de finalizare</strong>: verificarea conformității execuției, documentația as-built pentru cartea tehnică, planul de amplasament actualizat cu construcția nouă și intabularea acesteia. Dacă proiectul tău e în această fază, timpul se numără în zile: măsurătorile finale se pot face imediat după terminarea lucrărilor, iar restul documentației se pregătește în paralel cu recepția.</p><p>Un detaliu care scapă des: dacă în timpul execuției au apărut modificări față de autorizație (amplasare ușor diferită, extindere, anexe), ele trebuie clarificate <em>înainte</em> de recepție — altfel intabularea construcției se blochează exact în perioada în care finanțatorul o poate cere.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Planul topografic vizat OCPI are un termen de valabilitate?", "a": "Legea nu îi fixează o valabilitate în luni, dar instituțiile cer un plan „actualizat” — adică unul care reflectă situația curentă din teren. Dacă între timp s-a construit, s-a demolat sau s-au schimbat limitele, planul trebuie refăcut. În practică, multe autorități privesc cu rezervă planurile mai vechi de 6–12 luni." },
+        { "q": "Pot folosi la PNRR un plan făcut pentru alt proiect?", "a": "Doar dacă este recent, vizat OCPI și acoperă exact imobilul și zona de studiu cerută de proiectant. De multe ori diferă scara sau extinderea zonei măsurate — verificăm gratuit dacă planul existent poate fi folosit sau completat." },
+        { "q": "Cine plătește și comandă planul: beneficiarul sau proiectantul?", "a": "Uzual beneficiarul îl comandă, la specificațiile proiectantului. Noi preferăm să vorbim direct cu proiectantul pentru zona de studiu, curbe de nivel și formate — scurtează drumul și elimină refacerile." },
+        { "q": "Ce diferență este între planul topografic și planul de amplasament și delimitare (PAD)?", "a": "PAD-ul este piesă de documentație cadastrală — definește limitele juridice ale imobilului pentru cartea funciară. Planul topografic este piesă de proiectare — arată relieful și detaliile din teren pentru proiectant. Avem o pagină dedicată exact acestei comparații." }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Tema de proiectare: cele cinci minute care decid calitatea planului",
+      "html": "<p>Cea mai bună investiție dintr-un plan topografic nu costă nimic: conversația directă dintre noi și proiectant, înainte de măsurători. În ea se stabilesc lucrurile pe care niciun standard nu le poate ghici: cât de departe de limita parcelei are nevoie de date (racorduri, scurgeri, vecinătăți), ce echidistanță de curbe de nivel cere terenul, dacă îi trebuie secțiuni caracteristice, ce layere și ce șablon CAD folosește biroul lui. Fără această conversație, planul se face „ca de obicei” — iar „ca de obicei” al topografului și „ca de obicei” al proiectantului coincid rar. Rezultatul tipic al necoincidenței: completări cerute după două săptămâni, remobilizare, termen pierdut. La proiectele PNRR aflate acum în finalizare, aceeași regulă se aplică în oglindă pentru măsurătorile as-built: comisia de recepție și autoritatea de plată au așteptări documentare precise, iar formatul livrării se stabilește înainte de măsurare, nu după. De aceea, la orice comandă legată de un proiect finanțat, primul nostru telefon nu e către echipa de teren — e către proiectantul sau dirigintele care va folosi datele. Cinci minute acolo economisesc săptămâni în aval, iar pentru tine, beneficiar, întreaga coordonare e invizibilă: primești direct piesa corectă, din prima.</p>"
+    },
+    {
+      "type": "cta",
+      "heading": "Proiectantul îți cere planul vizat OCPI?",
+      "text": "Trimite-ne pe WhatsApp localitatea, numărul cadastral și ce ți-a cerut proiectantul — revenim cu termen și cost orientativ în aceeași zi."
+    }
+  ],
+  "related": [
+    "plan-topografic-vizat-ocpi",
+    "documentatie-cadastrala-pnrr",
+    "ridicare-topografica-studiu-fezabilitate",
+    "trasare-constructie-proces-verbal",
+    "as-built-receptie-fonduri-europene",
+    "plan-de-situatie-certificat-urbanism",
+    "/servicii/plan-topografic/",
+    "/dictionar/stereo-70.html"
+  ],
+  "sources": [
+    "https://legislatie.just.ro/Public/DetaliiDocument/185166",
+    "https://mfe.gov.ro/pnrr/",
+    "https://www.ancpi.ro/"
+  ]
+}

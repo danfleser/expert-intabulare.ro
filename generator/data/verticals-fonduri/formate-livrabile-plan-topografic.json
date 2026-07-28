@@ -1,0 +1,62 @@
+{
+  "slug": "formate-livrabile-plan-topografic",
+  "title": "Ce livrăm: formate și piese pentru proiectant și finanțator | Expert Intabulare",
+  "h1": "Formatele în care livrăm: cine ce primește, de la PDF la CPXML și LandXML",
+  "metaDescription": "Formate livrate: PDF pentru dosar, DWG/DXF pentru proiectant, CPXML pentru OCPI, LandXML pentru infrastructură, SHP pentru GIS. Cine ce primește și de ce.",
+  "whatsappTopic": "formatele livrabilelor topografice",
+  "hook": "none",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Un proiect, patru „clienți” ai acelorași măsurători",
+      "html": "<p>Aceeași lucrare topografică are, într-un proiect cu finanțare, patru destinatari cu nevoi complet diferite: <strong>dosarul de finanțare</strong> vrea PDF-uri lizibile, semnate, cu vize la vedere; <strong>proiectantul</strong> vrea date editabile, stratificate, în softul lui; <strong>OCPI</strong> vrea formatul oficial de depunere electronică; iar <strong>tu</strong>, beneficiarul, vrei să nu te ocupi de niciunul dintre ei. Modul nostru de lucru: măsurăm o dată, livrăm fiecăruia formatul lui — din aceleași date, deci fără riscul versiunilor divergente care bântuie proiectele cu mulți actori.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Matricea livrabilelor: format → destinatar → scop",
+      "head": ["Format", "Cine îl primește", "La ce folosește"],
+      "rows": [
+        ["PDF semnat (planșe la scară)", "dosarul de finanțare, primăria, avizatorii", "piesa oficială: plan topografic vizat, plan de situație, PAD"],
+        ["DWG / DXF (AutoCAD)", "arhitectul, proiectantul de rezistență și instalații", "baza de proiectare editabilă, pe layere: limite, construcții, rețele, cote"],
+        ["CPXML", "OCPI (depunere electronică)", "formatul oficial al documentațiilor cadastrale în sistemul integrat"],
+        ["LandXML (suprafețe, MDT)", "proiectanții de drumuri și infrastructură (Civil 3D etc.)", "modelul digital al terenului pentru profile și volumetrie"],
+        ["SHP / GeoJSON", "GIS-ul primăriilor, dezvoltatorii cu sisteme proprii", "integrarea imobilelor și rețelelor în hărți instituționale"],
+        ["CSV/TXT puncte + inventar de coordonate semnat", "constructorul, dirigintele, arhiva proiectului", "trasare, verificări, dovada opozabilă a măsurătorilor"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Detaliile care scutesc drumuri și e-mailuri",
+      "html": "<p>Din experiența dosarelor trecute prin evaluări și avizări, câteva reguli de livrare pe care le aplicăm din oficiu:</p><ul><li><strong>Denumirea fișierelor după opisul dosarului</strong> — evaluatorii deschid sute de fișiere; „Anexa_7_Plan_topografic_vizat.pdf” trece, „scan0003.pdf” irită.</li><li><strong>Layere disciplinate în DWG</strong> — limite, construcții, rețele pe categorii, cote și texte separate; proiectantul începe lucrul în minute, nu după o zi de curățenie.</li><li><strong>Sistemul de referință declarat explicit</strong> pe fiecare livrabil: Stereo 70 pentru poziție, Marea Neagră 1975 pentru cote — ca orice echipă care preia datele să știe exact în ce lume se află.</li><li><strong>Arhiva de proiect la noi</strong> — orice piesă pierdută de oricine, oricând, se retrimite în aceeași zi; măsurătorile se păstrează și susțin etapele viitoare (trasare, as-built, intabulare) fără costuri de re-măsurare.</li></ul><p>Dacă proiectantul tău are cerințe speciale — șablon CAD propriu, structuri de layere impuse de un beneficiar mare, formate pentru software de calcul — le preluăm la comandă; e o discuție de cinci minute la început care economisește conversii dubioase la final.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Finanțatorul cere „format editabil” pe lângă PDF. Ce îi dăm?", "a": "De regulă DWG sau DXF — le livrăm standard. Unele autorități cer și fișierele de puncte sau SHP pentru verificări GIS; le avem oricum, deci răspunsul la astfel de clarificări e o retrimitere, nu o lucrare nouă." },
+        { "q": "Ce este CPXML și de ce contează pentru mine?", "a": "Formatul electronic oficial în care se depun documentațiile cadastrale la OCPI. Pentru tine contează indirect: depunerea electronică corectă scurtează drumurile și elimină o categorie întreagă de note de completare formale. E treaba noastră să fie impecabil; tu doar afli că dosarul a intrat." },
+        { "q": "Proiectantul lucrează în alt soft decât AutoCAD. E o problemă?", "a": "Nu — DXF-ul e citit de practic orice platformă CAD, LandXML acoperă softurile de infrastructură, iar pentru cazuri exotice exportăm la cerere. Spune-ne softul și versiunea; calibrat o dată, rămâne calibrat pe tot proiectul." },
+        { "q": "Puteți retrimite planurile unui proiect de acum câțiva ani?", "a": "Da — arhiva lucrărilor noastre e organizată pe beneficiari și amplasamente; piesele se retrimit rapid. Dacă între timp terenul s-a schimbat, îți spunem și dacă planul mai reflectă realitatea sau are nevoie de actualizare — înainte să-l depui undeva." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Proiectantul sau finanțatorul cere un format anume?",
+      "text": "Trimite-ne pe WhatsApp cerința exactă (sau tema de proiectare) — confirmăm formatul și livrarea în aceeași zi, din datele deja măsurate dacă ești client existent."
+    }
+  ],
+  "related": [
+    "ridicare-topografica-studiu-fezabilitate",
+    "plan-topografic-vizat-ocpi",
+    "plan-topografic-anghel-saligny",
+    "as-built-receptie-fonduri-europene",
+    "coordonate-stereo-70",
+    "colaborare-consultant-fonduri-europene",
+    "/servicii/plan-topografic/",
+    "/dictionar/stereo-70.html"
+  ],
+  "sources": [
+    "https://www.ancpi.ro/"
+  ]
+}

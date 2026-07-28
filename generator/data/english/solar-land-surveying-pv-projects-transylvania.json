@@ -1,0 +1,58 @@
+{
+  "path": "/en/solar/land-surveying-pv-projects-transylvania.html",
+  "title": "Land Surveying for Solar PV Projects in Transylvania, Romania — Full Lifecycle",
+  "metaDescription": "Surveying and cadastral services for solar PV projects in Transylvania: due diligence, topographic surveys, land registration, pile stakeout, as-built. Local ANCPI-authorized surveyor in Alba county.",
+  "h1": "Land Surveying and Cadastral Services for PV Projects in Transylvania",
+  "navLabelEn": "Solar PV surveying",
+  "roPair": "https://expert-intabulare.ro/parcuri-fotovoltaice/",
+  "whatsappPrefillEn": "Hello! I am developing a solar PV project in Romania and need surveying support.",
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Your project's local surveyor in central Transylvania",
+      "html": "<p>Solar development in Romania runs through land: verifying it, registering it, modelling it, staking it out, and documenting what was built on it. Every one of those steps legally requires or practically depends on an <strong>ANCPI-authorized surveyor</strong> — and international developers, funds and EPC contractors working in Transylvania need one who is local, responsive and fluent in the OCPI machinery.</p><p>We are based in Aiud, Alba county, with 25+ years of experience and 1,052+ completed projects, covering field work across <strong>Alba, Cluj, Mureș, Sibiu and Hunedoara</strong> — the corridor where much of Transylvania's PV pipeline sits. Document-based work (land book verification, due diligence on titles) we handle for sites anywhere in Romania. We collaborate with developers and construction companies as the project's surveying partner across its whole lifecycle.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Services across the PV lifecycle",
+      "html": "<ul><li><strong>Before you commit:</strong> <a href=\"/en/solar/land-due-diligence-survey-romania.html\">land due diligence surveys</a> — title verification, overlap detection, real-versus-deed area, and the terrain truths (slope, access, flood exposure) that decide buildable MW.</li><li><strong>Securing the land:</strong> <a href=\"/en/solar/superficie-right-land-registration-solar.html\">superficie right registration</a>, parcel merging and division, and <a href=\"/en/solar/unregistered-land-romania-pv-developers.html\">first registration of unregistered land</a> — the step that most often dictates the project schedule.</li><li><strong>Design and permitting:</strong> the <a href=\"/en/solar/solar-park-topographic-survey.html\">OCPI-stamped topographic survey</a>, <a href=\"/en/solar/drone-photogrammetry-dtm-solar-sites.html\">drone photogrammetry and digital terrain models</a> for PVsyst/PVcase/Civil 3D, plus profiles for the grid-connection route.</li><li><strong>Construction:</strong> <a href=\"/en/solar/pv-pile-tracker-stakeout.html\">pile and tracker stakeout</a> at production rhythm, internal roads, cable trenches and fencing, level control for stations.</li><li><strong>Commissioning and operation:</strong> <a href=\"/en/solar/as-built-survey-pv-plants.html\">as-built surveys</a> for acceptance, licensing and refinancing, and settlement monitoring where lenders or insurers require it.</li></ul>"
+    },
+    {
+      "type": "html",
+      "heading": "Why one surveyor across the lifecycle pays off",
+      "html": "<p>A PV site's geometry is a single dataset that grows: due diligence measurements become the design survey's control network; the design coordinates become the stakeout input; the stakeout records become the as-built baseline. Splitting these among ad-hoc providers means paying repeatedly to re-establish the same control and reconciling datasets that never quite agree. Holding it with one local surveyor means each phase starts where the last ended — and that a call about an urgent stakeout or a registrar's objection is answered by someone who already knows the site.</p><p>WhatsApp is our working channel with international teams: send the land book extracts, KMZ files or design drawings directly in the chat, in English, and get answers without timezone friction.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Do you work with EPC contractors as well as developers?",
+          "a": "Yes — we collaborate with developers and construction companies alike, whether the engagement is one deliverable or surveying support across the whole build."
+        },
+        {
+          "q": "Can you handle utility-scale sites?",
+          "a": "Yes. Method scales with area: RTK GNSS and total station for control and stakeout, drone photogrammetry for large-area terrain capture, and agreed SLAs for stakeout campaigns during construction."
+        },
+        {
+          "q": "Our project is outside your five counties. Can you still help?",
+          "a": "Desk services — land book verification, documentation review, due diligence on titles — cover all of Romania. For field work beyond the five counties we say so honestly and, where we can, point you to the right local colleague rather than overreaching."
+        },
+        {
+          "q": "At which project stage should we first involve a surveyor?",
+          "a": "Before the land is secured — the due diligence stage. Everything discovered there (unregistered parcels, overlaps, missing area, terrain surprises) is cheap to handle before signing and expensive after. The second-best moment is now, whatever stage you are at: inherited documentation problems compound, they do not age away."
+        },
+        {
+          "q": "How do you price lifecycle engagements versus single deliverables?",
+          "a": "Both work: per-deliverable quotes for defined pieces, or a project arrangement with a rate card and committed mobilization times for developers who want the site's surveying handled end to end. The lifecycle route is usually cheaper in total because control networks, site knowledge and data carry over instead of being re-bought at each phase."
+        }
+      ]
+    }
+  ],
+  "related": [
+    "/en/solar/land-due-diligence-survey-romania.html",
+    "/en/solar/solar-park-topographic-survey.html",
+    "/en/solar/pv-pile-tracker-stakeout.html",
+    "/en/solar/superficie-right-land-registration-solar.html",
+    "/en/service-area.html"
+  ]
+}

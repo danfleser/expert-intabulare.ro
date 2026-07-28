@@ -1,0 +1,66 @@
+{
+  "path": "/en/services/cadastral-registration.html",
+  "title": "Cadastral Registration in Romania (Intabulare) — First Registration of Land & Buildings",
+  "metaDescription": "How cadastral registration (intabulare) works in Romania: first registration in the land book, documents, ANCPI/OCPI process, realistic timelines. ANCPI-authorized surveyor, English-speaking service.",
+  "h1": "Cadastral Registration in Romania: Getting Your Property Into the Land Book",
+  "navLabelEn": "Cadastral registration",
+  "roPair": "https://expert-intabulare.ro/servicii/cadastru-si-intabulare/",
+  "whatsappPrefillEn": "Hello! I need cadastral registration (intabulare) for a property in Romania.",
+  "sections": [
+    {
+      "type": "html",
+      "heading": "What \"intabulare\" means — and why you cannot skip it",
+      "html": "<p>In Romania, ownership of real estate only becomes fully secure when it is registered in the <strong>land book (carte funciară)</strong> — the public register kept by the county Office of Cadastre and Land Registration (<strong>OCPI</strong>, the local arm of the national agency <strong>ANCPI</strong>). The registration of a definitive right in the land book is called <em>intabulare</em>. Until it happens, a property may physically exist and may even have old paper deeds, but it has no cadastral number, cannot be mortgaged, and cannot be sold through a notary in the normal way.</p><p>A large share of Romanian land — especially agricultural parcels restituted after 1991 — has never been through <strong>first registration</strong> (<em>prima înregistrare</em>). If you are buying such a parcel, or you have inherited one, registration is the gateway to everything else: sale, financing, building permits, EU grants, solar development.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "What the process involves",
+      "html": "<p>Cadastral registration is a two-part job: field and paperwork.</p><p><strong>On the ground</strong>, we measure the parcel with GNSS/RTK equipment and a total station, establish its boundaries — where useful, with the neighbours' written acknowledgement (<em>proces-verbal de vecinătate</em>) — and compute the real surface in Romania's official Stereo 70 coordinate system.</p><p><strong>On paper</strong>, we assemble the cadastral documentation: the site and delimitation plan (<em>plan de amplasament și delimitare</em>, PAD), the technical report, the coordinate inventory, and the digital file uploaded to ANCPI's e-Terra platform. We lodge the file with the competent OCPI, respond to any completion request from the registrar, and follow it until the land book is opened and you receive the extract showing you (or your seller) as registered owner.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Documents typically needed for first registration",
+      "items": [
+        "Proof of ownership: notarized deed, property title (titlu de proprietate), inheritance certificate, or court decision",
+        "Owner's identity documents (or company registration documents for legal entities)",
+        "Fiscal certificate from the town hall confirming local taxes are paid",
+        "For agricultural land: the agricultural register certificate from the town hall",
+        "For buildings: the building permit and completion documents, where they exist",
+        "Power of attorney, if a lawyer or notary acts for a remote owner"
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "Timelines and costs — the honest version",
+      "html": "<p>A straightforward first registration typically takes <strong>several weeks from measurement to a clean land book extract</strong>: the field work and documentation take days, while OCPI's legal processing time depends on the office's workload and whether you pay the official urgency fee. Complications — inheritance not yet settled, overlaps with neighbouring parcels, discrepancies between deed area and measured area — add time, and we tell you upfront when we see them.</p><p>Fees have two components: OCPI's official tariffs (fixed by ANCPI, with an urgency option) and our fee, which depends on parcel size, terrain and documentation complexity. We quote an indicative range before starting — see the <a href=\"/en/guides/land-survey-cost-romania.html\">guide to land survey and registration costs in Romania</a>.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Can you register property for an owner who lives abroad?",
+          "a": "Yes — this is routine for us. The cadastral file itself does not require your physical presence. Where a signature is legally required, your Romanian notary or lawyer can act under power of attorney, and we coordinate with them directly."
+        },
+        {
+          "q": "I have a notarized purchase deed. Isn't that enough proof of ownership?",
+          "a": "It proves the transaction, but Romanian practice treats the land book as the decisive record. Banks, grant authorities and buyers all ask for a current land book extract, not the deed. If the property was never registered, the deed is the input to registration — not a substitute for it."
+        },
+        {
+          "q": "What if the measured area differs from the area in my documents?",
+          "a": "This is common, particularly for agricultural land. Small differences within legal tolerances can usually be registered with the measured area; larger discrepancies require additional procedures, sometimes involving the neighbours or a land book rectification. We flag the situation and the realistic path before filing."
+        },
+        {
+          "q": "Who is allowed to prepare cadastral documentation in Romania?",
+          "a": "Only surveyors authorized by ANCPI. OCPI rejects files signed by anyone else. We are ANCPI-authorized, with 25+ years of practice and over 1,052 completed projects."
+        }
+      ]
+    }
+  ],
+  "related": [
+    "/en/services/land-registry-extract.html",
+    "/en/guides/romanian-land-registry-explained.html",
+    "/en/guides/buying-land-in-romania.html",
+    "/en/solar/unregistered-land-romania-pv-developers.html",
+    "/en/guides/land-survey-cost-romania.html"
+  ]
+}

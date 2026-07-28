@@ -1,0 +1,108 @@
+{
+  "slug": "autorizatie-construire-documentatie-topografica",
+  "title": "Autorizație de construire: documentația topografică 2026",
+  "h1": "Documentația topografică pentru autorizația de construire, explicată (2026)",
+  "metaDescription": "Ce planuri topografice îți cere primăria la autorizația de construire: plan de situație pe suport topografic vizat OCPI, studiu topografic pentru proiectare, trasarea construcției. Ghid 2026.",
+  "whatsappTopic": "documentația topografică pentru o autorizație de construire",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Unde intră topografia în drumul spre autorizație",
+      "text": "Orice construcție autorizată trece prin același lanț, stabilit de Legea 50/1991: certificat de urbanism → avize și proiect → autorizație de construire → execuție → recepție. Topografia apare în cel puțin trei puncte ale acestui lanț, iar lipsa sau calitatea slabă a pieselor topografice este una dintre cauzele frecvente de dosare returnate.\n\nPrima piesă: planul de situație pe suport topografic vizat de OCPI, cerut încă de la certificatul de urbanism și apoi în documentația tehnică pentru autorizație (DTAC) — el arată terenul real, cu vecinătăți, drumuri și construcții existente, la scările cerute de normele de aplicare (uzual 1:500 sau 1:1000). A doua: studiul topografic pentru proiectant — arhitectul și inginerii nu pot proiecta corect fără cote de nivel, pante și poziția exactă a rețelelor și limitelor. A treia: trasarea construcției la începutul execuției — transpunerea pe teren, cu precizie, a poziției proiectate a clădirii, condiție ca ce se construiește să corespundă cu ce s-a autorizat.\n\nCondiția zero, înaintea tuturor: terenul trebuie să fie intabulat. Fără carte funciară, nu există autorizație."
+    },
+    {
+      "type": "checklist",
+      "heading": "Piesele topografice pe care le poate cere primăria sau proiectantul",
+      "items": [
+        "Plan de situație / plan topografic pe suport cadastral, vizat (recepționat) de OCPI — pentru certificatul de urbanism și DTAC",
+        "Studiu topografic cu curbe de nivel și cote, pentru proiectare — mai ales pe terenuri în pantă",
+        "Plan de încadrare în zonă, la scara cerută prin certificatul de urbanism",
+        "Extras de carte funciară recent al terenului (dovada intabulării)",
+        "Documentație de actualizare, dacă situația din teren diferă de cartea funciară (construcții demolate/neînscrise)",
+        "Proces-verbal de trasare a construcției, la începutul execuției",
+        "Relevee și plan de amplasament actualizat, la finalizare, pentru intabularea construcției"
+      ]
+    },
+    {
+      "type": "process",
+      "heading": "Fluxul complet, cu partea topografică marcată",
+      "steps": [
+        {
+          "title": "Verificarea terenului (topograf)",
+          "text": "Confirmăm intabularea, verificăm dacă geometria din cartea funciară corespunde cu terenul real și semnalăm din timp problemele care ar bloca autorizarea (suprapuneri, diferențe de suprafață, construcții neînscrise)."
+        },
+        {
+          "title": "Certificatul de urbanism (primărie)",
+          "text": "Se depune cererea cu planurile de situație și încadrare. Certificatul spune ce poți construi și ce avize îți trebuie — inclusiv la ce scară se cer planurile."
+        },
+        {
+          "title": "Studiul topografic pentru proiectare (topograf)",
+          "text": "Măsurăm terenul cu tot ce e relevant pentru proiectant: cote, pante, accese, rețele vizibile, construcții și arbori. Un studiu bun scutește proiectantul de ipoteze și pe dumneavoastră de modificări ulterioare."
+        },
+        {
+          "title": "Planul topografic vizat OCPI pentru DTAC (topograf)",
+          "text": "Întocmim planul pe suport cadastral și îl depunem la OCPI pentru recepție (viza care confirmă corectitudinea lui). Piesa intră în dosarul de autorizare."
+        },
+        {
+          "title": "Autorizația de construire (primărie)",
+          "text": "Proiectantul asamblează DTAC cu avizele și planurile; primăria emite autorizația."
+        },
+        {
+          "title": "Trasarea construcției (topograf)",
+          "text": "La începerea lucrărilor, trasăm pe teren axele și colțurile construcției conform proiectului, cu proces-verbal de trasare — protecția dumneavoastră că fundația se toarnă unde trebuie, la distanțele legale față de vecini."
+        },
+        {
+          "title": "Recepția și intabularea construcției (primărie + topograf)",
+          "text": "După finalizare: recepția cu primăria, certificatul de atestare a edificării, apoi documentația cadastrală de înscriere a construcției în cartea funciară."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Costuri și termene orientative pentru partea topografică",
+      "text": "Planul topografic vizat OCPI pentru autorizare costă orientativ de la 800 lei, plan de situație simplu 800–900 lei, iar un studiu topografic complet pentru proiectare între 800 și 2.500 lei, în funcție de suprafață și relief. Trasarea construcției se ofertează după numărul de puncte și complexitate, orientativ 500–1.200 lei pentru o casă obișnuită. La acestea se adaugă tarifele OCPI pentru recepția planurilor.\n\nCa termene: măsurătorile și planul se fac de regulă în câteva zile; recepția OCPI a planului topografic adaugă zilele ei lucrătoare (cu opțiune de urgență). Sfatul practic: implicați topograful o dată, la început, pentru tot pachetul — verificare + studiu + plan vizat + trasare. Ies mai ieftine împreună decât comandate separat, iar proiectantul primește de la început date pe care se poate baza."
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        {
+          "q": "Ce înseamnă „plan topografic vizat OCPI” și de ce nu merge orice schiță?",
+          "a": "Este planul întocmit de o persoană autorizată ANCPI pe suportul cadastral oficial și recepționat de OCPI — viza confirmă că poziția terenului și a detaliilor corespunde evidențelor. Primăriile îl cer prin normele Legii 50/1991 tocmai ca autorizația să se emită pe realitate, nu pe o schiță aproximativă."
+        },
+        {
+          "q": "Pot folosi planul topografic de anul trecut, de la alt proiect?",
+          "a": "Dacă terenul și vecinătățile nu s-au schimbat, uneori da — dar primăria poate cere plan recent, iar dacă între timp au apărut construcții sau modificări cadastrale, planul vechi vă poate întoarce dosarul. Verificarea actualității costă mult mai puțin decât o respingere."
+        },
+        {
+          "q": "Terenul e în pantă. Chiar am nevoie de studiu cu curbe de nivel?",
+          "a": "Da, și e în interesul dumneavoastră: pe pantă, cotele decid soluția de fundare, demisolul, accesul și volumul de săpătură — adică bani. Un studiu topografic corect la început este cea mai ieftină asigurare contra „surprizelor de șantier”."
+        },
+        {
+          "q": "Casa e gata construită fără trasare și pare prea aproape de gard. Ce pot păți?",
+          "a": "Distanțele față de limite sunt condiții din autorizație și din Codul civil; nerespectarea lor poate ieși la iveală la recepție sau la un conflict cu vecinul. O măsurătoare de constatare stabilește exact situația — iar apoi se discută soluțiile, de la acordul vecinului la intrarea în legalitate. Mai ieftin era procesul-verbal de trasare, dar de undeva tot se pornește."
+        },
+        {
+          "q": "Voi construi în rate, în mai mulți ani. Când fac intabularea casei?",
+          "a": "Construcția se înscrie în cartea funciară după recepție (există și recepții parțiale pentru părți terminate). Autorizația are termen de valabilitate și de execuție — urmăriți-le; topografia vă trebuie la început (trasare) și la final (relevee pentru intabulare)."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Construiți? Luați partea topografică ca pachet",
+      "text": "Scrieți-ne pe WhatsApp localitatea, ce vreți să construiți și în ce stadiu sunteți (înainte de certificat de urbanism, la proiectare, la execuție). Vă spunem exact ce piese topografice vă trebuie, în ce ordine, cu termen și preț pentru tot pachetul. Informațiile din acest ghid au caracter informativ și nu constituie consultanță juridică."
+    }
+  ],
+  "related": {
+    "services": ["plan-topografic", "topografie-constructii", "trasare-teren", "intabulare-casa-constructie"],
+    "guides": ["acte-necesare-intabulare-casa", "plan-de-situatie-vs-plan-topografic", "trasare-teren-cand-ai-nevoie", "receptia-ocpi-ce-inseamna", "preturi-cadastru-topografie-2026"]
+  },
+  "sources": [
+    "https://lege5.ro/Gratuit/geydsnbyha/documentele-necesare-emiterii-certificatului-de-urbanism-si-autorizatiei-de-construire-desfiintare-norma-metodologica",
+    "https://lege5.ro/Gratuit/gy3dgmju/anexa-nr-1-lege-50-1991",
+    "https://smartac.ro/certificat-de-urbanism.html",
+    "https://www.necesit.ro/preturi/cadastru-topografie-geodezie/ridicare-topografica-pret",
+    "https://prolist.ro/costul-pentru-cadastru-geodezie-si-tipografie/"
+  ]
+}

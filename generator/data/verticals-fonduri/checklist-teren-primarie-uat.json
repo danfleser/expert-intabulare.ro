@@ -1,0 +1,67 @@
+{
+  "slug": "checklist-teren-primarie-uat",
+  "title": "Checklist teren: proiect al primăriei (UAT) pe fonduri europene | Expert Intabulare",
+  "h1": "Checklist de teren pentru proiectele primăriei: domeniul public, inventarul și cartea funciară",
+  "metaDescription": "Checklist pentru UAT-uri: domeniu public vs privat, inventarul bunurilor, intabularea imobilelor comunei înainte de proiecte pe fonduri europene sau naționale.",
+  "whatsappTopic": "pregătirea imobilelor UAT pentru un proiect",
+  "hook": "deadline",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Patrimoniul comunei, între inventar și cartea funciară",
+      "html": "<p>Orice primar care a trecut printr-un proiect — PNRR, Anghel Saligny, Regio, granturi SEE — cunoaște momentul: finanțatorul cere dovada proprietății asupra imobilului, iar imobilul comunei există în <strong>inventarul domeniului public</strong>… și nicăieri altundeva. Școala, căminul cultural, drumul, terenul de sport — toate „ale comunei dintotdeauna”, puține înscrise în cartea funciară. Iar între „al nostru din inventar” și „al nostru cu extras CF” stă exact diferența dintre un dosar eligibil și unul blocat la contractare.</p><p>Checklist-ul de mai jos e construit pentru secretarul general și responsabilul de achiziții/proiecte al UAT-ului: parcurge-l pentru fiecare imobil vizat de un proiect, ideal cu un an înainte de apel — intabularea patrimoniului public are pașii ei instituționali (HCL-uri, atestări) care nu se comprimă în săptămâna depunerii.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Checklist: imobilul UAT-ului, pregătit de proiect",
+      "items": [
+        "Imobilul figurează în inventarul atestat al domeniului public (sau în inventarul domeniului privat aprobat prin HCL)? Cu ce denumire și suprafață?",
+        "Apartenența corectă: domeniul public sau privat al UAT-ului — regimul juridic decide ce operațiuni sunt posibile (concesiune, dare în folosință, garantare)",
+        "Cartea funciară există? Dacă nu: primă înscriere pe baza inventarului și a actelor — pornită imediat, cu documentație cadastrală",
+        "Concordanța inventar ↔ realitate: suprafețele „istorice” din inventar rareori bat cu măsurătorile; diferențele se documentează și se corectează prin HCL înainte de dosar",
+        "Construcțiile publice intabulate ca atare (nu doar terenul): școala, dispensarul, căminul — fiecare corp înscris în partea I",
+        "La drumuri: coridor continuu intabulat, nu segmente; pozițiile kilometrice corelate cu nomenclatorul stradal",
+        "Sarcini și ocupări: contracte de închiriere/concesiune existente pe imobil, notate corespunzător; construcții private pe terenul public, clarificate",
+        "Administratorul corect: dacă solicitantul e o instituție subordonată (școala, serviciul public), dreptul de administrare înscris în CF pe aceasta",
+        "HCL-urile la zi: completarea/corectarea inventarului, aprobarea documentațiilor, acordurile pentru proiect — cu numerele pregătite pentru dosar",
+        "Extras CF de informare recent la depunere, pentru fiecare imobil din proiect"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Cum lucrăm cu UAT-urile: pachetul de intabulare a patrimoniului",
+      "html": "<p>Pentru comunele din Alba și județele vecine lucrăm în două regimuri. <strong>Regimul „proiect”</strong>: intabulăm punctual imobilul cerut de un apel — școala pentru un proiect de eficiență energetică, tronsonul de drum pentru Anghel Saligny — pe calendarul apelului. <strong>Regimul „patrimoniu”</strong>: program multianual de punere în carte funciară a întregului inventar, pe priorități stabilite cu primarul, astfel încât la următorul apel comuna să nu mai înceapă niciodată de la zero. Al doilea regim e mai ieftin pe imobil (mobilizări grupate, arhivă parcursă o singură dată) și transformă fiecare apel viitor dintr-o criză într-o formalitate.</p><p>Colaborăm cu secretariatul pentru HCL-uri și cu compartimentul urbanism pentru concordanța cu PUG-ul; livrăm documentațiile cadastrale, planurile topografice pentru proiectanți și — acolo unde inventarul are lacune — susținerea tehnică pentru completarea lui.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Comuna vrea să depună pe un apel în 3 luni și imobilul nu e intabulat. Reușim?", "a": "Pentru un imobil cu inventar clar și fără dispute: da, strâns — documentația cadastrală plus soluționarea OCPI se încadrează, dacă HCL-urile necesare se adoptă la timp. Pentru drumuri lungi sau imobile cu ocupări private, calendarul e mai lung. Trimite-ne lista imobilelor din proiect și primești un calendar pe fiecare." },
+        { "q": "Ce diferență practică e între domeniul public și cel privat al comunei?", "a": "Domeniul public e inalienabil, imprescriptibil și insesizabil — pe el se pot da administrare, concesiune sau folosință gratuită, dar nu se vinde și nu se ipotechează. Domeniul privat urmează regulile proprietății obișnuite. Programele acceptă ambele ca „dovadă a proprietății”, dar operațiunile cerute de proiect (de exemplu superficie pentru un partener privat) pot fi posibile doar pe domeniul privat." },
+        { "q": "Inventarul din 1999 are suprafețe care nu corespund cu realitatea. Cine corectează?", "a": "Consiliul local, prin hotărâre de modificare/completare a inventarului, pe baza măsurătorilor și documentațiilor noastre — iar la domeniul public, cu procedurile de atestare prevăzute de Codul administrativ. Noi livrăm partea tehnică și formulările pentru anexe; secretarul general duce fluxul de HCL." },
+        { "q": "Școala e a comunei, dar proiectul îl depune școala. E o problemă?", "a": "Nu, dacă dreptul de administrare al școlii e înscris în cartea funciară — asta cer ghidurile la instituțiile subordonate. Dacă înscrierea lipsește, e un pas suplimentar de făcut înainte de depunere: HCL de dare în administrare + înscrierea la OCPI." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Primărie cu proiecte în plan și CF-uri lipsă?",
+      "text": "Trimite-ne pe WhatsApp lista imobilelor vizate de proiecte — facem triajul: ce e intabulat, ce lipsește, cât durează fiecare, cu calendar pe apeluri."
+    }
+  ],
+  "related": [
+    "plan-topografic-anghel-saligny",
+    "intabulare-teren-hotarare-consiliu-local",
+    "checklist-teren-centru-social",
+    "ridicare-topografica-valul-renovarii",
+    "fonduri-norvegiene-documentatie-amplasament",
+    "arenda-comodat-concesiune-finantare",
+    "/servicii/cadastru-si-intabulare/",
+    "/dictionar/carte-funciara.html"
+  ],
+  "sources": [
+    "https://www.mdlpa.ro/subarticles/8/anghelsaligny",
+    "https://legislatie.just.ro/Public/DetaliiDocument/215925",
+    "https://www.ancpi.ro/"
+  ]
+}

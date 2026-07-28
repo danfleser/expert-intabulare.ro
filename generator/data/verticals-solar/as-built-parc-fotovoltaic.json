@@ -1,0 +1,75 @@
+{
+  "slug": "as-built-parc-fotovoltaic",
+  "title": "As-built parc fotovoltaic — documentația cerută la recepție, PIF și licențiere",
+  "h1": "Documentația as-built a parcului fotovoltaic: recepție, punere în funcțiune, licență ANRE, refinanțare",
+  "metaDescription": "Documentație as-built pentru parcuri fotovoltaice: cerută la recepție și PIF, utilă la licențierea ANRE peste 1 MW și la refinanțare. Măsurători pe amplasament.",
+  "whatsappTopic": "documentația as-built pentru un parc fotovoltaic",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Documentul care spune ce s-a construit de fapt",
+      "html": "<p>As-built-ul este ridicarea topografică a parcului așa cum a fost efectiv executat: pozițiile reale ale rândurilor de panouri, drumurile interne, traseele de cabluri, stația de transformare, împrejmuirea, traseul de racordare — toate măsurate pe teren, în Stereo 70, și comparate cu proiectul. Niciun șantier nu construiește la milimetru ce scrie în planșe; as-built-ul documentează diferențele și devine referința tehnică a activului pentru următorii 25–30 de ani.</p><p>Nu e o hârtie de arhivă. Documentația as-built a amplasamentului este cerută la recepția lucrărilor și la punerea în funcțiune, iar mai departe este utilă la licențierea de exploatare comercială ANRE — obligatorie peste 1 MW, înainte de vânzarea energiei — și la refinanțarea bancară, unde due diligence-ul tehnic al finanțatorului o cere printre primele documente. Scrie-ne pe WhatsApp cu stadiul șantierului și îți spunem exact ce măsurători mai lipsesc până la un as-built complet.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Ce conține un as-built de parc fotovoltaic făcut ca lumea",
+      "html": "<ul><li><strong>Pozițiile reale ale structurilor</strong> — rândurile de panouri măsurate după montaj, cu abaterile față de coordonatele din proiect evidențiate, nu ascunse.</li><li><strong>Rețelele îngropate</strong> — traseele de cabluri de string, medie tensiune și comunicații, cu poziții și adâncimi; măsurate corect doar dacă cineva a fost pe șantier înainte de acoperirea șanțurilor.</li><li><strong>Construcțiile</strong> — stația de transformare, clădirea tehnică, platformele, împrejmuirea și porțile, cu cotele platformelor finite.</li><li><strong>Drumurile interne</strong> — axe, lățimi și cote executate.</li><li><strong>Traseul de racordare</strong> până la punctul de conexiune, corelat cu documentația avizată de operatorul de distribuție.</li><li><strong>Planșele comparative proiect–execuție</strong> și inventarul de coordonate, predate în dwg/dxf și pdf, în formatul cerut de dirigintele de șantier, de comisia de recepție și de consultantul tehnic al băncii.</li></ul><p>Separat de as-built-ul topografic, construcțiile parcului — stația, clădirea tehnică — se <a href=\"/parcuri-fotovoltaice/intabulare-constructii-parc-fotovoltaic.html\">intabulează în cartea funciară</a> pe baza documentației cadastrale; panourile, fiind echipamente, nu se intabulează. Cele două documentații se fac cel mai eficient din aceleași măsurători.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Unde îți cere cineva as-built-ul",
+      "head": ["Moment", "Cine îl cere", "Ce se verifică"],
+      "rows": [
+        ["Recepția la terminarea lucrărilor", "comisia de recepție, dirigintele de șantier", "Conformitatea execuției cu autorizația și proiectul"],
+        ["Punerea în funcțiune (PIF)", "operatorul de rețea, în dosarul de PIF", "Amplasamentul și racordul, conform documentației avizate"],
+        ["Licențierea ANRE (peste 1 MW)", "ANRE, la licența de exploatare comercială", "Documentația tehnică a capacității, inclusiv amplasamentul"],
+        ["Refinanțare / vânzare", "consultantul tehnic al băncii sau cumpărătorului", "Ce există fizic vs ce scrie în acte; orice gaură scade valoarea"]
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "Greșeala clasică: as-built-ul lăsat pe ultima sută de metri",
+      "html": "<p>Cel mai frecvent mod de a rata un as-built bun e să-l comanzi după ce șantierul s-a închis. Cablurile sunt îngropate, șanțurile acoperite, iar pozițiile și adâncimile lor nu se mai pot măsura decât prin detecție aproximativă sau săpătură. Varianta corectă: as-built-ul se construiește pe parcurs — măsurători la fiecare fază care urmează să fie acoperită, din aceeași referință de coordonate folosită la <a href=\"/parcuri-fotovoltaice/trasare-piloni-parc-fotovoltaic.html\">trasarea piloniilor</a> și a <a href=\"/parcuri-fotovoltaice/trasare-drumuri-interne-parc-fotovoltaic.html\">drumurilor și șanțurilor</a>. La final rămâne doar consolidarea documentației, nu o arheologie a propriului șantier.</p><p>Colaborăm cu dezvoltatori și constructori în ambele scenarii: pe șantierele unde facem trasarea, măsurătorile as-built intră natural în fluxul de lucru; pe parcurile deja construite, măsurăm ce e vizibil, documentăm onest limitele pentru rețelele îngropate și livrăm un as-built care spune adevărul — exact ce vrea să vadă un consultant de due diligence la <a href=\"/parcuri-fotovoltaice/extindere-parc-fotovoltaic-masuratori.html\">extindere</a>, refinanțare sau vânzare.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "As-built-ul ca activ financiar, nu doar tehnic",
+      "html": "<p>Merită privit as-built-ul și cu ochii celui care îți va da bani pe parc. La refinanțare, consultantul tehnic al băncii compară trei surse: ce scrie în autorizație și proiect, ce arată as-built-ul și ce vede la vizita pe amplasament. Când cele trei se închid între ele, due diligence-ul avansează repede; când nu se închid — construcții neintabulate, trasee de cabluri nedocumentate, împrejmuire care nu corespunde cu limita din CF — fiecare neconcordanță devine o cerință de remediere, un cost și o întârziere în calendarul tranzacției. Am văzut suficiente dosare ca să spunem simplu: calitatea as-built-ului se regăsește în viteza tranzacției.</p><p>Același dosar servește și în exploatare: echipa de mentenanță știe pe unde sapă, extinderile se proiectează pe date reale, iar la un incident, asigurătorul primește documentație, nu aproximații. Un as-built făcut o dată, corect, lucrează pentru parc pe toată durata lui de viață.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Când e momentul potrivit să comandăm as-built-ul?",
+          "a": "La începutul execuției, nu la sfârșit. Măsurătorile pe faze — mai ales pe rețelele îngropate, înainte de acoperire — fac diferența dintre un as-built complet și unul cu goluri pe care le va găsi orice due diligence."
+        },
+        {
+          "q": "As-built-ul e obligatoriu și sub 1 MW?",
+          "a": "Documentația as-built a amplasamentului este cerută la recepție și la punerea în funcțiune indiferent de putere. Pragul de 1 MW contează pentru licența de exploatare comercială ANRE, necesară înainte de vânzarea energiei — acolo as-built-ul face parte din documentația tehnică pe care te sprijini."
+        },
+        {
+          "q": "Avem parcul construit din 2013, fără as-built. Se mai poate face?",
+          "a": "Da, cu limite oneste: măsurăm tot ce e vizibil la precizia necesară, iar pentru rețelele îngropate combinăm documentația de execuție existentă cu detecția și marcăm explicit gradul de încredere. Un as-built reconstituit corect e standardul minim pentru refinanțare sau repowering."
+        },
+        {
+          "q": "Ce ne trebuie ca să primim o ofertă?",
+          "a": "Planșele proiectului (layout, rețele, drumuri), stadiul execuției și termenul recepției. Trimite-le pe WhatsApp și primești oferta cu măsurătorile eșalonate pe fazele rămase ale șantierului — de regulă în aceeași zi."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/trasare-piloni-parc-fotovoltaic.html", "label": "Trasare piloni parc fotovoltaic" },
+    { "href": "/parcuri-fotovoltaice/intabulare-constructii-parc-fotovoltaic.html", "label": "Intabulare construcții din parc" },
+    { "href": "/parcuri-fotovoltaice/monitorizare-tasari-constructii.html", "label": "Monitorizare tasări construcții" },
+    { "href": "/parcuri-fotovoltaice/extindere-parc-fotovoltaic-masuratori.html", "label": "Măsurători pentru extinderea parcului" },
+    { "href": "/servicii/intabulare-casa-constructie/", "label": "Intabulare construcții — serviciul de bază" },
+    { "href": "/dictionar/as-built.html", "label": "Dicționar: as-built" }
+  ],
+  "sources": [
+    { "url": "https://veltol-energy.ro/conditii-de-infiintare-pentru-un-parc-fotovoltaic-etape-documente-si-autorizatii-necesare/", "title": "Veltol Energy — etape, documente și autorizații pentru un parc fotovoltaic (PIF, licența ANRE)" }
+  ],
+  "enPair": "/en/solar/as-built-survey-pv-plants.html"
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "plan-topografic-vizat-ocpi",
+  "title": "Plan topografic vizat OCPI — piesa obligatorie la SF, DALI și DTAC | Expert Intabulare",
+  "h1": "Planul topografic vizat OCPI: ce este, ce conține, cum se obține",
+  "metaDescription": "Plan topografic vizat OCPI pentru SF, DALI și autorizația de construire: conținut minim, scări 1:500–1:2000, procesul de recepție conform Ordinului 700/2014.",
+  "whatsappTopic": "plan topografic vizat OCPI",
+  "hook": "deadline",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Piesa care leagă terenul de proiect",
+      "html": "<p>Planul topografic vizat OCPI este documentul pe care îl cer, în formulări aproape identice, toate ghidurile de finanțare cu componentă de construcție, HG 907/2016 la anexele SF/DALI și primăriile la autorizare: o reprezentare la scară a terenului — limite, construcții, rețele, relief — întocmită de o persoană autorizată ANCPI și <strong>recepționată tehnic de Oficiul de Cadastru și Publicitate Imobiliară</strong>, conform Ordinului ANCPI 700/2014. „Viza” este exact această recepție: OCPI confirmă că măsurătorile sunt în sistemul național de referință, corect executate și integrabile în fondul național de geodezie și cartografie.</p><p>De ce insistă toată lumea pe viză? Pentru că ea transformă un desen într-un document opozabil: proiectantul știe că relieful și limitele sunt reale, primăria știe că amplasamentul e cel din actele imobilului, iar finanțatorul știe că investiția se proiectează pe terenul din dosar, nu pe o schiță optimistă.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Conținutul minim al unui plan topografic serios",
+      "items": [
+        "Limitele imobilului conform cărții funciare, suprapuse pe măsurătorile reale din teren",
+        "Toate construcțiile existente, cu contur măsurat, nu preluat din acte",
+        "Rețelele și utilitățile vizibile: stâlpi, cămine, hidranți, guri de scurgere — plus cele indicate de deținători, unde există",
+        "Punctele de cotă și curbele de nivel, în sistem de referință Marea Neagră 1975",
+        "Coordonate în sistemul național Stereo 70, cu inventar de coordonate",
+        "Vecinătăți, accese, drumuri — cu regimul lor (public/privat) unde e relevant",
+        "Cartuș complet: autorizația ANCPI a executantului, data măsurătorilor, scara, beneficiarul"
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Ce scară se folosește și când",
+      "head": ["Scara", "Utilizare tipică", "Observații"],
+      "rows": [
+        ["1:500", "Parcele urbane, clădiri, incinte mici", "Standardul pentru DTAC în intravilan"],
+        ["1:1000", "Incinte industriale, amplasamente medii, ferme", "Echilibrul uzual la proiecte cu finanțare"],
+        ["1:2000", "Amplasamente mari, trasee scurte de rețele", "Frecvent la SF-uri pe suprafețe întinse"],
+        ["1:5000", "Planuri de încadrare, studii de traseu, extravilan larg", "De regulă pe suport ortofotoplan"]
+      ]
+    },
+    {
+      "type": "process",
+      "heading": "Procesul de obținere, de la comandă la viză",
+      "steps": [
+        { "title": "Tema de la proiectant", "text": "Stabilim cu proiectantul zona de studiu, scara și cerințele speciale (curbe de nivel, secțiuni, rețele). O temă clară elimină refacerile — cel mai frecvent motiv de întârziere nu e OCPI-ul, ci zona de studiu măsurată prea mică." },
+        { "title": "Măsurătorile", "text": "Teren cu GPS RTK și stație totală; durata depinde de suprafață și de vegetație — de la câteva ore pentru o parcelă urbană la câteva zile pentru incinte mari." },
+        { "title": "Redactarea și depunerea la OCPI", "text": "Întocmim planul și îl depunem pentru recepție tehnică. Termenul de soluționare la OCPI este de ordinul zilelor lucrătoare, cu variații între oficii și tipuri de lucrări." },
+        { "title": "Livrarea", "text": "Primești planul vizat în PDF pentru dosar și DWG/DXF pentru proiectant, plus inventarul de coordonate. Orice clarificare cerută de OCPI o gestionăm noi — este lucrarea noastră, nu grija ta." }
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Cât timp este valabil planul topografic vizat OCPI?", "a": "Legea nu îi dă un termen de expirare; cerința instituțiilor este să fie „actualizat”, adică să reflecte situația reală. Dacă în teren nu s-a schimbat nimic, planul rămâne utilizabil; în practică, multe instituții privesc cu rezervă planurile mai vechi de 6–12 luni și pot cere confirmarea actualității." },
+        { "q": "E același lucru cu planul de amplasament și delimitare (PAD)?", "a": "Nu. PAD-ul e piesă de cadastru — definește limitele juridice pentru cartea funciară. Planul topografic e piesă de proiectare — arată terenul așa cum este, cu relief și detalii. Avem un tabel comparativ pe pagina dedicată PAD-ului." },
+        { "q": "Pot să-l facă „băieții cu drona” mai ieftin?", "a": "Fotogrametria e o unealtă excelentă — o folosim și noi la suprafețe mari — dar viza OCPI cere persoană autorizată ANCPI, măsurători în sistem național și răspundere profesională asumată. Un plan neavizat, oricât de frumos, nu este piesa cerută de ghid sau de primărie." },
+        { "q": "Terenul nu e intabulat. Pot obține plan topografic vizat?", "a": "Planul topografic se poate întocmi, dar fără carte funciară proiectul tău are o problemă mai mare: lipsește dovada proprietății. De regulă rezolvăm împreună — prima înscriere și planul topografic, în aceeași mobilizare de teren, cu economie reală de timp și bani." }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "De ce se întorc planurile de la recepție — și cum depunem noi ca să nu se întâmple",
+      "html": "<p>Recepția OCPI nu e o ștampilă automată: inspectorul verifică proveniența măsurătorilor, încadrarea în sistemul național, coerența cu imobilele deja înscrise și conținutul planșei față de regulament. Motivele clasice pentru care planurile altora se întorc: zone de studiu care ating imobile vecine fără ca relația cu ele să fie tratată corect, inventare de coordonate incomplete sau contradictorii cu planșa, detalii obligatorii lipsă pentru scopul declarat al planului, conversii greșite din măsurători GNSS. Fiecare întoarcere costă un ciclu întreg: corectură, redepunere, reașteptare — două-trei săptămâni evaporate dintr-un calendar care nu le avea.</p><p>Procedura noastră internă înainte de orice depunere, construită din exact aceste lecții: verificarea încrucișată a inventarului de coordonate cu planșa desenată, controlul suprapunerilor față de imobilele înscrise (pe datele OCPI, nu doar pe geoportal), completitudinea conținutului pe tipul de lucrare și — banal dar decisiv — recitirea temei de proiectare, ca planul depus să fie planul cerut. Rezultatul se vede în statistica pe care o urmărim intern: majoritatea covârșitoare a lucrărilor noastre trec din prima depunere. Nu pentru că inspectorii ne-ar face favoruri — nu funcționează așa nicăieri — ci pentru că dosarul complet nu le dă ocazia să ceară altceva.</p>"
+    },
+    {
+      "type": "cta",
+      "heading": "Îți trebuie planul vizat OCPI?",
+      "text": "Trimite-ne pe WhatsApp localitatea, numărul cadastral și ce ți-a cerut proiectantul sau finanțatorul — revenim cu termen și cost orientativ în aceeași zi."
+    }
+  ],
+  "related": [
+    "ce-inseamna-vizat-ocpi",
+    "plan-topografic-pnrr",
+    "ridicare-topografica-studiu-fezabilitate",
+    "plan-amplasament-delimitare-pad",
+    "termene-avizare-ocpi",
+    "pret-plan-topografic-fonduri-europene",
+    "aviz-ocpi-respins-motive",
+    "/servicii/plan-topografic/",
+    "/dictionar/stereo-70.html",
+    "/dictionar/ordinul-700-2014.html"
+  ],
+  "sources": [
+    "https://www.ancpi.ro/",
+    "https://legislatie.just.ro/Public/DetaliiDocument/159910",
+    "https://legislatie.just.ro/Public/DetaliiDocument/185166"
+  ]
+}

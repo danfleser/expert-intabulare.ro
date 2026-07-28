@@ -1,0 +1,75 @@
+{
+  "slug": "carport-fotovoltaic-documentatie",
+  "title": "Carport fotovoltaic — documentația topografică pentru autorizare",
+  "h1": "Carport fotovoltaic: ce documentație topografică îți cere autorizația de construire",
+  "metaDescription": "Carport fotovoltaic cu autorizație de construire: plan de situație pe suport topografic, trasare, intabulare. Documentație completă, topograf autorizat ANCPI.",
+  "whatsappTopic": "documentația topografică pentru un carport fotovoltaic",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Carportul e construcție nouă — și se autorizează ca o construcție nouă",
+      "html": "<p>Un carport fotovoltaic — structura care acoperă parcarea cu panouri — nu e „doar niște panouri pe stâlpi\". Din perspectiva primăriei este o construcție nouă, cu fundații, structură și acoperiș, deci parcurge traseul clasic de autorizare: certificat de urbanism, avize, documentație tehnică pentru autorizația de construire (DTAC), autorizație, execuție, recepție. Iar acest traseu are nevoie de topografie în cel puțin trei momente: la planul de situație pentru autorizare, la trasarea construcției pe teren și la documentația cadastrală de după recepție.</p><p>Noi acoperim toate cele trei etape din aceeași măsurătoare de bază, pentru companiile care își montează carporturi în parcările proprii și pentru constructorii care le execută — colaborăm cu dezvoltatori și constructori pe tot fluxul. Dacă vrei să afli rapid ce presupune pentru amplasamentul tău, trimite-ne extrasul CF al terenului pe WhatsApp și îți spunem în aceeași zi ce pași urmează și în ce ordine.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Planul de situație pe suport topografic: piesa de bază din DTAC",
+      "html": "<p>Documentația pentru autorizația de construire se așază pe un plan de situație întocmit pe suport topografic în sistemul național de coordonate Stereo 70, recepționat de OCPI conform Ordinului ANCPI nr. 700/2014. Pentru un carport, planul trebuie să arate corect:</p><ul><li><strong>limitele cadastrale</strong> ale imobilului și vecinătățile — carportul trebuie să respecte retragerile față de limite, deci limitele trebuie să fie cele reale, nu cele presupuse;</li><li><strong>construcțiile existente</strong> din incintă (hala, clădirea de birouri, cabina poartă), cu distanțele față de viitoarea structură;</li><li><strong>rețelele și elementele existente</strong>: stâlpi, cămine, guri de scurgere, canale — sub parcări trec des trasee pe care nimeni nu le mai ține minte;</li><li><strong>cotele terenului</strong> în zona carportului, pentru proiectarea fundațiilor și a scurgerii apelor.</li></ul><p>Dacă terenul sau construcțiile existente nu sunt înscrise corect în cartea funciară, rezolvi asta înainte de a depune pentru autorizație — altfel dosarul se blochează la prima verificare. Verificăm situația din CF chiar la prima discuție.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Trasarea carportului: fundațiile se fac o singură dată",
+      "html": "<p>La execuție, materializăm pe teren axele și pozițiile fundațiilor din proiect, cu GPS RTK și stație totală, în toleranțe de ±2–3 cm. La carporturi asta contează mai mult decât pare: structurile metalice vin prefabricate, cu prinderi la distanțe fixe, iar o fundație turnată cu 5 cm în afara poziției înseamnă adaptări de șantier scumpe sau, în cazul urât, spargere și returnare. Predăm procesul-verbal de trasare cu inventarul de coordonate — documentul pe care dirigintele de șantier îl atașează la cartea construcției.</p><p>Tot la execuție putem verifica și cotele de fundare și planeitatea platformei, cu <a href=\"/parcuri-fotovoltaice/nivelment-de-precizie.html\">nivelment de precizie</a>, dacă proiectantul o cere. Metodele sunt aceleași ca la <a href=\"/parcuri-fotovoltaice/trasare-piloni-parc-fotovoltaic.html\">trasarea piloniilor de parc fotovoltaic</a>, doar scara diferă.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "După recepție: carportul se intabulează",
+      "html": "<p>Spre deosebire de panourile în sine, care sunt echipamente și nu se înscriu în cartea funciară, carportul este construcție și se intabulează pe baza documentației cadastrale întocmite după recepție. Intabularea nu e un moft: fără construcția înscrisă în CF, imobilul apare incomplet la orice due diligence, iar finanțările și tranzacțiile viitoare se complică. Documentația cadastrală de înscriere a construcției o pregătim noi, din măsurătoarea as-built de la finalul execuției — vezi și pagina despre <a href=\"/parcuri-fotovoltaice/intabulare-constructii-parc-fotovoltaic.html\">ce se intabulează și ce nu într-un proiect fotovoltaic</a> și serviciul de <a href=\"/servicii/intabulare-casa-constructie/\">intabulare construcții</a>.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Checklist: documentația topo-cadastrală a unui proiect de carport",
+      "items": [
+        "Extras CF la zi pentru teren și construcțiile existente — verificat înainte de orice cheltuială",
+        "Plan de situație pe suport topografic vizat OCPI, pentru certificatul de urbanism și DTAC",
+        "Ridicare topografică a zonei de amplasare, cu rețele și elemente existente",
+        "Proces-verbal de trasare cu inventar de coordonate, la începerea execuției",
+        "Verificări de cote pe parcursul execuției, unde proiectantul le cere",
+        "Documentație cadastrală pentru intabularea carportului după recepție"
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Orice carport fotovoltaic are nevoie de autorizație de construire?",
+          "a": "Regimul exact îl stabilește primăria prin certificatul de urbanism, în funcție de amplasament și de dimensiunea structurii. Practic, la carporturile cu fundații ne așteptăm la autorizație de construire — de aceea primul pas corect e cererea certificatului de urbanism, nu comanda structurii."
+        },
+        {
+          "q": "Aveți nevoie de proiectul carportului ca să faceți planul de situație?",
+          "a": "Nu pentru măsurătoare — aceasta se face pe situația existentă. Pentru trasare, da: lucrăm pe coordonatele din proiectul tehnic. Ideal, intrăm în contact cu proiectantul devreme, ca planul de situație să conțină de la început tot ce îi trebuie."
+        },
+        {
+          "q": "Cât durează partea topografică?",
+          "a": "Măsurătoarea pentru planul de situație durează de regulă o zi pe teren plus câteva zile de birou, la care se adaugă recepția OCPI conform termenelor în vigoare. Trasarea se face într-o zi, programată cu constructorul. Detalii pe pagina despre durate."
+        },
+        {
+          "q": "Parcarea e pe teren închiriat — se poate autoriza carportul?",
+          "a": "Autorizarea cere un drept asupra terenului care să permită construirea, iar chiria simplă de regulă nu ajunge. Soluția uzuală e superficia înscrisă în CF. Situația juridică o vede notarul și juristul tău; noi pregătim documentația cadastrală necesară înscrierii."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/releveu-acoperis-hala-panouri-fotovoltaice.html", "label": "Releveu acoperiș hală pentru panouri" },
+    { "href": "/parcuri-fotovoltaice/intabulare-constructii-parc-fotovoltaic.html", "label": "Ce se intabulează într-un parc fotovoltaic" },
+    { "href": "/parcuri-fotovoltaice/trasare-piloni-parc-fotovoltaic.html", "label": "Trasarea piloniilor — metode și toleranțe" },
+    { "href": "/servicii/intabulare-casa-constructie/", "label": "Intabulare construcții" },
+    { "href": "/servicii/plan-topografic/", "label": "Plan topografic — serviciul de bază" },
+    { "href": "/dictionar/superficie.html", "label": "Dicționar: superficie" }
+  ],
+  "sources": [
+    { "url": "https://legislatie.just.ro/Public/DetaliiDocument/160177", "title": "Ordinul ANCPI nr. 700/2014 — regulamentul de avizare, recepție și înscriere" }
+  ]
+}

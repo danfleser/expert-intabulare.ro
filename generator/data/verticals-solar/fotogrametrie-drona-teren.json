@@ -1,0 +1,78 @@
+{
+  "slug": "fotogrametrie-drona-teren",
+  "title": "Fotogrametrie cu drona pentru terenuri fotovoltaice — MDT pe suprafețe mari",
+  "h1": "Fotogrametrie cu drona: când bate stația totală și cum garantăm precizia",
+  "metaDescription": "Fotogrametrie UAV pentru terenuri de parc fotovoltaic: GCP-uri, precizie 2–5 cm, nor de puncte, MDT, ortofotoplan. Când are sens drona față de metoda clasică.",
+  "whatsappTopic": "fotogrametrie cu drona pentru terenul unui parc fotovoltaic",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Zece hectare într-o zi de zbor, nu într-o săptămână de teren",
+      "html": "<p>Pe amplasamentele mari, fotogrametria cu drona schimbă economia măsurătorii: în loc să culegi punct cu punct cu GNSS-ul, fotografiezi sistematic întreaga suprafață și obții un nor de puncte dens, din care derivăm modelul digital al terenului, curbele de nivel și ortofotoplanul. Pragul practic de la care drona devine mai eficientă decât metoda clasică este în jur de 10 hectare — adică exact zona în care trăiesc proiectele fotovoltaice.</p><p>Ce primești: nor de puncte clasificat, <a href=\"/parcuri-fotovoltaice/model-digital-teren-parc-fotovoltaic.html\">MDT cu breaklines</a>, curbe de nivel la echidistanța cerută de proiectant, <a href=\"/parcuri-fotovoltaice/ortofotoplan-drona-parc-fotovoltaic.html\">ortofotoplan de înaltă rezoluție</a> și inventar de coordonate — totul georeferențiat în Stereo 70 și predat în formatele softului tău de proiectare. Iar precizia nu e „de dronă”, ci de topograf: blocul fotogrametric e legat de puncte de control măsurate la sol, cu verificări independente.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Dronă sau măsurătoare clasică: comparație onestă",
+      "head": ["Criteriu", "Fotogrametrie UAV", "GNSS RTK + stație totală"],
+      "rows": [
+        ["Suprafață eficientă", "peste ~10 ha, fără limită superioară practică", "sub ~10 ha sau zone punctuale"],
+        ["Timp de teren la 30 ha", "de regulă o zi", "mai multe zile"],
+        ["Densitate de date", "milioane de puncte, suprafață continuă", "puncte discrete, unde calcă topograful"],
+        ["Precizie altimetrică", "2–5 cm, în funcție de GSD și de GCP-uri", "±2–3 cm GNSS; milimetric cu stația totală"],
+        ["Limite", "nu vede solul sub vegetație densă; sensibil la vânt și vreme", "lent pe suprafețe mari; acoperire punctuală"]
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "GCP-uri, GSD și verificări: de unde vine precizia reală",
+      "html": "<p>Un zbor fără puncte de control la sol produce un model frumos și nefolosibil în proiectare. De aceea, înainte de zbor materializăm și măsurăm cu GNSS RTK (±2–3 cm) o rețea de puncte de control (GCP — ground control points) distribuite pe toată suprafața și pe toate treptele de relief, plus puncte de verificare independente, pe care nu le folosim la calcul, ci doar la controlul rezultatului. Abia raportul pe punctele de verificare spune cât de bun e modelul — și îl predăm odată cu livrabilele.</p><p>Al doilea parametru care decide calitatea este GSD-ul (ground sample distance) — dimensiunea pixelului la sol, stabilită prin înălțimea de zbor. Cu un GSD de ordinul centimetrilor și GCP-uri corect distribuite, precizia modelului se încadrează onest în 2–5 cm. Nu promitem mai mult, pentru că fotogrametria nu poate mai mult: cine îți garantează precizie milimetrică din zbor îți vinde altceva decât poate livra.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Limitele metodei — și cum le compensăm",
+      "html": "<p>Fotogrametria măsoară suprafața vizibilă din aer. Sub vegetație înaltă și densă — porumb nerecoltat, stufăriș, tufăriș compact — camera vede coronamentul, nu solul. Pe astfel de zone completăm măsurătoarea clasic, cu GNSS sau stație totală, și marcăm explicit în livrabil unde modelul e fotogrametric și unde e completat terestru. Programarea zborului contează la fel de mult: pe teren agricol, fereastra ideală este după recoltare sau înainte de creșterea culturii, iar vântul puternic sau lumina slabă pot muta zborul cu o zi-două — de aceea planificăm ferestre, nu date fixe, și îți comunicăm din timp fereastra realistă pentru amplasamentul tău.</p><p>Tot clasic măsurăm și elementele care cer precizie punctuală: limitele cadastrale, bornele, rețelele vizibile, elementele de infrastructură. Drona nu înlocuiește topograful — îi multiplică randamentul pe suprafață. Rezultatul intră în <a href=\"/parcuri-fotovoltaice/studiu-topografic-parc-fotovoltaic.html\">studiul topografic vizat OCPI</a> ca orice măsurătoare clasică, pentru că responsabilitatea profesională e aceeași indiferent de instrument.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Livrabile și pasul următor",
+      "html": "<p>Predăm norul de puncte (las/laz), MDT-ul în format grid și TIN, curbele de nivel, ortofotoplanul GeoTIFF și planșele — în dwg/dxf, LandXML sau shp, după <a href=\"/parcuri-fotovoltaice/date-topografice-format-proiectare.html\">specificația proiectantului</a>. Din același set de date derivăm ulterior <a href=\"/parcuri-fotovoltaice/panta-teren-parc-fotovoltaic.html\">hărțile de pantă</a> și <a href=\"/parcuri-fotovoltaice/calcul-volumetrie-terasamente.html\">calculele de terasamente</a>, fără nicio remăsurare. Colaborăm cu dezvoltatori și constructori pe amplasamente din Alba, Cluj, Mureș, Sibiu și Hunedoara. Trimite-ne extrasul CF pe WhatsApp, cu suprafața vizată — îți spunem în aceeași zi dacă terenul se pretează la zbor, cât durează și cât costă orientativ.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Modelul din dronă e acceptat de OCPI și de proiectanți?",
+          "a": "Da, cu condiția să fie legat de puncte de control măsurate la sol și integrat într-o documentație întocmită de topograf autorizat, în Stereo 70. Proiectanții primesc în plus raportul de precizie pe punctele de verificare, ca să știe exact pe ce se bazează."
+        },
+        {
+          "q": "Ce se întâmplă dacă terenul e acoperit de cultură?",
+          "a": "Planificăm zborul după recoltare sau completăm zonele acoperite cu măsurători terestre. Un model care redă vârful culturii în loc de sol produce erori de zeci de centimetri în cote — de aceea marcăm transparent proveniența fiecărei zone din model."
+        },
+        {
+          "q": "Cât durează de la zbor la livrabile?",
+          "a": "Zborul și măsurarea GCP-urilor durează de regulă o zi pentru un amplasament tipic; prelucrarea și întocmirea livrabilelor, câteva zile lucrătoare, în funcție de suprafață și de ce anume ai comandat. Termenul exact îl primești în ofertă."
+        },
+        {
+          "q": "Ce primesc ca dovadă a preciziei modelului?",
+          "a": "Raportul de precizie pe punctele de verificare independente: pentru fiecare punct, diferența dintre coordonata măsurată la sol și cea din model. E singura dovadă obiectivă a calității unui produs fotogrametric și o predăm standard, odată cu livrabilele — nu la cerere."
+        },
+        {
+          "q": "Sub 10 hectare mai are sens drona?",
+          "a": "Rar ca metodă principală — la suprafețe mici, GNSS-ul și stația totală sunt la fel de rapide și mai directe. Are sens totuși când vrei și ortofotoplan de prezentare sau documentare vizuală a amplasamentului, nu doar date de proiectare."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/ortofotoplan-drona-parc-fotovoltaic.html", "label": "Ortofotoplan de înaltă rezoluție cu drona" },
+    { "href": "/parcuri-fotovoltaice/model-digital-teren-parc-fotovoltaic.html", "label": "Model digital al terenului (MDT)" },
+    { "href": "/parcuri-fotovoltaice/studiu-topografic-parc-fotovoltaic.html", "label": "Studiu topografic vizat OCPI" },
+    { "href": "/parcuri-fotovoltaice/date-topografice-format-proiectare.html", "label": "Date topografice în formatul proiectantului" },
+    { "href": "/servicii/plan-topografic/", "label": "Plan topografic — serviciul de bază" },
+    { "href": "/dictionar/mdt.html", "label": "Dicționar: MDT" }
+  ],
+  "sources": [],
+  "enPair": "/en/solar/drone-photogrammetry-dtm-solar-sites.html"
+}

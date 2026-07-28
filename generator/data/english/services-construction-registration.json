@@ -1,0 +1,57 @@
+{
+  "path": "/en/services/construction-registration.html",
+  "title": "Registering a Building in Romania — Construction Registration in the Land Book",
+  "metaDescription": "How to register a house or building in the Romanian land book: the completion certificate, cadastral documentation, and what to do about unpermitted buildings. English-speaking ANCPI-authorized surveyor.",
+  "h1": "Registering a Building in the Romanian Land Book",
+  "navLabelEn": "Building registration",
+  "roPair": "https://expert-intabulare.ro/servicii/intabulare-casa-constructie/",
+  "whatsappPrefillEn": "Hello! I need to register a building/house in the Romanian land book.",
+  "sections": [
+    {
+      "type": "html",
+      "heading": "A building is not legally \"there\" until it is registered",
+      "html": "<p>In the Romanian system, land and the buildings on it are recorded together in the land book (<em>carte funciară</em>) — but the building only appears once it is explicitly registered. A finished house that exists physically but not in Part I of the land book cannot be sold as a house, insured on sane terms, mortgaged, or counted as an asset in a financing or grant file. The transaction would legally cover bare land.</p><p>Registration of a new building (<em>înscrierea construcției</em>) is therefore the closing step of every construction project — and, for buyers, a key due diligence check: if the listing says \"house\" but the land book says \"arable land\", you have found a problem worth pricing in.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "How registration works",
+      "html": "<p>The core requirements are proof that the building was legally erected and a technical description of what stands. In the standard case that means:</p><ul><li>the <strong>building permit</strong> (<em>autorizație de construire</em>) under which the works were done,</li><li>the <strong>certificate attesting completion</strong> (<em>certificat de atestare a edificării construcției</em>) issued by the town hall, confirming the building was finished in accordance with the permit,</li><li>our <strong>cadastral documentation</strong>: measurements of the building's footprint and floors, an updated site plan, and for apartments an interior plan (<em>releveu</em>),</li><li>the OCPI file, which we lodge and follow until the building appears in the land book and the property's fiscal record is updated.</li></ul><p>For apartment buildings, the process extends to <em>apartamentare</em> — dividing the building into individual units, each with its own land book, plus the collective land book for common parts.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Buildings without a permit — the honest picture",
+      "html": "<p>Romania has many buildings erected without a permit or beyond the permitted scope. Whether such a building can be registered depends on when it was built and on the legalization procedures available at the time of filing — in some situations registration is possible on the basis of specific attestations; in others, entering legality through the town hall must come first, and in some cases registration is simply not possible until the legal situation is fixed. We do not promise shortcuts: we assess the specific case on documents, tell you which path exists, and prepare the technical file for it. This matters acutely in EU-funded projects, where an unregistered or unpermitted building on the site can block eligibility.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "We finished construction years ago and never registered. Is that a problem?",
+          "a": "It is fixable but should not wait: registration is a precondition for selling, mortgaging or extending the building, and town-hall attestations are easier to obtain while records and administrations are still accessible. We handle late registrations routinely."
+        },
+        {
+          "q": "Can you register a building for a foreign owner remotely?",
+          "a": "Yes. The technical file needs site access for measurements, not your presence; signatures happen through your Romanian notary or under power of attorney, and we coordinate the town-hall certificate locally."
+        },
+        {
+          "q": "Does a solar plant count as a building?",
+          "a": "The panels themselves are not registered as buildings, but transformer stations, technical buildings and fencing generally are. See our dedicated page on as-built and registration work for PV plants."
+        },
+        {
+          "q": "How long does building registration take, and what does it cost?",
+          "a": "With the permit and completion certificate in hand, the measurement and documentation take days and OCPI's processing takes its official time, shortenable with the urgency fee — weeks overall. Costs scale with building size and the state of the paperwork; obtaining a missing town-hall certificate adds steps we quote transparently. What multiplies both time and cost is missing legality, which is why we assess the documents before promising anything."
+        },
+        {
+          "q": "We are buying a property where the house isn't registered. Should the seller fix it or should we?",
+          "a": "Commercially, push it onto the seller before signing — they hold the permits and the relationship with the town hall, and the price should reflect the defect if they refuse. If you inherit the problem anyway, we can usually cure it after purchase; the point is to know the cure's length and cost before you agree the price, not after."
+        }
+      ]
+    }
+  ],
+  "related": [
+    "/en/services/cadastral-registration.html",
+    "/en/services/building-stakeout.html",
+    "/en/solar/as-built-survey-pv-plants.html",
+    "/en/guides/buying-land-in-romania.html"
+  ]
+}

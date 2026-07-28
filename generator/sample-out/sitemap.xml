@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://expert-intabulare.ro/sitemap-core.xml</loc>
+    <lastmod>2026-07-28</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://expert-intabulare.ro/sitemap-servicii-alba.xml</loc>
+    <lastmod>2026-07-28</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://expert-intabulare.ro/sitemap-servicii-vecini.xml</loc>
+    <lastmod>2026-07-28</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://expert-intabulare.ro/sitemap-ghid.xml</loc>
+    <lastmod>2026-07-28</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://expert-intabulare.ro/sitemap-verticale.xml</loc>
+    <lastmod>2026-07-28</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://expert-intabulare.ro/sitemap-dictionar.xml</loc>
+    <lastmod>2026-07-28</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://expert-intabulare.ro/sitemap-en.xml</loc>
+    <lastmod>2026-07-28</lastmod>
+  </sitemap>
+</sitemapindex>

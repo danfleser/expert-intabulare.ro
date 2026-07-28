@@ -1,0 +1,57 @@
+{
+  "path": "/en/services/topographic-survey.html",
+  "title": "Topographic Survey in Romania — OCPI-Stamped Plans for Permits & Projects",
+  "metaDescription": "OCPI-stamped topographic surveys in Romania: when you need one, what it contains, deliverable formats (DWG/DXF, PDF, LandXML) and realistic timelines. ANCPI-authorized surveyor in Transylvania.",
+  "h1": "Topographic Surveys in Romania: The Plan Every Permit Is Built On",
+  "navLabelEn": "Topographic survey",
+  "roPair": "https://expert-intabulare.ro/servicii/plan-topografic/",
+  "whatsappPrefillEn": "Hello! I need a topographic survey (plan topografic) for a site in Romania.",
+  "sections": [
+    {
+      "type": "html",
+      "heading": "What a Romanian topographic survey is — and the OCPI stamp that makes it official",
+      "html": "<p>A topographic survey (<em>plan topografic</em>) is the scaled technical drawing of a site as it actually is: boundaries, relief with contour lines, buildings, roads, fences, visible utilities, and elevations, all in Romania's official Stereo 70 coordinate system. It is the factual base on which architects, engineers and authorities work.</p><p>The detail foreign clients most often miss: for permitting purposes, Romanian authorities require the survey to be <strong>received and stamped by OCPI</strong> (the county cadastre office) — the so-called <em>viză OCPI</em>. An unstamped drawing, however accurate, is not accepted in a building-permit or feasibility file. Only ANCPI-authorized surveyors can submit surveys for this stamp; we handle the entire cycle, from field work to the stamped plan in your inbox.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "When you need one",
+      "html": "<ul><li><strong>Building permits (DTAC)</strong> and the urbanism certificate stage before them</li><li><strong>Feasibility studies (SF/DALI)</strong> for construction and infrastructure projects, including EU-funded ones</li><li><strong>Zoning plans (PUZ/PUD)</strong> — the survey underlies the urbanist's entire documentation</li><li><strong>Solar parks</strong> — site design, terrain modelling and grid-connection routes (see the <a href=\"/en/solar/solar-park-topographic-survey.html\">dedicated PV survey page</a>)</li><li><strong>Design input</strong> — your engineer needs real elevations, not assumptions, before drawing anything</li></ul>"
+    },
+    {
+      "type": "html",
+      "heading": "What you receive",
+      "html": "<p>Deliverables are tailored to who consumes them. The permit file gets the OCPI-stamped plan at the required scale (typically 1:500 to 1:2000). Your design team gets the working files: <strong>DWG/DXF</strong> with layered detail, coordinate inventories, and where relevant <strong>LandXML or point data for a digital terrain model</strong>. PDFs for everyone else. We state accuracy honestly — measurements are made with survey-grade GNSS/RTK receivers and a total station, and for large or complex sites we add <a href=\"/en/solar/drone-photogrammetry-dtm-solar-sites.html\">drone photogrammetry</a>.</p><p>Timeline: field work on a typical site takes a day or less; drawing and quality control a few days; the OCPI reception adds the office's official processing time, which can be shortened with the legal urgency fee. We plan backwards from your permit or financing deadline and tell you before starting whether the deadline is realistic.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Is a topographic survey the same as a cadastral plan?",
+          "a": "No. The cadastral site plan (PAD) defines the legal parcel for the land book; the topographic survey describes the physical terrain for design and permitting. Projects usually need both, and it is cheapest to commission them together from the same surveyor since the field work overlaps."
+        },
+        {
+          "q": "How long is a stamped survey valid?",
+          "a": "There is no universal statutory expiry, but authorities expect the plan to reflect current reality — if the site changes, or years pass, an update will be requested. For active projects we recommend surveying close to the permit submission."
+        },
+        {
+          "q": "Can you deliver in formats compatible with our design software?",
+          "a": "Yes — DWG/DXF as standard, plus coordinate lists, LandXML and terrain-model exports on request. Tell us what your designers use and we deliver accordingly."
+        },
+        {
+          "q": "We received a survey from the seller of a site. Can you verify it instead of resurveying?",
+          "a": "Yes, and it is often the economical first step: we check the coordinate system, the OCPI stamp, the plan against the registered parcel geometry, and spot-measure control points on the ground. If the inherited survey holds up, you save the cost of a new one; if it does not, you have found out before your designers built on bad data."
+        },
+        {
+          "q": "What does a survey cost?",
+          "a": "It scales with site area, terrain, vegetation and the deliverables required — a fenced flat parcel and a wooded hillside are different jobs. We quote an indicative range on the site's actual parameters, usually the same day you send the location and scope; see the cost guide for orientation on how pricing works."
+        }
+      ]
+    }
+  ],
+  "related": [
+    "/en/solar/solar-park-topographic-survey.html",
+    "/en/services/building-stakeout.html",
+    "/en/services/engineering-survey.html",
+    "/en/guides/land-survey-cost-romania.html"
+  ]
+}

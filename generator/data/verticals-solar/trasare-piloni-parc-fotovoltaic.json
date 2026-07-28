@@ -1,0 +1,73 @@
+{
+  "slug": "trasare-piloni-parc-fotovoltaic",
+  "title": "Trasare piloni parc fotovoltaic — precizie centimetrică, ritm de șantier",
+  "h1": "Trasarea piloniilor pentru parcuri fotovoltaice: toleranțe, ritm și un singur adevăr pe șantier",
+  "metaDescription": "Trasare piloni pentru parcuri fotovoltaice: GPS RTK ±2–3 cm, stație totală, tabele de coordonate din proiect, ritm adaptat utilajului de batere. Alba și vecinătăți.",
+  "whatsappTopic": "trasarea piloniilor pentru un parc fotovoltaic",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Fiecare pilon, la coordonata lui din proiect",
+      "html": "<p>Trasarea piloniilor este momentul în care proiectul coboară din CAD pe teren: fiecare poziție de pilon din tabelul de coordonate al proiectantului trebuie materializată pe amplasament, cu o precizie care să țină structura în toleranțe și un ritm care să nu țină utilajul de batere pe loc. La mii de piloni pe un parc de câțiva MW, ambele cerințe sunt la fel de importante — o trasare precisă dar lentă costă la fel de mult ca una rapidă și imprecisă, doar altfel.</p><p>Lucrăm cu GPS/GNSS RTK la ±2–3 cm în plan pentru fluxul principal și cu stația totală, la precizie milimetrică pe distanțe scurte, acolo unde recepția satelitară e obturată sau unde structura cere mai mult. Toleranțele uzuale de trasare la piloni sunt de ±2–3 cm, iar acolo unde furnizorul structurii impune valori mai strânse, lucrăm pe specificația lui. Scrie-ne pe WhatsApp cu layoutul sau tabelul de coordonate și îți spunem în aceeași zi ritmul și costul orientativ pentru amplasamentul tău.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "De la tabelul de coordonate la țărușul din teren",
+      "html": "<p>Fluxul de lucru corect începe înainte de prima zi de șantier:</p><ul><li><strong>Verificarea tabelului de coordonate.</strong> Confirmăm că pozițiile piloniilor din proiect sunt în Stereo 70, că se închid cu limitele cadastrale ale imobilului și că nu există conflicte evidente cu elemente din teren — un pilon proiectat peste un șanț sau prea aproape de limită se descoperă acum, nu cu utilajul pe poziție.</li><li><strong>Legarea de rețeaua de sprijin.</strong> Trasarea pleacă de la aceleași borne materializate la <a href=\"/parcuri-fotovoltaice/studiu-topografic-parc-fotovoltaic.html\">studiul topografic</a> — o singură referință de coordonate de la măsurătoare la as-built înseamnă zero dispute despre „a cui e abaterea\".</li><li><strong>Materializarea pozițiilor</strong> cu țăruși și marcaje convenite cu echipa de batere, în ordinea și pe frontul de lucru cerut de graficul lor — trasăm în avans exact cât consumă utilajele, ca marcajele să nu stea săptămâni în calea plugurilor de cabluri.</li><li><strong>Predarea pe proces-verbal</strong>, cu inventarul de coordonate al punctelor trasate, pe zone — documentul care ține evidența clară între topograf, constructor și dirigintele de șantier.</li></ul>"
+    },
+    {
+      "type": "table",
+      "heading": "Metodă și toleranțe, onest",
+      "head": ["Situație", "Metodă", "Precizie / toleranță"],
+      "rows": [
+        ["Trasare curentă piloni structură fixă", "GNSS RTK", "±2–3 cm în plan; toleranțe uzuale de trasare ±2–3 cm"],
+        ["Zone cu recepție slabă (liziere, lângă LEA)", "Stație totală de la rețeaua de sprijin", "precizie milimetrică pe distanțe scurte"],
+        ["Rânduri de tracker monoaxial", "GNSS RTK + verificare pe aliniament", "conform specificației furnizorului, tipic sub ±2 cm pe aliniament"],
+        ["Platforme stații / fundații speciale", "Stație totală + nivelment", "conform proiectului de fundații"]
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "Ritmul: trasarea nu are voie să fie gâtul de sticlă",
+      "html": "<p>Un utilaj de batere care stă după topograf e cel mai vizibil mod de a pierde bani pe un șantier PV. Ritmul de trasare depinde de teren, vegetație, distanțe de deplasare și de câte echipe de batere alimentăm în paralel — de aceea nu promitem o cifră unică de piloni pe zi, ci calibrăm ritmul pe graficul constructorului, cu fronturi de lucru trasate în avans și cu prezență pe șantier planificată pe faze, nu la întâmplare. Colaborăm cu dezvoltatori și constructori și ne sincronizăm direct cu șeful de șantier al echipei de montaj.</p><p>Tot în execuție trasăm <a href=\"/parcuri-fotovoltaice/trasare-drumuri-interne-parc-fotovoltaic.html\">drumurile interne, șanțurile de cabluri și împrejmuirea</a>, iar pentru fundațiile stației de transformare facem <a href=\"/parcuri-fotovoltaice/nivelment-de-precizie.html\">nivelment de precizie</a>. La final, aceleași echipamente și aceeași referință produc <a href=\"/parcuri-fotovoltaice/as-built-parc-fotovoltaic.html\">documentația as-built</a> cerută la recepție.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Controlul după batere: bucla care închide calitatea",
+      "html": "<p>Trasarea nu se termină la țăruș. După baterea piloniilor măsurăm prin sondaj — sau, la cererea constructorului ori a furnizorului structurii, integral — pozițiile reale ale piloniilor bătuți și le comparăm cu proiectul. Rezultatul e un raport de control pe zone, cu abaterile în plan și pe cotă pentru fiecare pilon verificat. Utilajul de batere introduce propriile abateri, independente de trasare; raportul le separă clar și le prinde devreme, cât corecțiile se fac pe câțiva piloni, nu pe câteva sute.</p><p>Acest control timpuriu e și cea mai bună asigurare a graficului: o derivă sistematică a utilajului descoperită după primele rânduri costă o reglare; aceeași derivă descoperită la montajul structurii costă săptămâni. Măsurătorile de control intră apoi direct în documentația as-built — încă un motiv pentru care același topograf pe trasare și pe as-built scurtează și șantierul, și dosarul de recepție.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Ce ne trebuie de la voi ca să începeți trasarea?",
+          "a": "Tabelul de coordonate al piloniilor (sau layoutul dwg din care îl extragem), specificația de toleranțe a furnizorului structurii și graficul de execuție. Verificăm datele înainte de mobilizare și semnalăm orice conflict cu situația din teren."
+        },
+        {
+          "q": "Câți piloni pe zi puteți trasa?",
+          "a": "Depinde de teren, vegetație și de organizarea fronturilor de lucru, așa că cifra o stabilim pe proiect, nu o promitem generic. Ce garantăm e principiul: trasăm în avans față de utilajul de batere, ca trasarea să nu fie niciodată motivul unei zile pierdute."
+        },
+        {
+          "q": "Ce se întâmplă dacă un pilon trasat iese din toleranță la verificare?",
+          "a": "Punctele trasate se predau cu inventar de coordonate pe proces-verbal, deci orice abatere se poate verifica obiectiv față de proiect. Dacă o poziție e în afara toleranței convenite, o retrasăm pe costul nostru — de aceea insistăm pe o singură referință de coordonate pentru tot șantierul."
+        },
+        {
+          "q": "Trasați și pe șantiere unde studiul topografic l-a făcut altcineva?",
+          "a": "Da. Preluăm rețeaua de sprijin existentă, o verificăm prin măsurători de control și abia apoi trasăm. Dacă rețeaua are probleme, afli înainte să se bată primul pilon, nu la as-built."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/trasare-trackere-fotovoltaice.html", "label": "Trasare tracker-e monoaxiale" },
+    { "href": "/parcuri-fotovoltaice/trasare-drumuri-interne-parc-fotovoltaic.html", "label": "Trasare drumuri interne și trasee de cabluri" },
+    { "href": "/parcuri-fotovoltaice/nivelment-de-precizie.html", "label": "Nivelment de precizie pentru fundații" },
+    { "href": "/parcuri-fotovoltaice/as-built-parc-fotovoltaic.html", "label": "Documentație as-built" },
+    { "href": "/servicii/trasare-teren/", "label": "Trasare teren — serviciul de bază" },
+    { "href": "/dictionar/stereografic-1970-stereo-70.html", "label": "Dicționar: Stereo 70" }
+  ],
+  "sources": [],
+  "enPair": "/en/solar/pv-pile-tracker-stakeout.html"
+}

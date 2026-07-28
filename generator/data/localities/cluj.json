@@ -1,0 +1,657 @@
+[
+  {
+    "name": "Aiton",
+    "slug": "aiton",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Aiton",
+      "Rediu"
+    ],
+    "lat": 46.6833,
+    "lon": 23.7333,
+    "ocpiOffice": {
+      "name": "BCPI Turda",
+      "address": "Str. George Coșbuc nr. 2, Turda"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "cluj",
+    "localNote": "Aitonul stă pe dealurile dintre Turda și Cluj-Napoca; pe aici trecea drumul roman Potaissa–Napoca, atestat de borna miliară descoperită în sat. Hotarul agricol are arabil și pășuni în parcele moștenite. Comuna este arondată la BCPI Turda.",
+    "nearby": []
+  },
+  {
+    "name": "Apahida",
+    "slug": "apahida",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Apahida",
+      "Bodrog",
+      "Corpadea",
+      "Câmpenești",
+      "Dezmir",
+      "Pata",
+      "Sub Coastă",
+      "Sânnicoară"
+    ],
+    "lat": 46.8167,
+    "lon": 23.75,
+    "ocpiOffice": {
+      "name": "BCPI Cluj-Napoca",
+      "address": "Str. Alexandru Vaida Voevod nr. 53, Cluj-Napoca"
+    },
+    "matrix": "reduced",
+    "profile": "periurban",
+    "countyNotesRef": "cluj",
+    "localNote": "Apahida, la est de Cluj-Napoca, e nodul unde se despart DN1C spre Dej și DN16 spre Reghin, cu dezvoltare logistică și rezidențială accelerată. Hotarul mare al comunei se întinde peste lunca Someșului Mic și dealurile Câmpiei. Dosarele se depun la BCPI Cluj-Napoca.",
+    "nearby": []
+  },
+  {
+    "name": "Băișoara",
+    "slug": "baisoara",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Băișoara",
+      "Frăsinet",
+      "Moara de Pădure",
+      "Muntele Bocului",
+      "Muntele Băișorii",
+      "Muntele Cacovei",
+      "Muntele Filii",
+      "Muntele Săcelului",
+      "Săcel"
+    ],
+    "lat": 46.5833,
+    "lon": 23.4667,
+    "ocpiOffice": {
+      "name": "BCPI Turda",
+      "address": "Str. George Coșbuc nr. 2, Turda"
+    },
+    "matrix": "reduced",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "cluj",
+    "localNote": "Băișoara e cunoscută pentru stațiunea montană Muntele Băișorii, la peste 1.200 de metri, deasupra văii Ierii. Cabanele și terenurile de agrement din stațiune au înmulțit cererile de intabulare. Dosarele se depun la BCPI Turda.",
+    "nearby": []
+  },
+  {
+    "name": "Călărași",
+    "slug": "calarasi",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Călărași",
+      "Bogata",
+      "Călărași-Gară"
+    ],
+    "lat": 46.4833,
+    "lon": 23.8667,
+    "ocpiOffice": {
+      "name": "BCPI Turda",
+      "address": "Str. George Coșbuc nr. 2, Turda"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "cluj",
+    "localNote": "Călărașii, cu satul Bogata, stau în câmpia de lângă Turda, pe drumul spre Câmpia Turzii. Hotarul e agricol, cu arabil comasat în exploatații mari. Dosarele se depun la BCPI Turda.",
+    "nearby": []
+  },
+  {
+    "name": "Câmpia Turzii",
+    "slug": "campia-turzii",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "municipiu",
+    "villages": [],
+    "lat": 46.55,
+    "lon": 23.8833,
+    "ocpiOffice": {
+      "name": "BCPI Turda",
+      "address": "Str. George Coșbuc nr. 2, Turda"
+    },
+    "matrix": "reduced",
+    "profile": "urban",
+    "countyNotesRef": "cluj",
+    "localNote": "Câmpia Turzii stă pe Arieș, lângă Turda, cu tradiție în industria sârmei și acces direct la A3 și DN15. Zona industrială și cartierele de case generează constant lucrări de intabulare și actualizare. Dosarele se depun la BCPI Turda, aflat la câțiva kilometri.",
+    "nearby": []
+  },
+  {
+    "name": "Ceanu Mare",
+    "slug": "ceanu-mare",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Ceanu Mare",
+      "Andici",
+      "Boian",
+      "Bolduț",
+      "Ciurgău",
+      "Dosu Napului",
+      "Fânațe",
+      "Hodăi-Boian",
+      "Iacobeni",
+      "Morțești",
+      "Strucut",
+      "Stârcu",
+      "Valea lui Cati"
+    ],
+    "lat": 46.6667,
+    "lon": 23.95,
+    "ocpiOffice": {
+      "name": "BCPI Turda",
+      "address": "Str. George Coșbuc nr. 2, Turda"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "cluj",
+    "localNote": "Ceanu Mare își risipește cele treisprezece sate pe dealurile Câmpiei Transilvaniei, între Turda și Mociu. Hotarul imens, cu arabil și pășuni, păstrează multe parcele cu acte vechi. Dosarele se depun la BCPI Turda.",
+    "nearby": []
+  },
+  {
+    "name": "Ciurila",
+    "slug": "ciurila",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Ciurila",
+      "Filea de Jos",
+      "Filea de Sus",
+      "Pruniș",
+      "Pădureni",
+      "Sălicea",
+      "Săliște",
+      "Șutu"
+    ],
+    "lat": 46.65,
+    "lon": 23.55,
+    "ocpiOffice": {
+      "name": "BCPI Turda",
+      "address": "Str. George Coșbuc nr. 2, Turda"
+    },
+    "matrix": "reduced",
+    "profile": "periurban",
+    "countyNotesRef": "cluj",
+    "localNote": "Ciurila își împarte satele pe dealurile dintre Turda și Cluj-Napoca, în jurul lacurilor de la Filea. Apropierea de Cluj a transformat multe fânețe în loturi de casă. Competența aparține BCPI Turda.",
+    "nearby": []
+  },
+  {
+    "name": "Cluj-Napoca",
+    "slug": "cluj-napoca",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "municipiu",
+    "villages": [],
+    "lat": 46.7667,
+    "lon": 23.6,
+    "ocpiOffice": {
+      "name": "BCPI Cluj-Napoca",
+      "address": "Str. Alexandru Vaida Voevod nr. 53, Cluj-Napoca"
+    },
+    "matrix": "reduced",
+    "profile": "urban",
+    "countyNotesRef": "cluj",
+    "localNote": "Cluj-Napoca, cel mai mare oraș al Transilvaniei, se află pe Someșul Mic, la capătul culoarului care urcă din valea Arieșului prin Turda pe DN1/E81 și A3. Piața imobiliară clujeană este cea mai activă din regiune, cu termene aglomerate la birourile de carte funciară. Dosarele se depun la BCPI Cluj-Napoca, în sediul OCPI Cluj de lângă Iulius Mall; pentru lucrări de teren ajungem din Aiud pe autostradă.",
+    "nearby": []
+  },
+  {
+    "name": "Cojocna",
+    "slug": "cojocna",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Cojocna",
+      "Boj-Cătun",
+      "Boju",
+      "Cara",
+      "Huci",
+      "Iuriu de Câmpie",
+      "Moriști",
+      "Straja"
+    ],
+    "lat": 46.75,
+    "lon": 23.8333,
+    "ocpiOffice": {
+      "name": "BCPI Cluj-Napoca",
+      "address": "Str. Alexandru Vaida Voevod nr. 53, Cluj-Napoca"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "cluj",
+    "localNote": "Cojocna, la est de Cluj, e cunoscută pentru băile sărate cu lacuri formate pe vechile ocne. Comuna mare, cu sate risipite în Câmpia Transilvaniei, are hotar agricol întins. Comuna este arondată la BCPI Cluj-Napoca.",
+    "nearby": []
+  },
+  {
+    "name": "Feleacu",
+    "slug": "feleacu",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Feleacu",
+      "Casele Micești",
+      "Gheorghieni",
+      "Sărădiș",
+      "Vâlcele"
+    ],
+    "lat": 46.7167,
+    "lon": 23.6167,
+    "ocpiOffice": {
+      "name": "BCPI Cluj-Napoca",
+      "address": "Str. Alexandru Vaida Voevod nr. 53, Cluj-Napoca"
+    },
+    "matrix": "reduced",
+    "profile": "periurban",
+    "countyNotesRef": "cluj",
+    "localNote": "Feleacul stă pe dealul care domină Cluj-Napoca dinspre sud, cu DN1 șerpuind prin sat. Panorama orașului și apropierea de aeroport au făcut din terenurile de aici unele dintre cele mai căutate din zonă. Dosarele se depun la BCPI Cluj-Napoca.",
+    "nearby": []
+  },
+  {
+    "name": "Florești",
+    "slug": "floresti",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Florești",
+      "Luna de Sus",
+      "Tăuți"
+    ],
+    "lat": 46.7457,
+    "lon": 23.4937,
+    "ocpiOffice": {
+      "name": "BCPI Cluj-Napoca",
+      "address": "Str. Alexandru Vaida Voevod nr. 53, Cluj-Napoca"
+    },
+    "matrix": "reduced",
+    "profile": "periurban",
+    "countyNotesRef": "cluj",
+    "localNote": "Floreștiul, pe Someșul Mic la vest de Cluj-Napoca, a devenit cea mai populată comună din România în urma boomului imobiliar. Blocurile și ansamblurile noi cer apartamentări, dezmembrări și intabulări în flux continuu. Comuna este arondată la BCPI Cluj-Napoca.",
+    "nearby": []
+  },
+  {
+    "name": "Frata",
+    "slug": "frata",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Frata",
+      "Berchieșu",
+      "Oaș",
+      "Olariu",
+      "Poiana Frății",
+      "Pădurea Iacobeni",
+      "Răzoare",
+      "Soporu de Câmpie"
+    ],
+    "lat": 46.7,
+    "lon": 24.05,
+    "ocpiOffice": {
+      "name": "BCPI Turda",
+      "address": "Str. George Coșbuc nr. 2, Turda"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "cluj",
+    "localNote": "Frata stă în inima Câmpiei Transilvaniei, la est de Ceanu Mare, cu sate mici printre dealuri și iazuri. Terenurile agricole întinse se arendează în mare parte exploatațiilor mari. Competența aparține BCPI Turda.",
+    "nearby": []
+  },
+  {
+    "name": "Gilău",
+    "slug": "gilau",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Gilău",
+      "Someșu Cald",
+      "Someșu Rece"
+    ],
+    "lat": 46.7325,
+    "lon": 23.3617,
+    "ocpiOffice": {
+      "name": "BCPI Cluj-Napoca",
+      "address": "Str. Alexandru Vaida Voevod nr. 53, Cluj-Napoca"
+    },
+    "matrix": "reduced",
+    "profile": "periurban",
+    "countyNotesRef": "cluj",
+    "localNote": "Gilăul stă la confluența Someșului Mic cu Căpușul, la poalele Munților Gilău, cu lacul de acumulare Gilău alături. Prin comună trece drumul spre Huedin și Oradea, iar casele de vacanță din zonă s-au înmulțit. Competența aparține BCPI Cluj-Napoca.",
+    "nearby": []
+  },
+  {
+    "name": "Iara",
+    "slug": "iara",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Iara",
+      "Agriș",
+      "Borzești",
+      "Buru",
+      "Cacova Ierii",
+      "Făgetu Ierii",
+      "Lungești",
+      "Mașca",
+      "Măgura Ierii",
+      "Ocolișel",
+      "Surduc",
+      "Valea Agrișului",
+      "Valea Vadului"
+    ],
+    "lat": 46.55,
+    "lon": 23.5167,
+    "ocpiOffice": {
+      "name": "BCPI Turda",
+      "address": "Str. George Coșbuc nr. 2, Turda"
+    },
+    "matrix": "reduced",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "cluj",
+    "localNote": "Iara stă în depresiunea omonimă, între Muntele Mare și valea Arieșului, pe drumul Turda–Buru–Băișoara. Comuna adună multe sate cu fânețe montane și pădure, moștenite în parcele mici. Comuna ține de BCPI Turda.",
+    "nearby": []
+  },
+  {
+    "name": "Luna",
+    "slug": "luna",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Luna",
+      "Gligorești",
+      "Luncani"
+    ],
+    "lat": 46.5066,
+    "lon": 23.9196,
+    "ocpiOffice": {
+      "name": "BCPI Turda",
+      "address": "Str. George Coșbuc nr. 2, Turda"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "cluj",
+    "localNote": "Luna se află pe malul Arieșului, lângă Câmpia Turzii; pe raza comunei funcționează baza aeriană cunoscută sub numele orașului vecin. Satele Luncani și Gligorești au arabil fertil în lunca râului. Competența este la BCPI Turda.",
+    "nearby": []
+  },
+  {
+    "name": "Mihai Viteazu",
+    "slug": "mihai-viteazu",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Mihai Viteazu",
+      "Cheia",
+      "Cornești"
+    ],
+    "lat": 46.5333,
+    "lon": 23.75,
+    "ocpiOffice": {
+      "name": "BCPI Turda",
+      "address": "Str. George Coșbuc nr. 2, Turda"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "cluj",
+    "localNote": "Mihai Viteazu, pe Arieș lângă Turda, include satul Cheia, punctul de acces dinspre sud-est spre Cheile Turzii. Lunca fertilă a Arieșului poartă legume și arabil intensiv, în parcele căutate. Dosarele se depun la BCPI Turda.",
+    "nearby": []
+  },
+  {
+    "name": "Mociu",
+    "slug": "mociu",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Mociu",
+      "Boteni",
+      "Chesău",
+      "Crișeni",
+      "Falca",
+      "Ghirișu Român",
+      "Roșieni",
+      "Turmași",
+      "Zorenii de Vale"
+    ],
+    "lat": 46.8,
+    "lon": 24.0333,
+    "ocpiOffice": {
+      "name": "BCPI Cluj-Napoca",
+      "address": "Str. Alexandru Vaida Voevod nr. 53, Cluj-Napoca"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "cluj",
+    "localNote": "Mociul, pe DN16 Cluj–Reghin, e cunoscut în istoria științei pentru ploaia de meteoriți din 1882, printre cele mai mari căderi documentate din Europa. Comuna e un centru agricol al Câmpiei Transilvaniei, cu hotar întins. Dosarele se depun la BCPI Cluj-Napoca.",
+    "nearby": []
+  },
+  {
+    "name": "Moldovenești",
+    "slug": "moldovenesti",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Moldovenești",
+      "Bădeni",
+      "Pietroasa",
+      "Plăiești",
+      "Podeni",
+      "Stejeriș"
+    ],
+    "lat": 46.5,
+    "lon": 23.65,
+    "ocpiOffice": {
+      "name": "BCPI Turda",
+      "address": "Str. George Coșbuc nr. 2, Turda"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "cluj",
+    "localNote": "Moldoveneștiul stă pe Arieș, în amonte de Turda, spre Buru, la marginea nordică a Trascăului. Satele Bădeni, Plăiești și Pietroasa au hotare cu arabil în luncă și fânețe pe dealuri. Comuna ține de BCPI Turda; dinspre Aiud se ajunge și prin Rimetea.",
+    "nearby": []
+  },
+  {
+    "name": "Petreștii de Jos",
+    "slug": "petrestii-de-jos",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Petreștii de Jos",
+      "Crăești",
+      "Deleni",
+      "Livada",
+      "Petreștii de Mijloc",
+      "Petreștii de Sus",
+      "Plaiuri"
+    ],
+    "lat": 46.5833,
+    "lon": 23.65,
+    "ocpiOffice": {
+      "name": "BCPI Turda",
+      "address": "Str. George Coșbuc nr. 2, Turda"
+    },
+    "matrix": "reduced",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "cluj",
+    "localNote": "Petreștii de Jos ocupă valea Hășdatelor, pe latura vestică a Cheilor Turzii, sub marginea Trascăului. Satele risipite au fânețe și pășuni pe versanți calcaroși. Dosarele se depun la BCPI Turda.",
+    "nearby": []
+  },
+  {
+    "name": "Ploscoș",
+    "slug": "ploscos",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Ploscoș",
+      "Crairât",
+      "Lobodaș",
+      "Valea Florilor"
+    ],
+    "lat": 46.643,
+    "lon": 23.8466,
+    "ocpiOffice": {
+      "name": "BCPI Turda",
+      "address": "Str. George Coșbuc nr. 2, Turda"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "cluj",
+    "localNote": "Ploscoșul stă pe dealurile dintre Turda și Valea Florilor, o comună mică formată în jurul fostelor exploatări de sare gemă din zonă. Hotarul e dominat de pășuni și arabil în pantă domoală. Dosarele se depun la BCPI Turda.",
+    "nearby": []
+  },
+  {
+    "name": "Săndulești",
+    "slug": "sandulesti",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Săndulești",
+      "Copăceni"
+    ],
+    "lat": 46.5833,
+    "lon": 23.7167,
+    "ocpiOffice": {
+      "name": "BCPI Turda",
+      "address": "Str. George Coșbuc nr. 2, Turda"
+    },
+    "matrix": "reduced",
+    "profile": "periurban",
+    "countyNotesRef": "cluj",
+    "localNote": "Sănduleștiul stă pe platoul de deasupra Turzii, la intrarea nordică în Cheile Turzii, cu cariera de calcar vizibilă de departe. Satele Săndulești și Copăceni au hotare mici, strânse între chei și oraș. Competența este la BCPI Turda.",
+    "nearby": []
+  },
+  {
+    "name": "Săvădisla",
+    "slug": "savadisla",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Săvădisla",
+      "Finișel",
+      "Hășdate",
+      "Lita",
+      "Liteni",
+      "Stolna",
+      "Vlaha",
+      "Vălișoara"
+    ],
+    "lat": 46.6833,
+    "lon": 23.45,
+    "ocpiOffice": {
+      "name": "BCPI Turda",
+      "address": "Str. George Coșbuc nr. 2, Turda"
+    },
+    "matrix": "reduced",
+    "profile": "periurban",
+    "countyNotesRef": "cluj",
+    "localNote": "Săvădisla, cu satele Vlaha și Stolna, stă la poalele Muntelui Mare, între Cluj-Napoca și Băișoara. Turismul rural și casele de vacanță au adus tranzacții tot mai dese cu terenuri. Competența este la BCPI Turda.",
+    "nearby": []
+  },
+  {
+    "name": "Tritenii de Jos",
+    "slug": "tritenii-de-jos",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Tritenii de Jos",
+      "Clapa",
+      "Colonia",
+      "Pădureni",
+      "Tritenii de Sus",
+      "Tritenii-Hotar"
+    ],
+    "lat": 46.5833,
+    "lon": 24.0,
+    "ocpiOffice": {
+      "name": "BCPI Turda",
+      "address": "Str. George Coșbuc nr. 2, Turda"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "cluj",
+    "localNote": "Tritenii de Jos ocupă valea Racilor în Câmpia Transilvaniei, la nord-est de Câmpia Turzii. Comuna e una dintre cele mai întinse zone agricole din bazinul Arieșului inferior, cu parcele comasate. Comuna ține de BCPI Turda.",
+    "nearby": []
+  },
+  {
+    "name": "Turda",
+    "slug": "turda",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "municipiu",
+    "villages": [],
+    "lat": 46.5667,
+    "lon": 23.7833,
+    "ocpiOffice": {
+      "name": "BCPI Turda",
+      "address": "Str. George Coșbuc nr. 2, Turda"
+    },
+    "matrix": "reduced",
+    "profile": "urban",
+    "countyNotesRef": "cluj",
+    "localNote": "Turda, pe Arieș, e cunoscută pentru Salina Turda și pentru apropierea Cheilor Turzii; prin oraș trec DN1 și autostrada A3. Pentru noi este cea mai apropiată zonă urbană din județul Cluj, la o jumătate de oră de Aiud. BCPI Turda, de pe Str. George Coșbuc nr. 2, acoperă tot bazinul Turda–Câmpia Turzii.",
+    "nearby": []
+  },
+  {
+    "name": "Tureni",
+    "slug": "tureni",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Tureni",
+      "Ceanu Mic",
+      "Comșești",
+      "Micești",
+      "Mărtinești"
+    ],
+    "lat": 46.6293,
+    "lon": 23.7024,
+    "ocpiOffice": {
+      "name": "BCPI Turda",
+      "address": "Str. George Coșbuc nr. 2, Turda"
+    },
+    "matrix": "reduced",
+    "profile": "periurban",
+    "countyNotesRef": "cluj",
+    "localNote": "Turenii se află pe DN1 între Turda și Feleacu, lângă Cheile Turenilor, defileul săpat de pârâul Racilor în calcar. Apropierea de Cluj și de autostradă a scumpit terenurile din hotar. Dosarele se depun la BCPI Turda.",
+    "nearby": []
+  },
+  {
+    "name": "Viișoara",
+    "slug": "viisoara",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Viișoara",
+      "Urca"
+    ],
+    "lat": 46.55,
+    "lon": 23.9167,
+    "ocpiOffice": {
+      "name": "BCPI Turda",
+      "address": "Str. George Coșbuc nr. 2, Turda"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "cluj",
+    "localNote": "Viișoara stă pe Arieș, imediat în aval de Câmpia Turzii, cu lunca ocupată de arabil și legumicultură. Apropierea de A3 a crescut interesul pentru terenurile din hotar. Dosarele se depun la BCPI Turda.",
+    "nearby": []
+  }
+]

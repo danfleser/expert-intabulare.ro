@@ -1,0 +1,2267 @@
+[
+  {
+    "name": "Abrud",
+    "slug": "abrud",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "oras",
+    "villages": [
+      "Abrud-Sat",
+      "Gura Cornei",
+      "Soharu"
+    ],
+    "lat": 46.2741,
+    "lon": 23.0634,
+    "ocpiOffice": {
+      "name": "BCPI Câmpeni",
+      "address": "Str. Meșteșugarilor nr. 2, Câmpeni"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Abrudul, vechi centru al mineritului aurifer din Apuseni, se află în depresiunea Abrudului pe DN74, între Zlatna și Câmpeni. Terenurile din zonă combină intravilan compact de târg montan cu fânețe și pădure pe versanți. Dosarele se depun la BCPI Câmpeni, aflat la câțiva kilometri.",
+    "nearby": []
+  },
+  {
+    "name": "Aiud",
+    "slug": "aiud",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "municipiu",
+    "villages": [
+      "Aiudul de Sus",
+      "Ciumbrud",
+      "Gâmbaș",
+      "Gârbova de Jos",
+      "Gârbova de Sus",
+      "Gârbovița",
+      "Măgina",
+      "Păgida",
+      "Sâncrai",
+      "Țifra"
+    ],
+    "lat": 46.3101,
+    "lon": 23.7213,
+    "ocpiOffice": {
+      "name": "BCPI Aiud",
+      "address": "Str. Cuza Vodă nr. 14, Aiud"
+    },
+    "matrix": "full",
+    "profile": "urban",
+    "countyNotesRef": "alba",
+    "localNote": "Aiudul este orașul nostru de bază: biroul PFA se află chiar în municipiu, pe Str. Florilor 1A, astfel că lucrările locale se programează cel mai rapid. Orașul e așezat pe valea Mureșului, pe DN1 (E81), la jumătatea drumului între Alba Iulia și Turda, cu Cetatea Aiudului în centrul istoric. BCPI Aiud, de pe Str. Cuza Vodă nr. 14, primește dosarele pentru municipiu și pentru localitățile aparținătoare, de la Ciumbrud până la Gârbova de Sus.",
+    "nearby": []
+  },
+  {
+    "name": "Alba Iulia",
+    "slug": "alba-iulia",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "municipiu",
+    "villages": [
+      "Bărăbanț",
+      "Micești",
+      "Oarda",
+      "Pâclișa"
+    ],
+    "lat": 46.0667,
+    "lon": 23.5833,
+    "ocpiOffice": {
+      "name": "BCPI Alba Iulia",
+      "address": "Str. Septimius Severus nr. 59, Alba Iulia"
+    },
+    "matrix": "full",
+    "profile": "urban",
+    "countyNotesRef": "alba",
+    "localNote": "Alba Iulia, reședința județului, se află pe malul Mureșului, la intersecția DN1 (E81) cu DN74 și în apropierea autostrăzii A10. Cetatea Alba Carolina, cea mai mare fortificație de tip Vauban din România, domină orașul, iar cartierele rezidențiale s-au extins rapid spre Micești, Oarda și Pâclișa. Aici funcționează sediul OCPI Alba și BCPI Alba Iulia, unde se depun dosarele pentru municipiu și comunele arondate.",
+    "nearby": []
+  },
+  {
+    "name": "Albac",
+    "slug": "albac",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Albac",
+      "Budăiești",
+      "Bărăști",
+      "Cionești",
+      "Costești",
+      "Dealu Lămășoi",
+      "Deve",
+      "După Pleșe",
+      "Fața",
+      "Pleșești",
+      "Potionci",
+      "Rogoz",
+      "Roșești",
+      "Rusești",
+      "Sohodol",
+      "Tamborești"
+    ],
+    "lat": 46.4525,
+    "lon": 22.9516,
+    "ocpiOffice": {
+      "name": "BCPI Câmpeni",
+      "address": "Str. Meșteșugarilor nr. 2, Câmpeni"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Albac stă la răscrucea DN75 cu DN1R (drumul spre Huedin), pe Arieșul Mare, în inima Țării Moților. Satele comunei sunt crânguri risipite pe versanți, tipice Apusenilor, cu parcele mici și limite greu de identificat fără măsurători la teren. Competența aparține BCPI Câmpeni.",
+    "nearby": []
+  },
+  {
+    "name": "Almașu Mare",
+    "slug": "almasu-mare",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Almașu Mare",
+      "Almașu de Mijloc",
+      "Brădet",
+      "Cheile Cibului",
+      "Cib",
+      "Glod",
+      "Nădăștia"
+    ],
+    "lat": 46.1101,
+    "lon": 23.1172,
+    "ocpiOffice": {
+      "name": "BCPI Alba Iulia",
+      "address": "Str. Septimius Severus nr. 59, Alba Iulia"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Almașu Mare se află în Munții Metaliferi, la sud de Zlatna, cu sate risipite între care Glodul și Cibul, lângă cheile omonime — Cheile Cibului și Cheile Glodului. Vechile mine și fânețele montane fac ca evidențele de proprietate să fie adesea incomplete. Dosarele se depun la BCPI Alba Iulia.",
+    "nearby": []
+  },
+  {
+    "name": "Arieșeni",
+    "slug": "arieseni",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Arieșeni",
+      "Avrămești",
+      "Bubești",
+      "Casa de Piatră",
+      "Cobleș",
+      "Dealu Bajului",
+      "Fața Cristesei",
+      "Fața Lăpușului",
+      "Galbena",
+      "Hodobana",
+      "Izlaz",
+      "Poienița",
+      "Păntești",
+      "Pătrăhăițești",
+      "Ravicești",
+      "Sturu",
+      "Vanvucești",
+      "Ștei-Arieșeni"
+    ],
+    "lat": 46.4764,
+    "lon": 22.7574,
+    "ocpiOffice": {
+      "name": "BCPI Câmpeni",
+      "address": "Str. Meșteșugarilor nr. 2, Câmpeni"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Arieșenii, pe DN75 la granița cu Bihorul, adună crânguri risipite la izvoarele Arieșului Mare, sub Vârful Bihor. Stațiunea de schi Vârtop și pensiunile din zonă au adus multe tranzacții cu terenuri, deci multe intabulări și dezmembrări. Comuna ține de BCPI Câmpeni.",
+    "nearby": []
+  },
+  {
+    "name": "Avram Iancu",
+    "slug": "avram-iancu",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Avram Iancu",
+      "Achimețești",
+      "Avrămești",
+      "Boldești",
+      "Bădăi",
+      "Cocești",
+      "Cocoșești",
+      "Coroiești",
+      "Cândești",
+      "Cârăști",
+      "Cârțulești",
+      "Călugărești",
+      "Căsoaia",
+      "Dealu Crișului",
+      "Dolești",
+      "Dumăcești",
+      "Gojeiești",
+      "Helerești",
+      "Incești",
+      "Jojei",
+      "Mărtești",
+      "Orgești",
+      "Plai",
+      "Pușelești",
+      "Pătruțești",
+      "Târsa",
+      "Târsa-Plai",
+      "Valea Maciului",
+      "Valea Uțului",
+      "Verdești",
+      "Vidrișoara",
+      "Șoicești",
+      "Ștertești"
+    ],
+    "lat": 46.3833,
+    "lon": 22.7833,
+    "ocpiOffice": {
+      "name": "BCPI Câmpeni",
+      "address": "Str. Meșteșugarilor nr. 2, Câmpeni"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Comuna Avram Iancu, sub Muntele Găina — muntele Târgului de Fete — poartă numele Crăișorului Munților, născut aici, la Incești. Crângurile comunei se întind pe Arieșul Mic, cu proprietăți fragmentate între moștenitori. Lucrările se depun la BCPI Câmpeni.",
+    "nearby": []
+  },
+  {
+    "name": "Baia de Arieș",
+    "slug": "baia-de-aries",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "oras",
+    "villages": [
+      "Brăzești",
+      "Cioara de Sus",
+      "Muncelu",
+      "Sartăș",
+      "Simulești"
+    ],
+    "lat": 46.3805,
+    "lon": 23.2812,
+    "ocpiOffice": {
+      "name": "BCPI Câmpeni",
+      "address": "Str. Meșteșugarilor nr. 2, Câmpeni"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Baia de Arieș este un fost oraș minier aurifer pe valea Arieșului, pe DN75, între Câmpeni și Sălciua. Localitatea urcă din lunca râului spre versanții Muntelui Mare, cu multe parcele în pantă. Competența de carte funciară aparține BCPI Câmpeni.",
+    "nearby": []
+  },
+  {
+    "name": "Berghin",
+    "slug": "berghin",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Berghin",
+      "Ghirbom",
+      "Henig",
+      "Straja"
+    ],
+    "lat": 46.0778,
+    "lon": 23.7374,
+    "ocpiOffice": {
+      "name": "BCPI Alba Iulia",
+      "address": "Str. Septimius Severus nr. 59, Alba Iulia"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Berghinul se află în Podișul Secașelor, la sud-est de Alba Iulia, cu satele Ghirbom, Henig și Straja printre dealuri cu cereale și pășuni. Terenurile agricole comasate și cele din vechile izlazuri comunale domină lucrările din zonă. Comuna e arondată la BCPI Alba Iulia.",
+    "nearby": []
+  },
+  {
+    "name": "Bistra",
+    "slug": "bistra",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Bistra",
+      "Aronești",
+      "Bârlești",
+      "Bălești",
+      "Bălești-Cătun",
+      "Cheleteni",
+      "Ciuldești",
+      "Crețești",
+      "Dealu Muntelui",
+      "Durăști",
+      "Dâmbureni",
+      "Gârde",
+      "Gănești",
+      "Hodișești",
+      "Hudricești",
+      "Lipaia",
+      "Lunca Largă",
+      "Lunca Merilor",
+      "Mihăiești",
+      "Novăcești",
+      "Nămaș",
+      "Perjești",
+      "Poiana",
+      "Poiu",
+      "Runcuri",
+      "Rătitiș",
+      "Sălăgești",
+      "Tolăcești",
+      "Tomnatec",
+      "Trișorești",
+      "Vârși-Rontu",
+      "Vârșii Mari",
+      "Vârșii Mici",
+      "Ștefanca",
+      "Țărănești"
+    ],
+    "lat": 46.3782,
+    "lon": 23.1008,
+    "ocpiOffice": {
+      "name": "BCPI Câmpeni",
+      "address": "Str. Meșteșugarilor nr. 2, Câmpeni"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Bistra, pe valea Arieșului lângă Câmpeni, este printre comunele cu cele mai multe sate din România — peste treizeci de crânguri risipite pe versanți. Această structură face aproape obligatorie identificarea la teren a fiecărei parcele înainte de intabulare. Dosarele merg la BCPI Câmpeni.",
+    "nearby": []
+  },
+  {
+    "name": "Blaj",
+    "slug": "blaj",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "municipiu",
+    "villages": [
+      "Deleni-Obârșie",
+      "Flitești",
+      "Izvoarele",
+      "Mănărade",
+      "Petrisat",
+      "Spătac",
+      "Tiur",
+      "Veza"
+    ],
+    "lat": 46.1751,
+    "lon": 23.9158,
+    "ocpiOffice": {
+      "name": "BCPI Blaj",
+      "address": "Str. Gării nr. 4, Blaj"
+    },
+    "matrix": "full",
+    "profile": "urban",
+    "countyNotesRef": "alba",
+    "localNote": "Blajul, „Mica Romă”, stă la confluența Târnavei Mari cu Târnava Mică, pe DN14B, la sud-est de Aiud prin Teiuș. Orașul e centrul istoric al Școlii Ardelene, iar dealurile din jur țin de podgoria Târnavelor. BCPI Blaj deservește municipiul și comunele de pe cele două Târnave, până la Cetatea de Baltă.",
+    "nearby": []
+  },
+  {
+    "name": "Blandiana",
+    "slug": "blandiana",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Blandiana",
+      "Acmariu",
+      "Ibru",
+      "Poieni",
+      "Răcătău"
+    ],
+    "lat": 45.9794,
+    "lon": 23.3854,
+    "ocpiOffice": {
+      "name": "BCPI Alba Iulia",
+      "address": "Str. Septimius Severus nr. 59, Alba Iulia"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Blandiana se întinde pe malul stâng al Mureșului, între Vințu de Jos și Șibot, cu terase agricole deasupra luncii. Calea ferată și râul au tăiat istoric hotarul în fâșii, ceea ce se vede și azi în cartea funciară. Competența aparține BCPI Alba Iulia.",
+    "nearby": []
+  },
+  {
+    "name": "Bucerdea Grânoasă",
+    "slug": "bucerdea-granoasa",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Bucerdea Grânoasă",
+      "Cornu",
+      "Pânca",
+      "Pădure"
+    ],
+    "lat": 46.2,
+    "lon": 23.8333,
+    "ocpiOffice": {
+      "name": "BCPI Blaj",
+      "address": "Str. Gării nr. 4, Blaj"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Bucerdea Grânoasă, comună reînființată în 2006 prin desprinderea de Crăciunelu de Jos, stă pe valea Bucerzii, la nord-vest de Blaj. Numele îi vine de la grânele de pe dealurile din jur, și azi terenuri arabile întinse. Dosarele se depun la BCPI Blaj.",
+    "nearby": []
+  },
+  {
+    "name": "Bucium",
+    "slug": "bucium",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Bucium",
+      "Anghelești",
+      "Bisericani",
+      "Bucium-Sat",
+      "Cerbu",
+      "Ciuculești",
+      "Coleșeni",
+      "Dogărești",
+      "Ferești",
+      "Florești",
+      "Gura Izbitei",
+      "Helești",
+      "Izbicioara",
+      "Izbita",
+      "Jurcuiești",
+      "Lupulești",
+      "Muntari",
+      "Măgura",
+      "Petreni",
+      "Poiana",
+      "Poieni",
+      "Stâlnișoara",
+      "Valea Abruzel",
+      "Valea Albă",
+      "Valea Cerbului",
+      "Valea Negrilesii",
+      "Valea Poienii",
+      "Valea Șesii",
+      "Vâlcea",
+      "Văleni"
+    ],
+    "lat": 46.2333,
+    "lon": 23.2167,
+    "ocpiOffice": {
+      "name": "BCPI Câmpeni",
+      "address": "Str. Meșteșugarilor nr. 2, Câmpeni"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Buciumul adună zeci de crânguri pe văile dintre Abrud și Detunate, coloanele de bazalt care sunt emblema zonei. Tradiția mineritului aurifer buciumănesc a lăsat un mozaic de proprietăți mici, cu multe succesiuni nedezbătute. Comuna ține de BCPI Câmpeni.",
+    "nearby": []
+  },
+  {
+    "name": "Câlnic",
+    "slug": "calnic",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Câlnic",
+      "Deal"
+    ],
+    "lat": 45.8833,
+    "lon": 23.6667,
+    "ocpiOffice": {
+      "name": "BCPI Sebeș",
+      "address": "Str. Depozitelor nr. 2, Sebeș"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Câlnicul, în Podișul Secașelor lângă Sebeș, e cunoscut pentru cetatea țărănească săsească înscrisă în patrimoniul mondial UNESCO. Satul compact, de tip săsesc, are parcele lungi și înguste în intravilan, tipice colonizării medievale. Lucrările se depun la BCPI Sebeș.",
+    "nearby": []
+  },
+  {
+    "name": "Câmpeni",
+    "slug": "campeni",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "oras",
+    "villages": [
+      "Boncești",
+      "Borlești",
+      "Botești",
+      "Certege",
+      "Coasta Vâscului",
+      "Dealu Bistrii",
+      "Dealu Capsei",
+      "Dric",
+      "Dănduț",
+      "Fața Abrudului",
+      "Florești",
+      "Furduiești",
+      "Mihoești",
+      "Motorăști",
+      "Peste Valea Bistrii",
+      "Poduri",
+      "Sorlița",
+      "Tomușești",
+      "Valea Bistrii",
+      "Valea Caselor",
+      "Vârși"
+    ],
+    "lat": 46.3667,
+    "lon": 23.05,
+    "ocpiOffice": {
+      "name": "BCPI Câmpeni",
+      "address": "Str. Meșteșugarilor nr. 2, Câmpeni"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Câmpeniul e considerat capitala Țării Moților, la confluența văilor care coboară din Apuseni spre Arieș, pe DN75. Aici funcționează BCPI Câmpeni, biroul care acoperă toată zona montană a județului, de la Arieșeni la Ocoliș. Orașul e punctul de plecare firesc pentru lucrări în crângurile risipite ale comunelor din jur.",
+    "nearby": []
+  },
+  {
+    "name": "Cenade",
+    "slug": "cenade",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Cenade",
+      "Capu Dealului",
+      "Gorgan"
+    ],
+    "lat": 46.05,
+    "lon": 24.0167,
+    "ocpiOffice": {
+      "name": "BCPI Blaj",
+      "address": "Str. Gării nr. 4, Blaj"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Cenade se află în Podișul Secașelor, spre hotarul cu județul Sibiu, în jurul unei biserici fortificate săsești. Dealurile din jur poartă vii, pășuni și arabil, cu multe parcele provenite din fostele composesorate. Competența este la BCPI Blaj.",
+    "nearby": []
+  },
+  {
+    "name": "Cergău",
+    "slug": "cergau",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Cergău Mare",
+      "Cergău Mic",
+      "Lupu"
+    ],
+    "lat": 46.0987,
+    "lon": 23.9228,
+    "ocpiOffice": {
+      "name": "BCPI Blaj",
+      "address": "Str. Gării nr. 4, Blaj"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Cergăul, cu satele Cergău Mare, Cergău Mic și Lupu, stă pe dealurile Secașelor, la sud de Blaj. Comunitățile de aici au păstrat hotare agricole întinse, cu drumuri de exploatare care apar rar în acte. Dosarele se depun la BCPI Blaj.",
+    "nearby": []
+  },
+  {
+    "name": "Ceru-Băcăinți",
+    "slug": "ceru-bacainti",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Ceru-Băcăinți",
+      "Bolovănești",
+      "Bulbuc",
+      "Cucuta",
+      "Curpeni",
+      "Dumbrăvița",
+      "Fântânele",
+      "Groși",
+      "Valea Mare",
+      "Viezuri"
+    ],
+    "lat": 45.9833,
+    "lon": 23.25,
+    "ocpiOffice": {
+      "name": "BCPI Blaj",
+      "address": "Str. Gării nr. 4, Blaj"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Ceru-Băcăinți este una dintre cele mai mici comune din județ ca populație, cu sate risipite pe culmile Munților Metaliferi, accesibile dinspre valea Mureșului pe la Băcăinți. Multe gospodării sunt părăsite sau folosite sezonier, iar actele de proprietate sunt adesea vechi de generații. Deși pare surprinzător geografic, arondarea oficială de carte funciară este la BCPI Blaj.",
+    "nearby": []
+  },
+  {
+    "name": "Cetatea de Baltă",
+    "slug": "cetatea-de-balta",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Cetatea de Baltă",
+      "Craciunelu de Sus",
+      "Sântămărie",
+      "Tătârlaua"
+    ],
+    "lat": 46.2479,
+    "lon": 24.1724,
+    "ocpiOffice": {
+      "name": "BCPI Blaj",
+      "address": "Str. Gării nr. 4, Blaj"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Cetatea de Baltă se află pe Târnava Mică, la hotarul cu județul Mureș, dominată de castelul Bethlen-Haller, legat azi de crama Jidvei. Podgoriile și arabilul din luncă generează constant lucrări de dezmembrare și comasare. Comuna e arondată la BCPI Blaj.",
+    "nearby": []
+  },
+  {
+    "name": "Ciugud",
+    "slug": "ciugud",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Ciugud",
+      "Drâmbar",
+      "Hăpria",
+      "Limba",
+      "Teleac",
+      "Șeușa"
+    ],
+    "lat": 46.05,
+    "lon": 23.6167,
+    "ocpiOffice": {
+      "name": "BCPI Alba Iulia",
+      "address": "Str. Septimius Severus nr. 59, Alba Iulia"
+    },
+    "matrix": "full",
+    "profile": "periurban",
+    "countyNotesRef": "alba",
+    "localNote": "Ciugudul, pe malul stâng al Mureșului vizavi de Alba Iulia, a devenit un exemplu național de comună digitalizată și a atras investiții rezidențiale masive. Loturile noi din Șeușa, Ciugud și Limba se dezmembrează și se intabulează în ritm alert. Dosarele se depun la BCPI Alba Iulia.",
+    "nearby": []
+  },
+  {
+    "name": "Ciuruleasa",
+    "slug": "ciuruleasa",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Ciuruleasa",
+      "Bidigești",
+      "Bodrești",
+      "Boglești",
+      "Buninginea",
+      "Ghedulești",
+      "Morărești",
+      "Mătișești",
+      "Vulcan"
+    ],
+    "lat": 46.25,
+    "lon": 23.0333,
+    "ocpiOffice": {
+      "name": "BCPI Câmpeni",
+      "address": "Str. Meșteșugarilor nr. 2, Câmpeni"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Ciuruleasa se află pe DN74, între Abrud și pasul spre Buceș, sub culmile calcaroase dinspre Vulcan. Crângurile comunei alternează fânețe montane cu pădure, în parcele mici moștenite. Competența aparține BCPI Câmpeni.",
+    "nearby": []
+  },
+  {
+    "name": "Crăciunelu de Jos",
+    "slug": "craciunelu-de-jos",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Crăciunelu de Jos"
+    ],
+    "lat": 46.173,
+    "lon": 23.833,
+    "ocpiOffice": {
+      "name": "BCPI Blaj",
+      "address": "Str. Gării nr. 4, Blaj"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Crăciunelu de Jos stă pe Târnava, pe DN14B, imediat la vest de Blaj. Lunca fertilă și dealurile cu vie au făcut din comună o zonă agricolă solidă, cu terenuri căutate. Dosarele merg la BCPI Blaj, aflat la câțiva kilometri.",
+    "nearby": []
+  },
+  {
+    "name": "Cricău",
+    "slug": "cricau",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Cricău",
+      "Craiva",
+      "Tibru"
+    ],
+    "lat": 46.1833,
+    "lon": 23.5667,
+    "ocpiOffice": {
+      "name": "BCPI Alba Iulia",
+      "address": "Str. Septimius Severus nr. 59, Alba Iulia"
+    },
+    "matrix": "full",
+    "profile": "periurban",
+    "countyNotesRef": "alba",
+    "localNote": "Cricăul se află sub Piatra Craivii, stânca pe care a stat cetatea dacică Apoulon, în plină podgorie Ighiu–Cricău. Viile și livezile de pe terase se împart în parcele înguste, cu multe actualizări de carte funciară necesare. Comuna ține de BCPI Alba Iulia.",
+    "nearby": []
+  },
+  {
+    "name": "Cugir",
+    "slug": "cugir",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "oras",
+    "villages": [
+      "Bocșitura",
+      "Bucuru",
+      "Călene",
+      "Fețeni",
+      "Goașele",
+      "Mugești",
+      "Vinerea"
+    ],
+    "lat": 45.8365,
+    "lon": 23.37,
+    "ocpiOffice": {
+      "name": "BCPI Sebeș",
+      "address": "Str. Depozitelor nr. 2, Sebeș"
+    },
+    "matrix": "full",
+    "profile": "urban",
+    "countyNotesRef": "alba",
+    "localNote": "Cugirul, oraș cu veche tradiție în industria mecanică, se află pe valea Cugirului, la poalele Munților Șureanu, cu acces din DN7/A1 prin Șibot. Deasupra orașului, spre Vinerea și munte, terenurile trec repede din intravilan industrial în fânețe și pădure. Din arondarea actuală, dosarele de carte funciară se depun la BCPI Sebeș.",
+    "nearby": []
+  },
+  {
+    "name": "Cut",
+    "slug": "cut",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Cut"
+    ],
+    "lat": 45.9397,
+    "lon": 23.6672,
+    "ocpiOffice": {
+      "name": "BCPI Sebeș",
+      "address": "Str. Depozitelor nr. 2, Sebeș"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Cutul este o comună compactă lângă Câlnic, pe valea Secașului, la un pas de A1 și de Sebeș. Hotarul e dominat de arabil comasat, cu terenuri lucrate de exploatații mari. Dosarele se depun la BCPI Sebeș.",
+    "nearby": []
+  },
+  {
+    "name": "Daia Română",
+    "slug": "daia-romana",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Daia Română"
+    ],
+    "lat": 46.0167,
+    "lon": 23.6667,
+    "ocpiOffice": {
+      "name": "BCPI Sebeș",
+      "address": "Str. Depozitelor nr. 2, Sebeș"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Daia Română stă pe dealurile Secașelor, între Sebeș și Alba Iulia, cu un intravilan mare și hotar agricol întins. Comuna are tradiție de creștere a oilor și terenuri arabile căutate de fermieri. Competența este la BCPI Sebeș.",
+    "nearby": []
+  },
+  {
+    "name": "Doștat",
+    "slug": "dostat",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Doștat",
+      "Boz",
+      "Dealu Doștatului"
+    ],
+    "lat": 45.9667,
+    "lon": 23.85,
+    "ocpiOffice": {
+      "name": "BCPI Sebeș",
+      "address": "Str. Depozitelor nr. 2, Sebeș"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Doștatul, cu satul Boz, se află în Podișul Secașelor, la hotarul cu județul Sibiu, într-o zonă de arabil și pășuni întinse. Parcelele lungi de pe versanții domoli provin din vechile împroprietăriri și cer verificări atente de limite. Dosarele se depun la BCPI Sebeș.",
+    "nearby": []
+  },
+  {
+    "name": "Fărău",
+    "slug": "farau",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Fărău",
+      "Heria",
+      "Medveș",
+      "Sânbenedic",
+      "Șilea"
+    ],
+    "lat": 46.3333,
+    "lon": 24.0167,
+    "ocpiOffice": {
+      "name": "BCPI Aiud",
+      "address": "Str. Cuza Vodă nr. 14, Aiud"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Fărăul, cu satele Heria, Medveș și Șilea, ocupă dealurile dintre valea Mureșului și Târnava Mică, la est de Aiud. Zona e pur agricolă, cu izlazuri și arabil în pantă domoală. Comuna este arondată la BCPI Aiud.",
+    "nearby": []
+  },
+  {
+    "name": "Galda de Jos",
+    "slug": "galda-de-jos",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Galda de Jos",
+      "Benic",
+      "Cetea",
+      "Galda de Sus",
+      "Lupșeni",
+      "Mesentea",
+      "Măgura",
+      "Oiejdea",
+      "Poiana Galdei",
+      "Răicani",
+      "Zăgriș"
+    ],
+    "lat": 46.1833,
+    "lon": 23.6167,
+    "ocpiOffice": {
+      "name": "BCPI Alba Iulia",
+      "address": "Str. Septimius Severus nr. 59, Alba Iulia"
+    },
+    "matrix": "full",
+    "profile": "periurban",
+    "countyNotesRef": "alba",
+    "localNote": "Galda de Jos stă la ieșirea văii Găldii în culoarul Mureșului, pe DN1, între Alba Iulia și Teiuș; în amonte se deschid Cheile Găldiței. Podgoria și loturile rezidențiale noi de lângă drum țin biroul de cadastru ocupat. Dosarele se depun la BCPI Alba Iulia.",
+    "nearby": []
+  },
+  {
+    "name": "Gârbova",
+    "slug": "garbova",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Gârbova",
+      "Cărpiniș",
+      "Reciu"
+    ],
+    "lat": 45.8667,
+    "lon": 23.7333,
+    "ocpiOffice": {
+      "name": "BCPI Sebeș",
+      "address": "Str. Depozitelor nr. 2, Sebeș"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Gârbova, cu biserica sa fortificată săsească, se află în Podișul Secașelor, spre Miercurea Sibiului. Satul compact e înconjurat de arabil și pășuni cu parcele regulate, moștenire a hotarului săsesc. Competența aparține BCPI Sebeș.",
+    "nearby": []
+  },
+  {
+    "name": "Gârda de Sus",
+    "slug": "garda-de-sus",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Gârda de Sus",
+      "Biharia",
+      "Dealu Frumos",
+      "Dealu Ordâncușii",
+      "Dobrești",
+      "Ghețari",
+      "Gârda Seacă",
+      "Hanășești",
+      "Huzărești",
+      "Izvoarele",
+      "Munună",
+      "Ocoale",
+      "Plai",
+      "Pliști",
+      "Scoarța",
+      "Snide",
+      "Sucești"
+    ],
+    "lat": 46.45,
+    "lon": 22.8167,
+    "ocpiOffice": {
+      "name": "BCPI Câmpeni",
+      "address": "Str. Meșteșugarilor nr. 2, Câmpeni"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Gârda de Sus, pe DN75, este poarta de intrare spre Ghețarul de la Scărișoara și Cheile Ordâncușii. Crângurile comunei urcă din valea Arieșului Mare pe platoul carstic, cu proprietăți mici și risipite. Lucrările se depun la BCPI Câmpeni.",
+    "nearby": []
+  },
+  {
+    "name": "Hopârta",
+    "slug": "hoparta",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Hopârta",
+      "Silivaș",
+      "Turdaș",
+      "Vama Seacă",
+      "Șpălnaca"
+    ],
+    "lat": 46.3213,
+    "lon": 23.8724,
+    "ocpiOffice": {
+      "name": "BCPI Aiud",
+      "address": "Str. Cuza Vodă nr. 14, Aiud"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Hopârta, cu satele Șpălnaca, Turdaș, Silivaș și Vama Seacă, ocupă dealurile de la est de Mureș, între Aiud și Ocna Mureș. Hotarul agricol, cu arabil și fânețe, păstrează multe parcele neînscrise în sistemul electronic. Comuna ține de BCPI Aiud.",
+    "nearby": []
+  },
+  {
+    "name": "Horea",
+    "slug": "horea",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Horea",
+      "Baba",
+      "Butești",
+      "Dârlești",
+      "Fericet",
+      "Giurgiuț",
+      "Măncești",
+      "Mătișești",
+      "Niculești",
+      "Petreasa",
+      "Preluca",
+      "Pătrușești",
+      "Teiu",
+      "Trifești",
+      "Zânzești"
+    ],
+    "lat": 46.5025,
+    "lon": 22.9503,
+    "ocpiOffice": {
+      "name": "BCPI Câmpeni",
+      "address": "Str. Meșteșugarilor nr. 2, Câmpeni"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Comuna Horea, pe drumul Albac–Huedin (DN1R), poartă numele conducătorului răscoalei de la 1784, născut pe aceste locuri, la Fericet. Crângurile de pe versanți au gospodării risipite, cu fânețe și pădure în parcele înguste. Dosarele merg la BCPI Câmpeni.",
+    "nearby": []
+  },
+  {
+    "name": "Ighiu",
+    "slug": "ighiu",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Ighiu",
+      "Bucerdea Vinoasă",
+      "Ighiel",
+      "Șard",
+      "Țelna"
+    ],
+    "lat": 46.15,
+    "lon": 23.5167,
+    "ocpiOffice": {
+      "name": "BCPI Alba Iulia",
+      "address": "Str. Septimius Severus nr. 59, Alba Iulia"
+    },
+    "matrix": "full",
+    "profile": "periurban",
+    "countyNotesRef": "alba",
+    "localNote": "Ighiul, cu satele Șard, Țelna, Bucerdea Vinoasă și Ighiel, e inima podgoriei de sub Trascău, lângă Alba Iulia; pe valea Ighielului se ascunde lacul carstic Iezerul Ighiel. Viile, livezile și loturile de casă noi generează un flux constant de lucrări cadastrale. Comuna este arondată la BCPI Alba Iulia.",
+    "nearby": []
+  },
+  {
+    "name": "Întregalde",
+    "slug": "intregalde",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Întregalde",
+      "Dealu Geoagiului",
+      "Ghioncani",
+      "Iliești",
+      "Ivăniș",
+      "Modolești",
+      "Mărinești",
+      "Necrilești",
+      "Popești",
+      "Sfârcea",
+      "Tecșești"
+    ],
+    "lat": 46.25,
+    "lon": 23.4167,
+    "ocpiOffice": {
+      "name": "BCPI Alba Iulia",
+      "address": "Str. Septimius Severus nr. 59, Alba Iulia"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Întregalde e faimoasă pentru cheile sale din Trascău, unde floarea de colț coboară la cea mai mică altitudine din țară. Satele mici, legate de valea Găldiței printr-un drum spectaculos, au proprietăți montane rar actualizate în acte. Competența aparține BCPI Alba Iulia.",
+    "nearby": []
+  },
+  {
+    "name": "Jidvei",
+    "slug": "jidvei",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Jidvei",
+      "Bălcaciu",
+      "Căpâlna de Jos",
+      "Feisa",
+      "Veseuș"
+    ],
+    "lat": 46.2167,
+    "lon": 24.1,
+    "ocpiOffice": {
+      "name": "BCPI Blaj",
+      "address": "Str. Gării nr. 4, Blaj"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Jidveiul este cel mai cunoscut areal viticol de pe Târnava Mică, cu satele Bălcaciu, Feisa și Veseuș înșirate între dealuri cu vie. Suprafețele viticole mari coexistă cu gospodării vechi săsești, iar tranzacțiile cu teren agricol sunt frecvente. Dosarele se depun la BCPI Blaj.",
+    "nearby": []
+  },
+  {
+    "name": "Livezile",
+    "slug": "livezile",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Livezile",
+      "Izvoarele",
+      "Poiana Aiudului",
+      "Vălișoara"
+    ],
+    "lat": 46.35,
+    "lon": 23.6333,
+    "ocpiOffice": {
+      "name": "BCPI Aiud",
+      "address": "Str. Cuza Vodă nr. 14, Aiud"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Livezile stă pe drumul Aiud–Rimetea, la intrarea în Cheile Vălișoarei (numite și Cheile Aiudului), sub abrupturile Trascăului. Satele Izvoarele, Poiana Aiudului și Vălișoara au livezi și fânețe pe versanți, cu parcele mici. Fiind aproape de Aiud, comuna ține de BCPI Aiud.",
+    "nearby": []
+  },
+  {
+    "name": "Lopadea Nouă",
+    "slug": "lopadea-noua",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Lopadea Nouă",
+      "Asinip",
+      "Beța",
+      "Băgău",
+      "Cicârd",
+      "Ciuguzel",
+      "Ocnișoara",
+      "Odverem"
+    ],
+    "lat": 46.2909,
+    "lon": 23.819,
+    "ocpiOffice": {
+      "name": "BCPI Aiud",
+      "address": "Str. Cuza Vodă nr. 14, Aiud"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Lopadea Nouă se află pe dealurile de la nord-est de Aiud, cu satul Băgău cunoscut pentru lacul „Tăul fără fund”, arie naturală protejată. Hotarul combină arabil, vii și fânețe, cu multe moșteniri nedezbătute. Dosarele se depun la BCPI Aiud, la un drum scurt.",
+    "nearby": []
+  },
+  {
+    "name": "Lunca Mureșului",
+    "slug": "lunca-muresului",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Lunca Mureșului",
+      "Gura Arieșului"
+    ],
+    "lat": 46.4333,
+    "lon": 23.9,
+    "ocpiOffice": {
+      "name": "BCPI Aiud",
+      "address": "Str. Cuza Vodă nr. 14, Aiud"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Lunca Mureșului stă chiar la gura Arieșului, unde acesta se varsă în Mureș, la hotarul cu județul Cluj. Lunca fertilă și pădurea de luncă alternează cu arabil comasat, iar calea ferată taie hotarul. Comuna este arondată la BCPI Aiud.",
+    "nearby": []
+  },
+  {
+    "name": "Lupșa",
+    "slug": "lupsa",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Lupșa",
+      "Bârdești",
+      "Bârzan",
+      "Curmătură",
+      "După Deal",
+      "Geamăna",
+      "Holobani",
+      "Hădărău",
+      "Lazuri",
+      "Lunca",
+      "Mușca",
+      "Mănăstire",
+      "Mărgaia",
+      "Pițiga",
+      "Poșogani",
+      "Pârâu-Cărbunări",
+      "Trifești",
+      "Valea Holhorii",
+      "Valea Lupșii",
+      "Valea Șesii",
+      "Vința",
+      "Văi",
+      "Șasa"
+    ],
+    "lat": 46.3667,
+    "lon": 23.2,
+    "ocpiOffice": {
+      "name": "BCPI Câmpeni",
+      "address": "Str. Meșteșugarilor nr. 2, Câmpeni"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Lupșa, pe valea Arieșului, pe DN75 între Baia de Arieș și Bistra, e cunoscută pentru mănăstirea Lupșa și muzeul etnografic sătesc. Numeroasele crânguri de pe versanți au parcele mici de fâneață și pădure. Competența este la BCPI Câmpeni.",
+    "nearby": []
+  },
+  {
+    "name": "Meteș",
+    "slug": "metes",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Meteș",
+      "Ampoița",
+      "Isca",
+      "Lunca Ampoiței",
+      "Lunca Meteșului",
+      "Poiana Ampoiului",
+      "Poiana Ursului",
+      "Presaca Ampoiului",
+      "Pădurea",
+      "Remetea",
+      "Tăuți",
+      "Văleni"
+    ],
+    "lat": 46.1,
+    "lon": 23.4167,
+    "ocpiOffice": {
+      "name": "BCPI Alba Iulia",
+      "address": "Str. Septimius Severus nr. 59, Alba Iulia"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Meteșul se află pe valea Ampoiului, pe DN74, cu rezervația geologică Calcarele de la Ampoița — „stogurile” de piatră — pe teritoriul său. Satele urcă din vale spre platourile Trascăului, cu proprietăți în pantă. Dosarele se depun la BCPI Alba Iulia.",
+    "nearby": []
+  },
+  {
+    "name": "Mihalț",
+    "slug": "mihalt",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Mihalț",
+      "Cistei",
+      "Obreja",
+      "Zărieș"
+    ],
+    "lat": 46.15,
+    "lon": 23.7333,
+    "ocpiOffice": {
+      "name": "BCPI Alba Iulia",
+      "address": "Str. Septimius Severus nr. 59, Alba Iulia"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Mihalțul stă pe cursul inferior al Târnavei, aproape de vărsarea acesteia în Mureș, cu satele Cistei, Obreja și Zărieș. Lunca și terasele poartă arabil fertil, în parcele late, lucrate intensiv. Comuna ține de BCPI Alba Iulia.",
+    "nearby": []
+  },
+  {
+    "name": "Mirăslău",
+    "slug": "miraslau",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Mirăslău",
+      "Cicău",
+      "Decea",
+      "Lopadea Veche",
+      "Ormeniș",
+      "Rachiș"
+    ],
+    "lat": 46.3667,
+    "lon": 23.7167,
+    "ocpiOffice": {
+      "name": "BCPI Aiud",
+      "address": "Str. Cuza Vodă nr. 14, Aiud"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Mirăslăul, pe DN1 imediat la sud de Aiud, e locul bătăliei din 1600 în care Mihai Viteazul a fost înfrânt de Basta. Satele comunei se împart între lunca Mureșului și dealurile cu vii de la Rachiș și Lopadea Veche. Dosarele se depun la BCPI Aiud, aflat la câțiva kilometri.",
+    "nearby": []
+  },
+  {
+    "name": "Mogoș",
+    "slug": "mogos",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Mogoș",
+      "Bocești",
+      "Bogdănești",
+      "Butești",
+      "Bârlești",
+      "Bârlești-Cătun",
+      "Bârzogani",
+      "Bărbești",
+      "Cojocani",
+      "Cristești",
+      "Mămăligani",
+      "Negrești",
+      "Oncești",
+      "Poienile-Mogoș",
+      "Tomești",
+      "Valea Barnii",
+      "Valea Bârluțești",
+      "Valea Cocești",
+      "Valea Giogești",
+      "Valea Mlacii",
+      "Valea Țupilor"
+    ],
+    "lat": 46.2755,
+    "lon": 23.2804,
+    "ocpiOffice": {
+      "name": "BCPI Câmpeni",
+      "address": "Str. Meșteșugarilor nr. 2, Câmpeni"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Mogoșul își risipește crângurile pe platoul înalt dintre valea Ampoiului și Abrud, la peste 900 de metri altitudine. Fânețele montane și pădurile se moștenesc în parcele înguste, adesea fără măsurători vechi. Competența aparține BCPI Câmpeni.",
+    "nearby": []
+  },
+  {
+    "name": "Noșlac",
+    "slug": "noslac",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Noșlac",
+      "Copand",
+      "Căptălan",
+      "Găbud",
+      "Stâna de Mureș",
+      "Valea Ciuciului"
+    ],
+    "lat": 46.4,
+    "lon": 23.9333,
+    "ocpiOffice": {
+      "name": "BCPI Aiud",
+      "address": "Str. Cuza Vodă nr. 14, Aiud"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Noșlacul ocupă malul stâng al Mureșului în capătul nord-estic al județului, cu satele Căptălan, Copand și Stâna de Mureș. Hotarul e agricol, cu lunca și terasele împărțite în parcele lungi. Comuna este arondată la BCPI Aiud.",
+    "nearby": []
+  },
+  {
+    "name": "Ocna Mureș",
+    "slug": "ocna-mures",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "oras",
+    "villages": [
+      "Cisteiu de Mureș",
+      "Micoșlaca",
+      "Războieni-Cetate",
+      "Uioara de Jos",
+      "Uioara de Sus"
+    ],
+    "lat": 46.3833,
+    "lon": 23.85,
+    "ocpiOffice": {
+      "name": "BCPI Aiud",
+      "address": "Str. Cuza Vodă nr. 14, Aiud"
+    },
+    "matrix": "full",
+    "profile": "urban",
+    "countyNotesRef": "alba",
+    "localNote": "Ocna Mureș, oraș legat de exploatarea sării, se află pe malul stâng al Mureșului, vizavi de Unirea, la nord de Aiud. Băile sărate redeschise au readus interesul pentru zona centrală, iar fostele terenuri industriale ridică frecvent probleme de actualizare a evidențelor. Orașul este arondat la BCPI Aiud, la un drum scurt pe DN1.",
+    "nearby": []
+  },
+  {
+    "name": "Ocoliș",
+    "slug": "ocolis",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Ocoliș",
+      "Lunca Largă",
+      "Runc",
+      "Vidolm"
+    ],
+    "lat": 46.4833,
+    "lon": 23.4667,
+    "ocpiOffice": {
+      "name": "BCPI Câmpeni",
+      "address": "Str. Meșteșugarilor nr. 2, Câmpeni"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Ocolișul se află pe valea Arieșului, la hotarul cu județul Cluj, sub versanții Muntelui Mare; pe aici trecea odinioară mocănița Turda–Abrud. Satele mici de munte au fânețe în pantă și pădure, cu acces dificil iarna. Dosarele se depun la BCPI Câmpeni.",
+    "nearby": []
+  },
+  {
+    "name": "Ohaba",
+    "slug": "ohaba",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Ohaba",
+      "Colibi",
+      "Măghierat",
+      "Secășel"
+    ],
+    "lat": 46.0667,
+    "lon": 23.7833,
+    "ocpiOffice": {
+      "name": "BCPI Sebeș",
+      "address": "Str. Depozitelor nr. 2, Sebeș"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Ohaba este o comună mică din Podișul Secașelor, între Roșia de Secaș și Șpring, cu hotar în întregime agricol. Arabilul de pe versanții domoli se lucrează comasat, dar evidențele parcelelor rămân fragmentate. Competența este la BCPI Sebeș.",
+    "nearby": []
+  },
+  {
+    "name": "Pianu",
+    "slug": "pianu",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Pianu de Sus",
+      "Pianu de Jos",
+      "Plaiuri",
+      "Purcăreți",
+      "Strungari"
+    ],
+    "lat": 45.9,
+    "lon": 23.4833,
+    "ocpiOffice": {
+      "name": "BCPI Sebeș",
+      "address": "Str. Depozitelor nr. 2, Sebeș"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Pianu, cu satele Pianu de Jos, Pianu de Sus și Strungari, coboară de la poalele Șureanului spre culoarul Mureșului; la Pianu de Jos funcționează primul teren de golf din România. Zona combină arabil de terasă cu fânețe montane și loturi de agrement. Dosarele se depun la BCPI Sebeș.",
+    "nearby": []
+  },
+  {
+    "name": "Poiana Vadului",
+    "slug": "poiana-vadului",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Poiana Vadului",
+      "Costești",
+      "Duduieni",
+      "Făgetu de Jos",
+      "Făgetu de Sus",
+      "Hănășești",
+      "Lupăiești",
+      "Morcănești",
+      "Petelei",
+      "Păștești",
+      "Stănești"
+    ],
+    "lat": 46.4,
+    "lon": 22.8833,
+    "ocpiOffice": {
+      "name": "BCPI Câmpeni",
+      "address": "Str. Meșteșugarilor nr. 2, Câmpeni"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Poiana Vadului își împrăștie cătunele pe versanții dintre Albac și Vadu Moților, în plină Țară a Moților. Gospodăriile risipite, cu fânețe și pădure, au adesea acte vechi și limite incerte, tipice Apusenilor. Comuna ține de BCPI Câmpeni.",
+    "nearby": []
+  },
+  {
+    "name": "Ponor",
+    "slug": "ponor",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Ponor",
+      "Dupa Deal",
+      "Geogel",
+      "Măcărești",
+      "Vale In Jos",
+      "Valea Bucurului"
+    ],
+    "lat": 46.3333,
+    "lon": 23.4167,
+    "ocpiOffice": {
+      "name": "BCPI Aiud",
+      "address": "Str. Cuza Vodă nr. 14, Aiud"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Ponorul stă pe un platou carstic din Trascău, lângă Vânătările Ponorului, complexul de doline și cascade care îi poartă numele. Satele mici trăiesc din creșterea animalelor, cu fânețe întinse pe platou. Dosarele se depun la BCPI Aiud.",
+    "nearby": []
+  },
+  {
+    "name": "Poșaga",
+    "slug": "posaga",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Poșaga de Jos",
+      "Corțești",
+      "Incești",
+      "Lunca",
+      "Orăști",
+      "Poșaga de Sus",
+      "Săgagea"
+    ],
+    "lat": 46.4309,
+    "lon": 23.4403,
+    "ocpiOffice": {
+      "name": "BCPI Câmpeni",
+      "address": "Str. Meșteșugarilor nr. 2, Câmpeni"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Poșaga urcă de la Arieș, prin Cheile Poșegii, spre mănăstirea Poșaga și poalele Muntelui Mare. Comuna are crânguri risipite și fânețe montane, cu multe parcele neînscrise în evidențele electronice. Competența aparține BCPI Câmpeni.",
+    "nearby": []
+  },
+  {
+    "name": "Rădești",
+    "slug": "radesti",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Rădești",
+      "Leorinț",
+      "Meșcreac",
+      "Șoimuș"
+    ],
+    "lat": 46.2667,
+    "lon": 23.7167,
+    "ocpiOffice": {
+      "name": "BCPI Aiud",
+      "address": "Str. Cuza Vodă nr. 14, Aiud"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Rădeștiul se află pe valea Mureșului, între Aiud și Teiuș, cu satele Leorinț, Meșcreac și Șoimuș înșirate lângă râu. Lunca agricolă și terasele cu vii dau lucrări de intabulare frecvente. Fiind la câțiva kilometri de Aiud, dosarele merg la BCPI Aiud.",
+    "nearby": []
+  },
+  {
+    "name": "Râmeț",
+    "slug": "ramet",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Râmeț",
+      "Boțani",
+      "Brădești",
+      "Cheia",
+      "Cotorăști",
+      "Florești",
+      "Olteni",
+      "Valea Făgetului",
+      "Valea Inzelului",
+      "Valea Mănăstirii",
+      "Valea Poienii",
+      "Valea Uzei",
+      "Vlădești"
+    ],
+    "lat": 46.3146,
+    "lon": 23.5276,
+    "ocpiOffice": {
+      "name": "BCPI Aiud",
+      "address": "Str. Cuza Vodă nr. 14, Aiud"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Râmețul e cunoscut pentru mănăstirea Râmeț și pentru Cheile Râmețului, printre cele mai sălbatice din Trascău. Satele risipite pe platou, de la Cheia la Vlădești, au proprietăți montane greu accesibile, care cer măsurători la fața locului. Comuna este arondată la BCPI Aiud.",
+    "nearby": []
+  },
+  {
+    "name": "Rimetea",
+    "slug": "rimetea",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Rimetea",
+      "Colțești"
+    ],
+    "lat": 46.45,
+    "lon": 23.5667,
+    "ocpiOffice": {
+      "name": "BCPI Aiud",
+      "address": "Str. Cuza Vodă nr. 14, Aiud"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Rimetea, sub Piatra Secuiului, e satul cu case albe premiat cu distincția Europa Nostra pentru conservarea arhitecturii; alături, la Colțești, se văd ruinele cetății Trascăului. Turismul a înmulțit tranzacțiile imobiliare și cererile de intabulare. Dosarele se depun la BCPI Aiud, peste Cheile Vălișoarei.",
+    "nearby": []
+  },
+  {
+    "name": "Roșia de Secaș",
+    "slug": "rosia-de-secas",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Roșa de Secaș",
+      "Tău",
+      "Ungurei"
+    ],
+    "lat": 46.05,
+    "lon": 23.8833,
+    "ocpiOffice": {
+      "name": "BCPI Blaj",
+      "address": "Str. Gării nr. 4, Blaj"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Roșia de Secaș stă pe valea Secașului, la hotarul cu județul Sibiu, cu satele Tău și Ungurei. Hotarul agricol întins, cu arabil și pășuni, a intrat în mare parte în exploatații comasate. Competența este la BCPI Blaj.",
+    "nearby": []
+  },
+  {
+    "name": "Roșia Montană",
+    "slug": "rosia-montana",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Roșia Montană",
+      "Blidești",
+      "Bunta",
+      "Bălmoșești",
+      "Coasta Henții",
+      "Corna",
+      "Curături",
+      "Cărpiniș",
+      "Dăroaia",
+      "Gura Roșiei",
+      "Gârda-Bărbulești",
+      "Iacobești",
+      "Ignățești",
+      "Vârtop",
+      "Șoal",
+      "Țarina"
+    ],
+    "lat": 46.3067,
+    "lon": 23.1337,
+    "ocpiOffice": {
+      "name": "BCPI Câmpeni",
+      "address": "Str. Meșteșugarilor nr. 2, Câmpeni"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Roșia Montană, cel mai vechi centru minier aurifer documentat din țară, cu galeriile sale romane, este înscrisă din 2021 în patrimoniul mondial UNESCO ca peisaj minier. Statutul special al zonei protejate influențează regimul construcțiilor și al terenurilor. Dosarele se depun la BCPI Câmpeni.",
+    "nearby": []
+  },
+  {
+    "name": "Sălciua",
+    "slug": "salciua",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Sălciua de Jos",
+      "Dealu Caselor",
+      "Dumești",
+      "Sub Piatră",
+      "Sălciua de Sus",
+      "Valea Largă"
+    ],
+    "lat": 46.3987,
+    "lon": 23.4213,
+    "ocpiOffice": {
+      "name": "BCPI Câmpeni",
+      "address": "Str. Meșteșugarilor nr. 2, Câmpeni"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Sălciua, pe DN75 pe valea Arieșului, stă sub abruptul Bedeleului, cu livezi de măr renumite în zonă. Satele de pe ambele maluri au parcele mici de luncă și fânețe pe versanți. Comuna ține de BCPI Câmpeni.",
+    "nearby": []
+  },
+  {
+    "name": "Săliștea",
+    "slug": "salistea",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Săliștea",
+      "Mărgineni",
+      "Săliștea-Deal",
+      "Tărtăria"
+    ],
+    "lat": 45.9074,
+    "lon": 23.3979,
+    "ocpiOffice": {
+      "name": "BCPI Sebeș",
+      "address": "Str. Depozitelor nr. 2, Sebeș"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Săliștea, lângă Șibot și Cugir, cuprinde satul Tărtăria, celebru pentru tăblițele neolitice descoperite aici. Hotarul coboară din dealurile împădurite spre lunca Mureșului, cu arabil și fânețe. Din arondarea actuală, dosarele se depun la BCPI Sebeș.",
+    "nearby": []
+  },
+  {
+    "name": "Sâncel",
+    "slug": "sancel",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Sâncel",
+      "Iclod",
+      "Pănade"
+    ],
+    "lat": 46.2,
+    "lon": 23.95,
+    "ocpiOffice": {
+      "name": "BCPI Blaj",
+      "address": "Str. Gării nr. 4, Blaj"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Sâncelul se află pe Târnava Mică, lângă Blaj, cu satele Iclod și Pănade — satul natal al lui Timotei Cipariu. Viile și arabilul din hotar se împart în parcele moștenite, cu dese ieșiri din indiviziune. Competența aparține BCPI Blaj.",
+    "nearby": []
+  },
+  {
+    "name": "Sântimbru",
+    "slug": "santimbru",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Sântimbru",
+      "Coșlariu",
+      "Dumitra",
+      "Galtiu",
+      "Totoi"
+    ],
+    "lat": 46.1333,
+    "lon": 23.65,
+    "ocpiOffice": {
+      "name": "BCPI Alba Iulia",
+      "address": "Str. Septimius Severus nr. 59, Alba Iulia"
+    },
+    "matrix": "full",
+    "profile": "periurban",
+    "countyNotesRef": "alba",
+    "localNote": "Sântimbrul stă pe DN1, pe malul Mureșului, imediat la nord de Alba Iulia; biserica sa medievală amintește de bătălia din 1442 a lui Iancu de Hunedoara. Apropierea de oraș a adus hale, depozite și loturi rezidențiale noi. Dosarele se depun la BCPI Alba Iulia.",
+    "nearby": []
+  },
+  {
+    "name": "Săsciori",
+    "slug": "sasciori",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Săsciori",
+      "Căpâlna",
+      "Dumbrava",
+      "Laz",
+      "Loman",
+      "Pleși",
+      "Răchita",
+      "Sebeșel",
+      "Tonea"
+    ],
+    "lat": 45.8667,
+    "lon": 23.5833,
+    "ocpiOffice": {
+      "name": "BCPI Sebeș",
+      "address": "Str. Depozitelor nr. 2, Sebeș"
+    },
+    "matrix": "full",
+    "profile": "periurban",
+    "countyNotesRef": "alba",
+    "localNote": "Săsciorii se înșiră pe valea Sebeșului, pe DN67C, la intrarea spre munte; pe teritoriul comunei, la Căpâlna, se află cetatea dacică inclusă în patrimoniul UNESCO. Satele au grădini în luncă și fânețe pe versanți, cu multe parcele înguste. Comuna este arondată la BCPI Sebeș.",
+    "nearby": []
+  },
+  {
+    "name": "Scărișoara",
+    "slug": "scarisoara",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Scărișoara",
+      "Botești",
+      "Bârlești",
+      "Fața-Lăzești",
+      "Florești",
+      "Lespezea",
+      "Lăzești",
+      "Maței",
+      "Negești",
+      "Prelucă",
+      "Runc",
+      "Sfoartea",
+      "Trâncești",
+      "Știuleți"
+    ],
+    "lat": 46.4667,
+    "lon": 22.85,
+    "ocpiOffice": {
+      "name": "BCPI Câmpeni",
+      "address": "Str. Meșteșugarilor nr. 2, Câmpeni"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Scărișoara stă pe Arieșul Mare, pe DN75, între Gârda de Sus și Albac, cu crânguri urcate pe platoul carstic care i-a împrumutat numele ghețarului vecin. Proprietățile montane risipite cer aproape mereu identificare la teren. Dosarele se depun la BCPI Câmpeni.",
+    "nearby": []
+  },
+  {
+    "name": "Sebeș",
+    "slug": "sebes",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "municipiu",
+    "villages": [
+      "Lancrăm",
+      "Petrești",
+      "Răhău"
+    ],
+    "lat": 45.9565,
+    "lon": 23.571,
+    "ocpiOffice": {
+      "name": "BCPI Sebeș",
+      "address": "Str. Depozitelor nr. 2, Sebeș"
+    },
+    "matrix": "full",
+    "profile": "urban",
+    "countyNotesRef": "alba",
+    "localNote": "Sebeșul este nod rutier major: aici se întâlnesc autostrada A1, DN1 și DN67C, iar rezervația Râpa Roșie se află imediat la nord de oraș. În satul aparținător Lancrăm s-a născut Lucian Blaga. Industria din zonă și loturile rezidențiale noi generează constant lucrări de dezmembrare și intabulare, depuse la BCPI Sebeș.",
+    "nearby": []
+  },
+  {
+    "name": "Șibot",
+    "slug": "sibot",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Șibot",
+      "Balomiru de Câmp",
+      "Băcăinți",
+      "Sărăcsău"
+    ],
+    "lat": 45.95,
+    "lon": 23.3333,
+    "ocpiOffice": {
+      "name": "BCPI Alba Iulia",
+      "address": "Str. Septimius Severus nr. 59, Alba Iulia"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Șibotul stă pe culoarul Mureșului, la DN7 și A1, pe locul bătăliei de pe Câmpul Pâinii din 1479. Nodul de infrastructură și lunca agricolă fac din comună o zonă activă pentru tranzacții și exproprieri. Comuna ține de BCPI Alba Iulia.",
+    "nearby": []
+  },
+  {
+    "name": "Sohodol",
+    "slug": "sohodol",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Sohodol",
+      "Bilănești",
+      "Bobărești",
+      "Brădeana",
+      "Burzonești",
+      "Băzești",
+      "Deoncești",
+      "Dilimani",
+      "Furduiești",
+      "Gura Sohodol",
+      "Hoancă",
+      "Joldișești",
+      "Lazuri",
+      "Lehești",
+      "Luminești",
+      "Medrești",
+      "Morărești",
+      "Munești",
+      "Nelegești",
+      "Nicorești",
+      "Năpăiești",
+      "Peleș",
+      "Poiana",
+      "Robești",
+      "Sebișești",
+      "Sicoiești",
+      "Surdești",
+      "Valea Verde",
+      "Vlădoșești",
+      "Șimocești",
+      "Țoci"
+    ],
+    "lat": 46.3558,
+    "lon": 23.0292,
+    "ocpiOffice": {
+      "name": "BCPI Câmpeni",
+      "address": "Str. Meșteșugarilor nr. 2, Câmpeni"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Sohodolul, lângă Câmpeni, își risipește cele câteva zeci de crânguri pe platoul dintre Arieș și Abrud. Fânețele și pădurile în parcele mici, moștenite din generație în generație, domină cartea funciară locală. Competența este la BCPI Câmpeni.",
+    "nearby": []
+  },
+  {
+    "name": "Șona",
+    "slug": "sona",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Șona",
+      "Alecuș",
+      "Biia",
+      "Doptău",
+      "Lunca Târnavei",
+      "Sânmiclăuș",
+      "Valea Sasului"
+    ],
+    "lat": 46.2167,
+    "lon": 24.0167,
+    "ocpiOffice": {
+      "name": "BCPI Blaj",
+      "address": "Str. Gării nr. 4, Blaj"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Șona ocupă podișul dintre cele două Târnave, la nord-est de Blaj; la Sânmiclăuș se păstrează castelul Bethlen. Satele Biia, Alecuș și Doptău au hotare agricole cu vii și arabil. Dosarele se depun la BCPI Blaj.",
+    "nearby": []
+  },
+  {
+    "name": "Șpring",
+    "slug": "spring",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Șpring",
+      "Carpen",
+      "Carpenii de Sus",
+      "Cunța",
+      "Drașov",
+      "Vingard"
+    ],
+    "lat": 45.9667,
+    "lon": 23.7833,
+    "ocpiOffice": {
+      "name": "BCPI Sebeș",
+      "address": "Str. Depozitelor nr. 2, Sebeș"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Șpringul, cu satele Cunța, Drașov și Vingard, stă pe valea Secașului, între Sebeș și Miercurea Sibiului. Hotarul agricol întins e lucrat în mare parte comasat, dar parcelele din acte rămân fragmentate. Competența aparține BCPI Sebeș.",
+    "nearby": []
+  },
+  {
+    "name": "Stremț",
+    "slug": "stremt",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Stremț",
+      "Fața Pietrii",
+      "Geoagiu de Sus",
+      "Geomal"
+    ],
+    "lat": 46.2167,
+    "lon": 23.6333,
+    "ocpiOffice": {
+      "name": "BCPI Aiud",
+      "address": "Str. Cuza Vodă nr. 14, Aiud"
+    },
+    "matrix": "full",
+    "profile": "periurban",
+    "countyNotesRef": "alba",
+    "localNote": "Stremțul stă pe valea Geoagiului, lângă Teiuș, cu ruinele cetății medievale Diód în centrul satului. Satele Geoagiu de Sus și Geomal urcă spre platourile Trascăului, cu livezi și fânețe în pantă. Dosarele se depun la BCPI Aiud.",
+    "nearby": []
+  },
+  {
+    "name": "Șugag",
+    "slug": "sugag",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Șugag",
+      "Arți",
+      "Bârsana",
+      "Dobra",
+      "Jidoștina",
+      "Mărtinie",
+      "Tău Bistra"
+    ],
+    "lat": 45.7667,
+    "lon": 23.6333,
+    "ocpiOffice": {
+      "name": "BCPI Sebeș",
+      "address": "Str. Depozitelor nr. 2, Sebeș"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Șugagul se întinde pe valea Sebeșului, de-a lungul Transalpinei (DN67C), cu lacurile de baraj Tău și Oașa pe teritoriul său. Satele de munte, de la Arți la Jidoștina, au gospodării risipite între Șureanu și Cindrel. Dosarele se depun la BCPI Sebeș.",
+    "nearby": []
+  },
+  {
+    "name": "Teiuș",
+    "slug": "teius",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "oras",
+    "villages": [
+      "Beldiu",
+      "Coșlariu Nou",
+      "Căpud",
+      "Pețelca"
+    ],
+    "lat": 46.2,
+    "lon": 23.6833,
+    "ocpiOffice": {
+      "name": "BCPI Aiud",
+      "address": "Str. Cuza Vodă nr. 14, Aiud"
+    },
+    "matrix": "full",
+    "profile": "urban",
+    "countyNotesRef": "alba",
+    "localNote": "Teiușul este unul dintre marile noduri feroviare ale Transilvaniei, pe DN1, imediat la sud de Aiud. Orașul face trecerea dintre lunca Mureșului și dealurile Trascăului, cu vii și livezi spre Stremț și Galda. Fiind arondat la BCPI Aiud, lucrările de aici se depun fără drumuri lungi.",
+    "nearby": []
+  },
+  {
+    "name": "Unirea",
+    "slug": "unirea",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Unirea",
+      "Ciugudu de Jos",
+      "Ciugudu de Sus",
+      "Dumbrava",
+      "Inoc",
+      "Măhăceni"
+    ],
+    "lat": 46.4039,
+    "lon": 23.8131,
+    "ocpiOffice": {
+      "name": "BCPI Aiud",
+      "address": "Str. Cuza Vodă nr. 14, Aiud"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Unirea stă pe DN1, la nord de Aiud, față în față cu Ocna Mureș, cu satele Ciugudu de Jos, Ciugudu de Sus, Dumbrava, Inoc și Măhăceni. Lunca Mureșului și dealurile cu arabil dau un hotar agricol întins. Comuna este arondată la BCPI Aiud.",
+    "nearby": []
+  },
+  {
+    "name": "Vadu Moților",
+    "slug": "vadu-motilor",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Vadu Moților",
+      "Bodești",
+      "Burzești",
+      "Dealu Frumos",
+      "Lăzești",
+      "Necșești",
+      "Poduri-Bricești",
+      "Popeștii de Jos",
+      "Popeștii de Sus",
+      "Tomuțești",
+      "Toțești",
+      "Vâltori"
+    ],
+    "lat": 46.4,
+    "lon": 22.9667,
+    "ocpiOffice": {
+      "name": "BCPI Câmpeni",
+      "address": "Str. Meșteșugarilor nr. 2, Câmpeni"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Vadu Moților se află pe DN75, pe Arieșul Mare, între Câmpeni și Albac, punct de plecare spre crângurile de sub Găina. Gospodăriile risipite pe versanți au fânețe și pădure în parcele mici. Dosarele se depun la BCPI Câmpeni.",
+    "nearby": []
+  },
+  {
+    "name": "Valea Lungă",
+    "slug": "valea-lunga",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Valea Lungă",
+      "Făget",
+      "Glogoveț",
+      "Lodroman",
+      "Lunca",
+      "Tăuni"
+    ],
+    "lat": 46.1259,
+    "lon": 24.0454,
+    "ocpiOffice": {
+      "name": "BCPI Blaj",
+      "address": "Str. Gării nr. 4, Blaj"
+    },
+    "matrix": "full",
+    "profile": "agricol-campie",
+    "countyNotesRef": "alba",
+    "localNote": "Valea Lungă se înșiră pe Târnava Mare, pe DN14B, între Blaj și Copșa Mică, cu satele Glogoveț, Lodroman și Lunca. Viile și arabilul din lunca Târnavei generează lucrări curente de dezmembrare. Competența este la BCPI Blaj.",
+    "nearby": []
+  },
+  {
+    "name": "Vidra",
+    "slug": "vidra",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Vidra",
+      "Bobărești",
+      "Bogdănești",
+      "Bordeștii Poieni",
+      "Băi",
+      "Culdești",
+      "Dealu Goiești",
+      "Dos",
+      "Dosu Luncii",
+      "Dosu Văsești",
+      "Drăgoiești-Luncă",
+      "Ficărești",
+      "Gligorești",
+      "Goiești",
+      "Haiducești",
+      "Hoancă",
+      "Hărăști",
+      "Jeflești",
+      "Lunca",
+      "Lunca Bisericii",
+      "Lunca Goiești",
+      "Lunca Vesești",
+      "Lunca de Jos",
+      "Modolești",
+      "Nemeși",
+      "Oidești",
+      "Pitărcești",
+      "Pleșcuța",
+      "Poieni",
+      "Ponorel",
+      "Puiulețești",
+      "Runc",
+      "Segaj",
+      "Urdeș",
+      "Valea Morii",
+      "Vâlcești",
+      "Vâlcăneasa",
+      "Vârtănești",
+      "Văsești"
+    ],
+    "lat": 46.3676,
+    "lon": 22.8881,
+    "ocpiOffice": {
+      "name": "BCPI Câmpeni",
+      "address": "Str. Meșteșugarilor nr. 2, Câmpeni"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Vidra stă pe Arieșul Mic, în Țara Moților, vecină cu comuna Avram Iancu. Crângurile risipite pe versanți, cu fânețe și pădure, au proprietăți fragmentate între moștenitori. Dosarele se depun la BCPI Câmpeni.",
+    "nearby": []
+  },
+  {
+    "name": "Vințu de Jos",
+    "slug": "vintu-de-jos",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "comuna",
+    "villages": [
+      "Vințu de Jos",
+      "Ciocașu",
+      "Crișeni",
+      "Câmpu Goblii",
+      "Dealu Ferului",
+      "Gura Cuțului",
+      "Hațegana",
+      "Inuri",
+      "Laz",
+      "Mereteu",
+      "Mătăcina",
+      "Poienița",
+      "Pârău lui Mihai",
+      "Stăuini",
+      "Valea Goblii",
+      "Valea Vințului",
+      "Valea lui Mihai",
+      "Vurpăr"
+    ],
+    "lat": 45.9946,
+    "lon": 23.4861,
+    "ocpiOffice": {
+      "name": "BCPI Alba Iulia",
+      "address": "Str. Septimius Severus nr. 59, Alba Iulia"
+    },
+    "matrix": "full",
+    "profile": "periurban",
+    "countyNotesRef": "alba",
+    "localNote": "Vințu de Jos, nod feroviar pe Mureș la sud de Alba Iulia, păstrează castelul Martinuzzi, iar DN7 pleacă de aici spre Deva. Lunca largă și terasele au atras depozite și ferme, pe lângă arabilul tradițional. Comuna ține de BCPI Alba Iulia.",
+    "nearby": []
+  },
+  {
+    "name": "Zlatna",
+    "slug": "zlatna",
+    "county": "Alba",
+    "countySlug": "alba",
+    "type": "oras",
+    "villages": [
+      "Botești",
+      "Budeni",
+      "Dealu Roatei",
+      "Dobrot",
+      "Dumbrava",
+      "Feneș",
+      "Galați",
+      "Izvoru Ampoiului",
+      "Pirita",
+      "Podu lui Paul",
+      "Pârău Gruiului",
+      "Pătrângeni",
+      "Runc",
+      "Ruși",
+      "Suseni",
+      "Trâmpoiele",
+      "Valea Mică",
+      "Vâltori"
+    ],
+    "lat": 46.1063,
+    "lon": 23.2316,
+    "ocpiOffice": {
+      "name": "BCPI Alba Iulia",
+      "address": "Str. Septimius Severus nr. 59, Alba Iulia"
+    },
+    "matrix": "full",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "alba",
+    "localNote": "Zlatna se află pe valea Ampoiului, pe DN74, între Alba Iulia și Abrud, cu o lungă istorie de metalurgie neferoasă. Teritoriul orașului urcă în Munții Metaliferi, cu sate aparținătoare risipite pe văi. Dosarele de carte funciară merg la BCPI Alba Iulia.",
+    "nearby": []
+  }
+]

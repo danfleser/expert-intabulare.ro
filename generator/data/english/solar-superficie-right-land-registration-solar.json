@@ -1,0 +1,52 @@
+{
+  "path": "/en/solar/superficie-right-land-registration-solar.html",
+  "title": "Superficie Right in Romania — Land Registration for Solar Projects (up to 99 Years)",
+  "metaDescription": "The superficie right for solar projects in Romania: why lenders require it over leases, how it is constituted for up to 99 years, and the cadastral documentation needed to register it in the land book.",
+  "h1": "Superficie Rights for Solar Projects: Securing Romanian Land Without Buying It",
+  "roPair": "https://expert-intabulare.ro/parcuri-fotovoltaice/superficie-parc-fotovoltaic.html",
+  "whatsappPrefillEn": "Hello! I need cadastral documentation for a superficie right on a solar project site in Romania.",
+  "sections": [
+    {
+      "type": "html",
+      "heading": "What superficie is and why PV finance runs on it",
+      "html": "<p><em>Superficie</em> is a Romanian real right letting you <strong>own the constructions on land owned by someone else</strong>, constituted for up to <strong>99 years</strong>. For solar projects it is the standard land-securing structure when outright purchase is impractical — which, on sites assembled from dozens of rural owners, is most of the time.</p><p>The financing angle is decisive. An agricultural lease (<em>arendă</em>) or ordinary rental is a mere contractual right: it does not bind future owners of the land, cannot anchor the plant's ownership, and cannot be mortgaged. A superficie right, <strong>registered in the land book</strong>, is a real right: it survives sale of the underlying land, gives the developer registered ownership of the plant, and is what project-finance lenders can actually take security over. This is why banks routinely require superficie, not leases, before financial close — and why the registration, not the notarial deed alone, is the milestone that matters.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "The surveyor's role in constituting superficie",
+      "html": "<p>The notary drafts the deed; the registrar registers it; but the object of the right — <em>which land, exactly</em> — is defined by cadastral documentation, and that is our work:</p><ul><li><strong>Clean land books first:</strong> superficie can only be registered on registered land. Unregistered or messy parcels go through <a href=\"/en/solar/unregistered-land-romania-pv-developers.html\">first registration</a> or rectification before anything else.</li><li><strong>Cutting the right footprint:</strong> if the project needs 8 of a parcel's 20 hectares, a <a href=\"/en/services/boundary-survey-land-division.html\">division (dezmembrare)</a> lets superficie — and the notarial taxes that scale with it — attach only to the useful lot.</li><li><strong>Consolidation:</strong> merging acquired parcels into one compact site simplifies the superficie structure and every later permit and mortgage.</li><li><strong>The documentation package:</strong> plans and technical files the notary and OCPI need to identify the burdened land beyond argument, filed and followed to registration in each affected land book.</li></ul>"
+    },
+    {
+      "type": "html",
+      "heading": "Practical sequencing for developers",
+      "html": "<p>The efficient order, learned from real projects: due diligence on all target parcels → pre-agreements with owners → first registrations and rectifications where needed → divisions/mergers to shape the site → superficie deeds and registration → then permitting on a legally coherent site. Compressing or reordering these steps is where projects lose months: every registration depends on the previous one being complete, and OCPI processes files, not intentions. We map the critical path per parcel at the start so the notary appointments land in the right order.</p><p>Related rights follow the same logic: <strong>easements for the evacuation cable route</strong> across third-party land are registered per affected land book, with a servitude plan for each — plan the route survey and the easement deeds together.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "How long does registering a superficie right take?",
+          "a": "On parcels with clean land books, it is the notarial deed plus OCPI's processing time per land book — weeks, not days. On unregistered or defective parcels, add the registration or rectification path first; that is the schedule driver, which is why due diligence up front matters."
+        },
+        {
+          "q": "Can the landowner sell the land after superficie is registered?",
+          "a": "Yes — and your right survives the sale and binds the buyer. That is precisely the protection a registered real right gives over any lease."
+        },
+        {
+          "q": "Do you advise on the legal structure too?",
+          "a": "No — deed terms are for your lawyer and notary. We are the technical side: parcel geometry, land book status, documentation, registration mechanics. In practice we work as one team with your legal advisers, and the projects that go smoothly are the ones where both sides sequence together."
+        },
+        {
+          "q": "What exactly do we receive from you in a superficie engagement?",
+          "a": "Per parcel: the land book verification, any division or merger documentation with its OCPI reception, the plans identifying the burdened area for the notary's deed, and confirmation of the final registration — plus a status tracker across the portfolio, because on a thirty-parcel site the overview is half the service."
+        }
+      ]
+    }
+  ],
+  "related": [
+    "/en/solar/unregistered-land-romania-pv-developers.html",
+    "/en/services/boundary-survey-land-division.html",
+    "/en/solar/land-due-diligence-survey-romania.html",
+    "/en/guides/romanian-land-registry-explained.html"
+  ]
+}

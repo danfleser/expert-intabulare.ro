@@ -1,0 +1,57 @@
+{
+  "path": "/en/services/building-stakeout.html",
+  "title": "Construction Stakeout / Setting Out in Romania — Building Trasare with Official Report",
+  "metaDescription": "Construction stakeout (trasare) in Romania: transferring the design onto the ground with centimeter accuracy, the official stakeout report required at works start, tolerances and method.",
+  "h1": "Construction Stakeout in Romania: Putting the Design on the Ground",
+  "navLabelEn": "Construction stakeout",
+  "roPair": "https://expert-intabulare.ro/servicii/trasare-teren/",
+  "whatsappPrefillEn": "Hello! I need construction stakeout (trasare) for a project in Romania.",
+  "sections": [
+    {
+      "type": "html",
+      "heading": "What stakeout is and when Romanian law requires it",
+      "html": "<p>Stakeout, or setting out (<em>trasare</em>), is the transfer of a design from drawings to the ground: marking the axes, corners and reference levels of a future building — or the boundary corners of a parcel — with survey-grade accuracy, so excavation and foundations start exactly where the permit says they should.</p><p>In Romania this is not optional ceremony. At the start of authorized works, a <strong>stakeout report (<em>proces-verbal de trasare</em>)</strong> signed by an authorized surveyor is part of the site documentation the site manager and the works inspector expect to see — and it is what protects you later, when anyone asks whether the building stands within its permitted footprint and setbacks. A building erected in the wrong place is one of the most expensive mistakes a project can make, and one of the cheapest to prevent.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "What we stake out",
+      "html": "<ul><li><strong>Buildings:</strong> axes, foundation corners and level benchmarks for houses, halls, and technical buildings</li><li><strong>Parcel boundaries:</strong> materializing the legal limits from the land book on the ground with visible markers — the standard first step after a purchase, before fencing</li><li><strong>Infrastructure:</strong> access roads, utility trenches, fencing lines</li><li><strong>Solar plants:</strong> pile and tracker positions at production rhythm — see the dedicated <a href=\"/en/solar/pv-pile-tracker-stakeout.html\">PV pile & tracker stakeout page</a></li></ul><p>Method: GNSS/RTK positioning tied to the national ROMPOS correction service, verified with a total station where tolerances demand it. Every stakeout ends with a coordinate list and a signed report — your evidence trail.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Practical notes for developers and owners",
+      "html": "<p>Stakeout is fast — most sites are a single visit — but it sits on the critical path: the excavator waits for our stakes. Book it when the works start date is known, and send us the design files (DWG/DXF with the coordinate grid) a few days ahead so we can check them against the parcel's registered geometry. More than once, that check has caught a design drawn on outdated parcel limits — far better discovered before pouring concrete than after.</p><p>We serve sites across Alba, Cluj, Mureș, Sibiu and Hunedoara counties; for repeated stakeout campaigns on larger projects we agree a schedule and mobilization terms upfront.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "What accuracy can we expect?",
+          "a": "Centimeter-level for building axes and corners, achieved with RTK GNSS and total-station verification. Where a structure or equipment supplier specifies tighter tolerances, we confirm feasibility and method before committing — we state accuracy honestly rather than quoting numbers the terrain cannot support."
+        },
+        {
+          "q": "The builder says they can set out the building themselves. Why involve a surveyor?",
+          "a": "Because the stakeout report of an authorized surveyor is your independent, signed evidence that the building started in the permitted position — and because builder-made setouts are checked against nothing. If the position is later contested, tape-measure geometry will not defend you."
+        },
+        {
+          "q": "Can you stake the boundary of land we just bought?",
+          "a": "Yes — boundary stakeout from the registered coordinates is a routine one-visit job, and the right moment to discover any conflict between the land book geometry and the fences on the ground."
+        },
+        {
+          "q": "What happens if the stakeout reveals the design doesn't fit the parcel?",
+          "a": "It stops being a surveying problem and becomes a design decision — but a cheap one, because nothing has been built yet. We document the conflict precisely (which corner, by how much, against which registered boundary or setback), send it to your architect the same day, and re-stake once the revision arrives. Compare that with discovering the same conflict at the final inspection, when the remedy is demolition or a legalization fight."
+        },
+        {
+          "q": "How much notice do you need, and what does a stakeout cost?",
+          "a": "For sites in our five-county range, days rather than weeks — send the design files early and we slot the visit to the contractor's schedule. Cost depends on the number of points, site access and repeat visits; for a typical house or hall it is a small line in the construction budget, quoted upfront."
+        }
+      ]
+    }
+  ],
+  "related": [
+    "/en/services/topographic-survey.html",
+    "/en/solar/pv-pile-tracker-stakeout.html",
+    "/en/services/construction-registration.html",
+    "/en/services/engineering-survey.html"
+  ]
+}

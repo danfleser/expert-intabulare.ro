@@ -1,0 +1,65 @@
+{
+  "slug": "termene-avizare-ocpi",
+  "title": "Termene reale: de la măsurătoare la avizul OCPI | Expert Intabulare",
+  "h1": "Termene reale, de la măsurătoare la avizul OCPI: pe ce te poți baza",
+  "metaDescription": "Termene pe tip de lucrare la OCPI în 2026: extrase, recepții de planuri, primă înscriere, urgență cu tarif majorat. Tabel realist de la un topograf autorizat ANCPI.",
+  "whatsappTopic": "termene de avizare la OCPI",
+  "hook": "deadline",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Trei ceasuri diferite, un singur termen care te interesează",
+      "html": "<p>Când întrebi „în cât timp e gata?”, răspunsul onest are trei componente care se adună: <strong>timpul nostru</strong> (mobilizare, măsurători, redactare — îl controlăm și ni-l asumăm), <strong>timpul instituțional</strong> (termenele oficiale de soluționare la OCPI/BCPI, stabilite prin ordin ANCPI — în vigoare din august 2025 — pe care nu le controlează nimeni dintre noi) și <strong>timpul incidentelor</strong> (note de completare, aglomerări sezoniere — se gestionează cu marjă, nu cu speranță). Orice promisiune care amestecă cele trei într-o cifră unică „garantată” e marketing, nu planificare.</p><p>Mai jos găsești tabelul pe care îl folosim noi în planificarea proiectelor cu finanțare — cu mențiunea de rigoare: termenele oficiale exacte pe fiecare serviciu sunt publicate de ANCPI și pot diferi pe tip de cerere; tabelul dă ordinele de mărime confirmate de practica noastră zilnică la oficiile din Alba și județele vecine.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Termene orientative pe tip de lucrare (2026)",
+      "head": ["Serviciul", "Partea noastră", "Soluționare OCPI (regim normal)", "Urgență posibilă?"],
+      "rows": [
+        ["Extras CF de informare (CF electronică)", "—", "1–2 zile; online adesea în aceeași zi", "da, tarif majorat"],
+        ["Extras de plan cadastral pe ortofotoplan", "—", "zile", "da"],
+        ["Recepție plan topografic (Ordinul 700/2014)", "3–10 zile", "zile – 2 săptămâni", "da, la multe oficii"],
+        ["Primă înscriere imobil", "3–10 zile", "ordinul a 15 zile lucrătoare", "practic nu — verificările de fond nu se comprimă"],
+        ["Înscriere construcție (acte complete)", "3–7 zile", "zile – 2 săptămâni", "da"],
+        ["Dezlipire / alipire", "3–7 zile", "1–2 săptămâni", "da"],
+        ["Intabulare drept din act notarial", "—", "zile (depune notarul)", "da"],
+        ["Rectificări / repoziționări", "variabil, după caz", "săptămâni", "rar relevant — analiza durează, nu ștampila"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Urgența: unde cumpără timp real și unde doar bani dați",
+      "html": "<p>Regimul de urgență la OCPI funcționează simplu: tarif majorat substanțial, termen redus la o fracțiune din cel normal. Merită la <strong>piesele de flux</strong> — extrase, recepții, înscrieri de acte — unde ziua câștigată contează în lanț. Nu rezolvă însă <strong>etapele de fond</strong>: prima înscriere are verificări care își cer timpul, notele de completare au termenul lor de răspuns, iar succesiunile și arhivele nu au ghișeu de urgență deloc. În planificarea inversă de la un termen de depunere, folosim urgența ca amortizor de final, nu ca plan de bază — și îți spunem transparent, poziție cu poziție, unde tariful majorat cumpără zile reale și unde ar fi bani aruncați.</p><p>Un ultim factor, subestimat cronic: <strong>sezonalitatea</strong>. Înaintea sesiunilor mari de finanțare și în vârfurile pieței imobiliare, volumele la OCPI cresc și termenele practice se întind spre limita celor oficiale. Dacă dosarul tău depinde de o sesiune anunțată, cel mai valoros „regim de urgență” e să intri în lucru cu două luni înaintea valului, nu odată cu el.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "OCPI a depășit termenul afișat. Ce se poate face?", "a": "Întâi verificăm stadiul real al cererii (o urmărim oricum pentru fiecare dosar depus de noi) — de multe ori „întârzierea” e o notă de completare neobservată. Pentru depășiri reale există căile administrative de urmărire; practic, relația de lucru corectă cu registratura și soluționarea promptă a oricărei note fac mai mult decât orice reclamație." },
+        { "q": "Termenele diferă între OCPI Alba și oficiile din județele vecine?", "a": "Termenele oficiale sunt aceleași la nivel național; ritmul practic diferă cu volumul fiecărui oficiu și al fiecărui birou teritorial. Lucrând constant cu BCPI-urile din Alba, Cluj, Mureș, Sibiu și Hunedoara, știm ritmul curent al fiecăruia și îl punem în calendarul tău — nu cifra din ordin, ci realitatea din teren." },
+        { "q": "Nota de completare oprește ceasul termenului?", "a": "Da, practic: termenul curge pe dosar complet; nota îl suspendă până răspunzi. De aceea în calendarele noastre punem marjă pentru o rundă de completări — dacă nu apare, ai terminat mai devreme; dacă apare, deadline-ul tău de finanțare rămâne în picioare." },
+        { "q": "Puteți garanta un termen pentru tot pachetul, în scris?", "a": "Ne asumăm în scris termenele părții noastre și planificarea completă cu marje pentru partea instituțională. Nimeni nu poate garanta semnătura altei instituții la o dată fixă — cine o face, o face din pix. Diferența noastră: planul B pregătit pentru fiecare punct în care calendarul poate aluneca." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Ai un termen fix și vrei calendarul realist?",
+      "text": "Scrie-ne pe WhatsApp ce lucrare îți trebuie și până când — primești planificarea pe zile, cu partea noastră asumată ferm și marjele OCPI la vedere."
+    }
+  ],
+  "related": [
+    "cat-dureaza-intabularea",
+    "aviz-ocpi-respins-motive",
+    "plan-topografic-vizat-ocpi",
+    "pret-plan-topografic-fonduri-europene",
+    "teren-neintabulat-fonduri-europene",
+    "ce-inseamna-vizat-ocpi",
+    "/servicii/cadastru-si-intabulare/",
+    "/dictionar/ordinul-700-2014.html"
+  ],
+  "sources": [
+    "https://www.ancpi.ro/",
+    "https://www.juridice.ro/425393/termenele-de-solutionare-a-cererilor-de-catre-ancpi-si-unitatile-sale-subordonate.html"
+  ]
+}

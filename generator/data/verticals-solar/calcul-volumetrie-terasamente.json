@@ -1,0 +1,71 @@
+{
+  "slug": "calcul-volumetrie-terasamente",
+  "title": "Calcul volumetrie terasamente — cut/fill optimizat pentru parcuri fotovoltaice",
+  "h1": "Calculul de volumetrie: cum transformi relieful terenului într-un buget de nivelare pe care te poți baza",
+  "metaDescription": "Calcul cut/fill din măsurători reale pentru parcuri fotovoltaice: volume de săpătură și umplutură, optimizarea cotei de nivelare, verificarea cantităților facturate.",
+  "whatsappTopic": "un calcul de volumetrie pentru terasamentele unui parc fotovoltaic",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Terasamentele sunt un cost negociabil — dacă ai cifrele",
+      "html": "<p>Pe un teren înclinat sau valonat, terasamentele pot fi una dintre cele mai mari poziții din bugetul de construcție al parcului fotovoltaic — și una dintre puținele pe care le poți optimiza serios înainte de a mișca primul metru cub de pământ. Calculul de volumetrie (cut/fill) îți spune exact câți metri cubi de săpătură și câți de umplutură cere fiecare variantă de nivelare, unde se compensează între ele și cât pământ trebuie adus sau evacuat de pe amplasament.</p><p>Diferența dintre o estimare „la ochi\" a constructorului și un calcul pe măsurători reale se măsoară în zeci de procente din volum — adică în bani reali, la tarife pe metru cub. Calculul se face pe <a href=\"/parcuri-fotovoltaice/model-digital-teren-parc-fotovoltaic.html\">modelul digital al terenului</a> din măsurători proprii, nu pe date publice. Trimite-ne extrasul CF pe WhatsApp și îți spunem în aceeași zi ce presupune calculul pentru terenul tău.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Cum se optimizează: cota de nivelare nu e o alegere evidentă",
+      "html": "<p>Cel mai scump plan de nivelare e cel ales fără calcul. Câteva pârghii pe care le folosim împreună cu proiectantul:</p><ul><li><strong>Balansarea cut/fill.</strong> Cota de proiect se alege astfel încât săpătura să acopere pe cât posibil umplutura, în interiorul amplasamentului. Fiecare transport de pământ evitat e cost eliminat, nu doar redus.</li><li><strong>Nivelare pe zone, nu pe tot amplasamentul.</strong> Structurile pe piloni tolerează terenul natural pe suprafețe mari; adesea doar platformele stației de transformare, drumurile interne și zonele care depășesc toleranțele structurii cer intervenție. Calculăm variante: nivelare totală vs nivelare selectivă, cu volumele fiecăreia.</li><li><strong>Compararea scenariilor de layout.</strong> O rotire a rândurilor sau o repoziționare a platformelor poate reduce semnificativ volumele. Pe model, scenariile se compară în ore, nu în săptămâni.</li><li><strong>Verificarea cantităților facturate.</strong> Măsurători înainte și după execuție înseamnă volume decontate pe cifre măsurate, nu pe estimările antreprenorului de terasamente.</li></ul>"
+    },
+    {
+      "type": "table",
+      "heading": "Cele trei momente în care volumetria îți face bani",
+      "head": ["Moment", "Ce calculăm", "Ce câștigi"],
+      "rows": [
+        ["Înainte de cumpărarea terenului", "Volume orientative pe variante de nivelare", "Argument de negociere a prețului terenului; eviți terenul care doar pare ieftin"],
+        ["La proiectare", "Cut/fill pe scenarii de cotă și layout", "Cota optimă de nivelare, bugete comparabile între variante"],
+        ["În execuție și la decont", "Volume executate, din măsurători înainte/după", "Decontezi cantități măsurate, nu declarate"]
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "Pe ce date se sprijină calculul — și de ce contează acuratețea cotelor",
+      "html": "<p>Volumetria amplifică erorile de cotă: o eroare sistematică de numai câțiva centimetri pe un amplasament de 10 hectare înseamnă mii de metri cubi calculați în plus sau în minus. De aceea calculul serios pleacă de la o <a href=\"/parcuri-fotovoltaice/ridicare-topografica-teren-fotovoltaic.html\">ridicare topografică</a> cu densitate adaptată reliefului și breaklines măsurate: GNSS RTK cu ±2–3 cm în plan, fotogrametrie UAV cu puncte de control în toleranțe de 2–5 cm pe suprafețe mari, stație totală cu precizie milimetrică pe zonele critice.</p><p>Livrăm volumele pe zone, hărțile de diferență de cotă (unde se sapă, unde se umple, cu ce grosimi), profilele cerute de proiectant și fișierele sursă în LandXML sau dwg pentru AutoCAD Civil 3D. Pe terenuri cu pante mari, calculul merge natural împreună cu <a href=\"/parcuri-fotovoltaice/panta-teren-parc-fotovoltaic.html\">analiza de pantă</a> și cu <a href=\"/parcuri-fotovoltaice/cost-terasamente-teren-inclinat.html\">estimarea costului de terasamente</a> din faza de achiziție. Colaborăm cu dezvoltatori și constructori — inclusiv atunci când fiecare parte vrea cifrele verificate independent.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Un exemplu de logică, fără cifre inventate",
+      "html": "<p>Gândește-te la un amplasament valonat pe care furnizorul structurii acceptă terenul natural pe cea mai mare parte a suprafeței, dar două zone depășesc toleranțele de pantă pe rând. Scenariul „nivelăm tot\" produce un volum uriaș și un cost pe măsură; scenariul „nivelăm doar cele două zone, cu compensare locală cut/fill\" produce o fracțiune din volum — dar numai calculul pe model îți spune dacă pământul săpat acolo ajunge pentru umplutura de alături sau dacă rămâi cu transport. Adaugă un al treilea scenariu, în care layoutul se rotește câteva grade și una dintre zone iese complet din câmpul de panouri, și ai o decizie de sute de mii de lei luată pe trei rulări ale aceluiași model.</p><p>Exact acest tip de comparație e livrabilul nostru: nu un singur număr, ci scenarii puse față în față, cu volumele, hărțile și ipotezele fiecăruia — ca decizia să fie a ta, luată pe cifre măsurate. Dacă vrei să vedem împreună ce scenarii au sens pe terenul tău, scrie-ne pe WhatsApp cu numărul cadastral și stadiul proiectului.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Nu poate face constructorul de terasamente acest calcul?",
+          "a": "Poate, dar e partea care facturează metrii cubi — iar tu ai nevoie de o cifră independentă. Calculul topografic pe măsurători proprii îți dă o bază neutră pentru contractare și pentru verificarea situațiilor de lucrări."
+        },
+        {
+          "q": "Ce precizie are calculul de volume?",
+          "a": "Depinde direct de calitatea modelului de teren. Pe o ridicare cu densitate corectă și breaklines măsurate, incertitudinea volumelor scade la nivelul câtorva procente — suficient pentru contractare. Pe date publice sau măsurători rare, erorile pot ajunge la zeci de procente."
+        },
+        {
+          "q": "Puteți calcula volumele executate pentru decont?",
+          "a": "Da. Măsurăm terenul înainte de începerea lucrărilor și după fiecare fază relevantă, iar diferența dintre modele dă volumele efectiv executate — pe zone, cu hărți de diferență de cotă anexate ca probe la situațiile de lucrări."
+        },
+        {
+          "q": "Cât durează un calcul de volumetrie?",
+          "a": "Dacă există deja un model digital al terenului valid, câteva zile de birou per scenariu. De la zero, orientativ 1–3 zile de măsurători plus 3–5 zile de prelucrare și calcul, în funcție de suprafață și de numărul de scenarii comparate."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/model-digital-teren-parc-fotovoltaic.html", "label": "Model digital al terenului (MDT)" },
+    { "href": "/parcuri-fotovoltaice/panta-teren-parc-fotovoltaic.html", "label": "Analiza pantelor terenului" },
+    { "href": "/parcuri-fotovoltaice/cost-terasamente-teren-inclinat.html", "label": "Cât costă terasamentele pe teren înclinat" },
+    { "href": "/parcuri-fotovoltaice/ridicare-topografica-teren-fotovoltaic.html", "label": "Ridicare topografică teren fotovoltaic" },
+    { "href": "/parcuri-fotovoltaice/trasare-drumuri-interne-parc-fotovoltaic.html", "label": "Trasare drumuri interne" },
+    { "href": "/servicii/topografie-constructii/", "label": "Topografie pentru construcții" }
+  ],
+  "sources": []
+}

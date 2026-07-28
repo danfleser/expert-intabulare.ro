@@ -1,0 +1,48 @@
+{
+  "path": "/en/guides/romanian-land-registry-explained.html",
+  "title": "The Romanian Land Registry Explained — Carte Funciară, ANCPI & OCPI for Foreigners",
+  "metaDescription": "How Romania's land book (carte funciară) system works: the three-part register, ANCPI and OCPI, cadastral numbers, why registration beats deeds, and how to read what you're buying.",
+  "h1": "The Romanian Land Registry, Explained for Foreigners",
+  "roPair": null,
+  "whatsappPrefillEn": "Hello! I need help understanding/verifying a Romanian land book (carte funciara) record.",
+  "sections": [
+    {
+      "type": "html",
+      "heading": "One register to rule every property",
+      "html": "<p>Romania records real estate in the <strong>carte funciară</strong> — literally \"land book\" — a public register descended from the Austro-Hungarian Grundbuch tradition that Transylvania has used for over a century and that now covers, in unified modern form, the whole country. Each registered property (<em>imobil</em>) — a parcel of land, with or without buildings, or an individual apartment — has its own land book entry, identified nationally by a <strong>cadastral number</strong>, and the whole system runs electronically on ANCPI's e-Terra platform.</p><p>Two institutions matter to you: <strong>ANCPI</strong>, the National Agency for Cadastre and Land Registration, which runs the system, licenses surveyors and sets the tariffs; and <strong>OCPI</strong>, its office in each county, where files are actually lodged, examined by registrars, and turned into land book entries. Private, ANCPI-authorized surveyors — our profession — are the only channel through which measurement-based documentation enters the system.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Reading a land book: three parts, three questions",
+      "html": "<ul><li><strong>Part I — What is it?</strong> The property's description: cadastral number, locality, surface area, land-use category (arable, courtyard-buildings, pasture, forest…), whether it lies <em>intravilan</em> (inside the buildable zone) or <em>extravilan</em> (outside it), and the buildings registered on it.</li><li><strong>Part II — Whose is it?</strong> The registered owners, their shares, and the legal acts behind their title: purchase deed, inheritance certificate, restitution title, court decision.</li><li><strong>Part III — What's against it?</strong> The encumbrances: mortgages, easements, usufruct and superficie rights, seizures, litigation notes, sale prohibitions. This is the section that changes deals.</li></ul><p>The certified copy of an entry is the <a href=\"/en/services/land-registry-extract.html\">extras de carte funciară</a> — the document every notary, bank and grant authority asks for, and the first thing to obtain about any Romanian property you care about.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "The principles that surprise foreign buyers",
+      "html": "<p><strong>Registration is what counts.</strong> In the Romanian system, rights become fully effective against third parties by registration in the land book (<em>intabulare</em>), not by the deed alone. Practically: trust the register, not the paperwork someone shows you — and never leave your own acquisition unregistered.</p><p><strong>The register is public.</strong> Anyone can obtain an extract for any property. There is no gatekeeping — which makes proper due diligence possible and its absence inexcusable.</p><p><strong>Not everything is in it yet.</strong> Romania is still completing first registration of its territory; a national program registers communes systematically, free of charge, but coverage is uneven. Millions of rural parcels exist only as restitution-era paper titles — valid ownership, but invisible to the register until <a href=\"/en/services/cadastral-registration.html\">first registration</a> gives them a cadastral number and a land book. If a property you want has no land book, that is not necessarily a scam — it is a project step with a knowable timeline.</p><p><strong>The map can disagree with the ground.</strong> Registered geometry occasionally overlaps a neighbour's or sits displaced from physical occupation — legacy artifacts of how older registrations were made. This is why serious acquisitions pair the paper check with <a href=\"/en/solar/land-due-diligence-survey-romania.html\">measurement</a>.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Is the land book the same as the cadastre?",
+          "a": "They are two faces of one integrated system: the cadastre is the technical inventory (geometry, areas, maps), the land book the legal record (owners, rights, encumbrances). One file at OCPI feeds both, which is why the surveyor's documentation and the registrar's decision travel together."
+        },
+        {
+          "q": "Can I check a Romanian property online from abroad?",
+          "a": "Partially — ANCPI issues informative extracts online for registered properties, and its public geoportal shows registered parcel geometry. Interpreting what you find, and catching what online tools do not show, is where we come in; send us the cadastral number and we will tell you what you are actually looking at."
+        },
+        {
+          "q": "What does 'intabulare' mean exactly?",
+          "a": "The definitive registration of a real right — ownership, superficie, mortgage — in the land book. It is the strongest form of entry, distinct from provisional registrations and simple notations. When Romanians say a property 'is intabulated', they mean it has a clean, registered land book — and that is the state you want every property you touch to reach. More terms in our glossary."
+        }
+      ]
+    }
+  ],
+  "related": [
+    "/en/services/land-registry-extract.html",
+    "/en/services/cadastral-registration.html",
+    "/en/guides/glossary-romanian-land-terms.html",
+    "/en/guides/buying-land-in-romania.html"
+  ]
+}

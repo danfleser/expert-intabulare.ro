@@ -1,0 +1,75 @@
+{
+  "slug": "parc-fotovoltaic-primarie-documentatie",
+  "title": "Parc fotovoltaic pentru primărie (UAT) — documentația topo-cadastrală",
+  "h1": "Parc fotovoltaic pentru primării: documentația topo-cadastrală pe terenurile UAT-ului",
+  "metaDescription": "Parc fotovoltaic pentru primărie: domeniu public sau privat, HCL, terenuri neintabulate din inventar, plan topografic. Documentație completă pentru UAT-uri.",
+  "whatsappTopic": "documentația topografică pentru un parc fotovoltaic al primăriei",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Proiectul primăriei se împiedică de obicei în acte, nu în panouri",
+      "html": "<p>Tot mai multe primării își fac parcuri fotovoltaice — pentru iluminatul public, pentru școli, pentru stațiile de apă sau pur și simplu pentru factura UAT-ului. Tehnic, proiectele sunt simple: suprafețe de la sub un hectar la câteva hectare, pe terenuri ale comunei. Administrativ, însă, terenurile publice au un strat de complexitate în plus față de cele private: apartenența la domeniul public sau privat al UAT-ului, inventarul bunurilor, hotărârile de consiliu local (HCL) care aprobă destinația terenului — și, foarte des, cărți funciare care nu există încă.</p><p>Lucrăm cu primării și cu firmele care le implementează proiectele — colaborăm cu dezvoltatori și constructori și pe segmentul public — și știm unde se blochează dosarele: aproape întotdeauna la situația cadastrală a terenului. Vestea bună e că totul se rezolvă, dacă se începe devreme. Trimite-ne pe WhatsApp extrasul CF sau, dacă terenul nu are CF, numărul poziției din inventarul domeniului public — îți spunem ce pași urmează.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Prima verificare: ce statut are terenul și dacă e înscris în cartea funciară",
+      "html": "<p>Înainte de orice studiu de fezabilitate, trei întrebări trebuie să aibă răspuns documentat:</p><ul><li><strong>Terenul e în domeniul public sau în domeniul privat al UAT-ului?</strong> Regimul juridic diferă, iar modul în care poate fi pus la dispoziția proiectului (administrare, concesiune, superficie către o societate a UAT-ului) se decide în consecință — decizia aparține consiliului local și juriștilor, de regulă printr-o HCL.</li><li><strong>Terenul e intabulat?</strong> Multe terenuri din inventarele UAT-urilor figurează doar în anexele de inventar, fără carte funciară deschisă. Fără CF nu există certificat de urbanism pe date solide, nu există autorizație și nu există finanțare — prima înscriere devine pasul zero al proiectului. Vezi și pagina despre <a href=\"/parcuri-fotovoltaice/teren-neintabulat-parc-fotovoltaic.html\">terenurile neintabulate</a>.</li><li><strong>Limitele din inventar corespund cu terenul real?</strong> Pozițiile de inventar au adesea suprafețe estimate și vecinătăți descrise sumar. Măsurătoarea arată suprafața reală și eventualele suprapuneri cu proprietăți private — mai bine le afli înaintea proiectului decât în timpul lui.</li></ul>"
+    },
+    {
+      "type": "html",
+      "heading": "Documentația pe care o pregătim pentru UAT",
+      "html": "<p>Pentru proiectele primăriilor, pachetul topo-cadastral uzual arată așa:</p><ul><li><strong>Prima înscriere în cartea funciară</strong> a terenului din inventar, cu documentația întocmită conform Ordinului ANCPI nr. 700/2014 — inclusiv corelarea cu HCL-urile de inventar;</li><li><strong><a href=\"/parcuri-fotovoltaice/dezmembrare-teren-parcela.html\">Dezmembrarea</a></strong> lotului destinat parcului dintr-un corp de proprietate mai mare — ca proiectul să stea pe o parcelă proprie, cu CF curat, nu pe un colț dintr-un imobil de zeci de hectare;</li><li><strong><a href=\"/parcuri-fotovoltaice/studiu-topografic-parc-fotovoltaic.html\">Studiul topografic</a> vizat OCPI</strong> și <a href=\"/parcuri-fotovoltaice/plan-de-situatie-parc-fotovoltaic.html\">planul de situație</a> pentru certificatul de urbanism și autorizare;</li><li><strong>Trasarea</strong> la execuție și <strong>documentația as-built</strong> la recepție, cu intabularea construcțiilor aferente (stația de transformare, clădirea tehnică).</li></ul><p>Un aspect practic pentru secretariatul primăriei: livrăm documentele în forma cerută de fiecare instituție din lanț — OCPI, primărie ca autoritate de urbanism, finanțator — ca să nu se plimbe dosarul înapoi pentru formate.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Finanțarea: calendarul cadastral trebuie să bată calendarul apelului",
+      "html": "<p>Majoritatea proiectelor de acest tip se finanțează din fonduri europene sau din programe naționale, iar aici regula e simplă: finanțatorul cere dovada unei situații juridice clare a terenului, cu extras CF recent, la momente fixe din calendar. O primă înscriere sau o dezmembrare pornită târziu poate rata fereastra de depunere — procedurile cadastrale au termene proprii, care nu se comprimă prin adrese de urgentare.</p><p>De aceea recomandăm primăriilor să pornească partea cadastrală înainte de publicarea ghidului final, pe baza condițiilor din apelurile precedente. Am detaliat cerințele tipice ale finanțatorilor pe pagina despre <a href=\"/parcuri-fotovoltaice/parc-fotovoltaic-fonduri-europene-documentatie.html\">documentația pentru proiecte cu fonduri europene</a>, iar pentru situația frecventă a terenului fără CF există o pagină dedicată în verticala de <a href=\"/fonduri-europene/\">fonduri europene</a>: <a href=\"/fonduri-europene/teren-neintabulat-fonduri-europene.html\">teren neintabulat la depunerea cererii de finanțare</a>.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Checklist pentru secretariatul primăriei, înainte de studiul de fezabilitate",
+      "items": [
+        "Identifică poziția terenului în inventarul domeniului public sau privat și HCL-urile aferente",
+        "Verifică dacă terenul are carte funciară deschisă — dacă nu, pornește prima înscriere imediat",
+        "Cere un extras CF de informare recent și verifică sarcinile, notările și vecinătățile",
+        "Confruntă suprafața din inventar cu terenul real, prin măsurătoare, înainte de a o scrie în proiect",
+        "Clarifică accesul la teren: drum public înscris sau servitute de constituit",
+        "Corelează calendarul cadastral (înscrieri, dezmembrări, recepții OCPI) cu termenele apelului de finanțare"
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Terenul figurează în inventarul domeniului public, dar nu are carte funciară. Se poate depune proiectul?",
+          "a": "Riscant — finanțatorii și autoritățile cer de regulă extras CF, nu doar poziția de inventar. Soluția este prima înscriere a terenului în cartea funciară, pornită cât mai devreme, pentru că are termene proprii de avizare la OCPI."
+        },
+        {
+          "q": "Ce rol are HCL-ul în partea cadastrală?",
+          "a": "Hotărârile de consiliu local stabilesc apartenența terenului la inventar și destinația lui pentru proiect. La documentația cadastrală, ele fac parte din actele pe care se sprijină înscrierea. Redactarea lor rămâne la secretariatul și juriștii UAT-ului; noi corelăm partea tehnică cu ele."
+        },
+        {
+          "q": "Primăria are terenul, dar proiectul îl implementează o firmă. Ce documentație e necesară?",
+          "a": "Depinde de forma juridică aleasă de UAT (administrare, concesiune, superficie). Pentru variantele care se înscriu în CF pregătim documentația cadastrală aferentă, iar planurile de amplasament delimitează exact suprafața pusă la dispoziție."
+        },
+        {
+          "q": "Lucrați direct cu primăriile din afara județului Alba?",
+          "a": "Pentru măsurători de teren acoperim Alba, Cluj, Mureș, Sibiu și Hunedoara. Verificările de CF, analizele pe inventar și consultanța pe documente le facem pentru UAT-uri din toată țara, pe documente trimise electronic."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/parc-fotovoltaic-fonduri-europene-documentatie.html", "label": "Documentație pentru proiecte cu fonduri europene" },
+    { "href": "/parcuri-fotovoltaice/teren-neintabulat-parc-fotovoltaic.html", "label": "Teren neintabulat — ce faci" },
+    { "href": "/parcuri-fotovoltaice/dezmembrare-teren-parcela.html", "label": "Dezmembrarea lotului util" },
+    { "href": "/fonduri-europene/", "label": "Verticala fonduri europene" },
+    { "href": "/servicii/servicii-ocpi/", "label": "Servicii OCPI" },
+    { "href": "/dictionar/intabulare.html", "label": "Dicționar: intabulare" }
+  ],
+  "sources": [
+    { "url": "https://legislatie.just.ro/Public/DetaliiDocument/160177", "title": "Ordinul ANCPI nr. 700/2014 — regulamentul de avizare, recepție și înscriere" }
+  ]
+}

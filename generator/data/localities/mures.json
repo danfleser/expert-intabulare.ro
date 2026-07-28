@@ -1,0 +1,666 @@
+[
+  {
+    "name": "Adămuș",
+    "slug": "adamus",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Adămuș",
+      "Chinciuș",
+      "Cornești",
+      "Crăiești",
+      "Dâmbău",
+      "Herepea"
+    ],
+    "lat": 46.3,
+    "lon": 24.2333,
+    "ocpiOffice": {
+      "name": "BCPI Târnăveni",
+      "address": "Str. Republicii nr. 61, Târnăveni"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Adămușul se înșiră pe Târnava Mică, pe DN14A, imediat în aval de Târnăveni, cu satele Crăiești, Dâmbău și Chinciuș. Lunca și dealurile cu vii dau un hotar agricol variat. Comuna ține de BCPI Târnăveni.",
+    "nearby": []
+  },
+  {
+    "name": "Ațintiș",
+    "slug": "atintis",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Ațintiș",
+      "Botez",
+      "Cecălaca",
+      "Iștihaza",
+      "Maldaoci",
+      "Sâniacob"
+    ],
+    "lat": 46.4333,
+    "lon": 24.1,
+    "ocpiOffice": {
+      "name": "BCPI Luduș",
+      "address": "Str. Republicii nr. 26, Luduș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Ațintișul stă pe malul stâng al Mureșului, între Luduș și Ocna Mureș, cu satele Cecălaca și Iștihaza pe văile dinspre deal. Hotarul agricol din luncă se învecinează direct cu județul Alba. Competența este la BCPI Luduș.",
+    "nearby": []
+  },
+  {
+    "name": "Băgaciu",
+    "slug": "bagaciu",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Băgaciu",
+      "Delenii"
+    ],
+    "lat": 46.2667,
+    "lon": 24.3667,
+    "ocpiOffice": {
+      "name": "BCPI Târnăveni",
+      "address": "Str. Republicii nr. 61, Târnăveni"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Băgaciul stă pe dealurile de la sud de Târnăveni, în jurul bisericii fortificate săsești din satul de reședință. Hotarul păstrează structura vechilor parcele săsești, cu vii și arabil. Dosarele se depun la BCPI Târnăveni.",
+    "nearby": []
+  },
+  {
+    "name": "Bichiș",
+    "slug": "bichis",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Bichiș",
+      "Gâmbuț",
+      "Nandra",
+      "Ozd"
+    ],
+    "lat": 46.3667,
+    "lon": 24.1,
+    "ocpiOffice": {
+      "name": "BCPI Luduș",
+      "address": "Str. Republicii nr. 26, Luduș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Bichișul, cu satele Ozd și Gâmbuț, ocupă dealurile din colțul sud-vestic al județului, la hotar cu Alba, aproape de Aiud peste dealuri. Comuna mică are hotar agricol cu arabil și fânețe în pantă. Dosarele se depun la BCPI Luduș.",
+    "nearby": []
+  },
+  {
+    "name": "Bogata",
+    "slug": "bogata",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Bogata",
+      "Ranta"
+    ],
+    "lat": 46.456,
+    "lon": 24.118,
+    "ocpiOffice": {
+      "name": "BCPI Luduș",
+      "address": "Str. Republicii nr. 26, Luduș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Bogata stă pe malul Mureșului lângă Luduș, pe E60, cu lunca ocupată de arabil intensiv. Calea ferată și șoseaua europeană taie hotarul comunei în fâșii paralele. Dosarele se depun la BCPI Luduș.",
+    "nearby": []
+  },
+  {
+    "name": "Chețani",
+    "slug": "chetani",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Chețani",
+      "Coasta Grindului",
+      "Cordoș",
+      "Giurgiș",
+      "Grindeni",
+      "Hădăreni",
+      "Linț"
+    ],
+    "lat": 46.4667,
+    "lon": 24.0333,
+    "ocpiOffice": {
+      "name": "BCPI Luduș",
+      "address": "Str. Republicii nr. 26, Luduș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Chețaniul este prima comună mureșeană pe Mureș în aval de granița cu Cluj, pe E60, vecină cu Luduș. Satele Cordoș, Grindeni și Hădăreni stau în luncă și pe terase, cu arabil fertil. Dosarele se depun la BCPI Luduș.",
+    "nearby": []
+  },
+  {
+    "name": "Cucerdea",
+    "slug": "cucerdea",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Cucerdea",
+      "Bord",
+      "Șeulia de Mureș"
+    ],
+    "lat": 46.4,
+    "lon": 24.2667,
+    "ocpiOffice": {
+      "name": "BCPI Târnăveni",
+      "address": "Str. Republicii nr. 61, Târnăveni"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Cucerdea, cu satele Bord și Șeulia de Mureș, stă pe dealurile dintre Iernut și Târnăveni. Comuna agricolă are arabil și vii pe versanții însoriți. Competența este la BCPI Târnăveni.",
+    "nearby": []
+  },
+  {
+    "name": "Cuci",
+    "slug": "cuci",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Cuci",
+      "După Deal",
+      "Dătășeni",
+      "Orosia",
+      "Petrilaca"
+    ],
+    "lat": 46.4667,
+    "lon": 24.15,
+    "ocpiOffice": {
+      "name": "BCPI Luduș",
+      "address": "Str. Republicii nr. 26, Luduș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Cuciul se află pe Mureș, pe DN15, între Luduș și Iernut, cu satele Petrilaca și Orosia peste râu. Hotarul agricol din luncă e completat de dealuri cu pășuni. Competența aparține BCPI Luduș.",
+    "nearby": []
+  },
+  {
+    "name": "Gănești",
+    "slug": "ganesti",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Gănești",
+      "Păucișoara",
+      "Seuca",
+      "Sub Pădure"
+    ],
+    "lat": 46.3333,
+    "lon": 24.35,
+    "ocpiOffice": {
+      "name": "BCPI Târnăveni",
+      "address": "Str. Republicii nr. 61, Târnăveni"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Găneștiul se află pe Târnava Mică, imediat în amonte de Târnăveni, cu satele Sub Pădure și Păucișoara pe văile laterale. Lunca și dealurile cu vii definesc hotarul. Dosarele se depun la BCPI Târnăveni.",
+    "nearby": []
+  },
+  {
+    "name": "Iclănzel",
+    "slug": "iclanzel",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Iclănzel",
+      "Chisălița",
+      "Căpușu de Câmpie",
+      "După Deal",
+      "Fânațe",
+      "Fânațele Căpușului",
+      "Ghidașteu",
+      "Iclandu Mare",
+      "Mădărășeni",
+      "Tăblășeni",
+      "Valea Iclandului"
+    ],
+    "lat": 46.5333,
+    "lon": 24.2833,
+    "ocpiOffice": {
+      "name": "BCPI Luduș",
+      "address": "Str. Republicii nr. 26, Luduș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Iclănzelul își risipește satele mici pe dealurile Câmpiei Transilvaniei, între Luduș și Zau de Câmpie. Hotarul cu arabil și pășuni în pantă domoală se lucrează în mare parte arendat. Dosarele se depun la BCPI Luduș.",
+    "nearby": []
+  },
+  {
+    "name": "Iernut",
+    "slug": "iernut",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "oras",
+    "villages": [
+      "Cipău",
+      "Deag",
+      "Lechința",
+      "Oarba de Mureș",
+      "Porumbac",
+      "Racameț",
+      "Sfântu Gheorghe",
+      "Sălcud"
+    ],
+    "lat": 46.45,
+    "lon": 24.25,
+    "ocpiOffice": {
+      "name": "BCPI Luduș",
+      "address": "Str. Republicii nr. 26, Luduș"
+    },
+    "matrix": "reduced",
+    "profile": "urban",
+    "countyNotesRef": "mures",
+    "localNote": "Iernutul se află pe Mureș, pe E60 între Luduș și Ungheni, cu termocentrala pe gaz de la marginea orașului ca reper industrial al văii. Lunca largă a Mureșului poartă arabil fertil, iar orașul e nod pentru comunele din jur. Dosarele se depun la BCPI Luduș.",
+    "nearby": []
+  },
+  {
+    "name": "Luduș",
+    "slug": "ludus",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "oras",
+    "villages": [
+      "Avrămești",
+      "Cioarga",
+      "Ciurgău",
+      "Fundătura",
+      "Gheja",
+      "Roșiori"
+    ],
+    "lat": 46.4833,
+    "lon": 24.1,
+    "ocpiOffice": {
+      "name": "BCPI Luduș",
+      "address": "Str. Republicii nr. 26, Luduș"
+    },
+    "matrix": "reduced",
+    "profile": "urban",
+    "countyNotesRef": "mures",
+    "localNote": "Ludușul stă pe Mureș, la intersecția DN15/E60 cu drumul spre Sărmașu, fiind primul oraș mureșean pe traseul nostru dinspre Aiud. Zona agricolă din jur și tranzacțiile cu terenuri din luncă alimentează constant biroul local. BCPI Luduș, de pe Str. Republicii nr. 26, acoperă tot vestul județului.",
+    "nearby": []
+  },
+  {
+    "name": "Mica",
+    "slug": "mica",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Mica",
+      "Abuș",
+      "Ceuaș",
+      "Căpâlna de Sus",
+      "Deaj",
+      "Hărănglab",
+      "Șomoștelnic"
+    ],
+    "lat": 46.3667,
+    "lon": 24.4167,
+    "ocpiOffice": {
+      "name": "BCPI Târnăveni",
+      "address": "Str. Republicii nr. 61, Târnăveni"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Mica mureșeană se înșiră pe valea Târnavei Mici, în amonte de Gănești, cu satele Abuș, Căpâlna de Sus și Deaj. Podgoriile Târnavei și arabilul din luncă domină economia locală. Comuna ține de BCPI Târnăveni.",
+    "nearby": []
+  },
+  {
+    "name": "Miheșu de Câmpie",
+    "slug": "mihesu-de-campie",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Miheșu de Câmpie",
+      "Bujor",
+      "Cirhagău",
+      "Groapa Rădăii",
+      "Mogoaia",
+      "Răzoare",
+      "Ștefanca",
+      "Șăulița"
+    ],
+    "lat": 46.6833,
+    "lon": 24.15,
+    "ocpiOffice": {
+      "name": "BCPI Luduș",
+      "address": "Str. Republicii nr. 26, Luduș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Miheșu de Câmpie se află pe Pârâul de Câmpie, între Zau și Sărmașu, cu iazuri și stufărișuri de-a lungul văii. Comuna agricolă are arabil și pășuni în parcele întinse. Dosarele se depun la BCPI Luduș.",
+    "nearby": []
+  },
+  {
+    "name": "Ogra",
+    "slug": "ogra",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Ogra",
+      "Dileu Vechi",
+      "Giuluș",
+      "Lăscud",
+      "Vaideiu"
+    ],
+    "lat": 46.4333,
+    "lon": 24.3167,
+    "ocpiOffice": {
+      "name": "BCPI Târgu Mureș",
+      "address": "Str. Căprioarei nr. 2, Târgu Mureș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Ogra stă pe Mureș, pe E60 între Iernut și Ungheni, cu castelul Haller ca reper al satului. Lunca fertilă și iazurile din hotar întregesc profilul agricol al comunei. Dosarele se depun la BCPI Târgu Mureș.",
+    "nearby": []
+  },
+  {
+    "name": "Papiu Ilarian",
+    "slug": "papiu-ilarian",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Papiu Ilarian",
+      "Dobra",
+      "Merișoru",
+      "Ursoaia",
+      "Șandru"
+    ],
+    "lat": 46.55,
+    "lon": 24.2,
+    "ocpiOffice": {
+      "name": "BCPI Luduș",
+      "address": "Str. Republicii nr. 26, Luduș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Comuna Papiu Ilarian poartă numele cărturarului pașoptist născut aici, pe vremea când satul se numea Budiul de Câmpie. Așezată pe dealurile dintre Luduș și Zau de Câmpie, are hotar pur agricol. Competența este la BCPI Luduș.",
+    "nearby": []
+  },
+  {
+    "name": "Sânger",
+    "slug": "sanger",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Sânger",
+      "Bârza",
+      "Cipăieni",
+      "Dalu",
+      "Pripoare",
+      "Vălișoara",
+      "Zăpodea"
+    ],
+    "lat": 46.5583,
+    "lon": 24.1377,
+    "ocpiOffice": {
+      "name": "BCPI Luduș",
+      "address": "Str. Republicii nr. 26, Luduș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Sângerul se află între Luduș și Sărmașu, pe valea Pârâului de Câmpie, cu satele Bârza și Cipăieni. Hotarul agricol întins ține de profilul clasic al Câmpiei Transilvaniei. Dosarele se depun la BCPI Luduș.",
+    "nearby": []
+  },
+  {
+    "name": "Sânpaul",
+    "slug": "sanpaul",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Sânpaul",
+      "Chirileu",
+      "Dileu Nou",
+      "Sânmărghita",
+      "Valea Izvoarelor"
+    ],
+    "lat": 46.45,
+    "lon": 24.35,
+    "ocpiOffice": {
+      "name": "BCPI Târgu Mureș",
+      "address": "Str. Căprioarei nr. 2, Târgu Mureș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Sânpaulul mureșean se află pe valea Mureșului, între Ogra și Ungheni, cu satele Chirileu, Sânmărghita și Valea Izvoarelor. Lunca largă poartă culturi mari, iar apropierea de Târgu Mureș se simte în piața terenurilor. Comuna este arondată la BCPI Târgu Mureș.",
+    "nearby": []
+  },
+  {
+    "name": "Sărmașu",
+    "slug": "sarmasu",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "oras",
+    "villages": [
+      "Balda",
+      "Larga",
+      "Moruț",
+      "Sărmășel",
+      "Sărmășel-Gară",
+      "Titiana",
+      "Vișinelu"
+    ],
+    "lat": 46.75,
+    "lon": 24.1667,
+    "ocpiOffice": {
+      "name": "BCPI Luduș",
+      "address": "Str. Republicii nr. 26, Luduș"
+    },
+    "matrix": "reduced",
+    "profile": "urban",
+    "countyNotesRef": "mures",
+    "localNote": "Sărmașul, oraș în Câmpia Transilvaniei, e legat de istoria gazului metan: la Sărmășel s-a forat la începutul secolului XX prima sondă care a dat gaz în Transilvania. Hotarul întins, cu arabil și pășuni, ține de zona agricolă a Câmpiei. Orașul este arondat la BCPI Luduș.",
+    "nearby": []
+  },
+  {
+    "name": "Șăulia",
+    "slug": "saulia",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Șăulia",
+      "Leorința-Șăulia",
+      "Măcicășești",
+      "Pădurea"
+    ],
+    "lat": 46.6333,
+    "lon": 24.2167,
+    "ocpiOffice": {
+      "name": "OCPI Mureș",
+      "address": "Str. Căprioarei nr. 2, Târgu Mureș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Șăulia stă în Câmpia Transilvaniei, între Zau de Câmpie și Miheșu de Câmpie, cu hotar agricol întins pe dealuri domoale. Satele mici au multe parcele cu acte nefinalizate după retrocedări. Pentru depunerea dosarelor, verificați arondarea exactă la OCPI Mureș — comuna se află la limita dintre zonele deservite de birourile din județ.",
+    "nearby": []
+  },
+  {
+    "name": "Târgu Mureș",
+    "slug": "targu-mures",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "municipiu",
+    "villages": [
+      "Mureșeni",
+      "Remetea"
+    ],
+    "lat": 46.5425,
+    "lon": 24.5575,
+    "ocpiOffice": {
+      "name": "BCPI Târgu Mureș",
+      "address": "Str. Căprioarei nr. 2, Târgu Mureș"
+    },
+    "matrix": "reduced",
+    "profile": "urban",
+    "countyNotesRef": "mures",
+    "localNote": "Târgu Mureș, reședința județului, se află pe Mureș, cu Palatul Culturii și cetatea medievală în centru; dinspre Aiud se ajunge pe DN15/E60 prin Luduș și Iernut. Piața imobiliară a municipiului și a comunelor limitrofe este cea mai activă din județ. Dosarele se depun la BCPI Târgu Mureș, în sediul OCPI Mureș de pe Str. Căprioarei nr. 2.",
+    "nearby": []
+  },
+  {
+    "name": "Târnăveni",
+    "slug": "tarnaveni",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "municipiu",
+    "villages": [
+      "Bobohalma",
+      "Botorca",
+      "Cuștelnic"
+    ],
+    "lat": 46.3319,
+    "lon": 24.2966,
+    "ocpiOffice": {
+      "name": "BCPI Târnăveni",
+      "address": "Str. Republicii nr. 61, Târnăveni"
+    },
+    "matrix": "reduced",
+    "profile": "urban",
+    "countyNotesRef": "mures",
+    "localNote": "Târnăveniul, al doilea oraș al văii Târnavei Mici, are un trecut industrial chimic și legături directe spre Blaj și Mediaș pe DN14A. Fostele platforme industriale și hotarul agricol generează lucrări variate de cadastru. BCPI Târnăveni, de pe Str. Republicii nr. 61, deservește orașul și comunele din jur.",
+    "nearby": []
+  },
+  {
+    "name": "Tăureni",
+    "slug": "taureni",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Tăureni",
+      "Fânațe",
+      "Moara de Jos"
+    ],
+    "lat": 46.5795,
+    "lon": 24.0808,
+    "ocpiOffice": {
+      "name": "BCPI Luduș",
+      "address": "Str. Republicii nr. 26, Luduș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Tăurenii formează o comună mică pe Pârâul de Câmpie, lângă Zau de Câmpie, cu iazuri piscicole care i-au dat numele. Hotarul agricol compact se lucrează în exploatații mari. Dosarele se depun la BCPI Luduș.",
+    "nearby": []
+  },
+  {
+    "name": "Ungheni",
+    "slug": "ungheni",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "oras",
+    "villages": [
+      "Cerghid",
+      "Cerghizel",
+      "Morești",
+      "Recea",
+      "Vidrasău",
+      "Șăușa"
+    ],
+    "lat": 46.4833,
+    "lon": 24.4667,
+    "ocpiOffice": {
+      "name": "BCPI Târgu Mureș",
+      "address": "Str. Căprioarei nr. 2, Târgu Mureș"
+    },
+    "matrix": "reduced",
+    "profile": "urban",
+    "countyNotesRef": "mures",
+    "localNote": "Ungheniul stă la vărsarea Nirajului în Mureș, pe E60, la porțile Târgului Mureș; pe raza orașului, la Vidrasău, funcționează Aeroportul Transilvania. Zona industrială și logistică din lungul șoselei s-a extins rapid. Dosarele se depun la BCPI Târgu Mureș.",
+    "nearby": []
+  },
+  {
+    "name": "Valea Largă",
+    "slug": "valea-larga",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Valea Largă",
+      "Grădini",
+      "Mălăești",
+      "Poduri",
+      "Valea Frăției",
+      "Valea Glodului",
+      "Valea Pădurii",
+      "Valea Urieșului",
+      "Valea Șurii"
+    ],
+    "lat": 46.6226,
+    "lon": 24.0776,
+    "ocpiOffice": {
+      "name": "BCPI Luduș",
+      "address": "Str. Republicii nr. 26, Luduș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Valea Largă stă pe dealurile Câmpiei Transilvaniei, la hotarul cu județul Cluj, cu sate mici risipite pe văi. Arabilul și pășunile în pantă domoală se moștenesc în parcele fragmentate. Comuna este arondată la BCPI Luduș.",
+    "nearby": []
+  },
+  {
+    "name": "Zau de Câmpie",
+    "slug": "zau-de-campie",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Zau de Câmpie",
+      "Botei",
+      "Bujor-Hodaie",
+      "Bărboși",
+      "Ciretea",
+      "Gaura Sângerului",
+      "Malea",
+      "Tău",
+      "Ștefăneaca"
+    ],
+    "lat": 46.6138,
+    "lon": 24.1308,
+    "ocpiOffice": {
+      "name": "BCPI Luduș",
+      "address": "Str. Republicii nr. 26, Luduș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Zau de Câmpie e centrul zonei de câmpie dintre Luduș și Sărmașu, cunoscut pentru rezervația de bujor de stepă, unică în Transilvania. Iazurile de pe Pârâul de Câmpie și arabilul întins definesc hotarul. Competența aparține BCPI Luduș.",
+    "nearby": []
+  }
+]

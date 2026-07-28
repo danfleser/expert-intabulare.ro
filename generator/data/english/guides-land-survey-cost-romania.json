@@ -1,0 +1,65 @@
+{
+  "path": "/en/guides/land-survey-cost-romania.html",
+  "title": "Land Survey & Cadastral Registration Costs in Romania — Honest Price Guide",
+  "metaDescription": "What land surveying and cadastral registration cost in Romania: indicative price ranges, official ANCPI/OCPI fees, urgency options and the factors that move the price. No hidden extras.",
+  "h1": "What Land Surveying and Registration Cost in Romania",
+  "roPair": "https://expert-intabulare.ro/ghid/preturi-cadastru-topografie-2026.html",
+  "whatsappPrefillEn": "Hello! Could you give me an indicative quote for surveying/cadastral work in Romania?",
+  "sections": [
+    {
+      "type": "html",
+      "heading": "How pricing works — two layers, no mystery",
+      "html": "<p>Every cadastral or surveying job in Romania has two cost layers, and understanding them protects you from both overpaying and unrealistic cheap quotes:</p><ul><li><strong>Official fees</strong> — ANCPI/OCPI tariffs for registrations, extracts and receptions. These are fixed by law, identical whoever you hire, and most have a legal <em>urgency option</em> that multiplies the fee in exchange for much faster processing.</li><li><strong>The surveyor's fee</strong> — the market-priced work: measurement, documentation, filing and follow-up. This is where quotes differ, and where the differences usually reflect scope: does the quote include responding to OCPI completion requests? Boundary agreement with neighbours? Delivery of design-ready files?</li></ul><p>We publish <strong>indicative ranges, never fixed prices</strong> — because terrain, documentation history and legal complications genuinely change the work. Anyone quoting a firm price for a parcel they have never seen documents for is guessing.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Indicative ranges for common jobs (guide values, confirmed per case)",
+      "head": ["Job", "Indicative range", "Main cost drivers"],
+      "rows": [
+        ["First registration of land (cadastru + intabulare)", "roughly 1,400–2,500 lei (~€280–500) for a typical parcel", "Parcel size, extravilan vs intravilan, state of the deeds, neighbour agreements"],
+        ["Registering a building / house", "from a similar base, rising with building size and missing paperwork", "Completion documents, building complexity, late-legalization steps"],
+        ["Land division or merging (per resulting lot)", "quoted per operation", "Number of lots, notarial coordination, encumbrances to carry over"],
+        ["OCPI-stamped topographic survey", "depends on area and detail density", "Site area, terrain and vegetation, required scale, deliverable formats"],
+        ["PV park survey packages", "quoted per hectare in tranches", "Area, slope, vegetation, access, deliverables (DTM, profiles, stakeout)"],
+        ["Land book extract + due diligence reading", "small fixed-scope desk fee", "Number of parcels and issues found"]
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "What moves the price up — and what we tell you upfront",
+      "html": "<p>The honest cost drivers: unresolved inheritance (the succession must be settled before registration), discrepancies between deed area and measured area, overlaps with neighbouring parcels, old paper land books needing conversion, difficult terrain or access, and urgency. None of these are surcharges we invent — they are extra work, and we itemize them in the quote so you can see exactly why a complicated parcel costs more than a clean one.</p><p>For foreign clients, add the notary's and translator's fees on the legal side (power of attorney, deeds) — not our services, but we tell you to budget for them so the total cost of ownership is never a surprise.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Getting a real number",
+      "html": "<p>Send us the land book extract (or just the county and locality plus whatever documents you have) on WhatsApp, and we respond with a specific range and a realistic timeline for your case — usually the same day. A quote based on your actual documents beats any price table, including this one.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Why do quotes from different surveyors differ so much?",
+          "a": "Mostly scope. A low quote often covers measurement and filing but excludes follow-up: OCPI completion requests, neighbour signatures, corrections. Compare what is included, not just the number — the cheapest quote that stalls at the registrar's first objection is the most expensive one."
+        },
+        {
+          "q": "Are the official ANCPI fees included in your quotes?",
+          "a": "We list them separately and transparently — they are legally fixed pass-through amounts, and separating them shows you exactly what our work costs versus what the state charges."
+        },
+        {
+          "q": "Is the urgency fee worth paying?",
+          "a": "When a transaction, grant deadline or financing milestone depends on the registration date — almost always yes. The urgency tariff is often small relative to what a missed deadline costs. We calculate both paths so you can decide."
+        },
+        {
+          "q": "Do you charge for travel to the site?",
+          "a": "Within Alba county, travel is included in our fees. In the neighbouring counties it is calculated by distance and stated as its own line in the quote — visible before you commit, never discovered on the invoice."
+        }
+      ]
+    }
+  ],
+  "related": [
+    "/en/services/cadastral-registration.html",
+    "/en/services/topographic-survey.html",
+    "/en/guides/buying-land-in-romania.html",
+    "/en/contact.html"
+  ]
+}

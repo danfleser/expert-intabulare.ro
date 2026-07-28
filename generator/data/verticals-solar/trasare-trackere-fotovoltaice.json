@@ -1,0 +1,72 @@
+{
+  "slug": "trasare-trackere-fotovoltaice",
+  "title": "Trasare trackere fotovoltaice — aliniament strict pe rând, conform specificației furnizorului",
+  "h1": "Trasarea tracker-elor monoaxiale: de ce cere mai mult decât structura fixă și ce verifică furnizorul",
+  "metaDescription": "Trasare pentru trackere monoaxiale: aliniament pe rând conform specificației furnizorului, tipic sub ±2 cm, verificări înainte de montaj. Topograf autorizat ANCPI.",
+  "whatsappTopic": "trasarea rândurilor de trackere pentru un parc fotovoltaic",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Un tracker iartă mai puțin decât o structură fixă",
+      "html": "<p>La structura fixă, fiecare masă de panouri e o unitate aproape independentă — abaterile mici se pierd în construcție. La tracker-ul monoaxial, zeci de piloni de pe același rând poartă un singur ax de rotație acționat de un motor: dacă pilonii nu stau pe aliniament și la cotele corecte, axul se torsionează, lagărele se uzează, iar sistemul de acționare lucrează forțat. De aceea furnizorii de trackere impun toleranțe stricte de aliniament și verticalitate pe rând — conform specificației fiecărui furnizor, tipic sub ±2 cm pe aliniament — și le verifică înainte să valideze montajul.</p><p>Practic, trasarea tracker-elor e o lucrare în care topograful răspunde direct față de specificația unui echipament, nu doar față de un plan de situație. Noi lucrăm exact așa: cu specificația furnizorului pe masă înainte de mobilizare. Scrie-ne pe WhatsApp cu layoutul și specificația de montaj și îți spunem cum organizăm trasarea și verificările.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Ce cere de fapt specificația unui furnizor de tracker",
+      "html": "<p>Documentele de montaj diferă între furnizori, dar cerințele topografice se învârt în jurul acelorași mărimi:</p><ul><li><strong>Aliniamentul în plan al piloniilor pe rând</strong> — abaterea laterală a fiecărui pilon față de axa teoretică a rândului, mărimea cea mai sensibilă pentru ax.</li><li><strong>Distanțele între piloni pe rând</strong> — pasul dintre poziții, care trebuie să corespundă tronsoanelor de ax.</li><li><strong>Cotele capetelor de piloni și panta pe rând</strong> — axul urmărește terenul în limitele date de furnizor; schimbările de pantă pe rând trebuie să se încadreze în valorile din specificație, ceea ce leagă trasarea direct de <a href=\"/parcuri-fotovoltaice/panta-teren-parc-fotovoltaic.html\">analiza de pantă</a> și de eventuala nivelare prealabilă.</li><li><strong>Verticalitatea piloniilor după batere</strong> — verificată de montator, dar dependentă de o trasare corectă și de un teren pregătit.</li></ul><p>Rolul nostru: materializăm pozițiile în toleranțele cerute, iar după batere măsurăm pozițiile reale ale piloniilor și predăm raportul de conformitate pe fiecare rând — documentul cu care discuți obiectiv și cu furnizorul, și cu echipa de montaj.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Cum lucrăm: RTK pentru flux, stație totală pentru aliniament",
+      "html": "<p>GNSS RTK, cu precizia lui de ±2–3 cm în plan, duce greul trasării — e metoda care ține ritmul cu utilajul de batere. Acolo unde specificația cere mai strâns pe aliniament, sau unde recepția satelitară e degradată, trecem pe stație totală, care lucrează la precizie milimetrică pe distanțe scurte: stațiile se așază pe rețeaua de sprijin a șantierului, iar rândurile se trasează și se verifică pe axe. Combinația celor două metode, alese pe situație și nu dogmatic, dă și precizia, și ritmul.</p><p>Fluxul complet: verificarea tabelului de coordonate din proiect în Stereo 70, trasarea pozițiilor în avans față de fronturile de batere, măsurarea de control după batere, raport de conformitate pe rând, apoi <a href=\"/parcuri-fotovoltaice/as-built-parc-fotovoltaic.html\">as-built-ul</a> final din aceeași referință de coordonate. Colaborăm cu dezvoltatori și constructori și ne coordonăm direct cu supervizorul furnizorului de tracker atunci când acesta e prezent pe șantier.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Înainte de primul rând trasat — checklist-ul nostru",
+      "items": [
+        "Specificația de montaj a furnizorului de tracker, cu toleranțele numerice pe aliniament, pas și pantă",
+        "Tabelul de coordonate al piloniilor verificat în Stereo 70 și confruntat cu limitele cadastrale",
+        "Rețeaua de sprijin a șantierului verificată prin măsurători de control — mai ales dacă a materializat-o altcineva",
+        "Terenul pregătit conform proiectului de nivelare acolo unde pantele pe rând depășesc specificația",
+        "Convenția de marcaj și ordinea fronturilor de lucru agreate cu echipa de batere",
+        "Formatul raportului de conformitate agreat cu constructorul și cu furnizorul de tracker"
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "Terenul se pregătește înainte, nu se repară după",
+      "html": "<p>Cele mai multe probleme de aliniament la trackere nu vin din trasare, ci din teren: rânduri proiectate peste schimbări de pantă care depășesc specificația, zone nivelate sumar, umpluturi proaspete în care pilonii nu țin poziția. De aceea insistăm ca înainte de trasare să existe două lucruri: harta reală de pantă pe direcția rândurilor, calculată pe modelul digital al terenului, și confirmarea proiectantului că nivelarea executată corespunde proiectului. Acolo unde <a href=\"/parcuri-fotovoltaice/calcul-volumetrie-terasamente.html\">terasamentele</a> au modificat terenul, măsurăm suprafața nivelată înainte de a trasa pe ea — trasarea pe cote presupuse e cel mai scurt drum către rânduri în afara specificației.</p><p>Costul acestei discipline e mic: câteva zile de măsurători și o versiune actualizată de model. Beneficiul e că recepția montajului de către furnizorul de tracker devine o formalitate cu cifre pe masă, nu o negociere. Trimite-ne extrasul CF și layoutul pe WhatsApp și îți spunem, înainte de mobilizare, dacă terenul e pregătit pentru trasarea rândurilor sau ce mai lipsește.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Care e toleranța de aliniament pentru trackere?",
+          "a": "Nu există o cifră universală valabilă pentru toți furnizorii — fiecare o stabilește prin specificația proprie de montaj, tipic sub ±2 cm pe aliniament. Lucrăm întotdeauna pe documentul furnizorului tău, nu pe o valoare presupusă."
+        },
+        {
+          "q": "GNSS RTK este suficient pentru trasarea trackerelor?",
+          "a": "Pentru fluxul principal, de regulă da — RTK lucrează la ±2–3 cm în plan. Pentru verificarea aliniamentului pe rânduri și pentru cerințe mai strânse folosim stația totală, cu precizie milimetrică pe distanțe scurte. Metoda o alegem pe specificație, nu pe comoditate."
+        },
+        {
+          "q": "Furnizorul de tracker refuză recepția montajului. Ne puteți ajuta?",
+          "a": "Da — măsurăm pozițiile reale ale piloniilor pe rândurile în dispută și livrăm un raport independent, cu abaterile față de proiect și față de specificație. Cu cifre măsurate, discuția dintre montator și furnizor devine tehnică, nu contractuală."
+        },
+        {
+          "q": "Trasarea trackerelor costă mai mult decât cea pentru structură fixă?",
+          "a": "De regulă da, orientativ cu o marjă moderată — din cauza verificărilor suplimentare pe aliniament și a rapoartelor de conformitate pe rând. Diferența e mică față de costul unei singure zile de montaj pierdute pe rânduri trasate greșit."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/trasare-piloni-parc-fotovoltaic.html", "label": "Trasare piloni parc fotovoltaic" },
+    { "href": "/parcuri-fotovoltaice/panta-teren-parc-fotovoltaic.html", "label": "Analiza pantelor terenului" },
+    { "href": "/parcuri-fotovoltaice/model-digital-teren-parc-fotovoltaic.html", "label": "Model digital al terenului (MDT)" },
+    { "href": "/parcuri-fotovoltaice/as-built-parc-fotovoltaic.html", "label": "Documentație as-built" },
+    { "href": "/servicii/trasare-teren/", "label": "Trasare teren — serviciul de bază" }
+  ],
+  "sources": []
+}

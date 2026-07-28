@@ -1,0 +1,68 @@
+{
+  "slug": "ridicare-topografica-studiu-fezabilitate",
+  "title": "Ridicare topografică pentru studiul de fezabilitate (SF/DALI) | Expert Intabulare",
+  "h1": "Ridicarea topografică pentru SF și DALI: ce primește proiectantul de la noi",
+  "metaDescription": "Ridicare topografică pentru studii de fezabilitate: curbe de nivel, model digital al terenului, rețele, formate DWG/DXF/LandXML. Ce cere HG 907/2016 la SF/DALI.",
+  "whatsappTopic": "ridicare topografică pentru studiu de fezabilitate",
+  "hook": "deadline",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "SF-ul e atât de bun cât sunt datele de teren de sub el",
+      "html": "<p>Studiul de fezabilitate decide bugetul proiectului tău — iar capitolele lui cele mai sensibile la bani (terasamente, fundații, racorduri, sistematizare verticală) se calculează direct pe datele topografice. O ridicare săracă — puncte rare, cote aproximative, rețele „uitate” — nu se vede în faza de SF; se vede la execuție, când devizul crapă și finanțatorul nu acoperă diferențele. La proiectele cu fonduri europene asta e dublu de dureros: bugetul aprobat la contractare este, de regulă, plafonul.</p><p>HG 907/2016 cere la SF și DALI „planul topografic sau cadastral actualizat, vizat de OCPI”. Dar proiectantul are nevoie de mai mult decât planșa vizată: are nevoie de <strong>datele</strong> din spatele ei, în formate pe care software-ul lui le consumă direct. Diferența dintre un topograf care predă „un PDF” și unul care predă un pachet complet de date se măsoară în zilele pe care proiectantul nu le pierde redesenând.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Pachetul de date pe care îl predăm proiectantului",
+      "items": [
+        "Planul topografic vizat OCPI (PDF + DWG/DXF), la scara cerută de temă",
+        "Norul de puncte măsurate, cu cote în sistem Marea Neagră 1975, ca fișier de puncte (CSV/TXT) și bloc-uri 3D în DWG",
+        "Curbe de nivel generate la echidistanța cerută (uzual 0,5 m sau 1 m; 0,25 m la terenuri plate)",
+        "Modelul digital al terenului (MDT) — suprafață triangulată, la cerere în LandXML pentru Civil 3D și softuri de drumuri",
+        "Rețelele și utilitățile vizibile, stratificate pe layere separate, cu capacele de cămin cotate",
+        "Profile longitudinale și transversale, la investițiile liniare",
+        "Inventar de coordonate al punctelor de contur și al bornelor, semnat, pentru trasarea ulterioară"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Zona de studiu: cea mai ieftină asigurare a proiectului",
+      "html": "<p>Sfatul pe care îl dăm oricărui beneficiar înainte de a comanda: <strong>nu măsura doar parcela — măsoară problema</strong>. Racordul la drum are nevoie de profilul drumului pe 50–100 m; scurgerea apelor pluviale are nevoie de cotele terenurilor vecine; racordurile la utilități au nevoie de traseul până la punctele de conexiune. Extinderea zonei de studiu cu o fâșie în jurul parcelei costă puțin la măsurare și economisește o remobilizare completă atunci când proiectantul descoperă — invariabil — că îi lipsesc 20 de metri de date. Stabilim zona de studiu direct cu proiectantul, înainte de a ieși în teren; este singurul mod corect de a face treaba o singură dată.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Care e diferența dintre „ridicare topografică” și „plan topografic vizat OCPI”?", "a": "Ridicarea este operațiunea de măsurare și produsul ei de date; planul vizat este documentul oficial rezultat, recepționat de OCPI. La un SF ai nevoie de ambele: planul pentru dosar, datele pentru proiectant. Noi le livrăm ca pachet unic." },
+        { "q": "Proiectantul cere LandXML și MDT. Le puteți livra?", "a": "Da — suprafață triangulată exportată în LandXML, compatibilă cu AutoCAD Civil 3D și cu softurile uzuale de infrastructură, plus fișierele de puncte brute. Spune-ne doar softul în care lucrează proiectantul, ca să calibrăm exportul." },
+        { "q": "Cât durează o ridicare topografică pentru SF?", "a": "Terenul: de la câteva ore (parcelă construibilă obișnuită) la câteva zile (incinte mari, coridoare de drum, vegetație densă). Redactarea și viza OCPI adaugă zile–săptămâni, în funcție de oficiu. Cu tema clară de la proiectant, un amplasament tipic de investiție e livrat complet în 2–3 săptămâni, orientativ." },
+        { "q": "Aveți și scanare cu dronă pentru suprafețe mari?", "a": "Pentru amplasamente întinse folosim fotogrametria UAV combinată cu măsurători clasice de control — mai rapid și mai dens ca informație. Detaliile despre metodă sunt pe paginile verticalei noastre de parcuri fotovoltaice, unde suprafețele mari sunt regula." }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Detaliile de teren care schimbă devizul: unde se câștigă și se pierde precizia",
+      "html": "<p>Câteva lecții tehnice din ani de colaborare cu proiectanți, spuse pe șleau. <strong>Densitatea punctelor nu e uniformă, ci inteligentă:</strong> un platou neted se descrie corect din puncte rare, dar rupturile de pantă, taluzurile și șanțurile cer îndesire — un MDT care „netezește” un taluz real produce erori de volumetrie de sute de metri cubi la un amplasament de hală. <strong>Sezonul contează:</strong> în vegetație înaltă, măsurătorile terestre pierd exact microrelieful care decide terasamentele; la terenurile acoperite, planificăm măsurătorile după cosit sau arat, ori combinăm cu metode care penetrează unde e cazul. <strong>Rețelele „invizibile” se caută activ:</strong> capacele îngropate sub pământ sau asfalt, traseele indicate doar de deținători — o conductă de gaz nedescoperită la SF devine, la execuție, o oprire de șantier cu aviz de urgență.</p><p>Toate acestea au un numitor comun: costul lor la faza de măsurare e de ordinul orelor, iar costul absenței lor la execuție — de ordinul zecilor de mii de lei, plătiți din bugetul propriu, pentru că devizul aprobat de finanțator nu crește. Când compari oferte de ridicare topografică pentru un SF, întrebarea corectă nu e „cât costă?”, ci „ce anume măsurați și cu ce garanție de completitudine?” — iar un ofertant serios răspunde în scris, punct cu punct.</p>"
+    },
+    {
+      "type": "cta",
+      "heading": "Proiectantul așteaptă datele de teren?",
+      "text": "Pune-ne în legătură directă cu proiectantul pe WhatsApp sau trimite-ne tema de proiectare — stabilim zona de studiu și venim cu termenul de livrare în aceeași zi."
+    }
+  ],
+  "related": [
+    "plan-topografic-vizat-ocpi",
+    "plan-topografic-pnrr",
+    "formate-livrabile-plan-topografic",
+    "trasare-constructie-proces-verbal",
+    "pret-plan-topografic-fonduri-europene",
+    "monitorizare-topografica-implementare",
+    "/servicii/plan-topografic/",
+    "/dictionar/stereo-70.html"
+  ],
+  "sources": [
+    "https://legislatie.just.ro/Public/DetaliiDocument/185166",
+    "https://www.ancpi.ro/"
+  ]
+}

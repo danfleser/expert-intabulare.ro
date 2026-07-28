@@ -1,0 +1,61 @@
+{
+  "slug": "analiza-umbrire-teren-fotovoltaic",
+  "title": "Analiza de umbrire a terenului — MDT și poziția soarelui",
+  "h1": "Analiza de umbrire a terenului: când relieful îți fură producția",
+  "metaDescription": "Analiza de umbrire pentru teren fotovoltaic: MDT precis plus poziția soarelui arată unde relieful și vegetația fură producție — înainte să cumperi terenul.",
+  "whatsappTopic": "o analiză de umbrire din relief pentru un teren fotovoltaic",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Umbrirea la care nu se uită nimeni: cea din relief",
+      "html": "<p>Când se vorbește despre umbrire la parcuri fotovoltaice, aproape toată lumea se gândește la umbrirea dintre rânduri — pe care proiectantul o rezolvă din distanțe. Umbrirea despre care se vorbește mult mai puțin e cea a terenului însuși: dealul de la sud, liziera de la limita parcelei, versantul care ține jumătate de tarla în umbră în diminețile de iarnă. În zonele deluroase ale Transilvaniei, exact acest tip de umbrire desparte terenurile bune de cele doar aparent bune.</p><p>Analiza se face cu două ingrediente: un model digital al terenului construit din măsurători reale și geometria poziției soarelui pe parcursul anului. Rezultatul arată, pe hartă, ce zone din teren pierd ore de soare, în ce luni și cât de mult — înainte să plătești terenul și cu mult înainte ca cineva să monteze ceva pe el.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "De unde vine umbrirea de relief — și de ce iarna e testul",
+      "html": "<p>Sursele tipice, în ordinea în care le întâlnim:</p><ul><li><strong>dealurile și culmile spre sud, sud-est și sud-vest</strong> — blochează soarele exact pe direcțiile din care vine energia;</li><li><strong>lizierele și benzile de pădure de la limită</strong> — o perdea de plopi de 25 de metri aruncă iarna o umbră de peste o sută de metri spre nord;</li><li><strong>versanții nordici ai propriului teren</strong> — se umbresc singuri și primesc radiație sub unghiuri slabe;</li><li><strong>obiectele izolate</strong> — linii electrice aeriene cu stâlpii lor, construcții, silozuri de la limita parcelei.</li></ul><p>Cheia e geometria de iarnă: la latitudinea Transilvaniei, în jurul solstițiului de iarnă soarele urcă la prânz la doar aproximativ 20 de grade deasupra orizontului. La unghiuri atât de joase, obstacole care vara nu contează deloc taie ore întregi de producție. O evaluare făcută „din ochi”, vara, pe teren însorit, e cea mai sigură metodă de a cumpăra o problemă.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Cum facem analiza",
+      "html": "<p>Pașii sunt aceiași pe orice amplasament, doar densitatea datelor diferă:</p><ol><li><strong>Măsurătoarea</strong> — GNSS RTK cu precizie ±2–3 cm și, pe suprafețe mari, fotogrametrie cu drona cu puncte de control la sol (2–5 cm); din zbor rezultă și înălțimile reale ale vegetației de la limite.</li><li><strong>Modelul digital al terenului</strong> — <a href=\"/parcuri-fotovoltaice/model-digital-teren-parc-fotovoltaic.html\">MDT-ul</a> cu breaklines, extins dincolo de limitele parcelei: umbrirea vine de pe terenurile vecine, deci modelul trebuie să acopere și relieful din jur, nu doar imobilul tău.</li><li><strong>Geometria solară</strong> — pentru fiecare zonă din teren se calculează orizontul real (profilul obstacolelor pe toate direcțiile) și se confruntă cu traiectoriile soarelui pe parcursul anului.</li><li><strong>Livrabilele</strong> — hărți de umbrire pe luni și pe ore, zonele penalizate delimitate în dwg/dxf și profilul de orizont în format utilizabil de softurile de simulare ale proiectantului.</li></ol><p>Simularea de producție în sine o face proiectantul — noi îi dăm orizontul real, măsurat, în locul presupunerii implicite că terenul e plat și liber de jur împrejur.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Ce decizii schimbă analiza de umbrire",
+      "html": "<p>Analiza nu e un exercițiu academic — mută linii pe layout și cifre în modelul financiar:</p><ul><li><strong>suprafața utilă</strong> — zonele umbrite sistematic ies din calculul <a href=\"/parcuri-fotovoltaice/cati-mw-pe-hectar-parc-fotovoltaic.html\">MW pe hectar</a>, iar cifra reală poate diferi vizibil de estimarea de birou;</li><li><strong>layout-ul</strong> — rândurile se retrag din fâșiile penalizate, iar pe <a href=\"/parcuri-fotovoltaice/panta-teren-parc-fotovoltaic.html\">terenurile în pantă</a> distanțele dintre rânduri se recalculează pe geometria reală, nu pe cea de catalog;</li><li><strong>prețul terenului</strong> — un teren cu 15% din suprafață penalizată de umbrire valorează mai puțin, iar harta de umbrire e un argument de negociere greu de contestat;</li><li><strong>decizia de achiziție</strong> — uneori concluzia corectă e să nu cumperi; e cea mai valoroasă concluzie pe care o poate produce o analiză ieftină făcută devreme.</li></ul><p>Dacă ai un teren în evaluare, trimite-ne extrasul CF pe WhatsApp — îți spunem dacă relieful din zonă justifică analiza și cât ar dura pe amplasamentul tău.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Nu face proiectantul oricum analiza de umbrire în softul lui?",
+          "a": "Proiectantul simulează umbrirea dintre rânduri și, dacă are date, pe cea de orizont. Diferența o face calitatea datelor: fără un MDT măsurat și extins dincolo de parcelă, softul presupune teren plat și orizont liber. Noi livrăm exact stratul care lipsește."
+        },
+        {
+          "q": "Terenul meu e plat. Mai are rost analiza?",
+          "a": "Pe teren plat rămân relevante obstacolele de la limite — liziere, construcții, dealuri din vecinătate — mai ales pentru lunile de iarnă. Verificarea e rapidă pe un teren plat, iar dacă orizontul e curat, ai confirmarea pe date, nu pe impresie."
+        },
+        {
+          "q": "Puteți estima umbrirea fără măsurătoare, doar din date publice?",
+          "a": "Pentru triaj, da — modelele de teren publice arată relieful mare, dealurile și văile. Nu văd însă vegetația reală de la limite și nici detaliile locale, iar rezoluția lor e insuficientă pentru layout. Pentru decizia de cumpărare recomandăm măsurătoarea."
+        },
+        {
+          "q": "Ce primesc concret la final?",
+          "a": "Hărțile de umbrire pe luni și ore, conturul zonelor penalizate în dwg/dxf, profilul de orizont pentru softul de simulare al proiectantului și o sinteză scurtă cu concluziile — inclusiv impactul asupra suprafeței utile."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/model-digital-teren-parc-fotovoltaic.html", "label": "Model digital al terenului (MDT)" },
+    { "href": "/parcuri-fotovoltaice/panta-teren-parc-fotovoltaic.html", "label": "Pantele terenului și structura aleasă" },
+    { "href": "/parcuri-fotovoltaice/cati-mw-pe-hectar-parc-fotovoltaic.html", "label": "Câți MW încap pe hectar" },
+    { "href": "/parcuri-fotovoltaice/fotogrametrie-drona-teren.html", "label": "Fotogrametrie cu drona" },
+    { "href": "/servicii/plan-topografic/", "label": "Plan topografic — serviciul de bază" },
+    { "href": "/dictionar/mdt.html", "label": "Dicționar: MDT" }
+  ],
+  "sources": []
+}

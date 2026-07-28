@@ -1,0 +1,74 @@
+{
+  "slug": "releveu-acoperis-hala-panouri-fotovoltaice",
+  "title": "Releveu acoperiș hală pentru panouri fotovoltaice — planul structuristului",
+  "h1": "Releveu de acoperiș pentru panouri fotovoltaice pe hală: ce măsurăm și ce primește structuristul",
+  "metaDescription": "Releveu de acoperiș pentru panouri fotovoltaice pe hale industriale: geometrie, obstacole, plan pentru expertiza structurală. Topograf autorizat ANCPI, Alba.",
+  "whatsappTopic": "un releveu de acoperiș pentru panouri fotovoltaice pe o hală industrială",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "De ce începe proiectul de pe acoperiș cu un releveu, nu cu o ofertă de panouri",
+      "html": "<p>Pentru un prosumator industrial, acoperișul halei pare partea simplă a proiectului: suprafață mare, expunere bună, consum chiar sub el. În realitate, primul document pe care îl cere expertul structurist — cel care spune dacă acoperișul ține greutatea suplimentară a panourilor — este un releveu corect al acoperișului: geometria reală, pantele reale, poziția exactă a obstacolelor. Planurile din 1995 ale halei, dacă mai există, rareori mai corespund cu ce e astăzi pe acoperiș.</p><p>Noi facem această măsurătoare și predăm structuristului și proiectantului fotovoltaic un plan pe care pot lucra direct: releveu la scară, în format dwg/pdf, cu cote, pante și inventarul complet al elementelor de pe învelitoare. Nu facem expertiza structurală — aceea rămâne la inginerul de rezistență — dar ne coordonăm cu el ca livrabilul să conțină exact ce îi trebuie. Dacă vrei să știi ce presupune pentru hala ta, trimite-ne extrasul CF și câteva fotografii ale acoperișului pe WhatsApp și îți răspundem în aceeași zi.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Ce măsurăm efectiv pe acoperișul halei",
+      "items": [
+        "Geometria completă a învelitorii: lungimi, lățimi, pante reale pe fiecare apă, cote la coamă și la streașină",
+        "Luminatoarele și trapele de fum — poziție și dimensiuni, pentru că fiecare luminator taie rânduri de panouri",
+        "Echipamentele existente: unități HVAC, ventilatoare, coșuri, antene, parapeți și atice, cu înălțimile lor",
+        "Elementele de scurgere: jgheaburi, dolii, guri de scurgere — zonele unde nu se montează nimic",
+        "Structura vizibilă a acoperișului: pane, direcția cutelor tablei, rosturi de dilatație",
+        "Umbririle din context: clădiri vecine mai înalte, arbori, silozuri — cu poziții și înălțimi măsurate",
+        "Punctele de acces pe acoperiș și traseele posibile pentru cabluri către camera tabloului electric"
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "Cum măsurăm: de la sol și din aer, fără să călcăm inutil pe învelitoare",
+      "html": "<p>Pe hale industriale combinăm două metode. Cu stația totală măsurăm de la sol, fără reflector, punctele de pe fațade, atice, coamă și obstacolele vizibile — cu precizie milimetrică pe distanțe scurte și fără să urcăm pe o învelitoare care poate fi fragilă sau nesigură. Cu drona facem fotogrametria întregii suprafețe: ortofotoplan de înaltă rezoluție și model 3D al acoperișului, calate pe puncte de control măsurate la sol, cu precizie de 2–5 cm.</p><p>Combinația contează practic: drona vede tot acoperișul dintr-o dată, inclusiv zonele inaccesibile, iar stația totală dă cotele de precizie acolo unde structuristul are nevoie de ele. Măsurătoarea durează de regulă o singură zi pe teren pentru o hală obișnuită, iar prelucrarea încă 2–4 zile lucrătoare — detalii despre echipamente și preciziile lor reale găsești pe pagina despre <a href=\"/parcuri-fotovoltaice/echipamente-topografice-precizie.html\">echipamentele topografice</a>.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Ce primește structuristul și ce primește proiectantul PV",
+      "html": "<p>Livrăm un singur set de date, folosibil de ambele discipline:</p><ul><li><strong>Releveul acoperișului</strong> la scară, cu toate elementele inventariate, în dwg/dxf și pdf — baza pentru calculul de încărcare al structuristului și pentru layout-ul de panouri al proiectantului.</li><li><strong>Ortofotoplanul acoperișului</strong> — imaginea reală, georeferențiată, pe care proiectantul așază stringurile fără surprize la montaj.</li><li><strong>Cote și pante</strong> pentru fiecare apă a acoperișului, plus secțiuni caracteristice unde sunt cerute.</li><li><strong>Plan de situație al incintei</strong>, dacă proiectul are nevoie de el pentru avize sau pentru racordare — îl întocmim din aceeași mobilizare.</li></ul><p>Un detaliu care scutește drumuri: stabilim de la început cu structuristul ce secțiuni și ce cote îi trebuie. Așa livrabilul iese complet din prima, nu după două rânduri de completări.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Când mai intră topograful în proiectul tău de pe hală",
+      "html": "<p>Releveul e de obicei doar primul pas. Dacă instalația cere autorizație de construire — de exemplu când se montează și structuri noi la sol sau un <a href=\"/parcuri-fotovoltaice/carport-fotovoltaic-documentatie.html\">carport fotovoltaic în parcare</a> — primăria va cere un plan de situație pe suport topografic. Dacă hala însăși nu e înscrisă în cartea funciară, intabularea construcției devine urgentă: fără CF la zi nu poți semna contracte de finanțare sau de superficie — vezi serviciul de <a href=\"/servicii/intabulare-casa-constructie/\">intabulare construcții</a>. Iar dacă extinzi ulterior cu un parc la sol pe terenul de lângă hală, măsurătoarea începe cu un <a href=\"/parcuri-fotovoltaice/studiu-topografic-parc-fotovoltaic.html\">studiu topografic complet</a>.</p><p>Lucrăm curent pe hale din Alba, Cluj, Mureș, Sibiu și Hunedoara; verificările de carte funciară pentru hale din restul țării le facem de la birou, pe documente.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Trebuie să opresc activitatea din hală pe durata măsurătorilor?",
+          "a": "Nu. Măsurăm de la sol și din aer, fără intervenții pe acoperiș și fără acces în zonele de producție. Avem nevoie doar de acces în incintă și, ideal, de o persoană de contact pentru zonele împrejmuite."
+        },
+        {
+          "q": "Faceți și expertiza structurală a acoperișului?",
+          "a": "Nu, expertiza o face un inginer expert atestat pe structuri. Noi îi livrăm releveul pe care își bazează calculul și ne coordonăm cu el asupra secțiunilor și cotelor de care are nevoie."
+        },
+        {
+          "q": "Ce documente vă trebuie ca să începeți?",
+          "a": "Extrasul CF al imobilului, orice planuri existente ale halei (chiar vechi, ne ajută la comparație) și acordul de acces în incintă. Trimite-le pe WhatsApp și primești oferta cu termen de execuție."
+        },
+        {
+          "q": "Drona poate zbura peste orice hală?",
+          "a": "Aproape peste orice, dar zonele cu restricții aeriene (apropierea de aeroporturi, obiective speciale) cer autorizări suplimentare sau trecerea pe măsurătoare exclusiv de la sol. Verificăm restricțiile înainte de ofertă, nu pe teren."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/carport-fotovoltaic-documentatie.html", "label": "Carport fotovoltaic — documentația necesară" },
+    { "href": "/parcuri-fotovoltaice/echipamente-topografice-precizie.html", "label": "Echipamente topografice și precizii reale" },
+    { "href": "/parcuri-fotovoltaice/studiu-topografic-parc-fotovoltaic.html", "label": "Studiu topografic pentru parc fotovoltaic" },
+    { "href": "/servicii/topografie-constructii/", "label": "Topografie pentru construcții" },
+    { "href": "/servicii/intabulare-casa-constructie/", "label": "Intabulare construcții" },
+    { "href": "/dictionar/ortofotoplan.html", "label": "Dicționar: ortofotoplan" }
+  ],
+  "sources": []
+}

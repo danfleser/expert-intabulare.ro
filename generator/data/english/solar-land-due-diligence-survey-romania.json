@@ -1,0 +1,52 @@
+{
+  "path": "/en/solar/land-due-diligence-survey-romania.html",
+  "title": "Land Due Diligence Survey in Romania — Verify Before You Buy",
+  "metaDescription": "Pre-acquisition land due diligence in Romania: land book verification, cadastral overlap detection, real vs deed area measurement, encumbrance reading. For investors, funds and PV developers.",
+  "h1": "Land Due Diligence Surveys in Romania: Check the Land Before the Money Moves",
+  "roPair": "https://expert-intabulare.ro/parcuri-fotovoltaice/due-diligence-parc-fotovoltaic.html",
+  "whatsappPrefillEn": "Hello! I need a land due diligence survey in Romania before an acquisition.",
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Why Romanian land needs technical due diligence, not just legal",
+      "html": "<p>Your lawyer checks the contracts. But in Romania, some of the most expensive land problems are <strong>technical</strong>, invisible in the deeds and visible only to a surveyor with access to the cadastral data:</p><ul><li><strong>Overlaps:</strong> the parcel's registered geometry overlaps a neighbour's — a defect that can freeze any transaction or permit until resolved, and that a paper review will never catch.</li><li><strong>Real versus deed area:</strong> the parcel measures smaller than the documents claim. On a PV site, a few percent of missing area is missing rows of panels; on any purchase, it is money paid for land that does not exist.</li><li><strong>Position:</strong> the land is registered, but not where everyone believes it is — misplaced parcels are a known legacy of how older registrations were made.</li><li><strong>Encumbrances with physical footprints:</strong> easements, protection corridors along power lines or pipelines, and access rights that constrain what can be built where.</li><li><strong>No registration at all:</strong> the \"parcel\" is an unregistered inheritance share — a different acquisition strategy entirely (see <a href=\"/en/solar/unregistered-land-romania-pv-developers.html\">unregistered land</a>).</li></ul>"
+    },
+    {
+      "type": "html",
+      "heading": "What the due diligence survey covers",
+      "html": "<p><strong>Desk phase (any site in Romania):</strong> fresh land book extracts for every parcel, reading of all three sections in plain English, verification of the registered geometry against the national geoportal and cadastral plan, overlap screening, chain-of-title sanity checks, and a written findings report with a clear verdict per parcel: clean / conditional / red flag.</p><p><strong>Field phase (Alba, Cluj, Mureș, Sibiu, Hunedoara):</strong> control measurements of the actual boundaries and area, verification that occupation on the ground matches the registers, slope and access reality-check, and — for PV acquisitions — the terrain observations that feed buildable-capacity estimates.</p><p>For investors buying ready-to-build projects, we additionally re-verify the project's existing survey documentation: coordinate system correctness, OCPI stamps, and whether the drawings match the terrain — errors in inherited documentation surface at the worst possible moment otherwise.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "When to commission it",
+      "html": "<p><strong>Before signing the pre-sale agreement, or at latest before money becomes non-refundable.</strong> The survey costs a fraction of any deposit, and its findings become negotiation leverage: a measured shortfall in area or a discovered overlap is either the seller's problem to fix or a price reduction. Our fastest engagements are exactly this — an investor sends land book numbers on WhatsApp, we return the desk verdict within days, and the field verification follows on the parcels that survive it.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "What do you need from us to start?",
+          "a": "Ideally the land book numbers or extracts and the locality; even just the cadastral numbers suffice — the register is public. Send them in the WhatsApp chat and we confirm scope and fee the same day."
+        },
+        {
+          "q": "Can you check a site we haven't told the seller we're investigating?",
+          "a": "The desk phase is entirely discreet — land book data is public and consulting it requires no one's consent. Field measurements on private land are arranged with access permission, typically once you are in agreed negotiations."
+        },
+        {
+          "q": "How is this different from the notary's checks at signing?",
+          "a": "The notary verifies the legal chain at the moment of sale — ownership, capacity, encumbrances as registered. They do not measure anything, screen geometric overlaps, or verify that reality matches the register. Both checks are necessary; only one involves instruments."
+        },
+        {
+          "q": "What does the report look like, and what does it cost?",
+          "a": "A per-parcel findings document in English: register status, geometry verdict, measured versus deed area where field work was done, encumbrances translated and assessed, and a clear recommendation per parcel. The desk phase is a small fixed-scope fee per parcel with portfolio pricing for batches; the field phase is quoted by site. Against the deposit at risk on any serious acquisition, the whole exercise is a rounding error — which is exactly why skipping it is never the economy it appears to be."
+        }
+      ]
+    }
+  ],
+  "related": [
+    "/en/services/land-registry-extract.html",
+    "/en/solar/unregistered-land-romania-pv-developers.html",
+    "/en/guides/buying-land-in-romania.html",
+    "/en/solar/land-surveying-pv-projects-transylvania.html"
+  ]
+}

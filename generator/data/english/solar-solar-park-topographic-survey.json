@@ -1,0 +1,56 @@
+{
+  "path": "/en/solar/solar-park-topographic-survey.html",
+  "title": "Topographic Survey for Solar Parks in Romania — OCPI-Stamped, Design-Ready",
+  "metaDescription": "Topographic surveys for solar PV parks in Romania: OCPI-stamped plans for permitting, terrain data for design, scope, deliverables and realistic timelines from a local authorized surveyor.",
+  "h1": "Topographic Surveys for Solar Parks in Romania",
+  "roPair": "https://expert-intabulare.ro/parcuri-fotovoltaice/studiu-topografic-parc-fotovoltaic.html",
+  "whatsappPrefillEn": "Hello! I need an OCPI-stamped topographic survey for a solar park site in Romania.",
+  "sections": [
+    {
+      "type": "html",
+      "heading": "The document your permits and your design both stand on",
+      "html": "<p>Two different consumers need the topographic survey of a PV site, and a good survey serves both from one field campaign:</p><p><strong>The authorities.</strong> Romanian permitting — the urbanism certificate, zoning plans (PUZ) where required, and the building permit — runs on a topographic survey <strong>received and stamped by OCPI</strong> (the county cadastre office). The stamp, obtained through a formal reception procedure open only to ANCPI-authorized surveyors, is what makes the plan legally usable. Site plans at 1:5000 or 1:2000 on the official orthophoto base are part of the same permitting package.</p><p><strong>Your engineers.</strong> Layout and structure design need dense, accurate terrain data: elevations, slopes, breaklines, existing roads, ditches, power lines and obstacles — delivered as workable files, not paper.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Scope and deliverables",
+      "html": "<ul><li>Ground control network in Stereo 70, established with RTK GNSS tied to the national ROMPOS service and verified by total station</li><li>Full detail survey: relief, boundaries checked against the land book geometry, existing infrastructure, vegetation edges, watercourses</li><li>For large sites, <a href=\"/en/solar/drone-photogrammetry-dtm-solar-sites.html\">drone photogrammetry</a> producing a digital terrain model and high-resolution orthophoto</li><li>OCPI reception: we prepare the file, submit it, and carry it through the office's checks to the stamp</li><li>Deliverables: stamped plan (PDF + print), DWG/DXF with layered detail, coordinate inventories, DTM exports (LandXML, grid or TIN) compatible with PVsyst, PVcase and AutoCAD Civil 3D, slope maps on request</li></ul>"
+    },
+    {
+      "type": "html",
+      "heading": "Timeline and what can go wrong",
+      "html": "<p>Field capture for a mid-size site typically takes one to a few days depending on area and vegetation; processing and drawing a few more; the OCPI reception adds the office's official processing time, shortenable with the legal urgency fee. We plan backwards from your permitting milestone and say plainly whether it is achievable.</p><p>What delays surveys in practice: unregistered or overlapping parcels discovered mid-survey (the cure is a <a href=\"/en/solar/land-due-diligence-survey-romania.html\">due diligence survey before acquisition</a>), inaccessible or overgrown terrain, and design teams discovering late that they need data the original scope excluded. We ask the scoping questions upfront — who consumes the data, in what software, at what density — so the survey is done once, correctly.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Is the OCPI stamp needed even before we own the land?",
+          "a": "Surveys can be made at any stage — for due diligence you may not need the stamp yet, while permitting steps do require it. We advise per milestone so you pay for the reception procedure only when the file actually needs it."
+        },
+        {
+          "q": "What accuracy and point density do you deliver for design?",
+          "a": "Survey-grade control with centimeter accuracy; detail density agreed with your design team per their software and structure type — denser on breaklines and slopes, where it matters. We specify it in the offer rather than leaving it vague."
+        },
+        {
+          "q": "Can one survey cover both the park area and the grid-connection route?",
+          "a": "Yes, and it should — the connection route needs longitudinal profiles and crossings surveyed, and combining the campaigns saves mobilization. Tell us the route corridor when requesting the quote."
+        },
+        {
+          "q": "How is a PV site survey priced?",
+          "a": "Per hectare in tranches, adjusted for slope, vegetation, access and the deliverable set — a mown flat 10 hectares and an overgrown hillside 40 are different products. We quote after seeing the site polygon (a KMZ or cadastral numbers in the WhatsApp chat is enough) and the quote states exactly which deliverables and which OCPI procedures are included."
+        },
+        {
+          "q": "Do slope and terrain findings ever change the project itself?",
+          "a": "Regularly — that is half the survey's value at an early stage. Slope classes decide tracker feasibility, terrain modelling exposes the real grading volumes, and both feed the buildable-capacity number your financial model runs on. Developers who survey before finalizing the land price negotiate with measurements; the others negotiate with hope."
+        }
+      ]
+    }
+  ],
+  "related": [
+    "/en/solar/land-surveying-pv-projects-transylvania.html",
+    "/en/solar/drone-photogrammetry-dtm-solar-sites.html",
+    "/en/solar/pv-pile-tracker-stakeout.html",
+    "/en/services/topographic-survey.html"
+  ]
+}

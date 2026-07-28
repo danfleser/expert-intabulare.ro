@@ -1,0 +1,63 @@
+{
+  "slug": "aviz-ocpi-respins-motive",
+  "title": "Aviz OCPI respins: motivele frecvente și cum le rezolvi | Expert Intabulare",
+  "h1": "Documentație respinsă la OCPI: ce înseamnă, de ce se întâmplă, cum se repară",
+  "metaDescription": "Notă de completare sau respingere la OCPI: motivele frecvente (suprapuneri, acte lipsă, neconcordanțe), diferența dintre ele și pașii de rezolvare, pe înțeles.",
+  "whatsappTopic": "documentație respinsă la OCPI",
+  "hook": "deadline",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Mai întâi, o veste bună: „respins” înseamnă rar „imposibil”",
+      "html": "<p>Când OCPI nu soluționează favorabil o cerere, beneficiarul primește unul din două documente — și diferența dintre ele contează enorm:</p><ul><li><strong>Referatul / nota de completare:</strong> dosarul are lipsuri sau neclarități remediabile; se acordă un termen pentru completare. Nu e o respingere — e o listă de teme. Se rezolvă în termen și cererea își continuă drumul.</li><li><strong>Încheierea de respingere:</strong> cererea este respinsă — din motive de fond sau pentru că nu s-a completat în termen. Se poate reface dosarul și redepune, sau, unde e cazul, formula cerere de reexaminare în termenul legal.</li></ul><p>În ambele cazuri, documentul precizează motivele. Iar aici e mesajul important pentru beneficiarii de fonduri: <strong>motivarea e scrisă în limbaj de regulament, nu de om</strong> — „imobilul se suprapune parțial cu IE 7xxxx” sau „lipsă dovada scutirii de la plata tarifului”. Meseria noastră include traducerea: îți spunem ce înseamnă concret, cine trebuie să facă ce, și cât durează.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Motivele frecvente și rezolvările lor",
+      "head": ["Motivul invocat de OCPI", "Ce înseamnă de fapt", "Rezolvarea tipică"],
+      "rows": [
+        ["Suprapunere cu un imobil înscris", "Conturul măsurat intersectează un imobil vecin deja cadastrat", "Analiza cauzei: eroare veche sau limită disputată; repoziționare sau documentație de rectificare — vezi pagina despre suprapuneri"],
+        ["Neconcordanțe între acte și măsurători", "Suprafața/descrierea din acte nu se împacă cu terenul, peste toleranțe", "Documente suplimentare, proceduri de modificare a suprafeței"],
+        ["Acte de proprietate incomplete sau neconforme", "Lanțul de acte are o verigă lipsă (succesiune neînscrisă, act neautentic)", "Completarea lanțului: notar, copii legalizate, înscrieri intermediare"],
+        ["Lipsuri formale în documentație", "Piese lipsă, semnături, formate de fișiere", "Completare rapidă de către executant — zile, nu săptămâni"],
+        ["Neconcordanțe cu planul parcelar / tarlaua", "Parcela nu se așază corect în tarlaua din evidențe", "Verificarea planului parcelar, coordonare cu OCPI și primăria"],
+        ["Construcție fără acte de autorizare", "Se cere înscrierea unei construcții fără certificat de atestare", "Obținerea certificatului de atestare a edificării, apoi redepunere"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Ce facem când preluăm un dosar respins al altcuiva",
+      "html": "<p>O parte din clienții acestei pagini vin cu documentații întocmite de terți — respinse o dată sau de mai multe ori. Procedura noastră: cerem documentația completă și încheierea/referatul, citim motivele în original, verificăm situația din teren și din arhiva OCPI, apoi dăm un diagnostic scris: ce e reparabil în dosarul existent, ce trebuie refăcut de la măsurători și — important pentru proiectele cu finanțare — <strong>cât timp consumă fiecare variantă față de termenul tău</strong>. Nu criticăm munca altora din principiu; uneori respingerea vine dintr-o evidență OCPI încurcată, nu dintr-o greșeală a executantului. Dar îți spunem cinstit ce vedem.</p><p>Prevenția, pentru dosarele viitoare: majoritatea respingerilor se evită printr-o verificare prealabilă serioasă — suprapuneri controlate pe geoportal și în baza de date OCPI înainte de depunere, acte citite cap-coadă, vecinătăți lămurite în teren. E diferența dintre „depunem și vedem” și „depunem ce trece”.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Nota de completare are termen scurt și executantul inițial nu mai răspunde. Puteți prelua?", "a": "Da, cu o precizare onestă: preluarea unui dosar în termen de completare cere acces la documentația originală și, uneori, refacerea unor piese pe răspunderea noastră. Trimite-ne nota de completare pe WhatsApp azi — evaluăm în aceeași zi dacă termenul e fezabil sau dacă strategia corectă e redepunerea." },
+        { "q": "Respingerea la OCPI îmi afectează dosarul de finanțare?", "a": "Indirect dar serios: fără soluționarea favorabilă nu ai extras CF actualizat, plan recepționat sau construcție înscrisă — adică piesele dosarului. De aceea în calendarele noastre pentru proiecte cu finanțare punem marjă pentru o eventuală rundă de completări: dacă nu e nevoie de ea, ai câștigat timp; dacă e, nu ai pierdut sesiunea." },
+        { "q": "Se poate contesta o respingere?", "a": "Da — încheierea de respingere poate fi atacată cu cerere de reexaminare în termenul legal menționat în ea, iar ulterior pe căile prevăzute de lege. Practic însă, la motivele tehnice e aproape întotdeauna mai rapid să corectezi și să redepui decât să contești. Alegem împreună calea scurtă." },
+        { "q": "Plătesc din nou tarifele OCPI la redepunere?", "a": "Depinde de situație și de tipul cererii — completarea în termen nu implică tarif nou, redepunerea unei cereri respinse de regulă da. Îți spunem exact înainte, ca să nu existe surprize; tarifele OCPI sunt oricum publice, pe ancpi.ro." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Ai primit o notă de completare sau o respingere?",
+      "text": "Fă-i o poză și trimite-ne-o pe WhatsApp împreună cu termenul tău de finanțare — o traducem în pași concreți și îți spunem azi dacă se rezolvă la timp."
+    }
+  ],
+  "related": [
+    "suprapunere-cadastrala-rezolvare",
+    "diferenta-suprafata-acte-teren",
+    "termene-avizare-ocpi",
+    "cat-dureaza-intabularea",
+    "motive-respingere-dosar-teren-proprietate",
+    "topograf-autorizat-ancpi-verificare",
+    "/servicii/cadastru-si-intabulare/",
+    "/dictionar/ordinul-700-2014.html"
+  ],
+  "sources": [
+    "https://www.ancpi.ro/",
+    "https://legislatie.just.ro/Public/DetaliiDocument/159910"
+  ]
+}

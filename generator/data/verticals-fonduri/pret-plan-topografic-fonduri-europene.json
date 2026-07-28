@@ -1,0 +1,64 @@
+{
+  "slug": "pret-plan-topografic-fonduri-europene",
+  "title": "Cât costă documentația topografică pentru un proiect european — factori de cost | Expert Intabulare",
+  "h1": "Cât costă documentația topografică și cadastrală pentru un proiect cu finanțare",
+  "metaDescription": "Prețuri orientative pentru plan topografic vizat OCPI, intabulare și documentație cadastrală în proiecte cu fonduri europene — și factorii care le influențează.",
+  "whatsappTopic": "cost documentație topografică pentru proiect european",
+  "hook": "deadline",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "De ce nu vei găsi aici (și nicăieri serios) prețuri fixe",
+      "html": "<p>Două terenuri de aceeași suprafață pot costa de trei ori diferit la măsurare: unul e o parcelă dreptunghiulară în intravilan, cu acte curate; celălalt e o fâșie în extravilan, cu titlu din 1993, plan parcelar încurcat și o suprapunere de lămurit. Prețul corect se dă pe situație, nu pe metru pătrat din pix. Ce putem face onest — și facem mai jos — este să-ți dăm <strong>intervalele orientative</strong> în care se încadrează lucrările tipice dintr-un dosar de finanțare și, mai important, <strong>factorii care mută prețul</strong> în susul sau în josul intervalului. Oferta fermă o primești după ce vedem actele și amplasamentul — de regulă în aceeași zi, pe WhatsApp, gratuit.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Intervale orientative pentru lucrările uzuale (2026)",
+      "head": ["Lucrarea", "Interval orientativ", "Observații"],
+      "rows": [
+        ["Plan de situație pentru certificat de urbanism", "de la câteva sute de lei", "imobil intabulat, livrare 1–2 zile"],
+        ["Documentație cadastrală + intabulare teren (primă înscriere)", "orientativ 1.400 – 2.500 lei / imobil uzual", "plus tarifele OCPI; crește la identificări dificile"],
+        ["Plan topografic vizat OCPI pentru SF/DTAC", "orientativ 1.000 – 3.500 lei pentru amplasamente uzuale", "funcție de suprafață, detalii, zonă de studiu"],
+        ["Ridicare topografică pentru proiectare, suprafețe mari / liniare", "pe ha sau pe km, ofertat pe temă", "densitatea punctelor și accesul dictează efortul"],
+        ["Înscrierea construcției finalizate", "orientativ 1.000 – 2.000 lei", "cu recepția și certificatul de atestare obținute"],
+        ["Trasare construcție cu proces-verbal", "de la câteva sute de lei / mobilizare", "funcție de numărul de puncte și reveniri"],
+        ["Alipiri / dezlipiri", "orientativ 1.000 – 2.500 lei / operațiune", "plus act notarial și tarife OCPI"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Factorii care mișcă prețul — ca să-ți poți estima singur cazul",
+      "html": "<p><strong>Actele:</strong> un extras CF curat e punctul de plecare ieftin; titluri vechi, succesiuni, arhive de parcurs adaugă ore de birou care se plătesc o singură dată, dar se plătesc. <strong>Terenul:</strong> suprafața contează mai puțin decât crezi; contează accesul, vegetația, numărul de detalii de măsurat (o incintă industrială plină de rețele „costă” mai mult decât un lot gol de patru ori mai mare). <strong>Zona de studiu:</strong> planul pentru SF cu 50 m în jurul parcelei e alt efort decât parcela singură — dar previne remobilizări. <strong>Urgența:</strong> mobilizarea rapidă se poate; tarifele OCPI de urgență (majorate față de cele normale) sunt separate și transparente, pe ancpi.ro. <strong>Pachetul:</strong> lucrările comandate împreună (intabulare + plan topografic + trasare pe același amplasament) împart aceleași măsurători și deplasări — pachetul e întotdeauna mai ieftin decât suma bucăților.</p><p>Un reper de proporție pentru bugetul proiectului: la investițiile tipice finanțate, toată documentația topografică și cadastrală — de la primul extras la as-built — costă de regulă <strong>sub un procent din valoarea investiției</strong>. Nu e capitolul pe care merită să-l optimizezi alegând cea mai ieftină ofertă nescrisă.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Tarifele OCPI sunt incluse în intervalele de mai sus?", "a": "Nu — tarifele oficiale ANCPI/OCPI (recepții, înscrieri, extrase) sunt separate, publice și le plătești la valoarea lor, cu chitanță; ți le detaliem în ofertă ca linie distinctă. Intervalele de mai sus acoperă serviciile noastre: teren, documentație, depunere, urmărire." },
+        { "q": "Documentația topografică e cheltuială eligibilă în proiect?", "a": "La multe programe, documentațiile tehnice premergătoare (inclusiv studiile topografice) intră la capitolul de cheltuieli eligibile de proiectare, în limitele din ghid. Confirmarea exactă ți-o dă consultantul pe ghidul sesiunii tale; noi emitem documentele de plată în forma cerută pentru decont." },
+        { "q": "De ce primesc oferte de trei ori mai mici pe telefon, fără să-mi vadă actele?", "a": "Pentru că o ofertă fără acte nu promite nimic — prețul „de agățat” crește pe parcurs cu fiecare „complicație descoperită”. Noi ofertăm după ce vedem extrasul și amplasamentul, în scris, cu tot inclus și cu termenul asumat. Dacă apare ceva imprevizibil real, discutăm înainte, nu facturăm după." },
+        { "q": "Oferiți prețuri speciale pentru consultanți sau UAT-uri cu volum?", "a": "La colaborări recurente și pachete de lucrări pe aceeași zonă, da — logica e simplă: deplasări și arhive partajate înseamnă cost real mai mic, pe care îl împărțim. Detaliile, pe WhatsApp sau la telefon." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Vrei oferta exactă pentru cazul tău?",
+      "text": "Trimite-ne pe WhatsApp extrasul CF (sau pozele actelor) și ce îți cere ghidul — primești oferta scrisă, cu termene și tarifele OCPI detaliate separat, de regulă în aceeași zi."
+    }
+  ],
+  "related": [
+    "plan-topografic-vizat-ocpi",
+    "cat-dureaza-intabularea",
+    "termene-avizare-ocpi",
+    "teren-neintabulat-fonduri-europene",
+    "colaborare-consultant-fonduri-europene",
+    "formate-livrabile-plan-topografic",
+    "/servicii/plan-topografic/",
+    "/servicii/intabulare-teren/",
+    "/dictionar/intabulare.html"
+  ],
+  "sources": [
+    "https://www.ancpi.ro/"
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "intrebari-frecvente-topografie-fotovoltaice",
+  "title": "Întrebări frecvente — topografie și cadastru pentru parcuri fotovoltaice",
+  "h1": "Întrebări frecvente despre topografie și cadastru la parcuri fotovoltaice",
+  "metaDescription": "Răspunsuri scurte la întrebările reale ale dezvoltatorilor PV: studiu topografic, prețuri, teren agricol, superficie, intabulare, OCPI, precizii, as-built.",
+  "whatsappTopic": "câteva întrebări despre partea topografică a unui proiect fotovoltaic",
+  "hook": "none",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Răspunsurile scurte, într-un singur loc",
+      "html": "<p>Am strâns aici întrebările pe care ni le pun cel mai des dezvoltatorii, constructorii și investitorii în proiecte fotovoltaice — cu răspunsuri scurte și cu trimiteri către paginile unde fiecare subiect e tratat pe larg. Dacă întrebarea ta nu e aici sau vrei răspunsul aplicat pe terenul tău, calea rapidă rămâne aceeași: trimite-ne extrasul CF pe WhatsApp și îți răspundem în aceeași zi, la obiect.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Ce este studiul topografic și de ce am nevoie de el?",
+          "a": "E ridicarea completă a terenului — relief, limite, vecinătăți, elemente existente — în sistemul Stereo 70, recepționată de OCPI. Fără el nu ai certificat de urbanism pe date reale, proiectare corectă sau autorizație. Detalii pe pagina <a href=\"/parcuri-fotovoltaice/studiu-topografic-parc-fotovoltaic.html\">studiului topografic</a>."
+        },
+        {
+          "q": "Cât durează un studiu topografic pentru un parc fotovoltaic?",
+          "a": "Orientativ 2–3 săptămâni de la comandă până la depunerea la OCPI, plus termenul de recepție al OCPI. Vegetația, vremea și situația cadastrală pot lungi calendarul. Cronologia pe zile e pe pagina <a href=\"/parcuri-fotovoltaice/cat-dureaza-studiu-topografic.html\">despre durate</a>."
+        },
+        {
+          "q": "Cât costă un studiu topografic?",
+          "a": "Se lucrează în €/ha, degresiv: orientativ 150–300 €/ha sub 5 ha, până la 70–150 €/ha la 20–50 ha. Vegetația, panta și accesul dificil scumpesc lucrarea. Intervalele complete, toate orientative, sunt pe pagina de <a href=\"/parcuri-fotovoltaice/pret-studiu-topografic-parc-fotovoltaic.html\">prețuri</a>."
+        },
+        {
+          "q": "Ce înseamnă viza (recepția) OCPI și de ce contează?",
+          "a": "E confirmarea oficială că documentația respectă regulamentul — Ordinul ANCPI nr. 700/2014 — și că măsurătoarea e integrată corect în sistemul național. Primăriile resping studiile fără recepție OCPI; motivele frecvente de respingere le-am strâns <a href=\"/parcuri-fotovoltaice/respingere-documentatie-ocpi.html\">aici</a>."
+        },
+        {
+          "q": "În ce sistem de coordonate se lucrează în România?",
+          "a": "În sistemul național de proiecție Stereografic 1970 — <a href=\"/dictionar/stereografic-1970-stereo-70.html\">Stereo 70</a>. Orice documentație în alt sistem trebuie transcalculată înainte să fie utilizabilă la OCPI sau la autorizare — o problemă clasică la studiile primite de la terți."
+        },
+        {
+          "q": "Câți MW încap pe un hectar de teren?",
+          "a": "Uzual în jur de 1 MW pe 1–1,5 ha la structură fixă, dar cifra reală depinde de forma terenului, pantă, orientare, umbriri, drumuri și zonele tehnice. Cifra exactă iese din măsurătoare, nu din medii — am explicat pe pagina <a href=\"/parcuri-fotovoltaice/cati-mw-pe-hectar-parc-fotovoltaic.html\">dedicată</a>."
+        },
+        {
+          "q": "Pot construi parc fotovoltaic pe teren arabil extravilan?",
+          "a": "Da, prin excepția introdusă de Legea 254/2022: pe terenuri agricole extravilane de clasa III–V, maximum 50 ha per proiect, cu scoatere din circuitul agricol, fără introducere în intravilan — cu efecte până la 31 decembrie 2026, deci fereastra e aproape de expirare. Detalii la <a href=\"/parcuri-fotovoltaice/scoatere-din-circuit-agricol-fotovoltaic.html\">scoaterea din circuitul agricol</a>."
+        },
+        {
+          "q": "Există o lege a agrivoltaicelor?",
+          "a": "Nu — la data redactării nu există o lege dedicată agrivoltaicelor în vigoare. Cadrul actual e art. 92 alin. (4²) din Legea 18/1991, care permite sistemul dual pe terenuri agricole extravilane cu excepția arabilului: deci pășuni, vii, livezi. Detalii pe pagina <a href=\"/parcuri-fotovoltaice/agrivoltaic-romania-teren.html\">agrivoltaic</a>."
+        },
+        {
+          "q": "Se schimbă regula celor 50 de hectare?",
+          "a": "Există un proiect legislativ în dezbatere, PLx 255/2025, care propune ridicarea plafonului la 100 ha și eliminarea cerinței de PUZ. Cât timp nu e adoptat, planifici pe legea în vigoare — nu construi calendarul proiectului pe un proiect de lege."
+        },
+        {
+          "q": "Pot pune panouri pe o pășune?",
+          "a": "Posibil, inclusiv în sistem dual, dar pășunile au regim juridic special și cer verificări atente înainte de orice angajament financiar. Capcanele tipice sunt pe pagina despre <a href=\"/parcuri-fotovoltaice/teren-pasune-parc-fotovoltaic-probleme.html\">terenurile de pășune</a>."
+        },
+        {
+          "q": "Panourile fotovoltaice se intabulează în cartea funciară?",
+          "a": "Nu — panourile sunt echipamente, bunuri mobile. Se intabulează însă construcțiile parcului: stația de transformare, clădirea tehnică, împrejmuirea unde e cazul, pe baza documentației cadastrale. Detalii la <a href=\"/parcuri-fotovoltaice/intabulare-constructii-parc-fotovoltaic.html\">intabularea construcțiilor</a>."
+        },
+        {
+          "q": "Arendă sau superficie pentru terenul parcului?",
+          "a": "Finanțatorii cer de regulă superficie înscrisă în CF, pentru că arenda nu se poate ipoteca. Superficia se poate constitui până la 99 de ani și se înscrie în cartea funciară. Comparația completă e pe pagina <a href=\"/parcuri-fotovoltaice/arenda-sau-superficie-parc-fotovoltaic.html\">arendă sau superficie</a>."
+        },
+        {
+          "q": "Terenul nu e intabulat — mai am vreo șansă cu proiectul?",
+          "a": "Da, dar intabularea devine primul pas, iar traseul depinde de situație: acte vechi, moștenire nedezbătută, posesie. Fiecare are alt calendar. Arborele de decizie, pe situații, e pe pagina despre <a href=\"/parcuri-fotovoltaice/teren-neintabulat-parc-fotovoltaic.html\">terenul neintabulat</a>."
+        },
+        {
+          "q": "Ce fac dacă suprafața reală e mai mică decât cea din acte?",
+          "a": "Se întâmplă des, iar la un parc PV 5% lipsă înseamnă rânduri întregi de panouri pierdute. De aceea măsurăm terenul înainte de semnarea antecontractului, nu după. Detalii pe pagina <a href=\"/parcuri-fotovoltaice/suprafata-teren-mai-mica-decat-in-acte.html\">suprafață mai mică decât în acte</a>."
+        },
+        {
+          "q": "Ce e o suprapunere cadastrală și cât de gravă e?",
+          "a": "Două imobile înscrise parțial pe aceeași suprafață. Descoperită după plata avansului, poate amâna proiectul cu ani sau îl poate opri. Se depistează prin verificări pe geoportal ANCPI și măsurători — vezi <a href=\"/parcuri-fotovoltaice/verificare-suprapunere-cadastrala-teren.html\">verificarea suprapunerilor</a>."
+        },
+        {
+          "q": "Cum verific cartea funciară înainte să cumpăr terenul?",
+          "a": "Ceri un extras de informare recent și îl citești cu toate sarcinile, notările și servituțile lui — sau ni-l trimiți nouă pe WhatsApp pentru un raport desk, valabil pentru orice județ. De reținut: finanțatorii cer uzual extras nu mai vechi de 30 de zile, iar extrasul de autentificare notarială e valabil 10 zile. Detalii la <a href=\"/parcuri-fotovoltaice/verificare-carte-funciara-cumparare-teren.html\">verificarea CF</a>."
+        },
+        {
+          "q": "Ce precizie au măsurătorile topografice?",
+          "a": "GPS/GNSS RTK: ±2–3 cm în plan. Stație totală: milimetrică pe distanțe scurte. Fotogrametrie cu dronă și puncte de control: 2–5 cm. Nivelment geometric de precizie: sub-milimetric pe kilometru dublu la clasa înaltă. Cifrele oneste, pe instrumente, sunt pe pagina de <a href=\"/parcuri-fotovoltaice/echipamente-topografice-precizie.html\">echipamente</a>."
+        },
+        {
+          "q": "Când are sens măsurătoarea cu drona?",
+          "a": "Peste circa 10 hectare, drona devine mai rapidă și mai ieftină decât măsurătoarea exclusiv clasică, cu precizie de 2–5 cm dacă zborul e calat pe puncte de control la sol. Sub vegetație înaltă însă nu vede terenul. Detalii la <a href=\"/parcuri-fotovoltaice/fotogrametrie-drona-teren.html\">fotogrametrie cu dronă</a>."
+        },
+        {
+          "q": "Ce e documentația as-built și cine o cere?",
+          "a": "Măsurătoarea a ceea ce s-a construit efectiv, comparată cu proiectul. E cerută la recepție și la punerea în funcțiune și utilă la licențierea ANRE — necesară peste 1 MW înainte de vânzarea energiei — și la refinanțare. Detalii pe pagina <a href=\"/parcuri-fotovoltaice/as-built-parc-fotovoltaic.html\">as-built</a>."
+        },
+        {
+          "q": "Ce e ATR-ul și ce legătură are cu topografia?",
+          "a": "Avizul tehnic de racordare, emis de operatorul de distribuție — primul pas al lanțului de racordare, urmat de contractul de racordare, punerea în funcțiune și certificatul de racordare. Topografia intră la măsurarea traseului real de racord — vezi <a href=\"/parcuri-fotovoltaice/distanta-racordare-parc-fotovoltaic.html\">distanța de racordare</a> și termenul <a href=\"/dictionar/atr-aviz-tehnic-de-racordare.html\">ATR în dicționar</a>."
+        },
+        {
+          "q": "Am nevoie de PUZ pentru parcul meu?",
+          "a": "Depinde de amplasament și de poziția primăriei, exprimată prin certificatul de urbanism. Proiectul legislativ PLx 255/2025, aflat în dezbatere, propune eliminarea cerinței de PUZ pentru anumite proiecte, dar până la adoptare rămâne regula actuală. Detalii la <a href=\"/parcuri-fotovoltaice/puz-parc-fotovoltaic-documentatie.html\">PUZ pentru parc fotovoltaic</a>."
+        },
+        {
+          "q": "În ce zonă lucrați?",
+          "a": "Teren: Alba, Cluj, Mureș, Sibiu, Hunedoara — suntem în Aiud, în mijlocul zonei. Verificări CF și due diligence pe documente: toată România, de la birou. Colaborăm cu dezvoltatori și constructori pe toate fazele proiectelor. Detalii pe pagina <a href=\"/parcuri-fotovoltaice/topograf-alba-parc-fotovoltaic.html\">zonei de lucru</a>."
+        },
+        {
+          "q": "Un studiu topografic făcut acum câțiva ani mai e valabil?",
+          "a": "Doar după verificare: dacă terenul sau situația cadastrală s-au schimbat, dacă lipsește recepția OCPI sau dacă nu e în Stereo 70, va fi respins. Lista completă de verificări e pe pagina despre <a href=\"/parcuri-fotovoltaice/greseli-studiu-topografic-autorizatie.html\">greșelile din studiile topografice</a>."
+        },
+        {
+          "q": "Ce vă trimit ca să primesc o ofertă?",
+          "a": "Extrasul CF sau măcar numărul cadastral și localitatea, plus ce vrei să faci pe teren. Trimite-le pe WhatsApp și primești de regulă în aceeași zi o evaluare a situației și oferta pe etape, cu termene realiste pentru fiecare livrabil."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/studiu-topografic-parc-fotovoltaic.html", "label": "Studiu topografic pentru parc fotovoltaic" },
+    { "href": "/parcuri-fotovoltaice/cat-dureaza-studiu-topografic.html", "label": "Cât durează un studiu topografic" },
+    { "href": "/parcuri-fotovoltaice/pret-studiu-topografic-parc-fotovoltaic.html", "label": "Cât costă un studiu topografic" },
+    { "href": "/parcuri-fotovoltaice/topograf-alba-parc-fotovoltaic.html", "label": "Zona de lucru și cine suntem" },
+    { "href": "/servicii/plan-topografic/", "label": "Plan topografic — serviciul de bază" },
+    { "href": "/dictionar/stereografic-1970-stereo-70.html", "label": "Dicționar: Stereo 70" }
+  ],
+  "sources": [
+    { "url": "https://agrointel.ro/229751/panouri-fotovoltaice-pe-terenuri-agricole-legea-a-fost-publicata-in-monitorul-oficial", "title": "Legea 254/2022 — fotovoltaice pe terenuri agricole, publicată în Monitorul Oficial" },
+    { "url": "https://www.wall-street.ro/special/romaniaverde/298101/legislatia-privind-autorizarea-construirii-proiectelor-solare-si-eoliene-modificata-iar-ce-se-intampla-cu-regula-celor-50-de-hectare.html", "title": "PLx 255/2025 — proiect legislativ în dezbatere" },
+    { "url": "https://veltol-energy.ro/conditii-de-infiintare-pentru-un-parc-fotovoltaic-etape-documente-si-autorizatii-necesare/", "title": "Etapele racordării și licențierea ANRE" },
+    { "url": "https://legislatie.just.ro/Public/DetaliiDocument/160177", "title": "Ordinul ANCPI nr. 700/2014" }
+  ]
+}

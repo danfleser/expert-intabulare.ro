@@ -1,0 +1,64 @@
+{
+  "slug": "diferenta-cadastru-intabulare",
+  "title": "Diferența dintre cadastru și intabulare, pe scurt, pentru manageri | Expert Intabulare",
+  "h1": "Cadastru vs. intabulare: diferența explicată în cinci minute, pentru oameni ocupați",
+  "metaDescription": "Cadastrul e partea tehnică (măsurare, identificare), intabularea e înscrierea dreptului în cartea funciară. Diferența, tabelul și de ce contează în proiecte.",
+  "whatsappTopic": "diferența dintre cadastru și intabulare",
+  "hook": "none",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Versiunea de 30 de secunde",
+      "html": "<p><strong>Cadastrul</strong> răspunde la întrebarea „<em>ce și unde este imobilul?</em>” — este partea tehnică: măsurarea terenului și a construcțiilor, stabilirea limitelor și suprafeței, atribuirea numărului cadastral unic. <strong>Intabularea</strong> răspunde la întrebarea „<em>al cui este și cu ce drept?</em>” — este partea juridică: înscrierea dreptului (proprietate, superficie, ipotecă) în cartea funciară. Ordinea e mereu aceeași: întâi imobilul e identificat tehnic (cadastru), apoi dreptul e înscris pe el (intabulare). Când cineva spune „fac cadastrul și intabularea”, descrie exact acest pachet: măsurători + documentație + înscrierea dreptului, finalizat cu o carte funciară din care se poate emite extrasul cerut de orice bancă sau finanțator.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Cadastru vs. intabulare, față în față",
+      "head": ["Criteriu", "Cadastru", "Intabulare"],
+      "rows": [
+        ["Natura", "tehnică — măsurători și identificare", "juridică — înscrierea drepturilor"],
+        ["Întrebarea la care răspunde", "ce este, unde este, cât de mare este imobilul", "al cui este și cu ce drept"],
+        ["Rezultatul", "număr cadastral, plan de amplasament și delimitare", "înscrierea în cartea funciară, extras CF"],
+        ["Cine execută", "persoană autorizată ANCPI (topograf/inginer cadastru)", "registratorul OCPI, pe baza actelor și documentației"],
+        ["Documentul-cheie", "documentația cadastrală (cu PAD)", "cartea funciară"],
+        ["Fără el, ce nu poți face", "nu există imobil identificat în sistem", "nu poți vinde, ipoteca, autoriza sau dovedi proprietatea"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "De ce contează distincția într-un proiect cu finanțare",
+      "html": "<p>Pentru că cerințele din ghiduri lovesc în puncte diferite ale perechii. „Extras CF nu mai vechi de 30 de zile” e o cerință de <strong>intabulare</strong> — dreptul trebuie să fie înscris și demonstrabil. „Plan de amplasament și delimitare recepționat” e o cerință de <strong>cadastru</strong> — imobilul trebuie identificat tehnic. Un teren poate avea cadastru făcut cândva dar dreptul neactualizat (moștenire neînscrisă — problemă de intabulare), sau un drept cert dar imobil neidentificat în sistem (titlu de proprietate fără măsurători — problemă de cadastru). Diagnosticul corect al lipsei scurtează drumul: nu refaci ce există, faci doar veriga absentă.</p><p>Mai e o consecință practică pentru manageri: <strong>cele două au ritmuri diferite</strong>. Cadastrul depinde de teren și de noi — se planifică în zile. Intabularea depinde de acte și de OCPI — succesiuni, notari, termene de soluționare. Când îți construiești calendarul spre o sesiune de finanțare, pe drumul critic stă aproape întotdeauna partea juridică, nu cea tehnică; de aceea întrebarea noastră din prima zi este despre acte, nu despre gard.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Am „cadastrul făcut” din 2009. Înseamnă că sunt intabulat?", "a": "De regulă da — documentația cadastrală se finalizează cu deschiderea cărții funciare — dar verifică două lucruri: dreptul înscris e la zi (moșteniri, vânzări ulterioare?) și construcțiile adăugate între timp apar în CF. Un extras de informare de 20 de lei răspunde la ambele întrebări." },
+        { "q": "Pot face doar cadastrul, fără intabulare?", "a": "Nu ca produs final — documentația cadastrală există ca să susțină o înscriere. Poți însă avea măsurători și planuri fără finalitate cadastrală (un plan topografic pentru proiectare, de exemplu); e alt produs, cu alt scop, iar confuzia dintre ele e subiectul paginii noastre despre PAD vs. plan topografic." },
+        { "q": "Care dintre cele două costă mai mult?", "a": "În pachetul tipic, partea de cadastru (teren + documentație) e componenta principală a onorariului nostru, iar intabularea adaugă tarifele OCPI și, unde e cazul, costurile notariale. Intervalele orientative sunt pe pagina noastră de prețuri — iar pachetul complet e mereu mai eficient decât bucățile separate." },
+        { "q": "În alte țări există aceeași separare?", "a": "Conceptual da — majoritatea sistemelor europene au un registru tehnic (cadastru) și unul juridic (echivalentul cărții funciare), mai mult sau mai puțin integrate. România le-a unificat operațional în sistemul integrat administrat de ANCPI: o singură cerere, o singură instituție, două funcții." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Nu știi care verigă îți lipsește?",
+      "text": "Trimite-ne pe WhatsApp actele pe care le ai (sau doar numărul cadastral) — îți spunem în aceeași zi ce e făcut, ce lipsește și cât durează completarea."
+    }
+  ],
+  "related": [
+    "intabulare-dovada-proprietatii-finantare",
+    "plan-amplasament-delimitare-pad",
+    "extras-carte-funciara-fonduri-europene",
+    "cat-dureaza-intabularea",
+    "teren-neintabulat-fonduri-europene",
+    "pret-plan-topografic-fonduri-europene",
+    "/servicii/cadastru-si-intabulare/",
+    "/dictionar/intabulare.html",
+    "/dictionar/carte-funciara.html"
+  ],
+  "sources": [
+    "https://www.ancpi.ro/",
+    "https://legislatie.just.ro/Public/DetaliiDocument/77754"
+  ]
+}

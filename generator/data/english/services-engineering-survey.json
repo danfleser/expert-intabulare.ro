@@ -1,0 +1,57 @@
+{
+  "path": "/en/services/engineering-survey.html",
+  "title": "Engineering Surveying in Romania — Construction & Infrastructure Survey Support",
+  "metaDescription": "Engineering surveying in Romania: surveys for design and zoning (PUZ/PUD), construction control, precise leveling, settlement monitoring and volume calculations across Transylvania.",
+  "h1": "Engineering Surveying for Construction Projects in Romania",
+  "navLabelEn": "Engineering surveying",
+  "roPair": "https://expert-intabulare.ro/servicii/topografie-constructii/",
+  "whatsappPrefillEn": "Hello! I need engineering surveying support for a construction project in Romania.",
+  "sections": [
+    {
+      "type": "html",
+      "heading": "The surveyor as part of your project team",
+      "html": "<p>Beyond one-off plans and registrations, construction projects need surveying as a continuous discipline: reliable terrain data before design, geometric control during execution, and documented evidence at the end. That is engineering surveying (<em>topografie inginerească</em>), and it is where 25+ years of field practice matter most.</p><p>We work as the surveying arm of design offices, urbanists, contractors and developers on projects across Alba, Cluj, Mureș, Sibiu and Hunedoara counties — from single industrial halls to multi-stage developments and PV plants.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "What this covers",
+      "html": "<ul><li><strong>Surveys for zoning documentation (PUZ/PUD):</strong> Romanian zoning plans are drawn on an OCPI-received topographic base — we produce it and steer it through the office's reception procedure, a step with its own rules and timelines that regularly surprises foreign developers.</li><li><strong>Design-stage terrain data:</strong> topographic surveys, digital terrain models, longitudinal and cross profiles for roads and utility routes, so engineers design on measured reality.</li><li><strong>Volume and earthworks calculations:</strong> cut/fill computations for platforms and grading — often the difference between a profitable and an unprofitable site.</li><li><strong>Execution control:</strong> stakeout campaigns, level checks on foundations and structures, verification measurements at handover points between contractors.</li><li><strong>Precise leveling and settlement monitoring:</strong> installing benchmarks and running measurement cycles on structures where movement must be tracked over time, with reports your insurer or lender can use.</li><li><strong>As-built documentation:</strong> final measurements proving what was actually built, for acceptance, registration and operation.</li></ul>"
+    },
+    {
+      "type": "html",
+      "heading": "How we work with international project teams",
+      "html": "<p>Deliverables come in the formats your team already uses — DWG/DXF, coordinate lists, PDF reports, terrain models — with drawings and correspondence in English where you need them. We quote per deliverable or as a project-long support arrangement with agreed mobilization times. On multi-contractor sites, an independent surveyor giving all parties the same geometric truth prevents the classic dispute where each contractor measures in their own favour.</p><p>What we do not do, and say so plainly: geotechnical studies, structural design, or environmental permitting. Those belong to other licensed professions; we coordinate with the specialists who hold them, our measurements feed their work, and your project gets one coherent geometric dataset instead of three competing ones.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Can you support a project through its whole lifecycle?",
+          "a": "Yes — that is the normal pattern: survey for design, stakeout at works start, control measurements during execution, as-built at the end. One surveyor holding the site's geometry from start to finish removes an entire class of coordination errors."
+        },
+        {
+          "q": "Do you work as a subcontractor to design offices or contractors?",
+          "a": "We collaborate with developers, designers and construction companies on exactly that basis, with deliverables specified per their project standards."
+        },
+        {
+          "q": "What equipment do you use?",
+          "a": "Survey-grade GNSS/RTK receivers using the national ROMPOS correction network, a total station for high-accuracy and obstructed work, optical leveling for precise height work, and a survey drone for large-area mapping."
+        },
+        {
+          "q": "How is project-long surveying support priced?",
+          "a": "Either per deliverable against a rate card agreed at the start, or as a retainer-style arrangement with committed mobilization times for projects that need us on call. For a multi-month build, agreeing the structure upfront is cheaper for you and lets us actually reserve the capacity — ad-hoc callouts are always the expensive way to buy surveying."
+        },
+        {
+          "q": "Our project is stuck at the OCPI reception of the PUZ survey. Can you take over?",
+          "a": "Often, yes. Completion requests from the office usually name concrete, fixable defects — wrong coordinate framing, missing pieces, outdated parcel references. We diagnose the file, tell you plainly whether it is repairable or needs redoing, and carry it through the procedure. Inheriting half-done documentation is not our favourite work, but it is work we know how to finish."
+        }
+      ]
+    }
+  ],
+  "related": [
+    "/en/services/topographic-survey.html",
+    "/en/services/building-stakeout.html",
+    "/en/solar/land-surveying-pv-projects-transylvania.html",
+    "/en/services/construction-registration.html"
+  ]
+}

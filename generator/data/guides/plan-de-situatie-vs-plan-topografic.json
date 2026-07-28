@@ -1,0 +1,72 @@
+{
+  "slug": "plan-de-situatie-vs-plan-topografic",
+  "title": "Plan de situație vs. plan topografic — diferența (2026)",
+  "h1": "Plan de situație, plan topografic, ridicare topo: care e diferența și ce îți cere primăria",
+  "metaDescription": "Diferența dintre planul de situație, planul topografic vizat OCPI și ridicarea topografică: la ce folosește fiecare, cine îl cere, cât costă orientativ și cum eviți să plătești de două ori.",
+  "whatsappTopic": "un plan de situație sau un plan topografic",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Trei denumiri care se amestecă mereu",
+      "text": "„Mi se cere un plan de situație.” „Arhitectul vrea ridicare topo.” „Primăria zice că trebuie plan topografic vizat de OCPI.” În practică, cele trei denumiri se folosesc alandala, inclusiv de instituții — iar proprietarul ajunge să comande de două ori lucrări care se suprapun. Să punem ordine.\n\nRidicarea topografică este operațiunea de teren: măsurarea propriu-zisă a terenului, cu tot ce există pe el și în jurul lui — limite, construcții, drumuri, stâlpi, cămine, arbori, cote de nivel. Este materia primă. Planul topografic este produsul: desenul întocmit pe baza ridicării, pe suport cadastral, cu precizările tehnice cerute de normativ. Când acest plan este depus la OCPI și recepționat (primește „viza”), el devine plan topografic vizat/recepționat OCPI — forma cerută în documentațiile oficiale. Planul de situație este, la rigoare, o piesă desenată care arată situația unui amplasament — în dosarele de urbanism, termenul desemnează de regulă exact planul pe suport topografic de mai sus, la scara cerută prin certificatul de urbanism (uzual 1:500 sau 1:1000)."
+    },
+    {
+      "type": "table",
+      "heading": "Care, la ce folosește",
+      "head": ["Piesa", "Ce este", "Cine o cere de regulă", "Observații"],
+      "rows": [
+        ["Ridicare topografică", "măsurarea terenului (operațiunea)", "sta la baza tuturor celorlalte", "se plătește o dată; din ea derivă mai multe planuri"],
+        ["Plan topografic (nevizat)", "desenul tehnic al ridicării", "proiectanți, studii preliminare, evaluatori", "suficient unde nu se cere viza OCPI"],
+        ["Plan topografic vizat/recepționat OCPI", "planul verificat și recepționat de OCPI", "primăria — certificat de urbanism, DTAC; unele avize", "obligatoriu în autorizare conform normelor Legii 50/1991"],
+        ["Plan de situație", "piesa din dosar care arată amplasamentul", "urbanism, proiectare, avize utilități", "în dosarele oficiale = planul pe suport topografic, la scara cerută"],
+        ["Studiu topografic cu cote/curbe de nivel", "ridicare detaliată pentru proiectare", "arhitect, structurist, drumar", "esențial pe terenuri în pantă"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Cum eviți să plătești de două ori",
+      "text": "Regula simplă: măsurătoarea se face o dată, planurile se derivă din ea. Dacă topograful a făcut ridicarea completă pentru studiul de proiectare, planul vizat OCPI pentru autorizație se întocmește din aceleași date, cu costul suplimentar doar al pieselor și al recepției — nu cu o măsurătoare nouă. De aceea întrebarea corectă când cereți oferta nu este „cât costă un plan de situație”, ci „am de construit X pe terenul Y — de ce piese topografice voi avea nevoie în total?”. Răspunsul complet vă dă un preț de pachet și un singur drum pe teren.\n\nAl doilea sfat: cereți certificatul de urbanism înainte de a comanda planuri finale. Certificatul precizează scara și conținutul pieselor — iar un plan făcut „în avans” la altă scară sau fără elementele cerute se reface. Excepția: verificarea preliminară a terenului (limite, suprapuneri, poziția față de vecini) merită făcută oricând, chiar înaintea cumpărării terenului — ea folosește orice s-ar construi ulterior.\n\nCa prețuri orientative de piață: plan de situație 800–900 lei, ridicare topografică între 800 și 2.500 lei în funcție de suprafață și relief, plan topografic vizat OCPI de la 800 lei plus tarifele de recepție. La pachet cu trasarea și intabularea finală a construcției, costul total scade față de comenzile separate."
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        {
+          "q": "Primăria mi-a cerut „plan de situație pe suport topografic vizat de OCPI”. Ce comand exact?",
+          "a": "Exact ce scrie: un plan topografic întocmit de o persoană autorizată ANCPI, depus și recepționat la OCPI, la scara din certificatul de urbanism. Este o singură lucrare — ne trimiteți certificatul de urbanism pe WhatsApp și știm tot ce trebuie."
+        },
+        {
+          "q": "Am cadastru făcut. Nu ține loc de plan topografic?",
+          "a": "Nu — documentația cadastrală atestă limitele și suprafața imobilului, dar planul pentru autorizare cere și situația din teren (construcții, cote, vecinătăți, rețele) la zi și la scara cerută. Cadastrul existent ajută (limitele sunt clare), dar nu înlocuiește planul topografic."
+        },
+        {
+          "q": "Cât durează să obțin planul vizat OCPI?",
+          "a": "Măsurătorile și desenul: câteva zile. Recepția OCPI: termenul serviciului, cu opțiune de urgență. Realist, 1–3 săptămâni cap-coadă, mai puțin în urgență — planificați-l înaintea depunerii dosarului de autorizare, nu în ultima zi."
+        },
+        {
+          "q": "Planul topografic expiră?",
+          "a": "Nu are termen legal de valabilitate, dar reflectă situația din momentul măsurării. Dacă între timp au apărut construcții sau s-au schimbat limitele din zonă, instituțiile pot cere plan actualizat. Pentru dosarele de autorizare folosiți un plan recent — e și în interesul corectitudinii proiectului."
+        },
+        {
+          "q": "Evaluatorul băncii mi-a cerut „schiță topo”. E același lucru?",
+          "a": "De regulă evaluatorii au nevoie de planul de amplasament din documentația cadastrală sau de un plan topografic simplu, nevizat — mai ieftin și mai rapid decât cel pentru autorizare. Spuneți-ne cine îl cere și pentru ce, și primiți exact piesa necesară, nu una mai scumpă."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Trimiteți-ne ce vi s-a cerut — traducem și ofertăm exact",
+      "text": "Fotografiați cererea primăriei, a arhitectului sau a băncii și trimiteți-o pe WhatsApp, cu localitatea terenului. Vă spunem ce piesă topografică este de fapt, cât costă orientativ și în cât timp o aveți. Informațiile din acest ghid au caracter informativ."
+    }
+  ],
+  "related": {
+    "services": ["plan-topografic", "topografie-constructii", "trasare-teren", "cadastru-si-intabulare"],
+    "guides": ["autorizatie-construire-documentatie-topografica", "receptia-ocpi-ce-inseamna", "preturi-cadastru-topografie-2026", "trasare-teren-cand-ai-nevoie"]
+  },
+  "sources": [
+    "https://lege5.ro/Gratuit/geydsnbyha/documentele-necesare-emiterii-certificatului-de-urbanism-si-autorizatiei-de-construire-desfiintare-norma-metodologica",
+    "https://www.necesit.ro/preturi/cadastru-topografie-geodezie/ridicare-topografica-pret",
+    "https://www.veritatopo.ro/preturi.html",
+    "https://topocadvision.ro/preturi/"
+  ]
+}

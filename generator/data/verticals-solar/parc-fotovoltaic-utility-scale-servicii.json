@@ -1,0 +1,76 @@
+{
+  "slug": "parc-fotovoltaic-utility-scale-servicii",
+  "title": "Servicii topografice pentru parcuri fotovoltaice utility-scale",
+  "h1": "Parcuri utility-scale: pachet topografic și cadastral complet, de la due diligence la as-built",
+  "metaDescription": "Servicii topografice pentru parcuri fotovoltaice utility-scale: due diligence, cadastru, studiu topografic, trasare, as-built. Colaborăm cu dezvoltatori și constructori.",
+  "whatsappTopic": "servicii topografice complete pentru un parc fotovoltaic utility-scale",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Un singur topograf pe tot ciclul de viață al parcului",
+      "html": "<p>La un parc de peste 1 MW, topografia nu mai e o comandă punctuală — e un fir care traversează tot proiectul: zeci de parcele de comasat, superficie de înscris pe fiecare imobil, studiu topografic pe zeci de hectare, mii de piloni de trasat în ritmul șantierului, apoi as-built-ul fără de care nu treci de recepție. Când fiecare etapă o face altă echipă, plătești de fiecare dată remobilizare, altă referință de coordonate și timp pierdut la interfețe.</p><p>Noi acoperim întregul lanț dintr-o singură bază de date și o singură rețea de sprijin materializată pe teren la prima vizită. Colaborăm cu dezvoltatori și constructori — de la fondul care cumpără proiectul până la echipele care bat pilonii — și predăm fiecărei părți livrabilele în formatul ei: rapoarte pentru investitor, dwg/LandXML pentru proiectant, tabele de trasare pentru șantier, documentații conform Ordinului ANCPI 700/2014 pentru instituții.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Pachetul pe faze de proiect",
+      "head": ["Faza proiectului", "Ce livrăm"],
+      "rows": [
+        ["Due diligence și achiziție", "Verificări CF și suprapuneri la nivel național, măsurători preliminare, suprafața utilă reală, rapoarte pe imobile"],
+        ["Structurare juridică a terenului", "Intabulări, alipiri de zeci de parcele, dezmembrări pe lot util, documentații pentru superficie și servituți de trecere"],
+        ["Autorizare", "Studiu topografic recepționat OCPI, plan de situație pentru CU, suport topografic pentru PUZ și scoaterea din circuitul agricol"],
+        ["Proiectare", "Model digital al terenului cu breaklines, hărți de pantă, calcule de terasamente pe scenarii, formate dwg/dxf/LandXML/GeoTIFF"],
+        ["Execuție", "Trasare piloni și tracker-e, drumuri interne și trasee de cabluri, nivelment de precizie pentru platformele stațiilor și BESS"],
+        ["Recepție și operare", "Documentație as-built, intabularea construcțiilor din parc, monitorizarea tasărilor pentru stații și echipamente critice"]
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "Continuitatea referinței: detaliul care ține șantierul în toleranțe",
+      "html": "<p>Pe un parc mare, precizia nu e un moft: măsurăm cu GNSS RTK la ±2–3 cm în plan, cu stație totală acolo unde e nevoie de precizie milimetrică pe distanțe scurte, iar toleranțele uzuale de trasare a piloniilor sunt de ±2–3 cm. Tracker-ele monoaxiale cer aliniament mai strict pe rând — conform toleranțelor din specificația furnizorului, tipic sub ±2 cm pe aliniament. Asemenea toleranțe se țin doar dacă toate etapele folosesc aceeași rețea de sprijin, materializată o singură dată și protejată pe toată durata șantierului.</p><p>A doua condiție e ritmul: pe utility-scale, topografia nu are voie să fie gâtul de sticlă al șantierului. Planificăm <a href=\"/parcuri-fotovoltaice/trasare-piloni-parc-fotovoltaic.html\">trasarea piloniilor</a> pe frontul de lucru al constructorului, cu predări de tabele de coordonate pe tronsoane și verificări din mers, astfel încât echipele de batere să nu aștepte niciodată după noi.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "As-built, licența ANRE și refinanțarea",
+      "html": "<p>Finalul proiectului e tot topografic. Procedura de racordare se închide cu punerea în funcțiune și certificatul de racordare, iar pentru vânzarea energiei la parcurile de peste 1 MW e necesară licența de exploatare comercială ANRE. <a href=\"/parcuri-fotovoltaice/as-built-parc-fotovoltaic.html\">Documentația as-built</a> a amplasamentului — poziția reală a structurilor, drumurilor, cablurilor și construcțiilor — e cerută la recepție și la punerea în funcțiune și rămâne utilă mult după: la licențierea ANRE, la refinanțarea bancară și la orice extindere viitoare.</p><p>Tot la final se face ordinea cadastrală: panourile nu se intabulează — sunt echipamente —, dar stația de transformare, clădirea tehnică și, unde e cazul, împrejmuirea se intabulează pe baza documentației cadastrale. Un parc cu as-built complet și construcții intabulate e un activ vandabil; unul fără, e un șir de discuții cu fiecare auditor.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Capacitate și mod de lucru",
+      "html": "<p>Lucrăm din Aiud, județul Alba — în centrul Transilvaniei — cu deplasare pe teren în Alba, Cluj, Mureș, Sibiu și Hunedoara; verificările pe documente le facem pentru proiecte din toată țara. Echipare completă pentru lucrări mari: GNSS RTK, stație totală, dronă pentru fotogrametrie cu puncte de control la sol, cu precizii de 2–5 cm pe suprafețe de zeci de hectare.</p><p>Modul de lucru preferat pe utility-scale: intrăm devreme, la due diligence, și rămânem pe proiect până la as-built — cu ofertă pe etape, termene per livrabil și un singur interlocutor tehnic pe toată durata. Dacă proiectul e deja în derulare și ai nevoie de o etapă anume, intrăm și punctual: preluăm documentații existente după o verificare onestă a ceea ce se poate refolosi. Trimite-ne extrasul CF și stadiul proiectului pe WhatsApp — revenim în aceeași zi cu pașii și oferta orientativă.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Lucrați ca subcontractor pentru EPC-uri?",
+          "a": "Colaborăm cu dezvoltatori și constructori, în forma de contract care se potrivește proiectului — direct cu dezvoltatorul, cu constructorul sau cu ambii. Important pentru tine e că toate etapele topografice stau pe aceeași referință, indiferent cine le contractează."
+        },
+        {
+          "q": "Puteți ține ritmul unui șantier cu termene strânse?",
+          "a": "Da — cu condiția planificării împreună cu constructorul: front de lucru, tronsoane, ordinea trasărilor. Predările se fac pe măsură ce avansează șantierul, nu la final, iar verificările de control merg în paralel cu execuția."
+        },
+        {
+          "q": "Ce se întâmplă dacă am deja studiul topografic de la altă firmă?",
+          "a": "Îl verificăm și îți spunem onest ce se poate refolosi: dacă e recepționat OCPI, în Stereo 70 și actual, construim pe el. Dacă nu, primești lista exactă a problemelor și costul actualizării față de refacere."
+        },
+        {
+          "q": "Acoperiți și partea de proiectare sau studii geotehnice?",
+          "a": "Nu — facem exclusiv topografie și cadastru. Ne coordonăm însă curent cu proiectanții, geotehnicienii și consultanții de permitting ai proiectului, iar livrabilele noastre ajung la ei în formatele de care au nevoie."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/studiu-topografic-parc-fotovoltaic.html", "label": "Studiu topografic pentru parc fotovoltaic" },
+    { "href": "/parcuri-fotovoltaice/trasare-piloni-parc-fotovoltaic.html", "label": "Trasarea piloniilor în ritm de șantier" },
+    { "href": "/parcuri-fotovoltaice/as-built-parc-fotovoltaic.html", "label": "Documentația as-built la recepție" },
+    { "href": "/parcuri-fotovoltaice/alipire-parcele-teren.html", "label": "Alipirea parcelelor pentru proiecte mari" },
+    { "href": "/servicii/topografie-constructii/", "label": "Topografie pentru construcții" },
+    { "href": "/dictionar/as-built.html", "label": "Dicționar: as-built" }
+  ],
+  "sources": [
+    { "url": "https://veltol-energy.ro/conditii-de-infiintare-pentru-un-parc-fotovoltaic-etape-documente-si-autorizatii-necesare/", "title": "Etapele racordării și licențierii unui parc fotovoltaic (ATR, certificat, licență ANRE)" }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "documentatie-cadastrala-pnrr",
+  "title": "Acte de proprietate și documentație cadastrală pentru proiecte PNRR | Expert Intabulare",
+  "h1": "Acte de proprietate și documentație cadastrală pentru proiecte PNRR",
+  "metaDescription": "Ce documentație cadastrală cere PNRR: extras CF ≤30 zile, PAD, dovada proprietății. Situația reală în 2026 — termen final august 2026. Topograf autorizat ANCPI.",
+  "whatsappTopic": "documentație cadastrală pentru proiect PNRR",
+  "hook": "deadline",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "PNRR în 2026: nu mai e despre depunere, ci despre finalizare",
+      "html": "<p>Să fim exacți, pentru că pe acest subiect circulă multă informație veche: <strong>apelurile de proiecte PNRR s-au închis</strong>, iar termenul final de implementare și decontare a fost prelungit succesiv — de la 30 iunie, la 31 iulie și apoi până la <strong>finalul lunii august 2026</strong>. Ministerul Dezvoltării a anunțat că acest termen nu se mai prelungește: investițiile nefinalizate și neplătite riscă pierderea finanțării europene și recuperarea sumelor deja decontate.</p><p>Pentru beneficiarii PNRR, documentația cadastrală contează în 2026 în trei momente foarte concrete: la <strong>recepția lucrărilor</strong> (documentație as-built și măsurători finale), la <strong>intabularea construcției finalizate</strong> — obligație pe care mulți o descoperă abia în perioada de durabilitate — și la <strong>cererea finală de transfer</strong>, unde neconcordanțele între autorizație, teren și cartea funciară pot bloca plata.</p>"
+    },
+    {
+      "type": "paragraph",
+      "heading": "Ce a cerut PNRR la capitolul teren — și de ce contează încă",
+      "html": "<p>La depunere și la contractare, ghidurile PNRR au cerut în mod constant același pachet: <strong>extras de carte funciară de informare nu mai vechi de 30 de zile</strong>, dovada dreptului asupra imobilului (proprietate, administrare, superficie sau concesiune, după caz), iar pentru investițiile în construcții — <strong>planul de amplasament și delimitare (PAD)</strong> și, la faza de proiectare, planul topografic vizat OCPI ca anexă la SF/DALI conform HG 907/2016.</p><p>Aceste cerințe nu au dispărut odată cu închiderea apelurilor. În perioada de durabilitate (de regulă 5 ani de la plata finală), autoritățile pot verifica oricând dacă imobilul mai corespunde condițiilor din contract: dacă construcția e intabulată, dacă nu au apărut sarcini incompatibile, dacă suprafața și categoria de folosință din CF corespund realității. Un dosar cadastral curat este, practic, polița de asigurare a finanțării deja încasate.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Checklist: documentația de teren într-un dosar PNRR",
+      "items": [
+        "Extras de carte funciară de informare, emis cu cel mult 30 de zile înainte de depunerea documentului la finanțator",
+        "Dovada dreptului: act de proprietate, contract de superficie sau concesiune înscris în CF, hotărâre de consiliu local pentru imobilele UAT",
+        "Plan de amplasament și delimitare (PAD) recepționat de OCPI, cu număr cadastral atribuit",
+        "Plan topografic vizat OCPI, anexă la SF/DALI și la documentația pentru autorizația de construire",
+        "Verificarea părții a III-a a cărții funciare: fără ipoteci, litigii sau alte sarcini care contravin condițiilor de eligibilitate",
+        "După finalizarea lucrărilor: certificat de atestare a edificării și intabularea construcției în cartea funciară"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Cazul special: cartea funciară veche, nedigitalizată",
+      "html": "<p>O situație pe care am întâlnit-o des la beneficiarii din mediul rural: imobilul figurează într-o <strong>carte funciară veche, pe hârtie</strong>, deschisă înainte de informatizare, iar extrasul nu poate fi emis online. Pentru dosar, asta înseamnă întârzieri exact când timpul e mai prețios: e nevoie de conversia cărții funciare în format electronic (e-Terra), uneori precedată de o documentație cadastrală de primă înscriere sau de actualizare. Dacă ești în această situație, avem o pagină dedicată despre conversia cărții funciare vechi — iar primul pas este să ne trimiți pe WhatsApp o poză a actelor pe care le ai.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Mai pot depune un proiect nou pe PNRR în 2026?", "a": "Nu — apelurile PNRR s-au închis, iar programul este în faza finală de implementare, cu termen de decontare la finalul lunii august 2026. Pentru investiții noi, uită-te la Programul Regional Centru 2021–2027, la intervențiile AFIR din Planul Strategic PAC 2023–2027 sau la viitoarele apeluri din Granturile SEE și Norvegiene 2021–2028." },
+        { "q": "Construcția finanțată prin PNRR trebuie neapărat intabulată?", "a": "Da. Recepția la terminarea lucrărilor și intabularea construcției sunt pași firești ai oricărei investiții autorizate, iar în perioada de durabilitate finanțatorul poate cere dovada. Procedura trece prin certificatul de atestare a edificării eliberat de primărie și o documentație cadastrală de înscriere a construcției." },
+        { "q": "Extrasul CF depus la contractare mai este valabil la recepție?", "a": "Nu conta pe asta. Regula celor 30 de zile se aplică la fiecare moment în care se cere un extras „recent”. Vestea bună: extrasul de informare se obține rapid, inclusiv online, dacă imobilul are carte funciară electronică." },
+        { "q": "Ce se întâmplă dacă nu finalizez lucrările până în august 2026?", "a": "Conform anunțurilor oficiale ale Ministerului Dezvoltării, proiectele nefinalizate și neplătite până la termenul final riscă pierderea finanțării europene, iar sumele deja plătite pot fi recuperate de la beneficiari. Dacă ești aproape de final și te blochează partea de măsurători sau recepție, scrie-ne urgent — lucrările topografice de finalizare se pot programa în zile, nu în săptămâni." }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Greșelile pe care le vedem cel mai des în dosarele PNRR ajunse la final",
+      "html": "<p>Din lucrările de finalizare la care am fost chemați în ultimul an, tiparul se repetă. <strong>Prima greșeală:</strong> recepția convocată fără măsurători finale — comisia constată diferențe față de autorizație abia în ședință, iar procesul-verbal se încarcă cu obiecții care trebuiau lămurite cu două săptămâni înainte, pe teren. <strong>A doua:</strong> intabularea construcției lăsată „pe după rambursare” — doar că cererea finală de transfer poate cere exact extrasul CF actualizat, iar certificatul de atestare a edificării are termenul lui la primărie. <strong>A treia:</strong> modificările din execuție nedocumentate — o rampă mutată, o anexă tehnică adăugată — care transformă o recepție de o zi într-o corespondență de o lună. Toate trei au aceeași rezolvare ieftină: măsurătorile as-built comandate imediat ce constructorul anunță finalizarea, cu comparația față de autorizație pusă pe masă înainte de comisie. La termenul PNRR din august 2026, diferența dintre un dosar închis curat și unul cu corecții financiare se joacă exact pe această disciplină documentară — iar partea de teren este, din fericire, componenta cea mai rapid de pus în ordine, dacă nu e lăsată ultima.</p>"
+    },
+    {
+      "type": "cta",
+      "heading": "Proiect PNRR în faza finală?",
+      "text": "Scrie-ne pe WhatsApp stadiul lucrării și termenul tău de recepție — programăm măsurătorile as-built și pregătim intabularea construcției fără să pierzi deadline-ul de august 2026."
+    }
+  ],
+  "related": [
+    "plan-topografic-pnrr",
+    "as-built-receptie-fonduri-europene",
+    "intabulare-constructie-finalizata",
+    "extras-carte-funciara-fonduri-europene",
+    "plan-amplasament-delimitare-pad",
+    "carte-funciara-veche-conversie",
+    "/servicii/cadastru-si-intabulare/",
+    "/dictionar/carte-funciara.html"
+  ],
+  "sources": [
+    "https://mfe.gov.ro/pnrr/",
+    "https://www.agendaconstructiilor.ro/stiri/actualitatea-interna/termenul-limita-pentru-decontarea-proiectelor-pnrr-prelungit-pana-la-31-august-2026",
+    "https://www.mediafax.ro/politic/ministerul-dezvoltarii-prelungeste-termenul-limita-pentru-finalizarea-proiectelor-finantate-prin-pnrr-23768795"
+  ]
+}

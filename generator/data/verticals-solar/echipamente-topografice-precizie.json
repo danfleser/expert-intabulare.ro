@@ -1,0 +1,72 @@
+{
+  "slug": "echipamente-topografice-precizie",
+  "title": "Echipamente topografice și precizii reale — GPS RTK, stație totală, dronă",
+  "h1": "Cu ce măsurăm și cât de precis: GPS RTK, stație totală, nivelă, dronă — cifre oneste",
+  "metaDescription": "Echipamente topografice pentru parcuri fotovoltaice: GPS RTK ±2–3 cm, stație totală milimetrică, nivelment sub-milimetric, dronă 2–5 cm. Precizii declarate onest.",
+  "whatsappTopic": "o discuție tehnică despre metoda de măsurare potrivită pentru proiectul meu",
+  "hook": "none",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Precizia potrivită pentru scop, nu cifre de marketing",
+      "html": "<p>Pagina asta există dintr-un motiv simplu: în ofertele de topografie circulă multe cifre de precizie exagerate, iar un dezvoltator fotovoltaic are dreptul să știe ce e realist tehnic și ce nu. Mai jos găsești echipamentele cu care lucrăm — GPS/GNSS RTK, stație totală, nivelă de precizie, dronă fotogrametrică — cu preciziile lor reale, standard în breaslă, și cu regula de aur a meseriei: <strong>nu instrumentul cel mai precis e cel corect, ci instrumentul potrivit pentru scopul măsurătorii</strong>.</p><p>Un model digital al terenului nu are nevoie de precizie milimetrică — are nevoie de acoperire densă și omogenă. O fundație cu buloane pre-pozate nu se trasează cu GPS — se trasează cu stația totală. Cine promite „precizie milimetrică\" pe o ridicare de 30 de hectare fie nu a înțeles întrebarea, fie speră că nu o înțelegi tu. Dacă vrei să discutăm metoda potrivită pentru cazul tău concret, scrie-ne pe WhatsApp — și trimite-ne extrasul CF, ca discuția să pornească de la terenul real.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "GPS/GNSS RTK: calul de povară al măsurătorilor pe câmp",
+      "html": "<p>Receptoarele GNSS cu corecții RTK dau poziția în timp real cu precizie de <strong>±2–3 cm în plan</strong> — suficient și necesar pentru ridicările topografice de amplasament, pentru verificarea limitelor cadastrale și pentru trasarea structurilor obișnuite. Avantajul decisiv pe fotovoltaic e productivitatea: punct măsurat la câteva secunde, fără vizibilitate între puncte, pe suprafețe oricât de mari.</p><p>Limitele lui, spuse cinstit: precizia pe cotă e mai slabă decât cea în plan, iar semnalul se degradează lângă liziere, în văi înguste și sub linii electrice — exact genul de zone care apar des pe amplasamentele PV. Acolo nu insistăm cu GPS-ul: trecem pe stație totală. Iar la <a href=\"/parcuri-fotovoltaice/trasare-piloni-parc-fotovoltaic.html\">trasarea piloniilor</a>, toleranțele uzuale de ±2–3 cm sunt exact la limita metodei — de aceea trasarea serioasă combină ambele instrumente.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Stația totală și nivela: precizia milimetrică, acolo unde chiar trebuie",
+      "html": "<p><strong>Stația totală</strong> măsoară unghiuri și distanțe cu precizie milimetrică pe distanțe scurte — instrumentul pentru trasările pretențioase: fundații cu ancoraje pre-pozate, axe de stații de transformare, verificări de aliniament la tracker-e, unde specificațiile furnizorului cer tipic sub ±2 cm pe aliniamentul rândului. Tot ea preia măsurătorile în zonele unde GPS-ul nu are semnal curat.</p><p><strong>Nivela de precizie</strong>, cu nivelment geometric, e instrumentul cotelor: la clasa înaltă atinge precizie <strong>sub-milimetrică pe kilometrul dublu de nivelment</strong> — nivelul de exigență necesar la <a href=\"/parcuri-fotovoltaice/nivelment-de-precizie.html\">fundațiile stațiilor și platformele BESS</a> și obligatoriu la <a href=\"/parcuri-fotovoltaice/monitorizare-tasari-constructii.html\">monitorizarea tasărilor</a>, unde cauți deplasări de ordinul milimetrilor între cicluri de măsurare. Cu GPS-ul, astfel de deplasări s-ar pierde în zgomotul metodei.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Drona fotogrametrică: acoperire mare, precizie controlată de la sol",
+      "html": "<p>Fotogrametria cu dronă produce, dintr-un zbor, norul de puncte, modelul digital al terenului și <a href=\"/parcuri-fotovoltaice/ortofotoplan-drona-parc-fotovoltaic.html\">ortofotoplanul</a> întregului amplasament. Precizia reală a produselor finale: <strong>2–5 cm</strong>, în funcție de rezoluția la sol a imaginilor (GSD) și — condiția fără de care cifra e poveste — de punctele de control (GCP) măsurate la sol cu GNSS sau stație totală, care „ancorează\" blocul fotogrametric în coordonate. Fotogrametrie fără puncte de control înseamnă imagini frumoase cu coordonate incerte.</p><p>Pe amplasamente de peste circa 10 hectare, drona bate economic măsurătoarea clasică, iar densitatea rezultatului e un ordin de mărime peste orice caroiaj măsurat manual — detaliile complete sunt pe pagina de <a href=\"/parcuri-fotovoltaice/fotogrametrie-drona-teren.html\">fotogrametrie cu dronă</a>. Limita ei onestă: vegetația. Fotogrametria vede suprafața vizibilă, deci sub cultură înaltă sau mărăciniș terenul real rămâne ascuns — acolo se măsoară clasic sau se așteaptă recoltarea.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Tabel recapitulativ: instrument, precizie reală, utilizare tipică",
+      "head": ["Instrument", "Precizie realistă", "La ce îl folosim pe proiecte PV"],
+      "rows": [
+        ["GPS/GNSS RTK", "±2–3 cm în plan", "Ridicări topografice, limite, trasare structuri uzuale, GCP-uri pentru dronă"],
+        ["Stație totală", "milimetrică, pe distanțe scurte", "Trasări pretențioase, aliniamente de tracker-e, zone fără semnal GNSS"],
+        ["Nivelă de precizie", "sub-milimetrică pe km dublu (clasa înaltă)", "Cote de fundare, platforme BESS, monitorizare tasări"],
+        ["Dronă + GCP", "2–5 cm, în funcție de GSD", "MDT și ortofotoplan pe amplasamente peste ~10 ha"]
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "De ce nu folosiți pur și simplu cel mai precis instrument peste tot?",
+          "a": "Pentru că precizia costă timp, iar timpul costă bani — fără câștig real. Un MDT măsurat milimetric nu produce un layout mai bun decât unul la ±2–3 cm, dar durează de multe ori mai mult. Alegem instrumentul după toleranța cerută de fiecare livrabil."
+        },
+        {
+          "q": "Ce precizie are trasarea piloniilor la un parc fotovoltaic?",
+          "a": "Toleranțele uzuale de trasare sunt ±2–3 cm. La tracker-ele monoaxiale, aliniamentul pe rând se verifică după specificația furnizorului — tipic sub ±2 cm pe aliniament — motiv pentru care acolo intră stația totală, nu doar GPS-ul."
+        },
+        {
+          "q": "Drona poate înlocui complet măsurătoarea de la sol?",
+          "a": "Nu. Drona are nevoie de puncte de control măsurate la sol ca produsele ei să aibă coordonate de încredere, iar sub vegetație și în zonele de detaliu fin măsurătoarea clasică rămâne obligatorie. Combinația dronă plus GNSS plus stație totală e metoda completă."
+        },
+        {
+          "q": "Ce mărci de echipamente folosiți?",
+          "a": "Lucrăm cu echipamente profesionale de topografie, verificate și calibrate. Nu ne legăm de o marcă în discuțiile cu clienții, pentru că relevant pentru tine e rezultatul garantat prin precizia metodei și prin verificările independente, nu eticheta de pe instrument."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/fotogrametrie-drona-teren.html", "label": "Fotogrametrie cu dronă pe amplasamente mari" },
+    { "href": "/parcuri-fotovoltaice/trasare-piloni-parc-fotovoltaic.html", "label": "Trasarea piloniilor — metode și toleranțe" },
+    { "href": "/parcuri-fotovoltaice/nivelment-de-precizie.html", "label": "Nivelment de precizie pentru fundații" },
+    { "href": "/parcuri-fotovoltaice/model-digital-teren-parc-fotovoltaic.html", "label": "Model digital al terenului (MDT)" },
+    { "href": "/servicii/trasare-teren/", "label": "Trasare teren și construcții" },
+    { "href": "/dictionar/ortofotoplan.html", "label": "Dicționar: ortofotoplan" }
+  ],
+  "sources": []
+}

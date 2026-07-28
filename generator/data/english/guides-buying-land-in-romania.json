@@ -1,0 +1,44 @@
+{
+  "path": "/en/guides/buying-land-in-romania.html",
+  "title": "Buying Land in Romania — The Survey and Registration Steps That Protect You",
+  "metaDescription": "Step-by-step guide to buying land in Romania: land book checks, the notarial process, boundary verification and registration — what happens when, and where buyers get burned.",
+  "h1": "Buying Land in Romania: The Steps Between Finding a Plot and Owning It Safely",
+  "roPair": null,
+  "whatsappPrefillEn": "Hello! I am planning to buy land in Romania and would like help verifying the property.",
+  "sections": [
+    {
+      "type": "html",
+      "heading": "How a Romanian land purchase actually works",
+      "html": "<p>Romania transfers real estate through a <strong>civil-law notarial system</strong>: a licensed public notary — a neutral state-appointed official, not either party's lawyer — authenticates the sale deed, collects the taxes, and files the ownership change with the land registry. There is no title insurance and no escrow industry standing behind you; your protection is the <strong>land book (carte funciară)</strong>, the public register recording every legally recognized property, and the diligence you do against it before signing.</p><p>That makes the buyer's process, done properly, look like this:</p><ul><li><strong>1. Verify the land book.</strong> Obtain a fresh <a href=\"/en/services/land-registry-extract.html\">land registry extract</a>: is the seller the registered owner, in what shares, and what mortgages, easements, litigation notes or sale prohibitions sit in Part III? If the land has no land book at all, stop — it must be <a href=\"/en/services/cadastral-registration.html\">first-registered</a> before any notarial sale can happen.</li><li><strong>2. Verify the ground.</strong> A <a href=\"/en/solar/land-due-diligence-survey-romania.html\">due diligence survey</a> checks that the registered geometry matches reality: no overlaps with neighbours, measured area matching the deed area, the parcel actually located where the seller's fence says. Paper diligence alone misses precisely these defects.</li><li><strong>3. Pre-agreement (antecontract), carefully.</strong> Deposits are commonly secured through a notarized pre-sale agreement. Condition it on the findings and the fixes — this is the point of maximum negotiating leverage, and money paid before verification is money at risk.</li><li><strong>4. Special regimes.</strong> Extravilan agricultural land triggers the pre-emption procedure of Law 17/2014 (see the <a href=\"/en/guides/agricultural-land-preemption-romania.html\">pre-emption guide</a>); non-EU citizens face ownership restrictions (see <a href=\"/en/guides/foreigners-buying-property-romania.html\">foreign buyers guide</a>).</li><li><strong>5. The deed and registration.</strong> The notary requests the blocking extract, authenticates the deed, and lodges the registration; you own the property fully when the land book shows your name — verify the final extract, not just the signing ceremony.</li><li><strong>6. Take possession measurably.</strong> Have the boundary <a href=\"/en/services/building-stakeout.html\">staked out</a> from the registered coordinates before fencing or building — the cheapest boundary dispute is the one prevented.</li></ul>"
+    },
+    {
+      "type": "html",
+      "heading": "Where buyers get burned",
+      "html": "<p>The recurring failure patterns we see: paying deposits on unregistered land with \"registration coming soon\"; buying a share of co-owned land believing it was a defined parcel; discovering the measured area is smaller than the paid-for deed area; inheriting an unresolved overlap with the neighbour's registration; and buildings on the land that legally do not exist because they were never registered — or worse, were never permitted. Every one of these is detectable before signing, for a fraction of the deposit at stake.</p><p>Our role in your purchase is the technical half: extracts obtained and read, ground verified, discrepancies documented, and after the sale, the registration and stakeout that convert your deed into defensible reality. The legal half — deed terms, warranties, payment mechanics — belongs to your notary and lawyer, with whom we coordinate directly.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Do I need to be in Romania to buy land?",
+          "a": "No. Purchases are routinely completed under notarized power of attorney, with your Romanian lawyer or a trusted representative signing. Our part — verification, surveys, registration follow-up — needs no presence from you at all; findings arrive by WhatsApp and email in English."
+        },
+        {
+          "q": "How long does a safe purchase take?",
+          "a": "On registered land with clean books: the diligence takes days, and the notarial process weeks. Unregistered land adds the first-registration timeline; agricultural extravilan land adds the statutory pre-emption procedure, which runs on legally fixed clocks. The calendar is knowable in advance — ask before you promise anyone a closing date."
+        },
+        {
+          "q": "What does the verification stage cost?",
+          "a": "The desk verification is a small fixed-scope fee; adding field measurement depends on parcel size and location. Both together are typically well under one percent of any serious land deal — see the cost guide for orientation."
+        }
+      ]
+    }
+  ],
+  "related": [
+    "/en/guides/foreigners-buying-property-romania.html",
+    "/en/guides/agricultural-land-preemption-romania.html",
+    "/en/guides/romanian-land-registry-explained.html",
+    "/en/solar/land-due-diligence-survey-romania.html",
+    "/en/guides/land-survey-cost-romania.html"
+  ]
+}

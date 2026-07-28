@@ -1,0 +1,72 @@
+{
+  "slug": "acte-teren-tineri-fermieri-afir",
+  "title": "Instalarea tinerilor fermieri: ce acte de teren îți cere AFIR | Expert Intabulare",
+  "h1": "Tineri fermieri (AFIR): actele de teren de care ai nevoie, pas cu pas",
+  "metaDescription": "DR-12 și instalarea tinerilor fermieri: extras CF, arendă, moștenire nedezbătută, intabulare la timp pentru sesiunea AFIR 2026. Timeline realist de la topograf.",
+  "whatsappTopic": "acte de teren pentru proiect tânăr fermier AFIR",
+  "hook": "deadline",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Cazul tipic: ferma vine din familie, actele nu",
+      "html": "<p>Scenariul pe care îl vedem cel mai des la tinerii fermieri din zona Aiud–Ocna Mureș–Teiuș: exploatația se construiește pe terenurile bunicilor. O parte au titlu de proprietate din anii '90 (Legea 18/1991), o parte sunt „la tarla”, identificate doar în registrul agricol, iar succesiunea după bunic nu a fost dezbătută niciodată. Pentru muncă la câmp, asta nu a deranjat pe nimeni 30 de ani. Pentru un dosar AFIR, fiecare dintre aceste situații este un blocaj cu termen de rezolvare propriu.</p><p>În 2026, intervențiile pentru tineri (instalare și consolidare — de exemplu <strong>DR-12, cu sprijin de până la 200.000 de euro și sesiune lansată în ianuarie 2026</strong>) cer dovada că exploatația există legal: teren în proprietate, arendă înregistrată sau alt drept de folosință valid, înscris acolo unde ghidul o cere. Diferența dintre un dosar depus liniștit și unul ratat este aproape întotdeauna <strong>calendarul</strong>: actele de teren se rezolvă în săptămâni sau luni, iar sesiunile nu așteaptă.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Situația terenului vs. timpul realist de rezolvare",
+      "head": ["Situația de la care pleci", "Ce trebuie făcut", "Durată realistă"],
+      "rows": [
+        ["Teren cu CF la zi, pe numele tău", "Doar extras CF recent la depunere", "Zile"],
+        ["Teren al părinților, cu CF", "Donație / arendă / comodat la notar + înscriere în CF", "1–3 săptămâni"],
+        ["Titlu de proprietate, fără cadastru", "Documentație cadastrală de primă înscriere + intabulare", "Orientativ 4–8 săptămâni, cu acte complete"],
+        ["Moștenire nedezbătută", "Succesiune la notar, apoi cadastru și intabulare", "De la câteva săptămâni la câteva luni, în funcție de moștenitori"],
+        ["Teren „în tarla”, fără identificare certă", "Identificare pe plan parcelar, apoi documentație cadastrală", "Variabil — se stabilește după verificarea la OCPI și primărie"]
+      ]
+    },
+    {
+      "type": "process",
+      "heading": "Planul de lucru pe care îl recomandăm",
+      "steps": [
+        { "title": "Inventarul actelor (săptămâna 1)", "text": "Strângi tot ce există: titluri de proprietate, contracte, certificate de moștenitor, extrase vechi. Ne trimiți pozele pe WhatsApp — îți spunem pentru fiecare parcelă în ce categorie de mai sus se încadrează." },
+        { "title": "Succesiunea, dacă e cazul", "text": "Pornește imediat la notar — este pasul pe care noi nu îl putem accelera. În paralel pregătim identificarea parcelelor și măsurătorile, ca la finalul succesiunii documentația cadastrală să fie gata de depus." },
+        { "title": "Cadastru și intabulare", "text": "Măsurăm, întocmim documentațiile de primă înscriere și le depunem la OCPI. Termenul oficial de soluționare pentru prima înscriere este de ordinul a 15 zile lucrătoare de la depunere, la care se adaugă timpul de teren și de pregătire a dosarului." },
+        { "title": "Extrasele finale, aproape de depunere", "text": "Extrasul CF de informare se scoate în ultimele 30 de zile înainte de depunerea proiectului, ca să fie în termen. Tot acum se emite extrasul de plan cadastral pe ortofotoplan, dacă ghidul îl cere." }
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Pot depune proiectul cu terenul încă pe numele părinților?", "a": "Pentru unele componente ghidul acceptă arenda sau comodatul înregistrat, pentru altele se cere drept de proprietate sau superficie — mai ales dacă se construiește. Citim împreună cu consultantul tău exact ce scrie în ghidul sesiunii și alegem varianta cea mai rapidă care e și eligibilă." },
+        { "q": "Succesiunea durează luni. Are rost să mai încerc pentru sesiunea din acest an?", "a": "Uneori da: dacă moștenitorii se înțeleg și actele sunt complete, o succesiune se poate încheia în câteva săptămâni, iar noi lucrăm cadastrul în paralel. Alteori e mai înțelept să țintești sesiunea următoare cu dosar complet decât să depui un dosar vulnerabil. Îți spunem sincer în care caz ești, după ce vedem actele." },
+        { "q": "Ce înseamnă „teren identificat în tarla” și de ce e o problemă?", "a": "Înseamnă că parcela există în acte (titlu, registru agricol) dar nu are un contur măsurat și înscris la OCPI. Până la identificarea ei pe planul parcelar și cadastrare, nu poți obține extras CF pe ea — deci nu o poți folosi ca dovadă în dosar." },
+        { "q": "Măsurați și exploatații întregi, cu zeci de parcele?", "a": "Da — și recomandăm abordarea etapizată: întâi parcelele critice pentru dosar (sediul exploatației, terenul unde se construiește), apoi restul, în ritmul bugetului. Nu are rost să cadastrezi 40 de parcele înainte de depunere dacă dosarul are nevoie de 4." }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Cele trei capcane clasice ale dosarului de tânăr fermier",
+      "html": "<p><strong>Capcana 1: exploatația „pe hârtii amestecate”.</strong> O parte din parcele pe numele tău, o parte pe părinți, o parte pe bunicul decedat — iar dosarul cere o imagine juridică unitară a exploatației. Rezolvarea nu e „toate pe numele meu” cu orice preț: pentru multe parcele ajunge arenda înregistrată de la părinți, iar efortul de intabulare se concentrează doar unde se investește. Triajul corect economisește luni și mii de lei.</p><p><strong>Capcana 2: sediul exploatației improvizat.</strong> Adresa exploatației și locul investiției trebuie susținute de acte reale; o „magazie a familiei” fără forme nu ține loc de sediu pentru construcții finanțate. Dacă planul include utilaje adăpostite sau spații amenajate, verifică din prima zi regimul clădirii-suport.</p><p><strong>Capcana 3: calendarul optimist.</strong> Tinerii fermieri sunt, statistic, cei mai grăbiți solicitanți — și cei mai loviți de termenele succesiunilor. Regula pe care o repetăm: dacă în lanțul actelor apare un deces nedezbătut, calendarul îl dictează notarul și moștenitorii, nu topograful și nu consultantul. Tot ce putem face noi — și facem — este să pregătim partea cadastrală în paralel, astfel încât în ziua certificatului de moștenitor dosarul OCPI să plece spre soluționare, nu spre început.</p>"
+    },
+    {
+      "type": "cta",
+      "heading": "Vrei să prinzi sesiunea cu actele în regulă?",
+      "text": "Trimite-ne pe WhatsApp poze cu actele terenurilor și data sesiunii AFIR — facem gratuit triajul parcelelor și îți dăm calendarul realist de intabulare."
+    }
+  ],
+  "related": [
+    "documentatie-topografica-afir",
+    "intabulare-teren-agricol-fonduri-europene",
+    "teren-indiviziune-fonduri-europene",
+    "cat-dureaza-intabularea",
+    "intabulare-teren-hotarare-consiliu-local",
+    "extras-plan-cadastral-ortofotoplan",
+    "/servicii/intabulare-teren/",
+    "/dictionar/tarla.html"
+  ],
+  "sources": [
+    "https://www.afir.ro/",
+    "https://www.madr.ro/comunicare/a-fost-publicat-calendarul-estimativ-al-lansarilor-interventiilor-din-pilonul-ii-al-planului-strategic-pac-2023-2027.html"
+  ]
+}

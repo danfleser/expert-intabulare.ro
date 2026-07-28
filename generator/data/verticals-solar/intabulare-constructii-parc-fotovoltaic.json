@@ -1,0 +1,76 @@
+{
+  "slug": "intabulare-constructii-parc-fotovoltaic",
+  "title": "Intabularea construcțiilor din parcul fotovoltaic — ce se înscrie în CF și ce nu",
+  "h1": "Intabularea construcțiilor din parc: panourile nu se înscriu în CF — stația da",
+  "metaDescription": "Intabulare construcții parc fotovoltaic: panourile nu se înscriu în CF (bunuri mobile), dar stația de transformare, clădirea tehnică și împrejmuirea da. Cum procedezi.",
+  "whatsappTopic": "intabularea construcțiilor dintr-un parc fotovoltaic",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Răspunsul direct: ce intră în cartea funciară dintr-un parc fotovoltaic",
+      "html": "<p>Întrebarea vine aproape identic de la fiecare dezvoltator ajuns la finalul execuției: „trebuie să intabulăm panourile?\". Nu. Panourile fotovoltaice nu se intabulează — sunt bunuri mobile, echipamente montate pe structuri, la fel ca invertoarele. În schimb, construcțiile propriu-zise din parc se înscriu în cartea funciară pe baza unei documentații cadastrale: stația de transformare, clădirea tehnică și, unde e cazul, împrejmuirea.</p><p>Distincția nu e un moft juridic. Cartea funciară care reflectă corect ce s-a construit pe teren e cerută în practică de finanțator la refinanțare, contează la recepția lucrărilor și la punerea în funcțiune și clarifică regimul juridic al construcțiilor față de proprietarul terenului atunci când parcul stă pe superficie. Mai jos: exact ce se înscrie, cu ce acte și în ce moment al proiectului. Iar dacă vrei răspunsul aplicat pe parcul tău, trimite-ne extrasul CF pe WhatsApp și îți spunem în aceeași zi ce construcții sunt de intabulat și ce documentație presupune fiecare.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Ce se intabulează și ce nu",
+      "head": ["Element din parc", "Se înscrie în CF?", "Observații"],
+      "rows": [
+        ["Panouri fotovoltaice și invertoare", "Nu", "bunuri mobile / echipamente; rămân în evidențele contabile, nu în cartea funciară"],
+        ["Stația de transformare", "Da", "construcție; se înscrie pe baza documentației cadastrale recepționate de OCPI"],
+        ["Clădirea tehnică (cameră de comandă, depozit)", "Da", "construcție; aceeași procedură de documentație cadastrală"],
+        ["Împrejmuirea parcului", "Da, unde e cazul", "se analizează de la caz la caz, împreună cu actele de autorizare"],
+        ["Drumurile interne și platformele", "Nu ca imobile separate", "apar pe planuri și în documentația as-built, ca amenajări ale terenului"]
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "De ce contează: banca, recepția și superficia",
+      "html": "<p>Trei motive fac din intabularea construcțiilor un pas obligatoriu de calendar, nu o opțiune de „când vom avea timp\". Primul: finanțatorul. La refinanțarea proiectului sau la garantarea creditului, banca cere o situație juridică completă — iar un parc funcțional ale cărui construcții nu apar nicăieri în CF e o situație juridică incompletă. Al doilea: la finalizarea lucrărilor, documentația as-built a amplasamentului e cerută la recepție și punere în funcțiune și e utilă la licențierea ANRE și la refinanțare — iar <a href=\"/parcuri-fotovoltaice/as-built-parc-fotovoltaic.html\">as-built-ul</a> și documentația cadastrală de intabulare se întocmesc cel mai eficient din aceeași măsurătoare finală.</p><p>Al treilea motiv: superficia. Majoritatea parcurilor stau pe teren folosit în baza unui drept de superficie — care se poate constitui până la 99 de ani și se înscrie în cartea funciară, fiind formula pe care finanțatorii o preferă în locul arendei. Când construcțiile operatorului sunt intabulate corect, raportul dintre proprietarul terenului și proprietarul construcțiilor e vizibil în CF pentru orice terț: bancă, cumpărător al proiectului, asigurător. Detalii pe pagina despre <a href=\"/parcuri-fotovoltaice/superficie-parc-fotovoltaic.html\">superficia pentru parcuri fotovoltaice</a>.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Cum decurge documentația cadastrală de înscriere",
+      "html": "<p>Intabularea construcțiilor urmează regulile din Ordinul ANCPI nr. 700/2014: topograful autorizat măsoară construcțiile finalizate — amprenta la sol, poziția în Stereo 70, raportarea la limitele imobilului — și întocmește documentația cadastrală, care se depune la OCPI împreună cu actele privind edificarea; de regulă, autorizația de construire și procesul-verbal de recepție. După recepția documentației, construcțiile se înscriu în cartea funciară a imobilului.</p><p>Momentul potrivit e imediat după recepția la terminarea lucrărilor, când echipa e încă mobilizată pe amplasament: combinăm măsurătorile pentru as-built cu cele pentru documentația cadastrală într-o singură deplasare. Dacă terenul are mai multe cărți funciare — situație frecventă la parcurile asamblate din <a href=\"/parcuri-fotovoltaice/alipire-parcele-teren.html\">parcele alipite</a> sau parțial alipite — stabilim de la început în ce CF se înscrie fiecare construcție, ca să nu apară corecturi ulterioare.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Cu cine lucrăm și cum începem",
+      "html": "<p>Colaborăm cu dezvoltatori și constructori pe faza de finalizare a parcurilor: măsurătorile finale, documentația as-built, documentațiile cadastrale pentru construcții și actualizările de carte funciară aferente. Facem teren în Alba, Cluj, Mureș, Sibiu și Hunedoara; analiza actelor și consilierea pe situația juridică a construcțiilor le facem pentru proiecte din toată țara, pe documentele trimise.</p><p>Dacă parcul e deja construit iar CF-ul nu reflectă nimic din ce există pe teren, nu e un caz pierdut — e doar o restanță de documentație. Începem cu extrasul CF și cu actele de autorizare, stabilim lista construcțiilor de înscris și îți dăm un calendar pe etape, cu termene orientative pentru fiecare depunere.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Panourile chiar nu se înscriu nicăieri în cartea funciară?",
+          "a": "Nu se înscriu. Panourile și invertoarele sunt bunuri mobile — echipamente — și nu fac obiectul intabulării. În cartea funciară se înscriu construcțiile: stația de transformare, clădirea tehnică și, unde e cazul, împrejmuirea."
+        },
+        {
+          "q": "Când e momentul potrivit pentru intabularea construcțiilor?",
+          "a": "Imediat după recepția la terminarea lucrărilor, când există actele de edificare și echipa de topografie e oricum pe teren pentru as-built. Măsurătorile pentru cele două livrabile se fac într-o singură mobilizare, ceea ce reduce costul."
+        },
+        {
+          "q": "Parcul stă pe superficie. Cine cere intabularea construcțiilor?",
+          "a": "În practică, finanțatorul — banca cere de regulă superficie înscrisă în CF, nu arendă, iar la refinanțare vrea situația completă a construcțiilor. Intabularea clarifică pentru orice terț raportul dintre proprietarul terenului și operatorul care deține construcțiile."
+        },
+        {
+          "q": "Ce acte îmi trebuie pentru documentația cadastrală?",
+          "a": "De regulă: extrasul CF al imobilului, autorizația de construire și procesul-verbal de recepție, plus eventualele planuri din proiect. Trimite-le pe WhatsApp și îți confirmăm lista exactă pentru cazul tău, împreună cu o ofertă pe etape."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/as-built-parc-fotovoltaic.html", "label": "Documentația as-built a parcului" },
+    { "href": "/parcuri-fotovoltaice/superficie-parc-fotovoltaic.html", "label": "Superficie pentru parc fotovoltaic" },
+    { "href": "/parcuri-fotovoltaice/intabulare-teren-parc-fotovoltaic.html", "label": "Intabularea terenului pentru parc fotovoltaic" },
+    { "href": "/parcuri-fotovoltaice/alipire-parcele-teren.html", "label": "Alipirea parcelelor de teren" },
+    { "href": "/servicii/intabulare-casa-constructie/", "label": "Intabulare construcții — serviciul de bază" },
+    { "href": "/dictionar/intabulare.html", "label": "Dicționar: intabulare" }
+  ],
+  "sources": [
+    { "url": "https://legislatie.just.ro/Public/DetaliiDocument/160177", "title": "Ordinul ANCPI nr. 700/2014 — regulamentul de avizare, recepție și înscriere" },
+    { "url": "https://veltol-energy.ro/conditii-de-infiintare-pentru-un-parc-fotovoltaic-etape-documente-si-autorizatii-necesare/", "title": "Etape și autorizații pentru înființarea unui parc fotovoltaic (context recepție/PIF)" }
+  ]
+}

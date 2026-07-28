@@ -1,0 +1,66 @@
+{
+  "slug": "checklist-teren-statie-incarcare",
+  "title": "Checklist teren: stație de reîncărcare vehicule electrice pe fonduri | Expert Intabulare",
+  "h1": "Checklist de teren pentru stațiile de reîncărcare a vehiculelor electrice",
+  "metaDescription": "Stații de încărcare EV pe fonduri (AFM, programe naționale): plan de situație, racord, dovada terenului, avize. Checklist de amplasament de la topograf ANCPI.",
+  "whatsappTopic": "documentație de amplasament pentru stație de încărcare EV",
+  "hook": "deadline",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "O investiție mică, cu dosar de investiție mare",
+      "html": "<p>Stațiile de reîncărcare au fost finanțate în ultimii ani pe mai multe canale — programele AFM pentru UAT-uri și companii, componenta de infrastructură din PNRR (aflată în 2026 la final de implementare), Electric-Up pentru IMM-uri (stația alături de fotovoltaice) — iar schemele de sprijin continuă să apară, pentru că țintele de infrastructură de încărcare ale României sunt departe de a fi atinse. Verifică sursa oficială a fiecărei scheme (afm.ro, energie.gov.ro) pentru sesiunile active la zi.</p><p>Capcana acestor proiecte: investiția pare mică — niște stâlpi de încărcare și un pic de asfalt — dar dosarul de amplasament e de investiție serioasă: dovada terenului, plan de situație, aviz de racordare, autorizare. Iar la stații, <strong>amplasamentul este proiectul</strong>: fără loc bun cu racord fezabil, restul nu contează.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Checklist: amplasamentul stației de încărcare",
+      "items": [
+        "Dovada terenului: proprietate/superficie/concesiune înscrisă pentru privat; imobil în inventar + CF pentru UAT — parcarea publică vizată trebuie să fie, cadastral, a comunei",
+        "Poziția stației pe planul de situație: locuri de parcare aferente, circulații, raze de manevră — conform cerințelor programului și normelor tehnice",
+        "RACORDUL: distanța reală până la punctul de conexiune și capacitatea disponibilă în zonă — cerute prin aviz tehnic de racordare (ATR) de la distribuitor; traseul se măsoară, nu se estimează",
+        "Traseul de cablu pe teren propriu sau public: traversările pe terenuri terțe cer servitute înscrisă în CF",
+        "Regimul urbanistic: stația și eventuala copertină pot cere autorizare — certificatul de urbanism lămurește; parcările publice pot avea nevoie de HCL",
+        "Construcții și rețele existente în zona lucrării, poziționate în planul topografic — săpăturile pentru cablu „descoperă” tot ce nu e pe plan",
+        "La UAT-uri: terenul parcării intabulat pe domeniul public — multe parcări comunale nu sunt; verificarea durează o zi",
+        "Extras CF recent la depunere, ca la orice dosar"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Racordul: partea de proiect care se măsoară cu banii",
+      "html": "<p>La stațiile de putere mare (DC rapid), fezabilitatea economică stă în două cifre pe care le stabilește realitatea, nu broșura: <strong>distanța până la punctul de racordare cu capacitate suficientă</strong> și <strong>costul traseului</strong> (săpătură, subtraversări, refaceri de carosabil). Ambele se determină pe măsurători: ridicarea topografică a traseului de racord, cu profilul terenului, rețelele existente și natura suprafețelor traversate, este documentul pe care proiectantul de rețea și distribuitorul își fundamentează soluția din ATR. Am văzut proiecte de stații abandonate după semnarea contractului de finanțare pentru că traseul real de racord costa cât toată stația — o măsurătoare de o zi, făcută înainte de depunere, ar fi mutat stația cu 200 de metri și ar fi salvat proiectul.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Primăria vrea stații în parcarea din centru. De unde începem?", "a": "De la cadastru: parcarea e intabulată pe domeniul public? Dacă nu, prima înscriere e pasul zero. În paralel, cererea de ATR la distribuitor pentru puterea dorită — răspunsul lui decide dacă parcarea din centru e și parcarea potrivită." },
+        { "q": "Firma noastră vrea stație în parcarea proprie, cu Electric-Up sau alt program. Ce ne trebuie de la voi?", "a": "De regulă: plan de situație cu poziția stației și a locurilor de parcare, ridicarea traseului de racord dacă iese din incintă și, dacă se autorizează construcții (copertină, cabină), planul topografic vizat OCPI. Plus verificarea ca terenul și clădirile din incintă să fie corect intabulate — condiția oricărui dosar." },
+        { "q": "Stația se pune pe teren închiriat de la un terț. Merge?", "a": "Chiria simplă e fragilă la evaluare și la autorizare — preferabile sunt superficia sau concesiunea înscrise în CF, pe durata cerută de program. Aceeași logică din toate paginile noastre despre drepturi: ce nu e înscris nu există pentru evaluator." },
+        { "q": "Cablul trebuie să traverseze drumul județean. Cine se ocupă?", "a": "Soluția tehnică (subtraversare) o face proiectantul de rețea cu avizul administratorului de drum; noi livrăm măsurătorile traseului și profilele necesare documentației de aviz. La traversări de proprietăți private, adăugăm documentația de servitute pentru CF." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Amplasament de stație în evaluare?",
+      "text": "Trimite-ne pe WhatsApp locația vizată (adresă sau pin) și puterea dorită — verificăm situația cadastrală și măsurăm traseul de racord înainte să te coste scump."
+    }
+  ],
+  "related": [
+    "electric-up-documentatie-necesara",
+    "checklist-teren-primarie-uat",
+    "plan-de-situatie-certificat-urbanism",
+    "drept-de-superficie-fonduri-europene",
+    "arenda-comodat-concesiune-finantare",
+    "plan-topografic-vizat-ocpi",
+    "/parcuri-fotovoltaice/",
+    "/servicii/topografie-constructii/",
+    "/dictionar/carte-funciara.html"
+  ],
+  "sources": [
+    "https://www.afm.ro/",
+    "https://energie.gov.ro/",
+    "https://mfe.gov.ro/pnrr/"
+  ]
+}

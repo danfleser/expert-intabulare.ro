@@ -1,0 +1,76 @@
+{
+  "slug": "extindere-parc-fotovoltaic-masuratori",
+  "title": "Măsurători pentru extinderea unui parc fotovoltaic existent",
+  "h1": "Extinderea parcului fotovoltaic: măsurători pentru situația existentă și terenul nou",
+  "metaDescription": "Măsurători pentru extinderea sau repowering-ul unui parc fotovoltaic: as-built al situației existente, studiu topografic pe terenul nou, o singură referință.",
+  "whatsappTopic": "măsurători pentru extinderea unui parc fotovoltaic existent",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Parcul există, documentația lui adesea nu",
+      "html": "<p>Multe dintre parcurile construite în valul 2010–2013 ajung acum la momentul extinderii sau al repowering-ului: teren disponibil alături, capacitate de racordare de valorificat, echipamente de înlocuit. Problema pe care o găsim aproape de fiecare dată: documentația topografică a parcului existent lipsește, e incompletă sau nu mai corespunde realității — construit diferit față de proiect, modificări făcute în operare, arhive pierdute odată cu schimbarea proprietarului.</p><p>Pentru extindere ai nevoie de două lucruri, în această ordine: o imagine exactă a ceea ce există — parc, racord, împrejmuire, drumuri, stație — și o măsurătoare completă a terenului nou, legate amândouă de aceeași referință de coordonate. Noi le livrăm ca un singur proiect: <a href=\"/parcuri-fotovoltaice/as-built-parc-fotovoltaic.html\">as-built-ul situației existente</a> plus <a href=\"/parcuri-fotovoltaice/studiu-topografic-parc-fotovoltaic.html\">studiul topografic al extinderii</a>, în Stereo 70, gata de pus în fața proiectantului.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Pasul 1: reconstituirea situației existente",
+      "html": "<p>Măsurăm parcul funcțional așa cum e: rândurile de structuri, drumurile interne, împrejmuirea, stația de transformare și clădirile tehnice, traseele vizibile de cabluri, punctul de conexiune. Rezultatul e un plan al situației existente pe care proiectantul extinderii se poate baza — unde sunt rezervele de spațiu, pe unde poate trece noul traseu de cabluri, unde se poate lega noua zonă de drumurile existente.</p><p>Tot acum verificăm partea cadastrală: limitele reale ale parcului față de cele din cartea funciară, dacă împrejmuirea calcă pe vecini, dacă construcțiile din incintă — stația, clădirea tehnică — sunt <a href=\"/parcuri-fotovoltaice/intabulare-constructii-parc-fotovoltaic.html\">intabulate</a>. Aceste verificări contează dublu la extindere, pentru că orice finanțare nouă redeschide due diligence-ul pe întregul activ, nu doar pe partea nouă.</p><p>Racordul existent primește atenție separată: măsurăm poziția reală a traseului de evacuare și a punctului de conexiune, pentru că de ele depinde unde și cum se poate lega capacitatea nouă. Dacă extinderea cere modificarea racordului sau un traseu suplimentar, coridorul nou se măsoară din aceeași mobilizare — iar discuția cu operatorul de rețea pornește de la date reale, nu de la scheme vechi.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Pasul 2: terenul extinderii, tratat ca un proiect nou",
+      "html": "<p>Terenul nou parcurge același drum tehnic ca orice amplasament fotovoltaic: studiu topografic cu model digital al terenului, analiza pantelor, situația cadastrală pusă la punct. Dacă extinderea se face pe mai multe parcele cumpărate separat, intră în discuție <a href=\"/parcuri-fotovoltaice/alipire-parcele-teren.html\">alipirea lor</a>; dacă terenul e agricol extravilan, verificăm din start condițiile pentru <a href=\"/parcuri-fotovoltaice/scoatere-din-circuit-agricol-fotovoltaic.html\">scoaterea din circuitul agricol</a> — regimul juridic al terenului nou poate decide calendarul întregii extinderi, așa că e primul lucru de clarificat, nu ultimul.</p><p>Avantajul practic al unui singur topograf pe ambele zone: extinderea se proiectează în același sistem de referință cu parcul existent, deci racordurile între drumuri, împrejmuiri și trasee de cabluri se potrivesc pe teren, nu doar pe planșă.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Ce clarificăm înainte de ofertă — întrebările pe care ți le punem",
+      "items": [
+        "Există documentația topografică și cadastrală a parcului existent, sau o reconstituim din măsurători?",
+        "Terenul extinderii e intabulat, cu limite verificate pe teren, sau are situație cadastrală de rezolvat?",
+        "Extinderea folosește racordul existent sau presupune un traseu nou de evacuare, cu măsurători pe coridor?",
+        "Construcțiile existente din incintă sunt înscrise în cartea funciară?",
+        "Ce soft folosește proiectantul extinderii, ca să livrăm datele direct în formatul lui?"
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "Livrabile și cum începem",
+      "html": "<p>La final ai un pachet coerent: planul situației existente, studiul topografic al terenului nou cu MDT și curbe de nivel, situația cadastrală clarificată pentru ambele zone și fișierele de proiectare în <a href=\"/parcuri-fotovoltaice/date-topografice-format-proiectare.html\">formatul cerut de proiectant</a>. Dacă traseul de evacuare se schimbă, adăugăm <a href=\"/parcuri-fotovoltaice/ridicare-topografica-racord-electric.html\">ridicarea coridorului de racordare</a> din aceeași mobilizare.</p><p>Colaborăm cu dezvoltatori și constructori și pe parcuri în operare, cu program de lucru care nu încurcă producția — accesul în incintă și regulile de securitate le stabilim cu operatorul parcului. Trimite-ne pe WhatsApp extrasul CF al parcului și al terenului vizat pentru extindere — îți spunem în aceeași zi ce documentație există în evidențe, ce lipsește și cu ce pas are sens să începi.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Nu avem nicio documentație de la construcția parcului. E o problemă?",
+          "a": "E o situație frecventă la parcurile care au schimbat proprietarul, nu un blocaj. Reconstituim situația existentă prin măsurători directe și din evidențele OCPI; durează câteva zile de teren și birou în plus, dar rezultatul e mai fiabil decât o arhivă veche care oricum ar fi trebuit verificată."
+        },
+        {
+          "q": "Putem măsura fără să oprim parcul?",
+          "a": "Da. Măsurătorile topografice nu presupun intervenții la echipamente; respectăm regulile de acces și securitate ale operatorului și programăm lucrările împreună cu el. Pentru zonele cu restricții folosim măsurători de la distanță cu stația totală."
+        },
+        {
+          "q": "Terenul de extindere e agricol. Ne blochează asta?",
+          "a": "Depinde de clasa de fertilitate, categoria de folosință și suprafață — regulile pentru scoaterea din circuitul agricol au condiții precise și o fereastră legislativă cu termen. Verificăm situația concretă a terenului tău înainte să investești în proiectare."
+        },
+        {
+          "q": "Cât durează măsurătorile pe un parc existent plus terenul nou?",
+          "a": "Orientativ, câteva zile de teren pentru un parc de dimensiune medie cu extindere comparabilă — parcul existent se măsoară repede, pentru că elementele sunt clare — și încă o săptămână-două de birou pentru planuri, MDT și verificările cadastrale. Termenul ferm îl primești în ofertă, pe situația ta concretă."
+        },
+        {
+          "q": "Faceți și partea de repowering pe echipamente?",
+          "a": "Nu — echipamentele sunt treaba inginerilor de specialitate. Noi livrăm suportul topografic și cadastral: situația existentă, terenul nou, trasările pentru noile structuri și as-built-ul final."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/as-built-parc-fotovoltaic.html", "label": "Documentație as-built pentru parcuri existente" },
+    { "href": "/parcuri-fotovoltaice/studiu-topografic-parc-fotovoltaic.html", "label": "Studiu topografic pentru terenul nou" },
+    { "href": "/parcuri-fotovoltaice/alipire-parcele-teren.html", "label": "Alipirea parcelelor cumpărate separat" },
+    { "href": "/parcuri-fotovoltaice/intabulare-constructii-parc-fotovoltaic.html", "label": "Intabularea construcțiilor din parc" },
+    { "href": "/servicii/topografie-constructii/", "label": "Topografie pentru construcții" },
+    { "href": "/dictionar/as-built.html", "label": "Dicționar: as-built" }
+  ],
+  "sources": []
+}

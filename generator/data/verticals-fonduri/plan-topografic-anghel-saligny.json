@@ -1,0 +1,67 @@
+{
+  "slug": "plan-topografic-anghel-saligny",
+  "title": "Anghel Saligny: planuri topografice vizate OCPI pentru UAT-uri | Expert Intabulare",
+  "h1": "Programul Anghel Saligny: planuri topografice vizate OCPI pentru primării",
+  "metaDescription": "Planuri topografice pentru drumuri, apă și canalizare pe programul Anghel Saligny: Stereo 70, formate DXF/SHP, viza OCPI. Situația 2026 pentru UAT-uri. Alba.",
+  "whatsappTopic": "plan topografic pentru proiect Anghel Saligny",
+  "hook": "deadline",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Un program național cu exigențe de fonduri europene",
+      "html": "<p>Programul Național de Investiții „Anghel Saligny” nu este finanțat din fonduri europene — banii vin de la bugetul de stat, prin Ministerul Dezvoltării — dar pentru primării funcționează după aceeași logică: documentații tehnico-economice conform HG 907/2016, avize, autorizații și decontări pe stadii fizice. În 2026 programul continuă cu un buget de aproximativ 6 miliarde de lei, cu două schimbări importante pentru UAT-uri: <strong>prioritate la finanțare pentru proiectele aflate în execuție avansată</strong> și <strong>termen-limită de 31 decembrie 2026 pentru semnarea contractelor de finanțare</strong> — obiectivele fără contract semnat până atunci ies de pe listă.</p><p>Pentru investițiile tipice — drumuri comunale, poduri, rețele de apă și canalizare, extinderi de rețele de gaze — documentația topografică este coloana vertebrală a proiectului: pe ea se trasează axul drumului, se calculează pantele de scurgere ale canalizării și se poziționează căminele. O ridicare topografică slabă se plătește de trei ori: la proiectare, la execuție și la recepție.</p>"
+    },
+    {
+      "type": "paragraph",
+      "heading": "Specificul lucrărilor liniare pentru UAT-uri",
+      "html": "<p>La drumuri și rețele, măsurătorile diferă fundamental de cele pentru o clădire:</p><ul><li><strong>Coridorul de studiu</strong> — se măsoară o bandă de-a lungul traseului (uzual 25–50 m lățime), cu toate detaliile: limite de proprietate, garduri, podețe, stâlpi, cămine existente, intrări în curți.</li><li><strong>Profile longitudinale și transversale</strong> — proiectantul de drum sau de rețea lucrează pe cote; densitatea și precizia punctelor de nivelment fac diferența între un deviz corect și unul explodat la execuție.</li><li><strong>Sistem de coordonate Stereo 70 și cote în sistem Marea Neagră 1975</strong> — obligatorii pentru avizarea OCPI și pentru integrarea cu alte proiecte ale UAT-ului.</li><li><strong>Formate de predare</strong> — pe lângă PDF-ul vizat OCPI, primăriile și proiectanții primesc DWG/DXF, iar la cerere shapefile (SHP) pentru GIS-ul local și LandXML pentru software-ul de proiectare drumuri.</li></ul><p>Un punct sensibil, specific comunelor: <strong>regimul juridic al drumului</strong>. Multe drumuri comunale nu sunt intabulate pe domeniul public al UAT-ului, iar la avizare sau la recepție lipsa asta iese la iveală. Prima înscriere a drumurilor pe baza inventarului domeniului public se poate face în paralel cu proiectarea — nu lăsați pe ultima sută de metri.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Dosarul topografic al unei investiții Anghel Saligny",
+      "items": [
+        "Ridicare topografică pe coridorul traseului, vizată OCPI, în Stereo 70",
+        "Profile longitudinale și transversale la densitatea cerută de proiectant",
+        "Inventarul de coordonate al axului și al punctelor caracteristice",
+        "Situația juridică a terenurilor traversate: domeniu public intabulat, acorduri pentru terenuri private",
+        "Predare în PDF + DWG/DXF + SHP, conform cerințelor proiectantului și ale ministerului",
+        "La execuție: trasarea axului și a căminelor; la final: as-built pentru cartea tehnică și recepție"
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Ce se întâmplă cu proiectele Anghel Saligny fără contract semnat în 2026?", "a": "Conform regulilor anunțate pentru 2026, obiectivele de investiții pentru care nu se semnează contractul de finanțare până la 31 decembrie 2026 sunt eliminate din lista aprobată. Dacă proiectul comunei este blocat la documentație, fiecare săptămână contează." },
+        { "q": "Primăria are studiul topografic de acum 4 ani. Mai e bun?", "a": "Aproape sigur nu ca piesă unică: instituțiile cer plan „actualizat”, iar în 4 ani apar construcții noi, împrejmuiri mutate, rețele îngropate. De multe ori putem actualiza economic măsurătorile existente în loc să reluăm totul de la zero — evaluăm gratuit pe baza planului vechi." },
+        { "q": "Cine răspunde de exproprieri sau de acordurile cu proprietarii de pe traseu?", "a": "Decizia e a UAT-ului, dar noi livrăm exact piesele de care are nevoie: identificarea imobilelor afectate pe baza măsurătorilor, suprafețele de ocupare per proprietar și planurile parcelare de coridor. Cu ele, primăria poate negocia sau demara procedurile legale." },
+        { "q": "Lucrați cu proiectanții de drumuri sau direct cu primăria?", "a": "Ambele variante — colaborăm cu dezvoltatori, constructori și proiectanți, iar contractul poate fi cu UAT-ul sau cu proiectantul general. Important e să primim tema de proiectare devreme, ca să măsurăm coridorul corect din prima." }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Ocupările de teren pe traseu: partea nevăzută a proiectelor de rețele",
+      "html": "<p>La drumuri și mai ales la rețelele de apă-canal, o parte din lucrare iese inevitabil din amprenta domeniului public: un cămin care pică în capătul unei grădini, o subtraversare care taie colțul unei parcele private, o stație de pompare care are nevoie de 100 de metri pătrați „de la un localnic”. Juridic, fiecare astfel de punct cere o formă: acord autentic, servitute înscrisă în cartea funciară, cumpărare sau, în ultimă instanță, expropriere pentru cauză de utilitate publică — cu procedurile și despăgubirile aferente.</p><p>Partea topografică a acestui capitol este exact ce livrăm noi din măsurătorile de coridor: <strong>identificarea fiecărui imobil afectat</strong> (număr cadastral sau, la terenurile neînscrise, identificarea pe planul parcelar), <strong>suprafața de ocupare definitivă și temporară per proprietar</strong>, calculată pe conturul real al lucrării, și <strong>planurile anexă</strong> pentru actele notariale sau pentru documentația de expropriere. Primăriile care tratează acest capitol devreme — odată cu SF-ul, nu la autorizare — își scutesc proiectul de cea mai frecventă sursă de blocaj din investițiile liniare: proprietarul găsit târziu, care descoperă lucrarea când sapă excavatorul. Lista imobilelor afectate, produsă în faza de studiu, costă puțin și cumpără timp de negociere — resursa care lipsește întotdeauna la final.</p>"
+    },
+    {
+      "type": "cta",
+      "heading": "Comună cu proiect pe Anghel Saligny?",
+      "text": "Scrie-ne pe WhatsApp traseul investiției (drum, apă-canal) și stadiul proiectului — venim cu termen de măsurare și livrare pentru avizul OCPI."
+    }
+  ],
+  "related": [
+    "checklist-teren-primarie-uat",
+    "intabulare-teren-hotarare-consiliu-local",
+    "plan-topografic-vizat-ocpi",
+    "coordonate-stereo-70",
+    "formate-livrabile-plan-topografic",
+    "trasare-constructie-proces-verbal",
+    "/servicii/plan-topografic/",
+    "/dictionar/stereo-70.html"
+  ],
+  "sources": [
+    "https://www.mdlpa.ro/subarticles/8/anghelsaligny",
+    "https://www.dailybusiness.ro/stiri-interne/guvernul-stabileste-regulile-de-finantare-pentru-anghel-saligny-in-2026-prioritate-proiectelor-aflate-in-executie-avansata-531272/"
+  ]
+}

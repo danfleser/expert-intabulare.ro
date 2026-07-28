@@ -1,0 +1,68 @@
+{
+  "slug": "superficie-parc-fotovoltaic",
+  "title": "Superficie pentru parc fotovoltaic — documentație cadastrală, până la 99 de ani",
+  "h1": "Superficia: dreptul pe care îl cere banca, înscris în cartea funciară",
+  "metaDescription": "Superficie pentru parc fotovoltaic: constituire până la 99 de ani, înscriere în CF, documentația cadastrală necesară. De ce finanțatorii cer superficie.",
+  "whatsappTopic": "documentația cadastrală pentru un drept de superficie pe un teren de parc fotovoltaic",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "De ce superficia e vehiculul standard al proiectelor fotovoltaice",
+      "html": "<p>Un parc fotovoltaic trăiește 25–35 de ani pe un teren pe care, de multe ori, dezvoltatorul nu vrea sau nu poate să-l cumpere. Instrumentul juridic care face asta finanțabil este superficia: dreptul de a avea și exploata construcțiile tale pe terenul altuia, constituit prin act notarial pe o durată de până la 99 de ani și înscris în cartea funciară. Odată înscrisă, superficia e un drept real, opozabil oricui — inclusiv cumpărătorului terenului, dacă proprietarul îl vinde între timp — și, decisiv pentru finanțare, poate fi ipotecat.</p><p>Exact aici pierde arenda: contract, nu drept real, nu se poate ipoteca — motiv pentru care banca finanțatoare cere de regulă superficie înscrisă în CF, nu contract de arendă, oricât de lung. Comparația completă e pe pagina <a href=\"/parcuri-fotovoltaice/arenda-sau-superficie-parc-fotovoltaic.html\">arendă sau superficie</a>. Partea noastră din poveste: documentația cadastrală fără de care notarul și OCPI nu pot duce superficia până la înscriere.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Ce trebuie să fie în regulă înainte de actul de superficie",
+      "html": "<p>Superficia se înscrie asupra unui imobil identificat în cartea funciară — deci calitatea situației cadastrale decide dacă actul se poate semna și când:</p><ul><li><strong>Terenul trebuie să fie intabulat.</strong> Dacă nu e, întâi se parcurge <a href=\"/parcuri-fotovoltaice/intabulare-teren-parc-fotovoltaic.html\">prima înscriere</a> — pe terenuri cu acte vechi, acesta e drumul lung, nu actul în sine.</li><li><strong>Superficia pe o parte din parcelă cere de regulă dezlipire prealabilă.</strong> Dreptul se înscrie asupra imobilului întreg; dacă proiectul folosește doar o zonă, <a href=\"/parcuri-fotovoltaice/dezmembrare-teren-parcela.html\">dezmembrarea</a> creează lotul pe care se constituie superficia — și limitează redevența și sarcinile exact la suprafața utilă.</li><li><strong>Pe proiecte cu multe parcele</strong>, <a href=\"/parcuri-fotovoltaice/alipire-parcele-teren.html\">alipirea</a> într-un singur imobil simplifică radical înscrierea și administrarea ulterioară a dreptului.</li><li><strong>Limitele din CF trebuie să corespundă terenului.</strong> O nepotrivire descoperită de evaluatorul băncii după semnarea superficiei e o problemă a ta, plătită; aceeași nepotrivire descoperită de noi înainte e doar o corecție cadastrală.</li></ul>"
+    },
+    {
+      "type": "html",
+      "heading": "Fluxul complet, de la extras CF la drept înscris",
+      "html": "<p>Ordinea care funcționează: verificăm extrasul CF și evidențele OCPI, măsurăm terenul și confirmăm limitele, executăm operațiunile prealabile necesare — intabulare, dezlipire, alipire — cu documentații recepționate de OCPI conform Ordinului ANCPI nr. 700/2014, apoi juristul și notarul redactează și autentifică actul de constituire, iar superficia se înscrie în cartea funciară. Un detaliu de calendar care surprinde des: extrasul de carte funciară pentru autentificare e valabil 10 zile, deci ședința notarială se programează în fereastra lui, iar finanțatorii cer la rândul lor extrase de informare recente, uzual de maximum 30 de zile.</p><p>Durata superficiei o negociezi cu proprietarul — legea permite până la 99 de ani; în practică se aleg durate care acoperă confortabil viața proiectului plus perioada de finanțare. Redevența, indexările și clauzele de încetare sunt tema juristului; noi ne asigurăm că obiectul dreptului — terenul — e definit fără echivoc, cu limite măsurate, nu presupuse.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Ce verifică finanțatorul la due diligence — și cum treci din prima",
+      "html": "<p>Când proiectul ajunge la creditare sau la vânzare, consultanții băncii ori ai cumpărătorului verifică sistematic: superficia înscrisă în CF, pe toată suprafața proiectului, cu durata acoperitoare; concordanța dintre limitele imobilului și amplasarea reală a echipamentelor; construcțiile din parc — stația de transformare, clădirea tehnică — <a href=\"/parcuri-fotovoltaice/intabulare-constructii-parc-fotovoltaic.html\">intabulate</a> pe baza documentației cadastrale; lipsa sarcinilor care ar concura ipoteca. Fiecare punct din lista asta e o piesă cadastrală pe care o pregătim noi, iar un dosar curat scurtează due diligence-ul cu săptămâni.</p><p>Colaborăm cu dezvoltatori și constructori, dar și cu proprietari de teren care negociază superficii cu dezvoltatorii și vor să intre la masă cu situația cadastrală impecabilă. Trimite-ne extrasul CF pe WhatsApp și îți spunem în aceeași zi ce operațiuni prealabile cere terenul tău și în ce ordine.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Pe ce durată se constituie de regulă superficia pentru un parc fotovoltaic?",
+          "a": "Legea permite până la 99 de ani; în practică se negociază durate care acoperă viața tehnică a parcului și finanțarea — frecvent în zona a 30–49 de ani, uneori cu opțiuni de prelungire. Durata concretă e decizia părților și a finanțatorului."
+        },
+        {
+          "q": "De ce nu e suficientă o arendă pe 30 de ani?",
+          "a": "Pentru că arenda e un contract, nu un drept real: nu se poate ipoteca și nu oferă băncii poziția de garanție de care are nevoie. De aceea finanțatorii cer superficie înscrisă în cartea funciară, nu arendă."
+        },
+        {
+          "q": "Se poate constitui superficie doar pe jumătate din parcela proprietarului?",
+          "a": "Da, dar de regulă după dezlipirea acelei jumătăți într-un imobil separat, pentru că dreptul se înscrie asupra imobilului din CF. Dezmembrarea plus superficia se pot programa la notar în succesiune strânsă — pregătim documentația cadastrală pentru ambele."
+        },
+        {
+          "q": "Construcțiile parcului se înscriu tot pe superficie?",
+          "a": "Da — sensul superficiei e tocmai acesta: construcțiile tale pe terenul altuia. Panourile în sine nu se intabulează, fiind echipamente, dar stația de transformare, clădirea tehnică și celelalte construcții din parc se înscriu în cartea funciară pe baza documentației cadastrale, în beneficiul superficiarului."
+        },
+        {
+          "q": "Ce documente vă trebuie pentru a începe?",
+          "a": "Extrasul CF al terenului — sau măcar numărul cadastral și localitatea — plus, dacă există, planul de amplasament din documentația veche. Trimise pe WhatsApp, sunt suficiente pentru evaluarea inițială și oferta pe etape."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/arenda-sau-superficie-parc-fotovoltaic.html", "label": "Arendă sau superficie — comparația completă" },
+    { "href": "/parcuri-fotovoltaice/intabulare-teren-parc-fotovoltaic.html", "label": "Intabularea terenului — pasul prealabil" },
+    { "href": "/parcuri-fotovoltaice/dezmembrare-teren-parcela.html", "label": "Dezlipirea lotului de superficie" },
+    { "href": "/parcuri-fotovoltaice/intabulare-constructii-parc-fotovoltaic.html", "label": "Intabularea construcțiilor din parc" },
+    { "href": "/servicii/cadastru-si-intabulare/", "label": "Cadastru și intabulare — serviciul de bază" },
+    { "href": "/dictionar/superficie.html", "label": "Dicționar: superficie" }
+  ],
+  "sources": [
+    { "url": "https://legislatie.just.ro/Public/DetaliiDocument/160177", "title": "Ordinul ANCPI nr. 700/2014 — regulamentul de avizare, recepție și înscriere" }
+  ],
+  "enPair": "/en/solar/superficie-right-land-registration-solar.html"
+}

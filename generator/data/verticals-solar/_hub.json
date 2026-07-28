@@ -1,0 +1,72 @@
+{
+  "slug": "index",
+  "title": "Servicii topografice și cadastrale pentru parcuri fotovoltaice",
+  "h1": "Servicii topografice și cadastrale pentru parcuri fotovoltaice",
+  "metaDescription": "Topograf autorizat ANCPI pentru parcuri fotovoltaice: studiu topografic, trasare piloni, superficie, as-built. Alba, Cluj, Mureș, Sibiu, Hunedoara.",
+  "whatsappTopic": "servicii topografice pentru un parc fotovoltaic",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Topograful proiectului tău fotovoltaic, de la due diligence la as-built",
+      "html": "<p>Un parc fotovoltaic trece prin mâinile topografului de cel puțin cinci ori: la verificarea terenului înainte de achiziție, la documentația cadastrală pentru superficie sau intabulare, la studiul topografic vizat OCPI pentru autorizare, la trasarea piloniilor și a drumurilor în execuție și la documentația as-built de la recepție. Dacă aceste etape sunt făcute de echipe diferite, care nu își predau datele între ele, plătești de fiecare dată remobilizare, remăsurare și timp pierdut.</p><p>Noi acoperim întregul ciclu de viață al amplasamentului: măsurătorile din faza de due diligence devin baza modelului digital al terenului, modelul devine baza proiectării, iar rețeaua de sprijin materializată la prima vizită servește trasarea și as-built-ul de la final. Colaborăm cu dezvoltatori și constructori, lucrăm în sistemul național de coordonate Stereo 70 și predăm livrabilele în formatele cerute de proiectanți (dwg, dxf, LandXML, shp, GeoTIFF) și de instituții (documentații conform Ordinului ANCPI 700/2014).</p><p>Suntem în Aiud, județul Alba — în mijlocul Transilvaniei, unde se construiește masiv fotovoltaic. Facem teren în Alba, Cluj, Mureș, Sibiu și Hunedoara; verificările de carte funciară și due diligence pe acte le facem pentru amplasamente din toată țara, direct pe extrasul CF trimis pe WhatsApp.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Înainte de a cumpăra terenul: verificări care costă o fracțiune dintr-o greșeală",
+      "html": "<p>Cele mai scumpe probleme ale unui proiect fotovoltaic se semnează odată cu antecontractul. O <a href=\"/parcuri-fotovoltaice/verificare-suprapunere-cadastrala-teren.html\">suprapunere cadastrală</a> descoperită după plata avansului, o <a href=\"/parcuri-fotovoltaice/suprafata-teren-mai-mica-decat-in-acte.html\">suprafață reală mai mică decât cea din acte</a> sau un teren <a href=\"/parcuri-fotovoltaice/teren-neintabulat-parc-fotovoltaic.html\">neintabulat</a> pot amâna proiectul cu un an sau îl pot opri definitiv.</p><ul><li><a href=\"/parcuri-fotovoltaice/verificare-carte-funciara-cumparare-teren.html\">Verificare CF înainte de cumpărare</a> — sarcini, litigii, servituți existente, raport desk pentru orice județ.</li><li><a href=\"/parcuri-fotovoltaice/due-diligence-parc-fotovoltaic.html\">Due diligence topografic pentru proiecte ready-to-build</a> — re-verificăm documentația înainte să plătești prețul proiectului.</li><li><a href=\"/parcuri-fotovoltaice/cati-mw-pe-hectar-parc-fotovoltaic.html\">Câți MW încap pe teren</a> — suprafața utilă reală, din măsurătoare, nu din estimări.</li><li><a href=\"/parcuri-fotovoltaice/teren-ideal-parc-fotovoltaic-criterii.html\">Criteriile măsurabile ale terenului ideal</a> — checklist de achiziție.</li></ul>"
+    },
+    {
+      "type": "html",
+      "heading": "Cadastru și drepturi asupra terenului: fundația juridică a proiectului",
+      "html": "<p>Banca nu finanțează și ANRE nu licențiază un proiect așezat pe un teren cu situație juridică neclară. Pregătim documentațiile cadastrale pentru fiecare pas: <a href=\"/parcuri-fotovoltaice/intabulare-teren-parc-fotovoltaic.html\">intabularea terenului</a>, <a href=\"/parcuri-fotovoltaice/alipire-parcele-teren.html\">alipirea parcelelor</a> cumpărate de la zeci de proprietari, <a href=\"/parcuri-fotovoltaice/dezmembrare-teren-parcela.html\">dezlipirea</a> strict pe lotul util, <a href=\"/parcuri-fotovoltaice/superficie-parc-fotovoltaic.html\">superficia până la 99 de ani</a> cerută de finanțatori, <a href=\"/parcuri-fotovoltaice/servitute-trecere-cablu-electric.html\">servitutea de trecere pentru cablul de evacuare</a> și <a href=\"/parcuri-fotovoltaice/intabulare-constructii-parc-fotovoltaic.html\">intabularea construcțiilor din parc</a>. Tot aici intră <a href=\"/parcuri-fotovoltaice/scoatere-din-circuit-agricol-fotovoltaic.html\">scoaterea terenului din circuitul agricol</a> — cu regulile speciale valabile pentru terenurile de clasa III–V — și documentația pentru <a href=\"/parcuri-fotovoltaice/aviz-ocpi-puz-parc-fotovoltaic.html\">avizul OCPI la PUZ</a>.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Măsurători pentru proiectare și execuție",
+      "html": "<p>Proiectantul are nevoie de teren digital, constructorul de puncte materializate. Livrăm amândurora din aceeași bază de date: <a href=\"/parcuri-fotovoltaice/studiu-topografic-parc-fotovoltaic.html\">studiul topografic vizat OCPI</a>, <a href=\"/parcuri-fotovoltaice/model-digital-teren-parc-fotovoltaic.html\">modelul digital al terenului</a> cu <a href=\"/parcuri-fotovoltaice/panta-teren-parc-fotovoltaic.html\">analiza pantelor</a>, <a href=\"/parcuri-fotovoltaice/calcul-volumetrie-terasamente.html\">calculele de volumetrie</a> pentru terasamente, <a href=\"/parcuri-fotovoltaice/fotogrametrie-drona-teren.html\">fotogrametria cu dronă</a> pe amplasamente mari, apoi în execuție <a href=\"/parcuri-fotovoltaice/trasare-piloni-parc-fotovoltaic.html\">trasarea piloniilor</a> și a <a href=\"/parcuri-fotovoltaice/trasare-trackere-fotovoltaice.html\">tracker-elor</a>, <a href=\"/parcuri-fotovoltaice/trasare-drumuri-interne-parc-fotovoltaic.html\">trasarea drumurilor interne și a traseelor de cabluri</a>, <a href=\"/parcuri-fotovoltaice/nivelment-de-precizie.html\">nivelmentul de precizie</a> pentru fundațiile stațiilor și <a href=\"/parcuri-fotovoltaice/ridicare-topografica-racord-electric.html\">ridicarea traseului de racordare</a>. La final, <a href=\"/parcuri-fotovoltaice/as-built-parc-fotovoltaic.html\">documentația as-built</a> și, în operare, <a href=\"/parcuri-fotovoltaice/monitorizare-tasari-constructii.html\">monitorizarea tasărilor</a>.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Probleme frecvente pe care le rezolvăm",
+      "html": "<p>Paginile de mai jos răspund la întrebările pe care ni le pun dezvoltatorii la telefon: <a href=\"/parcuri-fotovoltaice/teren-mai-multi-proprietari-parc-fotovoltaic.html\">terenul cu zeci de proprietari</a>, <a href=\"/parcuri-fotovoltaice/arenda-sau-superficie-parc-fotovoltaic.html\">arendă sau superficie</a>, <a href=\"/parcuri-fotovoltaice/teren-pasune-parc-fotovoltaic-probleme.html\">capcana pășunilor</a>, <a href=\"/parcuri-fotovoltaice/drum-acces-teren-carte-funciara.html\">drumul de acces neînscris în CF</a>, <a href=\"/parcuri-fotovoltaice/cost-terasamente-teren-inclinat.html\">cât te costă panta</a>, <a href=\"/parcuri-fotovoltaice/respingere-documentatie-ocpi.html\">avizul OCPI respins</a> sau <a href=\"/parcuri-fotovoltaice/greseli-studiu-topografic-autorizatie.html\">erorile dintr-un studiu topografic primit de la altcineva</a>. Acoperim și segmente specifice: <a href=\"/parcuri-fotovoltaice/parc-fotovoltaic-utility-scale-servicii.html\">utility-scale</a>, <a href=\"/parcuri-fotovoltaice/releveu-acoperis-hala-panouri-fotovoltaice.html\">fotovoltaice pe acoperișul halei</a>, <a href=\"/parcuri-fotovoltaice/carport-fotovoltaic-documentatie.html\">carporturi</a>, <a href=\"/parcuri-fotovoltaice/agrivoltaic-romania-teren.html\">agrivoltaice</a>, <a href=\"/parcuri-fotovoltaice/amplasament-baterii-stocare-energie.html\">sisteme de stocare BESS</a> și <a href=\"/parcuri-fotovoltaice/parc-fotovoltaic-primarie-documentatie.html\">proiectele primăriilor</a>, inclusiv cele <a href=\"/parcuri-fotovoltaice/parc-fotovoltaic-fonduri-europene-documentatie.html\">finanțate din fonduri europene</a>.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Cum începem",
+      "html": "<p>Cel mai rapid prim pas nu e o ofertă generică, ci o privire pe situația reală a terenului tău. Trimite-ne extrasul CF (sau doar numărul cadastral și localitatea) pe WhatsApp — îți spunem ce e în regulă, ce trebuie rezolvat și în ce ordine, apoi primești o ofertă pe etape, cu termene realiste. Pentru <a href=\"/parcuri-fotovoltaice/cat-dureaza-studiu-topografic.html\">durate</a> și <a href=\"/parcuri-fotovoltaice/pret-studiu-topografic-parc-fotovoltaic.html\">factori de preț</a> avem pagini dedicate, iar la <a href=\"/parcuri-fotovoltaice/intrebari-frecvente-topografie-fotovoltaice.html\">întrebări frecvente</a> găsești răspunsurile scurte. Echipamentele cu care lucrăm — GPS RTK, stație totală, dronă — sunt descrise <a href=\"/parcuri-fotovoltaice/echipamente-topografice-precizie.html\">aici</a>, iar <a href=\"/parcuri-fotovoltaice/topograf-alba-parc-fotovoltaic.html\">zona de lucru</a> acoperă Alba și județele vecine.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Lucrați cu dezvoltatori și EPC-uri sau doar cu proprietari de teren?",
+          "a": "Colaborăm cu dezvoltatori și constructori pe toate fazele proiectului — de la due diligence la as-built — și lucrăm și direct cu proprietarii de teren care își pregătesc parcela pentru vânzare sau superficie."
+        },
+        {
+          "q": "În ce zonă faceți măsurători de teren?",
+          "a": "Deplasare în județul Alba și în județele vecine: Cluj, Mureș, Sibiu, Hunedoara. Verificările de carte funciară și due diligence pe documente le facem pentru terenuri din toată România, de la birou."
+        },
+        {
+          "q": "Ce primesc concret după prima discuție?",
+          "a": "O evaluare pe extrasul CF trimis pe WhatsApp: situația juridică, problemele vizibile, pașii necesari în ordine și o ofertă orientativă pe etape, cu termene pentru fiecare livrabil."
+        },
+        {
+          "q": "Faceți și proiectare sau studii geotehnice?",
+          "a": "Nu. Noi facem partea topografică și cadastrală. Ne coordonăm însă curent cu proiectanții, geotehnicienii și urbaniștii proiectului, iar livrabilele noastre sunt pregătite exact în formatele de care au ei nevoie."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/studiu-topografic-parc-fotovoltaic.html", "label": "Studiu topografic pentru parc fotovoltaic" },
+    { "href": "/parcuri-fotovoltaice/superficie-parc-fotovoltaic.html", "label": "Superficie pentru parc fotovoltaic" },
+    { "href": "/parcuri-fotovoltaice/teren-neintabulat-parc-fotovoltaic.html", "label": "Teren neintabulat — ce faci" },
+    { "href": "/fonduri-europene/", "label": "Documentație pentru proiecte cu fonduri europene" },
+    { "href": "/servicii/plan-topografic/", "label": "Plan topografic — serviciul de bază" },
+    { "href": "/dictionar/superficie.html", "label": "Dicționar: superficie" }
+  ],
+  "sources": [],
+  "enPair": "/en/solar/land-surveying-pv-projects-transylvania.html"
+}

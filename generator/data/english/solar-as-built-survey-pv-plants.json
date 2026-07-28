@@ -1,0 +1,56 @@
+{
+  "path": "/en/solar/as-built-survey-pv-plants.html",
+  "title": "As-Built Surveys for PV Plants in Romania — Commissioning, Licensing, Refinancing",
+  "metaDescription": "As-built survey documentation for commissioned solar plants in Romania: what it covers, why ANRE licensing, acceptance and refinancing require it, and registering plant structures in the land book.",
+  "h1": "As-Built Surveys for Commissioned PV Plants",
+  "roPair": "https://expert-intabulare.ro/parcuri-fotovoltaice/as-built-parc-fotovoltaic.html",
+  "whatsappPrefillEn": "Hello! I need as-built survey documentation for a PV plant in Romania.",
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Proving what was actually built",
+      "html": "<p>An as-built survey (<em>documentație conform execuției</em>) is the measured record of the finished plant: where every structure, road, cable route, station and fence actually stands, as opposed to where the design put it. It closes the loop the stakeout opened — and in a PV project's life it is asked for at precisely the moments when money or licenses are on the line:</p><ul><li><strong>Works acceptance:</strong> the reception of the works runs on documentation showing execution matches the permit and design, deviations included.</li><li><strong>Licensing:</strong> the energy regulator's (ANRE) processes and the grid operator's files consume as-built documentation of the plant and its connection.</li><li><strong>Registration:</strong> the plant's registrable structures — transformer stations, technical buildings, fencing — enter the land book on the basis of measured documentation (see <a href=\"/en/services/construction-registration.html\">construction registration</a>).</li><li><strong>Refinancing and sale:</strong> lenders' and buyers' technical advisers verify that the plant on the ground, the plant in the permits and the plant in the land books are the same plant. Gaps found here cost basis points or escrows.</li></ul>"
+    },
+    {
+      "type": "html",
+      "heading": "What we measure and deliver",
+      "html": "<p>The survey covers structure rows and pile lines (with deviation analysis against design where your contracts need it), internal roads and drainage, cable trench routes as actually dug, stations and buildings with their exact footprints, the fence line versus the legal parcel boundary — a check that has caught more than one fence built onto the neighbour — and the connection infrastructure within scope.</p><p>Deliverables: as-built plans (PDF and DWG/DXF), coordinate inventories, comparison reports versus design, the cadastral documentation for registering structures, and — where the acceptance file requires it — OCPI-received plans. If we performed the stakeout, the as-built builds directly on the same control network and stakeout records, which shortens both the field work and any argument about deviations.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "For owners of operating plants",
+      "html": "<p>Not every plant reaches operation with clean documentation — plants change hands, EPCs demobilize, papers scatter. We take on <strong>retroactive as-built work for operating plants</strong>: re-establishing control, surveying current state, reconciling with whatever documentation exists, and producing the file your refinancing, insurance or repowering process demands. Plants built in the 2010–2013 wave entering repowering are a typical case: the existing as-built (if any) meets a decade of undocumented changes, and the repowering design needs the real current state.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "When should the as-built survey be commissioned?",
+          "a": "Ideally contracted with the stakeout, executed progressively as construction zones complete — deviations get caught while the contractor is still on site to fix or formally accept them. Retroactive surveys after demobilization are possible but always cost more negotiating power."
+        },
+        {
+          "q": "Are the solar panels themselves registered in the land book?",
+          "a": "No — panels and mounting structures are not registered as buildings. The transformer station, technical buildings and typically the fencing are. We prepare the registration file for exactly the components Romanian practice registers."
+        },
+        {
+          "q": "Can you work with our lender's technical adviser?",
+          "a": "Yes — we deliver in the formats and level of detail their due diligence checklist specifies, and answer their queries directly, in English, so the financing timeline does not wait on translation loops."
+        },
+        {
+          "q": "How long does an as-built survey take on a finished plant?",
+          "a": "Field capture on a typical utility-scale site takes days — drone orthophoto plus ground measurement of stations, roads and boundaries — and processing about as long again. Registration of the registrable structures then follows OCPI's timelines. For refinancing deadlines we sequence the deliverables so the lender's checklist items arrive first."
+        },
+        {
+          "q": "The EPC left and the documentation is chaos. Where do we start?",
+          "a": "Send us what exists — however incomplete — plus the plant location. We inventory what is usable, survey the gap, and give you a fixed picture of what a complete file requires before you commit to anything. Half of retroactive as-built work is establishing what is actually missing; owners are usually relieved to learn it is less than they feared."
+        }
+      ]
+    }
+  ],
+  "related": [
+    "/en/solar/pv-pile-tracker-stakeout.html",
+    "/en/services/construction-registration.html",
+    "/en/solar/land-surveying-pv-projects-transylvania.html",
+    "/en/solar/drone-photogrammetry-dtm-solar-sites.html"
+  ]
+}

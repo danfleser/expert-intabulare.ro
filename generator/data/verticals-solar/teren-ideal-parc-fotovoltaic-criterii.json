@@ -1,0 +1,81 @@
+{
+  "slug": "teren-ideal-parc-fotovoltaic-criterii",
+  "title": "Terenul ideal pentru parc fotovoltaic — criterii măsurabile de achiziție",
+  "h1": "Cum arată terenul ideal pentru un parc fotovoltaic: checklist de achiziție cu criterii măsurabile",
+  "metaDescription": "Checklist de achiziție pentru teren de parc fotovoltaic: suprafață, pantă, orientare, CF curat, acces, racord. Criterii măsurabile, verificate înainte de avans.",
+  "whatsappTopic": "verificarea unui teren înainte de achiziție pentru un parc fotovoltaic",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "„Pare bun” nu e un criteriu — checklist-ul de mai jos este",
+      "html": "<p>Aproape orice teren arată bine în anunț: extravilan, aproape de o stație, „perfect pentru fotovoltaice”. Diferența dintre un teren bun și o problemă cu extras CF se vede abia când treci anunțul prin criterii măsurabile — iar fiecare criteriu de mai jos se poate verifica ieftin, înainte de avans, în ordinea corectă: întâi pe documente, apoi pe teren.</p><p>Noi facem exact aceste verificări pentru dezvoltatori: partea de documente (CF, cadastru, geoportal) pentru terenuri din toată țara, direct de la birou, iar măsurătorile de teren în Alba și județele vecine — Cluj, Mureș, Sibiu, Hunedoara. Trimite-ne extrasul CF pe WhatsApp și îți spunem în aceeași zi ce bifează terenul și unde sunt semnele de întrebare.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Checklist-ul de achiziție",
+      "items": [
+        "Suprafață suficientă și compactă — orientativ 1–1,5 ha pentru fiecare MW la structură fixă, într-un trup cât mai puțin fragmentat",
+        "Formă regulată a parcelei — fără colțuri ascuțite și fâșii înguste care produc rânduri scurte și spații moarte",
+        "Pante mici, fără versanți orientați nordic — panta se verifică pe model digital de teren, nu din mers, iar versanții nordici penalizează și producția, și distanțele dintre rânduri",
+        "Orizont liber spre sud — fără dealuri, liziere sau construcții care umbresc terenul, mai ales la unghiurile joase ale soarelui de iarnă",
+        "Carte funciară curată — teren intabulat, proprietari cerți, fără sarcini, litigii sau notări-problemă pe extrasul CF",
+        "Suprafața reală egală cu cea din acte — verificată prin măsurătoare înainte de semnare, nu asumată",
+        "Fără suprapuneri cadastrale cu imobilele vecine — verificare pe geoportalul ANCPI plus măsurătoare de confirmare",
+        "Acces la drum înscris în cartea funciară — nu doar un drum de pământ folosit „din totdeauna”",
+        "Distanță rezonabilă până la punctul de racordare — evaluată pe traseul real al cablului, nu pe linia dreaptă de pe hartă",
+        "Categorie de folosință și clasă de fertilitate compatibile cu scoaterea din circuitul agricol — clasa III–V pentru excepția de amplasare în extravilan",
+        "Fără zone inundabile sau depresionare — cote verificate față de emisar acolo unde terenul e în luncă",
+        "Rețele existente identificate — o LEA care traversează terenul înseamnă un culoar de protecție care taie din suprafața utilă"
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "Criteriile juridice: CF-ul bate peisajul",
+      "html": "<p>Un teren superb cu acte proaste e mai rău decât un teren mediocru cu acte perfecte — pentru că actele îți controlează calendarul. Verificarea începe cu <a href=\"/parcuri-fotovoltaice/verificare-carte-funciara-cumparare-teren.html\">extrasul de carte funciară</a>: proprietari, sarcini, servituți, notări. Continuă cu accesul: fără <a href=\"/parcuri-fotovoltaice/drum-acces-teren-carte-funciara.html\">drum de acces înscris în CF</a> nu obții autorizația, oricât de bun ar fi terenul. Și se închide cu regimul agricol: pentru amplasarea directă în extravilan, excepția introdusă prin Legea 254/2022 cere teren agricol de clasa a III-a–a V-a de fertilitate, maximum 50 ha per proiect, cu autorizație de construire și aprobarea scoaterii din circuitul agricol — iar prevederea produce efecte până la 31 decembrie 2026, deci calendarul achiziției nu e un detaliu.</p><p>Toate acestea se verifică de la birou, pe documente, pentru orice județ — înainte să cheltuiești pe deplasări și măsurători.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Criteriile tehnice: măsori, nu ghicești",
+      "html": "<p>După ce documentele trec testul, urmează terenul. Trei verificări tehnice fac diferența:</p><ul><li><strong>Suprafața utilă reală</strong> — după drumuri interne, zone tehnice, retrageri și porțiuni nefolosibile, din suprafața din acte rămâne mai puțin decât crezi; calculul complet e descris la <a href=\"/parcuri-fotovoltaice/cati-mw-pe-hectar-parc-fotovoltaic.html\">câți MW încap pe hectar</a>.</li><li><strong>Panta și orientarea</strong> — harta de pantă pe clase arată imediat ce se construiește confortabil și ce cere terasamente; pe terenuri înclinate, costul nivelării se calculează înainte de negociere, nu după.</li><li><strong>Umbrirea de relief</strong> — <a href=\"/parcuri-fotovoltaice/analiza-umbrire-teren-fotovoltaic.html\">analiza de umbrire</a> pe model digital de teren scoate la iveală zonele penalizate de dealuri și liziere, invizibile la vizita de vară.</li></ul><p>O măsurătoare preliminară acoperă toate trei dintr-un singur drum pe teren — și îți dă și argumentele de preț pentru negociere.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Ordinea corectă a verificărilor",
+      "html": "<p>Ca să nu plătești verificări scumpe pe terenuri care pică la cele ieftine, ordinea contează:</p><ol><li><strong>Triaj pe documente</strong> — extras CF, geoportal, ortofotoplan: elimină rapid terenurile cu probleme juridice evidente; se face de la birou, pentru orice număr de terenuri candidate.</li><li><strong>Măsurătoare preliminară</strong> — pe terenurile rămase: suprafață reală, pante, umbriri, accese; cifrele intră în negociere.</li><li><strong>Antecontract cu condiții</strong> — abia acum, cu clauze legate de ce mai rămâne de clarificat cadastral.</li><li><strong>Documentațiile complete</strong> — intabulări, alipiri, superficie, scoatere din circuit: pe terenul deja verificat, fără surprize.</li></ol><p>Dezvoltatorii care triază 10 terenuri pe documente și măsoară doar 3 cheltuiesc de câteva ori mai puțin decât cei care fac invers.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Care e criteriul eliminatoriu numărul unu?",
+          "a": "Situația juridică: proprietari incerți, lipsa intabulării, sarcini sau lipsa accesului înscris. Problemele tehnice se rezolvă cu bani și inginerie; problemele de proprietate pot fi nerezolvabile în orizontul de timp al proiectului."
+        },
+        {
+          "q": "Există o pantă maximă „oficială” pentru fotovoltaic?",
+          "a": "Nu ca normă generală — limita o dau structura aleasă și specificația furnizorului, iar tracker-ele sunt mai pretențioase decât structura fixă. De aceea livrăm harta de pantă pe clase: proiectantul aplică pe ea limitele soluției lui."
+        },
+        {
+          "q": "Pot verifica singur o parte din checklist?",
+          "a": "Da: extrasul CF îl poți citi singur, iar geoportalul ANCPI e public. Interpretarea sarcinilor, suprapunerile la limită și tot ce ține de măsurătoare rămân treabă de specialist — exact partea unde erorile costă cel mai mult."
+        },
+        {
+          "q": "Verificați terenuri și în afara Transilvaniei?",
+          "a": "Verificările pe documente — CF, cadastru, geoportal — le facem pentru terenuri din toată țara. Pentru măsurători de teren lucrăm în Alba, Cluj, Mureș, Sibiu și Hunedoara."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/cati-mw-pe-hectar-parc-fotovoltaic.html", "label": "Câți MW încap pe hectar" },
+    { "href": "/parcuri-fotovoltaice/verificare-carte-funciara-cumparare-teren.html", "label": "Verificare CF înainte de cumpărare" },
+    { "href": "/parcuri-fotovoltaice/drum-acces-teren-carte-funciara.html", "label": "Drumul de acces înscris în CF" },
+    { "href": "/parcuri-fotovoltaice/suprafata-teren-mai-mica-decat-in-acte.html", "label": "Suprafața reală mai mică decât în acte" },
+    { "href": "/servicii/cadastru-si-intabulare/", "label": "Cadastru și intabulare — serviciul de bază" },
+    { "href": "/dictionar/carte-funciara.html", "label": "Dicționar: carte funciară" }
+  ],
+  "sources": [
+    { "url": "https://agrointel.ro/229751/panouri-fotovoltaice-pe-terenuri-agricole-legea-a-fost-publicata-in-monitorul-oficial", "title": "Legea 254/2022 — fotovoltaice pe terenuri agricole extravilane clasa III–V" }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "plan-amplasament-delimitare-pad",
+  "title": "Plan de amplasament și delimitare (PAD) pentru dosarul de finanțare | Expert Intabulare",
+  "h1": "PAD, plan de situație sau plan topografic? Ghidul care le desparte",
+  "metaDescription": "Plan de amplasament și delimitare (PAD) vs plan de situație vs plan topografic: tabel comparativ, când îl cere finanțatorul, cum se obține. Topograf ANCPI Alba.",
+  "whatsappTopic": "plan de amplasament și delimitare (PAD)",
+  "hook": "deadline",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Trei „planuri” care se confundă mereu — și de ce contează diferența",
+      "html": "<p>În ghidurile de finanțare, în certificatele de urbanism și în discuțiile cu proiectanții circulă trei documente cu nume asemănătoare și roluri complet diferite: <strong>planul de amplasament și delimitare (PAD)</strong>, <strong>planul de situație</strong> și <strong>planul topografic</strong>. Le-am văzut încurcate în sute de dosare — iar consecința tipică este o notă de completare care mănâncă două săptămâni exact înainte de un termen.</p><p>Pe scurt: <strong>PAD-ul definește imobilul juridic</strong> — este piesa centrală a documentației cadastrale, arată limitele, suprafața și construcțiile imobilului așa cum sunt sau vor fi înscrise în cartea funciară. <strong>Planul de situație arată intenția</strong> — cum se așază investiția pe teren, pentru urbanism. <strong>Planul topografic arată realitatea fizică</strong> — relief, cote, rețele, tot ce are nevoie proiectantul ca să proiecteze. Un dosar de finanțare complet le conține de regulă pe toate trei, în etape diferite.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "PAD vs. plan de situație vs. plan topografic",
+      "head": ["Criteriu", "PAD", "Plan de situație", "Plan topografic"],
+      "rows": [
+        ["Scop", "Înscrierea imobilului în cartea funciară", "Certificat de urbanism, avize, DTAC", "Proiectare (SF/DALI/PT)"],
+        ["Cine îl cere", "OCPI, finanțatorul la dovada proprietății", "Primăria, emitenții de avize", "Proiectantul, verificatorul, finanțatorul la SF"],
+        ["Conținut cheie", "Limite, suprafață, categorii de folosință, construcții", "Amplasarea investiției propuse față de limite și vecinătăți", "Relief, cote, curbe de nivel, rețele, detalii complete"],
+        ["Aviz/recepție", "Recepție OCPI în cadrul documentației cadastrale", "De regulă pe suport topografic sau cadastral", "Recepție tehnică OCPI (Ordinul 700/2014)"],
+        ["Când apare în proiect", "La dovada proprietății și la orice modificare de imobil", "La începutul lanțului de avizare", "La proiectare și autorizare"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Când îți cere finanțatorul PAD-ul",
+      "html": "<p>PAD-ul apare în dosarele de finanțare în trei situații tipice. <strong>Prima:</strong> imobilul nu e înscris în sistemul integrat de cadastru — atunci PAD-ul face parte din documentația de primă înscriere, fără de care nu există extras CF. <strong>A doua:</strong> imobilul se modifică pentru proiect — alipiri de parcele pentru un amplasament compact, dezlipirea suprafeței pe care se constituie superficia, actualizarea categoriei de folosință. <strong>A treia:</strong> construcția finanțată s-a terminat — PAD-ul actualizat cu construcția nouă însoțește cererea de înscriere a acesteia în cartea funciară, pasul cerut în perioada de durabilitate.</p><p>Detaliul practic: PAD-ul nu „se cumpără” separat — el este produsul unei documentații cadastrale complete, cu măsurători, verificări la OCPI și răspunderea unui autorizat ANCPI. Dacă cineva îți oferă „un PAD” fără să fi măsurat terenul, ai în mână o hârtie, nu un document.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Ghidul cere „plan de amplasament și delimitare a imobilului, vizat OCPI”. Ce comand de fapt?", "a": "Dacă imobilul e deja intabulat și neschimbat, PAD-ul există în arhiva OCPI — se poate obține o copie conformă. Dacă imobilul nu e înscris sau s-a modificat, e nevoie de documentație cadastrală nouă. Trimite-ne extrasul CF sau numărul cadastral și îți spunem exact în care situație ești — verificarea durează minute." },
+        { "q": "PAD-ul are termen de valabilitate?", "a": "Nu are termen legal de expirare, dar își pierde actualitatea când realitatea se schimbă: construcții noi, demolări, modificări de limite. Finanțatorii cer de regulă documente „conforme cu realitatea” — dacă ai construit ceva între timp, PAD-ul trebuie actualizat." },
+        { "q": "Pot folosi PAD-ul în locul planului topografic la SF?", "a": "Nu — PAD-ul nu conține relieful, cotele și detaliile de care are nevoie proiectantul. Invers, nici planul topografic nu ține loc de PAD la cartea funciară. Sunt piese complementare, adesea întocmite din aceleași măsurători — motiv pentru care comandate împreună costă mai puțin decât separat." },
+        { "q": "Cine păstrează PAD-ul original?", "a": "Documentația cadastrală recepționată se arhivează la OCPI; beneficiarul primește exemplarele lui. Dacă ți s-a pierdut planul imobilului, nu refacem neapărat totul — putem solicita copii din arhiva OCPI, dacă documentația veche e conformă." }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Ce conține concret un PAD — ca să recunoști unul complet",
+      "html": "<p>Pentru cine vrea să verifice cu ochii lui ce a primit, anatomia unui plan de amplasament și delimitare corect: <strong>conturul imobilului</strong> cu punctele de frângere numerotate și inventarul lor de coordonate Stereo 70; <strong>suprafața rezultată din măsurători</strong>, comparată cu cea din acte; <strong>categoriile de folosință</strong> pe parcele componente (arabil, curți-construcții, livadă), cu suprafața fiecăreia; <strong>construcțiile</strong> cu contur, destinație și suprafață construită la sol; <strong>vecinătățile</strong> pe fiecare latură, cu identificarea imobilelor adiacente; plus cartușul cu executantul autorizat, data și scopul documentației. Toate acestea pe un format standardizat de regulament — motiv pentru care PAD-urile arată la fel indiferent cine le întocmește, iar diferența de calitate stă în ce nu se vede: corectitudinea măsurătorilor și a identificării.</p><p>Un detaliu util pentru dosarele de finanțare: PAD-ul recepționat există în arhiva electronică a OCPI, ca parte a documentației cadastrale a imobilului. Dacă ghidul cere „plan de amplasament și delimitare” iar imobilul e înscris și neschimbat, nu comanzi o lucrare nouă — soliciți o copie certificată din arhivă, la un tarif mic și un termen de zile. Verificarea situației (lucrare nouă sau copie de arhivă?) e primul lucru pe care îl facem când ne trimiți cerința — și diferența dintre cele două răspunsuri se măsoară în sute de lei și săptămâni.</p>"
+    },
+    {
+      "type": "cta",
+      "heading": "Nu ești sigur ce plan îți cere dosarul?",
+      "text": "Fă o poză paginii din ghid sau certificatului de urbanism și trimite-ne-o pe WhatsApp — îți spunem exact ce document îți trebuie și cât durează."
+    }
+  ],
+  "related": [
+    "plan-topografic-vizat-ocpi",
+    "plan-de-situatie-certificat-urbanism",
+    "intabulare-dovada-proprietatii-finantare",
+    "extras-carte-funciara-fonduri-europene",
+    "intabulare-constructie-finalizata",
+    "documentatie-cadastrala-pnrr",
+    "/servicii/cadastru-si-intabulare/",
+    "/dictionar/carte-funciara.html"
+  ],
+  "sources": [
+    "https://www.ancpi.ro/",
+    "https://legislatie.just.ro/Public/DetaliiDocument/159910"
+  ]
+}

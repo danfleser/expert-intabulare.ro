@@ -1,0 +1,70 @@
+{
+  "slug": "trasare-constructie-proces-verbal",
+  "title": "Trasarea construcției la începutul execuției — proces-verbal de trasare | Expert Intabulare",
+  "h1": "Trasarea construcției și procesul-verbal de trasare: startul legal al șantierului",
+  "metaDescription": "Trasarea construcției la ordinul de începere: cine o face, ce verifică dirigintele de șantier, de ce procesul-verbal de trasare contează la recepție și rambursare.",
+  "whatsappTopic": "trasarea construcției la începerea execuției",
+  "hook": "deadline",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Momentul în care proiectul se mută de pe hârtie pe teren",
+      "html": "<p>Trasarea este operațiunea prin care construcția din proiect se materializează pe teren: axele, colțurile și cotele de nivel ale viitoarei clădiri se marchează fizic, cu precizie, pornind de la coordonatele din proiect. Se întâmplă la începutul execuției, imediat după ordinul de începere a lucrărilor, și se consemnează într-un <strong>proces-verbal de trasare</strong> — document care intră în cartea tehnică a construcției și pe care dirigintele de șantier îl verifică și îl semnează.</p><p>De ce contează la un proiect cu finanțare: procesul-verbal de trasare este prima dovadă documentară că execuția a început <em>conform proiectului autorizat</em>. La recepție și la cererile de rambursare, lanțul documentar se citește de la capăt — iar o construcție trasată greșit (deplasată față de autorizație, prea aproape de limită, la altă cotă) devine o problemă care nu se mai poate corecta ieftin. Am fost chemați de suficiente ori „să vedem de ce nu iese recepția” ca să spunem apăsat: <strong>ora de trasare făcută corect este cea mai ieftină asigurare a întregii investiții</strong>.</p>"
+    },
+    {
+      "type": "process",
+      "heading": "Cum decurge trasarea, pas cu pas",
+      "steps": [
+        { "title": "Pregătirea din proiect", "text": "Preluăm coordonatele de trasare din proiectul tehnic (sau le calculăm din planurile de execuție, dacă proiectantul nu le-a livrat explicit) și le verificăm față de limitele imobilului din cartea funciară — aici se prind erorile de proiectare, înainte să ajungă în beton." },
+        { "title": "Marcarea pe teren", "text": "Trasăm axele și colțurile cu GPS RTK și stație totală, materializate cu țăruși, borne sau capre de trasare, plus cota ±0,00 raportată la un reper de nivelment stabil." },
+        { "title": "Verificarea cu dirigintele", "text": "Dirigintele de șantier verifică distanțele față de limite (retragerile din CU/autorizație), dimensiunile între axe și cota de nivel. Este exact lista lui de control — o parcurgem împreună, pe teren." },
+        { "title": "Procesul-verbal", "text": "Întocmim și semnăm procesul-verbal de trasare cu constructorul și dirigintele; documentul, împreună cu inventarul de coordonate, intră în cartea tehnică și în dosarul de finanțare." }
+      ]
+    },
+    {
+      "type": "checklist",
+      "heading": "Ce verifică dirigintele de șantier la trasare",
+      "items": [
+        "Retragerile față de limitele de proprietate — conforme cu autorizația de construire",
+        "Dimensiunile construcției între axe — conforme cu proiectul tehnic",
+        "Cota ±0,00 și raportarea ei la reperul de nivelment — decisivă pentru scurgerea apelor și racorduri",
+        "Poziția față de construcțiile existente și de rețelele din incintă",
+        "Existența procesului-verbal de trasare semnat, cu inventarul de coordonate anexat"
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Nu poate constructorul să traseze singur?", "a": "Poate — și uneori o face bine. Dar trasarea de către un topograf independent, cu proces-verbal semnat, separă răspunderile: dacă apare o discuție la recepție, există un document cu coordonate, nu o amintire. La proiecte cu finanțare, unde orice neconformitate poate costa rambursarea, recomandăm fără ezitare varianta documentată." },
+        { "q": "Când trebuie chemad topograful — înainte sau după ordinul de începere?", "a": "Programează-ne odată cu stabilirea ordinului de începere: trasarea se face de regulă în ziua sau zilele imediat următoare, ca șantierul să nu aștepte. La lucrări cu fundații complexe revenim la retrasarea axelor după săpătură — e inclusă în discuția inițială." },
+        { "q": "Construcția a fost trasată „din ochi” și e deja la fundație. Ce se poate face?", "a": "Măsurăm imediat ce există și comparăm cu autorizația. Dacă abaterile sunt în toleranțe, documentăm și mergem înainte; dacă nu, e mai bine să afli acum decât la recepție — soluțiile există (de la modificări de proiect la intrare în legalitate), dar toate sunt mai ieftine cu cât sunt aplicate mai devreme." },
+        { "q": "Faceți și verificări pe parcursul execuției?", "a": "Da — verificări de verticalitate, cote la fiecare etapă, măsurători pentru situațiile de lucrări și as-built la final. La proiectele cu finanțare oferim pachetul complet execuție → recepție, descris pe pagina de monitorizare a implementării." }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Toleranțe, reveniri și cine ce răspundere poartă",
+      "html": "<p>Câteva precizări tehnice care merită știute înainte de prima zi de șantier. <strong>Toleranțele de trasare</strong> nu sunt un moft: normele de execuție prevăd abateri admisibile de ordinul centimetrilor la axele construcțiilor, iar structurile prefabricate și îmbinările metalice iartă și mai puțin. Trasarea cu GPS RTK plus verificarea cu stația totală țin lucrarea confortabil în aceste limite — metoda „cu ruleta de la colțul gardului” nu. <strong>Revenirile sunt normale și planificabile:</strong> țărușii trasării inițiale dispar la săpătură, deci axele se rematerializează pe capre de trasare sau borne în afara amprentei, iar după turnarea fundațiilor se verifică pozițiile înainte de elevații — două-trei mobilizări scurte care se programează din prima discuție, nu se negociază în criză.</p><p>Pe partea de răspunderi, distribuția e clară și sănătoasă: proiectantul răspunde de coordonatele din proiect, noi de transpunerea lor corectă în teren (consemnată în procesul-verbal cu inventarul de coordonate anexat), constructorul de respectarea trasării în execuție, iar dirigintele de verificarea întregului lanț. Documentele bine făcute nu elimină greșelile — le fac <em>atribuibile</em>, ceea ce în practică le și previne: toată lumea lucrează altfel când știe că măsurătorile rămân scrise. La proiectele cu finanțare, unde orice neconformitate ajunge discuție cu autoritatea de plată, această trasabilitate valorează cât o asigurare.</p>"
+    },
+    {
+      "type": "cta",
+      "heading": "Șantierul pornește curând?",
+      "text": "Scrie-ne pe WhatsApp data ordinului de începere și localitatea — programăm trasarea astfel încât constructorul să nu piardă nicio zi."
+    }
+  ],
+  "related": [
+    "monitorizare-topografica-implementare",
+    "as-built-receptie-fonduri-europene",
+    "plan-topografic-vizat-ocpi",
+    "ridicare-topografica-studiu-fezabilitate",
+    "intabulare-constructie-finalizata",
+    "/servicii/topografie-constructii/",
+    "/dictionar/stereo-70.html"
+  ],
+  "sources": [
+    "https://legislatie.just.ro/Public/DetaliiDocument/1515",
+    "https://www.ancpi.ro/"
+  ]
+}

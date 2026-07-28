@@ -1,0 +1,74 @@
+{
+  "slug": "aviz-ocpi-puz-parc-fotovoltaic",
+  "title": "Avizul OCPI pentru planul topografic al PUZ-ului — flux și termene",
+  "h1": "Aviz OCPI pentru PUZ parc fotovoltaic: cum trece planul topografic prin recepție",
+  "metaDescription": "Aviz OCPI pentru PUZ parc fotovoltaic: aviz de începere, măsurători, recepția planului topografic conform Ordinului ANCPI 700/2014. Termene și greșeli frecvente.",
+  "whatsappTopic": "planul topografic pentru avizul OCPI la PUZ",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "PUZ-ul stă pe un plan topografic recepționat — nu invers",
+      "html": "<p>Dacă primăria a cerut PUZ pentru parcul tău fotovoltaic, urbanistul are nevoie de un suport topografic recepționat de OCPI înainte să deseneze orice reglementare. Planul topografic pentru documentațiile de urbanism nu e o anexă decorativă: el trece printr-un flux propriu de avizare și recepție la OCPI, reglementat prin Ordinul ANCPI nr. 700/2014, iar fără procesul-verbal de recepție documentația de urbanism nu poate avansa spre aprobare.</p><p>Aici se pierd cel mai des săptămânile: dezvoltatorul comandă PUZ-ul, urbanistul cere planul topografic, abia atunci se caută topograful, iar fluxul de avizare de la OCPI abia începe. Ordinea corectă e inversă — planul topografic pornește imediat după certificatul de urbanism, în paralel cu restul temelor. Trimite-ne extrasul CF și certificatul de urbanism pe WhatsApp și îți spunem în aceeași zi ce presupune planul pentru amplasamentul tău și cât durează realist.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Fluxul conform Ordinului ANCPI 700/2014, pas cu pas",
+      "html": "<p>Pentru planurile topografice care stau la baza documentațiilor de urbanism, fluxul de principiu arată așa:</p><ol><li><strong>Avizul de începere a lucrării</strong> — înainte de măsurători, topograful solicită la OCPI avizul de începere pentru lucrarea respectivă; OCPI comunică datele de referință disponibile pentru zonă.</li><li><strong>Măsurătorile de teren</strong> — ridicarea topografică a zonei de studiu în sistemul național Stereo 70: relief, limite, construcții, drumuri, rețele vizibile, vecinătăți.</li><li><strong>Întocmirea planului topografic</strong> — planșele, inventarul de coordonate și memoriul tehnic, corelate cu limitele cadastrale înscrise.</li><li><strong>Recepția tehnică la OCPI</strong> — documentația se depune, OCPI verifică și emite procesul-verbal de recepție; eventualele note de completare se rezolvă punctual.</li><li><strong>Predarea către urbanist</strong> — planul recepționat devine suportul pe care se construiește PUZ-ul, în formatele cerute de proiectant (dwg/dxf plus piese scrise).</li></ol><p>Detaliile despre conținutul documentației PUZ în ansamblu — nu doar partea topografică — le-am strâns pe pagina despre <a href=\"/parcuri-fotovoltaice/puz-parc-fotovoltaic-documentatie.html\">documentația PUZ pentru parc fotovoltaic</a>.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Ce conține planul topografic pentru PUZ — și pe ce zonă",
+      "html": "<p>O particularitate a suportului pentru urbanism: zona de studiu o stabilește urbanistul, iar ea depășește de regulă limita imobilului tău. PUZ-ul reglementează relația cu vecinătățile — drumuri de acces, terenuri adiacente, trasee de rețele — deci măsurătoarea trebuie să acopere și aceste zone, nu doar parcela din CF. Clarificăm perimetrul cu urbanistul înainte de deplasare, ca să nu plătești două mobilizări.</p><p>Pe conținut, planul cuprinde ridicarea planimetrică și altimetrică a zonei, limitele cadastrale ale imobilelor suprapuse pe măsurătoare, construcțiile și împrejmuirile existente, drumurile cu ampriza lor reală, liniile electrice cu stâlpii lor și elementele de hidrografie relevante. Aceeași măsurătoare o refolosim apoi pentru <a href=\"/parcuri-fotovoltaice/studiu-topografic-parc-fotovoltaic.html\">studiul topografic de autorizare</a> și pentru <a href=\"/parcuri-fotovoltaice/plan-de-situatie-parc-fotovoltaic.html\">planul de situație</a> — un singur set de date, mai multe livrabile, fără costuri de remăsurare.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Termene orientative pe etape",
+      "head": ["Etapa", "Durată orientativă", "Observații"],
+      "rows": [
+        ["Aviz de începere la OCPI", "conform termenelor OCPI în vigoare", "se solicită imediat după comandă"],
+        ["Măsurători de teren", "1–3 zile lucrătoare", "în funcție de suprafața zonei de studiu și de relief"],
+        ["Întocmire plan topografic", "3–7 zile lucrătoare", "planșe, inventar de coordonate, memoriu tehnic"],
+        ["Recepția tehnică OCPI", "conform termenelor OCPI în vigoare", "plus timpul de rezolvare a eventualelor note de completare"]
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "De ce se resping documentațiile — și cum evităm",
+      "html": "<p>Motivele tipice pentru note de completare sau respingere la recepție: măsurători în alt sistem de coordonate decât Stereo 70, neconcordanțe între limitele măsurate și cele înscrise în evidențele cadastrale, lipsa avizului de începere, zone de studiu incomplete față de tema urbanistului sau elemente existente nefigurate. Fiecare notă de completare înseamnă zile sau săptămâni pierdute, în funcție de ce trebuie refăcut. Am detaliat tipurile de respingeri și remediile pe pagina despre <a href=\"/parcuri-fotovoltaice/respingere-documentatie-ocpi.html\">respingerea documentațiilor la OCPI</a>.</p><p>Partea noastră de prevenție e simplă de enunțat și migăloasă de făcut: verificăm situația cadastrală a întregii zone de studiu înainte de măsurători, semnalăm din start suprapunerile sau imobilele neintabulate care pot complica recepția și ținem legătura cu urbanistul pe tot parcursul, ca planul să răspundă exact temei PUZ. Colaborăm cu dezvoltatori și constructori pe proiecte din Alba, Cluj, Mureș, Sibiu și Hunedoara.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Avizul OCPI pentru PUZ e același lucru cu recepția studiului topografic de autorizare?",
+          "a": "Sunt fluxuri înrudite, dar livrabile diferite: planul topografic pentru PUZ acoperă zona de studiu stabilită de urbanist și servește documentația de urbanism, iar studiul topografic pentru autorizare servește proiectarea și autorizația de construire. Ambele trec prin recepția OCPI conform Ordinului 700/2014, iar noi le întocmim din aceeași măsurătoare unde e posibil."
+        },
+        {
+          "q": "Cât durează până am planul recepționat în mână?",
+          "a": "Partea noastră — măsurători plus întocmire — durează orientativ una până la două săptămâni pentru un amplasament tipic. Avizul de începere și recepția urmează termenele OCPI în vigoare, care diferă de la județ la județ. Îți dăm un calendar realist după ce vedem certificatul de urbanism și extrasul CF."
+        },
+        {
+          "q": "Urbanistul nostru are deja un plan topografic vechi. Îl putem folosi?",
+          "a": "Doar dacă e recepționat de OCPI, e în Stereo 70 și reflectă situația actuală a terenului și a evidențelor cadastrale. Un plan mai vechi sau întocmit pe altă zonă de studiu trebuie cel puțin verificat — facem verificarea înainte să decizi dacă refaci."
+        },
+        {
+          "q": "Voi vă ocupați și de PUZ-ul propriu-zis?",
+          "a": "Nu, PUZ-ul e documentația urbanistului. Noi livrăm suportul topografic recepționat OCPI și rămânem în proiect pentru documentațiile cadastrale următoare — dezmembrări, superficie, intabulări — și pentru măsurătorile din execuție."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/puz-parc-fotovoltaic-documentatie.html", "label": "Documentația PUZ pentru parc fotovoltaic" },
+    { "href": "/parcuri-fotovoltaice/studiu-topografic-parc-fotovoltaic.html", "label": "Studiu topografic pentru parc fotovoltaic" },
+    { "href": "/parcuri-fotovoltaice/plan-de-situatie-parc-fotovoltaic.html", "label": "Plan de situație pentru certificatul de urbanism" },
+    { "href": "/parcuri-fotovoltaice/respingere-documentatie-ocpi.html", "label": "Respingerea documentațiilor la OCPI" },
+    { "href": "/servicii/servicii-ocpi/", "label": "Servicii OCPI — avize și recepții" },
+    { "href": "/dictionar/puz.html", "label": "Dicționar: PUZ" }
+  ],
+  "sources": [
+    { "url": "https://legislatie.just.ro/Public/DetaliiDocument/160177", "title": "Ordinul ANCPI nr. 700/2014 — regulamentul de avizare, recepție și înscriere" }
+  ]
+}

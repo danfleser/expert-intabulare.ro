@@ -1,0 +1,73 @@
+{
+  "slug": "model-digital-teren-parc-fotovoltaic",
+  "title": "Model digital al terenului (MDT) pentru parc fotovoltaic — grid, breaklines, formate",
+  "h1": "Modelul digital al terenului pentru parcuri fotovoltaice: fundația proiectării în PVsyst, PVcase și Civil 3D",
+  "metaDescription": "MDT/DTM pentru parcuri fotovoltaice: grid, breaklines, acuratețe cote, export pentru PVsyst, PVcase, AutoCAD Civil 3D. Din măsurători GNSS și fotogrametrie UAV.",
+  "whatsappTopic": "un model digital al terenului pentru proiectarea unui parc fotovoltaic",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Terenul tău, în formatul în care lucrează proiectantul",
+      "html": "<p>Modelul digital al terenului (MDT sau DTM) este reprezentarea 3D a suprafeței terenului natural, construită din punctele măsurate: pe el se calculează pantele, umbrirea dată de relief, lungimile piloniilor, volumele de terasamente și traseele drumurilor interne. Practic, orice decizie de proiectare a unui parc fotovoltaic — de la layout la buget — trece prin MDT. Un model prost înseamnă decizii proaste luate cu încredere.</p><p>Noi livrăm MDT-uri construite din măsurători proprii — GNSS RTK cu precizie de ±2–3 cm în plan, completat pe suprafețe mari cu <a href=\"/parcuri-fotovoltaice/fotogrametrie-drona-teren.html\">fotogrametrie UAV</a> cu puncte de control la sol, în toleranțe de 2–5 cm — în formatele native ale softurilor cu care lucrează echipa ta de proiectare. Scrie-ne pe WhatsApp cu localizarea terenului și softul în care proiectați, și îți spunem exact ce livrabil primești și în cât timp.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Ce face diferența între un MDT bun și unul decorativ",
+      "html": "<p>Oricine poate genera o suprafață dintr-un nor de puncte apăsând un buton. Un MDT pe care poți proiecta cere trei lucruri:</p><ul><li><strong>Teren, nu suprafață.</strong> Modelul trebuie să reprezinte solul, nu vegetația sau construcțiile. Din fotogrametrie rezultă întâi un model al suprafeței (MDS/DSM), care include lanuri, tufe, balotare; filtrarea până la terenul natural și verificarea ei cu puncte măsurate la sol sunt pași obligatorii, nu opționali.</li><li><strong>Breaklines măsurate, nu interpolate.</strong> Muchiile de taluz, șanțurile, crestele și talvegurile se măsoară ca linii continue și se impun în triangulație. Fără ele, modelul netezește exact denivelările care dictează lungimile piloniilor și scurgerea apelor.</li><li><strong>Densitate adaptată reliefului.</strong> Grid orientativ de 10–20 m pe zone plane, îndesit pe teren frământat — aceeași logică din <a href=\"/parcuri-fotovoltaice/ridicare-topografica-teren-fotovoltaic.html\">ridicarea topografică</a> pe care se sprijină modelul.</li></ul><p>Totul în Stereo 70, pe aceeași rețea de sprijin materializată în teren pe care o refolosim la trasare și la as-built — modelul rămâne comparabil cu realitatea pe toată durata proiectului.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Formate de livrare pe softuri de proiectare PV",
+      "head": ["Softul tău", "Format recomandat", "Observații"],
+      "rows": [
+        ["PVsyst", "grid regulat CSV/XYZ sau import din scenă 3D", "Pentru analiza de umbrire pe relief; convenim pasul gridului"],
+        ["PVcase / AutoCAD", "dwg/dxf cu suprafață 3D și curbe de nivel", "Breaklines incluse; strat separat pentru limite cadastrale"],
+        ["AutoCAD Civil 3D", "LandXML (suprafață TIN)", "Formatul cel mai curat pentru terasamente și drumuri"],
+        ["QGIS / GIS", "GeoTIFF (raster MDT) + shp", "Pentru analize de pantă, orientare, hidrologie"],
+        ["Alte softuri", "XYZ / nor de puncte LAS", "Convenim formatul cu proiectantul înainte de livrare"]
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "Ce calculezi pe MDT — și de ce merită făcut devreme",
+      "html": "<p>Din același model livrăm derivatele care contează în deciziile de business: <a href=\"/parcuri-fotovoltaice/panta-teren-parc-fotovoltaic.html\">hărțile de pantă și orientare</a>, care arată cât din teren e utilizabil pentru tracker sau structură fixă; <a href=\"/parcuri-fotovoltaice/calcul-volumetrie-terasamente.html\">calculele cut/fill</a>, care transformă relieful în cost de nivelare; și <a href=\"/parcuri-fotovoltaice/analiza-umbrire-teren-fotovoltaic.html\">analiza de umbrire</a> acolo unde relieful din jur fură producție. Făcute înainte de semnarea terenului, aceste calcule sunt argumente de negociere; făcute după, sunt doar constatări.</p><p>Colaborăm cu dezvoltatori și constructori și predăm modelul împreună cu raportul de acuratețe: metoda de măsurare, punctele de control, abaterile constatate. Proiectantul știe exact pe ce se bazează — fără presupuneri.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Modelul se actualizează odată cu terenul",
+      "html": "<p>Un MDT nu e un livrabil de unică folosință — e o bază de date care trebuie să țină pasul cu amplasamentul. După terasamente, terenul nu mai arată ca la măsurătoarea inițială: cotele platformelor nivelate, taluzurile noi și drumurile executate trebuie măsurate și integrate într-o versiune actualizată a modelului, altfel calculele următoare — de la lungimile piloniilor la volumele decontate — se fac pe un teren care nu mai există. Noi ținem versiunile modelului clar separate și datate: modelul terenului natural, modelul după nivelare, modelul final pentru as-built.</p><p>Același principiu se aplică la proiectele preluate din mers: dacă ai deja un MDT de la un alt topograf sau din faza de due diligence, îl verificăm prin măsurători de control pe teren înainte să construim ceva pe el. Un set de puncte de verificare măsurate cu GNSS RTK ne spune în câteva ore dacă modelul e utilizabil, dacă are nevoie de completări locale sau dacă trebuie refăcut — mult mai ieftin decât să descoperi problema în calculul de terasamente sau, mai rău, la execuție.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Care e diferența dintre MDT și MDS?",
+          "a": "MDT (modelul digital al terenului) reprezintă solul natural; MDS (modelul digital al suprafeței) include vegetația și construcțiile. Pentru proiectarea unui parc fotovoltaic ai nevoie de MDT — un model nefiltrat, cu lanul de porumb inclus în cote, duce la lungimi de piloni și volume de terasamente greșite."
+        },
+        {
+          "q": "Pot folosi un MDT gratuit din surse publice în loc de măsurători?",
+          "a": "Pentru o pre-evaluare de birou, da. Pentru proiectare, nu: modelele publice au rezoluție și acuratețe de cotă cu mult sub necesarul unui parc fotovoltaic și nu reflectă modificările recente de teren. Diferența se plătește ulterior în terasamente și piloni redimensionați."
+        },
+        {
+          "q": "Ce acuratețe are MDT-ul pe care îl livrați?",
+          "a": "Depinde de metodă: punctele GNSS RTK au ±2–3 cm în plan, fotogrametria UAV cu puncte de control se încadrează în 2–5 cm în funcție de GSD, iar zonele critice le verificăm cu măsurători directe. Raportul de acuratețe însoțește fiecare livrare."
+        },
+        {
+          "q": "În cât timp primim modelul?",
+          "a": "Orientativ, pentru un amplasament tipic: 1–3 zile de teren plus 2–5 zile de prelucrare și verificare, în funcție de suprafață și relief. Dacă există deja o ridicare topografică validă, MDT-ul se poate livra doar din prelucrare, în câteva zile."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/ridicare-topografica-teren-fotovoltaic.html", "label": "Ridicare topografică teren fotovoltaic" },
+    { "href": "/parcuri-fotovoltaice/panta-teren-parc-fotovoltaic.html", "label": "Analiza pantelor terenului" },
+    { "href": "/parcuri-fotovoltaice/calcul-volumetrie-terasamente.html", "label": "Calcul volumetrie terasamente" },
+    { "href": "/parcuri-fotovoltaice/fotogrametrie-drona-teren.html", "label": "Fotogrametrie cu drona" },
+    { "href": "/servicii/plan-topografic/", "label": "Plan topografic — serviciul de bază" },
+    { "href": "/dictionar/mdt.html", "label": "Dicționar: MDT" }
+  ],
+  "sources": []
+}

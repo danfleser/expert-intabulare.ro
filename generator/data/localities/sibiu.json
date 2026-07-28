@@ -1,0 +1,453 @@
+[
+  {
+    "name": "Ațel",
+    "slug": "atel",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Ațel",
+      "Dupuș"
+    ],
+    "lat": 46.15,
+    "lon": 24.4667,
+    "ocpiOffice": {
+      "name": "BCPI Mediaș",
+      "address": "Piața Corneliu Coposu nr. 3, Mediaș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "sibiu",
+    "localNote": "Ațelul se ascunde pe o vale laterală a Târnavei Mari, între Mediaș și Dumbrăveni, cu o biserică fortificată gotică remarcabilă. Viile și livezile de pe dealuri completează arabilul din vale. Dosarele se depun la BCPI Mediaș.",
+    "nearby": []
+  },
+  {
+    "name": "Axente Sever",
+    "slug": "axente-sever",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Axente Sever",
+      "Agârbiciu",
+      "Șoala"
+    ],
+    "lat": 46.1,
+    "lon": 24.2167,
+    "ocpiOffice": {
+      "name": "BCPI Mediaș",
+      "address": "Piața Corneliu Coposu nr. 3, Mediaș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "sibiu",
+    "localNote": "Axente Sever, botezată după prefectul pașoptist născut aici, stă pe Târnava Mare, pe DN14 între Copșa Mică și Mediaș, cu o biserică fortificată impunătoare. Lunca și versanții cu vii dau hotarul tipic al văii. Competența este la BCPI Mediaș.",
+    "nearby": []
+  },
+  {
+    "name": "Bazna",
+    "slug": "bazna",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Bazna",
+      "Boian",
+      "Velț"
+    ],
+    "lat": 46.2,
+    "lon": 24.2833,
+    "ocpiOffice": {
+      "name": "BCPI Mediaș",
+      "address": "Piața Corneliu Coposu nr. 3, Mediaș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "sibiu",
+    "localNote": "Bazna e cunoscută pentru stațiunea balneară cu nămol sărat și gaze terapeutice, dar și pentru biserica fortificată săsească. Comuna stă pe dealurile dintre Târnava Mică și Târnava Mare, la nord-vest de Mediaș. Comuna ține de BCPI Mediaș.",
+    "nearby": []
+  },
+  {
+    "name": "Blăjel",
+    "slug": "blajel",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Blăjel",
+      "Păucea",
+      "Romanești"
+    ],
+    "lat": 46.2167,
+    "lon": 24.3167,
+    "ocpiOffice": {
+      "name": "BCPI Mediaș",
+      "address": "Piața Corneliu Coposu nr. 3, Mediaș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "sibiu",
+    "localNote": "Blăjelul se află la nord de Mediaș, pe drumul spre Bazna, cu satele Păucea și Romanești. Dealurile cu vii și arabil țin de peisajul clasic al Podișului Târnavelor. Dosarele se depun la BCPI Mediaș.",
+    "nearby": []
+  },
+  {
+    "name": "Brateiu",
+    "slug": "brateiu",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Brateiu",
+      "Buzd"
+    ],
+    "lat": 46.1667,
+    "lon": 24.4167,
+    "ocpiOffice": {
+      "name": "BCPI Mediaș",
+      "address": "Piața Corneliu Coposu nr. 3, Mediaș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "sibiu",
+    "localNote": "Brateiul stă pe Târnava Mare, pe DN14 între Mediaș și Dumbrăveni, cunoscut arheologic pentru necropolele din epoca migrațiilor descoperite aici. Comunitatea de meșteri căldărari și hotarul agricol dau specificul local. Competența este la BCPI Mediaș.",
+    "nearby": []
+  },
+  {
+    "name": "Copșa Mică",
+    "slug": "copsa-mica",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "oras",
+    "villages": [],
+    "lat": 46.1167,
+    "lon": 24.25,
+    "ocpiOffice": {
+      "name": "BCPI Mediaș",
+      "address": "Piața Corneliu Coposu nr. 3, Mediaș"
+    },
+    "matrix": "reduced",
+    "profile": "urban",
+    "countyNotesRef": "sibiu",
+    "localNote": "Copșa Mică stă la confluența Visei cu Târnava Mare, unde DN14B dinspre Blaj se unește cu DN14 Sibiu–Mediaș. După trecutul industrial greu, orașul își reface fondul construit, iar terenurile fostelor platforme cer clarificări cadastrale. Dosarele se depun la BCPI Mediaș.",
+    "nearby": []
+  },
+  {
+    "name": "Dârlos",
+    "slug": "darlos",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Dârlos",
+      "Curciu",
+      "Valea Lungă"
+    ],
+    "lat": 46.1833,
+    "lon": 24.4,
+    "ocpiOffice": {
+      "name": "BCPI Mediaș",
+      "address": "Piața Corneliu Coposu nr. 3, Mediaș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "sibiu",
+    "localNote": "Dârlosul se află imediat la est de Mediaș, pe valea Târnavei Mari, cu satele Curciu și Valea Lungă. Biserica gotică din sat păstrează fresce medievale, iar hotarul poartă vii și arabil. Dosarele se depun la BCPI Mediaș.",
+    "nearby": []
+  },
+  {
+    "name": "Dumbrăveni",
+    "slug": "dumbraveni",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "oras",
+    "villages": [
+      "Ernea",
+      "Șaroș pe Târnave"
+    ],
+    "lat": 46.2333,
+    "lon": 24.5667,
+    "ocpiOffice": {
+      "name": "BCPI Mediaș",
+      "address": "Piața Corneliu Coposu nr. 3, Mediaș"
+    },
+    "matrix": "reduced",
+    "profile": "urban",
+    "countyNotesRef": "sibiu",
+    "localNote": "Dumbrăveniul se află pe Târnava Mare, pe DN14 între Mediaș și Sighișoara, cu biserica armenească drept reper al orașului. Hotarul agricol cu vii și arabil păstrează parcelarea veche săsească. Orașul este arondat la BCPI Mediaș.",
+    "nearby": []
+  },
+  {
+    "name": "Hoghilag",
+    "slug": "hoghilag",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Hoghilag",
+      "Prod",
+      "Valchid"
+    ],
+    "lat": 46.2333,
+    "lon": 24.6167,
+    "ocpiOffice": {
+      "name": "BCPI Mediaș",
+      "address": "Piața Corneliu Coposu nr. 3, Mediaș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "sibiu",
+    "localNote": "Hoghilagul stă pe Târnava Mare, pe DN14 lângă Dumbrăveni, faimos pentru culturile de tuberoze — florile parfumate au aici o tradiție unică în țară. Lunca și dealurile cu vii întregesc hotarul. Comuna este arondată la BCPI Mediaș.",
+    "nearby": []
+  },
+  {
+    "name": "Loamneș",
+    "slug": "loamnes",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Loamneș",
+      "Alămor",
+      "Armeni",
+      "Hașag",
+      "Mândra",
+      "Sădinca"
+    ],
+    "lat": 45.9333,
+    "lon": 24.1,
+    "ocpiOffice": {
+      "name": "BCPI Sibiu",
+      "address": "Calea Dumbrăvii nr. 34, Sibiu"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "sibiu",
+    "localNote": "Loamneșul, cu satele Alămor, Hașag și Mândra, ocupă dealurile dintre Ocna Sibiului și valea Visei. Hotarul agricol întins, cu arabil și pășuni, se lucrează în bună parte arendat. Dosarele se depun la BCPI Sibiu.",
+    "nearby": []
+  },
+  {
+    "name": "Mediaș",
+    "slug": "medias",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "municipiu",
+    "villages": [
+      "Ighișu Nou"
+    ],
+    "lat": 46.1667,
+    "lon": 24.35,
+    "ocpiOffice": {
+      "name": "BCPI Mediaș",
+      "address": "Piața Corneliu Coposu nr. 3, Mediaș"
+    },
+    "matrix": "reduced",
+    "profile": "urban",
+    "countyNotesRef": "sibiu",
+    "localNote": "Mediașul, al doilea oraș al județului, stă pe Târnava Mare, pe DN14, cu Turnul Trompeților deasupra centrului medieval; orașul e vatra istorică a industriei gazului metan. Pentru noi e capătul firesc al culoarului care vine din Aiud prin Blaj pe DN14B. BCPI Mediaș, din Piața Corneliu Coposu nr. 3, acoperă tot nordul județului.",
+    "nearby": []
+  },
+  {
+    "name": "Micăsasa",
+    "slug": "micasasa",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Micăsasa",
+      "Chesler",
+      "Văleni",
+      "Țapu"
+    ],
+    "lat": 46.0833,
+    "lon": 24.1167,
+    "ocpiOffice": {
+      "name": "BCPI Mediaș",
+      "address": "Piața Corneliu Coposu nr. 3, Mediaș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "sibiu",
+    "localNote": "Micăsasa stă pe Târnava Mare, pe DN14B, între Copșa Mică și Blaj, la hotarul cu județul Alba — practic pe drumul nostru dinspre Aiud. Lunca și dealurile cu vii îi dau profilul agricol. Comuna este arondată la BCPI Mediaș.",
+    "nearby": []
+  },
+  {
+    "name": "Miercurea Sibiului",
+    "slug": "miercurea-sibiului",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "oras",
+    "villages": [
+      "Apoldu de Sus",
+      "Dobârca"
+    ],
+    "lat": 45.8833,
+    "lon": 23.8,
+    "ocpiOffice": {
+      "name": "BCPI Săliște",
+      "address": "Str. Reuniunea Meseriașilor nr. 3, Săliște"
+    },
+    "matrix": "reduced",
+    "profile": "urban",
+    "countyNotesRef": "sibiu",
+    "localNote": "Miercurea Sibiului stă pe valea Secașului, pe DN1, cu acces direct la autostrada A1, între Sebeș și Sibiu. Târgul istoric are hotar agricol întins, cu arabil și pășuni. Competența de carte funciară aparține BCPI Săliște.",
+    "nearby": []
+  },
+  {
+    "name": "Ocna Sibiului",
+    "slug": "ocna-sibiului",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "oras",
+    "villages": [
+      "Topârcea"
+    ],
+    "lat": 45.8833,
+    "lon": 24.05,
+    "ocpiOffice": {
+      "name": "BCPI Sibiu",
+      "address": "Calea Dumbrăvii nr. 34, Sibiu"
+    },
+    "matrix": "reduced",
+    "profile": "urban",
+    "countyNotesRef": "sibiu",
+    "localNote": "Ocna Sibiului e stațiunea balneară cu lacuri sărate formate pe vechile ocne, la câțiva kilometri de Sibiu. Terenurile din jurul lacurilor și pensiunilor sunt intens tranzacționate. Dosarele se depun la BCPI Sibiu.",
+    "nearby": []
+  },
+  {
+    "name": "Păuca",
+    "slug": "pauca",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Păuca",
+      "Bogatu Român",
+      "Broșteni",
+      "Presaca"
+    ],
+    "lat": 46.0167,
+    "lon": 23.9,
+    "ocpiOffice": {
+      "name": "BCPI Sibiu",
+      "address": "Calea Dumbrăvii nr. 34, Sibiu"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "sibiu",
+    "localNote": "Păuca stă în Podișul Secașelor, la hotarul cu județul Alba, lângă Roșia de Secaș, cu satele Bogatu Român, Broșteni și Presaca. Comuna agricolă are arabil întins pe versanții domoli ai Secașului. Comuna ține de BCPI Sibiu.",
+    "nearby": []
+  },
+  {
+    "name": "Șeica Mare",
+    "slug": "seica-mare",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Șeica Mare",
+      "Boarta",
+      "Buia",
+      "Mighindoala",
+      "Petiș",
+      "Ștenea"
+    ],
+    "lat": 46.0167,
+    "lon": 24.15,
+    "ocpiOffice": {
+      "name": "BCPI Mediaș",
+      "address": "Piața Corneliu Coposu nr. 3, Mediaș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "sibiu",
+    "localNote": "Șeica Mare se află pe valea Visei, pe DN14 între Sibiu și Copșa Mică, cu biserică fortificată și hotar agricol întins. Satele comunei se răsfiră pe văile afluente, cu arabil și pășuni. Dosarele se depun la BCPI Mediaș.",
+    "nearby": []
+  },
+  {
+    "name": "Șeica Mică",
+    "slug": "seica-mica",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Șeica Mică",
+      "Soroștin"
+    ],
+    "lat": 46.05,
+    "lon": 24.1333,
+    "ocpiOffice": {
+      "name": "BCPI Mediaș",
+      "address": "Piața Corneliu Coposu nr. 3, Mediaș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "sibiu",
+    "localNote": "Șeica Mică stă pe Visa, între Șeica Mare și Copșa Mică, cu biserica fortificată veghind satul compact săsesc. Parcelele lungi din intravilan și viile de pe dealuri păstrează structura veche a hotarului. Competența aparține BCPI Mediaș.",
+    "nearby": []
+  },
+  {
+    "name": "Sibiu",
+    "slug": "sibiu",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "municipiu",
+    "villages": [
+      "Păltiniș"
+    ],
+    "lat": 45.8,
+    "lon": 24.15,
+    "ocpiOffice": {
+      "name": "BCPI Sibiu",
+      "address": "Calea Dumbrăvii nr. 34, Sibiu"
+    },
+    "matrix": "reduced",
+    "profile": "urban",
+    "countyNotesRef": "sibiu",
+    "localNote": "Sibiul, fostă Capitală Culturală Europeană, stă pe Cibin, la poalele Făgărașului, cu aeroport internațional și piață imobiliară intensă. Dinspre Aiud se ajunge pe A1 prin Sebeș, deci lucrările se programează grupat. Dosarele se depun la BCPI Sibiu, în sediul OCPI de pe Calea Dumbrăvii nr. 34.",
+    "nearby": []
+  },
+  {
+    "name": "Târnava",
+    "slug": "tarnava",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Târnava",
+      "Colonia Târnava"
+    ],
+    "lat": 46.1397,
+    "lon": 24.2893,
+    "ocpiOffice": {
+      "name": "BCPI Mediaș",
+      "address": "Piața Corneliu Coposu nr. 3, Mediaș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "sibiu",
+    "localNote": "Târnava stă pe râul omonim, pe DN14, imediat în aval de Mediaș, spre Copșa Mică. Profilul comunei e agricol și rezidențial, cu lunca Târnavei Mari și dealuri cu vii deasupra satului. Dosarele se depun la BCPI Mediaș.",
+    "nearby": []
+  },
+  {
+    "name": "Valea Viilor",
+    "slug": "valea-viilor",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Valea Viilor",
+      "Motiș"
+    ],
+    "lat": 46.0833,
+    "lon": 24.2833,
+    "ocpiOffice": {
+      "name": "BCPI Mediaș",
+      "address": "Piața Corneliu Coposu nr. 3, Mediaș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "sibiu",
+    "localNote": "Valea Viilor păstrează una dintre bisericile fortificate săsești înscrise în patrimoniul mondial UNESCO, într-o vale lăturalnică a Târnavei Mari, la sud de Copșa Mică. Numele spune totul despre hotar: vii pe versanți și arabil pe vale. Dosarele se depun la BCPI Mediaș.",
+    "nearby": []
+  }
+]

@@ -1,0 +1,1068 @@
+[
+  {
+    "name": "Cadastru și intabulare",
+    "slug": "cadastru-si-intabulare",
+    "shortName": "cadastru și intabulare",
+    "tier2Available": true,
+    "hubOnly": false,
+    "metaDescription": "Cadastru și intabulare pentru terenuri și construcții: măsurătoare, documentație completă, depunere la OCPI. Topograf autorizat ANCPI, 25+ ani experiență.",
+    "hubIntro": "Cadastrul și intabularea sunt cele două fețe ale aceleiași operațiuni: cadastrul identifică și măsoară imobilul — teren sau construcție — iar intabularea îl înscrie în cartea funciară, pe numele proprietarului. Abia după intabulare imobilul poate fi vândut, ipotecat, dezmembrat sau adus garanție la bancă. Ne ocupăm de întregul proces, de la măsurătoarea la fața locului până la extrasul final de carte funciară.",
+    "introVariants": [
+      {
+        "profile": "agricol-campie",
+        "text": "Multe imobile din {localitate} figurează încă doar în registrul agricol sau pe titluri de proprietate din anii ’90, fără carte funciară. Facem cadastrul și intabularea de la zero: identificăm parcela, o măsurăm cu echipament GPS de precizie și depunem documentația completă la {ocpi}."
+      },
+      {
+        "profile": "agricol-campie",
+        "text": "Vrei să vinzi, să arendezi cu acte în regulă sau să împarți moștenirea unui imobil din {localitate}? Fără cadastru și intabulare, notarul nu poate autentifica tranzacția. Ne ocupăm de măsurătoare, de documentația cadastrală și de dosarul depus la {ocpi}, până primești extrasul de carte funciară."
+      },
+      {
+        "profile": "montan-apuseni",
+        "text": "În zona {localitate}, limitele imobilelor urmează adesea văi, culmi și drumuri vechi care nu se regăsesc în schițele din acte. Măsurăm imobilul la fața locului, lămurim vecinătățile cu proprietarii limitrofi și pregătim documentația de cadastru și intabulare pentru {ocpi}."
+      },
+      {
+        "profile": "montan-apuseni",
+        "text": "Pentru imobilele din satele risipite din jurul localității {localitate}, cadastrul cere identificare atentă: acte vechi, martori ai limitelor, planuri parcelare. Avem experiența terenului din zona de munte și ducem dosarul până la înscrierea în cartea funciară la {ocpi}."
+      },
+      {
+        "profile": "urban",
+        "text": "În {localitate}, orice tranzacție imobiliară, credit ipotecar sau autorizație de construire pornește de la un imobil corect intabulat. Verificăm situația juridică existentă, măsurăm imobilul și întocmim documentația cadastrală pe care o depunem la {ocpi}."
+      },
+      {
+        "profile": "urban",
+        "text": "Cumperi sau vinzi un imobil în {localitate}? Banca și notarul cer carte funciară la zi. Rezolvăm cadastrul și intabularea — inclusiv situațiile complicate: acte vechi, suprafețe diferite, construcții neînscrise — cu depunere la {ocpi} și urmărirea dosarului până la final."
+      },
+      {
+        "profile": "periurban",
+        "text": "Zona {localitate} s-a dezvoltat rapid, iar multe imobile au rămas cu evidențe vechi: terenuri trecute în intravilan, case extinse fără actualizarea cărții funciare. Punem actele în ordine — măsurătoare, documentație cadastrală, depunere la {ocpi} — ca imobilul să poată fi vândut sau ipotecat."
+      },
+      {
+        "profile": "periurban",
+        "text": "Pentru imobilele din {localitate}, aflate în apropierea orașului, cererea de cumpărare este mare — dar fără intabulare nu se poate semna la notar. Facem cadastrul complet, cu măsurătoare GPS, plan de amplasament și delimitare și dosar depus la {ocpi}."
+      }
+    ],
+    "process": [
+      "Ne scrii pe WhatsApp sau ne suni și ne descrii situația imobilului și actele pe care le ai.",
+      "Verificăm situația în evidențele de carte funciară și îți spunem exact ce acte lipsesc.",
+      "Măsurăm imobilul în {localitate}, cu convocarea vecinilor unde este necesar.",
+      "Întocmim documentația cadastrală și o depunem la {ocpi}.",
+      "Urmărim dosarul și îți predăm extrasul de carte funciară cu imobilul înscris."
+    ],
+    "documents": [
+      "Act de proprietate (titlu de proprietate, contract de vânzare, certificat de moștenitor, hotărâre judecătorească)",
+      "Act de identitate al proprietarului sau proprietarilor",
+      "Certificat de atestare fiscală de la primărie, pentru cadastru",
+      "Extras de carte funciară pentru informare, dacă imobilul a mai fost înscris",
+      "Autorizația de construire și procesul-verbal de recepție, pentru construcții"
+    ],
+    "priceRange": "900 – 2.500 lei, orientativ, în funcție de tipul imobilului și de acte",
+    "priceTable": {
+      "head": [
+        "Lucrare",
+        "Interval orientativ"
+      ],
+      "rows": [
+        [
+          "Cadastru + intabulare teren fără construcții",
+          "900 – 2.000 lei"
+        ],
+        [
+          "Cadastru + intabulare teren cu casă",
+          "1.400 – 2.500 lei"
+        ],
+        [
+          "Cadastru + intabulare apartament",
+          "700 – 1.200 lei"
+        ],
+        [
+          "Situații complexe (acte lipsă, suprapuneri, mai multe parcele)",
+          "ofertă după analiza actelor"
+        ]
+      ]
+    },
+    "faqPool": [
+      {
+        "q": "Care este diferența dintre cadastru și intabulare?",
+        "a": "Cadastrul este partea tehnică: măsurarea imobilului și întocmirea documentației cu planul de amplasament. Intabularea este partea juridică: înscrierea dreptului de proprietate în cartea funciară. Se fac împreună, într-un singur dosar depus la OCPI."
+      },
+      {
+        "q": "Cât durează cadastrul și intabularea în {localitate}?",
+        "a": "Măsurătoarea o programăm de regulă în câteva zile, iar după depunerea dosarului complet la {ocpi} termenul obișnuit de soluționare este de ordinul săptămânilor. Contra taxei de urgență ANCPI, termenul se reduce semnificativ."
+      },
+      {
+        "q": "Ce acte îmi trebuie dacă imobilul este moștenit?",
+        "a": "Certificatul de moștenitor este actul de bază. Dacă succesiunea nu a fost dezbătută, mai întâi se face la notar — vă putem îndruma pașii — iar apoi întocmim documentația cadastrală pe baza lui."
+      },
+      {
+        "q": "Imobilul apare la registrul agricol din {localitate}, dar nu are carte funciară. Se poate intabula?",
+        "a": "Da — este exact situația primei înscrieri. Folosim actele de proprietate existente, măsurăm imobilul și îl înscriem în cartea funciară. Registrul agricol dovedește folosința, dar numai cartea funciară vă face proprietar tabular."
+      },
+      {
+        "q": "Cât costă cadastrul și intabularea?",
+        "a": "Onorariul depinde de tipul imobilului, suprafață și acte — orientativ între 900 și 2.500 lei, la care se adaugă tarifele ANCPI. După o discuție scurtă pe WhatsApp, cu actele văzute, primiți un preț ferm."
+      },
+      {
+        "q": "Trebuie să fiu prezent la măsurătoare?",
+        "a": "Recomandat, dumneavoastră sau cineva care cunoaște limitele imobilului. Pentru proprietarii plecați din țară lucrăm cu împuternicit; actele se pot semna și de la distanță."
+      },
+      {
+        "q": "Vecinii trebuie să semneze ceva?",
+        "a": "La terenuri, în anumite situații — mai ales la prima înscriere și la diferențe de suprafață — se întocmește procesul-verbal de vecinătate semnat de proprietarii limitrofi. Ne ocupăm noi de convocarea și lămurirea vecinilor."
+      },
+      {
+        "q": "Suprafața reală diferă de cea din acte. Ce se întâmplă?",
+        "a": "Este printre cele mai frecvente situații. În funcție de mărimea diferenței și de prevederile legale, se poate înscrie suprafața măsurată sau este nevoie de proceduri suplimentare. Vă spunem varianta exactă imediat după măsurătoare."
+      },
+      {
+        "q": "Pot vinde un imobil neintabulat?",
+        "a": "Nu — notarul are nevoie de extras de carte funciară de autentificare, care se emite doar pentru imobile intabulate. De aceea cadastrul și intabularea sunt primul pas obligatoriu înaintea oricărei vânzări."
+      },
+      {
+        "q": "Casa este construită de zeci de ani, dar nu apare în cartea funciară. E o problemă la vânzare?",
+        "a": "Da, construcția trebuie înscrisă înainte de tranzacție. Pentru construcțiile vechi se folosește certificatul de atestare a existenței construcției eliberat de primărie; pentru cele noi, autorizația de construire și recepția."
+      },
+      {
+        "q": "Faceți și acte pentru bancă, la credit ipotecar?",
+        "a": "Da — documentația cadastrală și intabularea sunt exact ce cere banca înainte de ipotecă. Lucrăm frecvent cu termene impuse de bănci și de notari și știm să ne încadrăm în ele."
+      },
+      {
+        "q": "Cine plătește cadastrul: vânzătorul sau cumpărătorul?",
+        "a": "Legea nu impune — este înțelegerea părților. În practică, vânzătorul pune imobilul la punct pentru tranzacție, pentru că fără carte funciară nu se poate semna. Devizul nostru separă clar onorariul de tarifele ANCPI."
+      }
+    ],
+    "related": [
+      "intabulare-teren",
+      "intabulare-casa-constructie",
+      "plan-topografic",
+      "actualizare-carte-funciara"
+    ]
+  },
+  {
+    "name": "Intabulare teren",
+    "slug": "intabulare-teren",
+    "shortName": "intabulare teren",
+    "tier2Available": false,
+    "hubOnly": false,
+    "metaDescription": "Intabulare teren intravilan sau extravilan: acte necesare, pași, prețuri orientative. Topograf autorizat ANCPI, județul Alba și împrejurimi.",
+    "hubIntro": "Intabularea terenului înseamnă înscrierea lui în cartea funciară, cu măsurătoare la fața locului, plan de amplasament și delimitare și dosar depus la OCPI. Fără intabulare, terenul nu poate fi vândut, ipotecat, dezmembrat sau adus ca dovadă a proprietății într-un proiect cu finanțare. Lucrăm atât terenuri intravilane, cât și parcele agricole din extravilan, inclusiv cazurile cu titluri de proprietate vechi.",
+    "introVariants": [
+      {
+        "profile": "agricol-campie",
+        "text": "Ai un teren agricol în {localitate} pe care vrei să-l vinzi, să-l arendezi cu acte în regulă sau să-l lași moștenire fără complicații? Intabularea este primul pas: măsurăm parcela cu echipament GPS de precizie, întocmim planul de amplasament și delimitare și depunem dosarul complet la {ocpi}."
+      },
+      {
+        "profile": "agricol-campie",
+        "text": "În zonele agricole precum {localitate}, multe terenuri au titlu de proprietate din anii ’90, dar nu au fost niciodată măsurate și înscrise în cartea funciară. Ne ocupăm de tot procesul: identificarea parcelei pe planul parcelar, măsurătoarea, vecinătățile și depunerea documentației la {ocpi}."
+      },
+      {
+        "profile": "montan-apuseni",
+        "text": "Terenurile din zona montană, cum sunt cele din {localitate}, au adesea limite naturale — pâraie, culmi, drumuri forestiere — care nu corespund cu schițele vechi. Măsurăm parcela la fața locului, lămurim vecinătățile și pregătim dosarul de intabulare pentru {ocpi}."
+      },
+      {
+        "profile": "montan-apuseni",
+        "text": "În satele din jurul localității {localitate}, terenurile se transmit din generație în generație fără acte la zi. Facem identificarea, măsurătoarea și prima înscriere în cartea funciară, ca proprietatea să fie a ta și pe hârtie, nu doar din bătrâni."
+      },
+      {
+        "profile": "urban",
+        "text": "Pentru terenurile din intravilanul localității {localitate}, intabularea corectă este condiția oricărei tranzacții sau autorizații de construire. Verificăm situația juridică, măsurăm terenul și depunem documentația cadastrală la {ocpi}."
+      },
+      {
+        "profile": "urban",
+        "text": "Vinzi sau cumperi un teren în {localitate}? Notarul va cere extras de carte funciară valabil, iar dacă terenul nu este intabulat, tranzacția se blochează. Facem măsurătoarea, planul de amplasament și delimitare și depunem dosarul la {ocpi}, ca să semnezi la termen."
+      },
+      {
+        "profile": "periurban",
+        "text": "În zonele aflate în extinderea orașelor, precum {localitate}, terenurile trecute din extravilan în intravilan au nevoie de documentație cadastrală adusă la zi înainte de vânzare sau construire. Ne ocupăm de măsurătoare, de categoria de folosință și de dosarul pentru {ocpi}."
+      },
+      {
+        "profile": "periurban",
+        "text": "Loturile din {localitate} sunt tot mai căutate pentru case noi — dar un teren fără carte funciară nu poate primi autorizație de construire pe numele tău. Rezolvăm intabularea rapid: măsurătoare, documentație, depunere la {ocpi} și extras final."
+      }
+    ],
+    "process": [
+      "Discutăm situația pe WhatsApp sau la telefon și stabilim actele de pornire.",
+      "Identificăm parcela în planurile parcelare și în evidențele OCPI.",
+      "Măsurăm terenul în {localitate}, la fața locului cu echipament GPS/stație totală.",
+      "Întocmim planul de amplasament și delimitare (PAD) și restul documentației.",
+      "Depunem dosarul la {ocpi} și urmărim soluționarea.",
+      "Primești extrasul de carte funciară cu terenul înscris pe numele tău."
+    ],
+    "documents": [
+      "Act de proprietate (titlu de proprietate, contract, certificat de moștenitor)",
+      "Act de identitate proprietar(i)",
+      "Certificat de atestare fiscală de la primărie, pentru cadastru",
+      "Extras de carte funciară pentru informare (dacă există)",
+      "Adeverință de la registrul agricol, unde este cazul"
+    ],
+    "priceRange": "900 – 2.500 lei, orientativ, în funcție de suprafață și acte",
+    "faqPool": [
+      {
+        "q": "Cât durează intabularea unui teren în {localitate}?",
+        "a": "De regulă câteva săptămâni de la depunerea dosarului complet la {ocpi}, la care se adaugă timpul de măsurătoare și de obținere a actelor de la primărie. Termenul poate fi redus contra taxei de urgență ANCPI."
+      },
+      {
+        "q": "Pot intabula un teren moștenit dacă succesiunea nu este făcută?",
+        "a": "Nu direct — mai întâi se dezbate succesiunea la notar, apoi certificatul de moștenitor devine actul de proprietate pe baza căruia întocmim documentația cadastrală. Vă recomandăm pașii exacți pentru situația dumneavoastră."
+      },
+      {
+        "q": "Ce se întâmplă dacă vecinii nu sunt de acord cu limita?",
+        "a": "La măsurătoare convocăm vecinii pentru semnarea procesului-verbal de vecinătate. Dacă există divergențe, le documentăm și vă explicăm variantele: mediere, expertiză sau acțiune în instanță pentru grănițuire."
+      },
+      {
+        "q": "Terenul din {localitate} apare la registrul agricol, dar nu are carte funciară. E o problemă?",
+        "a": "Este exact situația pe care o rezolvă intabularea: registrul agricol dovedește folosința, dar numai înscrierea în cartea funciară vă face proprietar deplin, cu drept de vânzare sau ipotecare."
+      },
+      {
+        "q": "Cât costă intabularea unui teren agricol?",
+        "a": "Onorariul depinde de suprafață, de numărul de parcele și de actele existente — de regulă între 900 și 2.500 lei, orientativ, la care se adaugă tarifele ANCPI. După o discuție pe WhatsApp vă dăm un preț ferm."
+      },
+      {
+        "q": "Trebuie să fiu prezent la măsurătoare?",
+        "a": "Este recomandat — dumneavoastră sau cineva care cunoaște limitele terenului. Pentru clienții plecați din țară lucrăm cu un împuternicit sau cu un vecin care indică limitele, iar actele se semnează și de la distanță."
+      },
+      {
+        "q": "Terenul are suprafață diferită în acte față de teren. Ce facem?",
+        "a": "Situația este frecventă la titlurile vechi. În funcție de diferență, legea permite înscrierea suprafeței măsurate cu acordul vecinilor sau impune proceduri suplimentare. Vă spunem exact varianta aplicabilă după măsurătoare."
+      },
+      {
+        "q": "Faceți și dezmembrarea dacă vreau să vând doar o parte din teren?",
+        "a": "Da — după intabulare putem dezmembra parcela în loturi, cu documentație cadastrală separată pentru fiecare lot și înscriere în cărți funciare noi."
+      },
+      {
+        "q": "Titlul de proprietate e pe tarla și parcelă. Cum se găsește terenul?",
+        "a": "Folosim planurile parcelare ale tarlalei și măsurătorile din teren pentru identificarea exactă a parcelei. Este pasul cel mai delicat la terenurile agricole — o identificare greșită înseamnă intabularea terenului altcuiva."
+      },
+      {
+        "q": "Pot intabula terenul dacă e cadastru sistematic în {localitate}?",
+        "a": "Dacă în sectorul cadastral respectiv s-a finalizat cadastrul sistematic, imobilul poate fi deja înscris din oficiu — verificăm gratuit situația. Dacă lucrările sunt doar anunțate, intabularea sporadică rămâne calea sigură și rapidă."
+      },
+      {
+        "q": "E nevoie de intabulare pentru arendă sau APIA?",
+        "a": "Pentru subvenții și contracte de arendă înregistrate, evidența clară a proprietății ajută întotdeauna, iar la vânzarea terenului sau accesarea de fonduri devine obligatorie. Un teren intabulat valorează mai mult și se tranzacționează fără blocaje."
+      }
+    ],
+    "related": [
+      "cadastru-si-intabulare",
+      "dezmembrare-alipire",
+      "plan-topografic",
+      "trasare-teren"
+    ]
+  },
+  {
+    "name": "Intabulare casă / construcție",
+    "slug": "intabulare-casa-constructie",
+    "shortName": "intabulare construcție",
+    "tier2Available": false,
+    "hubOnly": false,
+    "metaDescription": "Intabulare casă sau construcție nouă/veche: certificat de atestare, recepție, înscriere în cartea funciară. Topograf autorizat ANCPI, Alba.",
+    "hubIntro": "Casa construită — nouă sau veche — trebuie înscrisă în cartea funciară pentru a putea fi vândută, ipotecată sau lăsată moștenire fără complicații. Intabulăm construcții noi pe bază de autorizație și recepție, dar și construcții vechi, fără autorizație, pe baza certificatului de atestare eliberat de primărie. Măsurăm construcția, actualizăm planul de amplasament și depunem dosarul complet la OCPI.",
+    "introVariants": [
+      {
+        "profile": "agricol-campie",
+        "text": "Casa părintească din {localitate} nu apare în cartea funciară? Este situația a mii de gospodării din zonele rurale. O măsurăm, obținem certificatul de atestare de la primărie și o înscriem în cartea funciară, ca moștenirea sau vânzarea să se poată face fără blocaje la notar."
+      },
+      {
+        "profile": "agricol-campie",
+        "text": "Pentru gospodăriile din {localitate} — casă, anexe, grajd, șură — intabularea construcțiilor pune ordine în acte: fiecare construcție apare cu suprafața ei corectă în cartea funciară. Ne ocupăm de măsurători, de actele de la primărie și de dosarul pentru {ocpi}."
+      },
+      {
+        "profile": "montan-apuseni",
+        "text": "Casele și cabanele din zona {localitate}, ridicate de-a lungul generațiilor, lipsesc adesea din cartea funciară. Facem măsurătoarea, documentația cu certificat de atestare și înscrierea la {ocpi} — inclusiv pentru construcții aflate pe terenuri abia intabulate."
+      },
+      {
+        "profile": "montan-apuseni",
+        "text": "Ai o cabană sau o casă de vacanță în {localitate}? Ca să o vinzi, să o închiriezi legal sau să o asiguri corect, trebuie înscrisă în cartea funciară. Rezolvăm intabularea construcției de la măsurătoare până la extrasul final."
+      },
+      {
+        "profile": "urban",
+        "text": "Ai terminat casa în {localitate} și ai procesul-verbal de recepție? Urmează pasul final: intabularea construcției. Măsurăm imobilul, întocmim documentația cadastrală de înscriere a construcției și o depunem la {ocpi}, ca locuința să existe oficial în cartea funciară."
+      },
+      {
+        "profile": "urban",
+        "text": "La vânzarea unei case din {localitate}, notarul verifică dacă toate construcțiile sunt înscrise în cartea funciară — inclusiv extinderile și anexele. Punem situația la punct: măsurători, certificat de atestare unde e cazul, documentație și depunere la {ocpi}."
+      },
+      {
+        "profile": "periurban",
+        "text": "Cartierele noi din {localitate} s-au construit repede, iar multe case au rămas neintabulate după recepție. Finalizăm actele: măsurăm construcția, întocmim documentația de înscriere și o depunem la {ocpi} — condiția pentru vânzare sau credit ipotecar."
+      },
+      {
+        "profile": "periurban",
+        "text": "Ai extins sau modificat casa din {localitate}? Extinderea trebuie înscrisă în cartea funciară, altfel apare diferență între acte și realitate la orice tranzacție. Actualizăm documentația cadastrală și o depunem la {ocpi}."
+      }
+    ],
+    "process": [
+      "Ne trimiți pe WhatsApp actele construcției — autorizație și recepție sau, la case vechi, ce acte există.",
+      "Pentru construcțiile fără autorizație obținem certificatul de atestare a existenței construcției de la primărie.",
+      "Măsurăm construcția și terenul, cu deplasare în {localitate}.",
+      "Întocmim documentația cadastrală de înscriere a construcției.",
+      "Depunem dosarul la {ocpi} și îți predăm extrasul de carte funciară."
+    ],
+    "documents": [
+      "Extras de carte funciară al terenului (terenul trebuie să fie intabulat)",
+      "Autorizația de construire și procesul-verbal de recepție, pentru construcții autorizate",
+      "Certificat de atestare a existenței construcției, pentru case vechi fără autorizație",
+      "Certificat de atestare fiscală de la primărie",
+      "Act de identitate proprietar(i)"
+    ],
+    "priceRange": "1.000 – 2.500 lei, orientativ, în funcție de construcție și acte",
+    "faqPool": [
+      {
+        "q": "Casa e veche și nu are autorizație de construire. Se poate intabula?",
+        "a": "Da — pentru construcțiile edificate înainte de intrarea în vigoare a legii autorizării sau în condițiile prevăzute de lege, primăria eliberează certificatul de atestare a existenței construcției, pe baza căruia întocmim documentația de înscriere."
+      },
+      {
+        "q": "Terenul nu este intabulat. Pot înscrie doar casa?",
+        "a": "Nu — construcția se înscrie în cartea funciară a terenului, deci terenul trebuie intabulat primul. Le putem face împreună, într-un singur proiect: mai întâi terenul, apoi construcția."
+      },
+      {
+        "q": "Ce pățesc dacă vând casa fără să fie înscrisă în cartea funciară?",
+        "a": "Tranzacția nu se poate autentifica: notarul vinde doar ce există în cartea funciară. O casă neînscrisă înseamnă, juridic, că vindeți doar terenul — cu preț pe măsură. Intabularea protejează exact valoarea construcției."
+      },
+      {
+        "q": "Cât durează intabularea unei case în {localitate}?",
+        "a": "Măsurătoarea și documentația durează câteva zile; obținerea certificatului de atestare de la primărie diferă de la o comună la alta; iar soluționarea la {ocpi} urmează termenele obișnuite, care se pot scurta cu taxă de urgență."
+      },
+      {
+        "q": "Am recepția făcută. Mai trebuie ceva?",
+        "a": "Da — recepția nu înscrie construcția automat. Este nevoie de documentația cadastrală de înscriere, întocmită de un topograf autorizat, depusă la OCPI. Abia atunci casa apare în cartea funciară cu suprafețele ei."
+      },
+      {
+        "q": "Se intabulează și anexele: garaj, grajd, șură?",
+        "a": "Da, orice construcție permanentă poate fi înscrisă. La gospodăriile rurale recomandăm înscrierea tuturor construcțiilor odată — costul suplimentar e mic, iar actele rămân curate la moștenire sau vânzare."
+      },
+      {
+        "q": "Am demolat o construcție veche. Trebuie făcut ceva în cartea funciară?",
+        "a": "Da — radierea construcției demolate, pe baza autorizației de desființare și a unei documentații cadastrale. Altfel, în acte continuă să existe o construcție care nu mai e pe teren, ceea ce blochează tranzacțiile."
+      },
+      {
+        "q": "Cât costă intabularea unei construcții?",
+        "a": "Orientativ între 1.000 și 2.500 lei, în funcție de mărimea construcției, de acte și de necesitatea certificatului de atestare, plus tarifele ANCPI. Trimiteți-ne actele pe WhatsApp și primiți un preț ferm."
+      },
+      {
+        "q": "Casa depășește puțin limita terenului. Ce se întâmplă?",
+        "a": "Situația se vede exact la măsurătoare. În funcție de caz, se rezolvă prin acord cu vecinul, servitute, cumpărarea fâșiei sau alte căi legale — vă prezentăm variantele cu argumente, înainte de a depune ceva."
+      },
+      {
+        "q": "Banca îmi cere înscrierea casei pentru credit. Vă încadrați în termen?",
+        "a": "Da, lucrăm frecvent cu termene bancare. Cu actele complete și taxa de urgență la OCPI, intabularea construcției se poate finaliza în timp util pentru dosarul de credit."
+      }
+    ],
+    "related": [
+      "cadastru-si-intabulare",
+      "actualizare-carte-funciara",
+      "trasare-teren",
+      "plan-topografic"
+    ]
+  },
+  {
+    "name": "Intabulare apartament",
+    "slug": "intabulare-apartament",
+    "shortName": "intabulare apartament",
+    "tier2Available": false,
+    "hubOnly": false,
+    "metaDescription": "Intabulare și cadastru apartament: documentație unitate individuală, cote părți comune, înscriere în cartea funciară. Topograf autorizat ANCPI.",
+    "hubIntro": "Apartamentul se înscrie în cartea funciară ca unitate individuală: spațiul propriu-zis plus cota-parte din părțile comune ale blocului și din teren. Facem cadastrul apartamentelor la prima vânzare a locuințelor vechi, la moșteniri, la cumpărări prin credit și la apartamentările clădirilor noi — cu releveu la fața locului și documentație depusă la OCPI.",
+    "introVariants": [
+      {
+        "profile": "agricol-campie",
+        "text": "Ai un apartament în {localitate} cumpărat pe vremea statului sau moștenit? Multe locuințe din blocurile vechi nu au cadastru făcut. Realizăm releveul, calculăm cotele din părțile comune și înscriem apartamentul în cartea funciară, la {ocpi}."
+      },
+      {
+        "profile": "agricol-campie",
+        "text": "Pentru apartamentele din blocurile din {localitate}, cadastrul este condiția oricărei vânzări sau ipoteci. Măsurăm locuința, întocmim documentația de unitate individuală și o depunem la {ocpi}."
+      },
+      {
+        "profile": "montan-apuseni",
+        "text": "Și în orașele mici din zona montană, precum {localitate}, apartamentele din blocurile vechi se vând doar cu cadastru și intabulare la zi. Facem releveul locuinței, documentația cadastrală și înscrierea la {ocpi}, cu programare rapidă."
+      },
+      {
+        "profile": "montan-apuseni",
+        "text": "Vinzi sau moștenești un apartament în {localitate}? Verificăm situația lui în cartea funciară, refacem sau întocmim documentația cadastrală și rezolvăm înscrierea la {ocpi} — inclusiv pentru locuințele cumpărate de la stat în anii ’90."
+      },
+      {
+        "profile": "urban",
+        "text": "În {localitate}, băncile și notarii cer cadastru și extras de carte funciară la zi pentru orice apartament tranzacționat. Facem releveul, documentația de unitate individuală și depunerea la {ocpi}, cu termene potrivite pentru dosarele de credit."
+      },
+      {
+        "profile": "urban",
+        "text": "Apartamentul din {localitate} are modificări interioare sau balcon închis? La vânzare, diferențele față de schița veche pot bloca tranzacția. Actualizăm releveul și documentația cadastrală și punem cartea funciară în acord cu realitatea."
+      },
+      {
+        "profile": "periurban",
+        "text": "Blocurile noi din zona {localitate} se apartamentează la finalizare: fiecare locuință primește carte funciară proprie, cu cotele din părțile comune. Lucrăm cu dezvoltatori și cu proprietari individuali, de la releveu până la înscrierea la {ocpi}."
+      },
+      {
+        "profile": "periurban",
+        "text": "Cumperi un apartament în {localitate} prin credit? Banca cere cadastru și intabulare corecte. Verificăm documentația existentă, refacem ce este necesar și ne încadrăm în termenul băncii."
+      }
+    ],
+    "process": [
+      "Ne trimiți pe WhatsApp actele apartamentului și ne spui scopul: vânzare, moștenire, credit.",
+      "Facem releveul apartamentului, cu deplasare în {localitate} — durează sub o oră.",
+      "Întocmim documentația cadastrală de unitate individuală, cu cotele din părțile comune.",
+      "Depunem dosarul la {ocpi} și urmărim soluționarea.",
+      "Primești extrasul de carte funciară al apartamentului, gata pentru notar sau bancă."
+    ],
+    "documents": [
+      "Act de proprietate al apartamentului (contract, certificat de moștenitor)",
+      "Act de identitate proprietar(i)",
+      "Certificat de atestare fiscală de la primărie",
+      "Schița apartamentului din actul de proprietate, dacă există",
+      "Extras de carte funciară pentru informare, dacă apartamentul a mai fost înscris"
+    ],
+    "priceRange": "700 – 1.200 lei, orientativ, pentru un apartament obișnuit",
+    "faqPool": [
+      {
+        "q": "Cât durează cadastrul unui apartament în {localitate}?",
+        "a": "Releveul se face într-o singură vizită, documentația în câteva zile, iar soluționarea la {ocpi} urmează termenele obișnuite, care pot fi scurtate cu taxă de urgență — util la dosarele de credit cu termen fix."
+      },
+      {
+        "q": "Apartamentul e cumpărat de la stat în anii ’90 și nu are cadastru. E o problemă?",
+        "a": "Este cazul tipic: contractul de vânzare de atunci este act de proprietate valabil, dar apartamentul trebuie înscris în cartea funciară ca unitate individuală înainte de orice tranzacție nouă. Rezolvăm complet situația."
+      },
+      {
+        "q": "Am închis balconul / am modificat interiorul. Contează la cadastru?",
+        "a": "Modificările care schimbă suprafețele sau compartimentarea trebuie reflectate în documentație. La releveu constatăm exact situația și vă spunem dacă e nevoie de acte suplimentare de la primărie."
+      },
+      {
+        "q": "Ce sunt cotele din părțile comune?",
+        "a": "Partea din terenul blocului, casa scării, acoperiș și fundație care revine apartamentului dumneavoastră. Se calculează din suprafețe și se înscriu în cartea funciară împreună cu locuința."
+      },
+      {
+        "q": "Cât costă cadastrul unui apartament?",
+        "a": "Orientativ 700 – 1.200 lei pentru un apartament obișnuit, plus tarifele ANCPI. Prețul ferm vi-l dăm după ce vedem actele — trimiteți-le pe WhatsApp."
+      },
+      {
+        "q": "Pot face cadastrul dacă sunt plecat din țară?",
+        "a": "Da — cu o procură pentru o persoană de încredere care ne asigură accesul pentru releveu și semnează unde este necesar. Restul comunicării se face pe WhatsApp și e-mail."
+      },
+      {
+        "q": "Blocul nu are carte funciară colectivă. Se poate înscrie apartamentul?",
+        "a": "Depinde de situația clădirii și a terenului — o verificăm gratuit în evidențe și vă spunem exact pașii. Uneori este necesară mai întâi înscrierea construcției sau apartamentarea, alteori se poate lucra direct."
+      },
+      {
+        "q": "Moștenire cu mai mulți frați: cum se înscrie apartamentul?",
+        "a": "După dezbaterea succesiunii, apartamentul se înscrie pe toți moștenitorii conform certificatului de moștenitor, în cotele stabilite. La o eventuală vânzare, toți coproprietarii semnează."
+      }
+    ],
+    "related": [
+      "cadastru-si-intabulare",
+      "actualizare-carte-funciara",
+      "certificat-energetic"
+    ]
+  },
+  {
+    "name": "Dezmembrare / alipire",
+    "slug": "dezmembrare-alipire",
+    "shortName": "dezmembrare sau alipire",
+    "tier2Available": true,
+    "hubOnly": false,
+    "metaDescription": "Dezmembrare teren în loturi sau alipire parcele: documentație cadastrală, act notarial, cărți funciare noi. Topograf autorizat ANCPI, Alba.",
+    "hubIntro": "Dezmembrarea împarte un imobil în două sau mai multe loturi cu cărți funciare separate — pentru vânzarea unei părți, împărțirea moștenirii sau construirea pe un lot distinct. Alipirea face operațiunea inversă: unește parcele învecinate într-un singur imobil. Ambele presupun documentație cadastrală întocmită de topograf autorizat, recepționată de OCPI, urmată de actul notarial și înscrierea noilor imobile în cartea funciară.",
+    "introVariants": [
+      {
+        "profile": "agricol-campie",
+        "text": "Împărțiți moștenirea sau vindeți doar o parte din terenul din {localitate}? Dezmembrăm parcela în loturile stabilite, cu respectarea condițiilor legale, și pregătim documentația pentru notar și {ocpi}."
+      },
+      {
+        "profile": "agricol-campie",
+        "text": "Pentru terenurile agricole din {localitate}, alipirea parcelelor învecinate simplifică actele și crește valoarea la vânzare sau arendare. Măsurăm, întocmim documentația cadastrală de alipire și o depunem la {ocpi}."
+      },
+      {
+        "profile": "montan-apuseni",
+        "text": "În zona {localitate}, unde proprietățile s-au împărțit din generație în generație, dezmembrarea corectă cere măsurători atente și lămurirea limitelor cu vecinii. Ne ocupăm de întreg procesul, de la teren până la cărțile funciare noi."
+      },
+      {
+        "profile": "montan-apuseni",
+        "text": "Vinzi o parte din terenul din {localitate} — pentru o cabană, o casă de vacanță sau unui vecin? Dezmembrarea este pasul obligatoriu: lotul vândut primește carte funciară proprie. Facem documentația și depunerea la {ocpi}."
+      },
+      {
+        "profile": "urban",
+        "text": "În {localitate}, dezmembrarea loturilor pentru construire trebuie corelată cu regulile de urbanism: suprafețe minime, front la stradă, acces. Verificăm condițiile din certificatul de urbanism și întocmim documentația cadastrală corect de la început."
+      },
+      {
+        "profile": "urban",
+        "text": "Dezvolți sau vinzi loturi în {localitate}? Lucrăm dezmembrări cu mai multe loturi, cu plan de dezmembrare clar, numerotare corectă și depunere la {ocpi} — inclusiv coordonare cu notarul pentru actele de dezmembrare."
+      },
+      {
+        "profile": "periurban",
+        "text": "Zonele ca {localitate} se lotizează intens: terenuri mari împărțite în parcele de casă. Facem dezmembrarea completă — măsurători, loturi, drumuri de acces unde e cazul — și documentația pentru {ocpi} și notar."
+      },
+      {
+        "profile": "periurban",
+        "text": "Ai cumpărat un lot dintr-un teren mai mare în {localitate}? Verificăm dacă dezmembrarea este corect înscrisă, iar dacă nu, punem actele în ordine: documentație cadastrală, recepție OCPI, act notarial, carte funciară nouă."
+      }
+    ],
+    "process": [
+      "Stabilim împreună loturile dorite și verificăm condițiile legale și de urbanism.",
+      "Măsurăm imobilul și proiectăm loturile pe planul de amplasament.",
+      "Întocmim documentația cadastrală de dezmembrare sau alipire și o depunem la OCPI pentru recepție.",
+      "După recepție, mergeți la notar pentru actul de dezmembrare/alipire.",
+      "Notarul sau noi depunem actul pentru înscrierea noilor imobile în cartea funciară."
+    ],
+    "documents": [
+      "Extras de carte funciară al imobilului (imobilul trebuie să fie intabulat)",
+      "Act de identitate proprietar(i)",
+      "Certificat de urbanism pentru dezmembrare, unde primăria îl cere",
+      "Acordul tuturor coproprietarilor, dacă imobilul e deținut în cote"
+    ],
+    "priceRange": "1.000 – 2.500 lei, orientativ, în funcție de numărul de loturi",
+    "faqPool": [
+      {
+        "q": "În câte loturi pot dezmembra terenul din {localitate}?",
+        "a": "Legal, numărul de loturi e limitat de condițiile de urbanism — suprafețe minime, acces, utilități — stabilite de primărie. Verificăm regulamentul local și vă spunem exact ce se aprobă, înainte de a măsura."
+      },
+      {
+        "q": "Terenul nu e intabulat. Pot să-l dezmembrez direct?",
+        "a": "Nu — dezmembrarea operează pe un imobil înscris în cartea funciară. Facem întâi intabularea, apoi dezmembrarea; le putem trata ca un singur proiect, cu o singură mobilizare în teren."
+      },
+      {
+        "q": "Cât durează o dezmembrare în {localitate}?",
+        "a": "Documentația și recepția la {ocpi} durează de regulă câteva săptămâni, la care se adaugă programarea la notar pentru actul de dezmembrare și înscrierea finală. Cu taxă de urgență, termenele OCPI se reduc."
+      },
+      {
+        "q": "E nevoie de notar la dezmembrare?",
+        "a": "Da — după recepția documentației de către OCPI, dezmembrarea se perfectează prin act autentic notarial, iar pe baza lui se înscriu loturile noi. Colaborăm direct cu notarul dumneavoastră pentru un circuit fără drumuri inutile."
+      },
+      {
+        "q": "Toți frații trebuie să fie de acord cu dezmembrarea terenului moștenit?",
+        "a": "Da — la imobilele în coproprietate, dezmembrarea cere acordul tuturor. La partajul moștenirii, loturile se atribuie prin actul de partaj întocmit la notar, pe baza documentației noastre cadastrale."
+      },
+      {
+        "q": "Cât costă dezmembrarea unui teren?",
+        "a": "Orientativ 1.000 – 2.500 lei în funcție de numărul de loturi și complexitate, plus tarifele ANCPI per lot și onorariul notarului. Vă dăm un deviz complet, cu toate costurile, înainte să începem."
+      },
+      {
+        "q": "Vreau să unesc două grădini vecine. Se poate?",
+        "a": "Da — prin alipire, dacă parcelele sunt învecinate și aparțin acelorași proprietari. Întocmim documentația de alipire, iar după actul notarial imobilul rezultat primește o singură carte funciară."
+      },
+      {
+        "q": "Lotul dezmembrat are nevoie de drum de acces?",
+        "a": "Da — fiecare lot trebuie să aibă acces asigurat, direct din drum public sau prin servitute de trecere înscrisă. Proiectăm loturile astfel încât accesul să fie rezolvat corect de la început."
+      },
+      {
+        "q": "Pot vinde lotul imediat după dezmembrare?",
+        "a": "Da — din momentul în care lotul are carte funciară proprie, se poate vinde. La tranzacții cu termen fix, planificăm dezmembrarea cu taxă de urgență ca să vă încadrați."
+      },
+      {
+        "q": "Dezmembrarea schimbă impozitul pe teren?",
+        "a": "Impozitarea rămâne pe suprafețele și categoriile de folosință existente, dar loturile noi se declară la primărie în 30 de zile. Vă predăm actele necesare declarării, ca totul să fie în regulă."
+      }
+    ],
+    "related": [
+      "intabulare-teren",
+      "cadastru-si-intabulare",
+      "trasare-teren",
+      "plan-topografic"
+    ]
+  },
+  {
+    "name": "Plan topografic",
+    "slug": "plan-topografic",
+    "shortName": "plan topografic",
+    "tier2Available": true,
+    "hubOnly": false,
+    "metaDescription": "Plan topografic pentru autorizație de construire, PUZ/PUD sau proiectare: măsurători precise, vizat OCPI. Topograf autorizat ANCPI, Alba.",
+    "hubIntro": "Planul topografic este piesa de bază a oricărui proiect de construire: redă fidel terenul — cote de nivel, construcții, împrejmuiri, rețele vizibile, drumuri — și stă la baza certificatului de urbanism, a autorizației de construire, a documentațiilor PUZ/PUD și a proiectării. Îl întocmim pe baza ridicării topografice la fața locului și îl predăm vizat OCPI atunci când avizul este cerut, în formatele necesare primăriei și proiectantului.",
+    "introVariants": [
+      {
+        "profile": "agricol-campie",
+        "text": "Construiești sau extinzi în {localitate}? Realizăm planul topografic necesar autorizației de construire, cu ridicarea completă a terenului și predare în formatul acceptat de primărie și de proiectant."
+      },
+      {
+        "profile": "agricol-campie",
+        "text": "Pentru proiectele din {localitate} — de la locuințe la hale agricole și ferme — întocmim planuri topografice cu toate detaliile cerute de proiectant: cote de nivel, vecinătăți, rețele vizibile și acces."
+      },
+      {
+        "profile": "montan-apuseni",
+        "text": "Pe terenurile în pantă din zona {localitate}, planul topografic cu curbe de nivel corecte face diferența între un proiect realist și unul care se scumpește la execuție. Măsurăm cu stație totală și GPS, indiferent de teren."
+      },
+      {
+        "profile": "montan-apuseni",
+        "text": "Pentru cabane, pensiuni și case de vacanță în zona {localitate}, primăriile cer plan topografic vizat OCPI la autorizare. Ne deplasăm oriunde în zona de munte și predăm planul complet, cu inventar de coordonate."
+      },
+      {
+        "profile": "urban",
+        "text": "Pentru autorizații de construire în {localitate}, primăria cere plan topografic vizat OCPI. Îl întocmim complet — ridicare, cote, vecinătăți, încadrare în zonă — și îl predăm gata de depus."
+      },
+      {
+        "profile": "urban",
+        "text": "Un plan topografic corect scurtează avizarea: cuprinde cotele, construcțiile existente, împrejmuirile și rețelele vizibile din {localitate}, exact în formatul cerut de OCPI și de arhitect."
+      },
+      {
+        "profile": "periurban",
+        "text": "Loturile noi din jurul localității {localitate} au nevoie de planuri topografice atât pentru urbanism (PUZ/PUD), cât și pentru branșamente și drumuri de acces. Livrăm măsurători pe care proiectanții pot construi direct."
+      },
+      {
+        "profile": "periurban",
+        "text": "Pregătești un proiect în {localitate} — casă, hală, spălătorie, stație? Planul topografic vizat OCPI este printre primele piese cerute prin certificatul de urbanism. Îl realizăm rapid, cu deplasare la fața locului și predare digitală și pe hârtie."
+      }
+    ],
+    "process": [
+      "Stabilim scopul planului (autorizare, proiectare, PUZ/PUD) și zona de măsurat.",
+      "Facem ridicarea topografică la fața locului.",
+      "Întocmim planul în format digital (dwg/pdf) și analogic, cu inventar de coordonate.",
+      "Obținem avizul/viza OCPI atunci când este cerută prin certificatul de urbanism.",
+      "Predăm planul proiectantului și primăriei, în formatele cerute."
+    ],
+    "documents": [
+      "Extras de carte funciară (dacă imobilul este intabulat)",
+      "Certificat de urbanism, dacă a fost emis",
+      "Planuri sau proiecte existente ale amplasamentului, dacă există"
+    ],
+    "priceRange": "800 – 2.000 lei, orientativ, în funcție de suprafață și scop",
+    "faqPool": [
+      {
+        "q": "Ce cuprinde planul topografic pentru autorizația de construire?",
+        "a": "Terenul cu limitele din cartea funciară, cotele de nivel, construcțiile și împrejmuirile existente, rețelele vizibile, drumul de acces și vecinătățile — plus inventarul de coordonate în sistemul național Stereo 70."
+      },
+      {
+        "q": "Planul topografic trebuie vizat OCPI?",
+        "a": "Pentru majoritatea autorizațiilor de construire, da — certificatul de urbanism precizează cerința. Ne ocupăm noi de obținerea vizei OCPI; planul predat este gata de depus la primărie."
+      },
+      {
+        "q": "Cât durează un plan topografic în {localitate}?",
+        "a": "Măsurătoarea o programăm de regulă în câteva zile, planul îl întocmim în alte câteva, iar viza OCPI urmează termenele oficiului — care se pot scurta cu taxă de urgență. La proiecte urgente, spuneți-ne termenul și ne organizăm după el."
+      },
+      {
+        "q": "Care e diferența dintre plan topografic și plan de situație?",
+        "a": "Planul de situație este de regulă o piesă mai simplă, extrasă din planul topografic, cerută la certificatul de urbanism. Planul topografic complet, cu cote și detalii, stă la baza proiectării și a autorizației. Vă lămurim exact ce vă cere primăria."
+      },
+      {
+        "q": "Proiectantul cere planul în format dwg. Îl primesc?",
+        "a": "Da — predăm planul în format digital editabil (dwg/dxf) și pdf, plus exemplarele pe hârtie necesare la dosar. Proiectantul poate lucra direct pe măsurătorile noastre."
+      },
+      {
+        "q": "Cât costă un plan topografic?",
+        "a": "Orientativ 800 – 2.000 lei, în funcție de suprafață, densitatea detaliilor și necesitatea vizei OCPI. După ce ne spuneți pe WhatsApp ce construiți și unde, primiți un preț ferm."
+      },
+      {
+        "q": "Terenul e în pantă. Planul include curbe de nivel?",
+        "a": "Da — la terenurile înclinate, curbele de nivel și profilele sunt esențiale pentru proiectare și pentru calculul săpăturilor. Le includem standard acolo unde relieful o cere."
+      },
+      {
+        "q": "Faceți planuri topografice și pentru PUZ sau PUD?",
+        "a": "Da — documentațiile de urbanism cer planuri topografice pe zone mai extinse, vizate OCPI. Lucrăm frecvent cu urbaniști și predăm în formatul cerut de aceștia."
+      },
+      {
+        "q": "Planul topografic e valabil o anumită perioadă?",
+        "a": "Planul reflectă situația din teren la data măsurătorii. Dacă între timp au apărut construcții sau modificări, primăria poate cere actualizarea lui — o facem rapid, pe baza ridicării existente."
+      },
+      {
+        "q": "Măsurați și rețelele — apă, gaz, curent?",
+        "a": "Reprezentăm pe plan rețelele vizibile la suprafață (cămine, stâlpi, branșamente) și preluăm traseele subterane din avizele deținătorilor de utilități, atunci când proiectul le cere."
+      }
+    ],
+    "related": [
+      "topografie-constructii",
+      "trasare-teren",
+      "cadastru-si-intabulare",
+      "dezmembrare-alipire"
+    ]
+  },
+  {
+    "name": "Trasare teren",
+    "slug": "trasare-teren",
+    "shortName": "trasare",
+    "tier2Available": true,
+    "hubOnly": false,
+    "metaDescription": "Trasare limite proprietate și trasarea construcțiilor: marcare pe teren cu precizie GPS/stație totală, proces-verbal de trasare. Topograf ANCPI.",
+    "hubIntro": "Trasarea transpune pe teren, cu precizie, punctele din acte sau din proiect: limitele proprietății înainte de gard sau de cumpărare, colțurile și axele viitoarei construcții la începutul șantierului. Marcăm punctele cu țăruși sau borne, verificăm geometria și predăm procesul-verbal de trasare — documentul cerut la cartea tehnică a construcției.",
+    "introVariants": [
+      {
+        "profile": "agricol-campie",
+        "text": "Vrei să știi exact pe unde trece hotarul parcelei din {localitate} — înainte să pui gard, să ari sau să vinzi? Trasăm limitele din cartea funciară direct pe teren, cu GPS de precizie, și marcăm punctele de hotar cu țăruși."
+      },
+      {
+        "profile": "agricol-campie",
+        "text": "Neînțelegeri cu vecinul pe limita terenului din {localitate}? Trasarea limitelor pe baza coordonatelor din documentația cadastrală arată negru pe alb unde este hotarul înscris. Este cel mai rapid mod de a lămuri discuția."
+      },
+      {
+        "profile": "montan-apuseni",
+        "text": "Pe terenurile din zona {localitate}, cu limite lungi prin fânețe și păduri, trasarea hotarelor cere echipament bun și experiență de teren. Marcăm punctele de hotar oriunde, indiferent de relief."
+      },
+      {
+        "profile": "montan-apuseni",
+        "text": "Construiești o cabană sau o casă în {localitate}? Trasăm construcția conform proiectului autorizat — colțuri, axe, cotă de nivel — și predăm procesul-verbal de trasare cerut la începerea lucrărilor."
+      },
+      {
+        "profile": "urban",
+        "text": "Începi construcția în {localitate}? Înainte de săpătură, construcția se trasează conform proiectului: axe, colțuri, retrageri față de limite. O trasare corectă te ferește de amenzi și de litigii cu vecinii."
+      },
+      {
+        "profile": "urban",
+        "text": "Cumperi un teren în {localitate}? Trasarea limitelor înainte de semnare îți arată exact ce cumperi — dacă gardul existent respectă cartea funciară și dacă suprafața reală corespunde. O verificare ieftină față de riscul unei tranzacții greșite."
+      },
+      {
+        "profile": "periurban",
+        "text": "În cartierele noi din {localitate}, loturile abia dezmembrate au nevoie de trasarea limitelor înainte de împrejmuire și de trasarea casei la începutul șantierului. Facem ambele operațiuni, cu proces-verbal predat constructorului."
+      },
+      {
+        "profile": "periurban",
+        "text": "Pui gard nou în {localitate}? Trasăm mai întâi limita din cartea funciară — gardul construit pe hotar greșit se demolează pe cheltuiala ta. Marcajele noastre îți dau siguranța că împrejmuirea este exact pe limita proprietății."
+      }
+    ],
+    "process": [
+      "Ne trimiți extrasul CF sau proiectul autorizat și stabilim ce trasăm.",
+      "Pregătim coordonatele punctelor de trasat din documentație sau din proiect.",
+      "Marcăm punctele pe teren, în {localitate}, cu GPS/stație totală: țăruși, borne sau vopsea.",
+      "Verificăm geometria trasată și cotele, unde este cazul.",
+      "Predăm procesul-verbal de trasare — constructorului sau dumneavoastră."
+    ],
+    "documents": [
+      "Extras de carte funciară al imobilului, pentru trasarea limitelor",
+      "Proiectul autorizat și planul de trasare, pentru trasarea construcțiilor",
+      "Autorizația de construire, la trasarea construcțiilor noi"
+    ],
+    "priceRange": "500 – 1.500 lei, orientativ, în funcție de numărul de puncte și distanță",
+    "faqPool": [
+      {
+        "q": "Cât durează trasarea unui teren în {localitate}?",
+        "a": "De regulă o singură deplasare de câteva ore, cu programare în aceeași săptămână. Punctele sunt marcate pe loc, iar procesul-verbal îl primiți imediat sau în ziua următoare."
+      },
+      {
+        "q": "Vecinul zice că gardul e pe terenul lui. Ce fac?",
+        "a": "Trasăm limita din cartea funciară pe teren — este verdictul obiectiv al actelor. Dacă gardul e într-adevăr deplasat, aveți baza pentru o discuție documentată cu vecinul sau, la nevoie, pentru expertiză și instanță."
+      },
+      {
+        "q": "Ce primesc după trasare?",
+        "a": "Punctele marcate fizic pe teren (țăruși, borne sau vopsea, după caz) și procesul-verbal de trasare cu schița și coordonatele punctelor — document valabil pentru constructor, primărie sau bancă."
+      },
+      {
+        "q": "Trasarea construcției este obligatorie?",
+        "a": "Da — la începerea lucrărilor autorizate, trasarea de către un specialist și procesul-verbal de trasare sunt cerute prin lege și intră în cartea tehnică a construcției. Constructorul toarnă fundația pe marcajele noastre."
+      },
+      {
+        "q": "Cât costă trasarea limitelor de proprietate?",
+        "a": "Orientativ 500 – 1.500 lei, în funcție de numărul punctelor de hotar și de distanță. Pentru trasarea construcțiilor, prețul depinde de complexitatea proiectului — cereți oferta pe WhatsApp, cu proiectul atașat."
+      },
+      {
+        "q": "Terenul din {localitate} nu e intabulat. Se pot trasa limitele?",
+        "a": "Fără documentație cadastrală nu există coordonate oficiale ale limitelor, deci trasarea riguroasă nu are pe ce se sprijini. Soluția corectă: intabulați întâi terenul — vă ajutăm cu tot procesul — apoi trasarea devine o formalitate."
+      },
+      {
+        "q": "Pot cere trasarea înainte să cumpăr un teren?",
+        "a": "Da, cu acordul vânzătorului — și chiar vă recomandăm. Vedeți pe teren exact limitele și suprafața pe care dați banii, înainte de semnare. Mulți cumpărători descoperă astfel diferențe importante la timp."
+      },
+      {
+        "q": "Marcajele dispar — se pot reface?",
+        "a": "Da — coordonatele rămân în procesul-verbal, deci refacerea marcajelor este simplă și mai ieftină decât trasarea inițială. Recomandăm bornarea punctelor importante, ca să reziste în timp."
+      },
+      {
+        "q": "Faceți și trasări pentru hale, drumuri sau rețele?",
+        "a": "Da — trasăm orice tip de construcție sau lucrare inginerească: hale industriale, drumuri, împrejmuiri lungi, rețele și platforme, cu precizia cerută de proiect și cu procese-verbale pentru fiecare etapă."
+      }
+    ],
+    "related": [
+      "plan-topografic",
+      "topografie-constructii",
+      "intabulare-teren",
+      "dezmembrare-alipire"
+    ]
+  },
+  {
+    "name": "Actualizare carte funciară",
+    "slug": "actualizare-carte-funciara",
+    "shortName": "actualizare CF",
+    "tier2Available": false,
+    "hubOnly": false,
+    "metaDescription": "Actualizare carte funciară: rectificare suprafață, schimbare categorie de folosință, înscriere construcții, radiere. Topograf autorizat ANCPI.",
+    "hubIntro": "Cartea funciară trebuie să reflecte realitatea din teren. Când nu o mai face — suprafață diferită, construcții noi sau demolate, categorie de folosință schimbată, adresă modificată — este nevoie de actualizare, pe baza unei documentații cadastrale întocmite de topograf autorizat. Rezolvăm rectificări de suprafață, schimbări de categorie de folosință, înscrieri și radieri de construcții, actualizări după modernizări.",
+    "introVariants": [
+      {
+        "profile": "agricol-campie",
+        "text": "Terenul din {localitate} figurează în acte ca arabil, dar în realitate e curte sau livadă? Ori suprafața din cartea funciară nu mai corespunde? Actualizăm datele imobilului pe baza măsurătorilor și depunem documentația la {ocpi}."
+      },
+      {
+        "profile": "agricol-campie",
+        "text": "La terenurile agricole din {localitate}, neconcordanțele dintre acte și teren blochează vânzările, arendarea corectă și accesarea fondurilor. Facem rectificarea suprafeței sau schimbarea categoriei de folosință, cu acte curate la final."
+      },
+      {
+        "profile": "montan-apuseni",
+        "text": "Multe imobile din zona {localitate} au cărți funciare vechi, cu suprafețe aproximative și construcții demult schimbate. Aducem cartea funciară la zi: măsurători noi, rectificări, înscrierea sau radierea construcțiilor la {ocpi}."
+      },
+      {
+        "profile": "montan-apuseni",
+        "text": "Ai modernizat sau extins gospodăria din {localitate}? Extinderile și anexele noi trebuie înscrise în cartea funciară, altfel apar probleme la moștenire sau vânzare. Actualizăm documentația cadastrală complet."
+      },
+      {
+        "profile": "urban",
+        "text": "În {localitate}, diferențele dintre cartea funciară și realitate — construcții neînscrise, suprafețe diferite, adrese vechi — opresc tranzacțiile la notar. Le rezolvăm punctual, cu documentație depusă la {ocpi} și termen previzibil."
+      },
+      {
+        "profile": "urban",
+        "text": "Banca sau notarul ți-a cerut „actualizarea cadastrului” pentru imobilul din {localitate}? Verificăm exact ce diferă, întocmim documentația de actualizare necesară și o depunem la {ocpi} — inclusiv în regim de urgență."
+      },
+      {
+        "profile": "periurban",
+        "text": "În zonele în dezvoltare ca {localitate}, terenurile trec din extravilan în intravilan, se schimbă categorii de folosință și apar construcții noi. Punem cartea funciară în acord cu realitatea, ca imobilul să fie vandabil și finanțabil."
+      },
+      {
+        "profile": "periurban",
+        "text": "Ai construit, demolat sau extins pe terenul din {localitate}? Fiecare schimbare se reflectă în cartea funciară printr-o documentație cadastrală de actualizare. Ne ocupăm de măsurători, acte și depunerea la {ocpi}."
+      }
+    ],
+    "process": [
+      "Ne trimiți extrasul CF și ne descrii ce s-a schimbat față de acte.",
+      "Verificăm evidențele și stabilim tipul de actualizare necesar.",
+      "Măsurăm imobilul în {localitate}, unde situația o cere.",
+      "Întocmim documentația cadastrală de actualizare și o depunem la biroul competent.",
+      "Primești extrasul de carte funciară cu datele aduse la zi."
+    ],
+    "documents": [
+      "Extras de carte funciară al imobilului",
+      "Act de identitate proprietar(i)",
+      "Acte care susțin modificarea: autorizație de desființare, certificat de urbanism, adeverințe de la primărie, după caz",
+      "Certificat de atestare fiscală, pentru anumite operațiuni"
+    ],
+    "priceRange": "600 – 1.800 lei, orientativ, în funcție de tipul actualizării",
+    "faqPool": [
+      {
+        "q": "Ce înseamnă rectificarea suprafeței și când e posibilă?",
+        "a": "Înscrierea în cartea funciară a suprafeței reale, măsurate, în locul celei vechi din acte. Este posibilă în condițiile legii — în funcție de mărimea diferenței și de acordul vecinilor — iar noi vă spunem exact varianta aplicabilă după măsurătoare."
+      },
+      {
+        "q": "Cum schimb categoria de folosință a terenului din {localitate}?",
+        "a": "Pe baza unei documentații cadastrale de schimbare a categoriei de folosință, cu actele cerute de lege — pentru scoaterea din circuitul agricol există proceduri și taxe separate. Vă ghidăm pas cu pas prin întreg procesul, inclusiv la {ocpi}."
+      },
+      {
+        "q": "Am demolat șura veche. Trebuie radiată din cartea funciară?",
+        "a": "Da — construcțiile demolate se radiază pe baza autorizației de desființare și a documentației cadastrale. Altfel, actele arată o construcție inexistentă, ceea ce blochează vânzarea sau ipoteca."
+      },
+      {
+        "q": "Cât durează o actualizare de carte funciară?",
+        "a": "Documentația o întocmim în câteva zile de la măsurătoare, iar soluționarea urmează termenele OCPI, care pot fi scurtate cu taxă de urgență — inclusiv pentru dosarele cu termen la notar sau bancă."
+      },
+      {
+        "q": "Cartea funciară e veche, pe hârtie, de pe vremea bunicilor. Ce fac?",
+        "a": "Cărțile funciare vechi se convertesc în format electronic cu ocazia primei operațiuni — adesea împreună cu o documentație cadastrală de actualizare. Verificăm situația exactă a imobilului și vă spunem pașii."
+      },
+      {
+        "q": "Cât costă actualizarea cărții funciare?",
+        "a": "Depinde de operațiune: orientativ 600 – 1.800 lei plus tarifele ANCPI. Trimiteți-ne extrasul CF și o descriere a situației pe WhatsApp și primiți devizul exact."
+      },
+      {
+        "q": "Adresa imobilului s-a schimbat — strada a fost redenumită. Se actualizează?",
+        "a": "Da, pe baza certificatului de nomenclatură stradală eliberat de primărie, printr-o operațiune simplă de actualizare. O rezolvăm împreună cu orice altă modificare necesară, într-un singur dosar."
+      },
+      {
+        "q": "Vecinul și-a intabulat terenul peste al meu. Ce pot face?",
+        "a": "Este o suprapunere cadastrală — se analizează pe măsurători și evidențe, apoi se rezolvă prin repoziționare, rectificare sau, în ultimă instanță, în instanță. Documentăm exact situația și vă prezentăm variantele."
+      }
+    ],
+    "related": [
+      "cadastru-si-intabulare",
+      "intabulare-casa-constructie",
+      "plan-topografic",
+      "servicii-ocpi"
+    ]
+  },
+  {
+    "name": "Topografie construcții",
+    "slug": "topografie-constructii",
+    "shortName": "topografie inginerească",
+    "tier2Available": false,
+    "hubOnly": true,
+    "metaDescription": "Topografie inginerească pentru construcții: trasări, nivelment, verificări cote, monitorizare, as-built. Topograf autorizat ANCPI, Alba și împrejurimi.",
+    "hubIntro": "Topografia inginerească însoțește construcția pe tot parcursul ei: de la ridicarea topografică pentru proiectare, la trasarea axelor și a fundațiilor, verificarea cotelor pe etape, calculul volumelor de terasamente, până la documentația as-built de la recepție. Lucrăm pentru constructori, proiectanți, dezvoltatori și beneficiari privați — locuințe, hale industriale, drumuri, rețele, parcuri fotovoltaice — cu echipament GPS RTK și stație totală și cu procese-verbale predate la fiecare etapă.",
+    "process": [
+      "Primim proiectul și stabilim etapele topografice necesare șantierului.",
+      "Trasăm axele, colțurile și cotele de referință la începerea lucrărilor.",
+      "Verificăm pe parcurs cotele și pozițiile — fundații, stâlpi, planșee.",
+      "Calculăm volumele de săpătură/umplutură unde contractul le cere.",
+      "Predăm măsurătorile finale și documentația as-built la recepție."
+    ],
+    "documents": [
+      "Proiectul tehnic sau planurile de execuție",
+      "Autorizația de construire",
+      "Planul topografic al amplasamentului, dacă există"
+    ],
+    "priceRange": "ofertă per proiect, în funcție de etape și durată",
+    "faqPool": [
+      {
+        "q": "Ce lucrări topografice cere un șantier obișnuit?",
+        "a": "Minim: trasarea construcției la început și documentația as-built la final. La structuri mai mari se adaugă verificări de cote pe etape, trasări la fiecare nivel, monitorizarea eventualelor tasări și calcule de volume pentru decontări."
+      },
+      {
+        "q": "Lucrați cu firme de construcții pe bază de contract?",
+        "a": "Da — colaborăm cu constructori și dezvoltatori pe toată durata șantierului, cu tarife per etapă sau abonament de șantier și timp de reacție convenit. Colaborăm cu dezvoltatori și constructori din toată zona."
+      },
+      {
+        "q": "Ce precizie au trasările?",
+        "a": "Lucrăm cu stație totală și GPS RTK; la trasările de construcții precizia este centimetrică, potrivită toleranțelor din proiect. Fiecare trasare se predă cu proces-verbal și schiță cu coordonate."
+      },
+      {
+        "q": "Faceți calcul de volume pentru decontarea terasamentelor?",
+        "a": "Da — măsurăm terenul înainte și după săpătură/umplutură și calculăm volumele pe modele digitale ale terenului. Rapoartele noastre stau la baza situațiilor de plată dintre beneficiar și constructor."
+      },
+      {
+        "q": "Ce este documentația as-built și cine o cere?",
+        "a": "Măsurătoarea finală a construcției exact cum a fost executată, comparată cu proiectul. O cer beneficiarii la recepție, finanțatorii la decont și, pentru anumite obiective, autoritățile la punerea în funcțiune."
+      },
+      {
+        "q": "Monitorizați tasări sau deformații în timp?",
+        "a": "Da — montăm reperi de urmărire și măsurăm periodic, cu rapoarte pe cicluri, acolo unde proiectantul a prevăzut urmărirea comportării în timp a construcției."
+      }
+    ],
+    "related": [
+      "plan-topografic",
+      "trasare-teren",
+      "cadastru-si-intabulare"
+    ]
+  },
+  {
+    "name": "Servicii OCPI",
+    "slug": "servicii-ocpi",
+    "shortName": "servicii OCPI",
+    "tier2Available": false,
+    "hubOnly": true,
+    "metaDescription": "Servicii OCPI: extras de carte funciară, copii planuri, verificări imobile, depuneri și urmărire dosare. Rapid, inclusiv de la distanță.",
+    "hubIntro": "Nu orice problemă de carte funciară cere măsurători. Pentru multe aveți nevoie doar de cineva care cunoaște ghișeele și procedurile: obținerea extraselor de carte funciară, copii după planuri și documentații vechi, verificarea situației unui imobil înainte de cumpărare, depunerea cererilor și urmărirea dosarelor la OCPI. Le rezolvăm rapid, pentru clienți din țară sau din străinătate, în mare parte fără deplasarea dumneavoastră.",
+    "process": [
+      "Ne scrieți pe WhatsApp ce aveți nevoie și pentru ce imobil.",
+      "Identificăm imobilul în evidențe după numărul cadastral sau adresă.",
+      "Obținem documentul sau depunem cererea la biroul competent.",
+      "Vă transmitem documentele electronic și, la cerere, în original."
+    ],
+    "documents": [
+      "Datele imobilului: număr cadastral / număr CF / adresă",
+      "Act de identitate al solicitantului",
+      "Împuternicire, pentru anumite cereri făcute în numele dumneavoastră"
+    ],
+    "priceRange": "de la 100 lei per serviciu, plus tarifele ANCPI",
+    "faqPool": [
+      {
+        "q": "Ce este extrasul de carte funciară și la ce îl folosesc?",
+        "a": "Fotografia oficială a situației imobilului: proprietar, suprafață, sarcini. Extrasul de informare se folosește la verificări și dosare; extrasul de autentificare, valabil 10 zile, se folosește exclusiv la notar, la tranzacții."
+      },
+      {
+        "q": "Puteți obține extras CF dacă sunt plecat din străinătate?",
+        "a": "Da — pe baza datelor imobilului obținem extrasul și vi-l trimitem electronic. Pentru diaspora rezolvăm întreg pachetul: verificări, extrase, documentații cadastrale prin împuternicit."
+      },
+      {
+        "q": "Cumpăr un teren și vreau să-l verific înainte. Ce îmi puteți spune?",
+        "a": "Verificăm cartea funciară (proprietar, sarcini, ipoteci, notări de litigii), corespondența dintre acte și teren, poziția reală a imobilului și eventuale suprapuneri. Un raport scurt care vă poate scuti de o cumpărătură proastă."
+      },
+      {
+        "q": "Aveți acces la planurile și documentațiile vechi ale imobilului?",
+        "a": "La cerere, obținem de la arhiva OCPI copii după documentațiile cadastrale vechi, planuri de amplasament și schițe — utile la lămurirea limitelor istorice sau la expertize."
+      },
+      {
+        "q": "Cât durează obținerea unui extras de carte funciară?",
+        "a": "Extrasul de informare se obține de regulă în câteva zile lucrătoare, sau mai repede online pentru imobilele cu carte funciară electronică. Vă spunem imediat în ce situație este imobilul dumneavoastră."
+      },
+      {
+        "q": "Depuneți și urmăriți dosare deja întocmite?",
+        "a": "Da — dacă aveți o documentație întocmită sau acte de înscris, ne ocupăm de depunere, de comunicarea cu registratorul și de ridicarea rezultatului, inclusiv de răspunsul la eventualele note de completare."
+      }
+    ],
+    "related": [
+      "cadastru-si-intabulare",
+      "actualizare-carte-funciara",
+      "expertize-documentatii"
+    ]
+  },
+  {
+    "name": "Certificat energetic",
+    "slug": "certificat-energetic",
+    "shortName": "certificat energetic",
+    "tier2Available": false,
+    "hubOnly": true,
+    "metaDescription": "Certificat de performanță energetică pentru vânzare sau închiriere: evaluare, clasă energetică, eliberare rapidă. Alba și împrejurimi.",
+    "hubIntro": "Certificatul de performanță energetică este obligatoriu la vânzarea sau închirierea oricărei locuințe — notarul îl cere la semnare. Documentul încadrează imobilul într-o clasă energetică, de la A la G, pe baza caracteristicilor constructive și a instalațiilor. Împreună cu partenerii noștri auditori energetici atestați, vă asigurăm certificatul rapid, de regulă în aceeași săptămână, pentru apartamente și case din zona Aiud – Alba și împrejurimi.",
+    "process": [
+      "Ne trimiteți pe WhatsApp datele imobilului și actele existente.",
+      "Programăm vizita pentru releveu și fotografii — durează sub o oră.",
+      "Auditorul energetic atestat întocmește certificatul.",
+      "Primiți certificatul electronic și în original, gata pentru notar."
+    ],
+    "documents": [
+      "Act de proprietate sau extras CF",
+      "Schița imobilului, dacă există",
+      "Informații despre încălzire, izolație și tâmplărie"
+    ],
+    "priceRange": "150 – 500 lei, orientativ, în funcție de imobil",
+    "faqPool": [
+      {
+        "q": "Când este obligatoriu certificatul energetic?",
+        "a": "La orice vânzare sau închiriere de clădire ori unitate de clădire — notarul nu autentifică fără el — precum și la recepția clădirilor noi. Anunțurile imobiliare trebuie să menționeze clasa energetică."
+      },
+      {
+        "q": "Cât este valabil certificatul energetic?",
+        "a": "10 ani de la data emiterii, dacă între timp nu se fac modificări majore ale clădirii care îi schimbe performanța energetică — de exemplu izolarea termică sau schimbarea sistemului de încălzire."
+      },
+      {
+        "q": "Cât durează obținerea certificatului?",
+        "a": "De regulă câteva zile de la vizita de releveu — iar la tranzacțiile urgente ne coordonăm cu notarul ca certificatul să fie gata la semnare."
+      },
+      {
+        "q": "Ce influențează clasa energetică a casei?",
+        "a": "Izolația pereților și a acoperișului, tâmplăria, sistemul de încălzire și de apă caldă, suprafețele vitrate. Casele vechi neizolate ies de regulă în clase inferioare — ceea ce nu împiedică vânzarea, dar informează cumpărătorul."
+      },
+      {
+        "q": "Certificatul e făcut de voi sau de un auditor?",
+        "a": "Certificatul se emite legal doar de auditori energetici atestați. Noi facem releveul și coordonăm întreg procesul cu auditorii parteneri, ca dumneavoastră să aveți un singur interlocutor și un termen sigur."
+      }
+    ],
+    "related": [
+      "intabulare-apartament",
+      "intabulare-casa-constructie",
+      "servicii-ocpi"
+    ]
+  },
+  {
+    "name": "Expertize și documentații",
+    "slug": "expertize-documentatii",
+    "shortName": "expertize și documentații",
+    "tier2Available": false,
+    "hubOnly": true,
+    "metaDescription": "Expertize topografice, rapoarte pentru instanță, documentații speciale: grănițuire, uzucapiune, suprapuneri cadastrale. Expert topograf, Alba.",
+    "hubIntro": "Când situația imobilului ajunge la instanță sau iese din tiparul documentațiilor obișnuite, este nevoie de expertiză: rapoarte de expertiză topografică pentru procese de grănițuire, uzucapiune, revendicare sau partaj, documentații pentru rezolvarea suprapunerilor cadastrale, identificări de imobile după acte vechi, planuri de situație pentru avize speciale. Cu peste 25 de ani de experiență și peste 1.000 de lucrări finalizate, documentăm riguros situații pe care alții le ocolesc.",
+    "process": [
+      "Analizăm actele și situația imobilului — inclusiv istoricul din arhive.",
+      "Măsurăm imobilul și vecinătățile relevante la fața locului.",
+      "Confruntăm măsurătorile cu actele, planurile vechi și evidențele OCPI.",
+      "Întocmim raportul sau documentația, cu concluzii clare și schițe anexe.",
+      "Susținem concluziile — în instanță sau în fața autorităților, unde este cazul."
+    ],
+    "documents": [
+      "Actele imobilului și ale litigiului, după caz",
+      "Extras de carte funciară",
+      "Planuri, schițe și documentații vechi, dacă există",
+      "Încheierea de numire, pentru expertizele judiciare"
+    ],
+    "priceRange": "ofertă după analiza situației — fiecare caz este diferit",
+    "faqPool": [
+      {
+        "q": "Ce este o expertiză topografică judiciară?",
+        "a": "Raportul întocmit de un expert desemnat sau agreat în cadrul unui proces — grănițuire, uzucapiune, revendicare, partaj — care stabilește tehnic limitele, suprafețele și corespondența dintre acte și teren. Instanța își întemeiază frecvent hotărârea pe acest raport."
+      },
+      {
+        "q": "Aveți experiență cu procese de grănițuire?",
+        "a": "Da — litigiile de hotar sunt printre cele mai frecvente lucrări de expertiză din zonă. Documentăm limitele din acte, măsurătorile actuale și istoricul folosinței, cu schițe pe care instanța le poate urmări ușor."
+      },
+      {
+        "q": "Ce fac dacă terenul meu se suprapune în e-Terra cu al vecinului?",
+        "a": "Suprapunerea se analizează pe documentațiile ambelor imobile și pe măsurători noi. În funcție de cauză — eroare de măsurătoare veche, identificare greșită — se rezolvă administrativ sau, dacă părțile nu se înțeleg, prin expertiză și instanță."
+      },
+      {
+        "q": "Pot folosi o expertiză extrajudiciară înainte de proces?",
+        "a": "Da — un raport extrajudiciar vă arată exact poziția tehnică înainte de a decide dacă mergeți în instanță. De multe ori, raportul pus pe masă stinge disputa fără proces."
+      },
+      {
+        "q": "Lucrați cu avocați?",
+        "a": "Da — colaborăm cu avocații părților pentru formularea corectă a obiectivelor expertizei și pentru lămuriri pe parcursul procesului. Un obiectiv bine formulat scurtează procesul cu luni."
+      },
+      {
+        "q": "Cât costă o expertiză topografică?",
+        "a": "Depinde de complexitate: numărul imobilelor, istoricul actelor, deplasările. Onorariul se stabilește după analiza actelor — trimiteți-ne situația pe WhatsApp și vă spunem la ce să vă așteptați."
+      }
+    ],
+    "related": [
+      "cadastru-si-intabulare",
+      "trasare-teren",
+      "actualizare-carte-funciara",
+      "servicii-ocpi"
+    ]
+  }
+]

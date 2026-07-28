@@ -1,0 +1,72 @@
+{
+  "slug": "suprapunere-cadastrala-rezolvare",
+  "title": "Suprapunere cadastrală cu vecinul: cum o rezolvi înainte de depunere | Expert Intabulare",
+  "h1": "Suprapunerea cadastrală: ce este, de ce apare și cum o rezolvi la timp pentru proiect",
+  "metaDescription": "Suprapunere cadastrală cu imobilul vecin: cauze, repoziționare, expertiză, medierea cu vecinul și termene realiste — rezolvată înainte de depunerea proiectului.",
+  "whatsappTopic": "suprapunere cadastrală de rezolvat înainte de depunere",
+  "hook": "deadline",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Ce este suprapunerea și de ce o descoperi tocmai acum",
+      "html": "<p>Suprapunerea cadastrală apare atunci când conturul măsurat al terenului tău intersectează conturul unui imobil deja înscris în sistemul integrat de cadastru. Practic, pe hârtie două proprietăți revendică aceeași fâșie de teren — chiar dacă în realitate gardurile stau liniștite de 30 de ani. OCPI nu poate înscrie un imobil peste altul, așa că cererea ta se blochează cu notă de completare sau respingere până la clarificare.</p><p>De ce se întâmplă: imobilele vecine au fost cadastrate în ani diferiți, cu tehnologii diferite — măsurători din anii 2000 transformate din sisteme locale, planuri parcelare digitizate aproximativ, borne dispărute. Rezultatul: contururi înscrise care nu se închid perfect între ele. <strong>Suprapunerea e de cele mai multe ori o problemă de evidență, nu un conflict real de proprietate</strong> — dar dosarul tău de finanțare nu avansează până nu o tranșezi, iar diferența dintre cele două situații schimbă complet traseul și termenul.</p>"
+    },
+    {
+      "type": "process",
+      "heading": "Cum o tratăm, în ordine",
+      "steps": [
+        { "title": "Diagnosticul: reală sau de evidență?", "text": "Suprapunem măsurătorile noastre, conturul imobilului vecin din baza OCPI, ortofotoplanul și actele ambelor părți. Concluzia diagnosticului decide tot ce urmează: eroare de înscriere (cazul frecvent) sau limită efectiv disputată (cazul greu)." },
+        { "title": "Cazul erorii de evidență: repoziționarea", "text": "Dacă imobilul vecin a fost înscris cu coordonate greșite dar limitele reale sunt clare, legislația cadastrală permite îndreptarea erorii — repoziționarea imobilului — printr-o documentație specifică. În funcție de situație, e nevoie de acordul sau doar de notificarea vecinului; OCPI decide pe baza documentației." },
+        { "title": "Cazul limitei disputate: acordul sau expertiza", "text": "Dacă vecinul contestă limita, calea amiabilă este procesul-verbal de vecinătate semnat de ambele părți pe limita convenită — noi o măsurăm și o documentăm. Fără acord, rămân expertiza topografică judiciară și instanța: luni sau ani, incompatibil cu orice sesiune apropiată." },
+        { "title": "Redepunerea documentației tale", "text": "După soluționarea suprapunerii, documentația inițială se actualizează și se redepune. Din acest punct, dosarul curge normal: recepție, carte funciară, extras CF pentru finanțator." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Scenarii și termene realiste",
+      "head": ["Scenariul", "Traseul", "Durată orientativă"],
+      "rows": [
+        ["Eroare de evidență, vecin cooperant sau doar notificat", "Documentație de repoziționare / rectificare la OCPI", "săptămâni"],
+        ["Limite clare în teren, vecin cooperant, contur vechi imprecis", "Proces-verbal de vecinătate + documentație actualizată", "săptămâni"],
+        ["Vecin de negăsit (plecat, moștenire nedezbătută la ei)", "Proceduri de notificare, durate mai lungi", "luni"],
+        ["Limită efectiv disputată, fără acord", "Expertiză judiciară, instanță", "luni – ani"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Lecția pentru proiectele cu finanțare: verifică înainte, nu după",
+      "html": "<p>Suprapunerea este exact tipul de problemă care nu se vede din acte — extrasul CF al terenului tău poate fi imaculat, iar suprapunerea să existe totuși, pentru că ea e o relație între contururi, nu o mențiune în cartea ta funciară. Singurul mod de a o depista devreme este <strong>verificarea măsurătorilor față de imobilele vecine înscrise</strong> — o facem ca pas standard la orice lucrare, pe geoportalul ANCPI și în baza de date OCPI, înainte de a depune orice.</p><p>Dacă pregătești un proiect cu termen de depunere, adu verificarea asta în primele săptămâni ale pregătirii. O suprapunere descoperită cu patru luni înainte de sesiune e o formalitate administrativă; aceeași suprapunere descoperită la nota de completare, cu sesiunea închisă între timp, e un an pierdut.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Vecinul „a intrat pe hârtie” peste terenul meu. Îmi poate lua pământul?", "a": "Nu prin simpla înscriere greșită — înscrierea în cartea funciară nu creează proprietate peste dreptul tău real. Dar cu cât eroarea stă mai mult necorectată, cu atât corectarea e mai anevoioasă. Dacă ai aflat de suprapunere, acționează acum, nu „când o fi nevoie”." },
+        { "q": "Trebuie să mă cert cu vecinul ca să rezolv?", "a": "În majoritatea cazurilor, nu — suprapunerile de evidență se rezolvă tehnic, iar vecinii cooperează când li se explică faptul că nici lor nu le convine un contur greșit la propria vânzare sau finanțare viitoare. Venim noi la discuție, cu planurile pe masă; e altă conversație decât „peste gard”." },
+        { "q": "Cine plătește rezolvarea, eu sau vecinul?", "a": "Practic, cine are nevoie de ea plătește documentația — de regulă cel cu proiectul. Poți încerca partajarea costului dacă și vecinul are un interes (eroarea îl afectează și pe el), dar nu condiționa calendarul tău de negocierea asta." },
+        { "q": "Suprapunerea e cu un drum sau cu islazul comunei. E mai simplu sau mai greu?", "a": "Depinde de primărie: suprapunerile cu domeniul public cer clarificare cu UAT-ul (uneori și HCL), ceea ce adaugă un actor instituțional. Avem experiență directă cu primăriile din zonă; realist, e un traseu de săptămâni–luni, nu de zile." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Bănuiești sau ai confirmată o suprapunere?",
+      "text": "Trimite-ne pe WhatsApp extrasul CF și, dacă ai, nota de completare de la OCPI — facem diagnosticul (eroare de evidență sau litigiu real) și îți dăm traseul cu termene."
+    }
+  ],
+  "related": [
+    "aviz-ocpi-respins-motive",
+    "diferenta-suprafata-acte-teren",
+    "teren-neintabulat-fonduri-europene",
+    "cat-dureaza-intabularea",
+    "motive-respingere-dosar-teren-proprietate",
+    "intabulare-teren-agricol-fonduri-europene",
+    "/servicii/cadastru-si-intabulare/",
+    "/dictionar/carte-funciara.html"
+  ],
+  "sources": [
+    "https://www.ancpi.ro/",
+    "https://geoportal.ancpi.ro/",
+    "https://legislatie.just.ro/Public/DetaliiDocument/159910"
+  ]
+}

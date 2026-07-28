@@ -1,0 +1,64 @@
+{
+  "slug": "respingere-documentatie-ocpi",
+  "title": "Documentație respinsă la OCPI — cauze frecvente și remedii",
+  "h1": "Respingerea documentației la OCPI: de ce se întâmplă pe lucrările mari și cum o deblochezi",
+  "metaDescription": "Documentație cadastrală respinsă la OCPI? Cauzele frecvente pe lucrări mari — suprapuneri, neconcordanțe acte-măsurătoare — și remediile, pe Ordinul 700/2014.",
+  "whatsappTopic": "deblocarea unei documentații cadastrale respinse la OCPI",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "O respingere costă săptămâni — pe un proiect fotovoltaic, costă și finanțarea",
+      "html": "<p>Documentațiile cadastrale se avizează și se recepționează după regulile Ordinului ANCPI nr. 700/2014. Când ceva nu se leagă, primești o notă de completare sau o respingere — iar pe lucrările mari, tipice proiectelor fotovoltaice (alipiri de zeci de parcele, dezmembrări, superficie, actualizări de limite), probabilitatea unei note crește cu fiecare imobil implicat. Fiecare rundă de corecturi înseamnă săptămâni de așteptare, iar termenele față de vânzători, bancă sau avizatori nu așteaptă odată cu tine.</p><p>Vestea bună: cauzele respingerilor sunt surprinzător de repetitive. Cine le cunoaște le poate preveni aproape complet — sau, dacă documentația a fost deja respinsă, poate citi referatul și ști exact ce urmează. Dacă ai primit o respingere, trimite-ne referatul și extrasul CF pe WhatsApp și îți spunem în aceeași zi ce e de făcut și cât durează.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Cauzele frecvente pe lucrările mari",
+      "html": "<ul><li><strong>Suprapunere cu imobile deja înregistrate</strong> — măsurătoarea ta intră peste limitele unui imobil vecin recepționat anterior. Pe terenurile agricole comasate din mai multe parcele e cea mai frecventă problemă; uneori eroarea e în documentația veche a vecinului, nu în a ta, ceea ce complică remedierea.</li><li><strong>Neconcordanțe între acte și măsurătoare</strong> — suprafața rezultată din măsurare diferă de cea din acte peste toleranțele admise, sau categoria de folosință din teren nu corespunde cu cea din cartea funciară.</li><li><strong>Identificare incertă în planul parcelar</strong> — pe tarlalele fără cadastru sistematic, imobilul trebuie așezat corect în <a href=\"/parcuri-fotovoltaice/plan-parcelar-identificare-teren.html\">planul parcelar</a>; dacă planul lipsește sau poziția e contestabilă, documentația se întoarce.</li><li><strong>Acte de proprietate incomplete</strong> — succesiuni nedezbătute, titluri cu erori de nume sau de vecinătăți, mențiuni care nu se leagă între ele.</li><li><strong>Erori tehnice de întocmire</strong> — inventar de coordonate greșit sau incomplet, fișier de date neconform, piese lipsă din dosar, semnături sau formate neconforme cu regulamentul.</li></ul>"
+    },
+    {
+      "type": "html",
+      "heading": "Remediile, pe fiecare tip de notă",
+      "html": "<p>Fiecare cauză are un traseu de remediere cunoscut:</p><ol><li><strong>La suprapuneri</strong> — analizăm cine are limita corectă, pe măsurători și pe acte; urmează fie corectarea propriei documentații, fie procedura de îndreptare a erorii din documentația vecină, cu acordurile necesare. Detalii pe pagina despre <a href=\"/parcuri-fotovoltaice/verificare-suprapunere-cadastrala-teren.html\">suprapuneri cadastrale</a>.</li><li><strong>La neconcordanțe acte–măsurătoare</strong> — se documentează diferența, se corectează piesele și, unde e cazul, se actualizează întâi cartea funciară.</li><li><strong>La identificarea în tarla</strong> — se reconstituie poziția din planul parcelar, vecinătăți și ortofotoplan, cu măsurători suplimentare.</li><li><strong>La actele incomplete</strong> — lista lipsurilor merge la proprietar sau la notar; noi ținem documentația pregătită ca depunerea să se facă imediat ce actele sunt complete.</li><li><strong>La erorile de întocmire</strong> — se refac piesele afectate și se redepune. E categoria cea mai rapidă, dar și cea mai evitabilă.</li></ol><p>Important: o respingere nu înseamnă că proiectul are o problemă de fond. De cele mai multe ori înseamnă că documentația a fost întocmită fără verificările prealabile care ar fi scos problema la iveală înainte de depunere.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Cum prevenim respingerile, înainte de depunere",
+      "html": "<p>Rutina noastră pe lucrările mari e simplă și plictisitoare — exact așa cum trebuie să fie: verificăm situația imobilelor pe geoportalul ANCPI și în evidențele OCPI înainte de măsurătoare, confruntăm actele cu situația din teren, verificăm vecinătățile înregistrate una câte una și abia apoi întocmim documentația, în sistemul de coordonate <a href=\"/dictionar/stereografic-1970-stereo-70.html\">Stereo 70</a>, cu piesele cerute de regulament. Pe alipiri de multe parcele, ordinea operațiunilor cadastrale se planifică de la început — ce se intabulează întâi, ce se actualizează, ce se comasează — pentru că o ordine greșită produce respingeri în lanț.</p><p>Dacă documentația a fost întocmită de altcineva și respinsă, o putem prelua: analizăm referatul, refacem ce e de refăcut și ducem lucrarea până la recepție.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Am primit o notă de completare. E același lucru cu respingerea?",
+          "a": "Nu. Nota de completare cere lămuriri sau piese suplimentare într-un termen dat — documentația rămâne în lucru. Respingerea închide cererea și cere redepunere. În ambele cazuri, primul pas e citirea exactă a motivelor din referat."
+        },
+        {
+          "q": "Poate alt topograf să continue o documentație respinsă?",
+          "a": "Da. Preluăm curent lucrări întocmite de terți: analizăm referatul de respingere, verificăm măsurătorile și actele, refacem piesele problematice și redepunem. Uneori e nevoie de remăsurare, alteori doar de corecturi de birou."
+        },
+        {
+          "q": "Cât durează deblocarea unei documentații respinse?",
+          "a": "Depinde de cauză: erorile de întocmire se rezolvă în zile, suprapunerile și problemele de acte pot dura săptămâni sau luni, pentru că implică terți. După analiza referatului îți dăm un termen realist, pe pași."
+        },
+        {
+          "q": "Respingerea la OCPI îmi afectează autorizația de construire?",
+          "a": "Indirect, da: fără situație cadastrală clarificată nu avansează superficia, alipirea sau actualizările de care depind avizele și finanțarea. De aceea documentațiile cadastrale se pornesc devreme, nu în paralel cu depunerea pentru autorizație."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/verificare-suprapunere-cadastrala-teren.html", "label": "Verificarea suprapunerilor cadastrale" },
+    { "href": "/parcuri-fotovoltaice/alipire-parcele-teren.html", "label": "Alipirea parcelelor — lucrare mare, riscuri mari" },
+    { "href": "/parcuri-fotovoltaice/plan-parcelar-identificare-teren.html", "label": "Identificarea terenului în planul parcelar" },
+    { "href": "/parcuri-fotovoltaice/greseli-studiu-topografic-autorizatie.html", "label": "Greșeli în studiile topografice" },
+    { "href": "/servicii/servicii-ocpi/", "label": "Servicii OCPI — depuneri și recepții" },
+    { "href": "/dictionar/carte-funciara.html", "label": "Dicționar: carte funciară" }
+  ],
+  "sources": [
+    { "url": "https://legislatie.just.ro/Public/DetaliiDocument/160177", "title": "Ordinul ANCPI nr. 700/2014 — regulamentul de avizare, recepție și înscriere" },
+    { "url": "https://geoportal.ancpi.ro/", "title": "Geoportal ANCPI — verificarea imobilelor înregistrate" }
+  ]
+}

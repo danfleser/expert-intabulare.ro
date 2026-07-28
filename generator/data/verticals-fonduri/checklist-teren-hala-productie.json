@@ -1,0 +1,74 @@
+{
+  "slug": "checklist-teren-hala-productie",
+  "title": "Checklist teren: hală de producție sau depozit pe fonduri europene | Expert Intabulare",
+  "h1": "Checklist de teren pentru hala de producție sau depozitul finanțat european",
+  "metaDescription": "Checklist printabil: terenul pentru o hală pe fonduri europene — intravilan/extravilan, PUZ, utilități în planul topografic, acces, sarcini CF. De la topograf ANCPI.",
+  "whatsappTopic": "verificarea terenului pentru o hală de producție",
+  "hook": "deadline",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Terenul industrial se alege cu actele, nu doar cu ochii",
+      "html": "<p>La halele de producție și depozitele finanțate — prin programele regionale pentru IMM-uri, prin AFIR la procesare sau prin scheme naționale — alegerea și pregătirea terenului decid jumătate din calendarul proiectului. Un teren „bun la preț” în extravilan poate ascunde un PUZ de un an; unul „cu utilități la poartă” poate avea racordurile pe terenul vecinului; unul „moștenit de la firmă” poate căra sarcini vechi în partea a III-a. Checklist-ul de mai jos e filtrul prin care trecem noi terenurile clienților înainte ca arhitectul să deseneze primul dreptunghi.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Checklist: terenul halei, verificat punct cu punct",
+      "items": [
+        "Regimul urbanistic: intravilan cu funcțiune compatibilă (industrial/depozitare)? Extravilanul înseamnă PUZ de introducere în intravilan — adaugă multe luni în calendar",
+        "Certificat de urbanism cerut devreme: confirmă funcțiunea, POT/CUT, retragerile și lista de avize — cel mai ieftin test al fezabilității",
+        "Extras CF curat: proprietar cert, fără ipoteci neacceptate de ghid, litigii sau interdicții în partea a III-a",
+        "Suprafața și forma: hala + manevră TIR + parcări + rezerva de extindere încap cu retragerile impuse?",
+        "Accesul: direct la drum public înscris, cu gabarit pentru trafic greu; servituțile de trecere se verifică în CF, nu „din vorbe”",
+        "Utilitățile în planul topografic: trasee reale de apă, canal, gaz, curent, cu diametre/capacități de cerut de la deținători — poziția lor decide amplasarea halei",
+        "Construcții existente în incintă: toate intabulate, cele fără acte regularizate înainte de depunere",
+        "Categoria de folosință: arabilul se rezolvă la autorizare (scoatere din circuit agricol pentru suprafața construită); pășunile au regim special — atenție",
+        "Studiul geotehnic coordonat cu ridicarea topografică — forările se poziționează pe planul nostru (noi nu facem geotehnica, dar colaborăm cu cei care o fac)",
+        "Extras CF de informare ≤30 de zile la depunere — pus în calendar, nu lăsat la urmă"
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Intravilan vs. extravilan: ce înseamnă pentru calendarul proiectului",
+      "head": ["Aspect", "Teren intravilan compatibil", "Teren extravilan"],
+      "rows": [
+        ["Urbanism", "CU → DTAC direct", "PUZ de introducere în intravilan, apoi CU → DTAC"],
+        ["Durată până la autorizație", "luni (2–5, orientativ)", "de regulă peste un an cu tot cu PUZ"],
+        ["Documentație topografică", "plan topografic vizat OCPI", "suport topografic pentru PUZ + planul pentru DTAC"],
+        ["Risc de calendar pentru finanțare", "gestionabil în majoritatea sesiunilor", "incompatibil cu sesiunile apropiate — planifică pe termen lung"],
+        ["Cost total de pregătire", "moderat", "semnificativ mai mare (PUZ, avize, timp)"]
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Am găsit teren ieftin în extravilan, lângă șosea. Merită pentru proiectul cu finanțare?", "a": "Depinde de orizont: pentru o sesiune din acest an — aproape sigur nu, PUZ-ul nu se comprimă. Pentru strategia pe 2–3 ani — poate fi o achiziție excelentă. Calculează prețul real: teren + PUZ + timp; adesea intravilanul „scump” iese mai ieftin per total." },
+        { "q": "Ce înseamnă „utilitățile în planul topografic” și de ce insistați?", "a": "Măsurăm și reprezentăm traseele reale ale rețelelor din zonă și incintă: cămine, hidranți, stâlpi, conducte indicate de deținători. Proiectantul așază hala în funcție de ele, iar avizatorii le cer explicit. Halele proiectate „fără utilități pe plan” se lovesc de relocări scumpe la execuție." },
+        { "q": "Firma are deja o incintă cu construcții vechi. Checklist-ul se aplică la fel?", "a": "Da, plus auditul construcțiilor existente — orice corp neintabulat sau fără autorizație se regularizează înainte de depunere. Avem o pagină dedicată exact acestui scenariu de extindere pe fonduri, cu pașii de intrare în legalitate." },
+        { "q": "Puteți verifica un teren înainte să-l cumpărăm pentru proiect?", "a": "Da — verificare de carte funciară și sarcini, măsurătoare de verificare a suprafeței și limitelor, controlul suprapunerilor la OCPI și o discuție cu primăria despre regimul urbanistic. Costă o fracțiune din avans și previne achiziția unui teren pe care proiectul nu se poate face." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Ai un teren în vizor pentru hală?",
+      "text": "Trimite-ne pe WhatsApp numărul cadastral sau extrasul CF înainte să semnezi ceva — trecem terenul prin checklist și îți spunem ce ascunde."
+    }
+  ],
+  "related": [
+    "documentatie-teren-hala-productie-fonduri",
+    "checklist-teren-unitate-procesare",
+    "constructie-fara-autorizatie-fonduri-europene",
+    "plan-topografic-vizat-ocpi",
+    "plan-de-situatie-certificat-urbanism",
+    "motive-respingere-dosar-teren-proprietate",
+    "/servicii/topografie-constructii/",
+    "/dictionar/carte-funciara.html"
+  ],
+  "sources": [
+    "https://www.regiocentru.ro/",
+    "https://www.ancpi.ro/",
+    "https://legislatie.just.ro/Public/DetaliiDocument/1515"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "intabulare-teren-agricol-fonduri-europene",
+  "title": "Ferma și exploatația agricolă: intabulare și plan de amplasament pentru finanțare | Expert Intabulare",
+  "h1": "Intabularea terenului agricol pentru finanțare: fermă, exploatație, comasare",
+  "metaDescription": "Intabulare teren agricol pentru fonduri europene: plan parcelar, tarla și parcelă în extravilan, comasarea parcelelor, PAD pentru dosarul AFIR. Topograf ANCPI Alba.",
+  "whatsappTopic": "intabulare teren agricol pentru finanțare",
+  "hook": "deadline",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "De ce ferma ta „există” la APIA, dar nu și la OCPI",
+      "html": "<p>O exploatație agricolă poate funcționa ani de zile pe declarații APIA, contracte de arendă și registrul agricol, fără ca vreo parcelă să fie înscrisă în cartea funciară. Sistemele sunt paralele: APIA urmărește <em>cine cultivă</em>, cartea funciară urmărește <em>cine deține</em>. Finanțările pentru investiții — construcții de ferme, depozite, sisteme de irigații, plantații — se sprijină pe al doilea sistem: fără carte funciară nu există extras CF, fără extras CF nu există dovada proprietății, iar fără dovadă nu există contract de finanțare.</p><p>Terenurile agricole din extravilan au specificul lor: sunt identificate pe <strong>tarlale și parcele</strong> conform planurilor parcelare întocmite după Legea 18/1991, multe titluri de proprietate descriu vecinii, nu coordonate, iar limitele reale din teren s-au mișcat odată cu drumurile de exploatare. Intabularea lor nu este o formalitate de birou — este o lucrare de identificare: suprapunem titlul, planul parcelar, ortofotoplanul și măsurătorile ca să stabilim cert unde este parcela și cât are în realitate.</p>"
+    },
+    {
+      "type": "process",
+      "heading": "Cum intabulăm o parcelă agricolă, pas cu pas",
+      "steps": [
+        { "title": "Analiza actelor și a planului parcelar", "text": "Verificăm titlul de proprietate, poziția în tarla și planul parcelar existent la OCPI sau la primărie. Aici aflăm dacă parcela se poate identifica cert sau dacă tarlaua are probleme (suprapuneri, plan parcelar lipsă)." },
+        { "title": "Măsurători în teren", "text": "Măsurăm limitele reale cu GPS RTK, în prezența ta și, ideal, a vecinilor de parcelă — la extravilan, confirmarea vecinilor previne litigii ulterioare." },
+        { "title": "Documentația cadastrală", "text": "Întocmim planul de amplasament și delimitare (PAD) și dosarul de primă înscriere, pe care îl depunem online la OCPI în format CPXML." },
+        { "title": "Intabularea în cartea funciară", "text": "După recepția OCPI, imobilul primește număr cadastral și carte funciară — de acum poți obține extras CF și extras de plan cadastral pe ortofotoplan pentru orice dosar de finanțare." }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Comasarea: din 12 parcele înguste, un amplasament construibil",
+      "html": "<p>Pentru investițiile care construiesc — o hală de utilaje, un grajd, un siloz — forma parcelelor contează la fel de mult ca suprafața. Parcelele rezultate din reconstituirea proprietății sunt tipic lungi și înguste (fâșii de 10–20 m lățime), pe care nu se poate autoriza nimic rezonabil. Soluția este <strong>alipirea (comasarea) cadastrală</strong>: parcelele învecinate, odată intabulate, se unesc într-un singur imobil cu un singur număr cadastral și o formă utilizabilă. Ordinea corectă: intabulare individuală → alipire → certificat de urbanism pe imobilul rezultat. Planificată din timp, comasarea rulează în paralel cu scrierea proiectului; descoperită târziu, adaugă săptămâni în cel mai prost moment.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Dosarul de teren al unei exploatații pregătite de finanțare",
+      "items": [
+        "Toate parcelele pe care se construiește sau se plantează: intabulate, cu extras CF disponibil",
+        "Parcelele arendate: contracte de arendă înregistrate la primărie, cu durata acoperind implementarea și monitorizarea",
+        "Amplasamentul investiției: comasat dacă e format din mai multe parcele, cu acces la drum înscris",
+        "Categoria de folosință din CF conformă cu realitatea (arabil, pășune, livadă) — diferențele se corectează înainte de depunere",
+        "Plan de amplasament și delimitare (PAD) și, la nevoie, extras de plan cadastral pe ortofotoplan pentru dosar"
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Am titlu de proprietate din 1995. Nu e suficient pentru dosar?", "a": "Titlul dovedește reconstituirea dreptului, dar finanțatorii cer extras de carte funciară — iar acesta există doar după cadastrare și intabulare. Titlul este punctul de plecare al documentației, nu înlocuitorul ei." },
+        { "q": "Suprafața din titlu diferă de ce se măsoară în teren. Ce se întâmplă?", "a": "Situație foarte frecventă la extravilan. Diferențele mici se pot înscrie conform regulamentului ANCPI; cele mari cer verificarea planului parcelar și, uneori, procedura de modificare a suprafeței. Detaliem scenariile pe pagina despre diferențele de suprafață." },
+        { "q": "Pot comasa parcele care nu sunt încă intabulate?", "a": "Nu — alipirea se face între imobile deja înscrise în cartea funciară. De aceea ordinea corectă este întâi prima înscriere a fiecărei parcele, apoi alipirea. Le programăm ca pe o singură lucrare, în etape." },
+        { "q": "Lucrați în toată zona Aiudului?", "a": "Da — teren în tot județul Alba, plus județele învecinate Cluj, Mureș, Sibiu și Hunedoara. La lucrările cu multe parcele ne organizăm pe zile de teren per tarla, ceea ce reduce costul pe parcelă." }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Când tarlaua însăși e problema: planuri parcelare lipsă sau contradictorii",
+      "html": "<p>Există un nivel de dificultate despre care se vorbește puțin, pentru că nu ține de parcela ta, ci de întreaga tarla: <strong>planul parcelar</strong>. În unele zone, planurile întocmite la aplicarea Legii 18/1991 s-au pierdut, au rămas needitate sau conțin erori sistematice — suprafețele titlurilor din tarla adunate depășesc suprafața reală a tarlalei, ordinea parcelelor din teren nu corespunde cu cea din plan, drumurile de exploatare au „mâncat” fâșii întregi. În aceste cazuri, intabularea individuală se lovește de un zid care nu e al tău: OCPI nu poate valida poziția parcelei tale într-o tarla incoerentă.</p><p>Soluțiile există, dar cer răbdare și metodă: verificarea la OCPI a planurilor parcelare recepționate pentru tarlaua respectivă, reconstituirea ordinii reale a parcelelor din măsurători și din actele vecinilor, iar în zonele norocoase — înregistrarea sistematică (cadastrul general gratuit pe sectoare), care rezolvă tarlaua întreagă din fonduri publice. Partea noastră: îți spunem de la prima verificare în ce fel de tarla se află parcela — una „așezată”, unde prima înscriere e rutină, sau una problematică, unde calendarul realist se măsoară altfel. E o informație care valorează mult înainte de a promite finanțatorului un termen.</p>"
+    },
+    {
+      "type": "cta",
+      "heading": "Exploatație cu acte nepuse la punct?",
+      "text": "Scrie-ne pe WhatsApp câte parcele ai și ce investiție plănuiești — îți spunem care trebuie intabulate pentru dosar și în ce ordine."
+    }
+  ],
+  "related": [
+    "acte-teren-tineri-fermieri-afir",
+    "documentatie-topografica-afir",
+    "diferenta-suprafata-acte-teren",
+    "intabulare-teren-hotarare-consiliu-local",
+    "plan-amplasament-delimitare-pad",
+    "checklist-teren-pensiune-agroturistica",
+    "/servicii/intabulare-teren/",
+    "/dictionar/plan-parcelar.html"
+  ],
+  "sources": [
+    "https://www.afir.ro/",
+    "https://www.ancpi.ro/",
+    "https://legislatie.just.ro/Public/DetaliiDocument/1459"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "intabulare-teren-hotarare-consiliu-local",
+  "title": "Terenul primit prin hotărâre de consiliu local sau ordin de prefect | Expert Intabulare",
+  "h1": "Teren din HCL, ordin de prefect sau titlu vechi: cum îl aduci în cartea funciară",
+  "metaDescription": "Intabularea terenurilor dobândite prin hotărâre de consiliu local, ordin de prefect sau titluri Legea 18/1991 — traseul pentru UAT-uri și fermieri, pas cu pas.",
+  "whatsappTopic": "intabulare teren primit prin HCL sau ordin de prefect",
+  "hook": "deadline",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Actele administrative: valabile, dar nu suficiente pentru finanțator",
+      "html": "<p>O categorie aparte de „acte de proprietate” vine nu de la notar, ci de la stat: <strong>ordinele de prefect</strong> (tipic pentru terenurile aferente caselor, atribuite conform art. 36 din Legea 18/1991), <strong>titlurile de proprietate</strong> emise de comisiile de fond funciar, <strong>hotărârile de consiliu local</strong> privind atribuirea sau darea în folosință a terenurilor și hotărârile de guvern privind domeniul public. Toate sunt titluri valabile — dar toate au aceeași limită practică: <strong>ele constată sau constituie dreptul, însă nu îl fac vizibil în cartea funciară</strong>. Iar finanțatorul, banca și notarul se uită doar acolo.</p><p>Publicul acestei pagini e dublu: <strong>fermierii și persoanele fizice</strong> cu titluri și ordine din anii '90–2000, care acum vor să depună proiecte, și <strong>UAT-urile</strong> care descoperă la primul proiect serios că drumurile, școlile și pășunile comunei nu sunt intabulate. Traseele diferă puțin, capcanele diferă mult.</p>"
+    },
+    {
+      "type": "process",
+      "heading": "Traseul pentru persoane fizice: de la ordin/titlu la extras CF",
+      "steps": [
+        { "title": "Verificarea actului", "text": "Citim ordinul de prefect sau titlul: ce suprafață, ce identificare (tarla/parcelă, vecinătăți), pe cine e emis. Dacă titularul a decedat, succesiunea intră în calendar înaintea oricărui pas cadastral." },
+        { "title": "Identificarea parcelei", "text": "Corelăm actul cu planul parcelar, registrul agricol și realitatea din teren. La ordinele de prefect pentru curți-grădini identificarea e de obicei simplă; la titlurile din extravilan poate cere muncă de arhivă." },
+        { "title": "Măsurători și documentație de primă înscriere", "text": "Măsurăm, întocmim documentația cadastrală cu actul administrativ ca temei al dreptului și o depunem la OCPI." },
+        { "title": "Cartea funciară", "text": "După soluționare, imobilul are număr cadastral și CF electronică — iar tu ai, în sfârșit, extrasul pe care îl cere orice ghid de finanțare." }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Traseul pentru UAT-uri: domeniul public nu se intabulează „din oficiu”",
+      "html": "<p>Pentru primării, situația tipică sună așa: imobilul apare în <strong>inventarul domeniului public</strong> atestat prin hotărâre de guvern (sau în inventarul domeniului privat aprobat prin HCL), dar nu are carte funciară. Pentru un proiect — Anghel Saligny, PNRR, Regio, granturi SEE — asta devine blocaj la dovada proprietății sau la autorizare.</p><p>Traseul: se pornește de la inventarul atestat și actele care au stat la baza lui, se întocmește documentația cadastrală de primă înscriere pe UAT (cu mențiunea domeniului public sau privat), iar consiliul local adoptă hotărârile necesare acolo unde inventarul trebuie completat sau corectat. Detalii care fac diferența în practică: <strong>concordanța dintre denumirea din inventar și realitatea măsurată</strong> (poziții kilometrice la drumuri, suprafețe istorice „din condei”), delimitarea față de proprietățile private riverane și tratarea corectă a categoriilor speciale — pășunile (islazurile) au regim propriu, iar drumurile cer coridoare continue, nu segmente. Lucrăm curent cu UAT-uri; știm și ce va întreba OCPI-ul, și ce va întreba prefectura.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Am ordin de prefect din 1998 pentru curtea casei. Mai e valabil?", "a": "Da — actul administrativ nu expiră. Ce se degradează în timp e contextul: martori, vecini, limite. Intabularea pe baza lui se face oricând, dar cu cât mai devreme, cu atât mai simplu. Dacă ai un proiect în orizont, acesta e momentul." },
+        { "q": "Titlul de proprietate e pe tata, care a murit. Pot intabula direct pe mine?", "a": "Nu direct — lanțul corect trece prin succesiune: certificatul de moștenitor aduce dreptul la zi, apoi documentația cadastrală îl înscrie. Cele două se pot pregăti în paralel; vezi și pagina noastră despre moșteniri nedezbătute." },
+        { "q": "Primăria are terenul „în inventar” din 1999. De ce nu ajunge pentru proiect?", "a": "Pentru că inventarul atestă apartenența la domeniul public, dar nu ține loc de carte funciară — iar ghidurile și autorizarea cer înscrierea. Vestea bună: inventarul atestat este exact temeiul pe care se face prima înscriere; documentația cadastrală îl transformă în CF." },
+        { "q": "HCL-ul ne dă terenul „în folosință gratuită” pentru un centru social. Ce mai trebuie?", "a": "Dreptul de folosință trebuie constituit în forma cerută de lege și, pentru dosar, înscris în cartea funciară a imobilului — care, la rândul ei, trebuie să existe. Ordinea: intabularea imobilului pe UAT, apoi înscrierea dreptului de folosință. Programează ambele înainte de sesiune." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Teren cu act administrativ, fără carte funciară?",
+      "text": "Trimite-ne pe WhatsApp o poză a ordinului, titlului sau HCL-ului — îți spunem ce traseu de intabulare urmează și cât durează, pentru persoană fizică sau UAT."
+    }
+  ],
+  "related": [
+    "intabulare-teren-agricol-fonduri-europene",
+    "checklist-teren-primarie-uat",
+    "plan-topografic-anghel-saligny",
+    "teren-neintabulat-fonduri-europene",
+    "teren-indiviziune-fonduri-europene",
+    "arenda-comodat-concesiune-finantare",
+    "/servicii/intabulare-teren/",
+    "/dictionar/plan-parcelar.html"
+  ],
+  "sources": [
+    "https://legislatie.just.ro/Public/DetaliiDocument/1459",
+    "https://www.ancpi.ro/"
+  ]
+}

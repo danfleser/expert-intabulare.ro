@@ -1,0 +1,69 @@
+{
+  "slug": "motive-respingere-dosar-teren-proprietate",
+  "title": "Top motive de respingere a dosarului la capitolul teren și proprietate | Expert Intabulare",
+  "h1": "De ce pică dosarele la capitolul teren: lista motivelor reale de respingere",
+  "metaDescription": "Motivele reale pentru care dosarele de finanțare pică la teren și proprietate: extras CF expirat, sarcini, litigii notate, PAD lipsă, neconcordanțe. Cum le previi.",
+  "whatsappTopic": "verificarea dosarului la capitolul teren",
+  "hook": "deadline",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Dosarele nu pică pe idei proaste — pică pe hârtii",
+      "html": "<p>Statistica nescrisă pe care o confirmă orice consultant cu vechime: proiectele rareori pică pe calitatea planului de afaceri și frecvent pe <strong>verificări administrative</strong> — iar capitolul teren și proprietate e campionul absolut. E și logic: partea de imobil e singura din dosar care depinde de registre publice, termene de emitere și proceduri OCPI — adică de lucruri care nu se pot „rescrie” peste noapte, ca un buget.</p><p>Lista de mai jos vine din practica reală — dosare pe care le-am văzut respinse sau salvate în ceasul al doisprezecelea, în proiecte AFIR, PNRR și regionale. Fiecare motiv are prevenția lui, iar aproape toate se dezamorsează în săptămânile de dinaintea depunerii, nu în zilele.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Motivele de respingere și antidotul fiecăruia",
+      "head": ["#", "Motivul de respingere", "Prevenția"],
+      "rows": [
+        ["1", "Extras CF mai vechi de 30 de zile la data depunerii", "Extrasul se scoate ultimul, cu zile — nu săptămâni — înainte de depunere"],
+        ["2", "Teren sau construcție neînscrise în cartea funciară", "Verificare CF la începutul proiectului; intabulare pornită cu luni înainte"],
+        ["3", "Sarcini în partea a III-a: ipoteci neacceptate, interdicții, sechestre", "Citirea extrasului „ca un evaluator” înainte de a scrie proiectul"],
+        ["4", "Litigiu notat pe imobil", "Verificare timpurie; litigiile nu se sting în ritmul sesiunilor"],
+        ["5", "Solicitantul nu e (singurul) proprietar — indiviziune, succesiune neînscrisă", "Clarificarea cotelor și acordurilor înainte de depunere"],
+        ["6", "Neconcordanțe de suprafață sau de identificare între documente", "Alinierea tuturor pieselor pe datele din CF"],
+        ["7", "Dreptul de folosință pe durată insuficientă (arendă scurtă, comodat neînregistrat)", "Compararea duratei dreptului cu cerința ghidului: implementare + durabilitate"],
+        ["8", "PAD sau plan topografic lipsă, neavizat sau întocmit pe alt contur", "Comandarea pieselor la persoane autorizate ANCPI, pe imobilul corect"],
+        ["9", "Categoria de folosință incompatibilă cu investiția", "Verificarea și corectarea categoriei înainte de certificatul de urbanism"],
+        ["10", "Acces la drum public nedovedit", "Servitute sau drum înscris în CF, nu „așa s-a umblat dintotdeauna”"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Cum arată prevenția organizată: auditul de dosar",
+      "html": "<p>Pentru clienții care vin înainte de sesiune — nu în timpul ei — facem un <strong>audit al capitolului imobil</strong>: citim cerințele ghidului la „dovada proprietății”, extragem situația reală din cartea funciară și arhiva OCPI, comparăm cu actele din sertar și livrăm o listă scurtă: ce e în regulă, ce trebuie reparat, cât durează fiecare reparație. Consultantul primește certitudini în loc de presupuneri, iar tu primești calendarul real al proiectului — înainte să-ți asumi termene față de finanțator.</p><p>Costul unui astfel de audit este o fracțiune din valoarea oricărui proiect — și incomparabil mai mic decât o sesiune ratată. Nu vindem frică: din experiența noastră, majoritatea dosarelor au probleme <em>reparabile</em>. Condiția e una singură: să fie descoperite la timp.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Dosarul a primit clarificări pe partea de teren, cu termen de 10 zile. Ne puteți ajuta?", "a": "Da — clarificările pe imobil sunt de obicei documente de emis sau de corectat rapid (extras nou, copii din arhiva OCPI, plan actualizat). Trimite-ne pe WhatsApp solicitarea de clarificări exact cum ați primit-o; triem în aceeași zi ce se poate rezolva în termen." },
+        { "q": "Care motiv de respingere e cel mai greu de reparat?", "a": "Litigiile notate și problemele de fond ale dreptului (acte sub semnătură privată, suprapuneri cu titluri contradictorii) — acestea se rezolvă în luni sau în instanță. Toate celelalte din listă sunt administrative și se repară în zile–săptămâni, dacă sunt prinse la timp." },
+        { "q": "Consultantul nostru zice că „e ok, am depus așa la toți”. Pe cine ascultăm?", "a": "Pe ghidul sesiunii curente — cerințele se schimbă între sesiuni, iar evaluatorii diferă. Noi nu ne pronunțăm pe eligibilitate economică (nu e meseria noastră), dar pe situația de carte funciară îți dăm un răspuns documentat, cu extrasul pe masă — iar consultantul bun apreciază exact asta." },
+        { "q": "Faceți auditul și pentru mai multe amplasamente deodată?", "a": "Da — la exploatații sau firme cu mai multe imobile, auditul pe pachet e mai eficient: verificările la OCPI se fac grupat, iar raportul acoperă toate amplasamentele cu aceeași grilă." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Vrei dosarul verificat înainte de depunere?",
+      "text": "Trimite-ne pe WhatsApp extrasul CF și ghidul apelului — facem auditul capitolului imobil și îți dăm lista exactă de reparat, cu termene."
+    }
+  ],
+  "related": [
+    "extras-carte-funciara-fonduri-europene",
+    "teren-neintabulat-fonduri-europene",
+    "teren-indiviziune-fonduri-europene",
+    "diferenta-suprafata-acte-teren",
+    "arenda-comodat-concesiune-finantare",
+    "aviz-ocpi-respins-motive",
+    "colaborare-consultant-fonduri-europene",
+    "/servicii/cadastru-si-intabulare/",
+    "/dictionar/carte-funciara.html"
+  ],
+  "sources": [
+    "https://www.afir.ro/",
+    "https://www.regiocentru.ro/",
+    "https://www.ancpi.ro/"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "amplasament-baterii-stocare-energie",
+  "title": "Amplasament baterii de stocare (BESS) — trasare și nivelment de precizie",
+  "h1": "Amplasament pentru baterii de stocare (BESS): trasarea și nivelmentul platformelor",
+  "metaDescription": "Sisteme de stocare BESS: trasare fundații, nivelment de precizie al platformelor, colocare cu parcul fotovoltaic, as-built. Topograf autorizat ANCPI.",
+  "whatsappTopic": "trasarea și nivelmentul unui amplasament de baterii de stocare",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Bateriile iartă mai puțin decât panourile",
+      "html": "<p>Sistemele de stocare în baterii (BESS) apar acum în două scenarii: proiecte noi, proiectate de la început cu stocare, și colocare — containere de baterii adăugate într-un parc fotovoltaic existent. În ambele, partea topografică e mai pretențioasă decât la panouri. Un rând de panouri tolerează terenul prin structură; un container BESS de zeci de tone stă pe o platformă sau pe un radier care trebuie să fie exact la cotă și exact în poziție, pentru că de el se leagă rigid trasee de cabluri, transformatoare și echipamente de conectare.</p><p>Noi facem pentru amplasamentele BESS măsurătorile de proiectare, trasarea fundațiilor, nivelmentul de precizie al platformelor și documentația as-built de la final. Colaborăm cu dezvoltatori și constructori atât pe proiecte noi, cât și pe colocări în parcuri existente. Trimite-ne extrasul CF și, dacă există, planul de amplasare pe WhatsApp — îți spunem în aceeași zi ce măsurători presupune proiectul tău.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Trasarea amplasamentului BESS: poziții rigide, toleranțe strânse",
+      "html": "<p>La execuție materializăm pe teren, din coordonatele proiectului: axele platformelor și ale radierelor, colțurile fundațiilor pentru fiecare container, pozițiile fundațiilor de transformator și ale stațiilor de conexiune, traseele de cabluri și drumul de acces pentru transportul agabaritic. Lucrăm cu GPS RTK pentru poziționarea de ansamblu, cu precizie de ±2–3 cm, și cu stația totală acolo unde proiectul cere mai strâns — la fundațiile cu buloane de ancoraj pre-pozate, unde o abatere de câțiva centimetri înseamnă că prinderile containerului nu se mai potrivesc.</p><p>Un detaliu logistic des subestimat: containerele BESS vin pe trailere lungi, iar geometria drumului de acces — raze de curbură, lățimi, pante — trebuie verificată din măsurătoare înainte să pornească transportul. Facem această verificare din același model de teren, împreună cu <a href=\"/parcuri-fotovoltaice/trasare-drumuri-interne-parc-fotovoltaic.html\">trasarea drumurilor interne</a>.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Nivelmentul de precizie: platforma orizontală nu se negociază",
+      "html": "<p>Specificațiile producătorilor de containere BESS impun planeitate și orizontalitate strictă a platformei de fundare — echipamentele din interior, rafturile de celule și sistemele de răcire sunt proiectate pentru o bază plană. Verificarea acestor condiții nu se face cu GPS, a cărui precizie pe cotă e insuficientă, ci cu <a href=\"/parcuri-fotovoltaice/nivelment-de-precizie.html\">nivelment geometric de precizie</a>, metoda care la clasa înaltă atinge precizie sub-milimetrică pe kilometru dublu de nivelment.</p><p>Practic, pe un amplasament BESS nivelmentul apare de trei ori: la predarea platformei de către constructorul de terasamente (verificarea cotelor înainte de turnare), la recepția radierului (planeitatea suprafeței finite, documentată punct cu punct) și, unde geotehnicianul o recomandă, în operare — cicluri de <a href=\"/parcuri-fotovoltaice/monitorizare-tasari-constructii.html\">monitorizare a tasărilor</a> pe reperi montați pe fundații. Rapoartele de nivelment intră în cartea construcției și sunt exact genul de documente pe care finanțatorul și asigurătorul le cer la due diligence.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Colocarea cu un parc existent: întâi afli ce există cu adevărat",
+      "html": "<p>La colocare, prima problemă nu e unde pui bateriile, ci ce știi despre parcul existent. Parcurile construite acum 10–15 ani au adesea documentație as-built incompletă sau deloc: trasee de cabluri nefigurate, drumuri interne modificate față de proiect, împrejmuiri mutate. Înainte de a proiecta amplasamentul BESS, facem o măsurătoare a situației existente — în logica lucrărilor de <a href=\"/parcuri-fotovoltaice/extindere-parc-fotovoltaic-masuratori.html\">extindere a parcurilor existente</a> — din care rezultă spațiul real disponibil, cotele reale și constrângerile de traseu.</p><p>La final, întregul amplasament intră în <a href=\"/parcuri-fotovoltaice/as-built-parc-fotovoltaic.html\">documentația as-built</a>, cerută la recepție și la punerea în funcțiune și utilă mai departe: racordarea trece prin același lanț ca la parcuri — aviz tehnic de racordare, contract de racordare, punere în funcțiune, certificat de racordare — iar documentația exactă a amplasamentului îți susține dosarul la fiecare pas, inclusiv la refinanțare. Construcțiile aferente (stația de conexiune, clădirea tehnică) se intabulează pe baza documentației cadastrale, ca la orice parc.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Checklist: măsurătorile unui amplasament BESS, în ordinea proiectului",
+      "items": [
+        "Ridicare topografică a zonei de amplasare, cu cote dense și rețele existente — baza pentru proiectarea platformelor",
+        "La colocare: măsurătoarea situației existente din parc — trasee de cabluri vizibile, drumuri, împrejmuiri, spații reale disponibile",
+        "Verificarea geometriei drumului de acces pentru transportul agabaritic: raze, lățimi, pante",
+        "Trasarea axelor și a colțurilor fundațiilor pentru containere, transformatoare și stația de conexiune",
+        "Nivelment geometric la predarea platformei și la recepția radierului, cu raport punct cu punct",
+        "Documentația as-built a întregului amplasament, la recepție și punere în funcțiune",
+        "Documentația cadastrală pentru intabularea construcțiilor aferente, unde e cazul"
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Ce precizie e necesară la fundațiile containerelor BESS?",
+          "a": "Poziționarea în plan se face uzual în toleranțe de ±2–3 cm, iar acolo unde există buloane de ancoraj pre-pozate lucrăm cu stația totală, la precizie milimetrică. Cotele și planeitatea platformei se verifică prin nivelment geometric, conform specificației producătorului."
+        },
+        {
+          "q": "Putem adăuga BESS într-un parc fără documentație as-built?",
+          "a": "Da, dar primul pas e o măsurătoare a situației existente: trasee de cabluri vizibile, drumuri, împrejmuiri, cote reale. Fără ea, proiectarea colocării se face pe presupuneri, iar surprizele apar la săpătură. Măsurătoarea devine totodată baza viitorului as-built."
+        },
+        {
+          "q": "Faceți și proiectarea platformelor sau studiul geotehnic?",
+          "a": "Nu — proiectarea și geotehnica rămân la specialiștii lor. Noi livrăm modelul terenului pentru proiectare, trasăm ce a proiectat inginerul, verificăm cotele prin nivelment și documentăm as-built ce s-a executat. Ne coordonăm curent cu proiectanții și geotehnicienii."
+        },
+        {
+          "q": "Monitorizarea tasărilor e obligatorie la BESS?",
+          "a": "Nu există o obligație generală; decizia aparține proiectantului și geotehnicianului, iar uneori o cere finanțatorul sau asigurătorul. Pe umpluturi sau terenuri sensibile o recomandăm: reperii se montează ieftin la execuție, iar seriile de măsurători valorează mult la orice discuție ulterioară."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/nivelment-de-precizie.html", "label": "Nivelment de precizie pentru fundații" },
+    { "href": "/parcuri-fotovoltaice/as-built-parc-fotovoltaic.html", "label": "Documentația as-built a parcului" },
+    { "href": "/parcuri-fotovoltaice/extindere-parc-fotovoltaic-masuratori.html", "label": "Măsurători pentru extinderea parcurilor existente" },
+    { "href": "/parcuri-fotovoltaice/monitorizare-tasari-constructii.html", "label": "Monitorizarea tasărilor" },
+    { "href": "/servicii/trasare-teren/", "label": "Trasare teren și construcții" },
+    { "href": "/dictionar/as-built.html", "label": "Dicționar: as-built" }
+  ],
+  "sources": [
+    { "url": "https://veltol-energy.ro/conditii-de-infiintare-pentru-un-parc-fotovoltaic-etape-documente-si-autorizatii-necesare/", "title": "Etapele racordării: ATR, contract de racordare, certificat de racordare" }
+  ]
+}

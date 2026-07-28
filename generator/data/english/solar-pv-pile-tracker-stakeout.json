@@ -1,0 +1,56 @@
+{
+  "path": "/en/solar/pv-pile-tracker-stakeout.html",
+  "title": "PV Pile & Tracker Stakeout in Romania — Setting Out at Construction Rhythm",
+  "metaDescription": "Setting out piles and tracker foundations for solar plants in Romania: RTK method, tolerances, daily rhythm, coordinate handover and stakeout reports. Local surveyor for Transylvanian sites.",
+  "h1": "Pile and Tracker Stakeout for Solar Plants",
+  "roPair": "https://expert-intabulare.ro/parcuri-fotovoltaice/trasare-piloni-parc-fotovoltaic.html",
+  "whatsappPrefillEn": "Hello! I need pile/tracker stakeout for a solar plant under construction in Romania.",
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Thousands of points, each in exactly the right place",
+      "html": "<p>A solar plant's structure is unforgiving geometry: thousands of piles whose positions, alignments and tolerances come straight from the structure or tracker supplier's specification. Setting them out (<em>trasare</em>) is a survey production job — sustained accuracy at construction rhythm, so the ramming crews never stand idle and the mounting crews never meet a row that does not line up.</p><p>Tracker rows are the strict case: single-axis trackers demand tighter alignment along the row than fixed-tilt structures, and the supplier's tolerance sheet — not habit — defines what \"good enough\" means. We work from that sheet, confirm achievability on the actual terrain, and document compliance point by point.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Method and workflow",
+      "html": "<ul><li><strong>Input:</strong> your design coordinates (DWG/DXF or coordinate tables). We validate them against the site's control network and the parcel's registered boundaries before the first stake — catching grid mix-ups and boundary encroachments on paper, not in the field.</li><li><strong>Control:</strong> site control network in Stereo 70, RTK GNSS tied to national corrections, total-station verification where specification demands it.</li><li><strong>Production stakeout:</strong> pile positions marked at an agreed daily rhythm coordinated with the ramming contractor's advance; re-staking after earthworks where grading disturbs marks.</li><li><strong>Beyond piles:</strong> internal roads, cable trench axes, fence lines, inverter and transformer station footprints, gates — the whole plant geometry from one control network.</li><li><strong>Handover:</strong> signed stakeout reports and coordinate tables per zone — the paper trail your EPC contract and later the as-built survey will rely on.</li></ul>"
+    },
+    {
+      "type": "html",
+      "heading": "Planning your stakeout campaign",
+      "html": "<p>Stakeout sits on the construction critical path, so we agree the campaign, rhythm and mobilization terms before works start rather than improvising visit by visit. Weather windows, crew advance rates and design revisions all shift the schedule — a local surveyor 30 minutes away absorbs those shifts; one mobilizing across the country does not. Our field range covers Alba, Cluj, Mureș, Sibiu and Hunedoara counties.</p><p>One practical warning from experience: when grading changes the terrain after the design freeze, pile lengths and positions may need revisiting. Flag design revisions to us immediately — staking an outdated revision is the most common avoidable rework on PV sites.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "What tolerances can you hold?",
+          "a": "Centimeter-level positioning with RTK plus total-station verification — sufficient for standard pile and tracker specifications. Send us the supplier's tolerance sheet and we confirm method and achievability in writing before mobilization."
+        },
+        {
+          "q": "How many piles per day can you stake?",
+          "a": "It depends on terrain, access and marking requirements, which is why we agree a rhythm with the contractor upfront and staff accordingly, rather than quoting a universal number that the first muddy week would falsify."
+        },
+        {
+          "q": "Do you also verify piles after ramming?",
+          "a": "Yes — post-installation verification measurements against the specification, per zone or per sample as your quality plan requires, feeding directly into the as-built documentation."
+        },
+        {
+          "q": "How is a stakeout campaign priced?",
+          "a": "By the campaign, not by the visit: point count, agreed rhythm, expected re-staking allowance and mobilization terms go into one written offer before works start. Per-visit improvisation is how stakeout becomes both the smallest and the most disputed line in an EPC budget — we structure it so it is neither."
+        },
+        {
+          "q": "Who do you coordinate with on site day to day?",
+          "a": "Whoever owns the construction sequence — usually the EPC's site manager or the ramming subcontractor's foreman — with the developer's project manager kept in the loop on progress and any design conflicts. One WhatsApp group with the stakeout plan, the daily zones and the handover tables has proven to be the entire coordination apparatus a well-run site needs."
+        }
+      ]
+    }
+  ],
+  "related": [
+    "/en/solar/solar-park-topographic-survey.html",
+    "/en/solar/as-built-survey-pv-plants.html",
+    "/en/services/building-stakeout.html",
+    "/en/solar/land-surveying-pv-projects-transylvania.html"
+  ]
+}

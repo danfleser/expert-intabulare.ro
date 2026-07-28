@@ -1,0 +1,88 @@
+{
+  "slug": "intrebari-frecvente-cadastru-fonduri-europene",
+  "title": "Întrebări frecvente: topografie și cadastru pentru fonduri europene | Expert Intabulare",
+  "h1": "Întrebări frecvente despre topografie și cadastru în proiectele cu fonduri europene",
+  "metaDescription": "25 de întrebări și răspunsuri despre acte de teren, plan topografic vizat OCPI, intabulare, termene și costuri în proiectele cu fonduri europene. De la topograf ANCPI.",
+  "whatsappTopic": "o întrebare despre cadastru și fonduri europene",
+  "hook": "deadline",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Cum folosești pagina asta",
+      "html": "<p>Mai jos sunt adunate întrebările pe care le primim cel mai des — la telefon, pe WhatsApp și prin consultanții cu care lucrăm — despre partea de teren a proiectelor cu finanțare. Răspunsurile sunt scurte intenționat: fiecare temă mare are pagina ei detaliată în această secțiune a site-ului, cu tabele, termene și pași. Dacă întrebarea ta nu e aici, cel mai rapid drum rămâne același: scrie-ne-o pe WhatsApp — răspundem de regulă în aceeași zi, iar întrebările bune ajung, anonimizat, chiar în pagina asta.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Actele terenului și dovada proprietății",
+      "items": [
+        { "q": "Ce înseamnă, pe scurt, „dovada proprietății” într-un dosar de finanțare?", "a": "Extras de carte funciară recent care arată dreptul solicitantului asupra imobilului — proprietate, superficie, concesiune sau alt drept acceptat de ghid. Actele „din sertar” (contracte, titluri, adeverințe) nu țin loc de carte funciară." },
+        { "q": "De ce trebuie extrasul CF să aibă sub 30 de zile?", "a": "E cerința standard a finanțatorilor: vor o fotografie recentă a situației juridice. Nu e o valabilitate legală a extrasului, ci o regulă de ghid — deci extrasul se scoate ultimul, chiar înainte de depunere." },
+        { "q": "Terenul e al părinților. Pot depune proiectul pe el?", "a": "Nu direct — îți trebuie un drept propriu: superficie constituită la notar și înscrisă în CF (soluția tipică dacă se construiește), donație, sau comodat/arendă unde ghidul le acceptă pentru investiții fără construcții." },
+        { "q": "Moștenirea nu e dezbătută. Cât durează până pot depune?", "a": "Succesiunea la notar plus intabularea — realist de la câteva săptămâni la câteva luni, dominat de viteza succesiunii. Partea cadastrală o pregătim în paralel, ca să nu se adune duratele." },
+        { "q": "Ce sarcini din cartea funciară îmi blochează eligibilitatea?", "a": "Cel mai des: litigii notate (blocante aproape peste tot), ipoteci neacceptate de ghid, interdicții de înstrăinare sau grevare, sechestre. Partea a III-a a extrasului se citește la începutul proiectului, nu la depunere." },
+        { "q": "Arenda înregistrată la primărie e suficientă?", "a": "Pentru proiecte agricole fără construcții, de regulă da — cu durata acoperind implementarea plus monitorizarea. Pentru orice se autorizează și se construiește, nu: acolo trebuie drept real." }
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Intabulare și cadastru",
+      "items": [
+        { "q": "Care e diferența dintre cadastru și intabulare?", "a": "Cadastrul e partea tehnică — măsurarea și identificarea imobilului, cu număr cadastral; intabularea e partea juridică — înscrierea dreptului în cartea funciară. Pachetul complet se termină cu extrasul CF pe care îl cere finanțatorul." },
+        { "q": "Cât durează prima înscriere a unui teren?", "a": "Realist, 3–8 săptămâni cap-coadă în cazurile simple: câteva zile partea noastră de teren și documentație, termen de soluționare la OCPI de ordinul a 15 zile lucrătoare, plus marjă pentru eventuale completări." },
+        { "q": "Există intabulare „de urgență”?", "a": "Multe servicii OCPI au regim de urgență cu tarif majorat, dar exact prima înscriere nu se comprimă semnificativ — verificările de fond își cer timpul. Urgența reală se cheamă „început devreme”." },
+        { "q": "Suprafața din acte diferă de cea măsurată. Ce se întâmplă?", "a": "Diferențele mici se înscriu direct, în limitele toleranțelor din regulament; cele mari cer procedura de modificare a suprafeței. Pentru dosar, important e ca toate documentele să declare aceeași suprafață — cea din CF." },
+        { "q": "Ce e o suprapunere cadastrală și cât de gravă e?", "a": "Conturul tău intersectează, în evidențe, un imobil vecin deja înscris. De cele mai multe ori e eroare de evidență, rezolvabilă în săptămâni; când limita e efectiv disputată, poate ajunge la expertiză și instanță. Diagnosticul diferențiază." },
+        { "q": "Cartea funciară e veche, pe hârtie, și nu pot scoate extras online. Ce fac?", "a": "Imobilul are nevoie de conversie în sistemul electronic — de regulă prin documentație cadastrală cu măsurători. Frecvent în Transilvania, la imobile cu numere topografice vechi; realist, câteva săptămâni." },
+        { "q": "Casa există de 30 de ani dar nu apare în cartea funciară. Contează?", "a": "Da — pentru finanțator, o construcție neînscrisă nu există. Se rezolvă prin certificatul de atestare a edificării de la primărie plus documentație cadastrală; pornește procedura înainte de depunere." }
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Planuri, avize, execuție",
+      "items": [
+        { "q": "Ce înseamnă plan „vizat OCPI”?", "a": "Plan trecut prin recepția tehnică a OCPI: măsurători de persoană autorizată ANCPI, în sistem național Stereo 70, verificate de inspector conform Ordinului 700/2014. Fără viză, planul nu e piesă de dosar." },
+        { "q": "Care e diferența dintre PAD, plan de situație și plan topografic?", "a": "PAD-ul definește imobilul juridic pentru cartea funciară; planul de situație arată amplasarea investiției pentru urbanism; planul topografic arată terenul complet (relief, cote, rețele) pentru proiectant. Un dosar matur le are pe toate trei, în etape diferite." },
+        { "q": "Cât e valabil un plan topografic vizat?", "a": "Legea nu-i dă termen de expirare; instituțiile cer plan „actualizat” — care reflectă realitatea curentă. Practic, peste 6–12 luni sau după orice modificare în teren, așteaptă-te să ți se ceară actualizarea." },
+        { "q": "Ce primește proiectantul de la voi pentru SF?", "a": "Planul vizat OCPI plus pachetul de date: puncte măsurate cu cote, curbe de nivel, model digital al terenului, rețele pe layere — în DWG/DXF, LandXML sau formatul cerut. Detaliile contează mai mult decât planșa frumoasă." },
+        { "q": "Ce e procesul-verbal de trasare și de ce îl cere dirigintele?", "a": "Documentul care atestă că construcția a fost marcată pe teren conform proiectului autorizat, la începerea execuției. Intră în cartea tehnică și e prima verigă a lanțului care se închide la recepție." },
+        { "q": "Ce e documentația as-built?", "a": "Măsurătorile finale ale construcției așa cum a fost executată, comparate cu proiectul — baza recepției, a cărții tehnice și a intabulării construcției. La proiectele cu finanțare, susține cererea finală de plată." },
+        { "q": "După recepție am terminat cu actele?", "a": "Mai rămâne intabularea construcției finalizate — cerută de ghiduri în perioada de durabilitate și oricum necesară pentru refinanțare, vânzare sau extindere. Făcută imediat după recepție, e o formalitate; amânată ani, devine arheologie." }
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Programe, termene, costuri",
+      "items": [
+        { "q": "Mai există finanțări active în 2026? PNRR nu s-a terminat?", "a": "PNRR e în faza finală (termen de decontare august 2026, fără apeluri noi), dar restul peisajului e viu: AFIR are sesiuni pe Planul Strategic PAC 2023–2027, Programul Regional Centru 2021–2027 lansează apeluri, GAL-urile au LEADER deschis, Anghel Saligny continuă, iar Granturile SEE și Norvegiene 2021–2028 au fost semnate în mai 2026." },
+        { "q": "Cu cât timp înainte de sesiune ar trebui să încep cu actele de teren?", "a": "Regula practică: 2–3 luni pentru cazuri simple (intabulare directă, planuri), 4–6 luni când există succesiuni, indiviziune sau construcții de regularizat. Actele sunt aproape întotdeauna drumul critic al dosarului — nu planul de afaceri." },
+        { "q": "Cât costă documentația topografică într-un proiect?", "a": "Ordine de mărime orientative: primă înscriere teren 1.400–2.500 lei, plan topografic vizat 1.000–3.500 lei la amplasamente uzuale, plus tarifele OCPI separate. Pe tot proiectul, partea de topografie-cadastru costă de regulă sub un procent din investiție. Ofertă exactă — după ce vedem actele, gratuit." },
+        { "q": "Lucrați și în afara județului Alba?", "a": "Pe teren: Alba integral plus județele vecine — Cluj, Mureș, Sibiu, Hunedoara. Verificări de birou (extrase, arhive, analize de documentații) — pentru imobile din toată țara." },
+        { "q": "Colaborați cu consultantul care ne scrie proiectul?", "a": "Curent — o parte importantă din lucrările noastre vin prin firme de consultanță. Livrăm piesele în formatul dosarului, răspundem la clarificări prin consultant și ținem toată lumea în același fir de WhatsApp." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Întrebarea ta nu e aici?",
+      "text": "Scrie-ne-o pe WhatsApp exact așa cum ți-o pui în minte — răspundem de regulă în aceeași zi, cu pașii concreți pentru situația ta."
+    }
+  ],
+  "related": [
+    "teren-neintabulat-fonduri-europene",
+    "extras-carte-funciara-fonduri-europene",
+    "plan-topografic-vizat-ocpi",
+    "cat-dureaza-intabularea",
+    "diferenta-cadastru-intabulare",
+    "pret-plan-topografic-fonduri-europene",
+    "motive-respingere-dosar-teren-proprietate",
+    "colaborare-consultant-fonduri-europene",
+    "/servicii/cadastru-si-intabulare/",
+    "/dictionar/carte-funciara.html"
+  ],
+  "sources": [
+    "https://www.ancpi.ro/",
+    "https://www.afir.ro/",
+    "https://mfe.gov.ro/pnrr/",
+    "https://www.regiocentru.ro/"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "plan-parcelar-identificare-teren",
+  "title": "Planul parcelar și identificarea certă a terenului din tarla",
+  "h1": "Plan parcelar: cum identifici cu certitudine o parcelă agricolă fără cadastru",
+  "metaDescription": "Plan parcelar pentru identificarea terenului agricol din tarla: cum afli unde e exact parcela din titlul de proprietate înainte de antecontract. Pași și riscuri.",
+  "whatsappTopic": "un plan parcelar pentru identificarea unui teren",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "„Parcela 123/45 din tarlaua 12\" — dar unde e, exact, pe teren?",
+      "html": "<p>O mare parte din terenurile agricole ofertate pentru parcuri fotovoltaice nu au cadastru individual: proprietarul are un titlu de proprietate care descrie parcela prin tarla și număr de parcelă, vecinii din titlu au nume de acum treizeci de ani, iar pe teren totul e un lan continuu, fără niciun reper vizibil. Întrebarea de la care depinde tot proiectul — unde începe și unde se termină exact parcela promisă — nu are răspuns în actele proprietarului. Are răspuns în planul parcelar.</p><p>Pentru un dezvoltator care asamblează un amplasament din zeci de astfel de parcele, identificarea certă nu e o formalitate: fiecare antecontract semnat pe o parcelă greșit poziționată se propagă în tot lanțul — cadastru, alipire, layout, racordare. Pe această pagină: ce e planul parcelar, cum îl folosim pentru identificare și ce faci când el lipsește sau e nesigur.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Ce e planul parcelar și de ce e cheia identificării",
+      "html": "<p>Planul parcelar e reprezentarea grafică a unei tarlale, care poziționează parcelele atribuite prin titlurile de proprietate unele față de altele și față de limitele tarlalei. El face legătura dintre descrierea din titlu — tarla, parcelă, suprafață, vecini — și o poziție concretă pe teren, în coordonate. Întocmirea și recepția planurilor parcelare sunt reglementate prin Ordinul ANCPI nr. 700/2014, iar acolo unde există un plan parcelar recepționat de OCPI, identificarea parcelelor stă pe o bază oficială, nu pe memoria bătrânilor satului.</p><p>Realitatea din teren e însă inegală: în unele zone planurile parcelare există și sunt de calitate, în altele sunt vechi, aproximative sau lipsesc cu totul. Primul pas al oricărei identificări serioase e să afli ce există oficial pentru tarlaua ta — la OCPI și la primărie — și cât de mult te poți baza pe acel document.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Cum facem identificarea, pas cu pas",
+      "html": "<p>Metodologia noastră combină documentele cu măsurătorile:</p><ol><li><strong>Colectăm actele</strong> — titlurile de proprietate, extrasele CF acolo unde există, schițele anexe.</li><li><strong>Procurăm planul parcelar</strong> existent pentru tarla, de la OCPI sau de la primărie, și verificăm dacă e recepționat și în ce sistem de coordonate e întocmit.</li><li><strong>Suprapunem totul</strong> — plan parcelar, evidențele din geoportalul ANCPI, ortofotoplanul — și poziționăm parcela vizată în Stereo 70.</li><li><strong>Verificăm pe teren</strong>: măsurăm limitele de folosință vizibile (hațuri, drumuri de exploatare, capete de tarla) cu GPS/GNSS RTK și le confruntăm cu poziția rezultată din documente.</li><li><strong>Predăm identificarea</strong> — plan cu poziția parcelei, coordonate, suprafața rezultată și, la cerere, materializarea colțurilor pe teren cu țăruși, ca să vezi fizic ce cumperi.</li></ol><p>Dacă între documente și teren apar contradicții — se întâmplă des — le semnalăm explicit, cu variante de clarificare, înainte să semnezi ceva.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Ce faci când planul parcelar lipsește sau e nesigur",
+      "html": "<p>Spunem lucrurilor pe nume: fără un plan parcelar utilizabil, identificarea rămâne cu un grad de incertitudine, iar acel grad trebuie cunoscut înainte de antecontract, nu descoperit la prima înscriere. Variantele de lucru depind de zonă și de situație: sprijinirea pe planul parcelar existent cu verificări de teren, întocmirea sau actualizarea planului parcelar pentru tarla — demers care implică OCPI și primăria — sau, acolo unde în zonă e în derulare înregistrarea sistematică, corelarea cu lucrările acesteia. Îți prezentăm variantele aplicabile cazului tău, cu durate orientative pentru fiecare, și îți spunem onest când riscul de identificare e prea mare pentru banii puși pe masă.</p><p>Identificarea e de altfel primul pas din lanțul complet pe care îl facem pentru amplasamentele asamblate din multe parcele: identificare, apoi cadastru individual — <a href=\"/parcuri-fotovoltaice/teren-neintabulat-parc-fotovoltaic.html\">prima înscriere</a> unde lipsește CF-ul — apoi <a href=\"/parcuri-fotovoltaice/alipire-parcele-teren.html\">alipirea</a> într-un singur imobil. Ordinea corectă a acestor pași e descrisă pe pagina despre <a href=\"/parcuri-fotovoltaice/teren-mai-multi-proprietari-parc-fotovoltaic.html\">terenul cu mai mulți proprietari</a>.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Cu ce începi",
+      "html": "<p>Trimite-ne pe WhatsApp titlul de proprietate (sau extrasul CF, dacă există) și localitatea — îți spunem în aceeași zi ce documente există pentru tarlaua respectivă, cât de sigură poate fi identificarea și ce ar costa, orientativ, pe etape. Facem măsurători în Alba, Cluj, Mureș, Sibiu și Hunedoara; verificările pe documente le facem pentru terenuri din toată țara. Colaborăm cu dezvoltatori și constructori care asamblează amplasamente din zeci de parcele și știm unde se rup, de obicei, lanțurile de identificare.</p>"
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "Proprietarul îmi arată el unde e parcela. Nu e suficient?",
+          "a": "Nu, și nu din rea-credință: după decenii de arendă și comasări faptice, mulți proprietari știu doar aproximativ unde le e parcela. Identificarea care rezistă la cadastru și la notar se face pe planul parcelar și pe măsurători, nu pe arătatul cu mâna."
+        },
+        {
+          "q": "Parcela nu are carte funciară. O pot cumpăra totuși?",
+          "a": "Vânzarea autentică cere carte funciară, deci terenul trebuie întâi intabulat — prima înscriere. Identificarea certă prin planul parcelar e chiar primul pas al acelui proces; detaliile și termenele orientative sunt pe pagina despre terenul neintabulat."
+        },
+        {
+          "q": "Cât durează identificarea unei parcele?",
+          "a": "Dacă planul parcelar există și e utilizabil: de regulă câteva zile lucrătoare pentru analiza desk plus o deplasare de teren, orientativ. Dacă planul lipsește sau e contradictoriu, durata depinde de varianta de clarificare aleasă — îți dăm calendarul realist după ce vedem actele."
+        },
+        {
+          "q": "Faceți identificare pentru toate parcelele unui viitor parc deodată?",
+          "a": "Da, și e mai eficient așa: procurăm planurile parcelare pe tarlale întregi, identificăm toate parcelele vizate într-o singură campanie de măsurători și predăm un plan de ansamblu al amplasamentului, cu fiecare parcelă și proprietar poziționat."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/teren-mai-multi-proprietari-parc-fotovoltaic.html", "label": "Teren cu mai mulți proprietari — ordinea pașilor" },
+    { "href": "/parcuri-fotovoltaice/teren-neintabulat-parc-fotovoltaic.html", "label": "Teren neintabulat — ce faci" },
+    { "href": "/parcuri-fotovoltaice/alipire-parcele-teren.html", "label": "Alipirea parcelelor de teren" },
+    { "href": "/parcuri-fotovoltaice/verificare-suprapunere-cadastrala-teren.html", "label": "Verificarea suprapunerilor cadastrale" },
+    { "href": "/servicii/intabulare-teren/", "label": "Intabulare teren — serviciul de bază" },
+    { "href": "/dictionar/plan-parcelar.html", "label": "Dicționar: plan parcelar" }
+  ],
+  "sources": [
+    { "url": "https://legislatie.just.ro/Public/DetaliiDocument/160177", "title": "Ordinul ANCPI nr. 700/2014 — regulamentul de avizare, recepție și înscriere" },
+    { "url": "https://geoportal.ancpi.ro/", "title": "Geoportalul ANCPI — evidențele cadastrale publice" }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "drept-de-superficie-fonduri-europene",
+  "title": "Dreptul de superficie ca dovadă a folosinței în proiecte finanțate | Expert Intabulare",
+  "h1": "Superficia: cum construiești legal pe terenul altuia — și cum o accepți finanțatorii",
+  "metaDescription": "Dreptul de superficie în proiecte cu fonduri europene: cum se constituie la notar, cum se intabulează, durata minimă cerută de ghiduri, documentația cadastrală.",
+  "whatsappTopic": "constituirea unui drept de superficie pentru finanțare",
+  "hook": "deadline",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Instrumentul care rezolvă „terenul e al tatei, firma e a mea”",
+      "html": "<p>Superficia este dreptul de a avea sau de a construi o construcție pe terenul altuia, deasupra sau în subsolul acestuia — reglementat de Codul civil (art. 693 și următoarele), constituibil pe <strong>cel mult 99 de ani</strong>. În lumea finanțărilor, superficia este răspunsul standard la o situație extrem de românească: terenul aparține unei persoane (părinte, asociat, altă firmă din grup), iar investiția o face alta (firma solicitantă). Chiria nu convinge finanțatorul, iar transferul proprietății e scump sau nedorit — superficia e calea de mijloc: <strong>un drept real, înscris în cartea funciară, care permite autorizarea construcției și dovedește folosința pe durată lungă</strong>.</p><p>Ghidurile programelor o acceptă aproape universal la capitolul „dovada dreptului asupra imobilului”, cu o condiție de durată: dreptul trebuie să acopere implementarea plus perioada de durabilitate — practic, câțiva ani buni peste finalizarea proiectului; durata exactă o dă ghidul fiecărui apel. Recomandarea noastră practică: constituie-o pe o durată generoasă (zeci de ani) — costul notarial nu crește proporțional, iar flexibilitatea câștigată da.</p>"
+    },
+    {
+      "type": "process",
+      "heading": "Constituirea și intabularea superficiei, pas cu pas",
+      "steps": [
+        { "title": "Clarificarea terenului-suport", "text": "Terenul trebuie să fie intabulat, cu proprietar clar și fără sarcini care blochează grevarea (o interdicție de grevare din partea băncii, de exemplu, cere acordul acesteia). Verificăm extrasul CF înainte de orice drum la notar." },
+        { "title": "Dezlipirea, dacă superficia privește doar o parte din teren", "text": "Superficia se poate constitui pe întregul imobil sau pe o parte determinată — caz în care e nevoie de dezlipirea cadastrală a lotului vizat sau de identificarea lui printr-o documentație specifică. Aici intrăm noi: măsurători, documentație, recepție OCPI." },
+        { "title": "Actul notarial", "text": "Superficia asupra imobilelor se constituie prin act autentic — notarul redactează contractul (cu titlu oneros sau gratuit, cu durata și condițiile negociate). Mergem noi cu documentația cadastrală pregătită, ca actul să refere exact imobilul corect." },
+        { "title": "Intabularea în cartea funciară", "text": "Notarul depune actul spre înscriere; superficia apare în cartea funciară, iar superficiarul (firma ta) poate obține de acum extras CF care dovedește dreptul — piesa cerută de finanțator și baza autorizației de construire." }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Superficie vs. alternativele ei, din perspectiva finanțatorului",
+      "head": ["Criteriu", "Superficie", "Comodat", "Arendă", "Concesiune"],
+      "rows": [
+        ["Natura dreptului", "Drept real, opozabil tuturor", "Drept de folosință contractual", "Folosință agricolă contractuală", "Drept real (bunuri publice/private ale statului/UAT)"],
+        ["Permite autorizarea construcțiilor", "Da — scopul ei principal", "De regulă nu, singur", "Nu", "Da, conform contractului"],
+        ["Înscriere", "În cartea funciară", "Posibilă notare", "Registrul arendelor la primărie", "În cartea funciară"],
+        ["Acceptare în ghiduri pentru construcții", "Larg acceptată", "Rar, doar investiții fără construcții", "Doar folosință agricolă", "Acceptată (tipic pentru terenuri UAT)"],
+        ["Durata tipică", "Până la 99 de ani", "Negociabilă", "Negociabilă", "Conform contractului de concesiune"]
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Cât durează toată procedura de superficie?", "a": "Cu terenul-suport intabulat și fără dezlipire: programarea la notar plus înscrierea — realist 1–3 săptămâni. Cu dezlipire cadastrală înainte: adaugă 2–5 săptămâni. Este una dintre cele mai rapide căi de a obține un drept acceptat de finanțator — motiv pentru care e și „planul B” clasic al terenurilor neintabulabile la timp." },
+        { "q": "Superficia mă ferește de probleme dacă familia se ceartă mai târziu?", "a": "Fiind drept real înscris în CF, superficia supraviețuiește vânzării terenului și moștenirilor — noul proprietar o preia ca sarcină. E exact motivul pentru care băncile și finanțatorii o preferă comodatului. Condițiile de încetare sunt cele din contract — de negociat atent la notar." },
+        { "q": "Ce se întâmplă cu construcția la expirarea superficiei?", "a": "Regula din Codul civil: proprietarul terenului devine proprietarul construcției, cu obligațiile de despăgubire prevăzute de lege sau de contract. La 99 de ani, problema e teoretică pentru un proiect de finanțare; la durate scurte, merită clauze clare — discută cu notarul și avocatul." },
+        { "q": "Finanțatorul cere „drept asupra terenului pe minim X ani”. Superficia noastră are mai puțin. Se poate prelungi?", "a": "Da — prin act notarial adițional, cu acordul proprietarului, urmat de actualizarea înscrierii în CF. Fă-o înainte de depunere; un drept „aproape suficient” e un motiv de clarificări sau respingere." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Ai nevoie de superficie pentru dosar?",
+      "text": "Trimite-ne pe WhatsApp extrasul CF al terenului și cine va fi superficiarul — pregătim documentația cadastrală și te programăm către notar în aceeași săptămână."
+    }
+  ],
+  "related": [
+    "arenda-comodat-concesiune-finantare",
+    "intabulare-dovada-proprietatii-finantare",
+    "teren-neintabulat-fonduri-europene",
+    "teren-indiviziune-fonduri-europene",
+    "checklist-teren-pensiune-agroturistica",
+    "documentatie-teren-hala-productie-fonduri",
+    "/servicii/cadastru-si-intabulare/",
+    "/dictionar/superficie.html"
+  ],
+  "sources": [
+    "https://legislatie.just.ro/Public/DetaliiDocument/109884",
+    "https://www.ancpi.ro/"
+  ]
+}

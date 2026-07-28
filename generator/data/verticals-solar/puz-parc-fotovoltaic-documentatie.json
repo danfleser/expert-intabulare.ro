@@ -1,0 +1,77 @@
+{
+  "slug": "puz-parc-fotovoltaic-documentatie",
+  "title": "PUZ pentru parc fotovoltaic — când îl cere primăria și ce documentație presupune",
+  "h1": "PUZ pentru parc fotovoltaic: când e necesar și ce suport topografic cere",
+  "metaDescription": "PUZ parc fotovoltaic: când cere primăria PUZ, suportul topografic pentru urbanist, stadiul PLx 255/2025 (proiect în dezbatere). Termene și pași concreți.",
+  "whatsappTopic": "documentația topografică pentru PUZ-ul unui parc fotovoltaic",
+  "hook": "epc",
+  "trustBar": true,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Răspunsul scurt: citește certificatul de urbanism, nu forumurile",
+      "html": "<p>Întrebarea „îmi trebuie PUZ pentru parcul fotovoltaic?\" nu are un răspuns universal valabil pentru toată România. Regimul depinde de încadrarea terenului, de reglementările urbanistice ale UAT-ului și de traseul de autorizare ales — iar documentul care tranșează discuția e certificatul de urbanism emis de primărie pentru amplasamentul tău concret. Acolo scrie negru pe alb dacă se cere PUZ și ce avize îl însoțesc.</p><p>Rolul nostru în această etapă e precis delimitat: noi nu întocmim PUZ-ul — acela e livrabilul urbanistului — dar livrăm suportul topografic fără de care PUZ-ul nu se poate nici desena, nici aviza: planul topografic recepționat de OCPI, cu zona de studiu cerută de urbanist. Dacă ai deja certificatul de urbanism, trimite-ni-l pe WhatsApp împreună cu extrasul CF și îți spunem în aceeași zi ce presupune partea topografică și în cât timp o livrăm.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Cadrul actual: excepția Legii 254/2022 și practica UAT-urilor",
+      "html": "<p>Pentru terenurile agricole extravilane de clasa a III-a, a IV-a și a V-a de fertilitate, cu categoria de folosință arabil, pășune, vie sau livadă, Legea 254/2022 permite amplasarea parcurilor fotovoltaice pe maximum 50 de hectare per proiect fără introducerea terenului în intravilan, pe baza autorizației de construire și a aprobării scoaterii din circuitul agricol — cu efecte până la 31 decembrie 2026. Excepția a simplificat semnificativ autorizarea pe aceste terenuri, dar practica administrativă diferă de la o primărie la alta, iar unele UAT-uri cer în continuare documentații de urbanism în funcție de situația concretă a amplasamentului și de reglementările locale.</p><p>De aceea recomandarea noastră constantă: nu bugeta și nu programa proiectul pe presupuneri. Cere certificatul de urbanism devreme, cu o temă clar formulată, și abia apoi angajează costurile de proiectare și documentații. Diferența dintre „cu PUZ\" și „fără PUZ\" se măsoară în luni de calendar.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "PLx 255/2025: proiect legislativ în dezbatere, nu lege în vigoare",
+      "html": "<p>În spațiul public circulă des afirmația că „PUZ-ul a fost eliminat pentru fotovoltaice\". La data redactării acestei pagini, afirmația e falsă. Există un proiect legislativ în dezbatere — PLx 255/2025 — care propune ridicarea plafonului de la 50 la 100 de hectare per proiect și eliminarea cerinței de PUZ pentru astfel de proiecte, ca angajament PNRR (Jalonul 509, cu țintă 31 august 2026). Câtă vreme proiectul nu e adoptat și publicat, regulile aplicabile rămân cele de azi.</p><p>Ce înseamnă asta practic pentru tine: dacă un consultant îți construiește calendarul pe premisa că PUZ-ul dispare, cere-i să îți arate legea publicată în Monitorul Oficial, nu articolele de presă. Noi urmărim subiectul pentru clienții activi și actualizăm recomandările când și dacă se schimbă cadrul; până atunci, planificăm fiecare proiect pe legislația în vigoare, cu excepția Legii 254/2022 acolo unde terenul se califică.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Suportul topografic pentru urbanist: ce livrăm concret",
+      "html": "<p>Când PUZ-ul e cerut, urbanistul are nevoie de la noi de un plan topografic recepționat de OCPI conform Ordinului ANCPI nr. 700/2014, întocmit pe zona de studiu stabilită prin temă — de regulă mai mare decât imobilul tău, pentru că PUZ-ul reglementează și relația cu vecinătățile: accese, drumuri, trasee de rețele. Fluxul de avizare și recepție l-am detaliat pas cu pas pe pagina despre <a href=\"/parcuri-fotovoltaice/aviz-ocpi-puz-parc-fotovoltaic.html\">avizul OCPI pentru PUZ</a>.</p><p>Livrabilele tipice: planul topografic cu relief, limite cadastrale, construcții, drumuri și rețele vizibile; inventarul de coordonate în Stereo 70; fișierele dwg/dxf pentru proiectare. Din aceeași măsurătoare pregătim și <a href=\"/parcuri-fotovoltaice/plan-de-situatie-parc-fotovoltaic.html\">planul de situație pentru certificatul de urbanism</a> și, mai târziu, <a href=\"/parcuri-fotovoltaice/studiu-topografic-parc-fotovoltaic.html\">studiul topografic pentru autorizația de construire</a> — un singur set de date de teren pentru toate fazele.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Ce clarifici înainte să comanzi documentația PUZ",
+      "items": [
+        "Ai certificatul de urbanism emis pentru amplasament și pentru obiectivul „parc fotovoltaic\", cu lista completă de documentații și avize cerute.",
+        "Terenul e intabulat, iar limitele din CF corespund terenului — altfel rezolvi întâi partea cadastrală, ca PUZ-ul să nu se sprijine pe limite incerte.",
+        "Ai verificat dacă terenul se încadrează în excepția Legii 254/2022 — clasa de fertilitate III–V, folosință arabil/pășune/vie/livadă, maximum 50 ha per proiect.",
+        "Urbanistul a definit zona de studiu, ca măsurătoarea topografică să o acopere dintr-o singură mobilizare.",
+        "Accesul la teren e clarificat juridic — un PUZ pe un teren fără acces înscris ridică probleme la avizare.",
+        "Calendarul ține cont de termenele OCPI pentru avizul de începere și recepție, plus circuitul de avizare al PUZ-ului în sine."
+      ]
+    },
+    {
+      "type": "faq",
+      "items": [
+        {
+          "q": "S-a eliminat PUZ-ul pentru parcurile fotovoltaice?",
+          "a": "Nu. PLx 255/2025, care propune eliminarea cerinței de PUZ și ridicarea plafonului la 100 ha, e un proiect legislativ în dezbatere la data redactării — nu lege în vigoare. Până la o eventuală adoptare și publicare, se aplică regulile actuale, inclusiv excepția Legii 254/2022 pentru terenurile care se califică."
+        },
+        {
+          "q": "Dacă terenul se încadrează în excepția Legii 254/2022, mai am nevoie de PUZ?",
+          "a": "Excepția permite autorizarea fără introducerea terenului în intravilan, dar practica primăriilor diferă în funcție de situația concretă și de reglementările locale. Documentul care tranșează e certificatul de urbanism — cere-l devreme și citește-l integral înainte să bugetezi."
+        },
+        {
+          "q": "Cât din calendarul PUZ depinde de partea topografică?",
+          "a": "Partea noastră — măsurători și întocmirea planului topografic — durează orientativ una până la două săptămâni, plus termenele OCPI pentru avizul de începere și recepție. E o fracțiune din durata totală a PUZ-ului, dar e pe drumul critic: urbanistul nu poate începe fără planul recepționat, deci comandă-l primul."
+        },
+        {
+          "q": "Puteți lucra cu urbanistul pe care îl avem deja?",
+          "a": "Da, e chiar modul nostru obișnuit de lucru: colaborăm cu dezvoltatori și constructori, iar pe documentațiile de urbanism ne coordonăm direct cu urbanistul pe tema zonei de studiu, formate și termene, ca să nu existe drumuri duble."
+        }
+      ]
+    }
+  ],
+  "related": [
+    { "href": "/parcuri-fotovoltaice/aviz-ocpi-puz-parc-fotovoltaic.html", "label": "Avizul OCPI pentru PUZ" },
+    { "href": "/parcuri-fotovoltaice/scoatere-din-circuit-agricol-fotovoltaic.html", "label": "Scoaterea din circuitul agricol" },
+    { "href": "/parcuri-fotovoltaice/plan-de-situatie-parc-fotovoltaic.html", "label": "Plan de situație pentru certificatul de urbanism" },
+    { "href": "/parcuri-fotovoltaice/studiu-topografic-parc-fotovoltaic.html", "label": "Studiu topografic pentru parc fotovoltaic" },
+    { "href": "/servicii/plan-topografic/", "label": "Plan topografic — serviciul de bază" },
+    { "href": "/dictionar/puz.html", "label": "Dicționar: PUZ" }
+  ],
+  "sources": [
+    { "url": "https://www.wall-street.ro/special/romaniaverde/298101/legislatia-privind-autorizarea-construirii-proiectelor-solare-si-eoliene-modificata-iar-ce-se-intampla-cu-regula-celor-50-de-hectare.html", "title": "PLx 255/2025 — proiect legislativ în dezbatere privind autorizarea proiectelor solare" },
+    { "url": "https://agrointel.ro/229751/panouri-fotovoltaice-pe-terenuri-agricole-legea-a-fost-publicata-in-monitorul-oficial", "title": "Legea 254/2022 — fotovoltaice pe terenuri agricole clasa III–V, max. 50 ha" },
+    { "url": "https://legislatie.just.ro/Public/DetaliiDocument/160177", "title": "Ordinul ANCPI nr. 700/2014 — regulamentul de avizare, recepție și înscriere" }
+  ]
+}
