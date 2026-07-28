@@ -59,30 +59,67 @@ function main() {
     if (/Ã[-¿ a-zA-Z]/.test(text) || /â€/.test(text)) fail('mojibake', `docs/${rel} looks mojibake-encoded (Ã/â€ sequence)`);
   }
 
-  // ---------- 2. link + asset resolution (zero tolerance) ----------
-  const resolveDoc = (p) => {
-    let clean = p.split('#')[0].split('?')[0];
-    if (clean === '') return true; // pure fragment
-    if (clean.startsWith(site.domain)) clean = clean.slice(site.domain.length) || '/';
-    if (/^(https?:|mailto:|tel:|javascript:|data:)/.test(clean)) return true; // external / non-file
-    let relPath;
-    if (clean.startsWith('/')) relPath = clean === '/' ? 'index.html' : clean.slice(1);
-    else return { relative: clean }; // handled by caller with base dir
-    if (relPath.endsWith('/')) relPath += 'index.html';
-    return fs.existsSync(path.join(DOCS_DIR, relPath)) || null;
+  // ---------- 2. link + asset + fragment resolution (zero tolerance) ----------
+  // Covers manifest-owned pages PLUS the root-owned static pages (homepage,
+  // privacy, terms) that the build does not regenerate. For every
+  // href/src/action: the internal target file must exist on disk, and when the
+  // link carries a #fragment the target document must contain that id
+  // (SVG <use href="#..."> sprite refs included).
+  const linkDocs = new Map(utf8);
+  for (const rel of ['index.html', 'privacy-policy.html', 'terms-and-conditions.html']) {
+    if (linkDocs.has(rel)) continue;
+    const abs = path.join(DOCS_DIR, rel);
+    if (!fs.existsSync(abs)) { fail('links', `required root page missing: docs/${rel}`); continue; }
+    linkDocs.set(rel, fs.readFileSync(abs, 'utf8'));
+  }
+  const idCache = new Map();
+  const idsOf = (rel) => {
+    if (!idCache.has(rel)) {
+      let t = linkDocs.get(rel);
+      if (t === undefined) {
+        const abs = path.join(DOCS_DIR, rel);
+        t = fs.existsSync(abs) ? fs.readFileSync(abs, 'utf8') : '';
+      }
+      const ids = new Set();
+      for (const im of t.matchAll(/\bid\s*=\s*"([^"]+)"/g)) ids.add(im[1]);
+      idCache.set(rel, ids);
+    }
+    return idCache.get(rel);
   };
-  for (const [rel, text] of utf8) {
-    const re = /(?:href|src)="([^"]+)"/g;
+  // returns {skip} | {file} | null (target file missing)
+  const resolveTarget = (fromRel, target) => {
+    let clean = target.split('#')[0].split('?')[0];
+    if (clean.startsWith(site.domain)) clean = clean.slice(site.domain.length) || '/';
+    if (/^(https?:|mailto:|tel:|javascript:|data:)/.test(clean)) return { skip: true };
+    let relPath;
+    if (clean === '') relPath = fromRel; // same-page fragment
+    else if (clean.startsWith('/')) relPath = clean === '/' ? 'index.html' : clean.slice(1);
+    else relPath = path.posix.normalize(path.posix.join(path.posix.dirname(fromRel), clean));
+    if (relPath.endsWith('/')) relPath += 'index.html';
+    const abs = path.join(DOCS_DIR, relPath);
+    if (!fs.existsSync(abs)) return null;
+    if (fs.statSync(abs).isDirectory()) {
+      // directory link without trailing slash needs a server redirect — reject
+      return null;
+    }
+    return { file: relPath };
+  };
+  for (const [rel, text] of linkDocs) {
+    if (!rel.endsWith('.html')) continue;
+    const re = /\b(?:href|src|action)="([^"]+)"/g;
     let m;
     while ((m = re.exec(text))) {
       const target = htmlUnescape(m[1]);
-      let r = resolveDoc(target);
-      if (r && r.relative !== undefined) {
-        let p = path.join(path.dirname(path.join(DOCS_DIR, rel)), r.relative);
-        if (r.relative.endsWith('/') || r.relative === '') p = path.join(p, 'index.html');
-        r = fs.existsSync(p) || null;
+      const r = resolveTarget(rel, target);
+      if (r === null) { fail('links', `docs/${rel}: broken internal link "${m[1]}"`); continue; }
+      if (r.skip) continue;
+      const hash = target.indexOf('#');
+      if (hash !== -1) {
+        const frag = target.slice(hash + 1);
+        if (frag && !idsOf(r.file).has(frag)) {
+          fail('links', `docs/${rel}: fragment "#${frag}" has no id in docs/${r.file} (link "${m[1]}")`);
+        }
       }
-      if (r === null) fail('links', `docs/${rel}: broken internal link "${m[1]}"`);
     }
   }
 
