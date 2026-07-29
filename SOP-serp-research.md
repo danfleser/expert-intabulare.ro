@@ -250,7 +250,9 @@ From `generator/lib/gates.js`, verified:
 
 - Computing competitor consensus over directory listings.
 - Proposing a page change to fix a map-pack position.
-- Publishing prices, tariffs, or turnaround times (ruling 0.2).
+- Publishing the exact ANCPI tariff, or ANY turnaround/duration claim about BCPI processing
+  (ruling 0.2). **Note: existing hedged orientative price RANGES are allowed and live — proposing
+  to remove them is itself an anti-pattern.**
 - Inventing PNCCF years, sector numbers, parcel counts, or dates.
 - Per-locality text that only swaps the place name — precisely what the overlap gate catches.
 - Hand-editing `docs/`.
