@@ -11,8 +11,19 @@ Read this in full before doing anything. Then follow it literally.
 
 ## 0. Standing CEO rulings — violating any of these fails the task
 
-1. **Publish the ANCPI authorization** (seria, numărul, categoria) once Aurel supplies it. Until
-   then leave a marked slot; **never invent a number.**
+1. **NEVER display the ANCPI authorization number.** No seria, no număr, no categoria — not as a
+   placeholder, not as a marked slot, not "to be filled in later". **CEO ruling 2026-07-29,
+   superseding an earlier approval.** Do not propose it, do not design a page section around it,
+   and do not list it as a missing trust signal or an open question. It is settled: we do not
+   publish it.
+
+   **Still allowed and already live — do not remove:** the generic claim *"Topograf autorizat
+   ANCPI"* (present ~6× per service page), and naming Aurel Fleser as the surveyor who does the
+   work. The ruling covers the authorization **number**, not the fact of being authorized and not
+   the person's name.
+
+   If a competitor publishes their authorization number and that shows up as a gap, record it as
+   **BLOCKED BY POLICY**. Do not action it.
 2. **PRICE AND DURATION RULE — read carefully, an earlier draft of this line was wrong.**
 
    **ALLOWED, and already live on 1,526 pages — do not remove:** the existing hedged orientative
@@ -254,6 +265,8 @@ From `generator/lib/gates.js`, verified:
   (ruling 0.2). **Note: existing hedged orientative price RANGES are allowed and live — proposing
   to remove them is itself an anti-pattern.**
 - Inventing PNCCF years, sector numbers, parcel counts, or dates.
+- Proposing to display the ANCPI authorization number, or listing it as a missing trust signal or
+  an open question (ruling 0.1). Settled: we do not publish it.
 - Per-locality text that only swaps the place name — precisely what the overlap gate catches.
 - Hand-editing `docs/`.
 - Claiming a fix will produce a #1 ranking. SERP analysis is correlational.
