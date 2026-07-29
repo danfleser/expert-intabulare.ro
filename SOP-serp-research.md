@@ -13,9 +13,27 @@ Read this in full before doing anything. Then follow it literally.
 
 1. **Publish the ANCPI authorization** (seria, numărul, categoria) once Aurel supplies it. Until
    then leave a marked slot; **never invent a number.**
-2. **NEVER display turnaround times, durations, or ANCPI tariffs / prices.** No "se rezolvă în X
-   zile", no "de la N lei", no "aproximativ N zile lucrătoare". This overrides any competitor
-   pattern you observe. If every competitor shows prices, we still do not.
+2. **PRICE AND DURATION RULE — read carefully, an earlier draft of this line was wrong.**
+
+   **ALLOWED, and already live on 1,526 pages — do not remove:** the existing hedged orientative
+   price ranges, e.g. *"Preț orientativ: 900 – 2.500 lei, orientativ, în funcție de tipul
+   imobilului și de acte."* plus the standing `priceDisclaimer`. Every competitor publishes
+   prices (necesit.ro 560–810 lei, brig.ro 336–2.100 RON, Cadastru Maxim 300 lei); removing ours
+   would be a competitive loss. **CEO ruling 2026-07-29: keep them.**
+
+   **FORBIDDEN:**
+   - The **exact ANCPI tariff** paid by the client. We do not know it.
+   - **Any turnaround or duration claim** — "se rezolvă în X zile", "aproximativ N zile
+     lucrătoare", "în aceeași zi" applied to BCPI processing, "termen de finalizare N zile".
+     These are checkable facts about a government office that neither we nor the agent knows.
+   - Inventing any NEW price figure not already in `generator/data/services.json`.
+
+   The distinction: a **hedged range we already publish and stand behind** is fine. A **specific
+   claim about how fast a third party works**, or a tariff we have not verified, is not.
+   Exception already live and approved: *"răspundem de obicei în aceeași zi lucrătoare"* — that
+   is Aurel's own reply time, hedged, and it stays.
+
+   This overrides any competitor pattern for the forbidden items only.
 3. **All 12 services are equal priority.** No service is deprioritized as low-value.
 4. **Contact is WhatsApp-first for conversion.** No email forms, no contact forms. The footer
    `mailto:` stays exactly as is. `tel:` links already exist 5× per service page — do not add more.
