@@ -425,7 +425,7 @@ For each extracted field, compute how many of the top-5-ranking pages exhibit it
 
 - [ ] **Step 2: Diff against our equivalent page**
 
-For each query, our page is `docs/servicii/<service>/<county>/<locality>/index.html`. Read it and score it on the same schema as competitors, so the comparison is like-for-like.
+For each query, our page is `docs/servicii/<service>/<county>/<locality>.html` — note the flat `.html` leaf, **not** a `<locality>/index.html` directory. Read it and score it on the same schema as competitors, so the comparison is like-for-like.
 
 - [ ] **Step 3: Write `findings.md` with confidence tags**
 
@@ -494,7 +494,7 @@ Deliberately one page. It proves the whole Phase C loop — edit data, rebuild, 
 cd "website pfa deploy" && node -e "
 const r=require('fs').readFileSync('generator/build-report.txt','utf8');
 console.log(r.match(/^Render-gate demotions: \d+$/m)[0]);
-" && wc -c "docs/servicii/<service>/alba/<locality>/index.html"
+" && wc -c "docs/servicii/<service>/alba/<locality>.html"
 ```
 
 Substitute the real service and locality slugs from `flagships.json[0]`. Note the byte count — the leaf cap is 61440 bytes.
