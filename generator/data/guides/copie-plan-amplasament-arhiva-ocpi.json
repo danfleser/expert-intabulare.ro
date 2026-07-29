@@ -1,0 +1,122 @@
+{
+  "slug": "copie-plan-amplasament-arhiva-ocpi",
+  "title": "Copie plan de amplasament din arhiva OCPI — cum o obții",
+  "h1": "Cum obțineți o copie a planului de amplasament din arhiva OCPI",
+  "metaDescription": "Copie conformă după planul de amplasament și delimitare sau după releveu, din arhiva OCPI: cine o poate cere, acte necesare, termen, tarif orientativ 2026 și la ce vă folosește.",
+  "whatsappTopic": "o copie a planului de amplasament din arhiva OCPI",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Ce este planul de amplasament și de ce se cere copie după el",
+      "text": "Planul de amplasament și delimitare a imobilului, prescurtat PAD, este piesa desenată din documentația cadastrală care arată forma imobilului, dimensiunile laturilor, vecinătățile și poziția construcțiilor pe teren. La apartamente și la unitățile individuale, echivalentul lui este releveul — schița încăperilor cu suprafețe și dimensiuni. Ambele rămân arhivate permanent la oficiul de cadastru, împreună cu restul documentației recepționate.\n\nAsta înseamnă un lucru foarte util pentru proprietari: dacă ați pierdut documentația primită acum zece ani de la topograf, nu trebuie refăcut cadastrul. Se cere o copie conformă cu originalul din arhiva OCPI, iar aceasta are aceeași valoare ca exemplarul dumneavoastră pierdut.\n\nCererea o poate face proprietarul, un împuternicit cu procură, sau persoana autorizată ANCPI care lucrează la o documentație pe acel imobil. În practică, cele mai multe copii de arhivă le solicităm noi, ca parte dintr-o lucrare — pentru că fără planul vechi nu se poate face o actualizare, o dezmembrare sau o repoziționare corectă."
+    },
+    {
+      "type": "checklist",
+      "heading": "Acte necesare pentru cererea de copie din arhivă",
+      "items": [
+        "Cerere-tip de eliberare a copiilor din arhivă, completată cu datele de identificare ale imobilului",
+        "Numărul cadastral și numărul cărții funciare ale imobilului, plus județul și unitatea administrativ-teritorială",
+        "Copie după actul de identitate al solicitantului (buletin sau carte de identitate)",
+        "Dovada calității de proprietar sau de persoană interesată: extras de carte funciară, act de proprietate, certificat de moștenitor",
+        "Procura notarială, dacă cererea o depune altcineva în numele proprietarului",
+        "Împuternicirea sau contractul, dacă cererea este depusă de persoana autorizată ANCPI care execută o lucrare pe imobil",
+        "Dovada achitării tarifului ANCPI aferent serviciului de eliberare a copiilor din arhivă",
+        "Precizarea explicită a documentelor dorite: plan de amplasament și delimitare, releveu, memoriu tehnic, întreaga documentație"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Ce puteți cere efectiv din arhivă",
+      "text": "Nu doar planul de amplasament. Documentația cadastrală recepționată conține mai multe piese, iar fiecare poate fi solicitată separat sau împreună: planul de amplasament și delimitare, releveele unităților individuale la blocuri și la clădiri apartamentate, memoriul tehnic, fișa imobilului, procesele-verbale de vecinătate acolo unde există, și inventarul de coordonate al punctelor de contur.\n\nInventarul de coordonate este piesa cel mai des subestimată. Din el rezultă poziția exactă a colțurilor imobilului în sistemul de proiecție Stereografic 1970 — adică exact ce trebuie ca un topograf să vă traseze limitele pe teren, la centimetru, fără să refacă măsurătorile de la zero.\n\nAtenție la o distincție importantă: copia din arhivă reproduce documentația așa cum a fost recepționată la data respectivă. Dacă între timp imobilul a fost dezmembrat, alipit sau actualizat, planul vechi nu mai descrie situația curentă. Copia de arhivă este un document istoric fidel, nu o fotografie a prezentului. Situația la zi rezultă din extrasul de carte funciară."
+    },
+    {
+      "type": "table",
+      "heading": "Termene și costuri orientative",
+      "head": ["Element", "Situația în 2026", "Observații"],
+      "rows": [
+        ["Cine poate cere", "proprietar, împuternicit, persoană autorizată ANCPI", "cu dovada calității"],
+        ["Termen de eliberare", "de regulă câteva zile lucrătoare", "termenul exact se afișează de fiecare OCPI"],
+        ["Tarif ANCPI", "tarif pe document, conform listei în vigoare", "se achită la depunerea cererii"],
+        ["Format eliberat", "copie conformă cu originalul, ștampilată", "identică cu documentul arhivat"],
+        ["Cărți funciare vechi, neconvertite", "termen mai lung", "căutare manuală în arhiva fizică"],
+        ["Documentații foarte vechi (înainte de 1990)", "poate lipsi din arhiva OCPI", "se caută la primărie sau la arhivele naționale"]
+      ]
+    },
+    {
+      "type": "process",
+      "heading": "Pașii, în ordine",
+      "steps": [
+        {
+          "title": "Identificați imobilul",
+          "text": "Aveți nevoie de numărul cadastral și de numărul cărții funciare. Dacă nu le știți, le găsiți pe extrasul de carte funciară sau pe geoportalul ANCPI, căutând parcela pe ortofotoplan după județ și localitate."
+        },
+        {
+          "title": "Stabiliți ce documente vă trebuie",
+          "text": "Pentru trasare la teren: planul de amplasament plus inventarul de coordonate. Pentru un apartament: releveul. Pentru o expertiză sau un litigiu: întreaga documentație, inclusiv memoriul tehnic și procesele-verbale de vecinătate."
+        },
+        {
+          "title": "Depuneți cererea la BCPI competent",
+          "text": "Cererea se depune la biroul de cadastru și publicitate imobiliară în raza căruia se află imobilul, personal, prin împuternicit sau prin persoana autorizată care lucrează pentru dumneavoastră."
+        },
+        {
+          "title": "Achitați tariful și primiți numărul de înregistrare",
+          "text": "Cu acest număr puteți urmări online stadiul cererii, fără să sunați la birou."
+        },
+        {
+          "title": "Ridicați copiile conforme",
+          "text": "Documentele se eliberează ștampilate ca fiind conforme cu originalul din arhivă. Le puteți folosi la fel ca exemplarul original pierdut."
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        {
+          "q": "Am pierdut documentația de cadastru. Trebuie să o refac?",
+          "a": "Aproape sigur nu. Dacă documentația a fost recepționată de OCPI, ea există în arhivă și se poate obține copie conformă. Refacerea completă a cadastrului se justifică doar dacă documentația veche nu mai corespunde realității — de exemplu ați construit, ați demolat sau limitele s-au schimbat — situație în care vorbim de o actualizare, nu de o refacere de la zero."
+        },
+        {
+          "q": "Pot cere copia planului de amplasament pentru terenul vecinului?",
+          "a": "Nu, ca simplu curios. Eliberarea copiilor din arhivă se face către proprietar, împuternicitul lui sau persoana autorizată care execută o lucrare. Într-un litigiu de hotar, planul vecinului ajunge în dosar prin expertiza judiciară dispusă de instanță sau prin solicitarea instanței, nu prin cerere personală la ghișeu."
+        },
+        {
+          "q": "Cât costă o copie de arhivă?",
+          "a": "Se achită tariful ANCPI pentru serviciul de eliberare a copiilor din arhivă, stabilit pe document în lista de tarife în vigoare. Este o sumă mică în raport cu refacerea unei documentații. Dacă solicitarea face parte dintr-o lucrare pe care o executăm noi, tariful apare defalcat în decontul lucrării, cu dovada plății."
+        },
+        {
+          "q": "Releveul apartamentului meu este în arhivă?",
+          "a": "Dacă apartamentul a fost înscris în cartea funciară pe baza unei documentații cadastrale, da — releveul unității individuale face parte din documentația arhivată și se poate obține în copie. Apartamentele înscrise doar în baza actelor vechi, fără documentație cadastrală, nu au releveu în arhivă; acolo este nevoie de o măsurătoare nouă."
+        },
+        {
+          "q": "Copia din arhivă îmi ține loc de extras de carte funciară?",
+          "a": "Nu. Sunt documente cu roluri diferite: copia din arhivă arată piesele tehnice ale documentației la momentul recepției, extrasul arată situația juridică la zi — proprietari, sarcini, notări. La o vânzare, banca și notarul cer extras, nu copie de arhivă."
+        },
+        {
+          "q": "De ce îmi cere topograful copia planului vechi înainte de o lucrare nouă?",
+          "a": "Pentru că lucrarea nouă trebuie să se lege de cea veche. La o dezmembrare, suma suprafețelor loturilor trebuie să dea exact suprafața din documentația recepționată. La o repoziționare sau la o actualizare, comparăm geometria veche cu măsurătoarea nouă. Fără planul vechi, lucrăm în orb și riscăm un referat de completare de la OCPI."
+        },
+        {
+          "q": "Documentația mea este din anii '90. Mai există?",
+          "a": "Depinde. Documentațiile recepționate de oficiile de cadastru se păstrează în arhivă. Documentele mai vechi, întocmite de comisiile de fond funciar sau de primării înainte de organizarea evidenței actuale — schițe de punere în posesie, planuri parcelare vechi — se caută adesea la primărie sau la arhivele județene, nu la OCPI. Vă spunem de la prima discuție unde e cel mai probabil să se afle."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Obținem noi copiile din arhivă pentru dumneavoastră",
+      "text": "Trimiteți pe WhatsApp numărul cadastral sau extrasul de carte funciară și spuneți-ne pentru ce vă trebuie documentul: trasare, vânzare, expertiză, actualizare. Depunem cererea, achităm tariful și vă predăm copiile conforme. Informațiile din acest ghid au caracter informativ; termenele și tarifele exacte se confirmă la OCPI competent."
+    }
+  ],
+  "related": {
+    "services": ["servicii-ocpi", "expertize-documentatii", "actualizare-carte-funciara"],
+    "guides": ["extras-carte-funciara-online", "numar-cadastral-cum-il-afli", "cat-dureaza-un-extras-cf", "receptia-ocpi-ce-inseamna", "cum-citesti-un-extras-de-carte-funciara", "repozitionare-imobil-cand-e-necesara"]
+  },
+  "sources": [
+    "https://www.extrase.ro/ajutor/copie-dupa-releveu",
+    "https://legislatie.just.ro/Public/DetaliiDocument/264801",
+    "https://legislatie.ancpi.xyz/ocpi/continut-documentatii/documentatia-cadastrala-de-apartamentare/",
+    "http://geoportal.ancpi.ro/imobile.html",
+    "https://hartilidar.eu/urmarire-cerere-rgi-ancpi"
+  ]
+}

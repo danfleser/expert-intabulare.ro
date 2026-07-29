@@ -1,0 +1,85 @@
+{
+  "slug": "amenajament-pastoral-pasuni-comunale",
+  "title": "Amenajament pastoral pentru pășuni comunale: ce măsurători sunt necesare | Expert Intabulare",
+  "h1": "Amenajamentul pastoral și măsurătorile pășunilor comunale",
+  "metaDescription": "Ce este amenajamentul pastoral, cine îl întocmește și îl aprobă, de când se aplică obligatoriu și ce ridicări topografice cere delimitarea trupurilor de pășune.",
+  "whatsappTopic": "măsurători pentru o pășune comunală și amenajamentul pastoral",
+  "hook": "none",
+  "trustBar": true,
+  "group": "APIA și subvenții",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "De ce a devenit pășunea o problemă de acte",
+      "html": "<p>Pășunea comunală este, în multe sate din Alba, Cluj și Mureș, cea mai mare suprafață pe care o administrează primăria — și, multă vreme, cea mai puțin documentată. Se închiria „pe cap de animal”, se folosea din obișnuință, iar limitele trupurilor de <a href=\"/dictionar/pasune.html\">pășune</a> se știau din bătrâni.</p><p>Cadrul s-a schimbat. Organizarea, administrarea și exploatarea pajiștilor permanente sunt reglementate prin OUG nr. 34/2013, cu normele metodologice aprobate prin HG nr. 1064/2013, iar termenul de la care aplicarea amenajamentelor pastorale devine obligatorie a fost mutat de mai multe ori. Legea nr. 32/2025, publicată în Monitorul Oficial nr. 265 din 26 martie 2025, îl fixase la 1 ianuarie 2026; ulterior, prin Legea nr. 246/2025, publicată în Monitorul Oficial nr. 1204 din 29 decembrie 2025, termenul a fost amânat până la 1 ianuarie 2028, iar aceeași lege prevede și înființarea unui registru electronic pentru monitorizarea pajiștilor.</p><p>Amânarea nu înseamnă însă că lucrarea poate fi lăsată pentru 2027. Un amenajament se sprijină, în partea tehnică, pe delimitări și suprafețe reale, iar acestea se măsoară în sezon, nu în ultima lună înainte de termen. Primăriile care au început deja delimitarea trupurilor au avantajul că pot corecta între timp și evidențele fiscale, și contractele de închiriere, și suprafețele declarate la APIA — trei lucruri care, făcute sub presiunea termenului, se fac prost. Verificați întotdeauna forma în vigoare a OUG 34/2013 la data la care contractați lucrarea, pentru că termenul a fost prorogat repetat.</p>"
+    },
+    {
+      "type": "paragraph",
+      "heading": "Ce conține un amenajament pastoral",
+      "html": "<p><a href=\"/dictionar/pasune-comunala.html\">Amenajamentul pastoral</a> este documentația care cuprinde măsurile tehnice, organizatorice și economice necesare ameliorării și exploatării pajiștilor. Partea agronomică — starea covorului ierbos, producția, capacitatea de pășunat, lucrările de ameliorare — se întocmește de specialiști în domeniu. Partea de identificare a suprafeței, în schimb, este topografie curată: fiecare trup de pășune trebuie delimitat, măsurat și reprezentat pe plan, cu suprafețe care să corespundă cu ce există în cartea funciară și cu ce se declară mai departe la APIA.</p><p>Aici apar, aproape întotdeauna, aceleași trei probleme: trupuri de pășune neînscrise în cartea funciară, limite care nu se mai potrivesc cu terenul din cauza împăduririi naturale sau a desțelenirii, și suprafețe scriptice preluate din evidențe vechi, care diferă de realitate cu procente serioase.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Cine face ce",
+      "head": ["Rol", "Cine", "Rezultatul"],
+      "rows": [
+        ["Inițiere și finanțare", "Unitatea administrativ-teritorială, ca proprietar sau administrator al pajiștii", "Contractarea lucrării și aprobarea în consiliul local"],
+        ["Partea agro-pastorală", "Specialiști în domeniu, potrivit normelor de aplicare a OUG 34/2013", "Descrierea pajiștii, capacitatea de pășunat, lucrările de ameliorare"],
+        ["Partea topo-cadastrală", "Persoană fizică sau juridică autorizată ANCPI", "Delimitarea trupurilor, suprafețe măsurate, planuri în coordonate Stereo 70"],
+        ["Avizare și aprobare", "Direcția pentru agricultură județeană și consiliul local, potrivit legii", "Amenajamentul aprobat, aplicabil contractelor de concesiune sau închiriere"]
+      ]
+    },
+    {
+      "type": "checklist",
+      "heading": "Ce livrăm noi pentru un dosar de pășune comunală",
+      "items": [
+        "Ridicare topografică GNSS a conturului fiecărui trup de pășune, cu punctele de hotar în coordonate Stereo 70.",
+        "Suprapunerea măsurătorii peste ortofotoplan și peste evidențele existente, cu evidențierea diferențelor față de suprafața scriptică.",
+        "Identificarea porțiunilor care și-au schimbat de fapt categoria — zone împădurite natural, tufărișuri, alunecări, drumuri.",
+        "Plan de situație și plan de ansamblu, în format tipărit și digital, utilizabile în amenajament și în anexele contractelor.",
+        "Documentație cadastrală de primă înscriere sau de actualizare pentru trupurile care nu au carte funciară ori au suprafețe greșite.",
+        "Inventar de coordonate pe care primăria îl poate folosi și în relația cu APIA, la actualizarea blocurilor fizice."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Legătura cu subvenția pe pășune",
+      "html": "<p>Pentru utilizatorii de pajiști — persoane fizice și juridice, în calitate de proprietari și/sau deținători legali ai dreptului de utilizare — accesarea plăților pe suprafață presupune, printre altele, asigurarea anuală a unei încărcături minime de animale de 0,3 UVM/ha în perioada de pășunat. Fără o suprafață corect delimitată nu poți calcula corect nici încărcătura, nici suprafața declarabilă, iar contractele de închiriere semnate pe suprafețe scriptice produc, an de an, diferențe între ce plătește crescătorul și ce i se recunoaște la plată.</p><p>Ordinea sănătoasă de lucru este simplă: întâi măsori și delimitezi, apoi întocmești amenajamentul, apoi contractezi pe suprafețe reale. Inversarea acestor pași este motivul pentru care multe primării refac documentația la un an-doi după ce au aprobat-o.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Amenajamentul pastoral este obligatoriu și pentru pășunile private?", "a": "Reglementarea privește organizarea, administrarea și exploatarea pajiștilor permanente, iar aplicarea amenajamentelor a fost amânată prin Legea nr. 246/2025 până la 1 ianuarie 2028. Regimul concret diferă după cum pajiștea aparține unei unități administrativ-teritoriale, unei forme asociative sau unui proprietar privat — verificați situația exactă cu direcția agricolă județeană." },
+        { "q": "Cine plătește măsurătorile pentru pășunea comunală?", "a": "Lucrarea se contractează de unitatea administrativ-teritorială care deține sau administrează pajiștea. În unele situații, costurile se recuperează prin contractele de concesiune sau închiriere, dacă acest lucru este prevăzut în documentația de atribuire." },
+        { "q": "Cât durează măsurarea unui trup de pășune?", "a": "Depinde mult de teren. Un trup compact de câteva zeci de hectare, accesibil, se poate parcurge într-o zi; suprafețele fragmentate, cu pantă și vegetație, cer mai multe deplasări. Vă dăm un termen realist după ce vedem conturul aproximativ pe ortofotoplan." },
+        { "q": "Pășunea nu are carte funciară. Se poate face amenajament?", "a": "Se poate întocmi, dar lipsa înscrierii rămâne o vulnerabilitate: suprafețele nu sunt confirmate cadastral și pot fi contestate. Recomandarea noastră este ca primăria să intabuleze trupurile odată cu măsurătorile — costul marginal este mic, iar rezultatul este definitiv." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Aveți de delimitat trupuri de pășune?",
+      "text": "Scrieți-ne pe WhatsApp ce suprafețe sunt în discuție și în ce comună — vă spunem ce presupune măsurarea și în cât timp o putem face."
+    }
+  ],
+  "related": [
+    "masuratori-teren-apia",
+    "bloc-fizic-apia-ce-este",
+    "schimbare-categorie-folosinta-teren",
+    "prima-inregistrare-teren-agricol",
+    "cadastru-teren-extravilan",
+    "/servicii/intabulare-teren/",
+    "/servicii/plan-topografic/",
+    "/dictionar/pasune-comunala.html",
+    "/dictionar/pasune.html",
+    "/dictionar/categorie-de-folosinta.html"
+  ],
+  "sources": [
+    "https://legislatie.just.ro/Public/DetaliiDocumentAfis/305829",
+    "https://lege5.ro/Gratuit/ge3tomzrgaydm/legea-nr-246-2025-pentru-modificarea-art-10-alin-2-din-ordonanta-de-urgenta-a-guvernului-nr-34-2013-privind-organizarea-administrarea-si-exploatarea-pajistilor-permanente-si-pentru-modificarea-si-comp",
+    "https://lege5.ro/gratuit/ge3dombqguydk/legea-nr-32-2025-pentru-modificarea-art-10-alin-1-din-ordonanta-de-urgenta-a-guvernului-nr-34-2013-privind-organizarea-administrarea-si-exploatarea-pajistilor-permanente-si-pentru-modificarea-si-compl",
+    "https://lege5.ro/gratuit/gm4donbzgy/normele-metodologice-pentru-aplicarea-prevederilor-ordonantei-de-urgenta-a-guvernului-nr-34-2013-privind-organizarea-administrarea-si-exploatarea-pajistilor-permanente-si-pentru-modificarea-si-complet",
+    "https://revista.universuljuridic.ro/o-u-g-nr-34-2013-privind-organizarea-administrarea-si-exploatarea-pajistilor-permanente-si-legea-fondului-funciar-modificari-legea-nr-32-2025/",
+    "https://apia.org.ro/wp-content/uploads/2026/02/Ghid-Informativ-LPIS-editia-I-revizia-1_2026.pdf"
+  ]
+}

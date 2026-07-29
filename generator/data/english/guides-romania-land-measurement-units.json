@@ -1,0 +1,109 @@
+{
+  "path": "/en/guides/romania-land-measurement-units.html",
+  "title": "Romanian Land Units Explained — Hectare, Ar, Pogon, Iugăr",
+  "metaDescription": "Hectare, ar, pogon, iugăr, prăjină: what Romanian land units mean, rough conversions to square metres, why old deeds use them, and why only the measured area in the land book legally counts.",
+  "h1": "Hectares, Ari and Pogoane: Making Sense of Romanian Land Units",
+  "roPair": null,
+  "whatsappPrefillEn": "Hello! I am trying to understand the area of a property in Romania and would like a measurement.",
+  "footer": false,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "The official units: hectare, ar, square metre",
+      "html": "<p>Modern Romanian land administration is strictly metric. The <a href=\"/en/guides/romanian-land-registry-explained.html\">land book</a>, cadastral documentation, notarial deeds and tax records all express area in <strong>square metres (mp)</strong>, with the <strong>hectare (ha)</strong> — 10,000 m² — as the working unit for farmland. Between them sits the <strong>ar</strong>: 100 m², so 100 ari make a hectare. Rural Romanians use <em>ari</em> constantly in conversation — \"the garden is 15 ari\" (1,500 m²) — and village sale listings are commonly priced per ar, while city plots are priced per square metre. If you internalize just one habit, make it this: <em>ar × 100 = square metres</em>, and 10,000 m² = 1 ha ≈ 2.47 acres.</p><p>For English speakers, the friction is usually acre-thinking. A hectare is about two and a half acres; a typical restituted family field parcel of 0.3–1 ha is small by farming standards, and \"5,000 m²\" — half a hectare — is a generous village building plot. Prices quoted per ar can make cheap land sound expensive and vice versa; always convert to a per-square-metre or per-hectare figure before comparing anything.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Old units you will meet in deeds and conversation (approximate)",
+      "head": [
+        "Unit",
+        "Approximate size",
+        "Where you meet it"
+      ],
+      "rows": [
+        [
+          "Pogon",
+          "≈ 5,000 m² (about half a hectare)",
+          "Wallachia and the south; very common in speech and in old deeds"
+        ],
+        [
+          "Iugăr (jugăr)",
+          "≈ 5,755 m² (0.58 ha)",
+          "Transylvania — the Austro-Hungarian cadastral yoke, standard in old Transylvanian land books"
+        ],
+        [
+          "Falce (falcie)",
+          "≈ 14,300 m² (1.43 ha)",
+          "Moldova (the eastern region), in historical documents"
+        ],
+        [
+          "Prăjină",
+          "≈ 180–210 m², varies by region",
+          "Small garden plots in speech and very old papers"
+        ],
+        [
+          "Stânjen (fathom)",
+          "≈ 1.9–2.0 m of length; areas in square stânjeni",
+          "Pre-metric deeds; the base unit the pogon and iugăr were built from"
+        ],
+        [
+          "Ar",
+          "exactly 100 m²",
+          "Everywhere, still official and current"
+        ]
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "Why the old units still matter — and why none of them decide anything",
+      "html": "<p>You will meet pogoane and iugăre in three places: family lore (\"grandfather had six pogoane by the river\"), pre-war and Austro-Hungarian era documents, and the mental arithmetic of older sellers. Transylvania is iugăr country — its historical land books were kept under the Austro-Hungarian system — while the south thinks in pogoane. The conversions above are deliberately approximate: these units varied by region and era, which is precisely why the metric system replaced them.</p><p>Here is the point that protects your money: <strong>no unit on paper decides how much land you actually get — measurement does.</strong> Romanian practice distinguishes the <em>area in documents</em> (suprafața din acte) from the <em>measured area</em> (suprafața măsurată), and on land inherited or restituted from old records the two routinely differ, sometimes by a lot. When land is first registered, the measured area becomes the legal one within the tolerances the regulations allow. A seller offering \"two pogoane, about a hectare\" may control 8,700 m² or 11,200 m²; at any serious price per square metre, that spread is real money. The answer is never a better conversion table — it is a <a href=\"/en/services/topographic-survey.html\">measurement</a>.</p><p>One more vocabulary pair worth knowing, because it changes value more than any unit: <strong>intravilan</strong> (inside the built-up zone, generally buildable) versus <strong>extravilan</strong> (outside it, agricultural, with restrictions on building and its own <a href=\"/en/guides/agricultural-land-preemption-romania.html\">sale procedure</a>). A hectare of intravilan and a hectare of extravilan are the same area and utterly different assets. Our <a href=\"/en/guides/glossary-romanian-land-terms.html\">glossary of Romanian land terms</a> covers the rest of the dictionary.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Frequently asked questions",
+      "items": [
+        {
+          "q": "The deed says one area, the seller claims another. Which is true?",
+          "a": "Possibly neither — the fence line is a third opinion. The registered, measured area in the land book is what the law recognizes; where the land was never properly measured, a survey settles it before you price the deal. We measure exactly for this situation constantly."
+        },
+        {
+          "q": "How exact is a modern cadastral measurement?",
+          "a": "GNSS and total-station measurements in the national coordinate system are accurate to centimetres — area uncertainty on a normal parcel is trivial compared to the discrepancies old documents carry. The tolerance rules exist for reconciling old registrations, not because modern measurement is vague."
+        },
+        {
+          "q": "Is one iugăr always 5,755 m²?",
+          "a": "The Austro-Hungarian cadastral iugăr was standardized at 1,600 square stânjeni, about 5,755 m², and that is the figure for reading old Transylvanian land books. Colloquial usage was looser. Treat any old-unit figure as an estimate to be verified, never as a contractual quantity."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ro.wikipedia.org/wiki/Unit%C4%83%C8%9Bi_de_m%C4%83sur%C4%83_rom%C3%A2ne%C8%99ti_vechi",
+      "title": "Unități de măsură românești vechi — unitățile nu erau standardizate și variau între Țara Românească, Moldova și Transilvania; sistemul metric a fost adoptat în 1864"
+    },
+    {
+      "url": "https://ro.wikipedia.org/wiki/Iug%C4%83r",
+      "title": "Iugăr (jugăr) — iugărul cadastral transilvănean ≈ 5.755 m² (0,5755 ha), unitatea standard din cărțile funciare vechi de tip austro-ungar"
+    },
+    {
+      "url": "http://geo-spatial.org/vechi/articole/unitati-de-masura",
+      "title": "geo-spatial.org — unități de măsură utilizate în România: pogon, falce, prăjină, stânjen, cu variațiile regionale și echivalențele metrice"
+    },
+    {
+      "url": "https://www.stiridinlume.ro/cand-unde-cum/cati-metri-patrati-are-un-ar-un-hectar-sau-un-pogon-40613.html",
+      "title": "Echivalențe curente: 1 ar = 100 m², 1 ha = 10.000 m² = 100 ari, 1 pogon ≈ 5.000 m², 1 falce ≈ 1,43 ha"
+    },
+    {
+      "url": "https://www.ancpi.ro/ocpi/gl/ordinul-600-2023-pentru-aprobarea-regulamentului-de-receptie-si-inscriere-in-evidentele-de-cadastru-si-carte-funciara/",
+      "title": "Ordinul ANCPI nr. 600/2023 — suprafața măsurată vs. suprafața din acte și toleranțele aplicabile la înscrierea în cartea funciară"
+    }
+  ],
+  "related": [
+    "/en/guides/glossary-romanian-land-terms.html",
+    "/en/guides/romanian-land-registry-explained.html",
+    "/en/services/topographic-survey.html",
+    "/en/guides/buying-land-in-romania.html",
+    "/en/guides/how-to-get-land-registry-extract-romania.html"
+  ]
+}

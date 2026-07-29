@@ -1,0 +1,85 @@
+{
+  "slug": "zona-cooperativizata-vs-necooperativizata",
+  "title": "Zonă cooperativizată sau necooperativizată: de ce contează la prima înscriere | Expert Intabulare",
+  "h1": "Zonă necooperativizată: ce înseamnă și de ce schimbă tot dosarul",
+  "metaDescription": "Diferența dintre terenurile din zone cooperativizate și cele necooperativizate, ce acte se folosesc în fiecare caz și cum se obține adeverința de la primărie.",
+  "whatsappTopic": "un teren dintr-o zonă necooperativizată",
+  "hook": "none",
+  "trustBar": true,
+  "group": "Probleme frecvente",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Două istorii diferite ale aceluiași pământ",
+      "html": "<p>Între 1949 și 1962, colectivizarea nu a acoperit uniform țara. În satele de câmpie și pe văile largi, terenurile au intrat aproape integral în cooperativele agricole de producție. În zonele de deal și de munte — inclusiv în părți din Apuseni, din zona Aiudului spre munte și în multe sate din Alba, Cluj sau Hunedoara — colectivizarea nu s-a făcut. Acestea sunt <strong>zonele necooperativizate</strong>.</p><p>Consecința se resimte și azi, la fiecare dosar de cadastru. În zonele cooperativizate, proprietatea a fost preluată de CAP, iar după 1991 a fost <em>reconstituită</em> prin comisiile de fond funciar, cu <a href=\"/dictionar/titlu-de-proprietate.html\">titluri de proprietate</a>. În zonele necooperativizate, proprietatea nu a fost niciodată preluată: ea a rămas la oameni, iar actele care o dovedesc sunt cele vechi — cărți funciare de la începutul secolului, acte de vânzare, acte de partaj, testamente, uneori doar înscrieri în registrul agricol.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Ce documente stau la baza dosarului",
+      "head": ["Element", "Zonă cooperativizată", "Zonă necooperativizată"],
+      "rows": [
+        ["Actul de proprietate tipic", "Titlu de proprietate emis după Legea 18/1991", "Carte funciară veche, act de vânzare, act de partaj, certificat de moștenitor"],
+        ["Rolul comisiei de fond funciar", "Central — a reconstituit dreptul", "Redus; intervine în situații punctuale, prevăzute de lege"],
+        ["Planul parcelar", "De regulă necesar pentru localizare", "Rar aplicabil; se lucrează cu planuri vechi și cu identificări în teren"],
+        ["Documentul de zonare", "—", "Adeverință de la primărie care atestă că terenul se află în zonă necooperativizată"],
+        ["Dificultatea uzuală", "Titluri cu erori, parcele greșit localizate", "Acte vechi, cărți funciare nedeschise sau incomplete, succesiuni în lanț"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Adeverința care deblochează dosarul",
+      "html": "<p>Piesa pe care o cerem de fiecare dată la primărie este <strong>adeverința care atestă situarea terenului în zona cooperativizată sau necooperativizată</strong> a localității. Multe primării o eliberează în mod curent, pe baza evidențelor proprii. Documentul contează pentru că el explică registratorului de carte funciară de ce dosarul nu conține un titlu de proprietate — și de ce nici nu ar trebui să conțină.</p><p>Fără această adeverință, un dosar întocmit pe acte vechi riscă un referat de completare cu solicitarea titlului de proprietate, ceea ce înseamnă săptămâni pierdute. Cu ea, documentația se analizează pe baza actelor corecte pentru situația respectivă.</p><p>În zonele necooperativizate, legea prevede și situații în care se pot emite titluri de proprietate pentru deținătorii sau moștenitorii care figurează în registrul agricol, în registrul cadastral și în evidențele fiscale, dacă pentru terenul respectiv nu a fost deschisă carte funciară în baza legii cadastrului. Este o cale utilă exact acolo unde actele vechi lipsesc, iar verificarea aplicabilității ei se face la comisia locală de fond funciar.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Ce căutăm într-un dosar din zonă necooperativizată",
+      "items": [
+        "Cartea funciară veche, dacă există — se caută la biroul de carte funciară și în arhiva OCPI, uneori sub numere topografice, nu cadastrale.",
+        "Actele vechi de dobândire: contracte, acte de partaj, testamente, hotărâri judecătorești.",
+        "Adeverința de zonă necooperativizată, de la primărie.",
+        "Istoricul de rol fiscal și înscrierile din registrul agricol, pe cât se poate în urmă.",
+        "Certificatele de moștenitor pentru toate succesiunile intervenite de-a lungul timpului.",
+        "Corespondența dintre numerele topografice vechi și situația actuală din teren — partea cea mai tehnică a lucrării."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "De ce e mai grea, tehnic, lucrarea",
+      "html": "<p>În zonele cooperativizate, chiar și cu erori, există un sistem coerent: tarlale, parcele, planuri parcelare, titluri. În cele necooperativizate, terenul se identifică din cărți funciare vechi, cu numere topografice care se raportează la planuri întocmite acum o sută de ani, în alte sisteme de coordonate.</p><p>Munca noastră constă atunci în a lega două lumi: <a href=\"/dictionar/numar-topografic.html\">numărul topografic</a> vechi și situația măsurată azi în <a href=\"/dictionar/stereografic-1970-stereo-70.html\">Stereo 70</a>. Se lucrează cu planuri de arhivă, cu <a href=\"/dictionar/conversia-cartii-funciare.html\">conversia cărții funciare</a> vechi în format electronic și cu identificări în teren împreună cu vecinii. Este mai lent decât un dosar obișnuit, dar are un avantaj important: acolo unde cartea funciară veche există și e clară, dreptul e mult mai solid decât cel reconstituit prin titlu.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Cum aflu dacă satul meu a fost cooperativizat?", "a": "Cel mai simplu, cerând adeverința de la primărie. Zonarea nu se face pe comune întregi, ci uneori pe sate sau chiar pe porțiuni din hotarul unui sat, așa că nu vă bazați pe ce se știe în general despre zonă." },
+        { "q": "Nu am niciun act, doar rolul agricol. Se poate intabula?", "a": "Depinde de situație. În zonele necooperativizate, legea prevede posibilitatea emiterii de titluri de proprietate pentru cei care figurează în evidențele agricole și fiscale, dacă nu s-a deschis carte funciară. Verificarea se face la comisia locală, iar noi vă spunem ce documentație tehnică se cere după." },
+        { "q": "Cartea funciară veche mai este valabilă?", "a": "Da. Cărțile funciare vechi din Transilvania își păstrează valoarea, iar înscrierile din ele sunt punctul de plecare al oricărui dosar. Se convertesc în format electronic în cadrul procedurilor OCPI, pe măsură ce imobilele intră în lucru." },
+        { "q": "Costă mai mult un dosar din zonă necooperativizată?", "a": "De regulă da, pentru că presupune muncă de arhivă și identificări mai laborioase. Orientativ, diferența ține de timpul de documentare, nu de măsurătoare — vă putem estima corect după ce vedem ce acte există." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Ai acte vechi, fără titlu de proprietate?",
+      "text": "Trimite-ne pe WhatsApp poze după ce ai — îți spunem dacă terenul e din zonă necooperativizată și pe ce cale se poate intabula."
+    }
+  ],
+  "related": [
+    "prima-inregistrare-teren-agricol",
+    "uzucapiune-teren-agricol",
+    "teren-mostenit-fara-succesiune",
+    "titlu-de-proprietate-pierdut-duplicat",
+    "cadastru-sistematic-vs-sporadic-agricol",
+    "intabulare-teren-cu-titlu-de-proprietate",
+    "/servicii/intabulare-teren/",
+    "/servicii/servicii-ocpi/",
+    "/dictionar/reconstituirea-dreptului-de-proprietate.html",
+    "/dictionar/numar-topografic.html",
+    "/dictionar/conversia-cartii-funciare.html"
+  ],
+  "sources": [
+    "https://www.baiamare.ro/ro/Servicii-publice/Registrul-Agricol/Eliberare-adeverinta-care-atesta-situarea-terenului-in-zona-cooperativizata-sau-necooperativizata-a-municipiului/",
+    "https://lege5.ro/Gratuit/gi4tamryhazq/legea-nr-231-2018-pentru-modificarea-si-completarea-legii-fondului-funciar-nr-18-1991",
+    "https://lege5.ro/gratuit/gy3dgmbu/legea-fondului-funciar-nr-18-1991",
+    "https://www.ancpi.ro/wp-content/uploads/2023/01/Lege-7-1996r3.pdf"
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "slug": "uzucapiune-teren-agricol",
+  "title": "Uzucapiune pe teren agricol: când posesia îndelungată devine proprietate | Expert Intabulare",
+  "h1": "Uzucapiunea pe teren agricol: ce se poate și ce nu",
+  "metaDescription": "Ce înseamnă uzucapiunea, ce condiții cere posesia, diferența dintre regimul vechiului Cod civil și cel actual și ce documentație topografică este necesară.",
+  "whatsappTopic": "un teren stăpânit de mulți ani, fără acte",
+  "hook": "none",
+  "trustBar": true,
+  "group": "Probleme frecvente",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "„Îl lucrăm din bătrâni” nu este un act",
+      "html": "<p>Este una dintre cele mai frecvente propoziții pe care le auzim în teren. Familia lucrează o parcelă de patruzeci de ani, toată lumea din sat știe că e a lor, dar nu există niciun act. Întrebarea firească este dacă timpul, singur, poate produce proprietate.</p><p>Răspunsul juridic este: uneori da, în condiții stricte, și niciodată automat. <a href=\"/dictionar/uzucapiune.html\">Uzucapiunea</a> — sau prescripția achizitivă — este modul de dobândire a proprietății prin <a href=\"/dictionar/posesie.html\">posesie</a> îndelungată. Ea nu operează de la sine: trebuie constatată, iar în final dreptul trebuie înscris în cartea funciară.</p><p>Important de reținut de la început: regimul aplicabil depinde de <strong>momentul în care a început posesia</strong>. Pentru posesiile începute sub vechiul Cod civil se aplică reglementările de atunci — inclusiv termenul de 30 de ani în anumite situații — iar pentru cele începute după intrarea în vigoare a Codului civil actual se aplică regulile acestuia, care în regiunile de carte funciară au particularități proprii. Aprecierea concretă este a instanței și a unui avocat, nu a topografului.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Ce trebuie să îndeplinească posesia",
+      "head": [
+        "Condiție",
+        "Ce înseamnă în practică",
+        "Cum se dovedește"
+      ],
+      "rows": [
+        [
+          "Să fie utilă",
+          "Continuă, netulburată, publică și sub nume de proprietar",
+          "Martori, plata impozitului, declarații la APIA, lucrări vizibile"
+        ],
+        [
+          "Să fie continuă",
+          "Fără întreruperi semnificative în exercitare",
+          "Istoric de rol fiscal, contracte, dovezi de lucrare a terenului"
+        ],
+        [
+          "Să fie publică",
+          "La vedere, nu pe ascuns",
+          "Notorietate în comunitate, imagini din ani diferiți"
+        ],
+        [
+          "Să fie sub nume de proprietar",
+          "Nu ca arendaș, comodatar sau tolerat",
+          "Absența oricărui contract de folosință cu proprietarul"
+        ],
+        [
+          "Să privească un imobil determinat",
+          "Suprafață și limite identificabile",
+          "Măsurători topografice și plan de situație"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Unde nu funcționează",
+      "html": "<p>Merită spus limpede, ca să nu se piardă timp și bani.</p><p><strong>Pe terenurile cu titlu de proprietate emis altcuiva</strong>, discuția este de regulă una de fond funciar sau de revendicare, nu de uzucapiune. <strong>Pe terenurile aparținând domeniului public</strong> nu se poate uzucapa. <strong>Când ai stăpânit ca arendaș, comodatar sau simplu tolerat</strong>, posesia nu este sub nume de proprietar, deci nu produce efecte. Și <strong>când proprietarul te-a tulburat</strong> — te-a chemat în judecată, te-a somat, a intrat efectiv pe teren — continuitatea se rupe.</p><p>Există, în plus, o alternativă administrativă mai simplă pentru multe situații din satele noastre: <strong>notarea posesiei în cartea funciară</strong> în cadrul înregistrării sistematice, urmată, în condițiile legii cadastrului, de înscrierea dreptului de proprietate după trecerea termenului prevăzut. Acolo unde comuna intră în cadastrul sistematic, această cale este de departe cea mai ieftină și cea mai rapidă.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Ce pregătim noi pentru un dosar de uzucapiune",
+      "items": [
+        "Identificarea terenului în teren, pe baza indicațiilor posesorului și ale vecinilor.",
+        "Ridicare topografică GNSS și plan de situație în coordonate Stereo 70, cu suprafața exactă.",
+        "Verificarea în geoportal și la OCPI dacă imobilul este deja înscris pe cineva sau se suprapune cu alte imobile.",
+        "Studiul planului parcelar al tarlalei și al titlurilor din zonă, pentru a stabili dacă terenul a fost cuprins în reconstituire.",
+        "Procese-verbale de vecinătate semnate de proprietarii limitrofi.",
+        "Memoriu tehnic cu istoricul situației, utilizabil în dosarul instanței.",
+        "După hotărârea judecătorească, documentația cadastrală de primă înscriere și depunerea la OCPI."
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        {
+          "q": "Câți ani trebuie să fi lucrat terenul?",
+          "a": "Nu există un singur răspuns: termenul depinde de regimul juridic aplicabil, care se stabilește după momentul începerii posesiei și după situația imobilului. Vechiul Cod civil cunoștea termene de 30 de ani și, în anumite condiții, de 10–20 de ani; Codul civil actual are propriile reguli. Consultați un avocat pentru cazul concret."
+        },
+        {
+          "q": "Pot uzucapa terenul vecinului pe care l-am arat 20 de ani?",
+          "a": "Foarte greu, dacă terenul are titlu de proprietate emis pe numele lui. În aceste cazuri, discuția se poartă de regulă pe grănițuire sau revendicare, iar poziția posesorului este slabă. Nu vă bazați pe simpla trecere a timpului."
+        },
+        {
+          "q": "Se poate face uzucapiune la notar?",
+          "a": "Constatarea uzucapiunii se face, ca regulă, pe cale judecătorească. Notarul poate interveni în proceduri conexe, dar hotărârea care constată dobândirea proprietății prin uzucapiune vine de la instanță."
+        },
+        {
+          "q": "Ce rol are topograful?",
+          "a": "Unul esențial pe partea de identificare: instanța nu poate constata un drept pe un teren nedefinit. Planul de situație măsurat, cu suprafață și limite, plus verificarea suprapunerilor, sunt piese fără de care dosarul nu stă în picioare."
+        },
+        {
+          "q": "Cât costă și cât durează un dosar de uzucapiune?",
+          "a": "Este cea mai scumpă și cea mai lentă cale de a-ți dovedi un drept, motiv pentru care o recomandăm ultima. Se adaugă taxa judiciară de timbru calculată la valoarea terenului, onorariul de avocat, expertiza topografică dispusă de instanță și, adesea, mai multe termene de judecată pe parcursul a unu-doi ani. Partea de documentație tehnică pe care o facem noi pornește, orientativ, de la câteva sute de lei, dar ea este cea mai mică parte din costul total. Înainte de a porni pe acest drum, merită verificat dacă terenul nu poate fi obținut mai simplu — prin reconstituire, prin succesiune sau prin cumpărare de la proprietarul înscris."
+        },
+        {
+          "q": "Comuna intră în cadastru sistematic anul viitor. Schimbă ceva pentru mine?",
+          "a": "Poate schimba mult. În cadrul înregistrării sistematice, pentru imobilele fără acte de proprietate se poate nota posesia în cartea funciară pe numele posesorului identificat la fața locului, iar legea cadastrului prevede condițiile în care, după trecerea termenului, se poate ajunge la înscrierea dreptului de proprietate. Este o cale administrativă, fără proces și fără taxe de timbru. Dacă lucrarea de cadastru sistematic este anunțată în comuna ta, cel mai util lucru pe care îl poți face este să fii prezent la măsurători și să arăți limitele — nu să deschizi între timp un proces."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Stăpânești un teren fără acte?",
+      "text": "Scrie-ne pe WhatsApp comuna și situația — verificăm întâi dacă terenul are titlu sau carte funciară, ca să știi pe ce drum ești înainte de a angaja un avocat."
+    }
+  ],
+  "related": [
+    "zona-cooperativizata-vs-necooperativizata",
+    "teren-inscris-pe-alt-proprietar",
+    "vecinul-a-mutat-hotarul",
+    "cadastru-sistematic-vs-sporadic-agricol",
+    "prima-inregistrare-teren-agricol",
+    "/servicii/intabulare-teren/",
+    "/servicii/expertize-documentatii/",
+    "/dictionar/uzucapiune.html",
+    "/dictionar/posesie.html",
+    "/dictionar/inregistrare-sistematica.html"
+  ],
+  "sources": [
+    "https://legislatie.just.ro/Public/DetaliiDocument/175630",
+    "https://www.juridice.ro/694147/uzucapiunea-intemeiata-pe-dispozitiile-vechiului-cod-civil-in-regiunile-de-carte-funciara.html",
+    "https://www.ancpi.ro/wp-content/uploads/2023/01/Lege-7-1996r3.pdf",
+    "https://www.avocatu.ro/notarea-posesiei-in-cartea-funciara-sau-posesia-tabulara-un-nou-mod-de-dobandire-a-proprietatii-notiune-conditii-si-procedura/"
+  ]
+}

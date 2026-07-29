@@ -1,0 +1,123 @@
+{
+  "slug": "construire-pe-teren-agricol-intravilan",
+  "title": "Construire pe teren agricol în intravilan: când se poate și ce acte trebuie | Expert Intabulare",
+  "h1": "Teren agricol în intravilan: se poate construi?",
+  "metaDescription": "Ce înseamnă teren arabil în intravilan, ce spune certificatul de urbanism, când e nevoie de schimbarea categoriei de folosință și ce documentație topografică se cere.",
+  "whatsappTopic": "construirea pe un teren agricol aflat în intravilan",
+  "hook": "none",
+  "trustBar": true,
+  "group": "Construire și scoaterea din circuitul agricol",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Categoria de folosință nu este același lucru cu destinația",
+      "html": "<p>Este cea mai frecventă confuzie pe care o vedem la clienții care vor să-și facă o casă în sat. În cartea funciară scrie „arabil”, iar oamenii înțeleg că terenul nu se poate construi. În realitate, contează două informații diferite: <strong>unde se află terenul</strong> — în <a href=\"/dictionar/intravilan.html\">intravilan</a> sau în extravilan, conform planului urbanistic general — și <strong>ce categorie de folosință</strong> are înscrisă.</p><p>Un teren aflat în intravilan face deja parte din zona construibilă a localității, chiar dacă în acte figurează ca arabil, fâneață sau livadă. Ce poți construi acolo rezultă din <a href=\"/dictionar/pug.html\">PUG</a> și din regulamentul local de urbanism, nu din categoria de folosință. De aceea primul document pe care îl ceri nu este un aviz agricol, ci <a href=\"/dictionar/certificat-de-urbanism.html\">certificatul de urbanism</a>.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Patru situații și ce presupune fiecare",
+      "head": [
+        "Situația terenului",
+        "Ce se cere în plus",
+        "Grad de dificultate"
+      ],
+      "rows": [
+        [
+          "Intravilan, zonă de locuit, categorie curți-construcții",
+          "Nimic special — direct autorizație de construire",
+          "Simplu"
+        ],
+        [
+          "Intravilan, zonă de locuit, categorie arabil sau fâneață",
+          "Schimbarea categoriei de folosință, potrivit indicațiilor din certificatul de urbanism",
+          "Mediu"
+        ],
+        [
+          "Intravilan, dar zonă cu altă funcțiune (agricolă, verde)",
+          "PUZ sau PUD pentru schimbarea funcțiunii, cu avizele aferente",
+          "Ridicat"
+        ],
+        [
+          "Extravilan",
+          "Scoatere din circuitul agricol și, de regulă, introducere în intravilan prin PUZ",
+          "Ridicat"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Ce citești în certificatul de urbanism",
+      "html": "<p>Certificatul de urbanism nu dă dreptul de a construi, ci îți spune ce reguli se aplică terenului tău. Trei rubrici contează cel mai mult. <strong>Regimul juridic</strong> — dacă terenul e în intravilan sau extravilan și dacă are servituți sau interdicții. <strong>Regimul economic</strong> — funcțiunea zonei conform PUG și categoria de folosință actuală. <strong>Regimul tehnic</strong> — indicatorii urbanistici (<a href=\"/dictionar/pot.html\">POT</a>, <a href=\"/dictionar/cut.html\">CUT</a>), regimul de înălțime, retragerile față de aliniament și față de limitele laterale, plus lista avizelor necesare.</p><p>Dacă în certificat scrie că este necesară schimbarea categoriei de folosință sau un plan urbanistic zonal, acela este drumul — nu există scurtături. Dacă nu scrie nimic despre categoria agricolă, înseamnă că, în acea localitate, ea se actualizează odată cu înscrierea construcției în cartea funciară.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Documentația topografică pentru autorizație",
+      "items": [
+        "Plan de situație pe suport topografic actualizat, în coordonate Stereo 70, cu recepție la OCPI.",
+        "Plan de încadrare în zonă, la scara cerută de certificatul de urbanism.",
+        "Limitele proprietății măsurate și, dacă e cazul, verificarea suprapunerilor cu vecinii intabulați.",
+        "Cotele de nivel ale terenului, necesare proiectantului pentru sistematizarea verticală.",
+        "Rețelele vizibile și accesele existente, ca proiectantul să poată amplasa corect construcția.",
+        "Extras de carte funciară pentru informare, actualizat — dacă terenul nu e intabulat, se face întâi prima înscriere."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Ordinea corectă a pașilor",
+      "html": "<p>Ordinea în care se fac lucrurile economisește cel mai mult timp și bani. Întâi <strong>intabularea</strong>, dacă terenul nu are carte funciară — fără ea nu se emite autorizație de construire pe numele tău și nu se poate înscrie nimic la final. Apoi <strong>certificatul de urbanism</strong>, care îți spune ce se cere. Apoi <strong>planul topografic recepționat</strong>, pe care lucrează proiectantul. Apoi eventualele proceduri suplimentare — <a href=\"/teren-agricol/schimbare-categorie-folosinta-teren.html\">schimbarea categoriei de folosință</a>, PUZ, avize. La final, autorizația și, după construire, înscrierea clădirii în cartea funciară.</p><p>Greșeala clasică este să se comande proiectul înainte de certificatul de urbanism. Se ajunge la proiecte refăcute de două ori, pentru că retragerile sau înălțimea admisă erau altele decât cele presupuse.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        {
+          "q": "Terenul e în intravilan și scrie arabil. Trebuie scos din circuitul agricol?",
+          "a": "Procedura de scoatere din circuitul agricol reglementată prin Ordinul MADR 83/2018 privește terenurile din extravilan. Pentru intravilan, cerințele concrete rezultă din certificatul de urbanism; de regulă discuția este despre schimbarea categoriei de folosință, nu despre scoaterea din circuit."
+        },
+        {
+          "q": "Cum aflu dacă terenul meu e în intravilan?",
+          "a": "Din certificatul de urbanism sau direct de la compartimentul de urbanism al primăriei, prin raportare la planul urbanistic general. Categoria din cartea funciară nu răspunde la această întrebare, iar limita intravilanului s-a modificat în multe comune odată cu actualizarea PUG-ului."
+        },
+        {
+          "q": "Am nevoie de plan topografic dacă terenul e deja intabulat?",
+          "a": "Da, în cele mai multe cazuri. Extrasul de plan cadastral arată limitele imobilului, dar autorizația se emite pe baza unui plan de situație cu suport topografic actualizat, care conține cote de nivel, accese și elemente din teren de care proiectantul are nevoie."
+        },
+        {
+          "q": "Cât costă documentația topografică pentru o casă?",
+          "a": "Orientativ, un plan topografic cu recepție pentru un lot obișnuit de intravilan pornește de la câteva sute de lei, în funcție de suprafață, de relief și de cerințele din certificatul de urbanism. Prima înscriere, dacă e necesară, se cotează separat."
+        },
+        {
+          "q": "Vecinul a construit pe un teren identic cu al meu, fără să schimbe nimic în acte. Eu de ce trebuie?",
+          "a": "Cel mai frecvent, pentru că a construit înainte ca primăria să ceară dovada schimbării categoriei de folosință la recepția construcției, sau pentru că terenul lui figura deja ca și curți-construcții din vechime. Regimul juridic se stabilește pentru fiecare imobil în parte, iar ce a fost tolerat acum zece ani nu creează un drept pentru tine astăzi. Documentul care tranșează discuția este certificatul de urbanism emis pe numărul tău cadastral — nu experiența vecinului."
+        },
+        {
+          "q": "Cât durează, realist, drumul de la teren agricol în intravilan la autorizație de construire?",
+          "a": "Dacă terenul este în zonă de locuit și doar categoria de folosință trebuie schimbată, partea pe care o controlăm noi — măsurători, plan topografic, documentație cadastrală — se face în câteva zile lucrătoare, iar restul depinde de termenele primăriei și ale instituțiilor care emit avizele din certificatul de urbanism. Dacă însă certificatul cere un plan urbanistic zonal, discutăm despre luni, nu despre săptămâni, pentru că PUZ-ul are propriile etape de avizare și aprobare în consiliul local."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Vrei să construiești pe un teren cu categorie agricolă?",
+      "text": "Trimite-ne pe WhatsApp extrasul de carte funciară și certificatul de urbanism — îți spunem ce documentație trebuie și dacă e nevoie de pași suplimentari."
+    }
+  ],
+  "related": [
+    "scoaterea-terenului-din-circuitul-agricol",
+    "schimbare-categorie-folosinta-teren",
+    "constructii-agrozootehnice-extravilan",
+    "dezmembrare-teren-agricol",
+    "imprejmuire-teren-agricol-trasare",
+    "/servicii/plan-topografic/",
+    "/servicii/intabulare-casa-constructie/",
+    "/dictionar/certificat-de-urbanism.html",
+    "/dictionar/intravilan.html",
+    "/dictionar/categorie-de-folosinta.html"
+  ],
+  "sources": [
+    "https://www.cdep.ro/pls/legis/legis_pck.htp_act_text?idt=3392",
+    "https://www.madr.ro/docs/agricultura/fond-funciar/2024/ordinul-nr-83-2018-pentru-aprobarea-procedurii-privind-scoaterea-definitiva-sau-temporara-din-circuitul-agricol-a-terenurilor-situate-in-extravilanul-localitatilor-precum-si-pentru-aprobarea-proceduri.pdf",
+    "https://lege5.ro/Gratuit/gi3dcojygeza/procedura-privind-aprobarea-schimbarii-categoriei-de-folosinta-a-terenurilor-agricole-situate-in-extravilanul-localitatilor-din-29112017",
+    "https://www.ancpi.ro/wp-content/uploads/2023/01/Lege-7-1996r3.pdf"
+  ]
+}

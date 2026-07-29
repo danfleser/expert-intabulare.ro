@@ -1,0 +1,84 @@
+{
+  "path": "/en/guides/expat-selling-property-romania.html",
+  "title": "Selling Property in Romania from Abroad — The Preparation That Makes It Possible",
+  "metaDescription": "How to sell a Romanian house, apartment or land while living abroad: getting the land book sale-ready, the documents the notary requires, the power of attorney, and the traps that stall diaspora sales.",
+  "h1": "Selling Romanian Property While Living Abroad",
+  "roPair": null,
+  "whatsappPrefillEn": "Hello! I live abroad and want to sell a property in Romania. Can you check if it is ready for sale?",
+  "footer": false,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "The one question that decides everything: is it sale-ready?",
+      "html": "<p>A Romanian notary can only transfer what the <a href=\"/en/guides/romanian-land-registry-explained.html\">land book</a> shows, exactly as it shows it. For diaspora owners, that sentence contains every common obstacle: the property was never registered at all; it is registered to a deceased parent because the <a href=\"/en/guides/unregistered-inherited-property-romania.html\">succession</a> was never completed; the house exists physically but only bare land appears in the register; an extension or attic conversion was never recorded; or the registered area and geometry no longer match reality. None of these are visible from your living room in another country — and each surfaces at the worst time, when a buyer is waiting and every week of fixing costs momentum or price.</p><p>So the first step of a remote sale is not photography or listing — it is a <strong>sale-readiness check</strong>: a fresh <a href=\"/en/guides/how-to-get-land-registry-extract-romania.html\">land registry extract</a> read against reality. We do this from a land book number or even just an address, in days, and give you a plain-English verdict: sellable as-is, or here is the fix list with time and cost. Sellers who run this check list confidently; sellers who skip it discover their problems from the buyer's notary.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "What the notary will ask for at signing",
+      "items": [
+        "The property registered and up to date in the land book — including all buildings and later modifications, not just the land",
+        "A fresh authentication extract (the notary orders this; it briefly freezes the land book for the transaction)",
+        "The fiscal certificate from the town hall showing property taxes paid to date",
+        "The energy performance certificate — mandatory for selling buildings",
+        "Your identity documents, and if you cannot attend, an authentic power of attorney for the person signing in your name",
+        "For inherited property: the inheritance certificate, with the succession fully settled and the heirs registered as owners first"
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "The remote mechanics: mandate, money, taxes",
+      "html": "<p><strong>The mandate.</strong> You do not need to travel. A <a href=\"/en/guides/power-of-attorney-property-romania.html\">power of attorney</a> in authentic form — signed at a Romanian consulate, or before a local notary with apostille — lets a trusted person sign the deed in your name. Draft it with the sale mandate explicit and, unless you have full trust in the proxy, keep price approval and payment routing in your own hands: the deed can direct payment straight to your foreign account.</p><p><strong>The taxes.</strong> Sellers pay an income tax on the transfer, calculated on the transaction value, with the rate depending on how long you have owned the property — currently lower for holdings over three years. The notary calculates and withholds it at signing; there is no separate filing to fear. If you are tax-resident abroad, check the treatment in your country of residence too — most double-taxation treaties handle Romanian real estate cleanly, but that is a question for your accountant, with the notary's tax certificate in hand.</p><p><strong>The technical fixes we handle.</strong> Where the check finds problems, the usual repairs are our daily work: <a href=\"/en/services/cadastral-registration.html\">first registration</a> of never-registered property; <a href=\"/en/services/construction-registration.html\">recording houses and extensions</a>; updating measurements where old registrations are off; and <a href=\"/en/services/boundary-survey-land-division.html\">subdividing</a> where you are selling only part of a plot. Each has a knowable calendar — see the <a href=\"/en/guides/land-registration-timeline-romania.html\">timeline guide</a> — which is precisely why the check should happen <em>before</em> listing, not after an offer.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Frequently asked questions",
+      "items": [
+        {
+          "q": "How long before listing should I start preparing?",
+          "a": "Run the sale-readiness check immediately — it costs little and takes days. If fixes are needed, typical repairs run from three weeks (simple registration updates) to three months (unsettled succession plus first registration). Starting the power of attorney early is also wise; it is the longest item you personally control."
+        },
+        {
+          "q": "The buyer's notary found the house was never registered. Can it be fixed mid-sale?",
+          "a": "Usually yes — recording an existing house is standard work if the permit-era documents exist, and there are procedures for older unpermitted houses. But mid-sale is the expensive, stressful version: the buyer waits on your OCPI terms. This exact scenario is why the check comes first."
+        },
+        {
+          "q": "Can I sell just part of my land?",
+          "a": "Only after subdivision creates the part as its own registered property — see our subdivision guide. Plan the split and the sale together; the subdivision conditions from the town hall can affect what is actually sellable."
+        },
+        {
+          "q": "Do you handle the sale itself?",
+          "a": "No — we are surveyors, not agents or lawyers. We make the property legally and technically sellable, produce the documentation, and coordinate with your notary and any agent. The selling, pricing and legal representation stay with professionals you choose; we are happy to recommend ones used to diaspora clients."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.noulcodfiscal.ro/titlu-4/capitol-9/articol-111.html",
+      "title": "Cod fiscal art. 111 — impozitul pe venitul din transferul proprietăților imobiliare: 3% dacă imobilul a fost deținut până la 3 ani inclusiv, 1% dacă a fost deținut peste 3 ani; reținut de notar la autentificare"
+    },
+    {
+      "url": "https://notari.pro/noutati/impozit-vanzare-apartament-imobil-teren",
+      "title": "Impozitul plătit la vânzarea imobilelor în 2026 — cotele de 1% / 3% în funcție de perioada de deținere, datorate indiferent de valoarea tranzacției; plătite de vânzător"
+    },
+    {
+      "url": "https://notariate.ro/calculator-taxe-notariale/carte-funciara/",
+      "title": "Extrasul de carte funciară pentru autentificare — solicitat exclusiv de notar, blochează cartea funciară, valabilitate 10 zile"
+    },
+    {
+      "url": "https://notariatstoica.ro/procura-imputernicirea-pentru-semnarea-contractului-de-vanzare-cumparare-pentru-cetatenii-romani-si-straini-aflati-pe-teritoriul-altui-stat/",
+      "title": "Procura pentru vânzare semnată în străinătate — consulat (fără apostilă) sau notar local cu apostilă și traducere; poate direcționa plata în contul vânzătorului"
+    },
+    {
+      "url": "https://lege5.ro/gratuit/gy3dgmju/legea-nr-50-1991-privind-autorizarea-executarii-lucrarilor-de-constructii",
+      "title": "Legea nr. 50/1991 actualizată 2026 — regimul construcțiilor edificate fără autorizație și atestarea edificării, relevant pentru casele neînscrise descoperite la vânzare"
+    }
+  ],
+  "related": [
+    "/en/guides/power-of-attorney-property-romania.html",
+    "/en/guides/unregistered-inherited-property-romania.html",
+    "/en/services/construction-registration.html",
+    "/en/guides/subdividing-land-romania.html",
+    "/en/guides/land-registration-timeline-romania.html"
+  ]
+}

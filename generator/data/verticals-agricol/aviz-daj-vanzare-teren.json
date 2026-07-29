@@ -1,0 +1,85 @@
+{
+  "slug": "aviz-daj-vanzare-teren",
+  "title": "Avizul pentru vânzarea terenului agricol: când e necesar și cum se obține | Expert Intabulare",
+  "h1": "Avizul necesar la vânzarea terenului agricol extravilan",
+  "metaDescription": "Avizul final sau specific la vânzarea terenului extravilan: cine îl emite în funcție de suprafață, ce documente cere, în cât timp se obține și când se refuză.",
+  "whatsappTopic": "avizul necesar pentru vânzarea unui teren agricol",
+  "hook": "none",
+  "trustBar": true,
+  "group": "Vânzare-cumpărare și Legea 17/2014",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Ultimul document înainte de notar",
+      "html": "<p>După ce oferta a stat afișată la primărie cele 45 de zile lucrătoare și situația preemptorilor s-a lămurit, mai rămâne un pas administrativ înainte de semnătură: <strong>avizul</strong> prevăzut de <a href=\"/dictionar/legea-17-2014.html\">Legea 17/2014</a>. Fără el, notarul nu autentifică actul de vânzare pentru un teren agricol extravilan.</p><p>Competența de emitere este împărțită după suprafață: pentru terenurile de până la 30 de hectare inclusiv, avizul se emite de <strong>structura teritorială a Ministerului Agriculturii</strong> — direcția pentru agricultură județeană, cunoscută pe teren ca DAJ; pentru suprafețele mai mari de 30 de hectare, competența aparține <strong>ministerului</strong>. Pentru terenurile pe care se află situri arheologice clasate, legea prevede un aviz specific, emis de structura competentă din domeniul culturii, obținut înaintea celui de la agricultură.</p><p>În practică, majoritatea vânzărilor din zona noastră — parcele de la câțiva ari la câteva zeci de hectare — se rezolvă la direcția județeană.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Cine emite ce",
+      "head": ["Situația terenului", "Cine emite avizul"],
+      "rows": [
+        ["Suprafață până la 30 ha inclusiv", "Direcția pentru agricultură județeană (structura teritorială a MADR)"],
+        ["Suprafață peste 30 ha", "Ministerul Agriculturii și Dezvoltării Rurale"],
+        ["Teren cu sit arheologic clasat", "Aviz specific de la structura competentă din domeniul culturii, înainte de avizul agricol"],
+        ["Teren cu investiții de îmbunătățiri funciare", "Se verifică situația lucrărilor; poate fi nevoie de documente suplimentare"],
+        ["Vânzare către un preemptor acceptat", "Tot avizul competent după suprafață — procedura nu se sare"]
+      ]
+    },
+    {
+      "type": "checklist",
+      "heading": "Documentele care alcătuiesc dosarul de aviz",
+      "items": [
+        "Cererea de emitere a avizului, pe formularul prevăzut în normele de aplicare.",
+        "Adeverința eliberată de primărie, care atestă parcurgerea procedurii de afișare și situația preemptorilor.",
+        "Copia ofertei de vânzare, așa cum a fost afișată, și procesul-verbal de afișare.",
+        "Copia actului de proprietate și extrasul de carte funciară pentru informare, valabil.",
+        "Actele de identitate ale vânzătorului și ale cumpărătorului, respectiv documentele societății.",
+        "Documentele care dovedesc, după caz, calitatea de preemptor a cumpărătorului sau îndeplinirea condițiilor legale de cumpărare.",
+        "Dovada achitării eventualelor taxe și, unde e cazul, avizul specific pentru sit arheologic."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Cât durează și ce poate merge prost",
+      "html": "<p>Termenul de emitere curge de la depunerea dosarului <strong>complet</strong> — și aici e capcana. Un dosar cu un extras de carte funciară expirat sau cu o adeverință în care numele cumpărătorului e scris greșit se întoarce, iar termenul o ia de la capăt. Recomandarea practică: pregătește extrasul de carte funciară cât mai aproape de momentul depunerii dosarului de aviz, nu la începutul procedurii de preempțiune.</p><p>Motivele obișnuite de refuz sau de amânare: neconcordanțe între datele terenului din ofertă și cele din cartea funciară; nerespectarea ordinii rangurilor la alegerea cumpărătorului; cumpărător care nu poate dovedi îndeplinirea condițiilor legale; documente lipsă din dosar. Niciunul dintre aceste motive nu este fatal — toate se repară — dar fiecare adaugă săptămâni.</p><p>Există și situația inversă, mai puțin cunoscută: dacă în termenul legal avizul nu este emis și nici nu se comunică un refuz motivat, legea prevede mecanisme de deblocare. Nu te baza însă pe ele; e mult mai simplu să depui un dosar corect.</p>"
+    },
+    {
+      "type": "paragraph",
+      "heading": "Partea care ne privește pe noi",
+      "html": "<p>Noi nu emitem și nu obținem avize — asta o face vânzătorul sau notarul. Contribuția noastră este să eliminăm din start cauza tehnică a jumătate din întoarcerile de dosar: <strong>datele terenului</strong>. Verificăm ca suprafața, numărul cadastral, numărul de carte funciară, tarlaua, parcela și <a href=\"/dictionar/categorie-de-folosinta.html\">categoria de folosință</a> să fie identice în ofertă, în extras și în documentația cadastrală. Când sunt diferențe reale — de exemplu suprafața măsurată diferă de cea din titlu — le rezolvăm înainte, prin actualizare de date sau prin <a href=\"/dictionar/rectificare-de-carte-funciara.html\">rectificare</a>, ca să nu apară în faza de aviz, când timpul e cel mai scump.</p><p>Dacă terenul urmează să fie vândut doar parțial, facem și <a href=\"/teren-agricol/dezmembrare-teren-agricol.html\">dezmembrarea</a> înainte de depunerea ofertei: se depune ofertă pentru imobilul care se vinde, nu pentru trupul întreg.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Am nevoie de aviz dacă vând unei rude de gradul I?", "a": "Procedura de preempțiune și avizul se aplică vânzărilor de teren agricol extravilan. Ruda de gradul I este preemptor de rang I, dar asta nu înlătură etapele: se depune oferta, ruda acceptă, se obține avizul, apoi se autentifică. Notarul îți va confirma încadrarea exactă în cazul concret." },
+        { "q": "Terenul e sub un hectar. Tot trebuie aviz?", "a": "Da. Legea nu prevede o suprafață minimă sub care procedura să nu se aplice; suprafața determină doar cine emite avizul — direcția județeană până la 30 ha, ministerul peste." },
+        { "q": "Avizul are termen de valabilitate?", "a": "Da, avizul se folosește pentru încheierea contractului în forma și condițiile pentru care a fost emis. Dacă se schimbă cumpărătorul, prețul sau obiectul vânzării, dosarul trebuie refăcut. Programează notariatul imediat după obținerea avizului." },
+        { "q": "Cine depune dosarul de aviz, vânzătorul sau cumpărătorul?", "a": "De regulă vânzătorul, uneori prin notarul instrumentator, dar cumpărătorul trebuie să pună la dispoziție documentele care îl privesc. Practic, cei doi lucrează împreună; noi intervenim doar pe partea de documente tehnice ale terenului." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Datele terenului nu se potrivesc între acte?",
+      "text": "Trimite-ne pe WhatsApp extrasul de carte funciară și titlul de proprietate — îți spunem în aceeași zi ce nu se potrivește și cum se repară înainte de dosarul de aviz."
+    }
+  ],
+  "related": [
+    "vanzare-teren-agricol-extravilan-pasi",
+    "legea-17-2014-preemptiune-explicata",
+    "oferta-vanzare-primarie-teren-agricol",
+    "impozit-vanzare-teren-agricol-sub-8-ani",
+    "cumparare-teren-agricol-verificari",
+    "dezmembrare-teren-agricol",
+    "/servicii/cadastru-si-intabulare/",
+    "/servicii/actualizare-carte-funciara/",
+    "/dictionar/legea-17-2014.html",
+    "/dictionar/categorie-de-folosinta.html",
+    "/dictionar/rectificare-de-carte-funciara.html"
+  ],
+  "sources": [
+    "https://www.madr.ro/terenuri-agricole/legislatie/1-lege-nr-17-din-7-martie-2014.html",
+    "https://legislatie.just.ro/Public/DetaliiDocument/228844",
+    "https://legislatie.just.ro/Public/DetaliiDocumentAfis/229148"
+  ]
+}

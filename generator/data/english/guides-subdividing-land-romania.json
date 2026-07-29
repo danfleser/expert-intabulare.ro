@@ -1,0 +1,98 @@
+{
+  "path": "/en/guides/subdividing-land-romania.html",
+  "title": "Subdividing Land in Romania — Dezmembrare for Owners and Developers",
+  "metaDescription": "How land subdivision (dezmembrare) works in Romania: the cadastral lot documentation, OCPI approval, the notarial deed, urbanism-certificate conditions, and how developers plan plot splits that actually sell.",
+  "h1": "Subdividing Land in Romania: How Dezmembrare Really Works",
+  "roPair": "https://expert-intabulare.ro/ghid/dezmembrare-teren-pasi.html",
+  "whatsappPrefillEn": "Hello! I want to subdivide a plot of land in Romania and need the cadastral documentation.",
+  "footer": false,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "What subdivision means in the Romanian system",
+      "html": "<p>Subdivision — in Romanian legal language <strong>dezmembrare</strong> or <em>dezlipire</em> — is the operation that splits one registered property into two or more lots, each receiving its own cadastral number and its own <a href=\"/en/guides/romanian-land-registry-explained.html\">land book</a>. Until that happens, you cannot legally sell \"the back half\" of a plot, give a child a building parcel, separate a house lot from farmland, or deliver individual plots to buyers in a development: Romanian law transacts whole registered properties, not sketches of parts.</p><p>Two facts shape every subdivision project. First, <strong>only registered land can be subdivided</strong> — if the plot has no land book, a <a href=\"/en/services/cadastral-registration.html\">first registration</a> comes first (the two can be prepared in a coordinated way to avoid paying for duplicate fieldwork). Second, subdivision is not merely a technical act: it completes only with an <strong>authentic deed signed before a notary</strong>, and inside built-up areas (intravilan) it generally requires an <strong>urbanism certificate</strong> whose conditions can dictate the entire lot design.</p>"
+    },
+    {
+      "type": "process",
+      "heading": "The path from one plot to several land books",
+      "steps": [
+        {
+          "title": "Verify the starting situation",
+          "text": "We confirm on a fresh land registry extract that the property is registered and check Part III for blocking burdens — a mortgage, for instance, requires the bank's consent to subdivide. Co-owned land needs all co-owners on board from the start."
+        },
+        {
+          "title": "Obtain the urbanism certificate where required",
+          "text": "For intravilan subdivisions the town hall issues an urbanism certificate for dezmembrare, which may impose minimum lot areas, minimum street frontage, and road access for every lot. We design the lots only after these conditions are known — the reverse order means redone work."
+        },
+        {
+          "title": "Measure and design the lots",
+          "text": "Fieldwork establishes the real geometry; then the split is designed to satisfy both your intent and the planning conditions. This is the stage where experience pays: lot lines that ignore access, utilities or slope produce parcels that are legal but unsellable."
+        },
+        {
+          "title": "OCPI reception of the subdivision documentation",
+          "text": "The cadastral documentation for the proposed lots is filed with OCPI, the county cadastre office, which verifies and receives it, assigning cadastral numbers to the future lots."
+        },
+        {
+          "title": "The notarial deed and new land books",
+          "text": "The owners sign the subdivision deed before a notary, and OCPI opens a separate land book per lot. Only now do the lots exist as independent legal objects that can be sold, mortgaged or built on individually."
+        }
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "For developers: designing splits that survive contact with buyers",
+      "html": "<p>Small developers — including foreign investors parcelling land for houses or preparing a <a href=\"/en/solar/land-surveying-pv-projects-transylvania.html\">solar project</a> footprint — should treat lot design as a product decision, not paperwork. The recurring failure modes: lots that meet minimum area but lack utility corridors; a private access road left as an afterthought with no legal status, poisoning every later sale; phasing that requires re-subdividing already-sold frontage; and ignoring that each subdivision round costs an urbanism certificate, documentation, OCPI terms and notarial fees — so a split designed twice costs roughly twice.</p><p>The efficient pattern is one thorough measurement, a lot plan tested against the urbanism conditions and the sales plan together, and a single subdivision act creating all lots plus the access road as its own parcel. We prepare exactly this package and coordinate with your notary; the whole process runs fine for owners abroad under a <a href=\"/en/guides/power-of-attorney-property-romania.html\">power of attorney</a>. The mirror operation — merging adjacent plots into one (<em>alipire</em>) — follows the same logic and is often the smarter first move before re-splitting inherited fragments; both are covered by our <a href=\"/en/services/boundary-survey-land-division.html\">land division service</a>.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Frequently asked questions",
+      "items": [
+        {
+          "q": "How long does a subdivision take end to end?",
+          "a": "With an urbanism certificate and notary involved, plan four to eight weeks for a straightforward case: certificate issuance, fieldwork and design, OCPI reception terms, then the notarial signing and registration of the new land books. See our timeline guide for what drives the calendar."
+        },
+        {
+          "q": "Is there a minimum lot size in Romania?",
+          "a": "There is no single national figure for intravilan lots — minimums come from the local urbanism regulations, applied through your urbanism certificate, which is why we obtain it before designing anything. Extravilan agricultural land follows different rules, and subdividing farmland has its own constraints."
+        },
+        {
+          "q": "Can I subdivide land I co-own with siblings?",
+          "a": "Yes — this is one of the most common cases after an inheritance — but every co-owner must sign the notarial deed, personally or by proxy. Subdivision is also how co-ownership is often ended: the plot is split into lots matching the shares, each heir taking sole ownership of one. We design equitable splits, including value-balancing where lot qualities differ."
+        },
+        {
+          "q": "What does subdivision cost?",
+          "a": "Three buckets: our documentation fee (scales with lot count and terrain), state tariffs at OCPI, and notarial fees for the deed. Ask with the land book number and your intended split and we quote the technical part precisely; the notary quotes theirs from the property value."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislatie.just.ro/Public/DetaliiDocument/29453",
+      "title": "Legea nr. 350/2001 privind amenajarea teritoriului și urbanismul — art. 47: PUZ obligatoriu pentru parcelarea terenurilor în mai mult de 3 loturi"
+    },
+    {
+      "url": "https://velicu.eu/parcelarea-dezmembrare-dezilipire-impartire-imobile-urbanism/",
+      "title": "Parcelare vs. dezmembrare — regula celor 3 loturi din Legea 350/2001 și certificatul de urbanism pentru dezmembrare în intravilan"
+    },
+    {
+      "url": "https://notari.pro/contract/dezmembrare-dezlipire-imobil",
+      "title": "Actul de dezmembrare/dezlipire se încheie în formă autentică la notar; loturile primesc numere cadastrale și cărți funciare proprii"
+    },
+    {
+      "url": "https://www.ancpi.ro/ocpi/gl/ordinul-600-2023-pentru-aprobarea-regulamentului-de-receptie-si-inscriere-in-evidentele-de-cadastru-si-carte-funciara/",
+      "title": "Ordinul ANCPI nr. 600/2023 — recepția documentației cadastrale de dezlipire și deschiderea cărților funciare individuale"
+    },
+    {
+      "url": "https://bv.ancpi.ro/extrase-de-informare/",
+      "title": "OCPI Brașov (ANCPI) — extrasul de carte funciară pentru informare ca verificare prealabilă a sarcinilor (Partea III) înainte de dezmembrare"
+    }
+  ],
+  "related": [
+    "/en/services/boundary-survey-land-division.html",
+    "/en/guides/unregistered-inherited-property-romania.html",
+    "/en/guides/buying-land-in-romania.html",
+    "/en/guides/land-registration-timeline-romania.html",
+    "/en/guides/topographic-plan-building-permit-romania.html"
+  ]
+}

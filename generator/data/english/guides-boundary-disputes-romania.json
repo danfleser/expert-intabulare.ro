@@ -1,0 +1,77 @@
+{
+  "path": "/en/guides/boundary-disputes-romania.html",
+  "title": "Boundary Disputes in Romania — How They Are Measured and Resolved",
+  "metaDescription": "Boundary dispute over Romanian property? How grănițuire (judicial boundary-setting) works, what a surveyor's measurement proves, court-appointed experts, and the cheaper paths that avoid court.",
+  "h1": "Boundary Disputes in Romania: What Decides Them, and How to Avoid Court",
+  "roPair": null,
+  "whatsappPrefillEn": "Hello! I have a boundary question about a property in Romania and would like a surveyor's assessment.",
+  "footer": false,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "The anatomy of a Romanian boundary dispute",
+      "html": "<p>Boundary conflicts in Romania have a recurring cast: a fence rebuilt \"more or less where the old one was\"; a neighbour ploughing a strip further each year on unfenced field land; two registrations that overlap on paper because they were measured decades apart with different instruments; or an inherited plot whose limits nobody alive has ever walked. For owners abroad the problem is worse — encroachment happens quietly, and by the time you visit, the new fence looks established.</p><p>The legal framework is straightforward in principle. Romanian civil law gives every owner the right to compel a <strong>boundary demarcation (grănițuire)</strong> — the fixing of the true limit between neighbouring properties — and the cost of demarcation is shared. What decides the outcome is almost never rhetoric; it is <strong>measurement against the registered coordinates</strong>. If your land is registered in the <a href=\"/en/guides/romanian-land-registry-explained.html\">land book</a> with modern coordinates, the boundary is a set of points in the national Stereo 70 coordinate system, and a surveyor can put those points back on the ground with centimetre-level precision — fence or no fence.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Step one is always the same: measure before you argue",
+      "html": "<p>Before lawyers, before angry letters, commission a measurement. We compare three things: the registered geometry from the cadastral records, the position of the physical occupation (fences, hedges, ploughing limits, buildings), and the neighbouring registrations. The result is a documented answer to the only question that matters: <em>who is where they should be?</em></p><ul><li>If the measurement shows the neighbour has encroached, you have evidence — a survey plan showing registered limit versus actual occupation, signed by an authorized surveyor. Most disputes end here: shown a professional measurement, most neighbours move the fence rather than fund a losing lawsuit.</li><li>If it shows the fence is actually right and the registered geometry is off — which happens, especially with older registrations carrying generous tolerances — you have saved yourself a lawsuit you would have lost, and the fix is a cadastral correction, not a fight.</li><li>If it reveals an <strong>overlap between two registrations</strong> (suprapunere), the problem is with the records, not the neighbours, and there is an administrative repair path through OCPI, the county land registration office, before anyone needs a courtroom.</li></ul><p>A useful preventive habit: whenever you take possession of Romanian land, have the boundary <a href=\"/en/services/building-stakeout.html\">staked out from registered coordinates</a> and photograph the marked points. It costs a fraction of any dispute and converts every future argument into a five-minute verification.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "If it does go to court: the judicial expertise",
+      "html": "<p>When negotiation fails, the demarcation claim (acțiune în grănițuire) goes before the local court (judecătorie). Romanian courts do not weigh boundary evidence themselves — they appoint a <strong>judicial expert (expert judiciar topograf)</strong>, a court-listed surveyor who measures the properties, reconstructs the boundary from titles and registrations, and files an expert report the judgment almost always follows. Each party may also retain a consulting expert to accompany the official one and challenge the methodology — a right worth exercising.</p><p>Be realistic about the economics before filing: a contested boundary case commonly runs one to three years through expertise rounds and possible appeal, over strips of land sometimes worth less than the litigation. That is why the sequence matters — measurement first, negotiation from evidence second, OCPI administrative correction where the records are at fault, and court as the last resort. Our role sits in the technical lane throughout: the initial measurement, the documentation your lawyer builds on, and consulting-expert work during a judicial expertise. The legal strategy belongs to your Romanian lawyer, with whom we coordinate directly.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Frequently asked questions",
+      "items": [
+        {
+          "q": "My land is not registered — can I still stop an encroaching neighbour?",
+          "a": "It is much harder, because there are no registered coordinates to measure against; the dispute becomes one of old documents, witnesses and possession. The practical answer is usually to first-register the land, which forces the boundary question to be settled during the registration process, with neighbours notified. Unregistered land is undefended land."
+        },
+        {
+          "q": "I live abroad. Can this be handled without me travelling?",
+          "a": "Yes. The measurement, the documentation, and coordination with your lawyer all proceed without your presence; findings arrive by WhatsApp and email in English. If a court case requires representation, that is done through a power of attorney — see our guide on the subject."
+        },
+        {
+          "q": "The neighbour's building sits partly on my land. What are my options?",
+          "a": "This is the hardest variant, because demolition is rarely granted for minor encroachments; outcomes range from the neighbour buying the occupied strip to compensation arrangements. The measurement still comes first — it establishes exactly how many square metres are affected, which drives every negotiation that follows. Bring a lawyer in early for this one."
+        },
+        {
+          "q": "What does the initial measurement cost?",
+          "a": "A boundary verification on a typical parcel is a fixed-scope field job — ask us with the land book number and location and we will quote before any commitment. It is invariably the cheapest step in the entire dispute."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.codulcivil.ro/art-560-obligatia-de-granituire/",
+      "title": "Cod civil art. 560 — obligația de grănițuire: proprietarii vecini sunt obligați să contribuie la reconstituirea hotarului și la fixarea semnelor corespunzătoare, suportând cheltuielile în mod egal"
+    },
+    {
+      "url": "https://lege5.ro/gratuit/gi2tsmbqhe/art-560-obligatia-de-granituire-codul-civil",
+      "title": "Lege5 — art. 560 Cod civil, text actualizat 2026 (cheltuieli suportate în mod egal; părțile pot deroga prin convenție)"
+    },
+    {
+      "url": "https://e-juridic.manager.ro/articole/granituirea-cum-aplica-instanta-prevederilor-codurilor-civile-27648.html",
+      "title": "Grănițuirea — cum aplică instanța prevederile Codului civil: acțiunea se judecă la judecătorie pe baza expertizei tehnice judiciare topografice"
+    },
+    {
+      "url": "https://velicu.eu/actiunea-in-granituire-codul-civil/",
+      "title": "Acțiunea în grănițuire — competența judecătoriei, rolul expertului judiciar topograf, posibilitatea părților de a desemna expert consilier"
+    },
+    {
+      "url": "https://www.ancpi.ro/ocpi/gl/ordinul-600-2023-pentru-aprobarea-regulamentului-de-receptie-si-inscriere-in-evidentele-de-cadastru-si-carte-funciara/",
+      "title": "Ordinul ANCPI nr. 600/2023 — calea administrativă la OCPI pentru rezolvarea suprapunerilor cadastrale, anterior instanței"
+    }
+  ],
+  "related": [
+    "/en/services/building-stakeout.html",
+    "/en/services/boundary-survey-land-division.html",
+    "/en/guides/romanian-land-registry-explained.html",
+    "/en/guides/power-of-attorney-property-romania.html",
+    "/en/solar/land-due-diligence-survey-romania.html"
+  ]
+}

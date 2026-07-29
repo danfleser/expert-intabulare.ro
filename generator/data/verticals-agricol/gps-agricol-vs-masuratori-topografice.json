@@ -1,0 +1,93 @@
+{
+  "slug": "gps-agricol-vs-masuratori-topografice",
+  "title": "GPS-ul de tractor vs. măsurătoarea topografică: ce diferență e, de fapt | Expert Intabulare",
+  "h1": "De ce GPS-ul agricol nu ține loc de măsurătoare topografică",
+  "metaDescription": "Precizia GPS-ului de tractor și a aplicațiilor de telefon față de măsurătoarea GNSS-RTK a unui topograf autorizat: unde e diferența și când contează cu adevărat.",
+  "whatsappTopic": "o suprafață măsurată cu GPS pe care vreau să o verific",
+  "hook": "none",
+  "trustBar": true,
+  "group": "APIA și subvenții",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Două aparate care par la fel și nu sunt",
+      "html": "<p>Aproape orice fermier are azi în tractor un sistem de ghidare prin satelit și, în telefon, o aplicație care măsoară suprafețe. Amândouă spun „GPS”, amândouă afișează hectare, iar cifrele lor sunt de multe ori surprinzător de aproape de realitate. De aici întrebarea firească: dacă știu deja câte hectare are parcela, de ce mai plătesc un topograf?</p><p>Răspunsul nu ține de aparat, ci de trei lucruri pe care aparatul din tractor nu le are: <strong>sistemul de referință</strong>, <strong>precizia garantată</strong> și <strong>răspunderea</strong>. O măsurătoare topografică nu produce doar o cifră — produce puncte cu coordonate într-un sistem oficial, verificabile de oricine, semnate de o persoană autorizată ANCPI care răspunde pentru ele.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Comparație onestă",
+      "head": ["Criteriu", "GPS agricol / aplicație de telefon", "Măsurătoare GNSS-RTK topografică"],
+      "rows": [
+        ["Precizie tipică pe punct", "De la câțiva metri (telefon) la sub-metru (sisteme de ghidare bune)", "Ordinul centimetrilor, prin corecții în timp real"],
+        ["Sistem de coordonate", "WGS84 / coordonate geografice, afișate pe hartă", "Stereografic 1970, sistemul oficial pentru cadastru în România"],
+        ["Ce măsoară", "Traseul mașinii sau conturul mers pe jos, aproximativ pe margine", "Punctele de hotar reale, materializate și verificate"],
+        ["Valoare în acte", "Orientativă; nu se depune nicăieri", "Se recepționează la OCPI, se folosește în instanță, la notar, la APIA"],
+        ["Cine răspunde", "Nimeni", "Persoana autorizată ANCPI care semnează documentația"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "De unde vin diferențele de suprafață",
+      "html": "<p>Când comparăm o suprafață măsurată cu telefonul cu una măsurată topografic, diferența vine rar din aparat și aproape întotdeauna din <strong>ce s-a măsurat</strong>. Conturul mers pe jos urmărește marginea lucrată, nu limita de proprietate — între ele stau, de regulă, o jumătate de metru până la doi metri de margine nearată, plus șanțul. Pe o parcelă lungă și îngustă, tipică pentru tarlalele noastre, doi metri pe o latură de 800 m înseamnă 16 ari.</p><p>A doua sursă este <strong>închiderea poligonului</strong>: aplicațiile de telefon înregistrează un traseu, nu vârfuri, iar zig-zagul mersului umflă sau taie suprafața. A treia, cea mai serioasă, este <strong>lipsa reperelor</strong>: o suprafață corectă măsurată în locul greșit rămâne o suprafață greșită, iar în tarlalele fără <a href=\"/dictionar/plan-parcelar.html\">plan parcelar</a> aprobat, localizarea este exact partea grea.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Când GPS-ul din tractor e suficient",
+      "items": [
+        "Îți faci o idee despre cât ai de semănat și de cât input ai nevoie.",
+        "Compari orientativ suprafața lucrată cu cea plătită prin contractul de arendă.",
+        "Verifici rapid dacă o parcelă e cam cât scrie în titlu, înainte de a chema pe cineva.",
+        "Îți planifici lucrările și treci pe hartă zonele problemă din tarla."
+      ]
+    },
+    {
+      "type": "checklist",
+      "heading": "Când ai nevoie de topograf autorizat",
+      "items": [
+        "Documentație cadastrală: primă înscriere, dezmembrare, alipire, actualizare de suprafață.",
+        "Vânzare la notar sau garantarea unui credit — nimeni nu semnează pe o suprafață din aplicație.",
+        "Conflict de hotar cu vecinul sau grănițuire.",
+        "Suprapuneri la APIA care cer un plan cu coordonate depus la dosar.",
+        "Trasarea limitelor înainte de gard, de plantație sau de o investiție.",
+        "Orice documentație care ajunge la o instituție: primărie, direcție agricolă, OCPI, instanță."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Cum arată, practic, o măsurătoare corectă",
+      "html": "<p>Lucrăm cu receptoare <a href=\"/dictionar/gps-rtk.html\">GNSS-RTK</a> care primesc corecții în timp real, ceea ce ne dă precizie centimetrică pe fiecare punct măsurat. Mergem pe conturul parcelei împreună cu tine sau cu cel care o lucrează și măsurăm <strong>punctele de hotar</strong>: colțuri, borne, capete de brazdă, țăruși vechi, colțuri de gard. Acolo unde hotarul nu se vede, îl reconstituim din planul parcelar, din titlurile vecinilor și din <a href=\"/dictionar/ortofotoplan.html\">ortofotoplan</a>, apoi îl materializăm.</p><p>Rezultatul este un inventar de coordonate în <a href=\"/dictionar/stereografic-1970-stereo-70.html\">Stereo 70</a> și un plan de situație — documente pe care le poți duce la OCPI, la notar, la APIA sau în instanță. Și, spre deosebire de o captură de ecran, oricine le poate verifica peste zece ani, cu orice aparat.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Aplicația îmi arată 2,10 ha, în titlu scrie 2,00 ha. Cine are dreptate?", "a": "Cel mai probabil niciunul exact. Titlul vine dintr-un calcul vechi la nivel de tarla, iar aplicația măsoară marginea lucrată, nu limita de proprietate. Doar o măsurătoare pe punctele de hotar spune care e suprafața reală a proprietății tale." },
+        { "q": "Pot depune la OCPI o măsurătoare făcută de mine?", "a": "Nu. Documentațiile cadastrale se întocmesc și se semnează exclusiv de persoane fizice sau juridice autorizate ANCPI, iar recepția se face la OCPI pe baza acestor documentații. Măsurătoarea proprie rămâne o informație internă, utilă, dar fără valoare în acte." },
+        { "q": "Sistemul de ghidare al tractorului meu are RTK. Nu e același lucru?", "a": "Tehnologia este înrudită, dar scopul diferă: ghidarea urmărește traiectoria mașinii pe rânduri, nu identifică și nu materializează puncte de hotar, iar rezultatul nu se transformă în coordonate Stereo 70 verificate și asumate de o persoană autorizată." },
+        { "q": "Cât costă o măsurătoare topografică pe o parcelă agricolă?", "a": "Orientativ, pornește de la câteva sute de lei pentru o parcelă obișnuită de extravilan, iar la mai multe parcele în aceeași tarla costul unitar scade pentru că deplasarea se împarte. Cere o ofertă cu lista parcelelor și comuna." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Vrei suprafețele reale, nu estimări?",
+      "text": "Trimite-ne pe WhatsApp lista parcelelor și comuna — venim, măsurăm punctele de hotar și îți dăm planul cu suprafețele pe care le poți folosi oriunde."
+    }
+  ],
+  "related": [
+    "masuratori-teren-apia",
+    "bloc-fizic-apia-ce-este",
+    "identificare-parcela-tarla",
+    "imprejmuire-teren-agricol-trasare",
+    "vecinul-a-mutat-hotarul",
+    "/servicii/plan-topografic/",
+    "/servicii/trasare-teren/",
+    "/dictionar/gps-rtk.html",
+    "/dictionar/stereografic-1970-stereo-70.html",
+    "/dictionar/masuratori-topografice.html"
+  ],
+  "sources": [
+    "https://www.ancpi.ro/wp-content/uploads/2023/01/Lege-7-1996r3.pdf",
+    "https://legislatie.just.ro/Public/DetaliiDocument/112084",
+    "https://apia.org.ro/wp-content/uploads/2026/02/Ghid-Informativ-LPIS-editia-I-revizia-1_2026.pdf"
+  ]
+}

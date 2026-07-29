@@ -1,0 +1,110 @@
+{
+  "slug": "cum-verifici-daca-terenul-e-intabulat",
+  "title": "Cum verifici dacă terenul e intabulat — ghid pas cu pas",
+  "h1": "Cum verificați dacă un teren este intabulat (2026)",
+  "metaDescription": "Trei metode sigure de a verifica dacă un teren are cadastru și carte funciară: geoportalul ANCPI, extrasul de informare și registrul agricol. Ce înseamnă fiecare rezultat.",
+  "whatsappTopic": "verificarea dacă un teren este intabulat",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Ce înseamnă, de fapt, „intabulat”",
+      "text": "În limbajul curent, „terenul e intabulat” înseamnă că imobilul are număr cadastral și carte funciară deschisă, iar dreptul de proprietate al deținătorului este înscris în ea. În limbaj tehnic sunt două lucruri: cadastrul, adică documentația tehnică prin care imobilul primește număr cadastral și geometrie, și intabularea, adică înscrierea dreptului în cartea funciară. Diferența contează, pentru că există situații în care imobilul are număr cadastral și carte funciară, dar proprietarul actual nu este încă înscris — de exemplu la un teren moștenit fără succesiune finalizată.\n\nDe aceea verificarea nu se rezumă la „apare sau nu apare pe hartă”. Un teren poate apărea pe geoportal și totuși să nu fie al persoanei care vi-l vinde. Ghidul de față vă arată cele trei verificări care, împreună, vă dau răspunsul complet, în ordinea de la cel mai rapid la cel mai sigur.\n\nDacă vreți doar să înțelegeți diferența dintre cei doi termeni, avem un ghid dedicat diferenței dintre cadastru și intabulare."
+    },
+    {
+      "type": "process",
+      "heading": "Verificarea în trei pași",
+      "steps": [
+        {
+          "title": "Pasul 1 — geoportalul ANCPI, gratuit și rapid",
+          "text": "Deschideți aplicația de vizualizare a imobilelor de pe geoportalul ANCPI, alegeți județul și unitatea administrativ-teritorială, apoi căutați numărul cadastral dacă îl aveți, ori navigați pe ortofotoplan până la parcelă. Imobilele înregistrate apar conturate, cu numărul cadastral și suprafața din evidență. Dacă zona din jurul parcelei este plină de contururi, iar parcela dumneavoastră este o „gaură” albă, e un indiciu puternic că imobilul nu este înregistrat. Atenție: pozițiile de pe geoportal sunt orientative — arată forma și amplasarea aproximativă, nu limita exactă din teren."
+        },
+        {
+          "title": "Pasul 2 — extrasul de carte funciară pentru informare",
+          "text": "Este dovada, nu indiciul. Dacă imobilul are carte funciară, extrasul vă arată cine este înscris ca proprietar, în ce cotă, ce suprafață figurează și ce sarcini există. Proprietarii îl pot obține online, prin platforma ANCPI destinată lor, cu autentificare electronică; altfel se solicită la ghișeu, contra tarif. Dacă la numărul cadastral indicat nu există carte funciară, primiți exact acest răspuns — și el este informația care vă trebuie."
+        },
+        {
+          "title": "Pasul 3 — primăria: registrul agricol și rolul fiscal",
+          "text": "Pentru terenurile care nu apar în evidența cadastrală, primăria este locul unde există totuși urme: registrul agricol, rolul fiscal, titlul de proprietate emis în baza legilor fondului funciar, procesul-verbal de punere în posesie. Aceste documente nu înlocuiesc cartea funciară și nu dovedesc singure proprietatea în sensul cărții funciare, dar arată ce deține persoana respectivă în evidența locală și sunt punctul de pornire al unei prime înregistrări."
+        },
+        {
+          "title": "Pasul 4 — verificarea la teren, când miza e mare",
+          "text": "La cumpărare, mai ales de teren agricol identificat pe tarla și parcelă, verificarea pe hârtie nu este suficientă. O trasare a limitelor vă arată dacă parcela pe care ați văzut-o corespunde cu cea din acte. Este singura metodă care leagă documentul de bucata reală de pământ."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Ce înseamnă fiecare rezultat",
+      "head": ["Ce găsiți", "Ce înseamnă", "Ce faceți mai departe"],
+      "rows": [
+        ["Apare pe geoportal + extras cu proprietarul corect", "imobil intabulat, situație curată", "verificați sarcinile din foaia C"],
+        ["Apare pe geoportal, dar proprietarul din extras e altcineva", "cadastru făcut, drept neînscris pe deținătorul actual", "succesiune, act de transfer sau rectificare"],
+        ["Apare pe geoportal, dar fără carte funciară activă", "posibil imobil în lucru sau eroare de evidență", "clarificare la BCPI competent"],
+        ["Nu apare deloc pe geoportal", "cel mai probabil neintabulat", "prima înregistrare"],
+        ["Are titlu de proprietate, dar nicio urmă la OCPI", "situație tipică pentru terenuri din fond funciar", "primă înregistrare pe baza titlului"],
+        ["Apare cu suprafață diferită de acte", "discrepanță de evidență", "actualizare sau rectificare de suprafață"],
+        ["Apare suprapus peste parcela vecină", "suprapunere cadastrală", "documentație de repoziționare sau rectificare"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Capcanele verificării rapide",
+      "text": "Prima capcană: absența de pe geoportal nu este dovadă absolută. Există cărți funciare vechi, deschise înainte de conversia electronică, care nu au corespondent grafic pe hartă. În Transilvania, unde sistemul de carte funciară funcționează de peste un secol, această situație este mai frecventă decât în restul țării. Un imobil cu carte funciară veche este înscris juridic, chiar dacă nu se vede pe ortofotoplan.\n\nA doua capcană: prezența pe geoportal nu garantează că geometria este corectă. O parcelă poate fi înregistrată cu poziție greșită față de realitate — situație care se rezolvă printr-o repoziționare, nu printr-o simplă corectură de hartă.\n\nA treia capcană, cea mai costisitoare: prezența în evidență nu spune nimic despre sarcini. Un teren perfect intabulat poate avea ipotecă, sechestru, interdicție de înstrăinare sau notare de litigiu. Toate acestea sunt în foaia C a cărții funciare, vizibilă doar în extras. Nimeni nu cumpără pe baza unei capturi de ecran de pe geoportal.\n\nA patra: înregistrarea sistematică. În localitățile în care s-au derulat lucrări prin programul național, multe imobile au fost înregistrate din oficiu, iar numerele de carte funciară s-au schimbat. Dacă aveți un extras vechi de câțiva ani și numărul nu mai corespunde, cel mai probabil terenul a intrat în sistematic, nu a dispărut."
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        {
+          "q": "Am titlu de proprietate din 1991. Înseamnă că terenul e intabulat?",
+          "a": "Nu. Titlul de proprietate emis în baza legilor fondului funciar dovedește dreptul, dar nu îl înscrie în cartea funciară. Foarte multe terenuri au titlu și nu au cadastru. Pentru a le putea vinde, ipoteca sau folosi ca garanție, este necesară prima înregistrare, pe baza titlului. Am scris un ghid despre pașii intabulării unui teren."
+        },
+        {
+          "q": "Cum verific fără să știu numărul cadastral?",
+          "a": "Pe geoportal navigați vizual: alegeți județul și localitatea, apoi identificați parcela pe ortofotoplan după repere — drum, casă, formă. Dacă imobilul este înregistrat, la clic pe contur apare numărul cadastral. Avem un ghid separat despre cum aflați numărul cadastral, cu toate căile posibile."
+        },
+        {
+          "q": "Vânzătorul îmi spune că e intabulat, dar nu îmi dă extras. E normal?",
+          "a": "Nu. Extrasul de informare este ieftin, se obține repede și nu conține informații pe care un vânzător de bună-credință să aibă motiv să le ascundă. Refuzul de a-l prezenta este, în practică, cel mai clar semnal de alarmă dintr-o tranzacție imobiliară. La semnarea actului, notarul va cere oricum extrasul pentru autentificare — deci problema iese la iveală, doar mai târziu și mai scump."
+        },
+        {
+          "q": "Terenul apare pe hartă cu alt nume decât al meu. Ce fac?",
+          "a": "Depinde de cauză: succesiune nefinalizată, un act de vânzare neînscris, o eroare de evidență sau — mai rar — o înscriere greșită pe altă persoană. Fiecare are altă soluție. Am scris un ghid despre situația în care terenul apare pe alt proprietar; primul pas este întotdeauna extrasul de carte funciară, ca să vedem în baza cărui act s-a făcut înscrierea."
+        },
+        {
+          "q": "Verificarea pe geoportal costă ceva?",
+          "a": "Nu, vizualizarea imobilelor pe geoportalul ANCPI este gratuită și nu necesită cont. Ce este tarifat este extrasul de carte funciară cerut de o persoană care nu este proprietar. Proprietarii au acces la extrase de informare pentru propriile imobile prin platforma dedicată, cu autentificare electronică."
+        },
+        {
+          "q": "În satul nostru se face cadastru gratuit. Merită să aștept?",
+          "a": "Depinde de calendar și de urgența dumneavoastră. Programul național a depășit în 2026 pragul de 72% din imobilele din țară și este activ în majoritatea unităților administrativ-teritoriale, dar avansează pe sectoare cadastrale, nu pe toată comuna deodată. Dacă aveți o vânzare, un credit sau o succesiune cu termen, așteptarea nu este o opțiune realistă. Am scris un ghid despre cadastrul gratuit prin programul național."
+        },
+        {
+          "q": "Pot verifica eu, sau am nevoie de un specialist?",
+          "a": "Primele două verificări le puteți face singur, în câteva minute. Interpretarea rezultatului este partea în care greșesc cei mai mulți: ce înseamnă o suprapunere, de ce suprafața diferă, dacă o notare din foaia C blochează sau nu vânzarea. Trimiteți-ne extrasul pe WhatsApp și vă spunem ce citim în el, fără costuri."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Verificarea înainte de a cumpăra: ordinea corectă",
+      "text": "Dacă sunteți cumpărător, ordinea care vă protejează cel mai bine este aceasta. Întâi cereți vânzătorului numărul cadastral și verificați parcela pe geoportal — vă face o idee despre formă, suprafață și vecinătăți. Apoi obțineți extras de carte funciară pentru informare, proaspăt, și citiți-l pe cele trei foi: A pentru descrierea imobilului, B pentru proprietari, C pentru sarcini. Apoi mergeți la teren cu extrasul în mână și comparați ce vedeți cu ce scrie — acces la drum, suprafață plauzibilă, construcții existente înscrise sau nu.\n\nDacă mizele sunt mari sau terenul este agricol identificat pe tarla și parcelă, adăugați o trasare a limitelor înainte de a semna antecontractul. Costul ei este mic în raport cu riscul de a cumpăra altă parcelă decât cea văzută.\n\nÎn final, semnarea la notar aduce protecția maximă: extrasul pentru autentificare blochează cartea funciară până la semnare, astfel încât nimeni nu poate înscrie o sarcină între verificarea dumneavoastră și actul propriu-zis. Informațiile din acest ghid au caracter informativ și nu constituie consultanță juridică."
+    },
+    {
+      "type": "cta",
+      "heading": "Vă verificăm noi terenul, gratuit, în aceeași zi",
+      "text": "Trimiteți pe WhatsApp localitatea și, dacă îl aveți, numărul cadastral sau o poză a actului de proprietate. Vă spunem dacă imobilul figurează în evidența cadastrală, ce arată extrasul și de ce documentație aveți nevoie mai departe. Fără obligații."
+    }
+  ],
+  "related": {
+    "services": ["cadastru-si-intabulare", "intabulare-teren", "servicii-ocpi"],
+    "guides": ["numar-cadastral-cum-il-afli", "cum-citesti-un-extras-de-carte-funciara", "extras-carte-funciara-online", "diferenta-dintre-cadastru-si-intabulare", "cadastru-gratuit-pnccf", "acte-necesare-intabulare-teren"]
+  },
+  "sources": [
+    "http://geoportal.ancpi.ro/imobile.html",
+    "https://hartilidar.eu/ghid-identificare-parcele-patrimoniu-2026",
+    "https://www.juridice.ro/837904/in-2026-peste-750-000-de-proprietati-imobiliare-au-fost-inregistrate-gratuit-in-sistemul-integrat-de-cadastru-si-carte-funciara.html",
+    "https://extrasul.ro/carte-funciara/extras-carte-funciara-gratuit-myeterra",
+    "https://www.ancpi.ro/en/pnccf-info/"
+  ]
+}

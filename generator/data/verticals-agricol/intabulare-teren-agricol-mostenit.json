@@ -1,0 +1,93 @@
+{
+  "slug": "intabulare-teren-agricol-mostenit",
+  "title": "Intabulare teren agricol moștenit: succesiune și cadastru în ordinea corectă | Expert Intabulare",
+  "h1": "Intabularea unui teren agricol moștenit",
+  "metaDescription": "Teren agricol moștenit: ce faci întâi — succesiunea sau cadastrul? Acte necesare, moștenitori multipli, titluri pe numele bunicilor, costuri orientative.",
+  "whatsappTopic": "intabularea unui teren agricol moștenit",
+  "hook": "none",
+  "trustBar": true,
+  "group": "Intabulare și cadastru agricol",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Întrebarea corectă nu e „cât costă”, ci „în ce ordine”",
+      "html": "<p>Cea mai scumpă greșeală la un teren moștenit este ordinea. Oamenii vin la topograf, plătesc o documentație cadastrală, iar apoi află la OCPI că imobilul nu poate fi înscris pentru că titularul din <a href=\"/dictionar/titlu-de-proprietate.html\">titlul de proprietate</a> a decedat în 2004 și nimeni nu a dezbătut moștenirea. Documentația nu se pierde, dar dosarul stă până se rezolvă partea notarială — uneori luni întregi.</p><p>Regula practică pe care o repetăm zilnic: <strong>întâi se lămurește cine este proprietarul în drept, apoi se măsoară</strong>. Există și excepții în care cele două merg în paralel — de exemplu când notarul cere un plan de amplasament pentru a putea individualiza imobilul în <a href=\"/dictionar/certificat-de-mostenitor.html\">certificatul de moștenitor</a> — dar decizia se ia după ce vedem actele, nu înainte.</p>"
+    },
+    {
+      "type": "process",
+      "heading": "Traseul complet, de la titlu la carte funciară",
+      "steps": [
+        "Stabilim cine figurează în acte — Titularul din titlul de proprietate poate fi bunicul, o persoană decedată de zeci de ani, sau chiar „moștenitorii defunctului X”, formulă folosită frecvent în titlurile din anii '90.",
+        "Numărăm succesiunile de făcut — Dacă a murit bunicul, apoi tatăl, sunt două dezbateri succesorale în lanț. Notarul le poate face în același dosar, dar fiecare are actele ei.",
+        "Adunăm actele de stare civilă — Certificate de deces, de naștere, de căsătorie pentru fiecare verigă. Aici se pierde cel mai mult timp, mai ales când moștenitorii sunt plecați din țară.",
+        "Dezbaterea succesorală la notar — Se emite certificatul de moștenitor care arată cotele fiecăruia. Terenul poate rămâne în indiviziune sau se poate ieși din indiviziune prin partaj, cu loturi concrete.",
+        "Identificarea și măsurarea parcelelor — Abia acum lucrarea topografică are un proprietar clar. Identificăm parcelele din titlu în tarla, măsurăm cu GPS RTK și întocmim documentația cadastrală.",
+        "Depunerea la OCPI și înscrierea — Dosarul pleacă electronic prin e-Terra, cu titlul, certificatul de moștenitor și documentația. Rezultatul este încheierea de carte funciară pe numele moștenitorilor."
+      ]
+    },
+    {
+      "type": "checklist",
+      "heading": "Actele pe care ți le va cere notarul și pe care le folosim și noi",
+      "items": [
+        "Titlul de proprietate (original) și, dacă există, procesul-verbal de punere în posesie",
+        "Certificatul de deces al titularului și al fiecărei verigi intermediare decedate",
+        "Certificate de naștere și de căsătorie care dovedesc legătura de rudenie a fiecărui moștenitor",
+        "Actele de identitate ale tuturor moștenitorilor în viață",
+        "Certificat fiscal de la primăria pe raza căreia se află terenul",
+        "Testament, dacă există, sau certificat de moștenitor deja emis pentru o parte din masa succesorală",
+        "Procură notarială pentru moștenitorii care nu se pot prezenta — esențială pentru familiile cu membri în străinătate"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Situațiile complicate pe care le vedem cel mai des",
+      "html": "<p><strong>Titlu emis pe „moștenitorii defunctului”.</strong> Este perfect valabil, dar nu spune cine sunt aceștia — legătura o face certificatul de moștenitor. Fără el, OCPI nu poate ști pe cine să înscrie.</p><p><strong>Moștenitori care nu se înțeleg.</strong> Cadastrul se poate face oricum: imobilul se înscrie pe toți, cu <a href=\"/dictionar/cota-parte.html\">cote-părți</a>. Împărțirea efectivă se face ulterior, prin <a href=\"/teren-agricol/partaj-teren-agricol-mostenitori.html\">partaj voluntar</a> la notar sau, dacă nu există acord, prin instanță.</p><p><strong>Un moștenitor a murit între timp.</strong> Se adaugă încă o succesiune în lanț. E motivul pentru care sfatul „faceți actele cât trăiesc părinții” nu e o vorbă goală: fiecare generație amânată înseamnă mai multe certificate, mai multe semnături și mai mulți bani.</p><p><strong>Parcelele nu se mai găsesc pe teren.</strong> Foarte frecvent la moștenitorii plecați de zeci de ani. Aici intervine <a href=\"/teren-agricol/identificare-parcela-tarla.html\">identificarea parcelei în tarla</a>: plan parcelar, ortofotoplanuri istorice, vecini, imobile deja înscrise.</p><p><strong>Terenul e lucrat de altcineva.</strong> Faptul că un vecin sau un fermier a arat parcela ani la rând nu îi dă drept de proprietate automat, dar poate genera pretenții. Documentăm situația exact așa cum e și îți arătăm opțiunile — inclusiv riscul de <a href=\"/teren-agricol/uzucapiune-teren-agricol.html\">uzucapiune</a> în cazurile vechi.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Cine face ce și cât costă, orientativ",
+      "head": ["Etapa", "Cine o face", "Cost orientativ"],
+      "rows": [
+        ["Dezbaterea succesorală", "Notar public", "Onorariu notarial calculat la valoarea masei succesorale, plus taxe"],
+        ["Duplicat titlu pierdut", "Comisia județeană / prefectură", "Anunț în Monitorul Oficial partea a III-a + taxe reduse"],
+        ["Identificare și măsurători", "Topograf autorizat ANCPI", "De la câteva sute de lei pe parcelă; scade la lucrări grupate"],
+        ["Recepție și înscriere", "OCPI, prin e-Terra", "Tarif ANCPI, achitat odată cu dosarul"],
+        ["Partaj (dacă se dorește)", "Notar sau instanță", "Onorariu / taxă judiciară, în funcție de cale"]
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Pot face cadastrul înainte de succesiune, ca să câștig timp?", "a": "Uneori da, dar numai după ce verificăm actele. Măsurătorile și identificarea rămân valabile indiferent cine ajunge proprietar, însă dosarul nu se poate finaliza la OCPI fără actul care arată moștenitorii. Îți spunem clar dacă în cazul tău merită paralelizarea sau doar produce costuri fără rezultat." },
+        { "q": "Suntem patru frați și doi sunt în străinătate. Trebuie să vină toți în țară?", "a": "Nu, dacă dau procură notarială unuia dintre voi sau unui împuternicit. Procura se poate face și la ambasadă sau consulat, ori la notar local cu apostilă și traducere legalizată. Pentru partea de teren, semnătura noastră de proces-verbal de vecinătate nu cere prezența tuturor." },
+        { "q": "Bunicul are titlu pe 3 hectare în trei tarlale diferite. Se face o singură lucrare?", "a": "Se face un singur dosar de succesiune, dar fiecare parcelă primește propriul număr cadastral și propria carte funciară — deci sunt mai multe documentații cadastrale. Costul pe parcelă scade însă considerabil, pentru că identificarea și deplasarea se fac o singură dată." },
+        { "q": "Titlul e pierdut. Se mai poate face ceva?", "a": "Da. Se obține duplicat, după publicarea declarației de pierdere în Monitorul Oficial al României, Partea a III-a, și pe baza cererii adresate comisiei de fond funciar. Avem o pagină dedicată acestei proceduri, cu actele exacte." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Ai un teren rămas de la părinți sau bunici?",
+      "text": "Trimite-ne pe WhatsApp poze după titlu și spune-ne cine a decedat și când — îți spunem exact câte succesiuni sunt de făcut și în ce ordine mergem."
+    }
+  ],
+  "related": [
+    "intabulare-teren-cu-titlu-de-proprietate",
+    "teren-mostenit-fara-succesiune",
+    "partaj-teren-agricol-mostenitori",
+    "identificare-parcela-tarla",
+    "titlu-de-proprietate-pierdut-duplicat",
+    "prima-inregistrare-teren-agricol",
+    "/servicii/intabulare-teren/",
+    "/servicii/cadastru-si-intabulare/",
+    "/dictionar/certificat-de-mostenitor.html",
+    "/dictionar/mostenire-succesiune.html",
+    "/dictionar/iesire-din-indiviziune.html"
+  ],
+  "sources": [
+    "https://legislatie.just.ro/Public/DetaliiDocument/1459",
+    "https://legislatie.just.ro/Public/DetaliiDocument/162860",
+    "https://lege5.ro/Gratuit/he3tgmrx/regulamentul-privind-procedura-de-constituire-atributiile-si-functionarea-comisiilor-pentru-stabilirea-dreptului-de-proprietate-privata-asupra-terenurilor-a-modelului-si-modului-de-atribuire-a-titluri",
+    "https://www.ancpi.ro/"
+  ]
+}

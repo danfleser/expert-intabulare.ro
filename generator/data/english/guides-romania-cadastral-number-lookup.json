@@ -1,0 +1,95 @@
+{
+  "path": "/en/guides/romania-cadastral-number-lookup.html",
+  "title": "Finding a Cadastral Number in Romania — Geoportal Walkthrough",
+  "metaDescription": "How to find a Romanian property's cadastral number: reading it off the deeds, locating the parcel on the ANCPI geoportal map, and what to do when the land does not appear at all.",
+  "h1": "How to Find a Property's Cadastral Number in Romania",
+  "roPair": "https://expert-intabulare.ro/ghid/numar-cadastral-cum-il-afli.html",
+  "whatsappPrefillEn": "Hello! I am trying to identify a property in Romania and need help finding its cadastral number.",
+  "footer": false,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "What the cadastral number is — and what it is not",
+      "html": "<p>Every property registered in the Romanian system carries a <strong>cadastral number (număr cadastral)</strong> — the unique identifier that links the measured parcel on the map to its legal record, the <a href=\"/en/guides/romanian-land-registry-explained.html\">land book (carte funciară)</a>. When you order a <a href=\"/en/guides/how-to-get-land-registry-extract-romania.html\">land registry extract</a>, apply for a building permit, or instruct a notary, the cadastral number is how everyone agrees which piece of ground is being discussed.</p><p>Two things it is not. It is not the same as the land book number — the two usually differ, though for newer registrations they often coincide, and either will identify the property together with the locality. And it is not the old <em>topographic number</em> found in pre-reform Transylvanian land books; those Austro-Hungarian-era identifiers still appear on older properties and can be converted, but they are a different numbering system. If your family papers show a \"nr. topografic\", the property may well be registered under the old system and need a modern cadastral documentation before any transaction.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Where to look first: the paperwork",
+      "html": "<p>Before any map, check the documents. The cadastral number appears on: the ownership deed (contract de vânzare-cumpărare, inheritance certificate, donation act) if the property was registered at the time; any old land registry extract; the annual property tax decision from the town hall, sometimes; and the cadastral documentation file itself if a surveyor ever worked on the property. Ask the seller, the heirs, or the town hall's agricultural register (registrul agricol) — rural municipalities keep records tying families to their parcels even where no land book exists.</p><p>For rural land restituted after 1991, the key document is the <strong>property title (titlu de proprietate)</strong>, which identifies land by <em>tarla</em> (field block) and <em>parcelă</em> (plot) numbers rather than by cadastral number. A tarla/parcel reference means the land has likely <strong>never been registered</strong> — finding it physically requires the parcelling plan and, often, a surveyor's identification work.</p>"
+    },
+    {
+      "type": "process",
+      "heading": "The geoportal walkthrough: finding the parcel on the map",
+      "steps": [
+        {
+          "title": "Open the ANCPI geoportal",
+          "text": "The national cadastre agency publishes a free public map viewer at geoportal.ancpi.ro. No account is needed. Search for the locality by name, or navigate to the area if you know it visually."
+        },
+        {
+          "title": "Turn on the cadastre layer",
+          "text": "Enable the layer showing registered parcels (often labelled as the INSPIRE cadastral parcels layer). Registered properties appear as outlined polygons over the aerial imagery; clicking one shows its identifier."
+        },
+        {
+          "title": "Locate the property visually",
+          "text": "Use landmarks — roads, watercourses, building footprints on the orthophoto — to find the plot. In villages, the church and the main road are your friends; for field land, this is where it gets hard without the parcelling plan."
+        },
+        {
+          "title": "Read the parcel identifier",
+          "text": "Clicking a registered polygon returns its cadastral identifier and locality. With that plus the UAT name you can order an informational extract on ePay ANCPI and see the owner and burdens."
+        },
+        {
+          "title": "Interpret the gaps",
+          "text": "White space between polygons is not no-man's-land — it is land that has simply never been cadastrally registered. A missing polygon where the seller's plot should be is a finding in itself: first registration will be needed before any sale."
+        }
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "When the map cannot answer: physical identification",
+      "html": "<p>The geoportal shows only what has been registered, and coverage in rural Transylvania is patchy — in many communes fewer than half the parcels appear. When a plot is absent from the map, identification runs the other way: from the property title's tarla and parcel numbers, through the commune's parcelling plan (plan parcelar), to physical measurement on the ground. That is surveyor's work, and it is the first stage of the <a href=\"/en/services/cadastral-registration.html\">first registration</a> that gives the land a cadastral number of its own.</p><p>If you send us whatever identifiers you have — a cadastral number, a land book number, a tarla/parcel reference from a 1990s title, or even just a pin on Google Maps and the commune name — we will tell you what the official record shows, whether the parcel is registered, and what it would take to make it transactable. This desk check is quick and often the single most valuable step before committing to any purchase or inheritance plan.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Frequently asked questions",
+      "items": [
+        {
+          "q": "Is the geoportal data legally binding?",
+          "a": "No — it is an informational viewer. The legally authoritative record is the land book itself, read through an official extract. Use the map to locate and the extract to verify; never rely on the polygon alone for a purchase decision."
+        },
+        {
+          "q": "The polygon on the map does not match the fence on the ground. Which is right?",
+          "a": "That is exactly the kind of discrepancy that needs measurement. Sometimes the registration is wrong or imprecise (older registrations carry larger tolerances), sometimes the fence has drifted. A verification survey compares registered coordinates against reality and documents the difference."
+        },
+        {
+          "q": "Can you find land my grandparents owned if all I have is the village name?",
+          "a": "Often, yes. The trail runs through the town hall's agricultural register, the 1991 restitution files, and the parcelling plans. It is research work with no guaranteed outcome, but we can usually establish within a few days whether there is something findable — before you spend money on lawyers."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geoportal.ancpi.ro/",
+      "title": "Geoportalul ANCPI — vizualizator public gratuit al parcelelor cadastrale înscrise și al ortofotoplanului; strat INSPIRE cadastral parcels, fără cont"
+    },
+    {
+      "url": "https://bv.ancpi.ro/extrase-de-informare/",
+      "title": "OCPI Brașov (ANCPI) — identificarea imobilului pentru extras se face prin număr cadastral sau număr de carte funciară + UAT"
+    },
+    {
+      "url": "https://www.madr.ro/terenuri-agricole/legislatie/1-lege-nr-17-din-7-martie-2014.html",
+      "title": "MADR — Legea 17/2014: terenul agricol extravilan restituit este identificat în titlul de proprietate prin tarla și parcelă, nu prin număr cadastral"
+    },
+    {
+      "url": "https://www.ancpi.ro/ocpi/gl/ordinul-600-2023-pentru-aprobarea-regulamentului-de-receptie-si-inscriere-in-evidentele-de-cadastru-si-carte-funciara/",
+      "title": "Ordinul ANCPI nr. 600/2023 — Regulamentul de recepție și înscriere în evidențele de cadastru și carte funciară (atribuirea numărului cadastral la prima înregistrare)"
+    }
+  ],
+  "related": [
+    "/en/guides/how-to-get-land-registry-extract-romania.html",
+    "/en/guides/romanian-land-registry-explained.html",
+    "/en/services/cadastral-registration.html",
+    "/en/guides/unregistered-inherited-property-romania.html",
+    "/en/guides/buying-land-in-romania.html"
+  ]
+}

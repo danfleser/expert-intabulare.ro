@@ -1,0 +1,131 @@
+{
+  "slug": "suprapunere-cadastrala-teren-agricol",
+  "title": "Suprapunere cadastrală pe teren agricol: cum apare și cum se repară | Expert Intabulare",
+  "h1": "Suprapunere cadastrală: două imobile pe același loc",
+  "metaDescription": "De ce apar suprapunerile cadastrale pe terenurile agricole, cum se dovedesc prin măsurători, ce este repoziționarea și când se ajunge la rectificare sau la instanță.",
+  "whatsappTopic": "o suprapunere cadastrală pe un teren agricol",
+  "hook": "none",
+  "trustBar": true,
+  "group": "Probleme frecvente",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Cum se descoperă, de obicei",
+      "html": "<p>Scenariul este aproape mereu același. Vrei să intabulezi o parcelă, documentația se depune la OCPI, iar în loc de încheiere de înscriere primești un referat de completare sau o respingere, cu mențiunea că imobilul se suprapune cu un altul, deja înscris. <a href=\"/dictionar/suprapunere-de-imobile.html\">Suprapunerea de imobile</a> înseamnă exact asta: două documentații cadastrale plasează, în coordonate, două imobile diferite peste aceeași porțiune de teren.</p><p>Este una dintre cele mai frecvente cauze de blocaj pe terenurile agricole din zona noastră — și, în majoritatea cazurilor, nu este vina nimănui în particular, ci consecința unei istorii de măsurători făcute în ani diferiți, cu tehnologii diferite, pe planuri parcelare de calități diferite.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Tipuri de suprapunere și ce înseamnă fiecare",
+      "head": [
+        "Tip",
+        "Cum arată",
+        "Rezolvare uzuală"
+      ],
+      "rows": [
+        [
+          "Suprapunere virtuală (de poziție)",
+          "Amândouă imobilele există distinct în teren, dar unul e desenat deplasat",
+          "Repoziționarea imobilului greșit plasat"
+        ],
+        [
+          "Suprapunere parțială reală",
+          "O fâșie este cuprinsă în ambele documentații",
+          "Măsurători, acordul părților, rectificare; altfel instanță"
+        ],
+        [
+          "Suprapunere totală",
+          "Același teren, înscris de două ori, pe doi titulari",
+          "Analiza actelor de proprietate; de regulă instanță"
+        ],
+        [
+          "Suprapunere cu domeniul public",
+          "Parcela intră peste un drum, canal sau albie",
+          "Corectarea limitei; suprafața publică nu se poate înscrie privat"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "De unde vin, concret",
+      "html": "<p><strong>Planuri parcelare aproximative.</strong> În multe comune, <a href=\"/dictionar/plan-parcelar.html\">planul parcelar</a> al unei tarlale a fost întocmit prin scanarea și georeferențierea unor planuri vechi. Erorile de câțiva metri se propagă la toate parcelele din tarla.</p><p><strong>Măsurători vechi, în sisteme diferite.</strong> Documentațiile din primii ani ai cadastrului au fost transformate în Stereo 70 prin metode mai puțin precise decât cele de azi.</p><p><strong>Punerea în posesie făcută altfel decât în acte.</strong> Este cauza cea mai des întâlnită și cea mai delicată: proprietarii au fost puși în posesie „unde a fost loc”, iar titlurile au rămas cu numerele inițiale. În teren, întreaga tarla este deplasată cu o parcelă.</p><p><strong>Cadastrul sistematic.</strong> Acolo unde s-au înscris imobile în cadrul PNCCF pe baza posesiei sau a unor evidențe incomplete, pot apărea neconcordanțe cu documentațiile sporadice anterioare.</p>"
+    },
+    {
+      "type": "process",
+      "heading": "Cum se repară, pas cu pas",
+      "steps": [
+        "Obținem din arhiva OCPI documentația imobilului cu care se suprapune — plan de amplasament, inventar de coordonate, actul de proprietate.",
+        "Măsurăm în teren limitele reale ale ambelor imobile, împreună cu proprietarii, acolo unde este posibil.",
+        "Suprapunem grafic măsurătorile peste ambele documentații și peste planul parcelar; rezultatul arată dacă suprapunerea e reală sau doar de poziție.",
+        "Dacă imobilul vecin este doar deplasat, se întocmește documentația de repoziționare pentru el, cu acordul proprietarului.",
+        "Dacă suprapunerea este reală și părțile se înțeleg, se corectează limitele prin documentații de actualizare și, după caz, prin act notarial.",
+        "Dacă nu există acord, se pregătește dosarul pentru instanță: memoriu tehnic, planuri de suprapunere, calcule de suprafață.",
+        "După soluționare, se depune documentația finală la OCPI și imobilul se înscrie sau se corectează în cartea funciară."
+      ]
+    },
+    {
+      "type": "checklist",
+      "heading": "Ce ne trebuie de la tine ca să analizăm situația",
+      "items": [
+        "Titlul de proprietate sau actul de dobândire, în întregime, inclusiv anexele.",
+        "Referatul de completare sau încheierea de respingere primită de la OCPI.",
+        "Numărul cadastral al imobilului cu care se suprapune, dacă apare în referat.",
+        "Comuna, tarlaua și, dacă știi, numele vecinilor actuali.",
+        "Disponibilitatea de a merge împreună în teren — cine cunoaște hotarele este informația cea mai valoroasă."
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        {
+          "q": "Cine plătește corectarea?",
+          "a": "Depinde de unde este eroarea. Dacă documentația vecinului este cea deplasată, repoziționarea se face pe documentația lui, cu acordul lui. În practică, se ajunge deseori la o împărțire a costurilor, pentru că ambele părți au interesul ca situația să se limpezească."
+        },
+        {
+          "q": "Se poate intabula până se rezolvă suprapunerea?",
+          "a": "Nu pe suprafața aflată în suprapunere. În unele situații se poate înscrie restul imobilului, dacă limitele necontestate sunt clare, dar aceasta se apreciază de la caz la caz și nu este o soluție generală."
+        },
+        {
+          "q": "Vecinul refuză orice discuție. Ce urmează?",
+          "a": "Calea rămâne judiciară: rectificare de carte funciară sau, după caz, acțiune în revendicare, cu expertiză topografică. Documentația tehnică pe care o pregătim — măsurători, suprapuneri, calcule — devine baza expertizei și scurtează procesul."
+        },
+        {
+          "q": "Cât durează o astfel de rezolvare?",
+          "a": "Când există acord între proprietari, câteva săptămâni: documentație, recepție la OCPI, înscriere. Când se ajunge în instanță, se măsoară în ani. Este exact motivul pentru care merită insistat pe soluția amiabilă."
+        },
+        {
+          "q": "Suprapunerea e de doar câțiva metri pătrați. Merită deranjul?",
+          "a": "Depinde unde cade. O suprapunere de doi-trei metri pătrați într-un colț, provenită dintr-o transformare veche de coordonate, se rezolvă de regulă în cadrul documentației de actualizare și nu schimbă nimic în teren. Aceeași suprafață, dacă apare exact pe linia pe care vrei să ridici un gard sau pe traseul unui drum de acces, devine o problemă reală, pentru că materializezi în beton o limită contestată. Regula practică: dacă suprapunerea nu atinge nicio limită pe care urmează să o folosești sau să o construiești, poate aștepta; dacă o atinge, se rezolvă acum."
+        },
+        {
+          "q": "Ce se întâmplă cu subvenția APIA pe perioada în care suprapunerea nu e rezolvată?",
+          "a": "Cele două evidențe sunt separate: APIA lucrează cu blocuri fizice și cu declarații digitizate, nu cu numere cadastrale. O suprapunere în cartea funciară nu îți blochează automat plata, dar dacă limita reală e în discuție, foarte probabil apare și o suprapunere de declarații între tine și vecin. În practică, aceeași măsurătoare rezolvă ambele: coordonatele colțurilor reale servesc și la corectarea documentației cadastrale, și la redesenarea corectă a parcelei în aplicația geospațială."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Ți-a fost respinsă documentația pentru suprapunere?",
+      "text": "Trimite-ne pe WhatsApp referatul de la OCPI și actele terenului — analizăm situația și îți spunem dacă e o deplasare de plan sau o suprapunere reală."
+    }
+  ],
+  "related": [
+    "teren-inscris-pe-alt-proprietar",
+    "plan-parcelar-lipsa",
+    "vecinul-a-mutat-hotarul",
+    "identificare-parcela-tarla",
+    "suprapuneri-declaratii-apia",
+    "prima-inregistrare-teren-agricol",
+    "/servicii/expertize-documentatii/",
+    "/servicii/actualizare-carte-funciara/",
+    "/dictionar/suprapunere-de-imobile.html",
+    "/dictionar/repozitionare-imobil.html",
+    "/dictionar/rectificare-de-carte-funciara.html"
+  ],
+  "sources": [
+    "https://www.ancpi.ro/wp-content/uploads/2023/01/Lege-7-1996r3.pdf",
+    "https://legislatie.just.ro/Public/DetaliiDocument/112084",
+    "https://sintact.ro/legislatie/monitorul-oficial/regulament-din-2023-de-receptie-si-inscriere-in-17015872/roz-iv-podroz-4-sek-3",
+    "https://lege5.ro/gratuit/gy3dgmbu/legea-fondului-funciar-nr-18-1991"
+  ]
+}

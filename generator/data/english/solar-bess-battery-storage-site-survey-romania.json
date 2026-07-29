@@ -1,0 +1,73 @@
+{
+  "path": "/en/solar/bess-battery-storage-site-survey-romania.html",
+  "title": "BESS Site Surveys in Romania — Battery Storage Platforms, Stakeout and As-Built",
+  "metaDescription": "Surveying for battery energy storage (BESS) sites in Romania: design-stage topo, precision platform levelling, foundation stakeout with tight tolerances, co-location in existing PV parks, and as-built documentation.",
+  "h1": "Battery Storage (BESS) Sites in Romania: Surveying for Platforms That Cannot Be Wrong",
+  "roPair": "https://expert-intabulare.ro/parcuri-fotovoltaice/amplasament-baterii-stocare-energie.html",
+  "whatsappPrefillEn": "Hello! I am developing a BESS project in Romania and need site surveying — design data, stakeout and as-built.",
+  "footer": false,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Batteries forgive less than panels",
+      "html": "<p>Battery storage is arriving in Romania in two forms: <strong>greenfield projects</strong> designed with storage from day one, and <strong>co-location</strong> — container batteries added into an operating PV park. In both, the surveying is more demanding than for the panels around them. A tracker row tolerates terrain through its structure; a multi-tonne BESS container sits on a platform or raft foundation that must be <em>exactly</em> at grade and <em>exactly</em> in position, because rigidly connected to it are cable routes, transformers, inverters and switchgear. Centimetres that would vanish in a PV field become rework at a battery pad.</p><p>We provide the survey chain for BESS sites end to end: design-stage topographic data, precision levelling of platforms, <a href=\"/en/solar/pv-pile-tracker-stakeout.html\">stakeout</a> of foundations and equipment positions, and the <a href=\"/en/solar/as-built-survey-pv-plants.html\">as-built documentation</a> at the end. We work with developers, EPCs and construction contractors on new builds and retrofits alike, in English, across Transylvania and beyond — the same instruments and field discipline as our PV park work, applied to tighter tolerances.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "What the work looks like, stage by stage",
+      "html": "<p><strong>Design stage.</strong> The designer needs a topographic model of the site — surfaces, levels, slopes, drainage context, existing infrastructure — delivered as usable digital data (DWG/DXF, point clouds or DTM where appropriate; our <a href=\"/en/solar/drone-photogrammetry-dtm-solar-sites.html\">drone photogrammetry</a> covers larger sites efficiently). For co-location, this includes precise measurement of the existing park's relevant infrastructure: cable routes, station positions, internal roads, and the real remaining space — which is not always what the original drawings claim.</p><p><strong>Execution stakeout.</strong> From project coordinates we materialize on the ground: platform and raft axes, foundation corners per container, transformer and connection-station foundations, cable trenches and the access route for heavy transport. We position with RTK GNSS at ±2–3 cm for site-wide layout and switch to total station where the design demands tighter — anchor-bolt foundations, pre-set embeds, and equipment with fixed connection geometry, where a few centimetres of error means steel that does not bolt together.</p><p><strong>Precision levelling.</strong> Platform grades are checked and documented against design elevations before and after concrete — the cheapest moment to catch a grade error is before the pour, and the report protects both the contractor and the developer at handover.</p><p><strong>As-built.</strong> Final positions and levels of every foundation and equipment item, measured and delivered as the record documentation the grid operator, the financing bank and the O&M contractor each want in their own format.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "The land side: the part BESS developers discover late",
+      "html": "<p>A BESS site is also a property. The land must be registered with clean geometry before permits and financing move — our <a href=\"/en/solar/land-due-diligence-survey-romania.html\">land due diligence</a> and <a href=\"/en/solar/unregistered-land-romania-pv-developers.html\">unregistered-land</a> pages cover that lane, and the <a href=\"/en/solar/superficie-right-land-registration-solar.html\">superficie right</a> structure used for PV parks serves storage projects identically. For co-location inside an existing park, check early whether the planned battery area sits within the registered project land and the existing superficie — a container pad that strays onto the neighbouring parcel is a legal problem no crane can fix. The connection route to the point of delivery has its own survey needs, covered on our <a href=\"/en/solar/grid-connection-survey-romania.html\">grid connection survey</a> page.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Frequently asked questions",
+      "items": [
+        {
+          "q": "What tolerances can you certify at foundation stakeout?",
+          "a": "RTK GNSS gives ±2–3 cm, which covers general layout; for anchor-bolt and embed-critical foundations we work with total station to the tighter tolerances the structural design specifies, and document every checked point in the stakeout report. Tell us the design tolerance and we plan the method around it."
+        },
+        {
+          "q": "Can you work inside an energized, operating PV park?",
+          "a": "Yes — co-location retrofits are exactly that. We coordinate access and safety with the O&M operator, work around the park's live infrastructure, and schedule fieldwork to the operator's windows."
+        },
+        {
+          "q": "Which deliverable formats do you provide?",
+          "a": "Coordinate inventories in the national Stereo 70 system (and transformations where the designer works in another frame), DWG/DXF plans, levelling reports, and signed stakeout and as-built reports in the forms Romanian permitting and reception require. Foreign EPCs receive everything in English."
+        },
+        {
+          "q": "Do you cover our region?",
+          "a": "We are based in Alba county, central Transylvania, and BESS work — like our utility-scale PV work — travels: for project-scale engagements we mobilize across Romania. Send the site location and stage; we respond same-day on WhatsApp."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://lege5.ro/gratuit/ge3dmojyhazds/regulamentul-pentru-acordarea-licentelor-si-autorizatiilor-in-sectorul-energiei-electrice-din-12032025",
+      "title": "Regulamentul pentru acordarea licențelor și autorizațiilor în sectorul energiei electrice, actualizat 2026 — cadrul ANRE aplicabil și instalațiilor de stocare"
+    },
+    {
+      "url": "https://economisi.ro/energie/pretul-energiei/atr",
+      "title": "ATR — Avizul Tehnic de Racordare 2026: termen 30 de zile calendaristice, valabilitate 12 luni (Ordin ANRE 59/2013, modificat prin 53/2024 și 20/2025); necesar și pentru proiectele cu stocare"
+    },
+    {
+      "url": "https://lege5.ro/gratuit/gy3dgmju/legea-nr-50-1991-privind-autorizarea-executarii-lucrarilor-de-constructii",
+      "title": "Legea nr. 50/1991 actualizată 2026 — autorizarea lucrărilor, recepția la terminarea lucrărilor și documentația as-built pentru platformele și fundațiile echipamentelor"
+    },
+    {
+      "url": "https://www.ancpi.ro/ocpi/gl/ordinul-600-2023-pentru-aprobarea-regulamentului-de-receptie-si-inscriere-in-evidentele-de-cadastru-si-carte-funciara/",
+      "title": "Ordinul ANCPI nr. 600/2023 — sistemul național de proiecție Stereografic 1970 și cerințele de recepție pentru documentațiile cadastrale ale amplasamentelor"
+    }
+  ],
+  "related": [
+    "/en/solar/grid-connection-survey-romania.html",
+    "/en/solar/pv-pile-tracker-stakeout.html",
+    "/en/solar/as-built-survey-pv-plants.html",
+    "/en/solar/drone-photogrammetry-dtm-solar-sites.html",
+    "/en/solar/land-due-diligence-survey-romania.html"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "teren-mostenit-fara-succesiune",
+  "title": "Teren moștenit fără succesiune dezbătută: pașii notariali și cadastrali | Expert Intabulare",
+  "h1": "Teren moștenit, dar succesiunea nu s-a făcut niciodată",
+  "metaDescription": "Ce faci când terenul figurează pe un părinte sau bunic decedat: dezbaterea succesiunii la notar, impozitul de 1% după 2 ani, apoi intabularea pe moștenitori.",
+  "whatsappTopic": "un teren moștenit fără succesiune dezbătută",
+  "hook": "none",
+  "trustBar": true,
+  "group": "Probleme frecvente",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Situația din jumătate din satele noastre",
+      "html": "<p>Bunicul a primit titlu de proprietate în 1994. A murit în 2003. Nimeni nu a mers la notar, pentru că „oricum lucrăm noi pământul”. Tatăl a murit în 2019, tot fără succesiune. Astăzi, nepoții vor să vândă o parcelă, iar notarul le spune că nu are pe cine să treacă în act.</p><p>Este cel mai frecvent blocaj pe terenurile agricole din zona Aiudului și nu se rezolvă cu topografie, ci cu notar — în ordinea corectă. Vestea bună: se rezolvă aproape întotdeauna, chiar și după douăzeci de ani. Vestea mai puțin bună: costă mai mult decât ar fi costat la timp.</p>"
+    },
+    {
+      "type": "process",
+      "heading": "Ordinea corectă a pașilor",
+      "steps": [
+        "Adunarea actelor: certificatele de deces ale tuturor autorilor decedați, actele de stare civilă care dovedesc rudenia, actele de proprietate — titluri, contracte, certificate anterioare.",
+        "Interogarea registrelor notariale: notarul verifică dacă succesiunea a fost cumva deschisă undeva și dacă există testamente înregistrate.",
+        "Dezbaterea succesiunii, în ordinea deceselor: mai întâi pentru bunic, apoi pentru tată — nu se poate sări peste o generație.",
+        "Emiterea certificatului de moștenitor, care stabilește cine sunt moștenitorii și cu ce cote.",
+        "Verificarea situației cadastrale: dacă terenul nu are carte funciară, se face documentația de primă înscriere; dacă are, se înscrie transmiterea dreptului.",
+        "Măsurătorile și documentația cadastrală — identificăm parcelele din titlu, le măsurăm și întocmim documentațiile.",
+        "Înscrierea în cartea funciară pe numele moștenitorilor, cu cotele din certificat.",
+        "Opțional, dar recomandat: partajul, prin care fiecare moștenitor primește imobile concrete în loc de cote."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Actele de care are nevoie notarul",
+      "head": ["Document", "De unde se obține", "Observație"],
+      "rows": [
+        ["Certificatul de deces", "Starea civilă a primăriei", "Pentru fiecare autor decedat"],
+        ["Acte de stare civilă ale moștenitorilor", "Starea civilă", "Certificate de naștere, de căsătorie"],
+        ["Titlul de proprietate / actul de dobândire", "Original sau duplicat de la comisia județeană", "Fără el, terenul nu intră în masa succesorală"],
+        ["Certificat fiscal pe numele defunctului", "Primăria unde e rolul", "Se cere pentru fiecare UAT unde există bunuri"],
+        ["Extras de carte funciară", "OCPI / BCPI", "Dacă imobilul este deja înscris"],
+        ["Declarații ale moștenitorilor", "La notar", "Privind acceptarea sau renunțarea la moștenire"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Cât costă întârzierea",
+      "html": "<p>Regula fiscală merită cunoscută înainte de a mai amâna. Dacă procedura succesorală este finalizată în termen de 2 ani de la data decesului, moștenitorii sunt scutiți de impozit. Peste acest termen, potrivit Codului fiscal, se datorează un impozit de 1% calculat la valoarea masei succesorale imobiliare. Există și scutiri prevăzute de lege pentru anumite categorii de moștenitori.</p><p>La acest impozit se adaugă costurile care cresc natural cu timpul: succesiuni multiple în lanț, moștenitori tot mai numeroși și mai greu de adunat, unii plecați din țară, alții decedați la rândul lor. O succesiune cu trei moștenitori, dezbătută la timp, este o formalitate. Aceeași succesiune, dezbătută după douăzeci de ani, poate ajunge la cincisprezece moștenitori din trei ramuri, dintre care doi în Spania și unul de negăsit.</p><p>Iar între timp, terenul nu poate fi vândut, ipotecat sau adus într-un proiect, iar declarațiile la APIA se fac pe adeverințe tot mai fragile.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Un moștenitor este plecat în străinătate. Se poate face fără el?", "a": "Nu fără participarea lui, dar el poate da o procură notarială specială cuiva de încredere, autentificată la un notar român, la consulat sau în străinătate cu formalitățile de recunoaștere cerute. Este soluția uzuală pentru diaspora." },
+        { "q": "Un moștenitor nu vrea să semneze nimic. Ce fac?", "a": "Succesiunea se poate dezbate și pe cale judiciară, prin partaj succesoral în instanță. Durează și costă mai mult, dar nu rămâneți blocați definitiv. Merită întâi încercată calea notarială, chiar cu concesii." },
+        { "q": "Se poate face cadastrul înainte de succesiune?", "a": "Măsurătorile și identificarea parcelelor se pot face oricând și sunt utile, dar înscrierea în cartea funciară se face pe titularul dreptului. Fără certificatul de moștenitor, dreptul nu poate fi înscris pe moștenitori." },
+        { "q": "Cât costă în total?", "a": "Depinde de numărul de succesiuni, de valoarea bunurilor și de numărul de imobile de intabulat. Orientativ, la costurile notariale și la eventualul impozit de 1% se adaugă documentațiile cadastrale, fiecare pornind de la câteva sute de lei. Vă putem estima partea de cadastru pe lista de parcele." },
+        { "q": "Sunt mai multe decese în lanț — bunicul, apoi tatăl. Se rezolvă printr-un singur act?", "a": "Nu. Fiecare deces deschide o succesiune proprie, care se dezbate separat și în ordine cronologică: întâi moștenirea bunicului, ca să se stabilească ce a cules tatăl, apoi moștenirea tatălui. Notarul le poate instrumenta în aceeași zi și în același dosar, dar actele rămân distincte, iar costurile se cumulează. De aceea o singură generație amânată este ieftin de reparat, iar două sunt deja o lucrare serioasă." },
+        { "q": "Terenul e lucrat de un frate care spune că e al lui, pentru că el a stat în sat. Contează?", "a": "Faptul că a lucrat pământul și a plătit impozitul nu îi transferă proprietatea și nu îi exclude pe ceilalți moștenitori. Poate avea, în schimb, pretenții legate de cheltuielile făcute, iar în anumite condiții stricte poate invoca prescripția achizitivă — o discuție care se tranșează în instanță, nu în familie. Practic, cea mai bună soluție rămâne dezbaterea succesiunii cu un partaj convenit la notar, în care cel care lucrează terenul primește loturile pe care le folosește deja." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Ai teren pe un părinte sau bunic decedat?",
+      "text": "Trimite-ne pe WhatsApp titlurile și certificatele de deces — îți spunem ce succesiuni trebuie dezbătute, în ce ordine, și ce se intabulează după."
+    }
+  ],
+  "related": [
+    "intabulare-teren-agricol-mostenit",
+    "partaj-teren-agricol-mostenitori",
+    "titlu-de-proprietate-pierdut-duplicat",
+    "teren-inscris-pe-alt-proprietar",
+    "subventie-apia-teren-neintabulat",
+    "prima-inregistrare-teren-agricol",
+    "/servicii/intabulare-teren/",
+    "/servicii/cadastru-si-intabulare/",
+    "/dictionar/certificat-de-mostenitor.html",
+    "/dictionar/dezbatere-succesorala.html",
+    "/dictionar/masa-succesorala.html"
+  ],
+  "sources": [
+    "https://legislatie.just.ro/Public/DetaliiDocument/171282",
+    "https://www.avocatnet.ro/articol_65082/Dac%C4%83-nu-se-finalizeaz%C4%83-dezbaterea-succesiunii-in-cel-mult-doi-ani-de-la-deces-pe-lang%C4%83-cheltuielile-notariale-se-pl%C4%83te%C8%99te-%C8%99i-impozit-pe-mo%C8%99tenire.html",
+    "https://legislatie.just.ro/Public/DetaliiDocument/175630",
+    "https://www.ancpi.ro/wp-content/uploads/2023/01/Lege-7-1996r3.pdf"
+  ]
+}

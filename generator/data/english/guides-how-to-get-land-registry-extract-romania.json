@@ -1,0 +1,94 @@
+{
+  "path": "/en/guides/how-to-get-land-registry-extract-romania.html",
+  "title": "How to Get a Land Registry Extract in Romania (Extras de Carte Funciară)",
+  "metaDescription": "How to order a Romanian land registry extract (extras de carte funciară) online from abroad: the ePay ANCPI portal, what the document shows, informare vs. autentificare, and how to read Parts I–III.",
+  "h1": "How to Get a Romanian Land Registry Extract — Remotely, in Minutes",
+  "roPair": "https://expert-intabulare.ro/ghid/extras-carte-funciara-online.html",
+  "whatsappPrefillEn": "Hello! I need help obtaining and understanding a land registry extract for a property in Romania.",
+  "footer": false,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "What the extract is and why every property question starts with it",
+      "html": "<p>The <strong>extras de carte funciară</strong> — land registry extract, sometimes translated as land book extract — is the official snapshot of a Romanian property's legal situation at the moment it is issued: who owns it and in what shares, how the property is described and measured, and what burdens sit on it (mortgages, easements, litigation notes, sale prohibitions). Banks demand it for loans, notaries demand it for every transaction, and no prudent buyer, heir or investor should pay a single euro of deposit without reading a fresh one.</p><p>The register behind it, the <a href=\"/en/guides/romanian-land-registry-explained.html\">carte funciară</a>, is public: <strong>anyone may request an informational extract for any registered property in Romania</strong> — you do not need to be the owner, prove an interest, or be in the country. That openness is the single most useful due-diligence tool Romania gives a foreign buyer, and it costs less than a coffee.</p><p>There are two types, and confusing them wastes trips: the <strong>extract for information (extras pentru informare)</strong>, which anyone can order online or at the counter; and the <strong>extract for authentication (extras pentru autentificare)</strong>, which only a public notary can request, is used for signing transactions, and freezes the land book while it is valid so no competing registration can slip in. As a buyer doing homework, you want the first kind; the notary orders the second at closing.</p>"
+    },
+    {
+      "type": "process",
+      "heading": "Ordering the informational extract online, step by step",
+      "steps": [
+        {
+          "title": "Create an account on epay.ancpi.ro",
+          "text": "This is the official payment portal of ANCPI, the national cadastre and land registration agency. You need an e-mail address and a bank card; foreign cards work, and the account can be personal or corporate."
+        },
+        {
+          "title": "Select \"Extras de carte funciară pentru informare\"",
+          "text": "The online tariff is 20 lei (roughly €4) per property; ordering at an OCPI counter costs 25 lei. The interface is in Romanian — if you get stuck, send us a message and we will order it for you as part of any verification job."
+        },
+        {
+          "title": "Identify the property",
+          "text": "You need either the land book number (număr de carte funciară) or the cadastral number (număr cadastral), plus the administrative locality (UAT). These appear on the owner's deeds, on any old extract, or in the sale advertisement. If you have neither, see our guide on finding the cadastral number."
+        },
+        {
+          "title": "Pay and download",
+          "text": "If the land book exists in electronic form — most do by now — the extract is generated within minutes, electronically signed, and downloadable from your account. Books not yet converted take up to two working days."
+        }
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "How to read it: Parts I, II and III",
+      "html": "<p>The extract has three parts, and each answers one question:</p><ul><li><strong>Part I — the property.</strong> Cadastral number, address (or the rural tarla/parcel references), registered area, and any buildings recorded on the land. Compare the registered area against what the seller claims and against what a survey measures — discrepancies here are common and matter at price time.</li><li><strong>Part II — the owners.</strong> Who owns, in what shares, and under which deeds they acquired. This is where you confirm the seller actually is the registered owner, alone or with co-owners whose signatures you will also need.</li><li><strong>Part III — the burdens.</strong> Mortgages, prohibitions on sale, usufruct or easement rights, litigation notes, enforcement proceedings. An empty Part III is what you want to see. Anything written here must be understood before signing a pre-agreement: some entries are harmless (a passage easement), others can block the deal entirely.</li></ul><p>An extract is a snapshot, not a guarantee of the future: it reflects the register at issue time, which is why notaries order a fresh blocking extract at signing. And it says nothing about whether the fence on the ground matches the registered geometry — that is what a <a href=\"/en/solar/land-due-diligence-survey-romania.html\">field verification survey</a> answers.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Frequently asked questions",
+      "items": [
+        {
+          "q": "Can I order an extract from outside Romania?",
+          "a": "Yes. The ePay ANCPI portal works from anywhere, foreign cards are accepted, and the document arrives as an electronically signed PDF. Many of our clients order their first extract from London, Munich or Toronto before ever contacting us."
+        },
+        {
+          "q": "The extract is in Romanian — can you explain what mine says?",
+          "a": "Send it over WhatsApp or email. We routinely walk foreign clients through their extracts in English, flag anything in Part III that needs a lawyer or notary, and tell you whether the registered situation matches what you were told about the property."
+        },
+        {
+          "q": "What if the property has no land book at all?",
+          "a": "Then it was never registered, which is still common for rural land. Nothing can be legally sold or mortgaged until a first registration (cadastru și intabulare) creates the land book — a service we perform. Treat any request for a deposit on unregistered land with great caution."
+        },
+        {
+          "q": "How current is the information?",
+          "a": "The extract shows the register at the moment of issue. For decisions with money attached, order a fresh one — it costs 20 lei — rather than relying on an extract the seller produced months ago."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://bv.ancpi.ro/extrase-de-informare/",
+      "title": "OCPI Brașov (ANCPI) — extras de carte funciară pentru informare: 25 lei la ghișeu, 20 lei online prin ePay ANCPI; oricine poate solicita un extras de informare"
+    },
+    {
+      "url": "https://www.ancpi.ro/bucuresti-01-04-2025-extrasele-de-carte-funciara-gratuite-pentru-proprietari/",
+      "title": "ANCPI — extrasele de carte funciară pentru informare gratuite pentru proprietari (ghișeu 7 aprilie 2025, online 2 iunie 2025, autentificare ROeID); tariful de 20 lei rămâne pentru ceilalți solicitanți"
+    },
+    {
+      "url": "https://www.juridice.ro/820755/numarul-de-extrase-cf-eliberate-gratuit-online-in-primele-doua-luni-din-2026.html",
+      "title": "JURIDICE.ro — 340.129 extrase CF gratuite eliberate online prin MyEterra în ian.–feb. 2026 (confirmă că regimul este activ în 2026)"
+    },
+    {
+      "url": "https://notariate.ro/calculator-taxe-notariale/carte-funciara/",
+      "title": "Notariate.ro — extrasul pentru autentificare se solicită exclusiv de notar, blochează cartea funciară, valabilitate 10 zile (vs. extrasul pentru informare, accesibil oricui)"
+    },
+    {
+      "url": "https://epay.ancpi.ro/",
+      "title": "ePay ANCPI — portalul oficial de plată și eliberare online a extraselor de carte funciară pentru informare"
+    }
+  ],
+  "related": [
+    "/en/services/land-registry-extract.html",
+    "/en/guides/romanian-land-registry-explained.html",
+    "/en/guides/romania-cadastral-number-lookup.html",
+    "/en/guides/buying-land-in-romania.html",
+    "/en/services/land-registration-fees-romania.html"
+  ]
+}

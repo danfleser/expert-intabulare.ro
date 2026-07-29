@@ -1,0 +1,98 @@
+{
+  "path": "/en/guides/unregistered-inherited-property-romania.html",
+  "title": "Inherited Property in Romania — Registering Land from Abroad",
+  "metaDescription": "Inherited land or a house in Romania that was never registered? The correct order — succession at the notary, then cadastre — how diaspora heirs handle it remotely, and the traps that stall families for years.",
+  "h1": "You Inherited Property in Romania. Now What?",
+  "roPair": "https://expert-intabulare.ro/ghid/pasi-intabulare-teren-mostenit.html",
+  "whatsappPrefillEn": "Hello! I inherited property in Romania and need help with the succession and land registration process.",
+  "footer": false,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "The most common file on our desk",
+      "html": "<p>A typical story: your parents or grandparents owned land in a Transylvanian village — restituted in the 1990s under a <strong>property title (titlu de proprietate)</strong> issued to someone who has since passed away. The family knows \"our land is by the old orchard\", a cousin may still mow it, but there is no cadastre, no <a href=\"/en/guides/romanian-land-registry-explained.html\">land book</a>, and the title holder is deceased. You live in another country. As long as nobody touches it, the situation seems fine — but the moment anyone wants to sell, build, subdivide between siblings, or claim EU agricultural subsidies properly, the missing registration blocks everything.</p><p>The good news: this path is well-trodden and almost always solvable. The essential thing to understand is the <strong>order of operations</strong>: <em>first the succession at the notary, then the cadastre.</em> OCPI, the land registration office, cannot register a deceased person as owner, nor heirs who hold no inheritance certificate — no matter how obvious the family situation is. Families who start with the surveyor and skip the notary end up doing the paperwork twice.</p>"
+    },
+    {
+      "type": "process",
+      "heading": "The sequence, from death certificate to land book",
+      "steps": [
+        {
+          "title": "Gather the deceased's documents",
+          "text": "The property title or other ownership deed, the death certificate, and the civil-status documents proving kinship (birth and marriage certificates). A lost property title can be replaced with a duplicate — a step that runs in parallel rather than blocking everything."
+        },
+        {
+          "title": "Succession before a Romanian notary",
+          "text": "The notary establishes who the heirs are and in what shares, and issues the inheritance certificate (certificat de moștenitor). Where several generations died in sequence — grandfather, then father — the successive successions are usually handled in the same notarial file. Heirs abroad participate through power of attorney; nobody needs to fly in for this."
+        },
+        {
+          "title": "Fiscal registration at the town hall",
+          "text": "The inherited property is registered for local tax purposes in the heirs' names, and the town hall issues the fiscal certificate the registration file requires. We obtain this under mandate as part of the job."
+        },
+        {
+          "title": "Identification and measurement",
+          "text": "For rural titles the land is identified by tarla and parcel numbers, not coordinates — we locate the physical parcel using the parcelling plan and the town hall's agricultural register, then measure it. This is where 'the land by the old orchard' becomes a polygon with legal coordinates."
+        },
+        {
+          "title": "First registration at OCPI",
+          "text": "We file the cadastral documentation together with the inheritance certificate; OCPI opens the land book with the heirs registered as owners in their shares. First registration is currently exempt from the state tariff in the normal regime — the cost is the notarial stage and the surveying work, not the state."
+        }
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "The traps that stall families for years",
+      "html": "<p><strong>The unfindable heir.</strong> Every heir must participate in the succession, personally or by proxy. One estranged sibling on another continent who will not sign can freeze the file — address this early, not after paying for measurements.</p><p><strong>Selling shares of nothing.</strong> Until succession and registration are complete, heirs own an undivided abstraction, not defined plots. Be wary of anyone offering to buy \"your part\" before the paperwork exists — and of paying anything to intermediaries who promise shortcuts around the notary.</p><p><strong>The strategic error of waiting.</strong> Every year of delay makes it worse: witnesses who knew the boundaries die, documents scatter across the family, and a second death adds a whole new succession layer to the file. The cheapest time to fix an unregistered inheritance is always now.</p><p><strong>Division between siblings.</strong> Registering the heirs jointly is often only step one; actually splitting the land into separate plots per heir is a <a href=\"/en/guides/subdividing-land-romania.html\">subdivision</a> with its own notarial act. Plan both stages together — it is cheaper and faster than two separate projects.</p><p>Realistic total calendar: one to three months for a file where the succession still needs to be settled — see our <a href=\"/en/guides/land-registration-timeline-romania.html\">timeline guide</a> for the breakdown.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Frequently asked questions",
+      "items": [
+        {
+          "q": "Can the whole process really be done without travelling to Romania?",
+          "a": "Yes, and for most of our diaspora clients it is. You sign a power of attorney at a notary or Romanian consulate where you live; a mandated person — a relative, your lawyer, or us for the technical and administrative steps — handles everything on the ground. Updates and documents move over WhatsApp and email in English."
+        },
+        {
+          "q": "What does Romanian inheritance cost in taxes?",
+          "a": "Notarial fees scale with the estate's declared value. A point worth knowing: if the succession is settled more than two years after the death, an additional state tax applies — one more reason not to postpone. Your notary quotes the exact figures; we can recommend notaries used to working with heirs abroad."
+        },
+        {
+          "q": "We do not know exactly where the land is. Is that fatal?",
+          "a": "Usually not. The property title's tarla and parcel references, the commune's parcelling plans, and the agricultural register typically let us locate it — see our cadastral number lookup guide for how the identification trail works. We tell you honestly if a case looks unfindable before you spend serious money."
+        },
+        {
+          "q": "There are several heirs across three countries. Does that complicate things?",
+          "a": "It adds coordination, not impossibility. Each heir gives a power of attorney locally; the successions are settled in one notarial file; the land is registered in shares. Whether you then keep it jointly, subdivide, or sell and split the proceeds is a family decision we can support with plans and valuation-relevant measurements."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://notari.pro/succesiune/taxa-succesiune-2-ani-sau-mai-multi-de-la-deces",
+      "title": "Impozitul de 1% pe valoarea bunurilor imobile din masa succesorală se datorează numai dacă succesiunea este finalizată la peste 2 ani de la deces"
+    },
+    {
+      "url": "https://www.noulcodfiscal.ro/titlu-4/capitol-9/articol-111.html",
+      "title": "Cod fiscal art. 111 — transferul proprietăților imobiliare, inclusiv regimul succesiunilor dezbătute peste termenul de 2 ani de la deces"
+    },
+    {
+      "url": "https://verifi.ro/taxe-succesiune",
+      "title": "Costul succesiunii în 2026 — onorariul notarial pe tranșe de valoare (Ordinul ministrului justiției nr. 177/C/2024) plus TVA; certificatul de moștenitor ca act de bază"
+    },
+    {
+      "url": "https://www.ancpi.ro/ocpi/gl/tarife-servicii/",
+      "title": "OCPI (ANCPI) — tarife servicii: prima înregistrare a imobilului este scutită de tarif (codurile 2.1.1–2.1.4) în regimul normal"
+    },
+    {
+      "url": "https://viena.mae.ro/node/470",
+      "title": "MAE / misiunile diplomatice ale României — redactarea și autentificarea procurilor la consulat, pentru moștenitorii aflați în străinătate"
+    }
+  ],
+  "related": [
+    "/en/services/cadastral-registration.html",
+    "/en/guides/power-of-attorney-property-romania.html",
+    "/en/guides/romania-cadastral-number-lookup.html",
+    "/en/guides/subdividing-land-romania.html",
+    "/en/guides/land-registration-timeline-romania.html"
+  ]
+}

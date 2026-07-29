@@ -1,0 +1,122 @@
+{
+  "slug": "radiere-ipoteca-din-cf",
+  "title": "Radiere ipotecă din cartea funciară — pași și acte 2026",
+  "h1": "Radierea ipotecii din cartea funciară",
+  "metaDescription": "Ați achitat creditul: ce documente vă dă banca, cum se depune cererea de radiere la OCPI, cât durează, cât costă și cum verificați că ipoteca a dispărut din foaia C.",
+  "whatsappTopic": "radierea unei ipoteci din cartea funciară",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Ultima rată nu șterge ipoteca",
+      "text": "Este cea mai costisitoare presupunere din imobiliarele românești: oamenii cred că, odată achitat creditul, ipoteca dispare de la sine din cartea funciară. Nu dispare. Ipoteca este o înscriere în foaia C a cărții funciare — foaia sarcinilor — și rămâne acolo până când cineva depune la OCPI o cerere de radiere însoțită de documentul prin care creditorul consimte la ștergerea ei.\n\nConsecința practică o vedem des: proprietari care descoperă ipoteca veche de zece ani exact în ziua în care vor să vândă, să doneze sau să ipotecheze din nou imobilul pentru un credit nou. Notarul nu autentifică actul cu o sarcină neradiată, iar rezolvarea, deși nu e complicată, cere timp: banca trebuie contactată, documentul emis, dosarul depus, încheierea așteptată.\n\nA doua situație frecventă apare la moștenire. Apartamentul rămas de la părinți poartă o ipotecă din creditul lor, achitat demult. Moștenitorii nu știu de ea până când cerem extrasul de carte funciară. Verificarea costă câteva zeci de lei și cinci minute — o facem noi, gratuit, la orice consultare."
+    },
+    {
+      "type": "process",
+      "heading": "Pașii radierii, în ordine",
+      "steps": [
+        {
+          "title": "1. Confirmarea achitării integrale",
+          "text": "Cereți băncii un document care confirmă că soldul creditului este zero și că nu mai există obligații — de regulă se numește adeverință de achitare integrală sau document de închidere a creditului. Fără el, banca nu emite acordul de radiere."
+        },
+        {
+          "title": "2. Solicitarea acordului de radiere",
+          "text": "Banca (sau alt creditor ipotecar) emite documentul prin care consimte la radierea ipotecii și, dacă e cazul, a interdicțiilor de înstrăinare și grevare notate odată cu ea. Acest consimțământ se dă, în practică, în formă autentică notarială sau cu semnătură legalizată. Cereți-l explicit și în scris; unele bănci îl eliberează automat, altele numai la cerere."
+        },
+        {
+          "title": "3. Verificarea situației exacte din foaia C",
+          "text": "Cerem extrasul de carte funciară de informare și citim exact ce este înscris: ipoteca, interdicția de înstrăinare, interdicția de grevare, eventual mai multe înscrieri succesive de la refinanțări. Documentul băncii trebuie să acopere toate aceste poziții, altfel o parte rămâne pe imobil."
+        },
+        {
+          "title": "4. Depunerea cererii la OCPI",
+          "text": "Se depune cererea de radiere, formular tip ANCPI, însoțită de documentul emis de creditor, actul de identitate al proprietarului și dovada achitării tarifului. Depunerea se poate face la ghișeu sau electronic; noi o facem electronic pentru clienții noștri."
+        },
+        {
+          "title": "5. Încheierea de radiere și verificarea",
+          "text": "Registratorul emite încheierea prin care dispune radierea. La final, cereți un extras de carte funciară nou și verificați că foaia C este curată — sau că mai conțin doar înscrieri legitime, cum ar fi o servitute. Aceasta este singura dovadă care contează."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "heading": "Dosarul de radiere — ce trebuie să conțină",
+      "items": [
+        "Cererea de radiere, formular tip ANCPI, semnată de proprietar sau de reprezentantul său",
+        "Documentul emis de bancă prin care consimte la radierea ipotecii și a interdicțiilor asociate, în formă autentică sau cu semnătură legalizată",
+        "Adeverința de achitare integrală a creditului, dacă banca a emis-o separat",
+        "Extrasul de carte funciară de informare, ca să știți exact ce se radiază (util, chiar dacă registratorul verifică oricum)",
+        "Copia actului de identitate al proprietarului; pentru firme, certificatul de înregistrare și dovada reprezentării",
+        "Procura notarială, dacă cererea se depune prin altcineva",
+        "Dovada achitării tarifului OCPI pentru operațiunea de radiere"
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Cazuri speciale de radiere",
+      "head": ["Situația", "Ce se schimbă"],
+      "rows": [
+        ["Credit Prima Casă / Noua Casă cu garanție de stat", "poate fi necesar și acordul instituției care a acordat garanția, nu doar al băncii"],
+        ["Banca a fost preluată de altă bancă sau a fuzionat", "acordul îl emite instituția succesoare; cereți-l acolo, cu referire la creditul inițial"],
+        ["Creditul a fost cesionat unei firme de recuperare", "consimțământul la radiere îl dă cesionarul actual, înscris ca titular al ipotecii"],
+        ["Ipoteca a fost constituită în favoarea unei persoane fizice", "declarația autentică de radiere se dă la notar de către creditorul persoană fizică"],
+        ["Creditorul refuză nejustificat sau nu poate fi găsit", "radierea se cere pe cale judecătorească, prin acțiune în justiție"],
+        ["Ipoteca a fost înscrisă din eroare", "se cere îndreptarea erorii materiale sau rectificarea înscrierii, după caz"],
+        ["Există și privilegiu / sechestru / popriri notate", "acestea au regim propriu și nu se radiază cu documentul băncii"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Unde intervine, și unde nu intervine, topograful",
+      "text": "Trebuie spus limpede: radierea unei ipoteci nu este o lucrare cadastrală. Nu presupune măsurători, nu presupune plan de amplasament, nu presupune releveu. Este o operațiune pur juridică de carte funciară, iar cine v-o prezintă drept „lucrare de cadastru” exagerează.\n\nCe facem noi, în practică, este partea de logistică și de verificare. Obținem extrasul de carte funciară și vă spunem exact ce sarcini figurează, cu ce număr de înscriere și din ce an. Vă spunem dacă documentul primit de la bancă acoperă tot ce e înscris sau doar o parte — o eroare mai frecventă decât credeți, mai ales la imobile refinanțate de două-trei ori. Completăm și depunem cererea electronic și urmărim soluționarea.\n\nFacem asta pentru că, în nouă cazuri din zece, radierea apare ca pas colateral într-un dosar mai mare: o vânzare, o dezmembrare, o succesiune, un credit nou. Dacă ne ocupăm oricum de partea cadastrală, este natural să vă scutim de un drum în plus. Dacă aveți doar de radiat o ipotecă, vă putem îndruma să o faceți singur — nu este un dosar care să necesite un profesionist."
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        {
+          "q": "Cât durează radierea la OCPI?",
+          "a": "Este una dintre cele mai rapide operațiuni de carte funciară. Birourile teritoriale afișează, pentru operațiuni simple de acest tip, termene de ordinul câtorva zile lucrătoare, iar în regim de urgență termenul scade la una–două zile. Ce durează, de fapt, este obținerea documentului de la bancă: de la câteva zile la câteva săptămâni, în funcție de instituție."
+        },
+        {
+          "q": "Cât costă?",
+          "a": "Tariful OCPI pentru radiere este mic — de ordinul zecilor de lei — iar regimul de urgență îl multiplică. La el se adaugă, dacă banca cere formă autentică, onorariul notarial pentru declarația de radiere, tot de ordinul zecilor–sutelor de lei. Multe bănci nu percep comision pentru eliberarea acordului, dar întrebați explicit."
+        },
+        {
+          "q": "Banca spune că trimite ea documentele la OCPI. E adevărat?",
+          "a": "Unele bănci fac acest demers, altele doar eliberează documentul și lasă depunerea în sarcina dumneavoastră. Nu presupuneți nimic: după 30 de zile de la achitare, cereți un extras de carte funciară și verificați cu ochii dumneavoastră dacă ipoteca a fost radiată. Este singura confirmare validă."
+        },
+        {
+          "q": "Am achitat creditul acum 8 ani. Se poate radia și acum?",
+          "a": "Da. Nu există termen de decădere pentru cererea de radiere. Complicația este de ordin practic: banca trebuie să regăsească dosarul vechi, iar dacă între timp a fuzionat sau a cesionat portofoliul, va trebui să identificați instituția succesoare. Începeți cu banca actuală care a preluat operațiunile."
+        },
+        {
+          "q": "Pot vinde apartamentul fără să radiez ipoteca?",
+          "a": "Practic, nu. Notarul verifică extrasul pentru autentificare și nu va autentifica vânzarea cu o ipotecă activă fără o soluție agreată de creditor. În vânzările cu credit în derulare există un mecanism standard prin care creditul se stinge din prețul plătit iar radierea se face în același flux — dar acolo banca este implicată de la început, nu descoperită în ultima zi."
+        },
+        {
+          "q": "Ce este interdicția de înstrăinare și de ce rămâne uneori după radierea ipotecii?",
+          "a": "Este o notare separată, făcută de regulă odată cu ipoteca, prin care se interzice vânzarea sau grevarea imobilului fără acordul creditorului. Are propriul număr de înscriere. Dacă documentul băncii se referă doar la ipotecă, interdicția rămâne, iar dosarul trebuie completat. Verificați ca acordul să menționeze expres toate înscrierile."
+        },
+        {
+          "q": "Cum verific singur, fără să plătesc pe nimeni?",
+          "a": "Cereți un extras de carte funciară de informare, se poate obține online prin platforma ANCPI, și citiți foaia C. Dacă acolo nu mai figurează nicio ipotecă activă, radierea s-a făcut. Am scris un ghid despre cum se citește extrasul de carte funciară, cu explicarea celor trei foi."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Verificăm ce sarcini are, de fapt, imobilul dumneavoastră",
+      "text": "Trimiteți-ne pe WhatsApp numărul cadastral sau adresa imobilului. Vă spunem exact ce este înscris în foaia de sarcini — ipoteci, interdicții, notări — și ce document trebuie să cereți băncii ca dosarul de radiere să iasă din prima. Informațiile din acest ghid au caracter informativ și nu constituie consultanță juridică."
+    }
+  ],
+  "related": {
+    "services": ["servicii-ocpi", "actualizare-carte-funciara", "cadastru-si-intabulare"],
+    "guides": ["cum-citesti-un-extras-de-carte-funciara", "extras-carte-funciara-online", "cadastru-pentru-credit-ipotecar", "vanzare-apartament-acte-necesare", "intabulare-apartament-mostenit", "notare-litigiu-in-cf"]
+  },
+  "sources": [
+    "https://lege5.ro/Gratuit/gqydinzyge/procedura-privind-radierea-din-cartea-funciara",
+    "https://www.cfunciara.ro/suport/cum-verifici-daca-ipoteca-a-fost-radiata-din-cartea-funciara",
+    "https://notari.pro/declaratie/radiere-ipoteca",
+    "https://ms.ancpi.ro/termene/",
+    "https://legislatie.just.ro/Public/DetaliiDocumentAfis/265122"
+  ]
+}

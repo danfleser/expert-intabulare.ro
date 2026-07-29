@@ -1,0 +1,117 @@
+{
+  "slug": "rectificare-suprafata-teren-cf",
+  "title": "Rectificare suprafață în cartea funciară — cum se face",
+  "h1": "Rectificarea suprafeței terenului în cartea funciară",
+  "metaDescription": "Suprafața măsurată diferă de cea din CF: regula toleranței de 2%, când e nevoie de proces-verbal de vecinătate, ce acte cere OCPI, costuri orientative și când se ajunge în instanță.",
+  "whatsappTopic": "rectificarea suprafeței terenului în cartea funciară",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "De ce nu se potrivesc suprafețele",
+      "text": "Aproape orice teren măsurat astăzi cu GPS geodezic iese diferit față de suprafața scrisă în actul vechi. Nu e o greșeală a nimănui — este diferența dintre două epoci de măsurare. Suprafețele din titlurile de proprietate din anii '90 au fost, în multe cazuri, preluate din registrul agricol sau calculate pe planuri parcelare la scară mică, cu instrumente și metode care aveau erori de câțiva procenți. Suprafețele din cărțile funciare transilvane interbelice provin din măsurători austro-ungare, exprimate inițial în iugăre și stânjeni, convertite ulterior.\n\nLa acestea se adaugă cauze reale, nu doar de metodă: garduri mutate în timp, drumuri lărgite, bucăți cedate sau ocupate tacit între vecini, parcele comasate faptic în folosință. Un teren de un hectar poate avea, fără nicio rea-credință, o diferență de 300–400 mp între act și realitate.\n\nÎntrebarea practică nu este „de ce”, ci „ce se poate înscrie”. Iar aici regulile sunt precise, iar noi lucrăm strict în interiorul lor. Am tratat separat, într-un ghid dedicat, situația generală în care suprafața din acte diferă de teren; aici intrăm în procedura de rectificare propriu-zisă."
+    },
+    {
+      "type": "paragraph",
+      "heading": "Regula celor 2% — pragul care schimbă totul",
+      "text": "În regulamentul de recepție și înscriere aflat în vigoare, diferența dintre suprafața măsurată și cea înscrisă în cartea funciară sau în actul de proprietate este tratată diferit în funcție de mărimea ei. Când suprafața măsurată este mai mare cu până la 2% față de cea din act sau din cartea funciară, documentația se poate întocmi fără proces-verbal de vecinătate. Peste acest prag, dosarul devine mai pretențios: OCPI cere dovada că limitele au fost identificate corect și acceptate de vecini, iar în anumite situații se cere act suplimentar care să justifice diferența.\n\nAcelași prag de ±2% apare și la repoziționarea imobilului, unde modificarea geometriei nu poate duce la o modificare a suprafeței mai mare de plus/minus 2% față de suprafața măsurată înscrisă în cartea funciară sau în actul de proprietate.\n\nAșadar, primul lucru pe care îl facem după măsurători este un calcul simplu: cu cât diferă, în procente, față de act. Răspunsul la această întrebare decide dacă aveți în față un dosar de câteva săptămâni sau o discuție cu vecinii și, în cazurile grele, cu un avocat."
+    },
+    {
+      "type": "table",
+      "heading": "Ce se întâmplă, în funcție de mărimea diferenței",
+      "head": ["Diferența măsurată", "Traseu procedural", "Ce vă cerem de la dumneavoastră"],
+      "rows": [
+        ["în plus, până la 2%", "documentație cadastrală de actualizare, fără proces-verbal de vecinătate", "actele obișnuite; acces la teren pentru măsurare"],
+        ["în plus, peste 2%", "actualizare cu proces-verbal de vecinătate semnat de vecini și, după caz, acte justificative", "prezența dumneavoastră la măsurare, contactul vecinilor"],
+        ["în minus, orice valoare", "actualizare cu suprafața reală, mai mică", "acceptarea situației reale; verificăm întâi dacă nu e ocupare de teren"],
+        ["diferență din eroare materială evidentă în CF", "îndreptare de eroare materială, procedură mai simplă", "documentele din care rezultă eroarea"],
+        ["diferență cauzată de suprapunere cu vecinul", "clarificarea suprapunerii înainte de orice rectificare", "extrasele CF ale vecinilor, dacă le puteți obține"],
+        ["vecinul refuză semnătura și susține că terenul e al lui", "acțiune în grănițuire sau în rectificare la instanță", "avocat; noi asigurăm partea tehnică"]
+      ]
+    },
+    {
+      "type": "process",
+      "heading": "Cum decurge, pas cu pas, o rectificare de suprafață",
+      "steps": [
+        {
+          "title": "Analiza documentară înainte de teren",
+          "text": "Comparăm actul de proprietate, extrasul de carte funciară și, dacă există, documentația cadastrală anterioară din arhiva OCPI. De multe ori diferența este vizibilă din birou, iar la teren mergem deja cu o ipoteză."
+        },
+        {
+          "title": "Măsurarea limitelor reale",
+          "text": "Măsurăm conturul efectiv al imobilului în Stereografic 1970, cu punctele de hotar materializate: colțuri de gard, țăruși, borne. Este util să fiți prezent și să ne arătați ce considerați dumneavoastră că este limita — diferența dintre limita din acte și cea din folosință este deseori chiar miezul problemei."
+        },
+        {
+          "title": "Calculul diferenței și decizia de traseu",
+          "text": "Calculăm suprafața și procentul de diferență și vă spunem, în termeni clari, în care rând din tabelul de mai sus vă aflați. Aici se ia decizia dacă mai e nevoie de vecini sau nu, și dacă traseul rămâne administrativ."
+        },
+        {
+          "title": "Procesul-verbal de vecinătate, unde e necesar",
+          "text": "Este actul prin care proprietarul și deținătorii imobilelor învecinate constată situația din teren și își exprimă acordul cu privire la identificarea corectă a limitelor comune. Îl întocmim la fața locului, în prezența vecinilor. Semnătura vecinului nu îi ia nimic din teren — confirmă doar unde este limita comună."
+        },
+        {
+          "title": "Documentația și depunerea",
+          "text": "Întocmim planul de amplasament și delimitare cu suprafața rectificată, memoriul tehnic care explică diferența și calculul analitic al suprafeței. Depunem electronic și urmărim recepția. Dacă vine referat de completare, îl rezolvăm noi."
+        },
+        {
+          "title": "Extrasul final",
+          "text": "La final, cartea funciară arată suprafața rezultată din măsurători. Din acel moment, actele și realitatea coincid, iar la vânzare nu mai apar surprize."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Când rectificarea nu se poate face administrativ",
+      "text": "Există trei situații în care nu ne oprim la OCPI, iar noi vă spunem asta din prima zi, nu după ce ați plătit un dosar care va fi respins.\n\nPrima: vecinul contestă limita și refuză semnătura, iar diferența este semnificativă. Aici discuția nu mai este cadastrală, ci de proprietate, și se rezolvă prin acțiune în grănițuire sau, după caz, în revendicare, cu expertiză topografică judiciară dispusă de instanță.\n\nA doua: există suprapunere cu un imobil deja înscris. Nu se poate „mări” un imobil peste altul înregistrat; suprapunerea se clarifică întâi, prin corectarea documentației greșite sau prin repoziționare.\n\nA treia: diferența provine dintr-o parte de teren pentru care nu aveți titlu deloc — de exemplu o bucată din domeniul public sau o fâșie ocupată de decenii. Aici nu se face rectificare, ci, eventual, uzucapiune sau o procedură administrativă separată. Rectificarea cărții funciare are limite clare și nu este un instrument de dobândire a proprietății.\n\nÎn toate aceste cazuri rămânem utili: expertiza tehnică, planurile comparative și calculele sunt exact ce cere instanța."
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        {
+          "q": "Cât costă o rectificare de suprafață?",
+          "a": "Onorariul nostru pentru documentația de actualizare a suprafeței pornește orientativ de la 800 lei la un teren intravilan obișnuit și crește cu suprafața, cu numărul de vecini implicați și cu complexitatea terenului. Dacă e nevoie de deplasări repetate pentru procese-verbale de vecinătate, costul crește. Tarifele OCPI pentru actualizare sunt modeste. Oferta fermă v-o dăm după ce vedem extrasul CF și actul."
+        },
+        {
+          "q": "Cât durează?",
+          "a": "Măsurătorile și documentația: câteva zile până la o săptămână. Procesele-verbale de vecinătate pot adăuga săptămâni, pentru că depind de disponibilitatea vecinilor. Termenele OCPI pentru actualizări sunt de ordinul zilelor sau săptămânilor, în funcție de birou și de regim. Un dosar simplu se încheie tipic în 3–6 săptămâni."
+        },
+        {
+          "q": "Dacă suprafața reală e mai mică, pierd teren?",
+          "a": "Nu pierdeți teren — se corectează o cifră care nu era exactă. Terenul dumneavoastră rămâne același, cu aceleași limite. Ce se schimbă este numărul din cartea funciară, care începe să corespundă cu realitatea. Impozitul se recalculează după suprafața corectă, ceea ce uneori vă avantajează."
+        },
+        {
+          "q": "Vecinul refuză să semneze procesul-verbal, deși nu are nicio pretenție. Ce fac?",
+          "a": "Se întâmplă mai des decât ați crede, din neîncredere, nu din interes. Recomandarea noastră: mergem împreună, îi explicăm pe plan ce semnează și îi arătăm că limita lui rămâne neschimbată. Dacă tot refuză, se analizează dacă dosarul poate merge fără el sau dacă trebuie o cale judiciară. Nu semnăm în locul nimănui și nu inventăm acorduri."
+        },
+        {
+          "q": "Am titlu de proprietate cu 5.000 mp, măsurat iese 5.400 mp. Ce înseamnă 2% aici?",
+          "a": "2% din 5.000 mp înseamnă 100 mp. Diferența dumneavoastră este de 400 mp, adică 8% — peste prag. Dosarul va avea nevoie de proces-verbal de vecinătate și, după caz, de acte justificative. Nu este imposibil, dar nu este nici automat."
+        },
+        {
+          "q": "Se poate rectifica suprafața fără să merg la notar?",
+          "a": "Da, în cazul obișnuit. Actualizarea suprafeței este o operațiune cadastrală, nu una notarială. Notarul intervine dacă rectificarea presupune un act juridic — de exemplu dacă vecinii convin să își transfere o fâșie de teren, ceea ce înseamnă vânzare, donație sau schimb în formă autentică."
+        },
+        {
+          "q": "Imobilul e într-o localitate cu cadastru sistematic. Se corectează de la sine?",
+          "a": "Înregistrarea sistematică remăsoară localitatea și poate corecta suprafețe, dar nu rezolvă automat cazurile conflictuale și nu funcționează la termenul de care aveți nevoie dacă vindeți luna viitoare. Dacă lucrările sistematice sunt în derulare în comuna dumneavoastră, vă spunem cinstit dacă merită să așteptați — despre programul național am scris un ghid separat."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Trimiteți-ne actul și extrasul — calculăm diferența",
+      "text": "Pe WhatsApp, cu actul de proprietate și extrasul de carte funciară, vă putem spune încă înainte de a ieși pe teren cât de mare e diferența pe hârtie și ce traseu vă așteaptă. Măsurarea confirmă apoi cifra exactă. Informațiile din acest ghid au caracter informativ și nu constituie consultanță juridică."
+    }
+  ],
+  "related": {
+    "services": ["actualizare-carte-funciara", "cadastru-si-intabulare", "expertize-documentatii"],
+    "guides": ["suprafata-din-acte-difera-de-teren", "repozitionare-imobil-cand-e-necesara", "acte-necesare-actualizare-date-imobil", "trasare-teren-cand-ai-nevoie", "cum-citesti-un-extras-de-carte-funciara", "cadastru-gratuit-pnccf"]
+  },
+  "sources": [
+    "https://legislatie.just.ro/Public/DetaliiDocumentAfis/265122",
+    "https://www.imopedia.ro/stiri-imobiliare/ancpi-situatiile-in-care-nu-mai-este-necesar-procesul-verbal-de-vecinatate-24864",
+    "https://e-cadastru.ro/repozitionare-si-proces-verbal-de-vecinatate/",
+    "https://lege5.ro/gratuit/gi2tsmbqhe/cartea-funciara-codul-civil",
+    "https://ms.ancpi.ro/termene/"
+  ]
+}

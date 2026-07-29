@@ -1,0 +1,139 @@
+{
+  "path": "/en/services/land-registration-fees-romania.html",
+  "title": "Land Registry Fees in Romania — ANCPI / OCPI Tariffs Explained (2026)",
+  "metaDescription": "What the Romanian state actually charges for cadastral and land-book services in 2026: ANCPI/OCPI tariffs, free first registration, free land-book extracts for owners, the 0.15% purchase fee, and the urgency regime.",
+  "h1": "ANCPI and OCPI Tariffs: What the Romanian State Charges for Land Registration",
+  "roPair": "https://expert-intabulare.ro/ghid/taxe-si-tarife-ocpi-ancpi.html",
+  "navLabelEn": "Land registry fees",
+  "whatsappPrefillEn": "Hello! Could you tell me what the official ANCPI/OCPI fees would be for my case in Romania?",
+  "footer": false,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Three separate bills, one transaction",
+      "html": "<p>When a foreign buyer asks \"what does registration cost in Romania\", the honest answer is that three unrelated parties charge you, and confusing them is how people end up feeling overcharged by the wrong person.</p><ul><li><strong>The state, through ANCPI/OCPI.</strong> <em>ANCPI</em> is the national cadastre and land registration agency; each county has an <em>OCPI</em> office, and within it local <em>BCPI</em> bureaux that actually hold the land books. Their tariffs are set by ministerial order (Order 16/2019, repeatedly amended) — they are public, identical in every county, and not negotiable by anyone.</li><li><strong>The notary public.</strong> A separate liberal profession with its own national fee schedule. Any transfer of ownership, succession, division deed or power of attorney passes through a notary, and that fee has nothing to do with the land registry.</li><li><strong>The surveyor.</strong> Our fee, freely priced, for measuring the property and producing the documentation OCPI accepts. That side is covered on our <a href=\"/en/guides/land-survey-cost-romania.html\">survey cost guide</a>; this page is deliberately only about the state's share.</li></ul><p>Ask any quote you receive to separate these three. A quote that folds them into one number is not necessarily dishonest, but you cannot compare it to anything.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "What the state charges in 2026 (indicative — confirmed per file)",
+      "head": [
+        "Service",
+        "Standard-regime tariff",
+        "Notes"
+      ],
+      "rows": [
+        [
+          "First registration of a property (reception of the documentation and opening of the land book)",
+          "exempt from tariff",
+          "Codes 2.1.1–2.1.4 of the tariff annex; the state charges nothing, so your only cost is the surveyor's fee"
+        ],
+        [
+          "Land-book extract for information (extras de carte funciară pentru informare)",
+          "free for the owner; a small tariff (order of 20 lei) for anyone else",
+          "Owners obtain it themselves, online through ANCPI's MyEterra platform or at the counter"
+        ],
+        [
+          "Extract for authentication (extras pentru autentificare)",
+          "own tariff, collected through the notary",
+          "Only a notary may order it; valid 10 days, during which it blocks the land book so nobody else can alter the property's legal status"
+        ],
+        [
+          "Registering ownership on a purchase — individuals",
+          "0.15% of the price stated in the deed",
+          "Applies when the property already has cadastral registration; normally collected by the notary and forwarded"
+        ],
+        [
+          "Registering ownership on a purchase — companies",
+          "0.5% of the price stated in the deed",
+          "Same procedure, higher rate"
+        ],
+        [
+          "Urgency regime",
+          "an additional urgency tariff on top of the standard one",
+          "Shortens the statutory term on most services — but not on first registration, whose term is identical in both regimes under the schedule in force since August 2025"
+        ]
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "Four things foreign owners consistently get wrong",
+      "html": "<p><strong>\"There must be a cadastre tax.\"</strong> There used to be. Registering an unregistered property for the first time is currently exempt from the state tariff — a deliberate policy choice to remove the barrier, since roughly a third of Romanian property is still outside the electronic land book. If someone bills you a \"state cadastre tax\" for a standard first registration, ask which service code in the tariff annex it corresponds to.</p><p><strong>\"The free extract must be a limited version.\"</strong> It is not. Since 2025, owners obtain the information extract and the cadastral plan extract on orthophoto free of charge, at the counter and then online through MyEterra; hundreds of thousands are issued that way each month. What you pay for is only the authentication extract, and that one exists to freeze the land book for a signing.</p><p><strong>\"0.15% of what, exactly?\"</strong> Of the price declared in the notarial deed, not of the market value, not of our fee, and not of the cadastral value. On a purchase, expect the notary to collect it alongside their own fee and remit it when the deed is filed. If the property has never been registered, you are in the exempt first-registration lane instead — a different track, not a discount.</p><p><strong>\"Fees must be cheaper in a small county.\"</strong> They are national. OCPI Alba, OCPI Cluj and OCPI Sibiu charge the same for the same service. What genuinely differs between offices is workload, and therefore how long a file waits — which is a scheduling question, not a pricing one.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "The urgency regime, and the costs that are not registry fees",
+      "html": "<p>Most OCPI services have an urgency variant: you pay a supplementary tariff and the processing term falls sharply. It is worth paying whenever a real date depends on it — a signing appointment, a mortgage drawdown, a grant deadline. Two caveats decide whether it is money well spent. First, it buys nothing on a first registration: under the term schedule in force since August 2025, that service carries the same term in the standard and the urgent regime, so paying extra changes only the invoice. Second, it cannot override the priority principle: where earlier applications on the same property are still unresolved, your file waits its turn regardless. Our <a href=\"/en/guides/land-registration-timeline-romania.html\">timeline guide</a> sets out which services the urgency regime genuinely shortens.</p><p>Budget separately for items that feel like registry fees but are not: the notarial fee on the deed itself; certified translations and, for documents issued abroad, an apostille; the fiscal certificate from the town hall confirming local taxes are paid (free in many communes, a token charge in others); the inheritance tax of 1% that applies where a succession is settled more than two years after the death; and the urbanism certificate where an operation requires one. None of these reach ANCPI, but all of them reach your bank account, so we list them in every estimate we give.</p><p>Send us your land-book extract, or simply the county, the locality and what you are trying to achieve, on WhatsApp. You will get back the surveyor's fee, the specific OCPI tariffs your file will actually attract, and a realistic timeline in both the standard and the urgent regime — as three separate numbers. The figures on this page reflect the tariffs in force at the time of writing and are informative; we confirm the exact amount for your file on the day.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Frequently asked questions",
+      "items": [
+        {
+          "q": "So first registration really costs nothing to the state?",
+          "a": "Yes — the first-registration services are exempt under the current tariff order, so your only cost is the surveyor's fee for producing the documentation. And there is no faster track worth buying here: the processing term for a first registration is the same whether you pay the urgency tariff or not."
+        },
+        {
+          "q": "Who is legally responsible for paying the OCPI tariffs — me or the surveyor?",
+          "a": "The beneficiary of the work, meaning you. In practice we quote them separately and pay them on your behalf when filing, so you see exactly what went to the state and what was our fee."
+        },
+        {
+          "q": "I am buying a house that already has cadastral registration. What do I owe OCPI?",
+          "a": "0.15% of the price in the deed as an individual buyer, with a minimum amount per application, normally collected by the notary at signing. If the property has not physically changed, you do not need a surveyor at all for the transfer."
+        },
+        {
+          "q": "Can I order an extract myself from abroad?",
+          "a": "If you are the registered owner, yes — through ANCPI's online platform, free of charge. If you are a prospective buyer, you or your representative can order an information extract for a small tariff; our guide on ordering a land registry extract walks through it, and we read the result with you if the entries are unclear."
+        },
+        {
+          "q": "Do these tariffs change?",
+          "a": "Periodically, by order — the exemptions described here are themselves recent amendments. We confirm the current figures for your file at the moment of filing rather than relying on any published table, including this one."
+        }
+      ]
+    }
+  ],
+  "related": [
+    "/en/services/land-registry-extract.html",
+    "/en/services/cadastral-registration.html",
+    "/en/guides/land-survey-cost-romania.html",
+    "/en/guides/how-to-get-land-registry-extract-romania.html",
+    "/en/contact.html"
+  ],
+  "sources": [
+    {
+      "url": "https://www.ancpi.ro/bucuresti-01-04-2025-extrasele-de-carte-funciara-gratuite-pentru-proprietari/",
+      "title": "ANCPI — extrasele de carte funciară pentru informare, gratuite pentru proprietari (ghișeu din 7 aprilie, online din 2 iunie)"
+    },
+    {
+      "url": "https://www.juridice.ro/820755/numarul-de-extrase-cf-eliberate-gratuit-online-in-primele-doua-luni-din-2026.html",
+      "title": "JURIDICE.ro — 340.129 extrase CF gratuite eliberate online prin MyEterra în ian.–feb. 2026"
+    },
+    {
+      "url": "https://www.ancpi.ro/ocpi/gl/tarife-servicii/",
+      "title": "OCPI Galați — tarife servicii: prima înregistrare scutită (codurile 2.1.1–2.1.4), intabulare 0,15% persoane fizice"
+    },
+    {
+      "url": "https://lege5.ro/gratuit/gmytkmrwgqyq/art-2-ordin-16-2019",
+      "title": "Ordinul ANCPI nr. 16/2019 privind tarifele — text actualizat 2026"
+    },
+    {
+      "url": "https://www.ancpi.ro/transparenta07-02-2025/",
+      "title": "ANCPI — proiect de ordin pentru modificarea Ordinului nr. 16/2019 (tarife)"
+    },
+    {
+      "url": "https://eghiseul.ro/cat-costa-cadastrul-si-intabularea/",
+      "title": "Cât costă cadastrul și intabularea în 2026 — tarife OCPI vs. onorariu topograf"
+    },
+    {
+      "url": "https://notariate.ro/calculator-taxe-notariale/carte-funciara/",
+      "title": "Extras de carte funciară pentru autentificare — valabilitate 10 zile, solicitat exclusiv de notar"
+    },
+    {
+      "url": "https://legislatie.just.ro/Public/DetaliiDocument/301467",
+      "title": "Ordinul ANCPI nr. 1622/2025 (M.Of. 775/20.08.2025, în vigoare din 23.08.2025) — termene: recepție și înființare carte funciară 15 zile lucrătoare atât în regim normal, cât și în urgență; intabulare drepturi reale 7/2; dezlipire-alipire 7/3. Confirmă că urgența NU scurtează prima înregistrare (verificat 2026-07-29)"
+    },
+    {
+      "url": "https://www.ancpi.ro/ocpi/gl/ordin-441-din-27-03-2025-privind-modificarea-si-completarea-odg-al-ancpi-nr-16-2019-privind-aprobarea-tarifelor-pentru-serviciile-furnizate-de-ancpi-si-institutiile-sale-subordonate/",
+      "title": "Ordinul ANCPI nr. 441/2025 (M.Of. 281/31.03.2025, în vigoare 7 aprilie 2025) — scutirea de tarif pentru serviciile de primă înregistrare, codurile 2.1.1–2.1.4, și pentru extrasul de CF/plan cadastral solicitat de proprietar"
+    }
+  ]
+}

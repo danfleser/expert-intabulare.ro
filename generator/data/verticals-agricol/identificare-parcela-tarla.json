@@ -1,0 +1,97 @@
+{
+  "slug": "identificare-parcela-tarla",
+  "title": "Identificarea parcelei în tarla: cum găsim fizic terenul din titlu | Expert Intabulare",
+  "h1": "Cum găsim fizic parcela din titlul de proprietate",
+  "metaDescription": "Cum se identifică pe teren o parcelă agricolă din titlu: plan parcelar, ortofotoplan, vecini, măsurători GPS. Metoda de lucru a unui topograf autorizat ANCPI.",
+  "whatsappTopic": "identificarea unei parcele agricole pe teren",
+  "hook": "none",
+  "trustBar": true,
+  "group": "Intabulare și cadastru agricol",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "„Știu că am pământ acolo, dar nu știu exact unde”",
+      "html": "<p>E poate cea mai frecventă frază pe care o auzim de la moștenitori. Părinții știau fiecare brazdă; generația care a plecat la oraș a rămas cu un <a href=\"/dictionar/titlu-de-proprietate.html\">titlu de proprietate</a> care spune „tarlaua 27, parcela 43/2, arabil, 0,72 ha” — și cu o amintire vagă despre „la Podul Turcului, lângă terenul lui Moldovan”. Identificarea parcelei este operațiunea prin care aceste informații fragmentare devin un poligon cert, cu coordonate, pe care se poate construi tot restul: intabulare, vânzare, arendare, declarație APIA.</p><p>Important de înțeles: identificarea nu e o formalitate, ci partea cu adevărat grea a cadastrului agricol. A măsura e simplu — a ști <em>ce</em> măsori, exact asta desparte un topograf cu experiență locală de o aplicație de telefon.</p>"
+    },
+    {
+      "type": "process",
+      "heading": "Metoda noastră de identificare, sursă cu sursă",
+      "steps": [
+        "Titlul și procesul-verbal de punere în posesie — Extragem numerele de tarla și parcelă, suprafața, categoria de folosință și vecinii de la data emiterii. Procesul-verbal conține uneori schițe care valorează aur.",
+        "Planul parcelar — Cerem la OCPI și la primărie planul tarlalei. Dacă există și e coerent, el ne dă ordinea și dimensiunile parcelelor — scheletul identificării.",
+        "Ortofotoplanurile — Comparăm fotografiile aeriene actuale și istorice (ANCPI le are din mai multe perioade): drumuri de exploatare, limite de cultură și aliniamente de pomi confirmă sau contrazic planul.",
+        "Vecinii și memoria locului — Discutăm cu vecinii de parcelă și, unde mai există, cu oamenii care au participat la punerea în posesie. Două declarații independente care arată aceeași limită cântăresc mult.",
+        "Imobilele deja înscrise — Parcelele vecine intabulate sunt ancore: poziția lor în e-Terra fixează capetele tarlalei și restrânge zona de căutare.",
+        "Măsurătoarea de verificare — Cu toate sursele suprapuse, mergem în teren cu GPS RTK, materializăm limitele propuse și le confruntăm cu realitatea folosinței. Abia acum identificarea devine documentație."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Capcanele clasice ale identificării",
+      "html": "<p>Câteva situații pe care le întâlnim constant în tarlalele din Alba, Cluj și Mureș. <strong>Parcela „glisată”</strong>: de-a lungul anilor, arăturile succesive au împins limitele întregului șir de parcele cu metri buni față de plan — fiecare vecin e „corect” față de vecinul lui, dar tot șirul e deplasat. <strong>Drumul de exploatare mâncat</strong>: drumul dintre tarlale a fost arat și inclus treptat în parcele, iar suprafețele „cresc” pe hârtie fără acoperire juridică. <strong>Ordinea inversată</strong>: în unele tarlale punerea în posesie s-a făcut de la celălalt capăt decât arată planul, iar toate parcelele sunt în oglindă. <strong>Folosința schimbată</strong>: parcela de <a href=\"/dictionar/arabil.html\">arabil</a> din titlu e azi pârloagă sau pășune, iar reperele de cultură au dispărut. Fiecare capcană are semnătura ei în teren și în acte — și fiecare, odată recunoscută, are o rezolvare documentabilă. Ce nu funcționează niciodată: să măsori „unde zice omul că e” fără să confrunți sursele — așa apar <a href=\"/teren-agricol/suprapunere-cadastrala-teren-agricol.html\">suprapunerile cadastrale</a> pe care alții le repară ani de zile.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Ce ne ajută să identificăm mai repede parcela ta",
+      "items": [
+        "Titlul de proprietate și, dacă există, procesul-verbal de punere în posesie cu schițe",
+        "Orice act vechi cu vecinii menționați: contracte, registre agricole vechi, chitanțe de arendă",
+        "Numele vecinilor de parcelă actuali și de la punerea în posesie, dacă familia le mai știe",
+        "Cine a lucrat terenul în ultimii ani (chiar informal) — folosința continuă e un indiciu puternic",
+        "Extrasul APIA cu blocul fizic, dacă terenul a fost declarat vreodată la subvenții"
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        {
+          "q": "Nu pot găsi parcela cu o aplicație GPS de telefon?",
+          "a": "Telefonul îți arată unde ești tu, nu unde e parcela — pentru asta trebuie ca cineva să fi stabilit deja limitele ei în coordonate. Dacă parcela nu e intabulată și tarlaua nu are plan parcelar georeferențiat, aplicația nu are ce să-ți afișeze. Exact acest gol îl umple identificarea."
+        },
+        {
+          "q": "Vecinii nu mai trăiesc sau nu-i cunosc. Se mai poate identifica parcela?",
+          "a": "Da, dar cu mai multă muncă de arhivă: plan parcelar, ortofotoplanuri istorice, imobilele înscrise din jur și evidențele comisiei locale. Declarațiile vecinilor sunt o sursă, nu singura."
+        },
+        {
+          "q": "Cât costă doar identificarea, fără intabulare?",
+          "a": "De regulă nu le separăm: identificarea e prima etapă a documentației cadastrale, iar costul ei e inclus în lucrare. Dacă vrei doar să afli unde e terenul (de exemplu înainte să decizi dacă îl vinzi), putem face o identificare preliminară cu raport — cere o ofertă pe WhatsApp."
+        },
+        {
+          "q": "Ce se întâmplă dacă identificarea arată că parcela e folosită de altcineva?",
+          "a": "Se documentează situația exact așa cum e — cine folosește, de când, pe ce se bazează — și îți prezentăm opțiunile: discuție amiabilă, notificare, grănițuire sau acțiune în instanță cu expertiză. Avem o pagină despre terenul trecut pe alt nume și una despre hotarul mutat de vecin."
+        },
+        {
+          "q": "Titlul spune „tarlaua 42, parcela 118/3”. Ce înseamnă fiecare cifră?",
+          "a": "Tarlaua este marea unitate de teren delimitată de repere stabile — drumuri, canale, liziere — iar numărul ei vine din planurile de fond funciar ale comunei. Parcela este subdiviziunea din interiorul tarlalei, iar cifra de după bară arată, de regulă, o împărțire ulterioară a acelei parcele între mai mulți proprietari. Important de reținut: numerotarea este locală, valabilă doar în cadrul comunei respective, și nu are nicio legătură cu numărul cadastral din cartea funciară."
+        },
+        {
+          "q": "Se poate identifica parcela iarna sau după arat?",
+          "a": "Se poate, dar rezultatul este mai slab. Cele mai bune identificări se fac când cultura este pe câmp, pentru că limitele de exploatare sunt vizibile și se pot compara direct cu ortofotoplanul. Pe teren arat sau înzăpezit rămânem cu reperele fixe — drumuri, șanțuri, liziere, stâlpi — și cu declarațiile vecinilor. Când miza e mare, preferăm să programăm ieșirea în sezon; când e urgent, identificăm acum și verificăm la prima ocazie."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Nu știi exact unde e pământul familiei?",
+      "text": "Trimite-ne pe WhatsApp o poză după titlu și tot ce știi despre zonă — îți spunem ce șanse are identificarea și de unde începem."
+    }
+  ],
+  "related": [
+    "intabulare-teren-cu-titlu-de-proprietate",
+    "plan-parcelar-ce-este-cine-il-intocmeste",
+    "tarla-parcela-sola-diferente",
+    "cadastru-teren-extravilan",
+    "suprapunere-cadastrala-teren-agricol",
+    "vecinul-a-mutat-hotarul",
+    "/servicii/intabulare-teren/",
+    "/dictionar/tarla.html",
+    "/dictionar/ortofotoplan.html",
+    "/dictionar/gps-rtk.html"
+  ],
+  "sources": [
+    "https://www.ancpi.ro/",
+    "https://geoportal.ancpi.ro/",
+    "https://legislatie.just.ro/Public/DetaliiDocument/1459"
+  ]
+}

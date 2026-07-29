@@ -1,0 +1,123 @@
+{
+  "slug": "teren-inscris-pe-alt-proprietar",
+  "title": "Terenul meu apare pe alt nume: verificări și căi de urmat | Expert Intabulare",
+  "h1": "Terenul apare în cartea funciară pe altcineva. Ce faci?",
+  "metaDescription": "Cum verifici cine figurează proprietar, de ce apare terenul pe alt nume, ce înseamnă o înscriere greșită și ce căi ai: rectificare de carte funciară sau instanță.",
+  "whatsappTopic": "un teren înscris în cartea funciară pe altcineva",
+  "hook": "none",
+  "trustBar": true,
+  "group": "Probleme frecvente",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Prima regulă: nu presupune, verifică",
+      "html": "<p>Situația sună alarmant și, uneori, chiar este. De cele mai multe ori însă, explicația este una tehnică. Înainte de orice reacție, se face o verificare completă: cine figurează în cartea funciară, în baza cărui act, pe ce număr cadastral și dacă imobilul din CF este într-adevăr același cu cel din titlul tău.</p><p>Instrumentul de bază este <a href=\"/dictionar/extras-de-carte-funciara-pentru-informare.html\">extrasul de carte funciară pentru informare</a>, pe care îl poate obține oricine. Foaia A îți spune ce imobil este, foaia B cine e proprietar și în baza cărui act, iar foaia C ce sarcini există. Al doilea instrument este <a href=\"/dictionar/geoportal-ancpi.html\">geoportalul ANCPI</a>, unde se vede grafic ce imobile sunt înscrise în zona ta.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Cele cinci explicații pe care le întâlnim",
+      "head": [
+        "Situația",
+        "Cum se recunoaște",
+        "Ce se face"
+      ],
+      "rows": [
+        [
+          "Este alt imobil, nu al tău",
+          "Numărul cadastral din CF nu corespunde parcelei tale din teren",
+          "Identificare în teren și măsurători; nu e nimic de contestat"
+        ],
+        [
+          "Terenul figurează pe autorul tău (părinte, bunic)",
+          "Proprietar decedat, act de dobândire vechi",
+          "Dezbaterea succesiunii și înscrierea moștenitorilor"
+        ],
+        [
+          "Înscriere pe unul dintre coproprietari",
+          "Un frate a intabulat pe numele lui întreaga suprafață",
+          "Rectificare de carte funciară sau acțiune în instanță"
+        ],
+        [
+          "Eroare la cadastrul sistematic",
+          "Imobil înscris în PNCCF pe alt titular decât cel real",
+          "Cerere de rectificare la OCPI, cu actele de proprietate"
+        ],
+        [
+          "Suprapunere cadastrală",
+          "Imobilul altcuiva acoperă parțial parcela ta",
+          "Documentație de repoziționare sau rectificare, uneori instanță"
+        ]
+      ]
+    },
+    {
+      "type": "process",
+      "heading": "Ce facem noi, în ordine",
+      "steps": [
+        "Obținem extrasul de carte funciară pentru informare al imobilului în discuție și verificăm actul în baza căruia s-a înscris dreptul.",
+        "Identificăm parcela ta în teren, pornind de la titlul de proprietate, planul parcelar și vecinătățile.",
+        "Măsurăm GNSS limitele reale și le suprapunem peste imobilul înscris — abia acest pas arată dacă vorbim de același teren sau de două terenuri diferite.",
+        "Verificăm în geoportal și în planul cadastral dacă există suprapuneri cu alte imobile din zonă.",
+        "Îți predăm o situație clară: ce s-a înscris, pe ce suprafață, unde se suprapune cu a ta și cu cât.",
+        "În funcție de rezultat, mergem pe calea administrativă — rectificare, repoziționare, actualizare — sau îți pregătim documentația tehnică pentru instanță."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Căile de rezolvare, pe scurt",
+      "html": "<p><strong>Rectificarea de carte funciară</strong> este calea pentru înscrierile nevalabile sau inexacte. Ea se poate face pe baza acordului celui împotriva căruia se rectifică — situație în care se rezolvă la OCPI, cu actele necesare — sau prin hotărâre judecătorească, atunci când nu există acord.</p><p><strong>Acțiunea în revendicare</strong> intervine când altcineva stăpânește efectiv terenul și îl consideră al lui. Este o procedură judiciară în care proba se face cu acte și, aproape întotdeauna, cu <a href=\"/dictionar/expertiza-topografica-judiciara.html\">expertiză topografică</a>.</p><p><strong>Procedurile de fond funciar</strong> se folosesc când problema vine de la nivelul comisiei: titlu emis pe altcineva, punere în posesie greșită, anexe validate eronat. Aici discuția se poartă cu comisia locală și cea județeană, iar termenele legale de contestare contează foarte mult.</p><p>Un lucru pe care îl spunem tuturor: <strong>nu amânați</strong>. Cu cât o înscriere greșită rămâne mai mult în cartea funciară, cu atât apar mai multe acte încheiate pe baza ei — vânzări, ipoteci, moșteniri — și cu atât devine mai greu de desfăcut.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        {
+          "q": "Cum aflu cine figurează proprietar?",
+          "a": "Ceri un extras de carte funciară pentru informare, care se poate obține de oricine, la orice birou de carte funciară sau online. Ai nevoie de numărul cadastral sau de numărul de carte funciară; dacă nu le cunoști, le identificăm noi pornind de la poziția terenului."
+        },
+        {
+          "q": "Vecinul a intabulat și o bucată din terenul meu. E definitiv?",
+          "a": "Nu. O înscriere inexactă poate fi rectificată, iar suprapunerile se pot corecta prin documentații cadastrale sau, în lipsa acordului, prin instanță. Primul pas este dovedirea suprapunerii cu măsurători, nu discuția în contradictoriu."
+        },
+        {
+          "q": "Terenul e înscris pe bunicul meu. Trebuie proces?",
+          "a": "Nu, aceasta este situația normală când succesiunea nu a fost dezbătută. Se merge la notar cu actele, se obține certificatul de moștenitor și se înscrie dreptul pe moștenitori. Este o procedură notarială, nu una judiciară."
+        },
+        {
+          "q": "Ce costă mai puțin: rectificarea sau procesul?",
+          "a": "Întotdeauna calea administrativă, când este posibilă. De aceea prima etapă este verificarea completă: dacă cel înscris recunoaște eroarea, se rezolvă cu o documentație cadastrală și un act, la o fracțiune din costul unui litigiu."
+        },
+        {
+          "q": "Pot cumpăra terenul de la cel care figurează în cartea funciară, ca să scap de problemă?",
+          "a": "Este o soluție folosită, dar numai după ce ai lămurit de ce figurează el acolo. Dacă înscrierea lui este rezultatul unei erori — o parcelă greșit localizată, o poziție confundată în plan parcelar — cumpărând ai plăti pentru un drept pe care el nu îl are cu adevărat asupra terenului tău, iar problema rămâne. Dacă înscrierea este validă, iar tu ai stăpânit terenul din eroare, atunci cumpărarea este exact soluția corectă și cea mai ieftină. Ordinea este: întâi analiza actelor și a poziției din tarla, apoi decizia."
+        },
+        {
+          "q": "Cât de vechi poate fi un act care îmi susține dreptul?",
+          "a": "Vechimea nu îl slăbește. În zonele necooperativizate din Transilvania lucrăm frecvent cu cărți funciare deschise acum o sută de ani și cu acte interbelice, care își păstrează pe deplin valoarea. Ce contează este lanțul: să se poată urmări, act cu act, cum a ajuns dreptul de la titularul din carte până la tine, prin moșteniri, partaje sau vânzări. O verigă lipsă din acest lanț — de regulă o succesiune nedezbătută — este problema reală, nu vechimea documentelor."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Terenul tău apare pe alt nume?",
+      "text": "Trimite-ne pe WhatsApp titlul și, dacă îl ai, numărul cadastral — verificăm cartea funciară și îți spunem dacă e o eroare sau o problemă reală."
+    }
+  ],
+  "related": [
+    "suprapunere-cadastrala-teren-agricol",
+    "erori-in-titlul-de-proprietate",
+    "teren-mostenit-fara-succesiune",
+    "vecinul-a-mutat-hotarul",
+    "uzucapiune-teren-agricol",
+    "/servicii/actualizare-carte-funciara/",
+    "/servicii/expertize-documentatii/",
+    "/dictionar/rectificare-de-carte-funciara.html",
+    "/dictionar/actiune-in-revendicare.html",
+    "/dictionar/extras-de-carte-funciara-pentru-informare.html"
+  ],
+  "sources": [
+    "https://www.ancpi.ro/wp-content/uploads/2023/01/Lege-7-1996r3.pdf",
+    "https://legislatie.just.ro/Public/DetaliiDocument/175630",
+    "https://legislatie.just.ro/Public/DetaliiDocument/112084",
+    "https://lege5.ro/gratuit/gy3dgmbu/legea-fondului-funciar-nr-18-1991"
+  ]
+}

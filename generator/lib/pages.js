@@ -848,7 +848,7 @@ function buildGuideHub(ctx, guides) {
   const lis = guides
     .slice()
     .sort((a, b) => a.title.localeCompare(b.title, 'ro'))
-    .map((g) => `<li class="mb-2"><a href="/ghid/${escAttr(g.slug)}.html">${escHtml(g.title)}</a>${g.metaDescription ? ` — <span class="fz-14">${escHtml(g.metaDescription)}</span>` : ''}</li>`)
+    .map((g) => `<li class="mb-2"><a href="/ghid/${escAttr(g.slug)}.html">${escHtml(displayLabel(g))}</a>${g.metaDescription ? ` — <span class="fz-14">${escHtml(g.metaDescription)}</span>` : ''}</li>`)
     .join('');
   const waTopic = 'unul dintre ghidurile de pe site';
   const content = renderTemplate(tpl('page-vertical-hub.html'), {

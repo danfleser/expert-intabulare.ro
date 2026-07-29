@@ -1,0 +1,84 @@
+{
+  "path": "/en/guides/off-plan-apartment-registration-romania.html",
+  "title": "New-Build Apartment Registration in Romania — From Developer Handover to Your Own Land Book",
+  "metaDescription": "Buying a new apartment in Romania: how the building becomes individual units (apartamentare), what to verify in the developer's land book before paying, and the registration steps that make the unit truly yours.",
+  "h1": "Registering a New-Build Apartment in Romania: What Happens Between Handover and Ownership",
+  "roPair": null,
+  "whatsappPrefillEn": "Hello! I am buying a new-build apartment in Romania and would like the documentation checked before signing.",
+  "footer": false,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "How a building becomes apartments, legally",
+      "html": "<p>In the Romanian system, an apartment is not automatically a piece of property just because it physically exists. The chain runs: the developer's land is registered in a <a href=\"/en/guides/romanian-land-registry-explained.html\">land book</a>; the finished building is <a href=\"/en/services/construction-registration.html\">recorded</a> on that land book after completion; and then a distinct legal operation — <strong>apartamentare</strong>, the division into condominium units — splits the building into <strong>individual units (unități individuale, UI)</strong>, each with its own land book, plus the <strong>common parts (părți comune)</strong>: stairwells, roof, structure, the land itself, held in quota shares attached to every unit.</p><p>Only when a unit has its own land book can a notary transfer it to you. This is the single most important thing an off-plan buyer should understand: <strong>until apartamentare is done, there is nothing unit-sized to own</strong> — which is why off-plan purchases are structured as notarized pre-sale agreements (antecontract / promisiune de vânzare) with the final deed signed after completion and unit registration. Your money's safety in the gap between those two signatures depends on the contract your lawyer negotiates and on the developer's paperwork being what they claim it is. The second part is checkable — and we check it.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "What to verify in the developer's file before paying anything",
+      "items": [
+        "The land: developer registered as owner (or superficiary) in the land book — order a fresh extract, do not accept the PDF from the sales office",
+        "Part III of the land book: the construction loan mortgage is normal, but understand the bank-release mechanism for your unit at deed time",
+        "The building permit (autorizație de construire): exists, matches what is being marketed — floors, unit count — and has not expired",
+        "Stage of legal completion: reception report (proces-verbal de recepție), building recorded in the land book, apartamentare done or credibly scheduled",
+        "For a finished unit: its own land book number, the registered usable area versus the contracted area, and the common-parts quota",
+        "The energy performance certificate and the unit sketch (releveu) attached to the documentation"
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "Handover, measurement, and the final deed",
+      "html": "<p>Between structural completion and your deed lie steps the buyer rarely sees but entirely depends on: final reception with the authorities, the as-built documentation, recording the building, then the apartamentare with each unit's sketch and area. Delays here are the classic reason \"the apartment is ready but we cannot sign yet\" — months of limbo in which you occupy under handover protocol but own nothing registered. A buyer's leverage is contractual (deadlines and penalties in the antecontract) and informational: knowing exactly which step the developer is actually stuck on. We can read that status from the registers at any moment.</p><p>Two measurement issues are worth money at signing. First, <strong>contracted versus registered area</strong>: off-plan contracts sell projected square metres, and the registered usable area after measurement can differ — good contracts contain a price-adjustment clause with a tolerance band; check yours before the final deed, against the registered figure, not the brochure. Second, <strong>what the area includes</strong>: usable area (suprafață utilă), balconies/terraces, and quota of common parts are different numbers, and per-square-metre price comparisons between developments are meaningless until you know which number each one quotes.</p><p>At the final deed, the notary verifies the unit's land book, orders the blocking extract, authenticates the sale and files your registration; you are the owner when <em>your</em> name appears in the unit's land book — verify the final extract, and keep a copy. Buying remotely, every step of this works under a <a href=\"/en/guides/power-of-attorney-property-romania.html\">power of attorney</a>.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Frequently asked questions",
+      "items": [
+        {
+          "q": "The developer says registration is 'in progress'. Should I sign the final deed?",
+          "a": "Not until the unit's own land book exists — that is the object the deed transfers. 'In progress' can mean next week or next year; we can tell you from the registers which it is. Milestone-based payments in the antecontract are your protection until then."
+        },
+        {
+          "q": "What is the common-parts quota and should I care?",
+          "a": "Each unit carries an undivided share of the building's common parts and land, recorded with the unit. It matters at repair-cost time and in any future demolition/reconstruction scenario. Mostly you check it exists and is consistent — a botched apartamentare with wrong quotas is expensive to fix across a whole building."
+        },
+        {
+          "q": "My unit measures smaller than contracted. What are my options?",
+          "a": "First establish the real registered figure — the apartamentare measurement — rather than arguing from a tape measure. Then apply the contract's adjustment clause. If the contract has none and the shortfall is material, that is a negotiation for your lawyer, armed with our measurement."
+        },
+        {
+          "q": "Can you check a development I am considering, before I reserve?",
+          "a": "Yes — send the development name, location and whatever documents the sales office provided. The land book and permit status check is quick, in English, and has talked more than one client out of a bad reservation fee."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://startcad.ro/certificat-de-atestare-a-edificarii-constructiei-acte/",
+      "title": "Certificatul de atestare a edificării construcției — emis de primărie pe baza autorizației de construire și a procesului-verbal de recepție la terminarea lucrărilor"
+    },
+    {
+      "url": "https://firmecadastru.ro/acte-necesare/cadastru-intabulare-apartamente",
+      "title": "Intabularea apartamentelor — apartamentarea clădirii în unități individuale (UI) cu părți comune în cotă indiviză și carte funciară proprie per unitate; releveul fiecărei unități"
+    },
+    {
+      "url": "https://www.dcbusiness.ro/regulile-pentru-apartamente-si-cladiri-noi-se-schimba-ordin-ancpi-publicat-in-monitorul-oficial_687507.html",
+      "title": "Ordin ANCPI publicat în Monitorul Oficial — modificarea regulilor de înscriere pentru apartamente și clădiri noi (context 2025–2026 pentru apartamentare)"
+    },
+    {
+      "url": "https://www.ancpi.ro/en/transparenta-06-02-2026/",
+      "title": "ANCPI — proiect de ordin (transparență, februarie 2026) pentru modificarea Regulamentului aprobat prin Ordinul nr. 600/2023; confirmă că regimul apartamentării este în curs de actualizare"
+    },
+    {
+      "url": "https://bv.ancpi.ro/extrase-de-informare/",
+      "title": "OCPI Brașov (ANCPI) — extras de carte funciară pentru informare, verificarea proprietarului și a sarcinilor din Partea III înaintea antecontractului"
+    }
+  ],
+  "related": [
+    "/en/services/construction-registration.html",
+    "/en/services/cadastral-registration.html",
+    "/en/guides/buying-land-in-romania.html",
+    "/en/guides/how-to-get-land-registry-extract-romania.html",
+    "/en/guides/foreigners-buying-property-romania.html"
+  ]
+}

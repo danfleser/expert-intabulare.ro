@@ -1,0 +1,92 @@
+{
+  "slug": "comasare-terenuri-agricole-pasi",
+  "title": "Comasarea terenurilor agricole: pași, instrumente legale și exemplu numeric | Expert Intabulare",
+  "h1": "Comasarea terenurilor agricole: cum aduni parcelele împrăștiate",
+  "metaDescription": "Ce instrumente legale există azi pentru comasare — schimb, cumpărare, alipire — pașii documentației cadastrale, costurile orientative și un calcul pe un caz real.",
+  "whatsappTopic": "comasarea mai multor parcele agricole",
+  "hook": "none",
+  "trustBar": true,
+  "group": "Comasare și organizarea teritoriului",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Problema pe care o rezolvă comasarea",
+      "html": "<p>Un fermier tipic din Câmpia Transilvaniei lucrează 30 de hectare în 22 de parcele, răspândite în șapte tarlale, la distanțe de kilometri una de alta. Fiecare mutare între ele înseamnă timp, motorină și uzură; fiecare parcelă îngustă înseamnă întoarceri, capete de brazdă și pierdere de suprafață utilă. Fragmentarea este moștenirea directă a reconstituirii proprietății după 1991, iar în multe sate ea s-a accentuat prin succesiuni: o parcelă de 1 ha împărțită la trei copii devine trei fâșii de 15 metri lățime.</p><p><a href=\"/dictionar/comasare.html\">Comasarea</a> înseamnă gruparea acestor parcele în loturi mari, compacte și accesibile. În România ea nu se face, la acest moment, printr-o procedură administrativă unică — proiecte de lege dedicate au fost depuse în Parlament de-a lungul anilor, dar până la adoptarea și intrarea lor în vigoare comasarea se realizează cu instrumentele juridice existente: schimbul, vânzarea-cumpărarea, arendarea și, pe partea cadastrală, alipirea.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Instrumentele disponibile azi și ce fac",
+      "head": ["Instrument", "Ce obții", "Ce presupune"],
+      "rows": [
+        ["Contract de schimb", "Muți proprietatea dintr-o zonă în alta, fără bani (sau cu sultă)", "Act notarial, documentație cadastrală pentru ambele terenuri, acordul celuilalt proprietar"],
+        ["Cumpărare de parcele vecine", "Extinzi lotul existent", "Procedura de preempțiune a Legii 17/2014 pentru extravilan"],
+        ["Arendare grupată", "Lucrezi compact fără să cumperi", "Contracte de arendă înregistrate; nu schimbă proprietatea"],
+        ["Alipire cadastrală", "Din mai multe imobile alăturate rezultă unul singur, cu o carte funciară", "Toate imobilele să fie intabulate, alăturate și cu același proprietar"]
+      ]
+    },
+    {
+      "type": "process",
+      "heading": "Pașii unui proiect de comasare, în ordine",
+      "steps": [
+        "Inventarul propriu — punem pe hartă tot ce deții și tot ce lucrezi: parcele, suprafețe, acte, tarlale, distanțe. Fără această imagine, orice negociere e pe ghicite.",
+        "Identificarea în teren — verificăm unde se află efectiv fiecare parcelă din titluri, folosind planul parcelar, ortofotoplanul și măsurători GNSS. Aici apar de obicei primele surprize.",
+        "Punerea în ordine a actelor — parcelele care nu au carte funciară se intabulează; fără intabulare nu se poate face niciun act notarial și nicio alipire.",
+        "Alegerea zonei-țintă — se decide unde vrei să ai lotul mare: acolo unde ai deja cel mai mult, unde solul e mai bun sau unde accesul e cel mai ușor.",
+        "Negocierea cu vecinii — schimburi și cumpărări, parcelă cu parcelă, în ordinea celor care contează pentru continuitatea lotului.",
+        "Actele notariale — contracte de schimb sau de vânzare, cu respectarea preempțiunii pentru terenurile extravilane.",
+        "Alipirea — după ce parcelele alăturate sunt ale tale, întocmim documentația de alipire și obții un singur imobil, cu un singur număr cadastral.",
+        "Actualizarea declarațiilor — parcelele noi se declară corect la APIA și în registrul agricol, iar contractele de arendă se aliniază la noua configurație."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Un calcul pe un caz obișnuit",
+      "html": "<p>Să luăm o situație pe care o întâlnim des. Un fermier are 12 parcele de circa 0,8 ha fiecare, în trei tarlale, și lucrează în total 9,6 ha. Trei dintre ele sunt vecine între ele, iar alte două sunt vecine cu un teren al unui consătean care are, la rândul lui, o parcelă lângă lotul principal al fermierului.</p><p>Un singur <a href=\"/dictionar/contract-de-schimb.html\">contract de schimb</a> bine ales — parcela izolată a fermierului contra parcelei vecine a consăteanului — poate transforma două fâșii separate într-un lot continuu de 2,4 ha. Adăugând <a href=\"/teren-agricol/alipire-parcele-agricole.html\">alipirea</a> celor trei parcele deja vecine, fermierul ajunge de la 12 imobile la 8, dintre care unul de peste 4 ha. Costul: două documentații cadastrale de actualizare, o alipire, un act notarial de schimb și taxele aferente. Beneficiul: o singură intrare în tarla, o singură întoarcere pe capăt și o parcelă care se poate arenda sau vinde la alt preț.</p><p>Regula practică pe care o repetăm clienților: comasarea nu se face „toată deodată”, ci prin trei-patru mișcări bine alese. Contează mai mult <em>care</em> parcele le grupezi decât <em>câte</em>.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Condiții fără de care proiectul se blochează",
+      "items": [
+        "Toate terenurile implicate în acte notariale trebuie să fie intabulate — un teren fără carte funciară nu se poate schimba și nu se poate vinde.",
+        "La alipire, imobilele trebuie să fie alăturate, să aibă același proprietar și aceeași situație juridică; nu se alipesc terenuri cu regimuri diferite.",
+        "Pentru terenurile extravilane cumpărate se parcurge procedura de preempțiune a Legii 17/2014, cu ofertă afișată la primărie.",
+        "Fiecare lot rezultat trebuie să aibă acces la un drum — o comasare care creează o enclavă e o problemă mutată, nu rezolvată.",
+        "Sarcinile din cartea funciară (ipoteci, interdicții) trebuie clarificate înainte, nu după semnarea actelor."
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Există o lege a comasării în vigoare?", "a": "Nu există, la acest moment, o procedură administrativă unică de comasare aplicabilă la nivel național; inițiative legislative pe această temă au fost depuse în Parlament, dar până la adoptare comasarea se realizează prin schimb, vânzare-cumpărare, arendare și alipire cadastrală, așa cum descriem aici." },
+        { "q": "Pot comasa terenuri din comune diferite?", "a": "Poți grupa proprietăți oriunde, dar alipirea cadastrală presupune imobile alăturate, deci în aceeași zonă. Comasarea între comune se face economic, prin schimburi și vânzări, nu tehnic, printr-o singură carte funciară." },
+        { "q": "Cât durează un proiect de comasare?", "a": "Partea tehnică — măsurători, intabulări, alipiri — se desfășoară în săptămâni pentru fiecare imobil. Partea grea e negocierea cu vecinii, care poate dura luni. Recomandăm să începeți cu identificarea și intabularea, ca să fiți gata când apare ocazia unui schimb." },
+        { "q": "Merită comasarea pentru 10 hectare?", "a": "Depinde de cât de împrăștiate sunt. Dacă ai 10 ha în trei parcele, câștigul e mic. Dacă ai 10 ha în 15 parcele, în cinci tarlale, economia de timp și de combustibil se vede din primul an, iar valoarea de piață a unui lot compact e sensibil mai mare." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Vrei să vezi cum ar arăta comasarea la tine?",
+      "text": "Trimite-ne pe WhatsApp lista parcelelor și comuna — le punem pe hartă și îți arătăm ce trei mișcări îți aduc cel mai mare lot compact."
+    }
+  ],
+  "related": [
+    "comasare-prin-schimburi",
+    "alipire-parcele-agricole",
+    "schimb-terenuri-agricole",
+    "drum-de-exploatare-acces-parcela",
+    "partaj-teren-agricol-mostenitori",
+    "legea-17-2014-preemptiune-explicata",
+    "/servicii/dezmembrare-alipire/",
+    "/servicii/intabulare-teren/",
+    "/dictionar/comasare.html",
+    "/dictionar/contract-de-schimb.html",
+    "/dictionar/act-de-alipire.html"
+  ],
+  "sources": [
+    "https://madr.ro/terenuri-agricole/",
+    "https://www.madr.ro/terenuri-agricole/legislatie/1-lege-nr-17-din-7-martie-2014.html",
+    "https://agrointel.ro/260230/legea-comasarii-terenurilor-agricole-proiect",
+    "https://www.ancpi.ro/wp-content/uploads/2023/01/Lege-7-1996r3.pdf"
+  ]
+}

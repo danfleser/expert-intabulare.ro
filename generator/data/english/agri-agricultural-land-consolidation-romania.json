@@ -1,0 +1,94 @@
+{
+  "path": "/en/agri/agricultural-land-consolidation-romania.html",
+  "title": "Agricultural Land Consolidation in Romania — Comasare in Practice",
+  "metaDescription": "How land consolidation (comasare) works in Romania: why farms are fragmented, the exchange-merge-register toolkit that builds compact blocks, and the surveying work each step requires.",
+  "h1": "Land Consolidation in Romania: Turning Scattered Strips into a Farm",
+  "roPair": "https://expert-intabulare.ro/teren-agricol/comasare-terenuri-agricole-pasi.html",
+  "whatsappPrefillEn": "Hello! I am interested in consolidating agricultural parcels in Romania and need surveying support.",
+  "footer": false,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Why Romanian farmland is fragmented — and why it stays that way",
+      "html": "<p>The 1991 restitution returned collectivized land to families roughly along pre-collectivization lines: each family received strips scattered across several field blocks (<em>tarlale</em>) — a hectare by the river, half up the hill, a strip in the plain — recorded in <strong>property titles</strong> against communal parcelling plans. Three decades of inheritance then subdivided many strips further among heirs. The result, visible on any Transylvanian orthophoto, is a landscape of long narrow parcels that make machinery inefficient, irrigation impractical, and every field operation a commute.</p><p>Unlike some EU countries, Romania has no routinely functioning state-driven consolidation program a farmer can simply apply to. In practice, <strong>consolidation (comasare) is something owners and investors do for themselves</strong>, using ordinary legal instruments — purchases, exchanges, mergers — executed parcel by parcel. That is slower than a state scheme, but it is fully available today, and every instrument in the toolkit runs on cadastral documentation. This page explains the toolkit and where the surveying work sits in it.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "The toolkit: buy, swap, merge, document",
+      "html": "<p><strong>Buying in the gaps.</strong> The direct route: acquiring the strips between and around your parcels. Extravilan purchases run through the pre-emption procedure of Law 17/2014 — where, usefully for consolidators, neighbouring owners rank among the legal pre-emptors, so the procedure can work <em>for</em> the person assembling a block. See our <a href=\"/en/guides/agricultural-land-preemption-romania.html\">pre-emption guide</a> for the mechanics.</p><p><strong>Exchanging (schimb).</strong> The classic consolidation move, older than any regulation: you hold a strip in their block, they hold one in yours, and a notarized exchange contract swaps them. Both parcels need registered cadastral documentation before a notary can authenticate the exchange, and where values differ, a balancing payment (<em>sultă</em>) settles the difference. Chains of exchanges, patiently negotiated over a season, are how practical farmers have always consolidated — the paperwork just has to keep up with the handshake.</p><p><strong>Merging (alipire).</strong> Once adjacent parcels are in the same ownership, a cadastral <a href=\"/en/services/boundary-survey-land-division.html\">merger operation</a> unifies them into a single registered body with one land book — administratively cleaner, better as collateral, and the honest representation of what the land now is. The mirror operation, <a href=\"/en/guides/subdividing-land-romania.html\">subdivision</a>, reshapes lots where an exchange needs a piece of a parcel rather than the whole.</p><p><strong>Documenting access.</strong> Consolidated blocks still need field roads (drumuri de exploatare) with clear status, and internal reorganization must not landlock anyone — an enclaved parcel breeds the next decade's dispute. Access design is part of any consolidation plan we draw.</p>"
+    },
+    {
+      "type": "process",
+      "heading": "How a consolidation project actually runs",
+      "steps": [
+        {
+          "title": "Map the current state",
+          "text": "We inventory the target area: which parcels are registered, who owns what per the land books and the agricultural register, where the unsettled successions are, and what the real measured geometry looks like versus the parcelling plans. This map is the project's foundation — and it always contains surprises."
+        },
+        {
+          "title": "Design the target blocks",
+          "text": "With the owner or investor we design the end state: which strips to buy, which to swap and against what, the merge sequence, and the access network. Value balancing between exchanged parcels is estimated honestly, per location and land quality, so negotiations start from defensible numbers."
+        },
+        {
+          "title": "Prepare parcels transaction by transaction",
+          "text": "Every purchase or exchange needs its parcels registered first: first registrations for paper-title land, successions flagged to the families' notaries, documentation for each notarial act. We run this as a pipeline so the notary always has the next file ready."
+        },
+        {
+          "title": "Merge and register the blocks",
+          "text": "As ownership lands, adjacent parcels are merged into consolidated bodies with clean land books, and the resulting geometry is delivered as coordinates and plans — for the bank, for APIA declarations, and for the farm's own operations."
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Frequently asked questions",
+      "items": [
+        {
+          "q": "How long does consolidating a block take?",
+          "a": "The technical steps are predictable — measurement, OCPI terms, notarial scheduling. The negotiations are not: finding heirs, agreeing swaps, waiting out pre-emption clocks. Realistic projects run seasons, not weeks, which is why the pipeline approach matters: something is always progressing while something else waits."
+        },
+        {
+          "q": "Is an exchange taxed like a sale?",
+          "a": "An exchange is a notarial transfer with its own fee and tax treatment, typically assessed on the values involved — your notary quotes it per case. Factor notarial costs into the swap-versus-buy decision; sometimes buying both strips outright and merging is simpler than a finely balanced exchange."
+        },
+        {
+          "q": "Does consolidation affect APIA subsidies?",
+          "a": "Positively, once reconciled: cleaner blocks mean cleaner declarations against the LPIS physical blocks and fewer overlap sanctions. But every geometry change must flow into the next declaration — we deliver the measurement data in a form your APIA file can use."
+        },
+        {
+          "q": "We are several siblings with scattered inherited strips. Same service?",
+          "a": "Exactly the same logic at family scale: settle the succession, register the parcels, then either divide into compact per-heir lots or consolidate and operate jointly. Often the family case is where a small consolidation delivers the most value per hectare — see also our inherited-property guide."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislatie.just.ro/Public/DetaliiDocument/156290",
+      "title": "Legea nr. 17/2014 — vânzarea terenurilor agricole extravilane; proprietarii vecini figurează printre preemptorii legali, ceea ce servește strategiei de comasare"
+    },
+    {
+      "url": "https://lege5.ro/Gratuit/gm4tenjygy/exercitarea-dreptului-de-preemptiune-lege-17-2014",
+      "title": "Legea 17/2014, exercitarea dreptului de preempțiune — text actualizat 2026: rangurile preemptorilor, inclusiv proprietarii vecini"
+    },
+    {
+      "url": "https://notari.pro/contract/dezmembrare-dezlipire-imobil",
+      "title": "Actele de dezmembrare și alipire se încheie în formă autentică notarială pe baza documentației cadastrale recepționate de OCPI"
+    },
+    {
+      "url": "https://www.ancpi.ro/ocpi/gl/ordinul-600-2023-pentru-aprobarea-regulamentului-de-receptie-si-inscriere-in-evidentele-de-cadastru-si-carte-funciara/",
+      "title": "Ordinul ANCPI nr. 600/2023 — recepția documentațiilor de alipire/dezlipire și înscrierea corpurilor consolidate în cartea funciară"
+    },
+    {
+      "url": "https://www.madr.ro/terenuri-agricole/legislatie/1-lege-nr-17-din-7-martie-2014.html",
+      "title": "MADR — cadrul legal al tranzacțiilor cu teren agricol extravilan; schimbul de terenuri rămâne un transfer notarial supus verificărilor de preempțiune"
+    }
+  ],
+  "related": [
+    "/en/agri/farmland-investment-surveying-romania.html",
+    "/en/guides/agricultural-land-preemption-romania.html",
+    "/en/guides/subdividing-land-romania.html",
+    "/en/services/boundary-survey-land-division.html",
+    "/en/guides/unregistered-inherited-property-romania.html"
+  ]
+}

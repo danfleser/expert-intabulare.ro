@@ -1,0 +1,89 @@
+{
+  "slug": "masuratori-teren-apia",
+  "title": "Măsurători pentru APIA: de ce diferă suprafața declarată de cea din acte | Expert Intabulare",
+  "h1": "Măsurători de teren pentru APIA: bloc fizic, suprafață din acte și realitatea din câmp",
+  "metaDescription": "De ce nu se potrivesc suprafața din titlu, cea din cartea funciară și cea acceptată de APIA în bloc fizic — și ce măsurători rezolvă diferența înainte de cererea unică.",
+  "whatsappTopic": "măsurători pentru un dosar APIA",
+  "hook": "none",
+  "trustBar": true,
+  "group": "APIA și subvenții",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Trei suprafețe pentru același teren",
+      "html": "<p>Aproape orice fermier din zona noastră a trăit scena: în titlul de proprietate scrie 1,25 ha, în cartea funciară apare 1,18 ha, iar aplicația APIA îi acceptă 1,09 ha în interiorul <a href=\"/dictionar/bloc-fizic-apia.html\">blocului fizic</a>. Nimeni nu a furat nimic — pur și simplu cele trei cifre vin din trei sisteme de măsurare diferite, făcute în ani diferiți, cu scopuri diferite.</p><p><a href=\"/dictionar/suprafata-din-acte.html\">Suprafața din acte</a> provine, în cele mai multe cazuri, din tabelele de reconstituire făcute după <a href=\"/dictionar/legea-18-1991.html\">Legea 18/1991</a>, calculate pe planuri vechi și rotunjite la nivel de <a href=\"/dictionar/tarla.html\">tarla</a>. Suprafața din cartea funciară este cea rezultată dintr-o măsurătoare cadastrală în coordonate <a href=\"/dictionar/stereografic-1970-stereo-70.html\">Stereo 70</a> — deci reală, dar la data acelei măsurători. Suprafața eligibilă la APIA este cea pe care o digitizezi tu în aplicația geospațială, în limitele blocului fizic delimitat de APIA pe ortofotoplan, din care se scot marginile neeligibile: drumuri, șanțuri, tufărișuri, zone necultivate.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "De unde vine fiecare cifră",
+      "head": ["Sursa suprafeței", "Cum a fost obținută", "Ce nu conține"],
+      "rows": [
+        ["Titlul de proprietate", "Calcul pe planuri de fond funciar, la nivel de tarla, împărțit între foștii proprietari", "Nu conține limite măsurate în teren; erorile de 5–10% sunt frecvente"],
+        ["Cartea funciară", "Măsurătoare GNSS/stație totală, limite materializate, recepționată de OCPI", "Nu ține cont de eligibilitatea agricolă; include și porțiuni necultivabile"],
+        ["Declarația APIA", "Digitizare în aplicația geospațială, în limita blocului fizic", "Nu poate depăși blocul fizic și nu se poate suprapune cu parcelele altor fermieri"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Când merită o măsurătoare topografică înainte de cererea unică",
+      "html": "<p>Nu orice diferență cere topograf. Câțiva ari în minus pe o parcelă de un hectar înseamnă, cel mai probabil, marginea de drum pe care APIA nu o consideră eligibilă — o corectezi singur în aplicație. Măsurătoarea devine însă rentabilă în patru situații concrete.</p><p><strong>Diferențe mari și repetate</strong>: dacă an de an declari cu 10–15% mai puțin decât ai în acte pe aceeași parcelă, fie parcela este greșit localizată, fie limitele reale sunt altele decât crezi. <strong>Parcele lucrate „din tată-n fiu”, fără hotare vizibile</strong>, unde vecinii au arat progresiv unul spre altul. <strong>Suprapuneri semnalate de APIA</strong> cu declarația altui fermier. <strong>Suprafețe preluate în <a href=\"/dictionar/arenda.html\">arendă</a></strong>, unde plătești arenda pe suprafața din contract, dar încasezi subvenția pe suprafața digitizată — diferența o suporți tu.</p><p>În toate aceste cazuri, o <a href=\"/dictionar/ridicare-topografica.html\">ridicare topografică</a> îți dă un lucru pe care nicio hartă nu ți-l dă: coordonatele reale ale colțurilor parcelei tale, pe care le poți suprapune peste blocul fizic, peste <a href=\"/dictionar/plan-parcelar.html\">planul parcelar</a> și peste declarațiile vecinilor.</p>"
+    },
+    {
+      "type": "process",
+      "heading": "Cum lucrăm un dosar de măsurători pentru APIA",
+      "steps": [
+        "Adunăm actele — titlul de proprietate sau extrasul de carte funciară, contractele de arendă, plus capturi din aplicația APIA cu parcelele declarate și mesajele de eroare primite.",
+        "Verificăm planul parcelar al tarlalei la primărie și la OCPI, ca să știm dacă tarlaua are plan aprobat sau lucrăm doar pe titluri și ortofotoplan.",
+        "Mergem în teren și măsurăm GNSS colțurile reale ale parcelei, împreună cu tine sau cu cel care o lucrează — cine cunoaște hotarele contează mai mult decât orice hartă.",
+        "Suprapunem măsurătoarea peste ortofotoplan și peste limita blocului fizic, ca să vedem exact unde pierzi suprafață și de ce.",
+        "Îți predăm planul cu suprafețele reale, în coordonate Stereo 70, plus un plan de situație pe care îl poți folosi la APIA, la primărie sau într-o discuție cu vecinul.",
+        "Dacă e cazul, mergem mai departe cu documentația cadastrală de primă înscriere sau de actualizare, ca să aliniem și cartea funciară la realitate."
+      ]
+    },
+    {
+      "type": "checklist",
+      "heading": "Ce trimiți pe WhatsApp ca să-ți dăm un răspuns rapid",
+      "items": [
+        "Poză după titlul de proprietate — se vede tarlaua, parcela și suprafața.",
+        "Comuna și satul, plus numele tarlalei așa cum îi spun oamenii locului.",
+        "Captură de ecran din aplicația APIA cu parcela digitizată și cu suprafața acceptată.",
+        "Mesajul de eroare sau notificarea primită de la APIA, dacă există.",
+        "Contractul de arendă, dacă lucrezi teren care nu e al tău."
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "APIA îmi acceptă mai puțin decât am în titlu. Am pierdut teren?", "a": "Aproape niciodată. Suprafața eligibilă exclude drumurile, șanțurile, marginile cu vegetație și zonele necultivate din interiorul parcelei, iar suprafața din titlu vine dintr-un calcul vechi, la nivel de tarla. Terenul e al tău în întregime; doar partea lucrată efectiv se plătește." },
+        { "q": "Măsurătoarea voastră schimbă suprafața acceptată de APIA?", "a": "Nu direct. APIA lucrează cu ce digitizezi tu în aplicație, în limita blocului fizic. Măsurătoarea îți arată însă unde se află real parcela și cât are, ceea ce te ajută să digitizezi corect și să susții cu documente o contestație sau o corecție de bloc fizic." },
+        { "q": "Cât costă o măsurătoare pentru APIA?", "a": "Orientativ, pentru o parcelă obișnuită de extravilan costul unei ridicări topografice pornește de la câteva sute de lei, iar la mai multe parcele în aceeași tarla prețul pe parcelă scade semnificativ, pentru că deplasarea se împarte. Cere o ofertă cu lista parcelelor în față." },
+        { "q": "Am nevoie de cadastru ca să iau subvenția?", "a": "Legea nu condiționează plata de intabulare, ci de dovada că terenul este la dispoziția ta. Practic însă, un teren intabulat elimină cele mai multe discuții cu primăria și cu ceilalți fermieri, iar la suprapuneri este argumentul cel mai puternic pe care îl poți avea." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Ai diferențe între acte și ce-ți acceptă APIA?",
+      "text": "Trimite-ne pe WhatsApp titlul și o captură din aplicația APIA — îți spunem în aceeași zi dacă e o problemă de digitizare, de bloc fizic sau de hotare reale."
+    }
+  ],
+  "related": [
+    "bloc-fizic-apia-ce-este",
+    "suprapuneri-declaratii-apia",
+    "subventie-apia-teren-neintabulat",
+    "gps-agricol-vs-masuratori-topografice",
+    "identificare-parcela-tarla",
+    "intabulare-teren-agricol",
+    "/servicii/intabulare-teren/",
+    "/servicii/plan-topografic/",
+    "/dictionar/bloc-fizic-apia.html",
+    "/dictionar/suprafata-din-acte.html",
+    "/dictionar/ortofotoplan.html"
+  ],
+  "sources": [
+    "https://apia.org.ro/wp-content/uploads/2026/02/Ghid-Informativ-LPIS-editia-I-revizia-1_2026.pdf",
+    "https://legislatie.just.ro/public/DetaliiDocument/295994",
+    "https://apia.org.ro/comunicat-de-presa/apia-da-startul-campaniei-de-informare-pentru-primirea-cererilor-de-plata-in-anul-2026/",
+    "https://lege5.ro/gratuit/gy3dgmbu/legea-fondului-funciar-nr-18-1991"
+  ]
+}

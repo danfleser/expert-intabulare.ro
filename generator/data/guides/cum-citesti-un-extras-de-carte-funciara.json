@@ -1,0 +1,104 @@
+{
+  "slug": "cum-citesti-un-extras-de-carte-funciara",
+  "title": "Cum citești un extras de carte funciară — foaia A, B și C",
+  "h1": "Cum se citește un extras de carte funciară (ghid practic)",
+  "metaDescription": "Ghid pe înțelesul tuturor: ce scrie în foaia A, B și C a cărții funciare, ce înseamnă sarcinile, notările și mențiunile, și ce semnale trebuie să vă oprească înainte de a semna.",
+  "whatsappTopic": "citirea unui extras de carte funciară",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Structura: trei foi, trei întrebări",
+      "text": "Un extras de carte funciară pare complicat până înțelegeți că are doar trei părți, iar fiecare răspunde la o singură întrebare. Foaia A răspunde la „ce este imobilul?” — descrierea: număr cadastral, suprafață, categorie de folosință, construcții. Foaia B răspunde la „al cui este?” — proprietarii, cotele, actele în baza cărora au dobândit. Foaia C răspunde la „ce probleme are?” — sarcini, ipoteci, servituți, notări, interdicții.\n\nDacă rețineți doar atât, deja citiți un extras mai bine decât majoritatea cumpărătorilor. Ordinea de citire recomandată este chiar invers decât ordinea din document: începeți cu C, pentru că acolo se ascund lucrurile care pot bloca o tranzacție. Apoi B, ca să vedeți dacă persoana care semnează este cea îndreptățită. Apoi A, ca să verificați că imobilul descris este cel pe care l-ați văzut.\n\nAcest ghid parcurge fiecare foaie cu explicații în limbaj obișnuit. Pentru procedura de obținere, aveți ghidul despre extrasul de carte funciară online și cel despre cât durează un extras."
+    },
+    {
+      "type": "paragraph",
+      "heading": "Foaia A — descrierea imobilului",
+      "text": "Aici găsiți identitatea tehnică a proprietății. Numărul cadastral este identificatorul unic al imobilului în evidența națională; numărul cărții funciare este identificatorul dosarului juridic. Ambele sunt însoțite de județ și de unitatea administrativ-teritorială — un număr cadastral fără localitate nu înseamnă nimic, pentru că numerotarea este pe UAT.\n\nSuprafața din foaia A este suprafața înscrisă în evidență, care poate diferi de suprafața din actul dumneavoastră de proprietate și de suprafața reală măsurată. Când vedeți o suprafață „măsurată” diferită de cea „din acte”, este exact situația despre care am scris în ghidul dedicat diferențelor de suprafață.\n\nCategoria de folosință — arabil, fâneață, curți-construcții, pădure — are consecințe fiscale și de construibilitate. Un teren categoria arabil în extravilan nu se poate construi fără scoatere din circuitul agricol.\n\nLa imobilele cu construcții, foaia A conține și descrierea construcției: număr cadastral al construcției, suprafață construită la sol, regim de înălțime, uneori anul edificării și mențiunea actului în baza căruia a fost înscrisă — autorizație de construire, certificat de atestare a edificării sau declarație. Dacă vedeți pe teren o casă care nu apare deloc în foaia A, construcția nu este înscrisă, iar acest lucru trebuie rezolvat înainte de vânzare.\n\nTot în foaia A, la imobilele apartamentate, apar unitățile individuale și cotele-părți din părțile comune și din teren aferente fiecăreia."
+    },
+    {
+      "type": "paragraph",
+      "heading": "Foaia B — proprietarii și titlurile lor",
+      "text": "Foaia B listează titularii dreptului de proprietate, cotele lor și actele în baza cărora au fost înscriși. Sunt câteva lucruri de urmărit atent.\n\nCotele. „1/1” înseamnă proprietar unic. „1/2 și 1/2” înseamnă doi coproprietari în cote egale. „Bun comun” înseamnă soți, în devălmășie, fără cote determinate — iar la vânzare semnează amândoi, chiar dacă în extras apare doar un nume urmat de mențiunea bunului comun.\n\nActul de dobândire. Contract de vânzare-cumpărare, certificat de moștenitor, titlu de proprietate, act de donație, hotărâre judecătorească. Din el se vede lanțul de proprietate. Un certificat de moștenitor recent, într-o succesiune deschisă acum mulți ani, poate ridica întrebări despre alți moștenitori.\n\nMențiunile de rectificare sau de îndreptare a erorilor materiale, când există, arată că înscrierea a fost corectată — util de citit, pentru că explică diferențe între documente vechi și noi.\n\nAtenție la un detaliu practic: dacă în foaia B figurează o persoană decedată, imobilul nu poate fi vândut de moștenitori până când nu se finalizează succesiunea și nu se înscrie dreptul lor. Este cea mai frecventă cauză de tranzacție blocată în ziua semnării."
+    },
+    {
+      "type": "table",
+      "heading": "Foaia C — ce înseamnă fiecare înscriere pe care o vedeți",
+      "head": ["Ce scrie în foaia C", "Ce înseamnă practic", "Blochează vânzarea?"],
+      "rows": [
+        ["Ipotecă legală sau convențională", "imobilul garantează un credit", "da, până la radiere sau acord bancar"],
+        ["Interdicție de înstrăinare și de grevare", "vânzarea și noi ipoteci sunt oprite", "da, fără acordul creditorului"],
+        ["Sechestru asigurator sau penal", "măsură dispusă de o autoritate", "da"],
+        ["Notare de litigiu / acțiune în justiție", "există un proces asupra imobilului", "nu automat, dar cumpărătorul preia riscul"],
+        ["Drept de servitute (de trecere, de vedere)", "un vecin are un drept asupra imobilului", "nu, dar se transmite noului proprietar"],
+        ["Drept de uz sau de abitație", "cineva are dreptul să locuiască acolo", "nu, dar rămâne opozabil"],
+        ["Promisiune de vânzare notată", "există un antecontract înscris", "practic da, până la expirare sau radiere"],
+        ["Notare a procesului-verbal de contravenție / demolare", "construcție cu probleme de legalitate", "atenție maximă"],
+        ["Mențiune privind cadastrul sistematic", "imobil înregistrat prin programul național", "nu, este informativă"]
+      ]
+    },
+    {
+      "type": "checklist",
+      "heading": "Semnalele care trebuie să vă oprească înainte de a semna",
+      "items": [
+        "Proprietarul din foaia B nu este persoana cu care negociați și nu are procură notarială valabilă pentru vânzare",
+        "În foaia B apare o persoană decedată, iar succesiunea nu este dezbătută și înscrisă",
+        "În foaia C există interdicție de înstrăinare fără acordul scris al creditorului",
+        "În foaia C este notat un litigiu asupra dreptului de proprietate sau asupra limitelor",
+        "Casa pe care ați văzut-o pe teren nu apare în foaia A ca și construcție înscrisă",
+        "Suprafața din foaia A diferă semnificativ de cea din actele prezentate de vânzător, fără explicație",
+        "Imobilul figurează fără acces la drum public, iar servitutea nu este înscrisă în foaia C",
+        "Extrasul prezentat este vechi de luni de zile — situația se poate schimba de la o zi la alta",
+        "Numărul cadastral din extras nu corespunde cu parcela pe care ați văzut-o la teren"
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente despre citirea extrasului",
+      "items": [
+        {
+          "q": "Ce înseamnă „intabulare, drept de proprietate, dobândit prin convenție”?",
+          "a": "Este formula standard prin care se arată că dreptul a fost înscris definitiv în cartea funciară și că a fost dobândit printr-un contract — de regulă o vânzare-cumpărare. „Intabulare” înseamnă înscriere definitivă, spre deosebire de „înscriere provizorie”, care este condiționată și trebuie justificată ulterior."
+        },
+        {
+          "q": "Ce e diferența dintre „intabulare” și „notare” în extras?",
+          "a": "Intabularea privește drepturi reale — proprietate, uzufruct, servitute, ipotecă — și le face opozabile tuturor. Notarea privește fapte și raporturi juridice legate de imobil, care nu sunt drepturi reale: un litigiu, un antecontract, o interdicție, o mențiune administrativă. Ambele se citesc, dar au efecte diferite."
+        },
+        {
+          "q": "În foaia A scrie „suprafață măsurată” și „suprafață din acte”, diferite. E o problemă?",
+          "a": "Nu neapărat. Este situația obișnuită a imobilelor la care măsurătoarea modernă a arătat altceva decât actul vechi. Legea permite, la prima înregistrare, înscrierea suprafeței măsurate în anumite limite procentuale față de act, cu documentele suplimentare cerute de regulament. Devine problemă când diferența e mare și nejustificată, sau când terenul se suprapune peste al vecinului."
+        },
+        {
+          "q": "Extrasul are cod QR sau semnătură electronică. Cum verific autenticitatea?",
+          "a": "Extrasele emise electronic conțin elemente de verificare, iar notarul verifică oricum documentul direct în sistem înainte de autentificarea actului. Dacă primiți un extras scanat de la un vânzător, cel mai sigur este să obțineți dumneavoastră unul proaspăt, în nume propriu — costă puțin și elimină orice discuție."
+        },
+        {
+          "q": "Ce fac dacă în foaia C văd o ipotecă, dar vânzătorul spune că a achitat creditul?",
+          "a": "Achitarea creditului nu radiază automat ipoteca. Radierea se face pe baza declarației autentice a băncii și a unei cereri la OCPI. Până când radierea nu apare operată în cartea funciară, ipoteca este în vigoare juridic. Am scris un ghid despre radierea ipotecii din cartea funciară — este o procedură rapidă, dar trebuie făcută."
+        },
+        {
+          "q": "Cum aflu dacă terenul are acces la drum public?",
+          "a": "Din extras nu întotdeauna direct. Foaia A descrie imobilul, iar foaia C ar arăta o servitute înscrisă. Dacă terenul este înfundat și nu are servitute înscrisă, accesul se bazează pe toleranța vecinilor, ceea ce nu este o garanție. Verificarea reală se face pe planul de amplasament și la teren."
+        },
+        {
+          "q": "Pot să vă trimit extrasul ca să-mi spuneți ce scrie în el?",
+          "a": "Da, o facem des și fără costuri. Trimiteți-l pe WhatsApp și vă explicăm în limbaj clar ce arată fiecare foaie, ce documentație ar fi necesară și ce ar trebui clarificat înainte de a semna ceva. Pentru aspectele strict juridice vă vom recomanda notarul sau avocatul — noi răspundem de partea tehnică și cadastrală."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Trimiteți-ne extrasul și vă explicăm ce scrie în el",
+      "text": "Fotografiați toate paginile extrasului de carte funciară și trimiteți-le pe WhatsApp. Vă spunem în cuvinte simple ce arată foaia A, B și C, dacă există ceva care blochează o vânzare sau un credit și ce documentație cadastrală ar fi necesară. Informațiile din acest ghid au caracter informativ și nu constituie consultanță juridică."
+    }
+  ],
+  "related": {
+    "services": ["servicii-ocpi", "cadastru-si-intabulare", "actualizare-carte-funciara"],
+    "guides": ["extras-carte-funciara-online", "cat-dureaza-un-extras-cf", "cum-verifici-daca-terenul-e-intabulat", "suprafata-din-acte-difera-de-teren", "radiere-ipoteca-din-cf", "notare-litigiu-in-cf"]
+  },
+  "sources": [
+    "https://www.avocatnet.ro/articol_68771/Tot-ce-trebuie-s%C4%83-%C8%99tii-despre-cartea-funciar%C4%83-in-2026.html",
+    "https://www.extrase.ro/ajutor/extras-carte-funciara-ghid-complet",
+    "https://legislatie.just.ro/Public/DetaliiDocument/264801",
+    "https://lege5.ro/Gratuit/gi2tsmbqhe/art-914-modificarea-descrierii-imobilului-codul-civil?dp=gu3dmnjqge4tg"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "path": "/en/guides/power-of-attorney-property-romania.html",
+  "title": "Power of Attorney for Romanian Property Matters — How Remote Clients Mandate Us",
+  "metaDescription": "How a power of attorney (procură) works for Romanian property: what form it must take, signing at a consulate or foreign notary with apostille, what powers to include, and how to keep it safely limited.",
+  "h1": "Handling Romanian Property from Abroad: The Power of Attorney, Explained",
+  "roPair": null,
+  "whatsappPrefillEn": "Hello! I live abroad and need to arrange a power of attorney for a property matter in Romania.",
+  "footer": false,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "Why one document unlocks everything",
+      "html": "<p>Nearly everything about Romanian property can be done without your presence — successions settled, land <a href=\"/en/services/cadastral-registration.html\">first-registered</a>, extracts obtained, town-hall certificates collected, sales signed. What makes it possible is the <strong>power of attorney (procură)</strong>: a notarized mandate authorizing a person in Romania to act in your name. For our clients in Germany, the UK, Spain, the US or Canada, the procură is usually the only document that requires any effort at their end; everything after it moves over WhatsApp and email.</p><p>One rule dominates the topic: for acts that a Romanian notary must authenticate — selling, buying, settling a succession, subdividing — the power of attorney must itself be in <strong>authentic notarial form</strong>. A signed letter, a scan, or a generic form downloaded from the internet will not carry a property transaction. For purely administrative and technical steps (dealing with the town hall, filing at OCPI, commissioning surveys), simpler mandates suffice — but since the notarial form covers everything, most clients do it once, properly.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "The two ways to sign one from abroad",
+      "html": "<p><strong>Route one: the Romanian consulate.</strong> Consular officers act as Romanian notaries. A procură signed at the consulate is immediately valid in Romania, in Romanian, with no further legalization — the cleanest route if a consulate is reachable and has appointments. Book early; waiting times at busy consulates can run to weeks.</p><p><strong>Route two: a local notary plus apostille.</strong> Sign before a notary in your country of residence; then, if that country is party to the Hague Apostille Convention (the EU, UK, US, Canada and most others are), obtain an <strong>apostille</strong> on the document. If it was drafted in another language, a certified translation into Romanian is made in Romania. Practical tip that saves a round-trip: have the Romanian notary who will handle the transaction <em>draft the text first</em>, bilingually, and sign that exact text abroad. Powers of attorney drafted blind by foreign notaries routinely miss formulations Romanian practice expects, and a defective procură is discovered at the worst moment — at signing.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "What a property procură should specify",
+      "items": [
+        "The attorney-in-fact, precisely identified — a relative, your Romanian lawyer, or for technical/administrative steps, the surveyor",
+        "The property, identified by land book / cadastral number where registered, or by title and location where not",
+        "The powers, listed explicitly: represent before notaries, OCPI, town halls and tax offices; sign the succession or sale deed; receive documents; pay and recover fees",
+        "For a sale: whether the mandate includes agreeing the price and receiving payment — or reserves those to you (payment to your own account is the safer default)",
+        "A validity limit or expiry date, so the mandate cannot outlive its purpose",
+        "For successions: the power to accept the inheritance in your name — without it, the notary stops"
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "Keeping it safe: scope, trust, and revocation",
+      "html": "<p>A power of attorney is exactly as dangerous as it is broad. The horror stories — and Romania has them — involve blanket mandates (\"full powers over all my assets\") given informally and used beyond their purpose. The protections are simple: mandate a person you would trust with the money involved; enumerate powers rather than granting everything; exclude receiving sale proceeds unless you specifically intend it; time-limit the document; and know that a procură is <strong>revocable at any time</strong> through the same notarial channel. Romanian notaries verify powers of attorney against the national notarial registry, where revocations are recorded — a revoked mandate dies everywhere at once.</p><p>Where we fit: clients mandate us for the technical and administrative lane — commissioning and filing cadastral documentation, obtaining <a href=\"/en/guides/how-to-get-land-registry-extract-romania.html\">extracts</a> and town-hall certificates, representing the file before OCPI. For notarial acts themselves, the attorney-in-fact is typically a family member or your Romanian lawyer; we coordinate with them so the technical file is ready the day they sign. If you tell us what you are trying to accomplish — a <a href=\"/en/guides/unregistered-inherited-property-romania.html\">succession</a>, a sale, a first registration — we will tell you what powers the document needs and connect you with a notary who drafts bilingual mandates for clients abroad.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Frequently asked questions",
+      "items": [
+        {
+          "q": "How long does it take to have a usable procură in Romania?",
+          "a": "Consulate route: as long as the appointment queue, then the document is instantly valid. Foreign notary route: typically one to three weeks including apostille and courier to Romania. Start it first — it is the longest-lead item a remote client controls."
+        },
+        {
+          "q": "Does a power of attorney expire?",
+          "a": "It lasts as written — until its stated expiry, its purpose is fulfilled, or you revoke it. For sale mandates specifically, Romanian practice expects reasonably fresh documents, and banks or notaries may balk at very old ones. Date-limit it and renew if needed."
+        },
+        {
+          "q": "Can I give one procură to cover succession, registration and a later sale?",
+          "a": "Legally yes, if drafted to cover all three. Whether you should is a trust decision — many clients mandate the succession and registration first, and sign a separate sale mandate only when a real buyer exists, keeping price approval in their own hands."
+        },
+        {
+          "q": "I already signed a generic power of attorney years ago. Will it work?",
+          "a": "Send us a copy before relying on it. Missing powers, vague property identification, or age make old mandates risky; discovering that at the notary's table costs weeks. Ten minutes of checking now is the cheap version."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://viena.mae.ro/node/470",
+      "title": "Ambasada României — redactarea și autentificarea procurilor și declarațiilor la misiunile diplomatice; consulul îndeplinește funcții notariale, actul este redactat în limba română"
+    },
+    {
+      "url": "https://notariatstoica.ro/procura-imputernicirea-pentru-semnarea-contractului-de-vanzare-cumparare-pentru-cetatenii-romani-si-straini-aflati-pe-teritoriul-altui-stat/",
+      "title": "Procura întocmită în străinătate: la consulat apostila nu mai este necesară; la notar străin sunt necesare apostila (Convenția de la Haga) și traducerea în română"
+    },
+    {
+      "url": "https://notariate.ro/procura-imputernicire/",
+      "title": "Notariate.ro — procura trebuie să fie specială și să identifice exact imobilul, obiectul, prețul și modalitatea de plată; forma autentică este cerută pentru actele autentice"
+    },
+    {
+      "url": "https://notari.pro/procura/procura-cumparare-imobil-apartament-casa-teren",
+      "title": "Procura pentru operațiuni imobiliare — conținut, puteri enumerate, valabilitate și revocare prin canal notarial"
+    }
+  ],
+  "related": [
+    "/en/guides/unregistered-inherited-property-romania.html",
+    "/en/guides/expat-selling-property-romania.html",
+    "/en/guides/buying-land-in-romania.html",
+    "/en/guides/land-registration-timeline-romania.html",
+    "/en/contact.html"
+  ]
+}

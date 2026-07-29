@@ -1,0 +1,108 @@
+{
+  "slug": "numar-cadastral-cum-il-afli",
+  "title": "Cum afli numărul cadastral al unui imobil — 5 metode",
+  "h1": "Cum aflați numărul cadastral al terenului sau al casei",
+  "metaDescription": "Cinci metode sigure de a găsi numărul cadastral: extrasul de carte funciară, geoportalul ANCPI, actele vechi, primăria și documentația de la topograf. Ce faceți dacă nu există.",
+  "whatsappTopic": "aflarea numărului cadastral al unui imobil",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Ce este numărul cadastral și de ce vi se cere",
+      "text": "Numărul cadastral este identificatorul unic al unui imobil în evidența națională de cadastru, alocat de oficiul de cadastru la momentul înregistrării. Este numărul după care băncile, notarii, primăriile, furnizorii de utilități și instanțele identifică fără echivoc bucata de pământ sau apartamentul despre care vorbesc.\n\nUn lucru esențial, care scapă multora: numărul cadastral este unic în cadrul unei unități administrativ-teritoriale, nu în toată țara. „Numărul cadastral 51234” nu înseamnă nimic fără județ și comună. Când vi se cere numărul, dați întotdeauna și localitatea.\n\nAl doilea lucru important: numărul cadastral nu este același cu numărul cărții funciare, nici cu numărul topografic vechi din cărțile funciare transilvane, nici cu numărul de rol fiscal de la primărie. Sunt patru numere diferite, cu roluri diferite, iar confuzia dintre ele produce cele mai multe drumuri inutile la ghișeu.\n\nDacă nu sunteți sigur nici măcar dacă imobilul este înregistrat, începeți cu ghidul despre verificarea dacă terenul este intabulat, apoi reveniți aici."
+    },
+    {
+      "type": "process",
+      "heading": "Cele cinci metode, de la cea mai simplă la cea mai laborioasă",
+      "steps": [
+        {
+          "title": "1. Pe extrasul de carte funciară",
+          "text": "Este cea mai directă sursă. Numărul cadastral apare în foaia A, în prima linie a descrierii imobilului, alături de suprafață și de adresă. Dacă aveți un extras, chiar și vechi, numărul este acolo — iar numărul cadastral nu se schimbă în mod obișnuit, spre deosebire de datele juridice care se pot actualiza."
+        },
+        {
+          "title": "2. Pe geoportalul ANCPI, căutând parcela pe hartă",
+          "text": "Deschideți aplicația de vizualizare a imobilelor, selectați județul și unitatea administrativ-teritorială, apoi navigați pe ortofotoplan până la parcela dumneavoastră. Imobilele înregistrate apar conturate; la selectarea conturului se afișează numărul cadastral și suprafața din evidență. Este gratuit și nu necesită cont. Repere utile pentru orientare: drumul, casa, forma caracteristică a parcelei, colțul de tarla."
+        },
+        {
+          "title": "3. Pe documentația de cadastru primită de la topograf",
+          "text": "Dacă vi s-a făcut cadastru cândva, numărul cadastral este scris pe planul de amplasament și delimitare, în cartușul din colț, și în memoriul tehnic. Dacă ați pierdut documentația, se poate obține copie conformă din arhiva OCPI — am scris un ghid separat despre copia planului de amplasament din arhivă."
+        },
+        {
+          "title": "4. Pe actele de la notar sau de la bancă",
+          "text": "Contractul de vânzare-cumpărare, actul de donație, certificatul de moștenitor recent, contractul de ipotecă — toate identifică imobilul prin număr cadastral și număr de carte funciară, pentru că notarul este obligat să îl individualizeze exact. Căutați în primul paragraf al actului, la descrierea bunului."
+        },
+        {
+          "title": "5. La primărie și la OCPI, când nimic din cele de mai sus nu ajută",
+          "text": "Compartimentul de taxe și impozite are rolul fiscal, care poate conține numărul cadastral dacă imobilul a fost declarat după intabulare. Registrul agricol conține poziția terenului. Iar la BCPI competent se poate face o cerere de identificare pe baza actului de proprietate și a datelor de identificare ale proprietarului."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Nu confundați cele patru numere",
+      "head": ["Numărul", "Ce identifică", "Unde apare"],
+      "rows": [
+        ["Număr cadastral", "imobilul în evidența de cadastru, unic pe UAT", "foaia A din extras, planul de amplasament"],
+        ["Număr de carte funciară", "dosarul juridic al imobilului", "antetul extrasului de carte funciară"],
+        ["Număr topografic (nr. topo)", "parcela în cărțile funciare vechi, transilvane", "cărți funciare deschise înainte de evidența actuală"],
+        ["Număr de rol fiscal / rol nominal", "poziția contribuabilului la primărie", "certificatul fiscal, deciziile de impunere"],
+        ["Tarla și parcelă", "poziția terenului agricol în titlul de proprietate", "titlul de proprietate, planul parcelar"],
+        ["Număr cadastral al construcției", "construcția înscrisă pe imobil (ex. C1, C2)", "foaia A, la secțiunea construcții"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Situația specifică din Transilvania: numerele topografice vechi",
+      "text": "În județele din Transilvania, sistemul de carte funciară funcționează de peste un secol, iar multe imobile au fost înscrise cu numere topografice, nu cadastrale. Un extras vechi poate arăta „nr. top. 1234/2/1” fără niciun număr cadastral. Asta nu înseamnă că imobilul nu este înscris — dimpotrivă, este înscris de foarte mult timp.\n\nCe lipsește la aceste imobile este partea grafică modernă: geometria în sistemul de proiecție Stereografic 1970, care permite reprezentarea pe ortofotoplan. Din acest motiv, un imobil cu număr topografic vechi poate să nu apară deloc pe geoportal.\n\nOperațiunea prin care un asemenea imobil primește număr cadastral și geometrie modernă se numește, în limbaj curent, prima înregistrare sau intabularea în sistem integrat. Ea nu creează un drept nou — dreptul există deja în cartea funciară veche — ci îl transpune în evidența actuală. Este o lucrare curentă în zona noastră și, pentru proprietari, deblochează exact ce trebuie: vânzarea, ipotecarea, dezmembrarea.\n\nÎn localitățile unde s-a derulat înregistrarea sistematică, aceeași operațiune s-a făcut din oficiu, iar imobilele au primit numere cadastrale noi și, adesea, numere de carte funciară noi. Dacă aveți un extras de acum câțiva ani și numerele nu mai corespund, aceasta este cel mai probabil explicația."
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        {
+          "q": "Am căutat pe geoportal și parcela mea nu apare. Ce înseamnă?",
+          "a": "Cel mai probabil imobilul nu are cadastru — deci nu are număr cadastral. A doua explicație posibilă: are carte funciară veche, cu număr topografic, dar fără geometrie în sistemul actual. În ambele cazuri, soluția este o documentație cadastrală. Trimiteți-ne actul de proprietate pe WhatsApp și vă spunem în care dintre cele două situații vă aflați."
+        },
+        {
+          "q": "Se poate schimba numărul cadastral al unui imobil?",
+          "a": "Da, în anumite situații. La dezmembrare, imobilul inițial se închide și loturile primesc numere cadastrale noi. La alipire, se alocă un număr nou imobilului rezultat. La înregistrarea sistematică, imobilele pot primi numere noi. La anularea unui număr cadastral alocat greșit, de asemenea. În schimb, o simplă actualizare de date sau schimbarea proprietarului nu modifică numărul."
+        },
+        {
+          "q": "Vecinul îmi cere numărul meu cadastral. Este o informație sensibilă?",
+          "a": "Nu în sine — numărul cadastral este un identificator tehnic, iar contururile imobilelor sunt publice pe geoportal. Ce nu se vede public sunt datele din foaia B și C: proprietari, sarcini, litigii. Acestea se obțin doar prin extras, cu tarif, iar la cererea unui terț se eliberează extras de informare, nu date personale complete."
+        },
+        {
+          "q": "Am doar numărul de rol fiscal de la primărie. Ajunge?",
+          "a": "Pentru OCPI, nu. Rolul fiscal este o evidență de impozitare, complet separată de cea cadastrală. Poate ajuta însă la identificare: pe baza rolului, primăria vă poate confirma poziția terenului din registrul agricol și, dacă imobilul a fost intabulat și declarat, poate conține și numărul cadastral."
+        },
+        {
+          "q": "Apartamentul are număr cadastral separat de bloc?",
+          "a": "Da. Blocul are un număr cadastral al imobilului-teren și al construcției, iar fiecare unitate individuală — apartament, boxă, garaj cu acte proprii — are propriul număr cadastral derivat, sub care este deschisă cartea funciară individuală. În extras vedeți și cota-parte din părțile comune și din teren care revine apartamentului."
+        },
+        {
+          "q": "Numărul cadastral îmi spune și unde este exact terenul?",
+          "a": "Vă spune unde este înregistrat, iar pe geoportal vedeți conturul aproximativ. Nu vă spune unde sunt limitele exacte pe teren — pentru asta este nevoie de trasare, pornind de la coordonatele din documentația recepționată. Diferența poate fi de metri buni, mai ales la parcele agricole fără plan parcelar."
+        },
+        {
+          "q": "Cât costă să aflu numărul cadastral?",
+          "a": "Căutarea pe geoportal este gratuită. Extrasul de carte funciară pentru informare este tarifat, cu excepția cazului în care sunteți proprietar și îl obțineți prin platforma ANCPI destinată proprietarilor. Verificarea pe care o facem noi, pe baza actelor pe care ni le trimiteți, nu costă nimic."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Vă găsim noi numărul cadastral",
+      "text": "Trimiteți pe WhatsApp o poză a actului de proprietate și spuneți-ne localitatea. Verificăm în evidența cadastrală și vă spunem dacă imobilul are număr cadastral, care este el și, dacă nu are, ce documentație este necesară pentru a-l obține. Informațiile din acest ghid au caracter informativ."
+    }
+  ],
+  "related": {
+    "services": ["cadastru-si-intabulare", "servicii-ocpi", "intabulare-teren"],
+    "guides": ["cum-verifici-daca-terenul-e-intabulat", "cum-citesti-un-extras-de-carte-funciara", "extras-carte-funciara-online", "copie-plan-amplasament-arhiva-ocpi", "diferenta-dintre-cadastru-si-intabulare", "prima-inscriere-vs-actualizare-carte-funciara"]
+  },
+  "sources": [
+    "http://geoportal.ancpi.ro/imobile.html",
+    "https://eghiseul.ro/cum-aflam-numarul-carte-functionara-si-nr-cadastral/",
+    "https://hartilidar.eu/ghid-identificare-parcele-patrimoniu-2026",
+    "https://legislatie.just.ro/Public/DetaliiDocument/264801",
+    "https://extrasul.ro/carte-funciara/cadastru-sistematic-numar-nou-carte-funciara"
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "vanzare-teren-intravilan-acte",
+  "title": "Acte vânzare teren intravilan — lista și verificările 2026",
+  "h1": "Acte necesare pentru vânzarea unui teren intravilan",
+  "metaDescription": "Ce acte cere notarul la vânzarea unui teren intravilan, de ce nu se aplică preempțiunea ca la extravilan, ce verifică cumpărătorul (acces, utilități, POT/CUT) și ce documentație cadastrală trebuie.",
+  "whatsappTopic": "actele necesare pentru vânzarea unui teren intravilan",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Intravilan sau extravilan — prima verificare, cu cele mai mari consecințe",
+      "text": "Înainte de orice listă de acte, stabiliți fără dubiu în ce categorie se află terenul. Diferența nu este de nuanță: terenurile agricole situate în extravilan sunt supuse procedurii speciale de vânzare cu exercitarea dreptului de preempțiune, cu afișarea ofertei la primărie și cu termene legale de așteptare. Terenurile intravilane nu urmează această procedură; se vând ca orice imobil, direct la notar.\n\nPractic, un teren intravilan poate fi vândut într-o săptămână, dacă actele sunt în regulă, în timp ce un teren agricol extravilan poate cere luni de zile de procedură administrativă înainte de a putea fi semnat contractul.\n\nUnde se verifică? Categoria rezultă din extrasul de carte funciară și din certificatul de urbanism. Nu vă bazați pe ce credeți sau pe ce spune vecinul: încadrarea se schimbă prin planuri urbanistice, iar un teren „de la marginea satului” poate fi intravilan sau extravilan în funcție de o linie trasată în PUG. Dacă apar dubii, certificatul de urbanism eliberat de primărie clarifică definitiv situația.\n\nA doua verificare, la fel de importantă: categoria de folosință. Un teren intravilan poate fi înscris ca arabil, livadă sau fâneață, iar acest lucru afectează ce poate construi cumpărătorul și, uneori, taxele. Cumpărătorii serioși întreabă."
+    },
+    {
+      "type": "checklist",
+      "heading": "Lista de tipărit — actele vânzătorului de teren intravilan",
+      "items": [
+        "Actul de proprietate în original: contract de vânzare-cumpărare, titlu de proprietate, certificat de moștenitor, act de donație sau sentință civilă",
+        "Actele de identitate ale tuturor proprietarilor; certificat de căsătorie sau de divorț, dacă terenul este bun comun",
+        "Certificatul de atestare fiscală pentru vânzare, de la direcția de taxe locale, care confirmă lipsa datoriilor",
+        "Documentația cadastrală: număr cadastral și plan de amplasament și delimitare recepționat de OCPI",
+        "Extrasul de carte funciară de informare, pentru verificarea prealabilă a sarcinilor",
+        "Certificatul de urbanism, dacă vânzarea se face pentru construire sau dacă cumpărătorul îl cere",
+        "Adeverința de la primărie privind categoria de folosință și încadrarea în intravilan, unde este necesară",
+        "Documentația de dezmembrare recepționată, dacă vindeți doar o parte din teren",
+        "Acordul de radiere a ipotecii sau adresa băncii, dacă terenul este ipotecat",
+        "Procurile notariale pentru coproprietarii care nu pot fi prezenți"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Ce verifică, de fapt, un cumpărător care știe ce face",
+      "text": "Un teren nu se cumpără pentru suprafață, ci pentru ce se poate construi pe el. Iar asta se citește în certificatul de urbanism, nu în anunț.\n\nRegimul de construire: procentul de ocupare a terenului (POT) și coeficientul de utilizare (CUT), regimul de înălțime, retragerile obligatorii față de limite și față de aliniament. Un teren de 500 mp cu POT 20% și retrageri mari poate fi, practic, neconstruibil pentru ce își dorește cumpărătorul.\n\nAccesul la drum public. Terenurile din spatele altor loturi — rezultate din dezmembrări făcute fără grijă — pot fi înfundate. Dacă accesul se face pe la vecin în baza unei înțelegeri verbale, cumpărătorul va cere o servitute de trecere înscrisă în cartea funciară, și are dreptate.\n\nUtilitățile. Distanța până la rețeaua de apă, canalizare, gaz și energie electrică, plus existența unui aviz de amplasament. O extindere de rețea poate costa mai mult decât terenul.\n\nLimitele reale. Aici intervenim noi cel mai des: gardurile de pe teren nu coincid întotdeauna cu limitele din cartea funciară. O trasare făcută înainte de semnare arată exact ce se cumpără și, dacă apare o diferență, permite negocierea sau corectarea la timp. Este cea mai ieftină asigurare dintr-o tranzacție de teren.\n\nSarcinile. Servituți, ipoteci, litigii notate, interdicții. Toate se citesc în foaia C a extrasului de carte funciară."
+    },
+    {
+      "type": "table",
+      "heading": "Situații care schimbă lista de acte",
+      "head": ["Situația", "Ce se adaugă"],
+      "rows": [
+        ["Terenul nu are cadastru", "primă înregistrare: măsurători, plan de amplasament, recepție OCPI"],
+        ["Vindeți doar o parte din teren", "dezmembrare recepționată înainte de semnare; loturile capătă numere cadastrale proprii"],
+        ["Terenul e înfundat, fără acces la drum", "servitute de trecere constituită prin act autentic și înscrisă în CF"],
+        ["Suprafața din CF diferă de măsurători", "actualizare de suprafață, eventual cu proces-verbal de vecinătate"],
+        ["Terenul are construcție neînscrisă (chiar și o magazie)", "înscrierea construcției sau radierea, după caz, înainte de vânzare"],
+        ["Terenul este agricol în extravilan", "altă procedură: ofertă la primărie, preempțiune, termene legale"],
+        ["Cumpărătorul e persoană juridică", "verificări suplimentare de reprezentare; regimul TVA se discută cu notarul și contabilul"],
+        ["Terenul provine din titlu de proprietate neintabulat", "primă înregistrare pe baza titlului, cu identificarea parcelei"]
+      ]
+    },
+    {
+      "type": "process",
+      "heading": "Pașii, de la decizie la semnare",
+      "steps": [
+        {
+          "title": "1. Verificarea cărții funciare",
+          "text": "Extrasul de informare vă arată dacă terenul este intabulat, pe cine, cu ce suprafață și ce sarcini. Dacă terenul nu are număr cadastral, aici începe traseul: primă înregistrare, 2–4 săptămâni cu tot cu recepție."
+        },
+        {
+          "title": "2. Clarificarea limitelor pe teren",
+          "text": "Trasarea limitelor din cartea funciară pe teren, cu țăruși vizibili. Se face în câteva ore și rezolvă din start întrebarea „unde e, exact, terenul”. Dacă gardul vecinului intră peste limită, e mult mai bine să știți acum."
+        },
+        {
+          "title": "3. Documentele de la primărie",
+          "text": "Certificatul de atestare fiscală, iar dacă e cazul, certificatul de urbanism. Certificatul de urbanism nu este obligatoriu pentru orice vânzare, dar este documentul care răspunde la întrebarea „ce se poate construi”, deci vinde terenul mai bine."
+        },
+        {
+          "title": "4. Dezmembrarea, dacă vindeți o parte",
+          "text": "Se face înainte de vânzare, nu după. Documentația se recepționează la OCPI, iar lotul vândut primește număr cadastral și carte funciară proprie. Gândiți din start accesul pentru fiecare lot rezultat."
+        },
+        {
+          "title": "5. Semnarea la notar",
+          "text": "Notarul obține extrasul pentru autentificare, calculează impozitul datorat de vânzător și taxa de intabulare datorată de cumpărător, autentifică contractul și depune cererea de intabulare."
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        {
+          "q": "Ce impozit plătesc dacă vând un teren intravilan?",
+          "a": "Impozitul pe venitul din transferul proprietății imobiliare: 3% dacă ați deținut terenul mai puțin de trei ani, 1% dacă l-ați deținut mai mult de trei ani, aplicat la valoarea din contract și reținut de notar. Nu confundați cu impozitul special de la vânzarea terenurilor agricole extravilane deținute sub opt ani, care este o altă reglementare și nu se aplică intravilanului."
+        },
+        {
+          "q": "Trebuie să ofer terenul întâi vecinilor sau primăriei?",
+          "a": "Nu, la teren intravilan nu se aplică procedura de preempțiune prevăzută pentru terenurile agricole din extravilan. Vindeți direct, cui doriți. Excepțiile țin de situații particulare — de exemplu clauze contractuale asumate anterior sau drepturi de preempțiune izvorâte din alte raporturi juridice — pe care notarul le verifică."
+        },
+        {
+          "q": "Cât costă cadastrul unui teren intravilan?",
+          "a": "Orientativ, între 1.000 și 1.800 lei pentru un teren intravilan obișnuit, în funcție de suprafață, de forma parcelei, de accesibilitate și de localitate. Dacă terenul are construcții, costul crește. Prețul exact îl dăm după ce vedem actul de proprietate și localitatea."
+        },
+        {
+          "q": "Vreau să vând doar jumătate din grădină. Cum procedez?",
+          "a": "Se face o dezmembrare: măsurăm, proiectăm împreună linia de despărțire, întocmim documentația și o depunem la OCPI. După recepție, fiecare lot are numărul lui cadastral și se poate vinde independent. Atenție la accesul lotului din spate — dacă nu are ieșire la drum, trebuie prevăzută o servitute sau o fâșie de drum."
+        },
+        {
+          "q": "Cât durează totul?",
+          "a": "Dacă terenul e intabulat și actele sunt curate: 1–2 săptămâni, cât să obțineți certificatul fiscal și să programați notarul. Dacă e nevoie de cadastru: adăugați 2–4 săptămâni. Dacă e nevoie de dezmembrare: adăugați 3–5 săptămâni. Termenele OCPI sunt cele afișate de biroul teritorial."
+        },
+        {
+          "q": "Certificatul de urbanism e obligatoriu la vânzare?",
+          "a": "Nu în toate situațiile, dar este util și adesea solicitat de cumpărători. El arată regimul juridic, economic și tehnic al terenului: încadrarea, POT, CUT, retrageri, servituți de utilitate publică, restricții. Costă puțin, se obține în câteva săptămâni și crește semnificativ încrederea cumpărătorului."
+        },
+        {
+          "q": "Terenul e moștenit și încă figurează pe numele părinților. Pot vinde?",
+          "a": "Nu până când nu vă intabulați dreptul. Se dezbate succesiunea la notar, se obține certificatul de moștenitor și se înscrie dreptul în cartea funciară. Dacă terenul nu are nici cadastru, cele două se pot face în paralel, ca să câștigați timp."
+        },
+        {
+          "q": "Cumpărătorul cere trasarea limitelor. Trebuie să plătesc eu?",
+          "a": "Nu există o regulă. În practică o plătește cel care o cere, dar mulți vânzători o comandă din proprie inițiativă, pentru că un teren cu limitele marcate se vinde mai repede și elimină negocierea „pe suspiciune”. Costă orientativ între 400 și 800 lei pentru un teren obișnuit."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Trasăm limitele și verificăm actele înainte de vânzare",
+      "text": "Spuneți-ne pe WhatsApp localitatea și numărul cadastral sau trimiteți-ne actul de proprietate. Verificăm situația din cartea funciară, vă spunem dacă terenul e pregătit de vânzare și, dacă doriți, venim să trasăm limitele ca să știți exact ce vindeți. Informațiile din acest ghid au caracter informativ și nu constituie consultanță juridică sau fiscală."
+    }
+  ],
+  "related": {
+    "services": ["intabulare-teren", "dezmembrare-alipire", "trasare-teren"],
+    "guides": ["acte-necesare-intabulare-teren", "acte-necesare-dezmembrare-teren", "trasare-teren-cand-ai-nevoie", "inscriere-servitute-de-trecere", "cum-verifici-daca-terenul-e-intabulat", "vanzare-casa-acte-necesare"]
+  },
+  "sources": [
+    "https://notariatstoica.ro/forum/faq-imobiliar/acte-necesare-vanzare-apartament-casa-sau-teren-in-2026-lista-completa-pentru-vanzatori/",
+    "https://www.uniuneanotarilor.ro/?p=4.1.2",
+    "https://notariate.ro/calculator-taxe-notariale/impozit-vanzare-imobil/",
+    "https://legislatie.just.ro/Public/DetaliiDocumentAfis/265122",
+    "https://lege5.ro/gratuit/gi2tsmbqhe/cartea-funciara-codul-civil"
+  ]
+}

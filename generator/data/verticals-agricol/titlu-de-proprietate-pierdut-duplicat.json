@@ -1,0 +1,82 @@
+{
+  "slug": "titlu-de-proprietate-pierdut-duplicat",
+  "title": "Titlu de proprietate pierdut: cum obții duplicatul și de la cine | Expert Intabulare",
+  "h1": "Ai pierdut titlul de proprietate? Iată cum obții duplicatul",
+  "metaDescription": "Cine eliberează duplicatul titlului de proprietate pierdut sau distrus, ce acte se depun, cât durează și ce poți face între timp cu terenul agricol.",
+  "whatsappTopic": "un titlu de proprietate pierdut și duplicatul lui",
+  "hook": "none",
+  "trustBar": true,
+  "group": "Probleme frecvente",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Actul s-a pierdut, dreptul nu",
+      "html": "<p>Prima veste bună: pierderea hârtiei nu înseamnă pierderea terenului. <a href=\"/dictionar/titlu-de-proprietate.html\">Titlul de proprietate</a> emis în baza legilor fondului funciar este actul care constată dreptul, dar dreptul însuși există în evidențele comisiei locale și ale comisiei județene de fond funciar: anexele validate, procesele-verbale de punere în posesie, registrul de evidență a titlurilor eliberate.</p><p>A doua: procedura de eliberare a unui <a href=\"/dictionar/duplicat-al-titlului-de-proprietate.html\">duplicat</a> există și se rezolvă administrativ, fără proces, în majoritatea cazurilor. Titlurile de proprietate se emit de comisia județeană, pe baza documentațiilor înaintate de comisiile locale, iar cererile celor îndreptățiți se soluționează, potrivit regulamentului aprobat prin HG 890/2005, în termen de 30 de zile de la înregistrare.</p>"
+    },
+    {
+      "type": "process",
+      "heading": "Pașii pentru obținerea duplicatului",
+      "steps": [
+        "Mergi la primăria comunei pe raza căreia se află terenul, la compartimentul de fond funciar sau registru agricol, și ceri verificarea în evidențe: anexa de validare, procesul-verbal de punere în posesie, poziția din registrul titlurilor eliberate.",
+        "Ceri o adeverință care atestă că ai figurat ca titular și că titlul a fost eliberat — este documentul care pornește dosarul.",
+        "Depui cererea de eliberare a duplicatului, adresată comisiei județene de fond funciar, prin intermediul comisiei locale.",
+        "Anexezi declarația pe proprie răspundere privind pierderea, distrugerea sau furtul titlului, în forma cerută de instituție.",
+        "Anexezi actele de identitate și, dacă titularul a decedat, certificatul de deces și actele care dovedesc calitatea de moștenitor.",
+        "Publici declarația de pierdere sau de distrugere în Monitorul Oficial al României, Partea a III-a — regulamentul aprobat prin HG 890/2005 condiționează eliberarea duplicatului de această publicare, deci nu este un pas facultativ.",
+        "Aștepți soluționarea și ridici duplicatul, care are aceeași valoare juridică precum originalul.",
+        "Cu duplicatul în mână, se poate face intabularea terenului — dacă nu a fost făcută deja."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Cine face ce în această procedură",
+      "head": ["Instituție", "Rol", "Ce îți dă"],
+      "rows": [
+        ["Primăria (comisia locală de fond funciar)", "Verifică evidențele și instrumentează dosarul", "Adeverințe, copii din anexe și procese-verbale"],
+        ["Comisia județeană de fond funciar", "Emite titlurile și duplicatele", "Duplicatul titlului de proprietate"],
+        ["OCPI / BCPI", "Verifică dacă terenul e deja înscris în cartea funciară", "Extras de carte funciară, extras de plan cadastral"],
+        ["Topograful autorizat", "Identifică și măsoară terenul, întocmește documentația", "Documentația cadastrală de primă înscriere"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Ce faci între timp și ce verificăm noi",
+      "html": "<p>Până la eliberarea duplicatului, terenul poate fi în continuare lucrat și declarat, în măsura în care figurează în <a href=\"/dictionar/registrul-agricol.html\">registrul agricol</a>. Ce nu se poate face fără act este vânzarea, ipotecarea sau orice operațiune notarială.</p><p>Verificarea pe care o facem întâi de toate — și pe care mulți o sar — este dacă terenul nu cumva <strong>are deja carte funciară</strong>. Se întâmplă mai des decât s-ar crede: terenuri intabulate în anii trecuți de un părinte, sau parcele intrate în <a href=\"/dictionar/cadastru-sistematic.html\">cadastrul sistematic</a> al comunei. Dacă imobilul este înscris, extrasul de carte funciară îți dovedește dreptul, iar duplicatul devine util, dar nu urgent.</p><p>A doua verificare este în teren: dacă titlul lipsește de mult, e posibil ca parcela să fie lucrată de altcineva sau ca hotarele să fi fost mutate. Identificarea din <a href=\"/dictionar/plan-parcelar.html\">planul parcelar</a> și măsurătoarea GNSS lămuresc situația înainte ca ea să devină un conflict.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Duplicatul are aceeași putere ca originalul?", "a": "Da. Duplicatul emis de comisia județeană constată același drept și se folosește identic la notar, la OCPI și în orice procedură administrativă. Originalul pierdut se anulează în evidențe." },
+        { "q": "Titularul a murit. Cine cere duplicatul?", "a": "Moștenitorii, cu certificatul de deces și cu actele care le dovedesc calitatea. În practică, este momentul potrivit pentru a dezbate și succesiunea, pentru că oricum veți avea nevoie de certificatul de moștenitor la intabulare." },
+        { "q": "Cât durează?", "a": "Regulamentul aprobat prin HG 890/2005 prevede soluționarea cererilor de către comisia județeană în 30 de zile de la înregistrare. În practică, durata depinde de cât de repede găsește primăria documentele în arhivă — de aceea merită insistat pe această primă etapă." },
+        { "q": "Ce fac dacă în arhiva primăriei nu se mai găsește nimic?", "a": "Se caută la comisia județeană și în arhivele instituției prefectului, unde se păstrează evidențele titlurilor emise. Dacă nici acolo nu există înregistrări, situația se complică și devine, de regulă, una judiciară — merită consultat un avocat înainte de a pierde timp." },
+        { "q": "Am doar o fotocopie a titlului. Îmi este de folos?", "a": "Enorm, chiar dacă nu are valoare juridică în sine. O copie, fie ea și o poză de telefon făcută acum zece ani, îți dă numărul titlului, numărul poziției din registru, tarlaua, parcela și suprafețele — adică exact datele după care primăria caută în arhivă. Un dosar pornit cu aceste elemente se rezolvă în zile, unul pornit doar cu numele titularului poate dura săptămâni. Caută prin dosarele vechi de la APIA, prin actele de succesiune ale rudelor sau prin dosarul de la un credit vechi: copiile titlului ajung frecvent acolo." },
+        { "q": "Pot începe măsurătorile înainte de a primi duplicatul?", "a": "Da, și de multe ori este alegerea corectă. Identificarea parcelei în tarla și ridicarea topografică nu depind de deținerea fizică a titlului, ci de evidențele din care rezultă poziția ta: anexa validată, procesul-verbal de punere în posesie, planul parcelar. Astfel, când duplicatul este gata, documentația cadastrală poate fi depusă imediat la OCPI, în loc să mai aștepți încă o lună. Singura condiție este să existe la primărie dovada că ai figurat ca titular." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Nu găsești titlul de proprietate?",
+      "text": "Scrie-ne pe WhatsApp comuna și numele titularului — verificăm întâi dacă terenul are deja carte funciară, ca să nu pornești un drum inutil."
+    }
+  ],
+  "related": [
+    "erori-in-titlul-de-proprietate",
+    "intabulare-teren-cu-titlu-de-proprietate",
+    "teren-mostenit-fara-succesiune",
+    "identificare-parcela-tarla",
+    "prima-inregistrare-teren-agricol",
+    "/servicii/intabulare-teren/",
+    "/servicii/servicii-ocpi/",
+    "/dictionar/duplicat-al-titlului-de-proprietate.html",
+    "/dictionar/titlu-de-proprietate.html",
+    "/dictionar/comisia-locala-de-fond-funciar.html"
+  ],
+  "sources": [
+    "https://www.cdep.ro/pls/legis/legis_pck.htp_act_text?idt=66038",
+    "https://legislatie.just.ro/Public/DetaliiDocument/64113",
+    "https://lege5.ro/gratuit/gy3dgmbu/legea-fondului-funciar-nr-18-1991",
+    "https://www.ancpi.ro/wp-content/uploads/2023/01/Lege-7-1996r3.pdf"
+  ]
+}

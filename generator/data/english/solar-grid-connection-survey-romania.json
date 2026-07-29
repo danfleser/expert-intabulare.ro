@@ -1,0 +1,91 @@
+{
+  "path": "/en/solar/grid-connection-survey-romania.html",
+  "title": "Grid Connection Surveys in Romania — ATR Route Survey, Profiles and Wayleaves",
+  "metaDescription": "Surveying support for grid connection of solar and storage projects in Romania: corridor survey after the ATR, longitudinal profiles, Stereo 70 coordinates, and the list of land-book parcels your cable route crosses.",
+  "h1": "Grid Connection Surveying in Romania: Measuring the Route Your Budget Depends On",
+  "roPair": "https://expert-intabulare.ro/parcuri-fotovoltaice/ridicare-topografica-racord-electric.html",
+  "navLabelEn": "Grid connection survey",
+  "whatsappPrefillEn": "Hello! We need a survey of the grid connection route for a project in Romania — corridor, profile and the parcels it crosses.",
+  "footer": false,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "The connection route is a land problem before it is an electrical one",
+      "html": "<p>Foreign developers usually arrive in Romania with the generation side well understood and the evacuation side underestimated. The sequence is fixed and worth learning early. You apply to the distribution operator — or to <strong>Transelectrica</strong>, the transmission operator, above a certain capacity — and receive an <strong>ATR</strong> (<em>aviz tehnic de racordare</em>, the technical connection approval). The ATR states the connection point, the technical solution and the connection tariff. The operator has a legal deadline of 30 calendar days from a complete file, and the ATR is valid for 12 months; let it lapse and the process restarts. You then sign the <em>contract de racordare</em>, and only after the works are built and commissioned does the operator issue the <em>certificat de racordare</em>. The framework is ANRE's connection regulation (Order 59/2013, amended most recently by Orders 53/2024 and 20/2025). Throughout, the connection works are paid by you, the applicant.</p><p>Here is the part that surprises people: the distance between your site and the connection point is almost never a straight line, and the tariff follows the <em>real</em> route. Overhead or buried, the line detours around buildings, crosses county and communal roads, drops into a valley and climbs out again, and every additional kilometre lands in the connection estimate you settle. Before the network designer can size anything, someone has to walk and measure the corridor. That is the work described on this page, and it is the same measurement your lawyers will later need in order to secure the right to keep a cable on other people's land.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "What we measure along an evacuation corridor",
+      "items": [
+        "The proposed axis, plus a working band either side at the width the network designer specifies — with a deliberate margin, because routes shift during design and remobilizing costs a full field day",
+        "Every road used or crossed: category, carriageway width, ditches, culverts and existing accesses",
+        "Existing overhead lines, with the position of each pole and the geometry relevant at crossings",
+        "Watercourses, drainage canals and wet ground along the route",
+        "Visible utility evidence at surface level: manholes, covers, hydrants, gas and fibre-optic markers",
+        "The cadastral boundaries of every parcel the corridor crosses, overlaid on the measurement and matched to its land-book (carte funciară) number",
+        "Ground elevations along the axis, for the longitudinal profile and for calculating cable burial depth"
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "The land-rights layer that decides whether the project is bankable",
+      "html": "<p>Romanian property is recorded in the <em>carte funciară</em> — the land book, a parcel-based public register administered by <strong>ANCPI</strong> nationally through county <strong>OCPI</strong> offices. A summary of any parcel's entries is issued as an <em>extras de carte funciară</em>, the land-book extract, which names the owner and lists mortgages, easements and litigation notes. Your evacuation cable will cross parcels that appear in that register under other people's names, and a cable sitting on someone else's land without a registered right is, to a lender, a defect rather than an asset.</p><p>The fix is a <em>servitute de trecere</em> — a right of way, in this case for the cable — agreed with each affected owner, put into a deed by a Romanian <strong>notary public</strong> (Romania uses the Latin notarial system: the notary authenticates the deed and it is the notary who files it), and then entered against the parcel in the land book at OCPI. That entry is what makes the right enforceable against a future buyer of the land. None of it can start until someone has produced the technical piece: an accurate plan of the strip affected on each individual parcel. We produce exactly that, one drawing per land-book number, from the same corridor survey — so the legal team negotiates with a complete, measured list rather than a guess about who is affected.</p><p>Order the corridor survey before signing the connection contract if you can. Developers who measure the real route early either confirm the estimate or discover that the line is 30% longer than the desktop assumption — and that is a number worth knowing while the budget is still a draft.</p>"
+    },
+    {
+      "type": "html",
+      "heading": "Deliverables, formats and reuse",
+      "html": "<p>You receive the corridor site plan at the scale the designer works to (typically 1:500 to 1:1000), the longitudinal profile with chainage and elevations, a coordinate inventory in <strong>Stereo 70</strong> — Romania's national projection system, which every Romanian authority and designer expects — and the complete schedule of crossed properties with their land-book numbers. Files come as DWG/DXF, LandXML for the profile, and SHP for GIS teams; we agree the specification with your designer before we mobilize, so nothing needs converting afterwards.</p><p>The measurement is not single-use. The same control points serve the setting-out of the trench and pole positions during construction, and the as-built documentation required at commissioning. Keeping one surveyor across all three phases removes the coordinate mismatches that otherwise surface at the worst moment. We work in English with developers, EPCs and network designers, and our field method mirrors the rest of our <a href=\"/en/solar/land-surveying-pv-projects-transylvania.html\">PV project surveying</a>: RTK GNSS along open corridor, total station wherever the sky is obstructed or tolerances tighten.</p><p>To scope a route, send us the site location and the connection point from your solution study or ATR on WhatsApp. We reply the same day with what the corridor survey involves and how long it takes.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Frequently asked questions",
+      "items": [
+        {
+          "q": "Do we need the ATR before you can start measuring?",
+          "a": "No. We can survey the corridor from the solution study or from a route the designer proposes. If the final ATR solution differs, we measure only the changed sections — which is precisely why we recommend a generous working band from the outset."
+        },
+        {
+          "q": "Can you handle routes several kilometres long, crossing multiple communes?",
+          "a": "Yes. Long routes are surveyed in sections, and the land-book research on crossed parcels is desk work we perform for any county. Our field coverage is centred on Alba and the neighbouring counties — Cluj, Mureș, Sibiu, Hunedoara — and project-scale engagements travel further."
+        },
+        {
+          "q": "Do you design the electrical line as well?",
+          "a": "No. Network design is done by a separately licensed design engineer. We supply the topographic layer — corridor, profile, coordinates, affected parcels — in the format that engineer specifies, and coordinate with them directly through the design phase."
+        },
+        {
+          "q": "Who negotiates the wayleaves with the landowners?",
+          "a": "You or your legal counsel. We identify each affected parcel with its land-book number and registered owner and prepare the technical plan for each easement, which is what the notary attaches to the deed and OCPI uses to make the entry."
+        },
+        {
+          "q": "How does this relate to battery storage projects?",
+          "a": "Identically. Storage connects through the same ATR chain, and our BESS site surveying page covers the platform side while this page covers the route to the point of delivery."
+        }
+      ]
+    }
+  ],
+  "related": [
+    "/en/solar/bess-battery-storage-site-survey-romania.html",
+    "/en/solar/solar-park-topographic-survey.html",
+    "/en/solar/land-surveying-pv-projects-transylvania.html",
+    "/en/solar/land-due-diligence-survey-romania.html",
+    "/en/solar/as-built-survey-pv-plants.html"
+  ],
+  "sources": [
+    {
+      "url": "https://economisi.ro/energie/pretul-energiei/atr",
+      "title": "ATR — Avizul Tehnic de Racordare în 2026: 30 de zile calendaristice, valabilitate 12 luni, Ordin ANRE 59/2013 modificat prin 53/2024 și 20/2025"
+    },
+    {
+      "url": "https://lege5.ro/gratuit/ge3dmojyhazds/regulamentul-pentru-acordarea-licentelor-si-autorizatiilor-in-sectorul-energiei-electrice-din-12032025",
+      "title": "Regulamentul pentru acordarea licențelor și autorizațiilor în sectorul energiei electrice, actualizat 2026"
+    },
+    {
+      "url": "https://veltol-energy.ro/conditii-de-infiintare-pentru-un-parc-fotovoltaic-etape-documente-si-autorizatii-necesare/",
+      "title": "Etapele racordării unui parc fotovoltaic: ATR, contract de racordare, certificat de racordare"
+    },
+    {
+      "url": "https://instalatori-fotovoltaice.ro/ghid/avize-aviz-mediu-parc-fotovoltaic-2026",
+      "title": "Avize parc fotovoltaic 2026 — secvența avizelor pentru proiecte utility-scale"
+    }
+  ]
+}

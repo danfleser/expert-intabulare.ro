@@ -1,0 +1,83 @@
+{
+  "slug": "enclava-teren-fara-acces",
+  "title": "Teren fără acces la drum: servitute de trecere și soluții practice | Expert Intabulare",
+  "h1": "Teren înfundat (enclavă): cum obții acces la drumul public",
+  "metaDescription": "Ce înseamnă teren lipsit de acces la calea publică, cum se constituie servitutea de trecere prin act sau prin instanță și ce documentație topografică este necesară.",
+  "whatsappTopic": "un teren fără acces la drum",
+  "hook": "none",
+  "trustBar": true,
+  "group": "Comasare și organizarea teritoriului",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Ce este, juridic, un teren înfundat",
+      "html": "<p>În limbajul Codului civil, un teren este „înfundat” atunci când este lipsit de acces la calea publică. În limbajul tarlalei, îi spunem <a href=\"/dictionar/enclava.html\">enclavă</a>: o parcelă înconjurată din toate părțile de terenuri ale altora, la care ajungi doar dacă cineva te lasă să treci. Situația apare din trei cauze pe care le vedem constant: <a href=\"/teren-agricol/dezmembrare-teren-agricol.html\">dezmembrări</a> făcute fără să se rezerve un drum, <a href=\"/teren-agricol/partaj-teren-agricol-mostenitori.html\">partaje</a> între moștenitori care taie parcela transversal, și drumuri de exploatare arate până la dispariție.</p><p>Legea nu lasă terenul înfundat fără soluție. Proprietarul unui asemenea teren poate obține dreptul de trecere pe fondul vecinului, contra unei despăgubiri, iar trecerea trebuie să se facă în condiții cât mai puțin păgubitoare pentru cel care o suportă. Diferența dintre teorie și practică stă însă în trei detalii: <strong>pe unde</strong> trece drumul, <strong>cât de lat</strong> este și <strong>cine plătește cât</strong>.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Cele trei căi de rezolvare, comparate",
+      "head": ["Soluția", "Cum se obține", "Avantaje și limite"],
+      "rows": [
+        ["Înțelegere cu vecinul, prin act notarial", "Contract de constituire a servituții, autentificat și înscris în CF", "Cea mai rapidă și mai ieftină; presupune un vecin dispus"],
+        ["Cumpărarea unei fâșii de teren", "Dezmembrare din terenul vecinului + vânzare", "Drumul devine proprietatea ta; cost mai mare, dar soluție definitivă"],
+        ["Hotărâre judecătorească", "Acțiune în instanță, cu expertiză topografică", "Se obține și fără acordul vecinului; durează și costă mai mult"],
+        ["Reactivarea drumului de exploatare", "Sesizare la primărie, cu plan de situație măsurat", "Cea mai ieftină când drumul există în planul parcelar și a fost doar arat"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Ce facem noi într-un astfel de caz",
+      "html": "<p>Verificarea începe cu o întrebare pe care mulți o sar: <em>chiar nu există drum?</em> În jumătate din situațiile pe care le-am întâlnit, tarlaua are drum de exploatare în <a href=\"/dictionar/plan-parcelar.html\">planul parcelar</a>, doar că el a fost ocupat. Această verificare — plan parcelar plus ortofotoplan plus măsurătoare în teren — este cea mai ieftină și, când iese pozitiv, elimină nevoia oricărei servituți.</p><p>Dacă drumul chiar nu există, trecem la partea tehnică a servituții. Măsurăm parcela ta și parcelele învecinate, identificăm variantele de traseu și le comparăm după lungime, pantă, cultura afectată și distanța până la drumul public. Rezultatul este un <strong>plan de situație cu traseul propus</strong>, cu lățime, lungime și suprafață ocupată — documentul pe care notarul îl anexează la contract sau pe care instanța îl are ca punct de plecare pentru expertiză.</p><p>Detaliul care contează cel mai mult: lățimea. Un drum de trei metri e suficient pentru un autoturism, dar nu pentru o combină cu heder demontat sau pentru o remorcă încărcată. Se stabilește de la început, nu după prima recoltă.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Ce trebuie să conțină o servitute bine făcută",
+      "items": [
+        "Identificarea exactă a fondului dominant (terenul tău) și a fondului aservit (terenul vecinului), cu numere cadastrale.",
+        "Traseul concret, descris prin coordonate Stereo 70, nu prin formulări de tipul „pe lângă gard”.",
+        "Lățimea drumului, corelată cu utilajele care trebuie să treacă.",
+        "Modul de folosire: permanent sau sezonier, cu sau fără drept de a amenaja platforma.",
+        "Despăgubirea datorată proprietarului fondului aservit și modul de plată.",
+        "Cine întreține drumul și cine suportă reparațiile.",
+        "Înscrierea servituții în cartea funciară a ambelor imobile — fără aceasta, dreptul nu este opozabil unui cumpărător viitor."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Preveniți enclava înainte de a o crea",
+      "html": "<p>Cele mai multe enclave din zona noastră au fost create legal, la notar, de oameni de bună-credință. Se dezmembrează un teren în două loturi pentru doi copii, unul rămâne la drum și altul în spate, și nimeni nu pune problema accesului pentru că „doar sunt frați”. Peste douăzeci de ani, loturile ajung la proprietari diferiți, iar problema devine litigiu.</p><p>Regula pe care o aplicăm la orice dezmembrare sau partaj de teren agricol este simplă: <strong>fiecare lot rezultat trebuie să aibă acces propriu</strong>, fie la un drum public, fie printr-o servitute constituită în același act. Costul acestei prevederi la momentul dezmembrării este zero; costul rezolvării ei peste douăzeci de ani este un proces.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Vecinul îmi cere bani ca să trec. E legal?", "a": "Da. Dreptul de trecere pentru terenul lipsit de acces la calea publică se acordă contra unei despăgubiri, potrivit Codului civil. Cuantumul se negociază sau, în lipsa înțelegerii, se stabilește de instanță, ținând cont de suprafața ocupată și de prejudiciul real." },
+        { "q": "Am trecut 30 de ani pe același drum. Nu am câștigat dreptul?", "a": "Simpla trecere tolerată nu creează prin ea însăși un drept opozabil. Situațiile în care o folosință îndelungată produce efecte juridice sunt limitate și se apreciază de instanță, de la caz la caz. Soluția sigură rămâne constituirea servituții și înscrierea ei în cartea funciară." },
+        { "q": "Servitutea rămâne dacă vecinul vinde terenul?", "a": "Da, dacă este înscrisă în cartea funciară. Aceasta este exact rațiunea înscrierii: dreptul urmează imobilul, nu persoana. O servitute convenită doar verbal sau printr-un înscris sub semnătură privată nu îl obligă pe cumpărător." },
+        { "q": "Ce documentație pregătiți pentru instanță?", "a": "Plan de situație cu măsurători recente, suprapunere peste planul parcelar și peste ortofotoplan, variante de traseu comparate și suprafețele afectate. Când este numit un expert judiciar, aceste documente scurtează mult expertiza." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Ai o parcelă la care nu poți ajunge?",
+      "text": "Scrie-ne pe WhatsApp comuna și tarlaua — verificăm întâi dacă există drum de exploatare în plan și abia apoi discutăm de servitute."
+    }
+  ],
+  "related": [
+    "drum-de-exploatare-acces-parcela",
+    "dezmembrare-teren-agricol",
+    "partaj-teren-agricol-mostenitori",
+    "vecinul-a-mutat-hotarul",
+    "comasare-terenuri-agricole-pasi",
+    "/servicii/plan-topografic/",
+    "/servicii/dezmembrare-alipire/",
+    "/dictionar/enclava.html",
+    "/dictionar/servitute-de-trecere.html",
+    "/dictionar/deschidere-la-drum.html"
+  ],
+  "sources": [
+    "https://legislatie.just.ro/Public/DetaliiDocument/175630",
+    "https://www.ancpi.ro/wp-content/uploads/2023/01/Lege-7-1996r3.pdf",
+    "https://legislatie.just.ro/Public/DetaliiDocument/112084"
+  ]
+}

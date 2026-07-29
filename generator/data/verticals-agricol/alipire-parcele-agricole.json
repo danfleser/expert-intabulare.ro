@@ -1,0 +1,93 @@
+{
+  "slug": "alipire-parcele-agricole",
+  "title": "Alipire parcele agricole: condiții, costuri și când merită | Expert Intabulare",
+  "h1": "Alipirea parcelelor agricole într-un singur imobil",
+  "metaDescription": "Când și cum se alipesc două sau mai multe parcele agricole: condiții de vecinătate, aceeași categorie de folosință, act notarial, costuri orientative.",
+  "whatsappTopic": "alipirea mai multor parcele agricole",
+  "hook": "none",
+  "trustBar": true,
+  "group": "Intabulare și cadastru agricol",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Operațiunea inversă dezmembrării",
+      "html": "<p><a href=\"/dictionar/alipire.html\">Alipirea</a> (sau comasarea cadastrală, cum îi spun unii registratori) unește două sau mai multe imobile înscrise în cartea funciară într-unul singur, cu un <a href=\"/dictionar/numar-cadastral.html\">număr cadastral</a> nou și o carte funciară nouă. Vechile numere cadastrale se închid, iar suprafața rezultată este suma suprafețelor din actele imobilelor alipite.</p><p>Pentru un fermier, alipirea nu e un moft administrativ. O tarla lucrată ca un singur trup, dar fragmentată în opt cărți funciare, înseamnă opt extrase la fiecare tranzacție, opt seturi de sarcini de verificat de către bancă, opt poziții separate în dosarul de finanțare și, adesea, un preț de vânzare mai mic decât al aceleiași suprafețe unitare. Alipirea transformă un mozaic în activ.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Condițiile care trebuie îndeplinite simultan",
+      "items": [
+        "Toate imobilele sunt înscrise în cartea funciară — nu se alipesc parcele care există doar în titlul de proprietate.",
+        "Imobilele sunt alipite fizic: au cel puțin o latură comună. Două parcele separate de un drum de exploatare sau de parcela unui terț nu se pot uni.",
+        "Toate au același proprietar sau aceiași coproprietari, în aceleași cote — altfel se trece întâi printr-un act de transfer.",
+        "Situația sarcinilor este compatibilă: o ipotecă pe unul dintre imobile cere acordul scris al creditorului.",
+        "Sunt în același UAT și în evidența aceluiași birou de cadastru și publicitate imobiliară.",
+        "Categoria de folosință se poate menține pe subparcele; nu e obligatoriu ca toate să fie arabil, dar planul trebuie să le arate distinct."
+      ]
+    },
+    {
+      "type": "process",
+      "heading": "Cum se desfășoară lucrarea",
+      "steps": [
+        "Extrasele de carte funciară — Le obținem pentru toate imobilele vizate și verificăm proprietarii, suprafețele, sarcinile și eventualele notări.",
+        "Verificarea vecinătății reale — Suprapunem geometriile din e-Terra: uneori două parcele care par lipite pe hartă au între ele o fâșie neînscrisă sau un drum de exploatare uitat.",
+        "Măsurătoarea de conturare — Măsurăm conturul exterior al ansamblului și verificăm dacă suma suprafețelor din acte se potrivește cu realitatea.",
+        "Documentația cadastrală de alipire — Un plan de amplasament și delimitare pentru imobilul rezultat, cu subparcelele de folosință marcate, plus memoriul tehnic.",
+        "Recepția la OCPI — Depunere electronică prin e-Terra; după recepție se atribuie numărul cadastral nou.",
+        "Actul notarial de alipire — Proprietarul (sau toți coproprietarii) semnează actul de comasare la notar.",
+        "Înscrierea finală — Se deschide cartea funciară a imobilului unic, iar cele vechi se închid cu mențiunea corespunzătoare."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Când merită și când nu",
+      "html": "<p><strong>Merită</strong> când parcelele sunt lipite și le lucrezi oricum împreună; când pregătești o vânzare și vrei un singur imobil, ușor de evaluat; când ai nevoie de o suprafață unitară pentru o ipotecă sau pentru un proiect cu finanțare; când vrei să reduci numărul de rânduri din dosarul APIA și numărul de extrase pe care le plătești anual.</p><p><strong>Nu merită</strong> când intenționezi să vinzi pe bucăți — ar însemna să alipești azi și să dezmembrezi mâine, plătind ambele operațiuni; când parcelele au regimuri diferite (una are servitute, alta e grevată de ipotecă) și unificarea ar contamina întregul cu sarcini; când una dintre parcele are o suprafață contestată sau o <a href=\"/teren-agricol/suprapunere-cadastrala-teren-agricol.html\">suprapunere cadastrală</a> nerezolvată — alipirea nu vindecă probleme, le mută în imobilul nou.</p><p>Atenție și la un detaliu care surprinde des: dacă terenurile sunt extravilane și vrei ca ansamblul să rămână agricol, alipirea nu schimbă nimic în privința <a href=\"/dictionar/legea-17-2014.html\">Legii 17/2014</a> — la vânzare, procedura de preempțiune se aplică imobilului rezultat, exact ca înainte.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Alipire vs. comasare prin schimburi: nu confunda",
+      "head": ["Aspect", "Alipire cadastrală", "Comasare prin schimburi"],
+      "rows": [
+        ["Ce se schimbă", "Numărul de cărți funciare", "Cine deține ce parcelă"],
+        ["Condiție de bază", "Același proprietar, parcele lipite", "Mai mulți proprietari, acord între ei"],
+        ["Actul necesar", "Act de alipire la notar", "Contract de schimb la notar, pentru fiecare pereche"],
+        ["Efect asupra suprafeței deținute", "Neschimbată", "Neschimbată ca total, schimbată ca amplasament"],
+        ["Cost tipic", "O documentație + un act notarial", "Mai multe documentații și mai multe acte"],
+        ["Când o alegi", "Ai deja parcele vecine", "Ai parcele împrăștiate și vecini dispuși să schimbe"]
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Parcelele mele sunt despărțite de un drum de exploatare. Se pot alipi?", "a": "Nu, cât timp drumul aparține domeniului public sau altui proprietar — imobilele nu au latură comună. Rămân două imobile distincte, dar pot fi tratate unitar în dosarul APIA dacă formează același bloc de cultură. Dacă drumul e abandonat, discuția se poartă cu primăria și e o procedură separată, nu una cadastrală." },
+        { "q": "Pierd suprafață la alipire?", "a": "Nu ar trebui. Suprafața imobilului nou este suma suprafețelor din cărțile funciare ale imobilelor alipite. Dacă măsurătoarea de contur arată o diferență față de această sumă, o lămurim înainte — printr-o actualizare de suprafață — pentru că altfel documentația nu trece de recepție." },
+        { "q": "Se poate alipi un teren arabil cu o pășune?", "a": "Da, dacă sunt vecine și au același proprietar. Imobilul rezultat va avea două subparcele de folosință distincte, marcate în planul de amplasament. Categoria de folosință nu se pierde prin alipire — nici nu se schimbă automat." },
+        { "q": "Cât durează și cât costă, orientativ?", "a": "Ca durată, similar cu o dezmembrare: orientativ o lună și jumătate până la două luni cu tot cu notariat și înscriere. Ca preț, onorariul crește moderat cu numărul de imobile alipite, iar onorariul notarial se calculează la valoarea totală. Cere o ofertă cu extrasele în față — atunci prețul e ferm, nu aproximativ." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Ai parcele vecine pe care vrei să le unești?",
+      "text": "Trimite-ne pe WhatsApp numerele cadastrale sau extrasele — verificăm dacă sunt cu adevărat lipite și îți dăm un preț orientativ în aceeași zi."
+    }
+  ],
+  "related": [
+    "dezmembrare-teren-agricol",
+    "comasare-terenuri-agricole-pasi",
+    "comasare-prin-schimburi",
+    "drum-de-exploatare-acces-parcela",
+    "cadastru-teren-extravilan",
+    "suprapunere-cadastrala-teren-agricol",
+    "/servicii/dezmembrare-alipire/",
+    "/servicii/cadastru-si-intabulare/",
+    "/dictionar/alipire.html",
+    "/dictionar/act-de-alipire.html",
+    "/dictionar/comasare.html"
+  ],
+  "sources": [
+    "https://legislatie.just.ro/Public/DetaliiDocument/162860",
+    "https://www.madr.ro/terenuri-agricole/legislatie/1-lege-nr-17-din-7-martie-2014.html",
+    "https://www.ancpi.ro/"
+  ]
+}

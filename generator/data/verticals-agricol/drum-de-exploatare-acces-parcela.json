@@ -1,0 +1,123 @@
+{
+  "slug": "drum-de-exploatare-acces-parcela",
+  "title": "Drum de exploatare: cine îl întreține și ce faci când a fost arat | Expert Intabulare",
+  "h1": "Drumul de exploatare: cine răspunde de el și cum îl recuperezi",
+  "metaDescription": "Ce este drumul de exploatare, cui aparține, ce faci când vecinul l-a arat sau l-a îngustat și cum se demonstrează traseul lui cu măsurători și plan parcelar.",
+  "whatsappTopic": "un drum de exploatare arat sau blocat",
+  "hook": "none",
+  "trustBar": true,
+  "group": "Comasare și organizarea teritoriului",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Drumul care nu se vede pe teren, dar există în plan",
+      "html": "<p><a href=\"/dictionar/drum-de-exploatare.html\">Drumurile de exploatare</a> — „drumurile de tarla”, cum li se spune la noi — sunt căile de acces care deservesc mai multe parcele agricole din interiorul unei tarlale. Ele au fost proiectate odată cu tarlalele, figurează în planurile de organizare a teritoriului și, în cele mai multe cazuri, în <a href=\"/dictionar/plan-parcelar.html\">planul parcelar</a> al tarlalei. Fac parte, de regulă, din domeniul unității administrativ-teritoriale, iar consiliul local are evidența lor.</p><p>Problema apare pentru că un drum de tarla nu are asfalt, borduri sau indicator. Are patru-șase metri de pământ bătătorit, iar în ani cu prețuri bune la grâu tentația de a mai trage o brazdă este mare. Doi ani de arat succesiv și drumul dispare vizual — dar nu dispare juridic. Exact aici stă soluția.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Tipuri de acces la o parcelă agricolă",
+      "head": [
+        "Tip",
+        "Cui aparține",
+        "Ce drepturi ai"
+      ],
+      "rows": [
+        [
+          "Drum public (comunal, județean, național)",
+          "Domeniul public al UAT, județului sau statului",
+          "Acces liber, întreținere în sarcina administratorului"
+        ],
+        [
+          "Drum de exploatare (de tarla)",
+          "De regulă domeniul UAT, potrivit evidențelor locale",
+          "Acces pentru toți deținătorii parcelelor deservite"
+        ],
+        [
+          "Servitute de trecere",
+          "Terenul rămâne al vecinului, greutatea trece asupra lui",
+          "Drept de trecere constituit prin act, hotărâre judecătorească sau lege"
+        ],
+        [
+          "Trecere tolerată",
+          "Nimeni nu a constituit nimic",
+          "Niciun drept — poate fi oprită oricând"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Ce faci concret când drumul a fost arat",
+      "html": "<p>Primul pas nu este scandalul în tarla, ci <strong>proba</strong>. Mergem în teren cu planul parcelar și cu ortofotoplanuri din ani diferiți și măsurăm GNSS ce există azi: marginea culturii vecinului, resturile de traseu, capetele de drum care încă se văd la intrarea în tarla. Suprapunerea peste plan arată, în metri, cât s-a arat și pe ce lungime.</p><p>Cu acest plan de situație în mână, discuția se mută la <strong>primărie</strong>. Drumul de exploatare este, de obicei, în administrarea comunei, iar consiliul local are atât interesul, cât și mijloacele de a-l reface — mai ales când sesizarea vine de la mai mulți proprietari deodată. În practică, o sesizare scrisă, însoțită de un plan cu coordonate, rezolvă situația fără instanță în majoritatea cazurilor.</p><p>Când drumul nu este al comunei, ci trecerea se făcea pe terenul unui vecin, discuția e alta: acolo vorbim de <a href=\"/dictionar/servitute-de-trecere.html\">servitute de trecere</a>, care se constituie prin act notarial sau, în lipsa înțelegerii, prin hotărâre judecătorească, în condițiile Codului civil privind terenul lipsit de acces la calea publică.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Documentele care contează într-o astfel de dispută",
+      "items": [
+        "Planul parcelar al tarlalei, obținut de la primărie sau de la OCPI — arată traseul proiectat al drumului.",
+        "Titlurile de proprietate ale parcelelor deservite, care menționează vecinătățile, inclusiv drumul.",
+        "Extrase de carte funciară pentru parcelele intabulate din zonă.",
+        "Ortofotoplanuri din ani diferiți, care arată drumul înainte de a fi arat.",
+        "Plan de situație cu măsurători recente, în coordonate Stereo 70, care cuantifică ocuparea.",
+        "Evidența drumurilor de exploatare de la consiliul local, dacă există hotărâri în acest sens."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "De ce contează accesul mai mult decât suprafața",
+      "html": "<p>La vânzare, o parcelă fără acces pierde masiv din valoare — cumpărătorul serios verifică drumul înainte de a verifica clasa solului. La <a href=\"/teren-agricol/comasare-terenuri-agricole-pasi.html\">comasare</a>, un lot compact fără ieșire la drum este un lot pe hârtie. La construirea unei anexe agricole sau la orice proiect care cere <a href=\"/dictionar/certificat-de-urbanism.html\">certificat de urbanism</a>, accesul la un drum public este condiție de bază.</p><p>De aceea, când facem identificarea parcelelor pentru un fermier, trecem întotdeauna și drumurile pe plan. Este informația care se pierde cel mai repede și care costă cel mai mult atunci când lipsește.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        {
+          "q": "Vecinul spune că drumul e pe terenul lui. Cum verific?",
+          "a": "Se verifică în planul parcelar al tarlalei și în titlurile de proprietate: dacă drumul figurează ca vecinătate și nu este cuprins în suprafața niciunui titlu, el nu este al vecinului. Măsurătoarea suprapusă peste plan arată exact unde se află."
+        },
+        {
+          "q": "Pot să-mi fac singur drum peste terenul vecinului?",
+          "a": "Nu. Trecerea fără drept poate fi oprită oricând, iar culturile distruse se plătesc. Dacă terenul tău este efectiv lipsit de acces la calea publică, soluția legală este servitutea de trecere, obținută prin înțelegere la notar sau prin instanță."
+        },
+        {
+          "q": "Cine repară drumul de exploatare distrus?",
+          "a": "Când drumul este în administrarea comunei, refacerea revine autorității locale; cel care l-a ocupat poate fi obligat să elibereze suprafața. Practic, o sesizare a mai multor proprietari, susținută cu un plan măsurat, are cele mai mari șanse de rezultat rapid."
+        },
+        {
+          "q": "Cât costă un plan care să dovedească traseul drumului?",
+          "a": "Orientativ, cât o ridicare topografică obișnuită pe una-două parcele, la care se adaugă timpul de studiu al planului parcelar. Când sesizarea o fac mai mulți proprietari împreună, costul se împarte și devine nesemnificativ pentru fiecare."
+        },
+        {
+          "q": "Drumul apare pe planul parcelar, dar în teren e arat de ani buni. Ce fac practic?",
+          "a": "Primul pas este să documentezi diferența, nu să pornești conflictul. Măsurăm traseul așa cum rezultă din planul parcelar și din titlurile din tarla, îl suprapunem peste ortofotoplanuri din ani diferiți și peste situația actuală, iar rezultatul arată clar unde a fost drumul și cât din el a fost cuprins în cultură. Cu acest material te poți adresa primăriei, care administrează drumurile de exploatare, sau poți deschide o discuție cu vecinul având un argument tehnic, nu o amintire."
+        },
+        {
+          "q": "Se poate intabula un drum de exploatare?",
+          "a": "Drumurile de exploatare fac parte, de regulă, din domeniul unității administrativ-teritoriale sau sunt cuprinse în planul parcelar al tarlalei ca teren cu această destinație, iar înscrierea lor se face în cadrul lucrărilor comunei, nu la cererea unui proprietar individual. Ce poți face tu este să te asiguri că, la întocmirea documentației pentru parcela ta, limita spre drum este corect stabilită și că nu îți însușești din el și nici nu cedezi din terenul tău."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Ți-a dispărut drumul de tarla?",
+      "text": "Trimite-ne pe WhatsApp comuna, tarlaua și o poză din teren — verificăm planul parcelar și îți spunem ce se poate dovedi și cum."
+    }
+  ],
+  "related": [
+    "enclava-teren-fara-acces",
+    "vecinul-a-mutat-hotarul",
+    "comasare-terenuri-agricole-pasi",
+    "plan-parcelar-ce-este-cine-il-intocmeste",
+    "identificare-parcela-tarla",
+    "dezmembrare-teren-agricol",
+    "/servicii/plan-topografic/",
+    "/servicii/expertize-documentatii/",
+    "/dictionar/drum-de-exploatare.html",
+    "/dictionar/servitute-de-trecere.html",
+    "/dictionar/deschidere-la-drum.html"
+  ],
+  "sources": [
+    "https://legislatie.just.ro/Public/DetaliiDocument/175630",
+    "https://lege5.ro/gratuit/gy3dgmbu/legea-fondului-funciar-nr-18-1991",
+    "https://www.ancpi.ro/wp-content/uploads/2023/01/Lege-7-1996r3.pdf"
+  ]
+}

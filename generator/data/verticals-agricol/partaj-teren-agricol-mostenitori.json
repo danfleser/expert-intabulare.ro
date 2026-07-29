@@ -1,0 +1,92 @@
+{
+  "slug": "partaj-teren-agricol-mostenitori",
+  "title": "Partaj teren agricol între moștenitori: ieșirea din indiviziune, lot cu lot | Expert Intabulare",
+  "h1": "Partajul terenului agricol: cum împarți corect între moștenitori",
+  "metaDescription": "Cum se face ieșirea din indiviziune pe teren agricol, la notar sau în instanță, cum se formează loturi echitabile cu acces la drum și ce rol are topograful.",
+  "whatsappTopic": "un partaj de teren agricol între moștenitori",
+  "hook": "none",
+  "trustBar": true,
+  "group": "Comasare și organizarea teritoriului",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Cotele nu se ară",
+      "html": "<p>După o succesiune, moștenitorii ajung, cel mai des, coproprietari pe cote-părți: fiecare are o fracțiune din întregul teren, nu o bucată anume. Pe hârtie e clar; pe teren e imposibil de lucrat. Nu poți semăna „o treime din parcelă” și nu poți vinde singur „jumătatea ta” dintr-o parcelă neîmpărțită fără să treacă drept vânzarea unei cote, cu toate complicațiile care urmează.</p><p><a href=\"/dictionar/iesire-din-indiviziune.html\">Ieșirea din indiviziune</a>, adică partajul, transformă cotele în loturi concrete. Din momentul partajului, fiecare devine proprietar exclusiv pe imobilul primit — îl poate vinde, arenda, ipoteca sau declara la APIA fără să mai depindă de semnătura fraților.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Două căi: notarul și instanța",
+      "head": ["Criteriu", "Partaj voluntar (notarial)", "Partaj judiciar"],
+      "rows": [
+        ["Condiție", "Acordul tuturor coproprietarilor", "Se poate face și fără acordul tuturor"],
+        ["Durată tipică", "Săptămâni, după pregătirea documentației", "Luni sau ani, în funcție de complexitate și de probe"],
+        ["Cost", "Onorariu notarial + documentație cadastrală + taxe de înscriere", "Taxă de timbru raportată la valoare + expertiză + onorarii avocați"],
+        ["Cine formează loturile", "Părțile, împreună cu topograful", "Expertul topograf desemnat, sub controlul instanței"],
+        ["Rezultat", "Act de partaj autentic, înscris în CF", "Hotărâre judecătorească, înscrisă în CF"]
+      ]
+    },
+    {
+      "type": "process",
+      "heading": "Cum arată un partaj bine pregătit",
+      "steps": [
+        "Inventarul masei succesorale — toate terenurile, cu acte, suprafețe, tarlale și parcele. Se lucrează cu titlurile de proprietate și cu certificatul de moștenitor.",
+        "Verificarea situației de carte funciară — ce e intabulat, ce nu, ce sarcini există. Terenurile neintabulate se intabulează întâi; fără carte funciară nu se poate face act de partaj.",
+        "Măsurătorile — identificăm și măsurăm fiecare parcelă, ca împărțirea să se facă pe suprafețe reale, nu pe cele din titluri.",
+        "Formarea loturilor — se propun variante de împărțire; discutăm cu toți moștenitorii, pentru că un partaj acceptat de toți se face la notar, iar unul contestat ajunge în instanță.",
+        "Documentația cadastrală — dezmembrări acolo unde un imobil se împarte, alipiri acolo unde loturile se pot grupa; totul recepționat la OCPI.",
+        "Semnarea actului de partaj la notar și, dacă valorile loturilor nu sunt egale, stabilirea sultei.",
+        "Înscrierea în cartea funciară — fiecare moștenitor primește imobile pe numele lui, cu numere cadastrale proprii."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Ce înseamnă „loturi echitabile” pe teren agricol",
+      "html": "<p>Egalitatea în hectare nu înseamnă echitate. Doi frați care primesc fiecare câte 3 ha pot ajunge la valori foarte diferite dacă unul primește teren la șosea, cu sol de clasa a II-a, iar celălalt o fâșie în pantă, fără acces, la 4 km de sat. Într-un partaj serios se pun în balanță cel puțin cinci elemente: suprafața reală măsurată, <a href=\"/teren-agricol/clasa-de-calitate-teren-bonitare.html\">clasa de calitate a solului</a>, accesul la drum, forma și lățimea lotului și distanța față de gospodărie.</p><p>Regula tehnică pe care o impunem la fiecare partaj de teren agricol este ca <strong>fiecare lot rezultat să aibă acces</strong> — la un drum public sau la un <a href=\"/dictionar/drum-de-exploatare.html\">drum de exploatare</a> existent. Dacă geometria nu permite, se constituie servitute în chiar actul de partaj. Partajele care ignoră accesul produc <a href=\"/teren-agricol/enclava-teren-fara-acces.html\">enclave</a>, iar enclavele produc procese peste o generație.</p><p>A doua regulă: nu fragmentați ce se poate păstra întreg. Când sunt trei moștenitori și cinci parcele, cea mai bună soluție e adesea ca fiecare să primească parcele întregi, cu diferențele echilibrate prin <a href=\"/dictionar/sulta.html\">sultă</a>, în loc să se taie fiecare parcelă în trei fâșii.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Actele necesare pentru un partaj notarial",
+      "items": [
+        "Certificatul de moștenitor sau, dacă succesiunea nu s-a dezbătut, actele necesare dezbaterii ei.",
+        "Titlurile de proprietate și celelalte acte de dobândire pentru toate terenurile.",
+        "Extrase de carte funciară pentru autentificare, pentru fiecare imobil.",
+        "Documentațiile cadastrale de dezmembrare sau alipire, recepționate de OCPI.",
+        "Certificatele fiscale pentru fiecare imobil, eliberate de primăria de rol.",
+        "Actele de identitate ale tuturor coproprietarilor sau procuri notariale pentru cei plecați."
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Un frate e plecat în străinătate și nu vine. Se poate face partajul?", "a": "Da, dacă dă o procură notarială specială cuiva de încredere, autentificată la un notar român sau la consulat, ori întocmită în străinătate cu formalitățile de recunoaștere cerute. Fără acordul lui, exprimat direct sau prin mandatar, partajul voluntar nu se poate încheia și rămâne calea judiciară." },
+        { "q": "Trebuie intabulat terenul înainte de partaj?", "a": "Da. Actul de partaj se autentifică la notar pe imobile înscrise în cartea funciară, cu extras de carte funciară pentru autentificare. Terenurile agricole din titluri se intabulează întâi, prin primă înscriere, apoi se împart." },
+        { "q": "Cât costă partea de topografie într-un partaj?", "a": "Depinde de câte imobile se dezmembrează sau se alipesc. Orientativ, fiecare documentație cadastrală pornește de la câteva sute de lei, plus tarifele OCPI. Când terenurile trebuie și intabulate întâi, costurile se cumulează — de aceea facem întotdeauna o estimare pe lista completă de parcele." },
+        { "q": "Se poate ieși din indiviziune doar pentru o parcelă?", "a": "Se poate face un partaj parțial, dacă toți coproprietarii sunt de acord, dar rareori merită: rămâneți în indiviziune pe restul și veți relua procedura. Este mai eficient să se rezolve toată masa succesorală o singură dată." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Aveți teren de împărțit între frați?",
+      "text": "Trimiteți-ne pe WhatsApp certificatul de moștenitor și titlurile — vă spunem ce se poate împărți acum, ce trebuie intabulat întâi și cum arată loturile pe hartă."
+    }
+  ],
+  "related": [
+    "intabulare-teren-agricol-mostenit",
+    "teren-mostenit-fara-succesiune",
+    "dezmembrare-teren-agricol",
+    "enclava-teren-fara-acces",
+    "comasare-terenuri-agricole-pasi",
+    "clasa-de-calitate-teren-bonitare",
+    "/servicii/dezmembrare-alipire/",
+    "/servicii/intabulare-teren/",
+    "/dictionar/iesire-din-indiviziune.html",
+    "/dictionar/partaj.html",
+    "/dictionar/sulta.html"
+  ],
+  "sources": [
+    "https://legislatie.just.ro/Public/DetaliiDocument/175630",
+    "https://www.ancpi.ro/wp-content/uploads/2023/01/Lege-7-1996r3.pdf",
+    "https://lege5.ro/gratuit/gy3dgmbu/legea-fondului-funciar-nr-18-1991"
+  ]
+}

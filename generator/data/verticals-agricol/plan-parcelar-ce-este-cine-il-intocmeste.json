@@ -1,0 +1,79 @@
+{
+  "slug": "plan-parcelar-ce-este-cine-il-intocmeste",
+  "title": "Planul parcelar: ce este, cine îl întocmește, cine îl plătește | Expert Intabulare",
+  "h1": "Planul parcelar: ce este, cine îl întocmește și de ce contează",
+  "metaDescription": "Ce este planul parcelar al unei tarlale, cine îl întocmește, cum se aprobă la OCPI și ce se întâmplă când lipsește. Explicat de un topograf autorizat ANCPI.",
+  "whatsappTopic": "o problemă legată de planul parcelar",
+  "hook": "none",
+  "trustBar": true,
+  "group": "Intabulare și cadastru agricol",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Harta fără de care tarlaua e doar o listă de nume",
+      "html": "<p><a href=\"/dictionar/plan-parcelar.html\">Planul parcelar</a> este harta oficială a unei <a href=\"/dictionar/tarla.html\">tarlale</a>: desenul care arată cum se împarte tarlaua în parcele, în ce ordine, cu ce dimensiuni și pe numele cui. El face legătura dintre titlurile de proprietate — care spun doar „tarlaua 34, parcela 12, 0,58 ha” — și terenul real dintre drumul de exploatare și pârâu. Fără plan parcelar, poziția fiecărei parcele e o chestiune de memorie colectivă; cu plan parcelar recepționat de OCPI, e o chestiune de coordonate.</p><p>Primele planuri parcelare s-au întocmit la aplicarea <a href=\"/dictionar/legea-18-1991.html\">Legii 18/1991</a>, odată cu punerea în posesie. Calitatea lor variază enorm de la o comună la alta: unele sunt riguroase și se potrivesc cu terenul, altele au fost desenate grăbit, iar unele s-au pierdut pur și simplu din arhive. Această loterie a anilor '90 este motivul pentru care două parcele identice pe hârtie pot însemna lucrări de intabulare complet diferite ca durată și cost.</p>"
+    },
+    {
+      "type": "paragraph",
+      "heading": "Cine îl întocmește și cum ajunge oficial",
+      "html": "<p>Planul parcelar se întocmește de o <a href=\"/dictionar/persoana-autorizata-ancpi.html\">persoană autorizată ANCPI</a> — un topograf sau o firmă de specialitate — pe baza măsurătorilor, a titlurilor de proprietate din tarla și a evidențelor comisiei locale de fond funciar. Ca să producă efecte, el trebuie <strong>recepționat de OCPI</strong>: abia după recepție parcelele din el pot primi numere cadastrale și pot fi înscrise în cartea funciară, iar în procedura modernă recepția planului parcelar poate atribui numere cadastrale tuturor parcelelor din tarla, cu deschiderea cărților funciare din oficiu sau la cerere. Primăria și <a href=\"/dictionar/comisia-locala-de-fond-funciar.html\">comisia locală de fond funciar</a> au rolul de a pune la dispoziție evidențele și de a valida lista proprietarilor — de aceea un plan parcelar bun este întotdeauna rezultatul colaborării dintre topograf, primărie și proprietari.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Cine plătește planul parcelar — cele trei scenarii",
+      "head": ["Scenariu", "Cine plătește", "Când se întâmplă"],
+      "rows": [
+        ["Înregistrare sistematică (PNCCF)", "Statul / fonduri europene / bugetul UAT — gratuit pentru proprietari", "Când comuna sau sectorul cadastral e prins în program"],
+        ["Plan parcelar comandat de primărie", "Bugetul local", "Când UAT-ul decide să rezolve o tarla problematică sau să pregătească sectoare pentru finanțare"],
+        ["Plan parcelar la inițiativa proprietarilor", "Proprietarii din tarla, proporțional", "Când tarlaua nu are plan valabil, iar proprietarii nu vor să aștepte programul național"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Ce se întâmplă când planul parcelar lipsește sau e greșit",
+      "html": "<p>Aici e partea despre care proprietarii află, de regulă, în cel mai prost moment: la vânzare. Dacă tarlaua nu are plan parcelar recepționat, OCPI nu are pe ce să așeze parcela ta — iar intabularea individuală devine dificilă sau imposibilă până nu se reconstituie ordinea parcelelor. Dacă planul există dar e greșit — suprafețele titlurilor adunate depășesc tarlaua reală, ordinea proprietarilor nu corespunde cu terenul — fiecare intabulare nouă moștenește și amplifică eroarea. Semnele după care recunoști o tarla cu probleme: vecini care „nu-și mai încap” în suprafețe, diferențe mari între ce arată titlul și ce se ară în fapt, dosare respinse la OCPI pe motiv de neconcordanță cu planul parcelar. Pentru aceste situații am scris o pagină separată, despre <a href=\"/teren-agricol/plan-parcelar-lipsa.html\">ce faci când nu există plan parcelar</a> — soluțiile există, dar cer metodă și, adesea, cooperarea mai multor proprietari din tarla.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Cum afli în ce situație e tarlaua ta",
+      "items": [
+        "Întreabă la primărie sau la comisia locală de fond funciar dacă tarlaua are plan parcelar și în ce an a fost întocmit",
+        "Cere-ne o verificare la OCPI: vedem dacă planul e recepționat și dacă parcelele din el au primit numere cadastrale",
+        "Verifică pe geoportalul ANCPI dacă în tarla apar imobile înscrise — un mozaic de parcele intabulate e semn bun",
+        "Compară suprafața din titlul tău cu ce folosești în realitate — nepotrivirile mari indică probleme de plan, nu doar de măsurătoare",
+        "Întreabă vecinii dacă au avut dosare respinse la intabulare — respingerile în lanț sunt simptomul clasic al tarlalei incoerente"
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Pot să-mi intabulez parcela dacă tarlaua nu are plan parcelar?", "a": "Uneori da — depinde de practica oficiului teritorial și de situația concretă a tarlalei: dacă poziția parcelei poate fi determinată cert din alte surse (schițe de punere în posesie, imobile vecine deja înscrise, ortofotoplanuri istorice), documentația poate trece. Alteori OCPI condiționează înscrierea de existența planului. Verificăm gratuit înainte să-ți promitem ceva." },
+        { "q": "Cine aprobă planul parcelar — primăria sau OCPI?", "a": "Rolurile sunt diferite: comisia locală și primăria validează evidența proprietarilor, iar OCPI face recepția tehnică a planului. Efectele juridice (numere cadastrale, cărți funciare) vin de la recepția OCPI." },
+        { "q": "Cât costă un plan parcelar făcut la inițiativa proprietarilor?", "a": "Depinde de mărimea tarlalei, numărul de parcele și calitatea arhivelor — se calculează pe tarla, nu pe parcelă, și se împarte între proprietari. Orientativ, la o tarla obișnuită, costul pe proprietar iese de regulă comparabil cu o documentație cadastrală individuală sau sub ea. Cere-ne o estimare concretă." },
+        { "q": "Dacă vine cadastrul sistematic, planul parcelar se face automat?", "a": "Da — înregistrarea sistematică produce, sector cu sector, exact acest rezultat: toate imobilele măsurate și înscrise, gratuit pentru proprietari. De aceea primul pas e mereu verificarea: e comuna ta (și sectorul tău) în program sau nu?" }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Nu știi dacă tarlaua ta are plan parcelar?",
+      "text": "Scrie-ne pe WhatsApp comuna și numărul tarlalei din titlu — verificăm la OCPI și îți spunem exact în ce situație ești și ce opțiuni ai."
+    }
+  ],
+  "related": [
+    "plan-parcelar-lipsa",
+    "identificare-parcela-tarla",
+    "tarla-parcela-sola-diferente",
+    "intabulare-teren-cu-titlu-de-proprietate",
+    "cadastru-sistematic-vs-sporadic-agricol",
+    "suprapunere-cadastrala-teren-agricol",
+    "/servicii/intabulare-teren/",
+    "/dictionar/plan-parcelar.html",
+    "/dictionar/comisia-locala-de-fond-funciar.html",
+    "/dictionar/legea-18-1991.html"
+  ],
+  "sources": [
+    "https://www.ancpi.ro/",
+    "https://legislatie.just.ro/Public/DetaliiDocument/1459"
+  ]
+}

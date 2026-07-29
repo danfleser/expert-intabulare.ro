@@ -1,0 +1,125 @@
+{
+  "slug": "cadastru-pentru-credit-ipotecar",
+  "title": "Cadastru pentru credit ipotecar — ce cere banca exact",
+  "h1": "Cadastrul și documentele cerute de bancă la creditul ipotecar",
+  "metaDescription": "Ce documente cadastrale cere banca la un credit ipotecar: extras CF, releveu, plan de amplasament, cine le obține, ce blochează dosarul și cum evitați întârzierile la evaluare.",
+  "whatsappTopic": "documentele cadastrale cerute de bancă pentru creditul ipotecar",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "De ce banca se uită la cartea funciară înainte de a se uita la dumneavoastră",
+      "text": "Un credit ipotecar are două aprobări, nu una. Prima privește persoana: venituri, istoric, grad de îndatorare. A doua privește imobilul, iar aici decizia nu se ia pe încredere, ci pe documente. Banca va verifica dacă locuința este intabulată, dacă are cadastru, dacă este liberă de sarcini și dacă se află într-o zonă acceptată de evaluatori.\n\nMotivul este simplu: garanția băncii este ipoteca pe imobil, iar ipoteca se înscrie într-o carte funciară. Ce nu apare în cartea funciară nu poate fi ipotecat, iar ce apare greșit în cartea funciară creează risc juridic. De aceea o casă cu mansardă neînscrisă, o anexă lipsă, o suprafață care nu corespunde sau o construcție fantomă demolată acum zece ani opresc dosarul mai sigur decât un venit mai mic.\n\nÎn practica noastră, cele mai multe urgențe de acest tip vin cu aceeași frază: „Am promis vânzătorului că semnăm peste două săptămâni și banca îmi cere ceva de la cadastru.” Vestea bună este că majoritatea acestor cerințe se rezolvă rapid dacă știți din prima ce anume vi se cere. Vestea proastă este că unele dintre ele — o construcție fără autorizație, o suprapunere cadastrală — nu se rezolvă în două săptămâni, oricât ați plăti."
+    },
+    {
+      "type": "checklist",
+      "heading": "Documentele imobilului, așa cum le cere banca",
+      "items": [
+        "Extras de carte funciară de informare, actualizat — arată proprietarul, suprafața, numărul cadastral și sarcinile",
+        "Actul de proprietate: contract de vânzare-cumpărare, certificat de moștenitor, act de donație, titlu de proprietate",
+        "Documentația cadastrală: planul de amplasament și delimitare pentru teren, releveele pentru apartament sau casă",
+        "Certificatul de performanță energetică, obligatoriu la transferul proprietății",
+        "Pentru case construite recent: autorizația de construire, procesul-verbal de recepție la terminarea lucrărilor, certificatul de atestare a edificării",
+        "Certificatul de atestare fiscală de la primărie, care confirmă că imobilul nu are datorii la bugetul local",
+        "Raportul de evaluare, întocmit de un evaluator agreat de bancă — îl comandă banca, nu dumneavoastră",
+        "Pentru apartamente: adeverința de la asociația de proprietari privind situația cheltuielilor",
+        "Actele de identitate ale vânzătorilor și cumpărătorilor, plus actele de stare civilă relevante"
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Cine obține fiecare document",
+      "head": ["Document", "Cine îl obține", "Termen tipic"],
+      "rows": [
+        ["Extras CF de informare", "oricine, online sau prin noi", "de la câteva ore la câteva zile"],
+        ["Extras CF pentru autentificare", "exclusiv notarul, aproape de semnare", "valabilitate limitată, de ordinul zilelor lucrătoare"],
+        ["Documentație cadastrală nouă", "topograf autorizat ANCPI", "1–3 săptămâni, inclusiv recepția OCPI"],
+        ["Copie releveu / plan din arhiva OCPI", "topograf sau proprietar", "zile"],
+        ["Certificat fiscal", "proprietarul, la direcția de taxe locale", "zile"],
+        ["Certificat energetic", "auditor energetic atestat", "zile"],
+        ["Raport de evaluare", "evaluator agreat, comandat de bancă", "zile, după programarea vizitei"],
+        ["Certificat de atestare a edificării", "proprietarul, la primărie", "săptămâni"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Ce blochează, în practică, dosarele — și cât durează remedierea",
+      "text": "Imobilul nu are cadastru deloc. Se face primă înregistrare: măsurători, documentație, recepție OCPI. Realist, 2–4 săptămâni pentru un caz curat. Este cea mai frecventă cerință și, paradoxal, una dintre cele mai simple.\n\nCasa nu este înscrisă, doar terenul. Se face înscrierea construcției, care presupune actele de la primărie. Dacă aveți autorizația și procesul-verbal de recepție, se rezolvă în 2–3 săptămâni; dacă lipsește certificatul de atestare a edificării, adăugați timpul de emitere la primărie.\n\nCasa are extindere sau mansardă neînscrisă. Aceeași procedură, dar cu relevee actualizate. Evaluatorul o va observa aproape sigur, pentru că măsoară pe teren.\n\nSuprafața din CF diferă de realitate. Dacă diferența este mică, se face actualizare. Dacă este mare, dosarul poate cere procese-verbale de vecinătate și devine dependent de vecini — aici nu putem promite termene.\n\nExistă suprapunere cadastrală sau imobilul apare deplasat pe hartă. Se tratează prin repoziționare sau prin corectarea documentației eronate. Este cel mai neplăcut caz, pentru că depinde și de alți proprietari.\n\nÎn cartea funciară figurează o ipotecă veche neradiată. Nu este o problemă cadastrală, dar oprește semnarea. Se cere băncii creditoare documentul de radiere și se depune la OCPI — rapid, dacă banca răspunde prompt.\n\nSfatul nostru pentru oricine plănuiește un credit: cereți extrasul de carte funciară cu trei luni înainte, nu cu trei săptămâni. Verificarea costă puțin și vă scutește de renegocierea termenelor cu vânzătorul."
+    },
+    {
+      "type": "process",
+      "heading": "Ordinea inteligentă a pașilor",
+      "steps": [
+        {
+          "title": "Înainte de a semna antecontractul",
+          "text": "Cereți extrasul de carte funciară al imobilului pe care îl cumpărați și citiți-l. Verificați proprietarul, suprafața, sarcinile și dacă toate construcțiile de pe teren apar înscrise. Cinci minute aici vă salvează săptămâni mai târziu."
+        },
+        {
+          "title": "Odată cu prima discuție la bancă",
+          "text": "Întrebați explicit ce documente ale imobilului cere banca și dacă acceptă documentația cadastrală existentă sau cere una nouă. Băncile diferă în cerințe, mai ales la case și la imobile din mediul rural."
+        },
+        {
+          "title": "Remedierea, dacă e cazul",
+          "text": "Dacă lipsește cadastrul sau construcția nu e înscrisă, începeți imediat. Nu așteptați aprobarea de principiu a creditului: documentația se face oricum, iar timpul câștigat aici este singurul pe care îl controlați."
+        },
+        {
+          "title": "Evaluarea",
+          "text": "Banca trimite evaluatorul agreat, care vizitează imobilul, verifică situația față de acte și întocmește raportul de evaluare. Un imobil cu cartea funciară corectă trece fără observații; unul cu diferențe primește obiecțiuni."
+        },
+        {
+          "title": "Semnarea la notar",
+          "text": "Notarul obține extrasul de carte funciară pentru autentificare, cu valabilitate limitată, și blochează imobilul pentru perioada respectivă. Se semnează contractul de vânzare și contractul de ipotecă, iar înscrierea la OCPI se face în același flux."
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        {
+          "q": "Cât costă cadastrul cerut pentru un credit?",
+          "a": "Depinde ce anume lipsește. O primă înregistrare de apartament se situează orientativ între 700 și 1.100 lei; un teren cu casă, între 1.600 și 3.000 lei; o simplă înscriere de construcție pe teren deja intabulat, între 900 și 1.500 lei. Nu percepem taxă de urgență artificială, dar vă spunem cinstit ce termene putem ține."
+        },
+        {
+          "q": "Banca cere „releveu”. Ce înseamnă și de unde îl iau?",
+          "a": "Releveul este planul pe niveluri al construcției, cu încăperile măsurate și suprafețele lor. Dacă imobilul a fost cadastrat, releveul există în arhiva OCPI și se poate obține în copie — mai ieftin și mai rapid decât o măsurătoare nouă. Dacă nu există sau nu mai corespunde realității, se face unul nou."
+        },
+        {
+          "q": "Am cumpărat de la dezvoltator un apartament nou. Ce cadastru trebuie?",
+          "a": "Dezvoltatorul întocmește, de regulă, documentația de recepție a construcției cu propunere de apartamentare, astfel încât fiecare unitate individuală să aibă număr cadastral și carte funciară proprie. Verificați înainte de semnare dacă apartamentul dumneavoastră are deja CF individuală — dacă nu, întrebați dezvoltatorul când o va avea, pentru că fără ea banca nu poate ipoteca."
+        },
+        {
+          "q": "Se poate ipoteca un teren fără construcție?",
+          "a": "Da, terenurile se pot ipoteca, dar politica de creditare diferă mult între bănci și între categoriile de teren; terenurile extravilane sunt acceptate mai rar ca garanție. Cerința cadastrală rămâne aceeași: teren intabulat, cu geometrie corectă și fără sarcini."
+        },
+        {
+          "q": "Cât durează, de la zero, până pot semna?",
+          "a": "Dacă imobilul nu are deloc cadastru: 2–4 săptămâni pentru documentație și recepție, la care se adaugă evaluarea și circuitul bancar. Dacă imobilul este în regulă: nu adăugați nimic, cadastrul nu vă întârzie. Termenele OCPI sunt cele afișate de biroul teritorial și pot fi reduse în regim de urgență; la prima înregistrare urgența nu mai presupune tarif, în timp ce la alte operațiuni se plătește un tarif majorat."
+        },
+        {
+          "q": "Evaluatorul a scris în raport că suprafața nu corespunde. Ce fac?",
+          "a": "Se face o documentație de actualizare a suprafeței. Cât de simplu se rezolvă depinde de mărimea diferenței: la diferențe mici, dosarul e direct; la diferențe mari, poate fi necesar proces-verbal de vecinătate. Anunțați banca imediat, ca să recalibrați termenele cu vânzătorul."
+        },
+        {
+          "q": "Pot folosi documentația cadastrală făcută în 2004?",
+          "a": "Adesea da, dacă imobilul nu s-a schimbat între timp și dacă poziționarea în planul cadastral este corectă. Verificarea este rapidă și ieftină. Dacă documentația veche are erori de poziționare, este mai bine să le aflați acum decât în ziua evaluării."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Verificăm imobilul înainte să vă blocheze creditul",
+      "text": "Trimiteți-ne pe WhatsApp adresa imobilului sau numărul cadastral și, dacă îl aveți, extrasul de carte funciară. Vă spunem în aceeași zi dacă documentația este completă pentru bancă, ce lipsește, cât costă și în cât timp se rezolvă. Informațiile din acest ghid au caracter informativ și nu constituie consultanță financiară sau juridică."
+    }
+  ],
+  "related": {
+    "services": ["cadastru-si-intabulare", "intabulare-apartament", "intabulare-casa-constructie"],
+    "guides": ["cum-citesti-un-extras-de-carte-funciara", "radiere-ipoteca-din-cf", "copie-plan-amplasament-arhiva-ocpi", "acte-necesare-cadastru-apartament", "certificat-energetic-cand-e-obligatoriu", "vanzare-apartament-acte-necesare"]
+  },
+  "sources": [
+    "https://www.bcr.ro/ro/news-hub/blog/noutati/ghid-complet-pentru-obtinerea-unui-credit-ipotecar-in-romania",
+    "https://www.nationalul.ro/2026/05/28/ce-documente-iti-cere-banca-pentru-imobil-si-cine-le-obtine/",
+    "https://legislatie.just.ro/Public/DetaliiDocumentAfis/265122",
+    "https://ms.ancpi.ro/termene/",
+    "https://www.uniuneanotarilor.ro/?p=4.1.2"
+  ]
+}

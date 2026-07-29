@@ -1,0 +1,136 @@
+{
+  "slug": "comasare-prin-schimburi",
+  "title": "Comasare prin schimburi de parcele: strategia practică, lot cu lot | Expert Intabulare",
+  "h1": "Comasarea prin schimb: cum negociezi parcelă cu parcelă",
+  "metaDescription": "Cum alegi ce parcele schimbi ca să obții un lot compact, cum se echilibrează valorile prin sultă și ce documentație cadastrală cere fiecare schimb.",
+  "whatsappTopic": "un schimb de parcele pentru a-mi aduna terenul",
+  "hook": "none",
+  "trustBar": true,
+  "group": "Comasare și organizarea teritoriului",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Schimbul este unealta cea mai ieftină de comasare",
+      "html": "<p>Cumpărarea unei parcele vecine costă bani și trece prin procedura de preempțiune. Schimbul, în schimb, mută proprietatea fără să scoți capital din fermă: dai o parcelă de care nu ai nevoie și primești una care îți continuă lotul. Este, practic, singura formă de comasare pe care doi vecini o pot face singuri, fără program public și fără finanțare.</p><p>Problema nu e juridică, ci de strategie. Într-un sat cu 400 de proprietari, nu poți negocia cu toți. Comasarea prin schimb funcționează atunci când identifici <strong>puținele schimburi care contează</strong> — cele care transformă două fâșii separate într-un lot continuu — și le urmărești pe acelea, ani la rând dacă e nevoie.</p>"
+    },
+    {
+      "type": "paragraph",
+      "heading": "Cum alegi ce schimbi: regula continuității",
+      "html": "<p>Înainte de orice discuție cu vecinii, punem pe hartă toate parcelele tale și pe cele ale vecinilor direcți din tarlalele unde ai cel mai mult teren. Din acest desen ies, de regulă, trei categorii.</p><p><strong>Parcele-cheie</strong>: cele care despart două bucăți ale tale. Dacă le obții, câștigi continuitate — o singură intrare, un singur cap de brazdă, o singură parcelă declarată la APIA. Pentru ele merită să dai mai mult decât valoarea de piață. <strong>Parcele-monedă</strong>: cele izolate, departe de restul, pe care le lucrezi doar din inerție. Ele sunt marfa ta de schimb. <strong>Parcele neutre</strong>: nici nu ajută, nici nu încurcă — le lași la urmă.</p><p>Un schimb bun leagă o parcelă-monedă de o parcelă-cheie a vecinului. Cel mai des, vecinul are exact aceeași problemă în oglindă: și el are o parcelă izolată lângă lotul tău. Când discuția se poartă pe hartă, cu suprafețe măsurate, se ajunge la înțelegere mult mai repede decât în discuțiile din poartă.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Ce compari înainte de a accepta un schimb",
+      "head": [
+        "Element",
+        "De ce contează",
+        "Cum îl verifici"
+      ],
+      "rows": [
+        [
+          "Suprafața reală",
+          "Suprafețele din titluri diferă frecvent de teren",
+          "Măsurătoare GNSS pe ambele parcele"
+        ],
+        [
+          "Clasa de calitate a solului",
+          "O diferență de clasă schimbă producția și prețul",
+          "Studiu pedologic OSPA sau, orientativ, harta de sol a zonei"
+        ],
+        [
+          "Accesul la drum",
+          "O parcelă fără acces valorează mult mai puțin",
+          "Verificare în teren și în planul parcelar"
+        ],
+        [
+          "Forma și lățimea",
+          "Fâșiile înguste pierd suprafață utilă la întoarceri",
+          "Planul de situație măsurat"
+        ],
+        [
+          "Situația juridică",
+          "Sarcini, litigii, moștenitori nedezbătuți blochează actul",
+          "Extras de carte funciară pentru informare"
+        ]
+      ]
+    },
+    {
+      "type": "process",
+      "heading": "De la înțelegere la carte funciară",
+      "steps": [
+        "Verificăm situația juridică a ambelor terenuri: extras de carte funciară, sarcini, proprietari, moștenitori.",
+        "Intabulăm ce nu e intabulat — schimbul se face prin act notarial, iar notarul nu poate autentifica un teren fără carte funciară.",
+        "Măsurăm ambele parcele și stabilim suprafețele reale, care intră în act; unde e nevoie, actualizăm suprafața în cartea funciară.",
+        "Se stabilește dacă valorile sunt echivalente sau dacă una dintre părți plătește o sultă, adică diferența de valoare.",
+        "Pentru terenurile extravilane, se verifică regimul aplicabil operațiunii la notar, inclusiv obligațiile privind circulația juridică a terenurilor agricole.",
+        "Se semnează contractul de schimb la notar; fiecare parte devine proprietar pe terenul primit.",
+        "Se înscrie dreptul în cartea funciară, iar dacă parcela primită este alăturată uneia deja deținute, se poate face imediat alipirea."
+      ]
+    },
+    {
+      "type": "checklist",
+      "heading": "Greșeli care strică schimburile",
+      "items": [
+        "Schimbul „pe cuvânt”, lucrat ani la rând fără act — nu produce niciun drept și se destramă la prima succesiune.",
+        "Compararea suprafețelor din titluri, nu a celor măsurate — diferențele de 5–10% sunt regula, nu excepția.",
+        "Ignorarea accesului: primești o parcelă mai mare, dar fără drum de exploatare.",
+        "Uitarea contractelor de arendă existente pe terenul primit — arenda continuă și îl obligă pe noul proprietar.",
+        "Nedeclararea schimbului la primărie și la APIA, ceea ce produce suprapuneri în campania următoare."
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        {
+          "q": "Ce este sulta și când apare?",
+          "a": "Sulta este suma de bani cu care se echilibrează un schimb între bunuri de valori diferite. Dacă parcela pe care o primești valorează mai mult, plătești diferența; ea se trece în contract și are consecințe fiscale, pe care notarul le explică la semnare."
+        },
+        {
+          "q": "Se poate schimba teren extravilan cu teren intravilan?",
+          "a": "Da, contractul de schimb nu impune ca bunurile să fie de același fel. Trebuie însă verificat regimul juridic al fiecăruia, pentru că terenurile agricole extravilane au reguli proprii de circulație pe care notarul le aplică la autentificare."
+        },
+        {
+          "q": "Vecinul vrea să schimbăm, dar terenul lui e pe părinți decedați. Se poate?",
+          "a": "Nu până când succesiunea nu este dezbătută și dreptul înscris în cartea funciară pe moștenitori. Este cea mai frecventă cauză de blocaj a schimburilor din satele noastre; se rezolvă la notar, apoi cu documentația cadastrală."
+        },
+        {
+          "q": "Cât costă documentația pentru un schimb?",
+          "a": "Orientativ, intră două documentații cadastrale (dacă terenurile nu sunt deja intabulate), eventual actualizări de suprafață, plus onorariul notarial și taxele de înscriere. La parcele mici, costul total al operațiunii poate depăși diferența de valoare — de aceea merită calculat înainte."
+        },
+        {
+          "q": "Cum aleg parcela pe care merită să o dau la schimb?",
+          "a": "Criteriul practic nu este suprafața, ci ce câștigi în continuitate. O parcelă mică, dar situată exact între două loturi pe care le deții deja, valorează în negociere mult mai mult decât una dublă ca suprafață, aflată izolată la trei kilometri. Începe prin a pune toate parcelele pe hartă și a marca cele care, prin schimb, ar uni două trupuri existente sau ar aduce un lot la drumul de exploatare — acelea sunt primele pe care le negociezi, și tot ele sunt cele pe care le poți oferi cel mai scump."
+        },
+        {
+          "q": "Trebuie parcurse formalitățile Legii 17/2014 și la un schimb?",
+          "a": "Procedura de preempțiune este reglementată pentru vânzare, iar schimbul are regimul lui juridic. Nu deduceți însă de aici că schimbul este o modalitate de a ocoli procedura: notarii analizează operațiunea în substanța ei, iar un schimb cu sultă foarte mare, care seamănă în fapt cu o vânzare, este riscant. Discutați forma actului cu notarul înainte de a semna orice, mai ales dacă diferența de valoare între parcele este mare."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Ai identificat un schimb care ți-ar lega lotul?",
+      "text": "Scrie-ne pe WhatsApp ce parcele sunt în discuție — verificăm situația juridică a amândurora și îți spunem ce documentație trebuie făcută."
+    }
+  ],
+  "related": [
+    "comasare-terenuri-agricole-pasi",
+    "schimb-terenuri-agricole",
+    "alipire-parcele-agricole",
+    "drum-de-exploatare-acces-parcela",
+    "clasa-de-calitate-teren-bonitare",
+    "cumparare-teren-agricol-verificari",
+    "/servicii/intabulare-teren/",
+    "/servicii/dezmembrare-alipire/",
+    "/dictionar/contract-de-schimb.html",
+    "/dictionar/sulta.html",
+    "/dictionar/comasare.html"
+  ],
+  "sources": [
+    "https://legislatie.just.ro/Public/DetaliiDocument/175630",
+    "https://www.madr.ro/terenuri-agricole/legislatie/1-lege-nr-17-din-7-martie-2014.html",
+    "https://www.ancpi.ro/wp-content/uploads/2023/01/Lege-7-1996r3.pdf",
+    "https://madr.ro/terenuri-agricole/"
+  ]
+}

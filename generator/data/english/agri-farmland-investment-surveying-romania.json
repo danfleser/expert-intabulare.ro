@@ -1,0 +1,85 @@
+{
+  "path": "/en/agri/farmland-investment-surveying-romania.html",
+  "title": "Farmland Investment in Romania — The Surveying Side of Buying Agricultural Land",
+  "metaDescription": "Investing in Romanian farmland: why registration coverage, fragmented parcels and 1991 restitution titles define the market, what technical due diligence must check, and how a surveyor de-risks acquisitions in Transylvania.",
+  "h1": "Buying Romanian Farmland: What the Spreadsheet Misses and the Survey Finds",
+  "roPair": "https://expert-intabulare.ro/teren-agricol/",
+  "whatsappPrefillEn": "Hello! I am evaluating agricultural land in Romania and need technical due diligence and surveying support.",
+  "footer": false,
+  "sections": [
+    {
+      "type": "html",
+      "heading": "The market you are actually buying into",
+      "html": "<p>Romanian farmland attracts investors for understandable reasons: genuinely fertile soil, prices still well below Western Europe, and EU membership with its subsidy framework. What the investment memos underweight is the <em>cadastral</em> reality underneath. Romanian agricultural land was collectivized, then restituted after 1991 through <strong>property titles (titluri de proprietate)</strong> that identify parcels by field block and plot number (<em>tarla</em> and <em>parcelă</em>) on communal parcelling plans — not by measured coordinates. Much of that land has never been through <a href=\"/en/services/cadastral-registration.html\">first registration</a>, registration coverage varies enormously from commune to commune, and holdings are fragmented into strips that reflect 1991 family allotments, not agronomy.</p><p>Practically, this means a 100-hectare acquisition in Transylvania is rarely one purchase — it is dozens of small purchases from dozens of families, in varying documentary states: some parcels registered, some documented only by a 1991 title, some stuck in unsettled <a href=\"/en/guides/unregistered-inherited-property-romania.html\">successions</a>. The land is real and the titles are mostly sound; what is missing, parcel by parcel, is the measured, registered geometry that converts paper rights into bankable assets. That conversion is surveyor's work, and its cost and timeline belong in your acquisition model from day one — not as a post-closing surprise.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Technical due diligence per parcel — what we verify before you commit",
+      "items": [
+        "Registration status: does a land book exist, and does the registered owner match the seller — or is there a succession to settle first",
+        "Geometry against reality: measured boundaries versus registered/claimed ones, overlaps with neighbouring registrations, area differences versus the deed",
+        "Physical identification for unregistered parcels: locating the title's tarla/parcel on the ground via the parcelling plan — before you pay for coordinates nobody can find",
+        "Access: legal and physical — a parcel reachable only across a neighbour's field has a problem no yield model fixes",
+        "Land quality context: use category as registered, intravilan/extravilan status, and any registered burdens or lease notations",
+        "The sale-procedure exposure: extravilan farmland sales run through the statutory pre-emption procedure of Law 17/2014, with fixed clocks that shape your acquisition calendar"
+      ]
+    },
+    {
+      "type": "html",
+      "heading": "From fragmented strips to an operable block",
+      "html": "<p>Acquisition is stage one; making the holding operable is stage two, and it is also cadastral. The toolkit: <strong>first registration</strong> of every unregistered parcel (currently tariff-exempt at the state level in the normal regime — the cost is the fieldwork, not the state); <strong>merging</strong> adjacent acquired parcels into consolidated bodies, and where sellers' parcels interleave with others', the exchange-and-consolidation strategies covered in our <a href=\"/en/agri/agricultural-land-consolidation-romania.html\">consolidation guide</a>; and clean documentation of farm roads and access. A consolidated, fully registered block is worth measurably more than the sum of its strips — to a bank as collateral, to the APIA subsidy file, and to any future buyer of the whole operation.</p><p>On subsidies: the EU payment system (administered by APIA) works on physical blocks identified in its own LPIS mapping, which do not automatically match land-book parcels. Discrepancies between what you cultivate, what you registered, and what you declare are a standing source of sanctions — and a measurement problem before they are a legal one. Keeping the three layers reconciled is part of running the asset properly.</p><p>We are an ANCPI-authorized surveying practice based in Alba county, working across Transylvania — the Mureș and Târnave valleys and the surrounding plateau are home terrain. For investors we typically run the technical lane of acquisitions end to end: parcel-by-parcel due diligence, measurement and registration campaigns, consolidation design, and the standing survey support an operating farm needs, with reporting in English over WhatsApp and email. The legal lane — contracts, pre-emption filings, corporate structure — belongs to your Romanian lawyer, with whom we coordinate as one team.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Frequently asked questions",
+      "items": [
+        {
+          "q": "Can foreigners buy Romanian farmland at all?",
+          "a": "EU citizens and companies, yes, on the same terms as Romanians. Non-EU buyers face restrictions and typically acquire through a Romanian company. The universal constraint is the pre-emption procedure for extravilan land — see our guide on Law 17/2014 — which adds statutory waiting periods to every purchase."
+        },
+        {
+          "q": "What does per-parcel due diligence cost against the deal size?",
+          "a": "The desk check per parcel is small and fast; field verification scales with area and dispersion. On a portfolio acquisition the whole technical due diligence typically lands well under one percent of the transaction — and it is the component that finds the parcels you should not buy."
+        },
+        {
+          "q": "How long does registering a large batch of parcels take?",
+          "a": "Each file carries its own statutory OCPI processing term — see our timeline guide for the current figures. The real constraint on a campaign of dozens of parcels is logistics rather than the term: measurement scheduling, document chasing per family, filing in batches. Plan months for a full portfolio, run in parallel with operations — we plan and run such campaigns as projects with a tracked pipeline."
+        },
+        {
+          "q": "Do you also work for sellers — families with land to sell to investors?",
+          "a": "Yes. A registered parcel with clean geometry sells faster and at a better price than a paper title. The preparation is identical work from the other side of the table."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislatie.just.ro/Public/DetaliiDocument/156290",
+      "title": "Legea nr. 17/2014 privind vânzarea terenurilor agricole situate în extravilan — procedura de preempțiune; se aplică cetățenilor români și cetățenilor unui stat membru UE"
+    },
+    {
+      "url": "https://lege5.ro/Gratuit/gm4tenjygy/exercitarea-dreptului-de-preemptiune-lege-17-2014",
+      "title": "Legea 17/2014, exercitarea dreptului de preempțiune — text actualizat 2026: rangurile preemptorilor și termenele legale"
+    },
+    {
+      "url": "https://www.schoenherr.eu/content/romania-noi-reglementari-referitoare-la-vanzarea-terenurilor-agricole-situate-in-extravilan",
+      "title": "Schoenherr — noile reglementări privind vânzarea terenurilor agricole extravilane (Legea 175/2020): condițiile pentru arendași și cerințele de rezidență"
+    },
+    {
+      "url": "https://www.madr.ro/terenuri-agricole/legislatie/1-lege-nr-17-din-7-martie-2014.html",
+      "title": "MADR — Legea 17/2014, text oficial; oferta de vânzare se afișează la primărie, terenul restituit fiind identificat prin tarla și parcelă"
+    },
+    {
+      "url": "https://www.ancpi.ro/ocpi/gl/tarife-servicii/",
+      "title": "OCPI (ANCPI) — tarife servicii: prima înregistrare scutită de tarif (codurile 2.1.1–2.1.4) în regimul normal"
+    }
+  ],
+  "related": [
+    "/en/agri/agricultural-land-consolidation-romania.html",
+    "/en/guides/agricultural-land-preemption-romania.html",
+    "/en/guides/buying-land-in-romania.html",
+    "/en/services/cadastral-registration.html",
+    "/en/solar/land-due-diligence-survey-romania.html",
+    "/en/guides/land-registration-timeline-romania.html"
+  ]
+}

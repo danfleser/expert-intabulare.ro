@@ -1,0 +1,82 @@
+{
+  "slug": "bloc-fizic-apia-ce-este",
+  "title": "Bloc fizic APIA: ce este, cine îl desenează și de ce nu coincide cu parcela ta | Expert Intabulare",
+  "h1": "Bloc fizic APIA (LPIS) pe înțelesul fermierului",
+  "metaDescription": "Ce este blocul fizic din sistemul LPIS, cine îl delimitează, de ce nu se suprapune cu parcela din titlu și cum ceri actualizarea lui când limita e greșită.",
+  "whatsappTopic": "un bloc fizic APIA care nu se potrivește cu terenul meu",
+  "hook": "none",
+  "trustBar": true,
+  "group": "APIA și subvenții",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Blocul fizic nu este parcela ta",
+      "html": "<p>Prima confuzie pe care o facem aproape toți este să credem că <a href=\"/dictionar/bloc-fizic-apia.html\">blocul fizic</a> ar fi o formă de cadastru. Nu este. Blocul fizic este o suprafață de teren agricol delimitată de limite stabile și vizibile pe <a href=\"/dictionar/ortofotoplan.html\">ortofotoplan</a> — drumuri, canale, liziere, cursuri de apă, limite de sat — în interiorul căreia pot exista zeci de proprietari și zeci de <a href=\"/dictionar/parcela.html\">parcele</a> diferite. El face parte din LPIS, sistemul de identificare a parcelelor agricole pe care APIA îl folosește ca referință pentru toate plățile pe suprafață.</p><p>Cu alte cuvinte: proprietatea se citește în cartea funciară, iar eligibilitatea la plată se citește în blocul fizic. Sunt două straturi de informație complet independente, desenate de instituții diferite, cu reguli diferite. Un teren poate fi perfect intabulat și, în același timp, să aibă o porțiune în afara blocului fizic — sau invers.</p>"
+    },
+    {
+      "type": "table",
+      "heading": "Bloc fizic vs. parcelă cadastrală",
+      "head": ["Criteriu", "Bloc fizic (LPIS)", "Parcelă cadastrală (carte funciară)"],
+      "rows": [
+        ["Cine îl stabilește", "APIA, prin fotointerpretarea ortofotoplanului", "Persoana autorizată ANCPI, prin măsurători, recepționate de OCPI"],
+        ["Ce delimitează", "Zone agricole cu limite stabile în teren, indiferent de proprietar", "Limita dreptului de proprietate al unui titular"],
+        ["La ce folosește", "Referință pentru declararea și verificarea suprafețelor eligibile", "Dovada și opozabilitatea dreptului de proprietate"],
+        ["Cum se corectează", "Cerere de actualizare LPIS la centrul județean APIA, cu documente justificative", "Documentație cadastrală de actualizare sau rectificare, depusă la OCPI"]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Categoria de folosință a blocului fizic contează la declarare",
+      "html": "<p>Fiecare bloc fizic are o categorie de folosință dominantă — teren arabil, pășune, fâneață, livadă, vie. Când îți declari parcela, o localizezi și o delimitezi în interiorul blocului fizic, în cadrul categoriei de folosință a acestuia. De aici vine o parte importantă din respingerile pe care le văd fermierii: cultura declarată nu se potrivește cu categoria blocului, sau parcela se întinde peste marginea blocului, în zonă neagricolă.</p><p>A doua regulă de aur este că parcela declarată nu are voie să se suprapună cu parcelele declarate de alți fermieri. Digitizarea greșită produce exact consecințele descrise în ghidurile LPIS: dublă declarare, plăți nerealizate pentru suprafața suprapusă, stabilirea unei suprafețe eligibile care nu corespunde realității din teren și penalizări conform legislației în vigoare. De aceea contează unde desenezi, nu doar cât desenezi.</p>"
+    },
+    {
+      "type": "checklist",
+      "heading": "Semne că blocul fizic are nevoie de actualizare, nu declarația ta",
+      "items": [
+        "Un drum de exploatare desființat de ani buni apare încă pe ortofotoplan și îți taie parcela în două.",
+        "O zonă defrișată sau desecată, azi arabilă, este încă marcată ca neagricolă în bloc.",
+        "Blocul fizic se oprește la un hotar care în teren nu mai există, pentru că tarlaua a fost comasată.",
+        "Limita blocului trece prin mijlocul unei parcele intabulate, deși în teren nu există nicio limită stabilă acolo.",
+        "Ortofotoplanul de referință este vizibil vechi față de situația actuală a culturii."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Ce documente susțin o cerere de actualizare",
+      "html": "<p>APIA nu modifică un bloc fizic pe baza unei sesizări verbale. Cererea de actualizare se depune la centrul județean, iar puterea ei stă în documentele anexate. Cele care cântăresc cel mai mult sunt: <a href=\"/dictionar/extras-de-carte-funciara-pentru-informare.html\">extrasul de carte funciară</a> și planul de amplasament recepționat de OCPI, un plan de situație cu măsurători recente în coordonate <a href=\"/dictionar/coordonate-stereo-70.html\">Stereo 70</a>, adeverința din <a href=\"/dictionar/registrul-agricol.html\">registrul agricol</a> și, acolo unde există, hotărârea consiliului local privind drumurile de exploatare.</p><p>Aici intervine topograful: noi îți dăm coordonatele reale ale limitelor, într-un format pe care specialiștii APIA îl pot suprapune direct peste stratul LPIS. Este diferența dintre „domnule, blocul e greșit” și un plan semnat, cu coordonate verificabile, care arată exact unde și cu cât.</p>"
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        { "q": "Pot avea o parcelă în două blocuri fizice?", "a": "Da, și este o situație frecventă când un drum sau un canal traversează proprietatea. În acest caz declari două parcele agricole, câte una în fiecare bloc fizic, cu suprafețele corespunzătoare. Nu este o eroare, ci modul normal de lucru al sistemului." },
+        { "q": "Cine îmi spune codul blocului fizic în care e terenul meu?", "a": "Îl vezi în aplicația geospațială APIA când navighezi pe hartă la poziția parcelei, iar funcționarul de la centrul local ți-l poate indica. Dacă nu știi unde e fizic terenul, aceasta e problema care se rezolvă întâi, printr-o identificare în teren pe baza titlului." },
+        { "q": "Blocul fizic dovedește că terenul e al meu?", "a": "Nu. Blocul fizic este un instrument de identificare a suprafețelor agricole pentru plăți, nu un act de proprietate. Proprietatea se dovedește cu titlul, contractul sau certificatul de moștenitor și, mai ales, cu înscrierea în cartea funciară." },
+        { "q": "Am cerut actualizarea blocului și nu s-a schimbat nimic. Ce fac?", "a": "Verifică întâi ce s-a depus efectiv la dosar. În practică, cererile fără plan de situație cu coordonate sunt cele care rămân fără rezultat. Cu o măsurătoare recentă și cu extrasul de carte funciară anexat, cererea are un suport tehnic pe care APIA îl poate verifica." }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Blocul fizic îți taie parcela?",
+      "text": "Trimite-ne pe WhatsApp o captură din aplicația APIA și actele terenului — venim, măsurăm limitele reale și îți pregătim planul cu care ceri actualizarea."
+    }
+  ],
+  "related": [
+    "masuratori-teren-apia",
+    "suprapuneri-declaratii-apia",
+    "subventie-apia-teren-neintabulat",
+    "identificare-parcela-tarla",
+    "cadastru-teren-extravilan",
+    "/servicii/intabulare-teren/",
+    "/servicii/plan-topografic/",
+    "/dictionar/bloc-fizic-apia.html",
+    "/dictionar/ortofotoplan.html",
+    "/dictionar/categorie-de-folosinta.html"
+  ],
+  "sources": [
+    "https://apia.org.ro/wp-content/uploads/2026/02/Ghid-Informativ-LPIS-editia-I-revizia-1_2026.pdf",
+    "https://lege5.ro/Gratuit/ge4dkmjzgqyts/ghidul-informativ-privind-sistemul-de-identificare-a-parcelelor-agricole-lpis-editia-a-ii-a-2026-cod-gi-dit-lpis-slpis-din-25032026",
+    "https://www.apia.org.ro/files/news_files/Manual_fotointerpretare_ver2.pdf",
+    "https://legislatie.just.ro/public/DetaliiDocument/295994"
+  ]
+}

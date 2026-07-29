@@ -1,0 +1,125 @@
+{
+  "slug": "repozitionare-imobil-cand-e-necesara",
+  "title": "Repoziționare imobil — când e necesară și cum se face",
+  "h1": "Repoziționarea imobilului în planul cadastral",
+  "metaDescription": "Imobilul apare deplasat pe hartă sau se suprapune cu vecinul: ce este repoziționarea, regula celor 2%, actele necesare, cine o poate cere și cât durează la OCPI.",
+  "whatsappTopic": "repoziționarea imobilului meu în planul cadastral",
+  "sections": [
+    {
+      "type": "paragraph",
+      "heading": "Ce înseamnă, de fapt, „imobilul e poziționat greșit”",
+      "text": "Fiecare imobil intabulat are, pe lângă suprafață și vecinătăți, o geometrie: un poligon cu coordonate în sistemul de proiecție Stereografic 1970, care îl așază pe harta țării. Când deschideți geoportalul ANCPI și vedeți conturul parcelei dumneavoastră peste casa vecinului, peste drum sau la cincizeci de metri în câmp, nu terenul s-a mutat — poligonul este greșit poziționat.\n\nCauzele sunt aproape întotdeauna istorice. Documentațiile din anii 2000 s-au făcut, o parte dintre ele, cu tehnologie mai puțin precisă, uneori prin transcalcul din planuri vechi, uneori cu determinări GPS de scurtă durată, în condiții slabe de recepție. Rezultatul: forma parcelei e corectă, dimensiunile sunt corecte, dar tot poligonul e translatat cu câțiva metri sau chiar zeci de metri față de poziția reală.\n\nRepoziționarea este procedura prin care se corectează exact acest lucru: se păstrează imobilul, se corectează amplasarea lui pe planul cadastral. Nu se schimbă proprietarul, nu se schimbă limitele din teren, nu se ia și nu se dă teren nimănui."
+    },
+    {
+      "type": "checklist",
+      "heading": "Semnele că aveți nevoie de repoziționare",
+      "items": [
+        "Pe geoportalul ANCPI, conturul imobilului dumneavoastră cade peste altă proprietate sau peste drum",
+        "OCPI a respins un dosar (dezmembrare, înscriere construcție, alipire) invocând suprapunere cu un imobil vecin",
+        "Casa măsurată de noi iese, pe plan, în afara parcelei înscrise în cartea funciară",
+        "Vecinul a făcut cadastru recent și documentația lui „intră” peste a dumneavoastră, deși gardurile sunt neschimbate de zeci de ani",
+        "Notarul sau banca au ridicat problema unei neconcordanțe de amplasament înainte de o tranzacție",
+        "Ați cumpărat un teren și, la trasare, punctele din CF cad vizibil altundeva decât limitele de pe teren",
+        "Terenul a fost cadastrat înainte de 2010, prin transcalcul din planuri vechi, fără măsurători GPS moderne"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "heading": "Regula esențială: geometria se corectează, suprafața aproape deloc",
+      "text": "Repoziționarea are o limită strictă, ușor de reținut și fundamentală în practică. Modificarea geometriei și a suprafeței în cadrul repoziționării nu presupune modificarea limitelor fizice ale imobilului, iar modificarea geometriei poate conduce la o modificare a suprafeței care nu poate depăși plus/minus 2% față de suprafața măsurată înscrisă în cartea funciară sau în actul de proprietate.\n\nCu alte cuvinte: repoziționarea mută poligonul acolo unde trebuie și poate ajusta ușor suprafața, pentru că o formă remăsurată corect nu iese niciodată identică la ultimul metru pătrat. Dar dacă, în urma măsurătorilor, suprafața se schimbă cu mult peste acest prag, nu mai sunteți într-o repoziționare — sunteți fie într-o rectificare de suprafață, fie într-o problemă de limite care se rezolvă altfel.\n\nAceastă distincție este ce separă un dosar de câteva săptămâni de un dosar care se blochează. De aceea, prima noastră acțiune este o măsurătoare de verificare, urmată de un calcul: unde ar trebui să fie poligonul, ce suprafață rezultă, cât la sută diferă. Abia apoi vă spunem dacă repoziționarea este calea corectă."
+    },
+    {
+      "type": "process",
+      "heading": "Cum se desfășoară o repoziționare",
+      "steps": [
+        {
+          "title": "Verificarea în planul cadastral și în arhivă",
+          "text": "Analizăm poziția actuală a imobilului în evidența digitală, cerem copia documentației cadastrale originale din arhiva OCPI și vedem cum a fost determinată geometria inițială. Documentația veche ne spune, de multe ori, exact unde s-a produs eroarea."
+        },
+        {
+          "title": "Măsurarea reală, în teren",
+          "text": "Măsurăm limitele existente — garduri, borne, colțuri de construcții — cu GNSS geodezic, în Stereografic 1970. Rezultatul este poziția adevărată a imobilului, cu precizie de centimetri, față de rețeaua națională."
+        },
+        {
+          "title": "Compararea și cuantificarea erorii",
+          "text": "Suprapunem poligonul din cartea funciară peste măsurătoarea nouă și calculăm translația: cu câți metri și în ce direcție e deplasat, ce suprafață rezultă, cât la sută diferă. Aceasta este piesa centrală a memoriului tehnic."
+        },
+        {
+          "title": "Acordul deținătorilor imobilelor afectate",
+          "text": "Dacă repoziționarea atinge imobile vecine deja înscrise, procedura cere acordul deținătorilor acestora, exprimat în condițiile regulamentului — de regulă prin proces-verbal de vecinătate. Este pasul care depinde cel mai mult de relația cu vecinii și, uneori, cel mai lung."
+        },
+        {
+          "title": "Documentația de repoziționare",
+          "text": "Întocmim planul de amplasament și delimitare cu geometria corectată, memoriul tehnic care justifică repoziționarea și piesele conexe. Depunem electronic la OCPI, urmărim recepția și rezolvăm eventualele referate de completare."
+        },
+        {
+          "title": "Verificarea finală pe geoportal",
+          "text": "După soluționare, verificăm împreună pe geoportal că imobilul apare acum acolo unde este în realitate. Este singura confirmare vizuală care contează pentru dumneavoastră."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Repoziționare sau altceva? Cum deosebiți",
+      "head": ["Simptom", "Procedura potrivită"],
+      "rows": [
+        ["Poligonul e deplasat, forma și dimensiunile sunt corecte", "repoziționare"],
+        ["Suprafața reală diferă mult de cea din CF, poziția e corectă", "rectificare de suprafață / actualizare"],
+        ["Două imobile înscrise se suprapun parțial pe plan", "clarificarea suprapunerii; repoziționarea celui greșit"],
+        ["Datele din CF conțin o greșeală evidentă de scriere (cifre inversate, nume)", "îndreptare de eroare materială"],
+        ["Vecinul susține că o parte din teren e a lui", "grănițuire / instanță — nu se rezolvă cadastral"],
+        ["Imobilul nu are deloc geometrie digitală (CF veche, doar numere topografice)", "primă înregistrare în sistemul integrat"]
+      ]
+    },
+    {
+      "type": "faq",
+      "heading": "Întrebări frecvente",
+      "items": [
+        {
+          "q": "Cine plătește repoziționarea, dacă eroarea a fost făcută de alt topograf?",
+          "a": "În practică, o plătește proprietarul care are nevoie de corectare, pentru că lucrarea este una nouă. Dacă documentația greșită este recentă și executantul mai este autorizat, merită să îi solicitați remedierea — este o cerere legitimă. Noi vă spunem, din analiza documentației vechi, dacă eroarea este de execuție sau ține de limitele tehnologiei din epocă."
+        },
+        {
+          "q": "Cât costă?",
+          "a": "Orientativ, între 800 și 1.500 lei pentru un imobil obișnuit, în funcție de suprafață, de câte imobile vecine sunt afectate și de câte deplasări sunt necesare pentru acorduri. Un caz cu patru vecini care trebuie contactați separat costă mai mult decât unul cu un singur vecin. Tarifele OCPI pentru această operațiune sunt modeste față de onorariul de documentație."
+        },
+        {
+          "q": "Cât durează?",
+          "a": "Partea tehnică — verificare, măsurători, documentație — se face de regulă în una–două săptămâni. Ce prelungește dosarul sunt acordurile vecinilor și, dacă e cazul, obținerea documentațiilor vechi din arhiva OCPI. Termenele de soluționare la OCPI sunt cele afișate de birou, de ordinul zilelor sau săptămânilor."
+        },
+        {
+          "q": "Se poate repoziționa fără acordul vecinilor?",
+          "a": "Depinde dacă repoziționarea afectează imobile vecine deja înscrise. Când conturul corectat atinge sau modifică limita comună cu un imobil înregistrat, regulamentul cere acordul deținătorului. Când imobilul se mută într-o zonă liberă, fără a atinge alte imobile înscrise, procedura este mai simplă. Analiza o facem înainte, ca să știți exact pe cine trebuie să convingeți."
+        },
+        {
+          "q": "Îmi pierd numărul cadastral?",
+          "a": "Nu. Repoziționarea păstrează numărul cadastral și cartea funciară; se corectează doar geometria. Nu se redeschide dreptul de proprietate, nu se rescrie foaia B și nu se afectează sarcinile din foaia C."
+        },
+        {
+          "q": "Banca mi-a blocat creditul din cauza suprapunerii. Repoziționarea rezolvă?",
+          "a": "Dacă suprapunerea provine dintr-o poziționare greșită a poligonului, da — este exact remediul potrivit și îl putem trata în regim de prioritate. Dacă însă suprapunerea reflectă o dispută reală de limite, repoziționarea nu ajunge, iar cinstit este să vă spunem asta de la început, ca să vorbiți din timp cu banca despre termene."
+        },
+        {
+          "q": "Am făcut cadastru în 2005. Trebuie repoziționat automat?",
+          "a": "Nu automat. Multe documentații din acei ani sunt corecte. Verificarea este însă ieftină și rapidă: comparăm poziția din evidență cu o măsurătoare de control și vă spunem în aceeași zi dacă aveți sau nu o problemă. Merită făcută înainte de vânzare, dezmembrare sau credit."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Verificăm poziția imobilului dumneavoastră",
+      "text": "Trimiteți-ne pe WhatsApp numărul cadastral sau adresa. Verificăm cum apare imobilul în planul cadastral și vă spunem dacă este deplasat, cu cât aproximativ și dacă repoziționarea este calea potrivită. Verificarea inițială nu costă nimic. Informațiile din acest ghid au caracter informativ și nu constituie consultanță juridică."
+    }
+  ],
+  "related": {
+    "services": ["actualizare-carte-funciara", "cadastru-si-intabulare", "expertize-documentatii"],
+    "guides": ["rectificare-suprafata-teren-cf", "suprafata-din-acte-difera-de-teren", "cum-verifici-daca-terenul-e-intabulat", "copie-plan-amplasament-arhiva-ocpi", "trasare-teren-cand-ai-nevoie", "receptia-ocpi-ce-inseamna"]
+  },
+  "sources": [
+    "https://legislatie.just.ro/Public/DetaliiDocumentAfis/265122",
+    "https://e-cadastru.ro/repozitionare-si-proces-verbal-de-vecinatate/",
+    "https://www.universuljuridic.ro/aprobarea-regulamentului-de-receptie-si-inscriere-in-evidentele-de-cadastru-si-carte-funciara-odgancpi-nr-600-2023/",
+    "https://ms.ancpi.ro/termene/",
+    "https://www.ancpi.ro/wp-content/uploads/2026/03/Ordin-nr.-293-din-2026.pdf"
+  ]
+}
