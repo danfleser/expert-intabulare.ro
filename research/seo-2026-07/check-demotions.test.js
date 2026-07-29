@@ -88,10 +88,17 @@ console.log('parseReport');
   check('reads data demotion keys', parsed.dataDemotions.size === 1 && parsed.dataDemotions.has('g/h/i'));
 }
 {
-  const parsed = parseReport(fs.readFileSync(path.join(__dirname, 'baseline.txt'), 'utf8'));
-  check('parses the real baseline: 92 render demotions', parsed.renderDemotions.size === 92,
-    `got ${parsed.renderDemotions.size}`);
-  check('parses the real baseline: 0 data demotions', parsed.dataDemotions.size === 0);
+  // Structural assertions only: baseline.txt is re-captured on every intentional
+  // rescue, so pinning its demotion count here would fail by design.
+  const text = fs.readFileSync(path.join(__dirname, 'baseline.txt'), 'utf8');
+  const parsed = parseReport(text);
+  const bullets = (text.match(/^ {2}- \S+\/\S+\/\S+:/gm) || []).length;
+  check('parses the real baseline without throwing', parsed.renderDemotions.size >= 0);
+  check('render demotion keys look like service/county/locality',
+    [...parsed.renderDemotions.keys()].every((k) => k.split('/').length === 3));
+  check('every demotion bullet in the file was captured',
+    parsed.renderDemotions.size + parsed.dataDemotions.size === bullets,
+    `parsed ${parsed.renderDemotions.size + parsed.dataDemotions.size}, file has ${bullets}`);
   check('parses the real baseline: emitted > 0', parsed.emitted > 0);
 }
 
