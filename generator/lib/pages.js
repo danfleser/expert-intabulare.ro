@@ -231,7 +231,19 @@ function buildLocalContext(ctx, service, loc, county, seed) {
     (n) => `Distanța de circa ${km} km față de Aiud ne permite să răspundem rapid pentru lucrările din ${n}, inclusiv la măsurători cu termen scurt.`,
     (n) => `Pentru ${typeLabel} ${n}, aflat${loc.type === 'comuna' ? 'ă' : ''} la aproximativ ${km} km de Aiud, mobilizarea în teren se face rapid, fără drumuri pierdute.`,
   ];
-  if (km != null) s.push(distFrames[(seed >>> 0) % distFrames.length](loc.name));
+  // km === 0 is the home-office case: exactly one locality record carries
+  // distanceKmFromAiud: 0, the town the office sits in. A seeded distance frame
+  // there reads "se află la aproximativ 0 km de biroul nostru din Aiud" — and can
+  // draw the "De la Aiud până în Aiud" frame — so the home case gets one fixed
+  // frame instead of the pool. The frame is kept (it feeds word count), not skipped.
+  if (km === 0) {
+    s.push(
+      `Fiind stabiliți chiar în ${loc.name}, preluăm cu prioritate lucrările din ${loc.type || 'localitate'} ` +
+      'și din satele aparținătoare, inclusiv măsurătorile cu termen scurt.'
+    );
+  } else if (km != null) {
+    s.push(distFrames[(seed >>> 0) % distFrames.length](loc.name));
+  }
 
   const vill = (loc.villages || []).filter(Boolean);
   if (vill.length > 1) {
@@ -332,7 +344,14 @@ function buildServiceLocality(ctx, service, loc, emitted) {
   const introParts = [];
   introParts.push(`<p class="lead">${escHtml(opener)}${variant ? ' ' + escHtml(fillParams(variant, params)) : ''}</p>`);
   introParts.push(`<p>${escHtml(closer)}</p>`);
-  if (km != null) {
+  if (km === 0) {
+    // Home town: the office is here, so a distance sentence contradicts itself.
+    introParts.push(
+      `<p>${escHtml(loc.name)} (${escHtml(loc.type || 'localitate')}, județul ${escHtml(countyName)}) este localitatea unde avem biroul. ` +
+      `Pentru imobilele din ${escHtml(loc.type || 'localitate')} și din satele aparținătoare nu există timp pierdut pe drum: ` +
+      `mergem la măsurătoare direct de la birou și depunem dosarul personal la ${escHtml(ocpiName(loc) || 'biroul de cadastru competent')}, aflat la câteva minute de noi.</p>`
+    );
+  } else if (km != null) {
     introParts.push(
       `<p>${escHtml(loc.name)} (${escHtml(loc.type || 'localitate')}, județul ${escHtml(countyName)}) se află la aprox. ${km} km de biroul nostru din Aiud. ` +
       `Ne deplasăm la fața locului pentru măsurători și predăm documentația completă la ${escHtml(ocpiName(loc) || 'biroul de cadastru competent')}.</p>`
@@ -429,7 +448,8 @@ function buildServiceLocality(ctx, service, loc, emitted) {
   ]);
   const metaDescription =
     `${service.name} în ${loc.name}: acte, pași, prețuri orientative. Topograf autorizat ANCPI` +
-    (km != null ? `, aprox. ${km} km de Aiud` : '') + `. Tel. ${site.nap.phoneDisplay}.`;
+    (km === 0 ? `, birou chiar în ${loc.name}` : km != null ? `, aprox. ${km} km de Aiud` : '') +
+    `. Tel. ${site.nap.phoneDisplay}.`;
 
   const jsonldExtra = [
     schema.serviceSchema(site, {
@@ -620,7 +640,7 @@ function buildCountyHub(ctx, county, emitted, demotedNotes) {
         `<p class="fz-14 mb-0">Lucrăm și în ${escHtml(l.name)}${l.villages && l.villages.length ? ` (${l.villages.map(escHtml).join(', ')})` : ''} — ` +
         `contactați-ne pe WhatsApp sau telefonic pentru orice serviciu de cadastru sau topografie.${note ? '' : ''}</p>`;
     }
-    const kmCount = km != null ? `aprox. ${km} km` : '';
+    const kmCount = km === 0 ? 'sediul nostru' : km != null ? `aprox. ${km} km` : '';
     return (
       `<details class="panel mb-2"><summary><span class="q">${escHtml(l.name)}</span><span class="count">${escHtml(kmCount)}</span></summary>` +
       `<div class="panel-body py-2">${body}</div></details>`

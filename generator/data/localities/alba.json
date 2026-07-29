@@ -42,6 +42,7 @@
     ],
     "lat": 46.3101,
     "lon": 23.7213,
+    "distanceKmFromAiud": 0,
     "ocpiOffice": {
       "name": "BCPI Aiud",
       "address": "Str. Cuza Vodă nr. 14, Aiud"
