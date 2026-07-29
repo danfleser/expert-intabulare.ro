@@ -40,6 +40,19 @@ function hreflangTags(site, roPath, enPath) {
   );
 }
 
+/**
+ * Human label for a link to an authored page.
+ *
+ * `title` is the <title> tag and some verticals append the site suffix
+ * ("… | Expert Intabulare"). That suffix is meaningless inside an on-page
+ * "Citește și" list, so prefer the page's h1 and otherwise strip the suffix.
+ */
+function displayLabel(entry) {
+  if (!entry) return '';
+  if (entry.h1) return entry.h1;
+  return String(entry.title || '').split(/\s+\|\s+/)[0].trim();
+}
+
 /** Lowercase a display name for use mid-sentence, preserving acronyms (OCPI, PUZ…). */
 function midSentence(name) {
   return String(name).replace(/^\p{Lu}(?!\p{Lu})/u, (c) => c.toLowerCase());
@@ -349,7 +362,9 @@ function buildServiceLocality(ctx, service, loc, emitted) {
       (loc.localNote ? `<p>${escHtml(loc.localNote)}</p>` : '') +
       `</div>`
     : '';
-  const deplasare = loc.matrix === 'reduced' ? chrome.deplasareBlock(site) : '';
+  // Keyed off county, not matrix: the deplasare note applies to every non-Alba locality,
+  // including tier-2 towns upgraded to the full matrix (g-plan §1a condition).
+  const deplasare = loc.countySlug !== 'alba' ? chrome.deplasareBlock(site) : '';
   const documentsBlock = checklistBlock('Acte necesare (orientativ)', service.documents);
   const processBlock = (service.process && service.process.length)
     ? `<div class="mb-5"><h2 class="h5 mb-3">Cum decurge procesul</h2><ol class="ps-3">${service.process.map((s) => `<li class="mb-2">${escHtml(fillParams(s, params))}</li>`).join('')}</ol></div>`
@@ -656,10 +671,13 @@ const HOOKS = {
 };
 
 function namespaceOf(kind) {
-  return kind === 'fonduri' ? '/fonduri-europene' : kind === 'solar' ? '/parcuri-fotovoltaice' : '/ghid';
+  return kind === 'fonduri' ? '/fonduri-europene' : kind === 'solar' ? '/parcuri-fotovoltaice' : kind === 'agricol' ? '/teren-agricol' : '/ghid';
 }
 function namespaceLabel(kind) {
-  return kind === 'fonduri' ? 'Fonduri europene' : kind === 'solar' ? 'Parcuri fotovoltaice' : 'Ghiduri';
+  return kind === 'fonduri' ? 'Fonduri europene' : kind === 'solar' ? 'Parcuri fotovoltaice' : kind === 'agricol' ? 'Teren agricol' : 'Ghiduri';
+}
+function sectionOf(kind) {
+  return kind === 'ghid' ? 'ghid' : kind === 'agricol' ? 'agricol' : 'verticale';
 }
 
 function buildAuthoredPage(ctx, kind, entry, allEntries) {
@@ -684,15 +702,16 @@ function buildAuthoredPage(ctx, kind, entry, allEntries) {
   const related = relSameNs
     .map((slug) => allEntries.find((e) => e.slug === slug))
     .filter(Boolean)
-    .map((e) => ({ href: `${base}/${e.slug}.html`, label: e.title }));
+    .map((e) => ({ href: `${base}/${e.slug}.html`, label: displayLabel(e) }));
   if (!Array.isArray(rel) && typeof rel === 'object') {
     for (const slug of rel.guides || rel.ghid || []) {
       const e = kind === 'ghid' ? allEntries.find((x) => x.slug === slug) : null;
-      if (e) related.push({ href: `/ghid/${e.slug}.html`, label: e.title });
+      if (e) related.push({ href: `/ghid/${e.slug}.html`, label: displayLabel(e) });
       else related.push({ href: `/ghid/${slug}.html`, label: null, slugOnly: slug, ns: '/ghid' });
     }
     for (const slug of rel.fonduri || []) related.push({ href: `/fonduri-europene/${slug}.html`, label: null, slugOnly: slug, ns: '/fonduri-europene' });
     for (const slug of rel.solar || []) related.push({ href: `/parcuri-fotovoltaice/${slug}.html`, label: null, slugOnly: slug, ns: '/parcuri-fotovoltaice' });
+    for (const slug of rel.agricol || []) related.push({ href: `/teren-agricol/${slug}.html`, label: null, slugOnly: slug, ns: '/teren-agricol' });
     for (const slug of rel.services || []) {
       const s = ctx.servicesNavBySlug.get(slug);
       if (s) related.push({ href: `/servicii/${slug}/`, label: s.label });
@@ -715,7 +734,7 @@ function buildAuthoredPage(ctx, kind, entry, allEntries) {
 
   return assemblePage(ctx, {
     path: pagePath,
-    section: kind === 'ghid' ? 'ghid' : 'verticale',
+    section: sectionOf(kind),
     title: entry.title,
     metaDescription: entry.metaDescription || '',
     h1: entry.h1 || entry.title,
@@ -741,7 +760,9 @@ function buildVerticalHub(ctx, kind, entries) {
   const hubEntry = entries.find((e) => e.slug === 'index' || e.slug === '_hub') || null;
   const pages = entries.filter((e) => e !== hubEntry);
   const waTopic = (hubEntry && hubEntry.whatsappTopic) ||
-    (kind === 'fonduri' ? 'documentație topografică pentru un proiect finanțat' : 'măsurători pentru un proiect fotovoltaic');
+    (kind === 'fonduri' ? 'documentație topografică pentru un proiect finanțat'
+      : kind === 'agricol' ? 'măsurători sau documentație cadastrală'
+      : 'măsurători pentru un proiect fotovoltaic');
 
   const ctaHtml = chrome.ctaWhatsapp(site, { namespace: kind, topic: waTopic });
   let sectionsHtml = '';
@@ -754,7 +775,9 @@ function buildVerticalHub(ctx, kind, entries) {
     sectionsHtml = `<p class="lead">${escHtml(
       kind === 'fonduri'
         ? 'Documentație topografică și cadastrală pentru proiecte cu finanțare europeană: intabulare, planuri de situație, măsurători pentru dosare PNRR, AFIR și alte programe.'
-        : 'Servicii topografice pentru parcuri fotovoltaice: due diligence de teren, studii topografice, trasare, as-built și documentație cadastrală.'
+        : kind === 'agricol'
+          ? 'Cadastru și topografie pentru terenuri agricole: intabulare, plan parcelar, dezmembrare și alipire, măsurători pentru APIA și documentație pentru scoaterea din circuitul agricol.'
+          : 'Servicii topografice pentru parcuri fotovoltaice: due diligence de teren, studii topografice, trasare, as-built și documentație cadastrală.'
     )}</p>`;
   }
 
@@ -780,11 +803,15 @@ function buildVerticalHub(ctx, kind, entries) {
   const title = (hubEntry && hubEntry.title) ||
     (kind === 'fonduri'
       ? 'Topografie și cadastru pentru fonduri europene | Fleser Aurel Expert'
-      : 'Topografie pentru parcuri fotovoltaice | Fleser Aurel Expert');
+      : kind === 'agricol'
+        ? 'Cadastru și topografie pentru terenuri agricole | Fleser Aurel Expert'
+        : 'Topografie pentru parcuri fotovoltaice | Fleser Aurel Expert');
   const metaDescription = (hubEntry && hubEntry.metaDescription) ||
     (kind === 'fonduri'
       ? `Documentație topografică și cadastrală pentru proiecte cu fonduri europene (PNRR, AFIR). Topograf autorizat ANCPI. Tel. ${site.nap.phoneDisplay}.`
-      : `Due diligence teren, studii topografice, trasare și as-built pentru parcuri fotovoltaice. Topograf autorizat ANCPI. Tel. ${site.nap.phoneDisplay}.`);
+      : kind === 'agricol'
+        ? `Intabulare teren agricol, plan parcelar, măsurători APIA și documentație cadastrală pentru terenuri extravilane. Topograf autorizat ANCPI. Tel. ${site.nap.phoneDisplay}.`
+        : `Due diligence teren, studii topografice, trasare și as-built pentru parcuri fotovoltaice. Topograf autorizat ANCPI. Tel. ${site.nap.phoneDisplay}.`);
 
   const jsonldExtra = [];
   if (faqs.length) jsonldExtra.push(schema.faqPage(faqs));
@@ -797,7 +824,7 @@ function buildVerticalHub(ctx, kind, entries) {
 
   return assemblePage(ctx, {
     path: pagePath,
-    section: 'verticale',
+    section: sectionOf(kind),
     title,
     metaDescription,
     h1: (hubEntry && hubEntry.h1) || namespaceLabel(kind),
@@ -992,7 +1019,7 @@ function buildEnPage(ctx, entry) {
   const related = (entry.related || [])
     .map((p) => ctx.enByPath.get(p))
     .filter(Boolean)
-    .map((e) => ({ href: e.path, label: e.navLabel || e.title }));
+    .map((e) => ({ href: e.path, label: e.navLabel || displayLabel(e) }));
 
   const roPath = entry.roPair
     ? urlPath(entry.roPair.replace(/^https?:\/\/[^/]+/, '').replace(/\/index\.html$/, '/') || '/')

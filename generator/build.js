@@ -59,6 +59,7 @@ function main() {
       guides: loadShardDir(path.join(DATA_DIR, 'guides'), problems),
       fonduri: loadShardDir(path.join(DATA_DIR, 'verticals-fonduri'), problems),
       solar: loadShardDir(path.join(DATA_DIR, 'verticals-solar'), problems),
+      agricol: loadShardDir(path.join(DATA_DIR, 'verticals-agricol'), problems),
       dictionary: loadShardDir(path.join(DATA_DIR, 'dictionary'), problems),
       english: loadShardDir(path.join(DATA_DIR, 'english'), problems),
       hreflang: readJsonSafe(path.join(DATA_DIR, 'hreflang.json'), problems) || [],
@@ -142,10 +143,10 @@ function main() {
     if (ro && en) hreflangRoToEn.set(ro, en);
   }
   for (const e of english) if (e.roPair) hreflangRoToEn.set(norm(e.roPair), norm(e.path));
-  for (const list of [data.guides || [], data.fonduri || [], data.solar || []]) {
+  for (const list of [data.guides || [], data.fonduri || [], data.solar || [], data.agricol || []]) {
     for (const entry of list) {
       if (entry.enPair) {
-        const base = list === data.guides ? '/ghid' : list === data.fonduri ? '/fonduri-europene' : '/parcuri-fotovoltaice';
+        const base = list === data.guides ? '/ghid' : list === data.fonduri ? '/fonduri-europene' : list === data.solar ? '/parcuri-fotovoltaice' : '/teren-agricol';
         hreflangRoToEn.set(`${base}/${entry.slug}.html`, norm(entry.enPair));
       }
     }
@@ -232,10 +233,12 @@ function main() {
   for (const g of guides) allPages.push(pages.buildAuthoredPage(ctx, 'ghid', g, guides));
   if (guides.length) allPages.push(pages.buildGuideHub(ctx, guides));
 
-  for (const [kind, list] of [['fonduri', data.fonduri || []], ['solar', data.solar || []]]) {
+  for (const [kind, list] of [['fonduri', data.fonduri || []], ['solar', data.solar || []], ['agricol', data.agricol || []]]) {
     const pageEntries = list.filter((e) => e.slug !== 'index' && e.slug !== '_hub');
     for (const e of pageEntries) allPages.push(pages.buildAuthoredPage(ctx, kind, e, pageEntries));
-    if (list.length) allPages.push(pages.buildVerticalHub(ctx, kind, list));
+    // agricol hub is always emitted: site chrome links /teren-agricol/ from every page,
+    // so the hub must exist even while the data dir is still being authored.
+    if (list.length || kind === 'agricol') allPages.push(pages.buildVerticalHub(ctx, kind, list));
   }
 
   if (dictionary.length) {
@@ -263,7 +266,7 @@ function main() {
   }
 
   // ---------- sitemaps + robots ----------
-  const sections = { core: ['/', '/privacy-policy.html', '/terms-and-conditions.html'], serviciiAlba: [], serviciiVecini: [], ghid: [], verticale: [], dictionar: [], en: [] };
+  const sections = { core: ['/', '/privacy-policy.html', '/terms-and-conditions.html'], serviciiAlba: [], serviciiVecini: [], ghid: [], verticale: [], agricol: [], dictionar: [], en: [] };
   for (const p of allPages) {
     const url = pages.urlPath(p.path);
     if (!sections[p.section]) { warnings.push(`page ${p.path}: unknown sitemap section "${p.section}"`); continue; }

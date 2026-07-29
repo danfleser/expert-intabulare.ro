@@ -1,5 +1,38 @@
 [
   {
+    "name": "Acățari",
+    "slug": "acatari",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Acățari",
+      "Corbești",
+      "Găiești",
+      "Gruișor",
+      "Murgești",
+      "Roteni",
+      "Stejeriș",
+      "Suveica",
+      "Vălenii"
+    ],
+    "lat": 46.4798,
+    "lon": 24.6332,
+    "ocpiOffice": {
+      "name": "BCPI Târgu Mureș",
+      "address": "Str. Căprioarei nr. 2, Târgu Mureș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Acățariul se întinde pe valea Nirajului, în zona de contact a Dealurilor Nirajului cu Podișul Târnavelor, la est de Târgu Mureș. Comuna adună nouă sate — Corbești, Găiești, Gruișor, Murgești, Roteni, Stejeriș, Suveica și Vălenii pe lângă centrul de comună — răsfirate pe văile laterale, iar biserica de lemn din Vălenii este clasată ca monument istoric. Hotarul combină lunca Nirajului cu livezi și arabil pe versanți, de unde parcelarul lung și îngust, tipic satelor de vale. Comuna este arondată la BCPI Târgu Mureș.",
+    "nearby": [],
+    "sources": [
+      "https://lege5.ro/Gratuit/geydcojygi/birourile-de-cadastru-si-publicitate-imobiliara-si-arondarea-pe-unitati-administrativ-teritoriale-regulament (Ordin ANCPI 1445/2016, anexa arondare BCPI — consultat 2026-07-29)",
+      "https://ro.wikipedia.org/wiki/Comuna_Acățari,_Mureș"
+    ]
+  },
+  {
     "name": "Adămuș",
     "slug": "adamus",
     "county": "Mureș",
@@ -22,7 +55,7 @@
     "matrix": "reduced",
     "profile": "agricol-campie",
     "countyNotesRef": "mures",
-    "localNote": "Adămușul se înșiră pe Târnava Mică, pe DN14A, imediat în aval de Târnăveni, cu satele Crăiești, Dâmbău și Chinciuș. Lunca și dealurile cu vii dau un hotar agricol variat. Comuna ține de BCPI Târnăveni.",
+    "localNote": "Adămușul se înșiră pe Târnava Mică, pe drumul dintre Târnăveni și Blaj, imediat în aval de Târnăveni, cu satele Crăiești, Dâmbău și Chinciuș. Lunca și dealurile cu vii dau un hotar agricol variat. Comuna ține de BCPI Târnăveni.",
     "nearby": []
   },
   {
@@ -74,6 +107,74 @@
     "nearby": []
   },
   {
+    "name": "Bahnea",
+    "slug": "bahnea",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Bahnea",
+      "Bernadea",
+      "Cund",
+      "Daia",
+      "Gogan",
+      "Idiciu",
+      "Lepindea"
+    ],
+    "lat": 46.3667,
+    "lon": 24.4833,
+    "ocpiOffice": {
+      "name": "BCPI Târnăveni",
+      "address": "Str. Republicii nr. 61, Târnăveni"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Bahnea stă pe valea Târnavei Mici, pe DJ142 între Târnăveni și Bălăușeri, cu satele Bernadea, Cund, Daia, Gogan, Idiciu și Lepindea urcate pe văile laterale. Satul Cund, cu biserica evanghelică fortificată ridicată în secolul al XV-lea, a devenit un reper al turismului rural săsesc de pe Târnave, iar în satul de reședință se păstrează castelul Bethlen și o biserică reformată cu nucleu medieval. Hotarul, unul dintre cele mai întinse de pe cursul mijlociu al Târnavei Mici, alternează lunca arabilă cu pășuni și vii pe versanți. Dosarele se depun la BCPI Târnăveni.",
+    "nearby": [],
+    "sources": [
+      "https://lege5.ro/Gratuit/geydcojygi/birourile-de-cadastru-si-publicitate-imobiliara-si-arondarea-pe-unitati-administrativ-teritoriale-regulament (Ordin ANCPI 1445/2016, anexa arondare BCPI — consultat 2026-07-29)",
+      "https://ro.wikipedia.org/wiki/Comuna_Bahnea,_Mureș",
+      "https://www.zi-de-zi.ro/2018/10/31/peste-61-de-kilometri-de-drumuri-judetene-asfaltati-in-2018/ (DJ142 Târnăveni–Bălăușeri)",
+      "https://ro.wikipedia.org/wiki/Comuna_Bahnea,_Mureș (biserica evanghelică din Cund — sec. XV, turn finalizat 1809; consultat 2026-07-29)"
+    ]
+  },
+  {
+    "name": "Band",
+    "slug": "band",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Band",
+      "Drăculea Bandului",
+      "Fânațe",
+      "Iștan-Tău",
+      "Mărășești",
+      "Negrenii de Câmpie",
+      "Oroiu",
+      "Petea",
+      "Valea Mare",
+      "Valea Rece",
+      "Țiptelnic"
+    ],
+    "lat": 46.5833,
+    "lon": 24.3833,
+    "ocpiOffice": {
+      "name": "BCPI Târgu Mureș",
+      "address": "Str. Căprioarei nr. 2, Târgu Mureș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Bandul ocupă o mică depresiune din Câmpia Transilvaniei, drenată de Comlod (Lechința) și de afluenții săi, la circa 18 km nord-vest de Târgu Mureș, pe drumul județean care leagă municipiul de Șăulia. Este una dintre cele mai mari comune ale județului ca număr de sate: Drăculea Bandului, Fânațe, Iștan-Tău, Mărășești, Negrenii de Câmpie, Oroiu, Petea, Valea Mare, Valea Rece și Țiptelnic. Localitatea a fost din secolul al XIX-lea târg agricol cu iarmaroace și piață săptămânală, iar bisericile de lemn din Oroiu, Petea și Țiptelnic sunt monumente istorice. Comuna este arondată la BCPI Târgu Mureș.",
+    "nearby": [],
+    "sources": [
+      "https://lege5.ro/Gratuit/geydcojygi/birourile-de-cadastru-si-publicitate-imobiliara-si-arondarea-pe-unitati-administrativ-teritoriale-regulament (Ordin ANCPI 1445/2016, anexa arondare BCPI — consultat 2026-07-29)",
+      "https://ro.wikipedia.org/wiki/Comuna_Band,_Mureș"
+    ]
+  },
+  {
     "name": "Bichiș",
     "slug": "bichis",
     "county": "Mureș",
@@ -120,6 +221,40 @@
     "nearby": []
   },
   {
+    "name": "Ceuașu de Câmpie",
+    "slug": "ceuasu-de-campie",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Ceuașu de Câmpie",
+      "Bozed",
+      "Culpiu",
+      "Câmpenița",
+      "Herghelia",
+      "Porumbeni",
+      "Săbed",
+      "Voiniceni"
+    ],
+    "lat": 46.6333,
+    "lon": 24.5167,
+    "ocpiOffice": {
+      "name": "BCPI Târgu Mureș",
+      "address": "Str. Căprioarei nr. 2, Târgu Mureș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Ceuașu de Câmpie este așezat pe DN15E, șoseaua care leagă Târgu Mureșul de Câmpia Transilvaniei prin Râciu, și cuprinde opt sate: Bozed, Culpiu, Câmpenița, Herghelia, Porumbeni, Săbed și Voiniceni pe lângă centrul de comună. Pe raza comunei se află rezervația naturală Pădurea Săbed, de circa 59 de hectare, alături de siturile Natura 2000 Fânațele de pe Dealul Corhan–Săbed și Pădurea Glodeni, iar la Bozed se păstrează biserica de lemn „Sfinții Arhangheli”, monument istoric. Cu peste optzeci de kilometri pătrați, hotarul este unul dintre cele mai întinse din jurul municipiului și îmbină arabilul de pe dealuri cu fânețele de pe văi. Dosarele se depun la BCPI Târgu Mureș.",
+    "nearby": [],
+    "sources": [
+      "https://lege5.ro/Gratuit/geydcojygi/birourile-de-cadastru-si-publicitate-imobiliara-si-arondarea-pe-unitati-administrativ-teritoriale-regulament (Ordin ANCPI 1445/2016, anexa arondare BCPI — consultat 2026-07-29)",
+      "https://ro.wikipedia.org/wiki/Comuna_Ceuașu_de_Câmpie,_Mureș",
+      "https://ro.wikipedia.org/wiki/DN15E",
+      "https://ro.wikipedia.org/wiki/Comuna_Ceuașu_de_Câmpie,_Mureș (rezervația Pădurea Săbed 59 ha; siturile Natura 2000 Fânațele de pe Dealul Corhan–Săbed și Pădurea Glodeni; biserica de lemn din Bozed; suprafață 83,38 km²; consultat 2026-07-29)"
+    ]
+  },
+  {
     "name": "Chețani",
     "slug": "chetani",
     "county": "Mureș",
@@ -145,6 +280,122 @@
     "countyNotesRef": "mures",
     "localNote": "Chețaniul este prima comună mureșeană pe Mureș în aval de granița cu Cluj, pe E60, vecină cu Luduș. Satele Cordoș, Grindeni și Hădăreni stau în luncă și pe terase, cu arabil fertil. Dosarele se depun la BCPI Luduș.",
     "nearby": []
+  },
+  {
+    "name": "Corunca",
+    "slug": "corunca",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Corunca",
+      "Bozeni"
+    ],
+    "lat": 46.5207,
+    "lon": 24.6179,
+    "ocpiOffice": {
+      "name": "BCPI Târgu Mureș",
+      "address": "Str. Căprioarei nr. 2, Târgu Mureș"
+    },
+    "matrix": "reduced",
+    "profile": "periurban",
+    "countyNotesRef": "mures",
+    "localNote": "Corunca este prima localitate la ieșirea din Târgu Mureș spre Sighișoara și una dintre comunele cu cea mai rapidă dezvoltare rezidențială din zona metropolitană; satul Bozeni completează comuna. În ultimele două decenii, dealul Coruncii s-a acoperit de cartiere de case noi, ceea ce înseamnă multe dezmembrări, alipiri și prime înscrieri pe terenuri scoase recent din circuitul agricol. Domeniul a aparținut din secolul al XVII-lea familiei Toldalagi, iar conacul și parcul rămân reperul vechi al satului. Comuna este arondată la BCPI Târgu Mureș.",
+    "nearby": [],
+    "sources": [
+      "https://lege5.ro/Gratuit/geydcojygi/birourile-de-cadastru-si-publicitate-imobiliara-si-arondarea-pe-unitati-administrativ-teritoriale-regulament (Ordin ANCPI 1445/2016, anexa arondare BCPI — consultat 2026-07-29)",
+      "https://ro.wikipedia.org/wiki/Comuna_Corunca,_Mureș",
+      "https://www.zi-de-zi.ro/2021/05/19/corunca-dezvoltare-consistenta-a-segmentului-rezidential/"
+    ]
+  },
+  {
+    "name": "Crăciunești",
+    "slug": "craciunesti",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Crăciunești",
+      "Budiu Mic",
+      "Ciba",
+      "Cinta",
+      "Cornești",
+      "Foi",
+      "Nicolești",
+      "Tirimioara"
+    ],
+    "lat": 46.4793,
+    "lon": 24.5823,
+    "ocpiOffice": {
+      "name": "BCPI Târgu Mureș",
+      "address": "Str. Căprioarei nr. 2, Târgu Mureș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Crăciuneștiul se întinde pe cursul inferior al Nirajului, între Ungheni și Miercurea Nirajului, și adună opt sate: Budiu Mic, Ciba, Cinta, Cornești, Foi, Nicolești și Tirimioara alături de centrul de comună. Biserica de lemn din Nicolești și bisericile reformate din vale sunt monumente istorice ale zonei Nirajului. Hotarul agricol se împarte între lunca râului, cultivată intensiv, și dealurile cu fânețe dinspre Podișul Târnavelor. Comuna este arondată la BCPI Târgu Mureș.",
+    "nearby": [],
+    "sources": [
+      "https://lege5.ro/Gratuit/geydcojygi/birourile-de-cadastru-si-publicitate-imobiliara-si-arondarea-pe-unitati-administrativ-teritoriale-regulament (Ordin ANCPI 1445/2016, anexa arondare BCPI — consultat 2026-07-29)",
+      "https://ro.wikipedia.org/wiki/Comuna_Crăciunești,_Mureș"
+    ]
+  },
+  {
+    "name": "Crăiești",
+    "slug": "craiesti",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Crăiești",
+      "Lefaia",
+      "Milășel",
+      "Nima Milășelului"
+    ],
+    "lat": 46.7577,
+    "lon": 24.425,
+    "ocpiOffice": {
+      "name": "BCPI Reghin",
+      "address": "Str. Duzilor nr. 25, Reghin"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Crăieștiul stă pe râul Lechința, pe DN16 — șoseaua Reghin–Cluj-Napoca — în nordul Câmpiei Transilvaniei, aproape de limita cu județul Bistrița-Năsăud. Comuna, una dintre cele mai mici din județ, cuprinde satele Lefaia, Milășel și Nima Milășelului, așezate pe valea Milășelului, afluent al Lechinței. Satul de reședință este atestat documentar din 1549 și apare în izvoare și sub numele german Fürstendorf. Spre deosebire de celelalte comune mureșene de câmpie pe care le deservim, Crăieștiul este arondat la BCPI Reghin, nu la biroul din Târgu Mureș.",
+    "nearby": [],
+    "sources": [
+      "https://lege5.ro/Gratuit/geydcojygi/birourile-de-cadastru-si-publicitate-imobiliara-si-arondarea-pe-unitati-administrativ-teritoriale-regulament (Ordin ANCPI 1445/2016, anexa arondare BCPI — consultat 2026-07-29)",
+      "https://ro.wikipedia.org/wiki/Comuna_Crăiești,_Mureș",
+      "https://ro.wikipedia.org/wiki/DN16",
+      "https://ms.ancpi.ro/contact/ (OCPI Mureș — birouri BCPI Târgu Mureș, Luduș, Reghin, Sighișoara, Târnăveni, adrese verificate 2026-07-29)",
+      "GeoNames RO (ID 680352, Crăiești PPLA2 46.75771/24.42499) — coordonate corectate față de uats_all.json"
+    ]
+  },
+  {
+    "name": "Cristești",
+    "slug": "cristesti",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Cristești",
+      "Vălureni"
+    ],
+    "lat": 46.5,
+    "lon": 24.4833,
+    "ocpiOffice": {
+      "name": "BCPI Târgu Mureș",
+      "address": "Str. Căprioarei nr. 2, Târgu Mureș"
+    },
+    "matrix": "reduced",
+    "profile": "periurban",
+    "countyNotesRef": "mures",
+    "localNote": "Cristeștiul se află pe malul stâng al Mureșului, la circa cinci kilometri sud-vest de Târgu Mureș, practic lipit de municipiu, în lungul șoselei spre Ungheni și Iernut. Comuna are doar două sate, Cristești și Vălureni, dar o densitate mare de locuințe și hale, fiind una dintre zonele industriale și rezidențiale ale periferiei mureșene. Prima mențiune scrisă a localității datează din 1332, sub numele Santa Cruce. Dosarele se depun la BCPI Târgu Mureș.",
+    "nearby": [],
+    "sources": [
+      "https://lege5.ro/Gratuit/geydcojygi/birourile-de-cadastru-si-publicitate-imobiliara-si-arondarea-pe-unitati-administrativ-teritoriale-regulament (Ordin ANCPI 1445/2016, anexa arondare BCPI — consultat 2026-07-29)",
+      "https://ro.wikipedia.org/wiki/Comuna_Cristești,_Mureș"
+    ]
   },
   {
     "name": "Cucerdea",
@@ -219,6 +470,64 @@
     "nearby": []
   },
   {
+    "name": "Gheorghe Doja",
+    "slug": "gheorghe-doja",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Gheorghe Doja",
+      "Ilieni",
+      "Leordeni",
+      "Satu Nou",
+      "Tirimia"
+    ],
+    "lat": 46.4667,
+    "lon": 24.5,
+    "ocpiOffice": {
+      "name": "BCPI Târgu Mureș",
+      "address": "Str. Căprioarei nr. 2, Târgu Mureș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Comuna Gheorghe Doja, cunoscută și sub vechiul nume maghiar Lukafalva, se întinde pe cursul inferior al Nirajului, între Ungheni și Crăciunești, la sud-est de valea Mureșului. Satele Ilieni, Leordeni, Satu Nou și Tirimia completează comuna, iar în curtea bisericii reformate din Leordeni se află cimitirul eroilor români din al Doilea Război Mondial, amenajat în 1944 și refăcut în 1978. Lunca îngustă a Nirajului dă un parcelar mărunt, cu loturi lungi așezate perpendicular pe râu. Comuna este arondată la BCPI Târgu Mureș.",
+    "nearby": [],
+    "sources": [
+      "https://lege5.ro/Gratuit/geydcojygi/birourile-de-cadastru-si-publicitate-imobiliara-si-arondarea-pe-unitati-administrativ-teritoriale-regulament (Ordin ANCPI 1445/2016, anexa arondare BCPI — consultat 2026-07-29)",
+      "https://ro.wikipedia.org/wiki/Comuna_Gheorghe_Doja,_Mureș",
+      "https://ro.wikipedia.org/wiki/Comuna_Gheorghe_Doja,_Mureș (denumirea maghiară Lukafalva; cimitirul eroilor din curtea bisericii reformate din Leordeni, amenajat 1944, refăcut 1978; consultat 2026-07-29)"
+    ]
+  },
+  {
+    "name": "Grebenișu de Câmpie",
+    "slug": "grebenisu-de-campie",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Grebenișu de Câmpie",
+      "Leorința",
+      "Valea Sânpetrului"
+    ],
+    "lat": 46.6,
+    "lon": 24.3,
+    "ocpiOffice": {
+      "name": "BCPI Târgu Mureș",
+      "address": "Str. Căprioarei nr. 2, Târgu Mureș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Grebenișu de Câmpie se află pe pârâul Hârtoape, afluent al Lechinței, pe drumul județean Târgu Mureș–Band–Șăulia, la aproximativ 27 km de reședința de județ. Comuna cuprinde satele Leorința și Valea Sânpetrului pe lângă centrul de comună, într-un hotar tipic de câmpie transilvăneană, cu arabil fertil, pășuni și trupuri de pădure. Agricultura și creșterea animalelor rămân ocupațiile de bază, iar suprafețele date în arendă sunt frecvente. Comuna este arondată la BCPI Târgu Mureș.",
+    "nearby": [],
+    "sources": [
+      "https://lege5.ro/Gratuit/geydcojygi/birourile-de-cadastru-si-publicitate-imobiliara-si-arondarea-pe-unitati-administrativ-teritoriale-regulament (Ordin ANCPI 1445/2016, anexa arondare BCPI — consultat 2026-07-29)",
+      "https://ro.wikipedia.org/wiki/Comuna_Grebenișu_de_Câmpie,_Mureș",
+      "https://ghidulprimariilor.ro/ro/businesses/view/city_hall/PRIMĂRIA-GREBENIȘU-DE-CÂMPIE/73831"
+    ]
+  },
+  {
     "name": "Iclănzel",
     "slug": "iclanzel",
     "county": "Mureș",
@@ -271,7 +580,7 @@
       "name": "BCPI Luduș",
       "address": "Str. Republicii nr. 26, Luduș"
     },
-    "matrix": "reduced",
+    "matrix": "full",
     "profile": "urban",
     "countyNotesRef": "mures",
     "localNote": "Iernutul se află pe Mureș, pe E60 între Luduș și Ungheni, cu termocentrala pe gaz de la marginea orașului ca reper industrial al văii. Lunca largă a Mureșului poartă arabil fertil, iar orașul e nod pentru comunele din jur. Dosarele se depun la BCPI Luduș.",
@@ -297,11 +606,37 @@
       "name": "BCPI Luduș",
       "address": "Str. Republicii nr. 26, Luduș"
     },
-    "matrix": "reduced",
+    "matrix": "full",
     "profile": "urban",
     "countyNotesRef": "mures",
     "localNote": "Ludușul stă pe Mureș, la intersecția DN15/E60 cu drumul spre Sărmașu, fiind primul oraș mureșean pe traseul nostru dinspre Aiud. Zona agricolă din jur și tranzacțiile cu terenuri din luncă alimentează constant biroul local. BCPI Luduș, de pe Str. Republicii nr. 26, acoperă tot vestul județului.",
     "nearby": []
+  },
+  {
+    "name": "Mădăraș",
+    "slug": "madaras",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Mădăraș",
+      "Fânațele Mădărașului"
+    ],
+    "lat": 46.6049,
+    "lon": 24.4345,
+    "ocpiOffice": {
+      "name": "BCPI Târgu Mureș",
+      "address": "Str. Căprioarei nr. 2, Târgu Mureș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Mădărașul este una dintre cele mai noi comune ale județului: s-a desprins din comuna Band în 2004, prin Legea nr. 140/2004, iar din 2011 include și satul Fânațele Mădărașului. Așezarea stă pe dealurile Câmpiei Transilvaniei, la nord-vest de Târgu Mureș, în bazinul Lechinței. Biserica reformată din 1793 și biserica ortodoxă „Buna Vestire” din 1937 sunt reperele satului. Dosarele se depun la BCPI Târgu Mureș.",
+    "nearby": [],
+    "sources": [
+      "https://lege5.ro/Gratuit/geydcojygi/birourile-de-cadastru-si-publicitate-imobiliara-si-arondarea-pe-unitati-administrativ-teritoriale-regulament (Ordin ANCPI 1445/2016, anexa arondare BCPI — consultat 2026-07-29)",
+      "https://ro.wikipedia.org/wiki/Comuna_Mădăraș,_Mureș"
+    ]
   },
   {
     "name": "Mica",
@@ -384,6 +719,36 @@
     "nearby": []
   },
   {
+    "name": "Pănet",
+    "slug": "panet",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Pănet",
+      "Berghia",
+      "Cuieșd",
+      "Hărțău",
+      "Sântioana de Mureș"
+    ],
+    "lat": 46.5551,
+    "lon": 24.4697,
+    "ocpiOffice": {
+      "name": "BCPI Târgu Mureș",
+      "address": "Str. Căprioarei nr. 2, Târgu Mureș"
+    },
+    "matrix": "reduced",
+    "profile": "periurban",
+    "countyNotesRef": "mures",
+    "localNote": "Pănetul se află la circa 11 km nord-vest de Târgu Mureș, pe râul Cuieșd, pe drumul județean care leagă municipiul de Band și Șăulia. Comuna cuprinde satele Berghia, Cuieșd, Hărțău și Sântioana de Mureș, într-un relief de coline domoale și văi largi, specific Podișului Transilvaniei. Apropierea de municipiu a adus construcții noi în lungul drumului județean, în timp ce restul hotarului rămâne arabil și fânețe. Comuna este arondată la BCPI Târgu Mureș.",
+    "nearby": [],
+    "sources": [
+      "https://lege5.ro/Gratuit/geydcojygi/birourile-de-cadastru-si-publicitate-imobiliara-si-arondarea-pe-unitati-administrativ-teritoriale-regulament (Ordin ANCPI 1445/2016, anexa arondare BCPI — consultat 2026-07-29)",
+      "https://ro.wikipedia.org/wiki/Comuna_Pănet,_Mureș",
+      "https://panit.ro/ro/despre-comuna-2/"
+    ]
+  },
+  {
     "name": "Papiu Ilarian",
     "slug": "papiu-ilarian",
     "county": "Mureș",
@@ -407,6 +772,137 @@
     "countyNotesRef": "mures",
     "localNote": "Comuna Papiu Ilarian poartă numele cărturarului pașoptist născut aici, pe vremea când satul se numea Budiul de Câmpie. Așezată pe dealurile dintre Luduș și Zau de Câmpie, are hotar pur agricol. Competența este la BCPI Luduș.",
     "nearby": []
+  },
+  {
+    "name": "Pogăceaua",
+    "slug": "pogaceaua",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Pogăceaua",
+      "Bologaia",
+      "Ciulea",
+      "Deleni",
+      "Fântâna Babii",
+      "Pârâu Crucii",
+      "Scurta",
+      "Sicele",
+      "Valea Sânpetrului",
+      "Văleni"
+    ],
+    "lat": 46.6833,
+    "lon": 24.3,
+    "ocpiOffice": {
+      "name": "BCPI Târgu Mureș",
+      "address": "Str. Căprioarei nr. 2, Târgu Mureș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Pogăceaua este una dintre comunele cu cele mai multe sate mici din Câmpia Transilvaniei: Bologaia, Ciulea, Deleni, Fântâna Babii, Pârâu Crucii, Scurta, Sicele, Valea Sânpetrului și Văleni, risipite pe văile dintre Sânpetru de Câmpie și Șăulia. Satul de reședință apare în documente la 13 octombrie 1345, sub numele Pakachatelke, într-un act al voievodului Ștefan Lackfi, iar pe teritoriul satului Văleni Repertoriul Arheologic Național consemnează o așezare neolitică în punctul Dealul Belvány. Hotarul, aproape în întregime agricol, este fărâmițat în parcele mici moștenite pe văile dintre sate, ceea ce cere atenție la identificarea limitelor în extravilan. Dosarele se depun la BCPI Târgu Mureș.",
+    "nearby": [],
+    "sources": [
+      "https://lege5.ro/Gratuit/geydcojygi/birourile-de-cadastru-si-publicitate-imobiliara-si-arondarea-pe-unitati-administrativ-teritoriale-regulament (Ordin ANCPI 1445/2016, anexa arondare BCPI — consultat 2026-07-29)",
+      "https://ro.wikipedia.org/wiki/Comuna_Pogăceaua,_Mureș",
+      "https://ro.wikipedia.org/wiki/Comuna_Pogăceaua,_Mureș (atestare 13 octombrie 1345 „Pakachatelke”, act Ștefan Lackfi; sit neolitic Dealul Belvány la Văleni; cele 10 sate; consultat 2026-07-29)"
+    ]
+  },
+  {
+    "name": "Râciu",
+    "slug": "raciu",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Râciu",
+      "Coasta Mare",
+      "Cotorinau",
+      "Curețe",
+      "Căciulata",
+      "Hagău",
+      "Leniș",
+      "Nima Râciului",
+      "Obârșie",
+      "Pârâu Crucii",
+      "Sânmărtinu de Câmpie",
+      "Ulieș",
+      "Valea Seacă",
+      "Valea Sânmărtinului",
+      "Valea Ulieșului"
+    ],
+    "lat": 46.6833,
+    "lon": 24.4,
+    "ocpiOffice": {
+      "name": "BCPI Târgu Mureș",
+      "address": "Str. Căprioarei nr. 2, Târgu Mureș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Râciu se întinde pe valea Lechinței (Comlod), pe DN15E — șoseaua Târgu Mureș–Satu Nou care taie Câmpia Transilvaniei — și numără cincisprezece sate, de la Căciulata, Coasta Mare și Cotorinau până la Sânmărtinu de Câmpie, Ulieș și Valea Ulieșului. Cărturarul Gheorghe Șincai, unul dintre corifeii Școlii Ardelene, s-a născut aici în 1754. Bisericile de lemn din Nima Râciului și Sânmărtinu de Câmpie sunt monumente istorice, iar hotarul întins, cu arabil și pășuni pe dealuri domoale, se lucrează în bună parte în exploatații mari. Comuna este arondată la BCPI Târgu Mureș.",
+    "nearby": [],
+    "sources": [
+      "https://lege5.ro/Gratuit/geydcojygi/birourile-de-cadastru-si-publicitate-imobiliara-si-arondarea-pe-unitati-administrativ-teritoriale-regulament (Ordin ANCPI 1445/2016, anexa arondare BCPI — consultat 2026-07-29)",
+      "https://ro.wikipedia.org/wiki/Comuna_Râciu,_Mureș",
+      "https://ro.wikipedia.org/wiki/DN15E",
+      "https://ro.wikipedia.org/wiki/Râul_Lechința,_Mureș"
+    ]
+  },
+  {
+    "name": "Sâncraiu de Mureș",
+    "slug": "sancraiu-de-mures",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Sâncraiu de Mureș",
+      "Nazna"
+    ],
+    "lat": 46.5512,
+    "lon": 24.5266,
+    "ocpiOffice": {
+      "name": "BCPI Târgu Mureș",
+      "address": "Str. Căprioarei nr. 2, Târgu Mureș"
+    },
+    "matrix": "reduced",
+    "profile": "periurban",
+    "countyNotesRef": "mures",
+    "localNote": "Sâncraiu de Mureș se află pe malul drept al Mureșului, imediat la vest de Târgu Mureș, iar satul Nazna a crescut până s-a lipit practic de oraș. Din comună agricolă, localitatea a devenit una dintre cele mai dinamice zone periurbane ale județului, cu cartiere noi de case, hale și unități de producție în lungul drumului. Biserica reformată din satul de reședință are nucleu din secolul al XII-lea, iar biserica romano-catolică datează din secolul al XV-lea; la Nazna, în curtea bisericii ortodoxe, se află cimitirul eroilor români din al Doilea Război Mondial. Dosarele se depun la BCPI Târgu Mureș.",
+    "nearby": [],
+    "sources": [
+      "https://lege5.ro/Gratuit/geydcojygi/birourile-de-cadastru-si-publicitate-imobiliara-si-arondarea-pe-unitati-administrativ-teritoriale-regulament (Ordin ANCPI 1445/2016, anexa arondare BCPI — consultat 2026-07-29)",
+      "https://ro.wikipedia.org/wiki/Comuna_Sâncraiu_de_Mureș,_Mureș",
+      "https://ro.wikipedia.org/wiki/Biserica_reformată_din_Sâncraiu_de_Mureș (biserica reformată sec. XII; biserica romano-catolică sec. XV; cimitirul eroilor în curtea bisericii ortodoxe din Nazna; consultat 2026-07-29)"
+    ]
+  },
+  {
+    "name": "Sângeorgiu de Mureș",
+    "slug": "sangeorgiu-de-mures",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Sângeorgiu de Mureș",
+      "Cotuș",
+      "Tofalău"
+    ],
+    "lat": 46.5696,
+    "lon": 24.5945,
+    "ocpiOffice": {
+      "name": "BCPI Târgu Mureș",
+      "address": "Str. Căprioarei nr. 2, Târgu Mureș"
+    },
+    "matrix": "reduced",
+    "profile": "periurban",
+    "countyNotesRef": "mures",
+    "localNote": "Sângeorgiu de Mureș este cea mai populată comună din jurul municipiului, lipită de Târgu Mureș pe direcția Reghinului, cu satele Cotuș și Tofalău în hotar. Localitatea e cunoscută pentru băile sărate alimentate din apă minerală de adâncime, căutate vara, dar și pentru castelul Máriaffy și mica rezervație de stejari seculari. Presiunea imobiliară dinspre municipiu se vede în numărul mare de parcelări și construcții noi din ultimii ani. Comuna este arondată la BCPI Târgu Mureș.",
+    "nearby": [],
+    "sources": [
+      "https://lege5.ro/Gratuit/geydcojygi/birourile-de-cadastru-si-publicitate-imobiliara-si-arondarea-pe-unitati-administrativ-teritoriale-regulament (Ordin ANCPI 1445/2016, anexa arondare BCPI — consultat 2026-07-29)",
+      "https://ro.wikipedia.org/wiki/Comuna_Sângeorgiu_de_Mureș,_Mureș",
+      "https://www.zigzagpeharta.ro/baile-sarate-sangeorgiu-de-mures/"
+    ]
   },
   {
     "name": "Sânger",
@@ -461,6 +957,68 @@
     "nearby": []
   },
   {
+    "name": "Sânpetru de Câmpie",
+    "slug": "sanpetru-de-campie",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Sânpetru de Câmpie",
+      "Bârlibaș",
+      "Dâmbu",
+      "Satu Nou",
+      "Sângeorgiu de Câmpie",
+      "Tușinu"
+    ],
+    "lat": 46.7159,
+    "lon": 24.2624,
+    "ocpiOffice": {
+      "name": "BCPI Târgu Mureș",
+      "address": "Str. Căprioarei nr. 2, Târgu Mureș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Sânpetru de Câmpie ocupă colțul nord-vestic al județului, acolo unde DN15E dinspre Târgu Mureș întâlnește DN16 în satul Satu Nou. Comuna mai cuprinde satele Bârlibaș, Dâmbu, Sângeorgiu de Câmpie și Tușinu, are o biserică reformată cu nucleu din secolul al XIV-lea și biserica de lemn din Tușinu. În hotar intră Lacul Sângeorgiu și o parte din pajiștile Sărmășel–Milaș–Urmeniș, sit Natura 2000 de care trebuie ținut cont la documentațiile din extravilan. Dosarele se depun la BCPI Târgu Mureș.",
+    "nearby": [],
+    "sources": [
+      "https://lege5.ro/Gratuit/geydcojygi/birourile-de-cadastru-si-publicitate-imobiliara-si-arondarea-pe-unitati-administrativ-teritoriale-regulament (Ordin ANCPI 1445/2016, anexa arondare BCPI — consultat 2026-07-29)",
+      "https://ro.wikipedia.org/wiki/Comuna_Sânpetru_de_Câmpie,_Mureș",
+      "https://ro.wikipedia.org/wiki/DN15E",
+      "https://ro.wikipedia.org/wiki/DN16"
+    ]
+  },
+  {
+    "name": "Sântana de Mureș",
+    "slug": "santana-de-mures",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Sântana de Mureș",
+      "Bărdești",
+      "Chinari",
+      "Curteni"
+    ],
+    "lat": 46.5667,
+    "lon": 24.55,
+    "ocpiOffice": {
+      "name": "BCPI Târgu Mureș",
+      "address": "Str. Căprioarei nr. 2, Târgu Mureș"
+    },
+    "matrix": "reduced",
+    "profile": "periurban",
+    "countyNotesRef": "mures",
+    "localNote": "Sântana de Mureș este prima comună de pe DN15E la ieșirea din Târgu Mureș spre Câmpie și cuprinde satele Bărdești, Chinari și Curteni. Numele localității a intrat în literatura arheologică europeană prin cultura Sântana de Mureș–Cerneahov, definită pe baza descoperirilor din zonă. Pădurea Glodeni, sit de importanță comunitară din rețeaua Natura 2000, se întinde în vecinătate, iar biserica reformată din satul de reședință are nucleu din secolul al XIII-lea și păstrează fragmente de pictură murală italiană de la sfârșitul secolului al XIV-lea. Dosarele se depun la BCPI Târgu Mureș.",
+    "nearby": [],
+    "sources": [
+      "https://lege5.ro/Gratuit/geydcojygi/birourile-de-cadastru-si-publicitate-imobiliara-si-arondarea-pe-unitati-administrativ-teritoriale-regulament (Ordin ANCPI 1445/2016, anexa arondare BCPI — consultat 2026-07-29)",
+      "https://ro.wikipedia.org/wiki/Comuna_Sântana_de_Mureș,_Mureș",
+      "https://ro.wikipedia.org/wiki/DN15E",
+      "https://ro.wikipedia.org/wiki/Biserica_reformată_din_Sântana_de_Mureș (nucleu sec. XIII, pictură murală italiană de la sfârșitul sec. XIV; consultat 2026-07-29)"
+    ]
+  },
+  {
     "name": "Sărmașu",
     "slug": "sarmasu",
     "county": "Mureș",
@@ -502,14 +1060,76 @@
     "lat": 46.6333,
     "lon": 24.2167,
     "ocpiOffice": {
-      "name": "OCPI Mureș",
+      "name": "BCPI Târgu Mureș",
       "address": "Str. Căprioarei nr. 2, Târgu Mureș"
     },
     "matrix": "reduced",
     "profile": "agricol-campie",
     "countyNotesRef": "mures",
-    "localNote": "Șăulia stă în Câmpia Transilvaniei, între Zau de Câmpie și Miheșu de Câmpie, cu hotar agricol întins pe dealuri domoale. Satele mici au multe parcele cu acte nefinalizate după retrocedări. Pentru depunerea dosarelor, verificați arondarea exactă la OCPI Mureș — comuna se află la limita dintre zonele deservite de birourile din județ.",
-    "nearby": []
+    "localNote": "Șăulia stă în Câmpia Transilvaniei, între Zau de Câmpie și Miheșu de Câmpie, cu hotar agricol întins pe dealuri domoale. Satele mici au multe parcele cu acte nefinalizate după retrocedări. Dosarele se depun la BCPI Târgu Mureș, deși comunele vecine din Câmpie sunt arondate la BCPI Luduș.",
+    "nearby": [],
+    "sources": [
+      "https://lege5.ro/Gratuit/geydcojygi/birourile-de-cadastru-si-publicitate-imobiliara-si-arondarea-pe-unitati-administrativ-teritoriale-regulament (Ordin ANCPI 1445/2016, anexa arondare BCPI — consultat 2026-07-29)",
+      "https://ms.ancpi.ro/contact/ (OCPI Mureș — birouri BCPI Târgu Mureș, Luduș, Reghin, Sighișoara, Târnăveni, adrese verificate 2026-07-29)"
+    ]
+  },
+  {
+    "name": "Șincai",
+    "slug": "sincai",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Șincai",
+      "Lechincioara",
+      "Pusta",
+      "Șincai-Fânațe"
+    ],
+    "lat": 46.65,
+    "lon": 24.3833,
+    "ocpiOffice": {
+      "name": "BCPI Târgu Mureș",
+      "address": "Str. Căprioarei nr. 2, Târgu Mureș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Șincai se află în Câmpia Transilvaniei, între Band și Râciu, la peste 300 de metri altitudine, și cuprinde satele Lechincioara, Pusta și Șincai-Fânațe. Satul de reședință s-a numit până în secolul trecut Șamșud, iar comuna poartă azi numele cărturarului ardelean Gheorghe Șincai, născut în apropiere, la Râciu. Hotarul, compact și în întregime agricol, este format din arabil pe dealuri domoale și fânețe pe văi. Comuna este arondată la BCPI Târgu Mureș.",
+    "nearby": [],
+    "sources": [
+      "https://lege5.ro/Gratuit/geydcojygi/birourile-de-cadastru-si-publicitate-imobiliara-si-arondarea-pe-unitati-administrativ-teritoriale-regulament (Ordin ANCPI 1445/2016, anexa arondare BCPI — consultat 2026-07-29)",
+      "https://ro.wikipedia.org/wiki/Comuna_Șincai,_Mureș"
+    ]
+  },
+  {
+    "name": "Suplac",
+    "slug": "suplac",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Suplac",
+      "Idrifaia",
+      "Laslău Mare",
+      "Laslău Mic",
+      "Vaidacuța"
+    ],
+    "lat": 46.3833,
+    "lon": 24.5167,
+    "ocpiOffice": {
+      "name": "BCPI Târnăveni",
+      "address": "Str. Republicii nr. 61, Târnăveni"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Suplacul se întinde pe cursul mijlociu al Târnavei Mici, pe DJ142 Târnăveni–Bălăușeri, la aproximativ 20 km de Târnăveni și 16 km de Bălăușeri. Comuna cuprinde satele Idrifaia, Laslău Mare, Laslău Mic și Vaidacuța, urcate pe văile laterale, iar în satul de reședință se păstrează o biserică unitariană din 1699. Hotarul alternează lunca arabilă a Târnavei cu dealuri cu fânețe și vii, specifice Podișului Târnavelor. Dosarele se depun la BCPI Târnăveni.",
+    "nearby": [],
+    "sources": [
+      "https://lege5.ro/Gratuit/geydcojygi/birourile-de-cadastru-si-publicitate-imobiliara-si-arondarea-pe-unitati-administrativ-teritoriale-regulament (Ordin ANCPI 1445/2016, anexa arondare BCPI — consultat 2026-07-29)",
+      "https://ro.wikipedia.org/wiki/Comuna_Suplac,_Mureș",
+      "https://ghidulprimariilor.ro/businesses/primaria-suplac/"
+    ]
   },
   {
     "name": "Târgu Mureș",
@@ -527,7 +1147,7 @@
       "name": "BCPI Târgu Mureș",
       "address": "Str. Căprioarei nr. 2, Târgu Mureș"
     },
-    "matrix": "reduced",
+    "matrix": "full",
     "profile": "urban",
     "countyNotesRef": "mures",
     "localNote": "Târgu Mureș, reședința județului, se află pe Mureș, cu Palatul Culturii și cetatea medievală în centru; dinspre Aiud se ajunge pe DN15/E60 prin Luduș și Iernut. Piața imobiliară a municipiului și a comunelor limitrofe este cea mai activă din județ. Dosarele se depun la BCPI Târgu Mureș, în sediul OCPI Mureș de pe Str. Căprioarei nr. 2.",
@@ -550,7 +1170,7 @@
       "name": "BCPI Târnăveni",
       "address": "Str. Republicii nr. 61, Târnăveni"
     },
-    "matrix": "reduced",
+    "matrix": "full",
     "profile": "urban",
     "countyNotesRef": "mures",
     "localNote": "Târnăveniul, al doilea oraș al văii Târnavei Mici, are un trecut industrial chimic și legături directe spre Blaj și Mediaș pe DN14A. Fostele platforme industriale și hotarul agricol generează lucrări variate de cadastru. BCPI Târnăveni, de pe Str. Republicii nr. 61, deservește orașul și comunele din jur.",
@@ -633,6 +1253,36 @@
     "countyNotesRef": "mures",
     "localNote": "Valea Largă stă pe dealurile Câmpiei Transilvaniei, la hotarul cu județul Cluj, cu sate mici risipite pe văi. Arabilul și pășunile în pantă domoală se moștenesc în parcele fragmentate. Comuna este arondată la BCPI Luduș.",
     "nearby": []
+  },
+  {
+    "name": "Viișoara",
+    "slug": "viisoara",
+    "county": "Mureș",
+    "countySlug": "mures",
+    "type": "comuna",
+    "villages": [
+      "Viișoara",
+      "Ormeniș",
+      "Sântioana"
+    ],
+    "lat": 46.3081,
+    "lon": 24.5556,
+    "ocpiOffice": {
+      "name": "BCPI Sighișoara",
+      "address": "Str. Libertății nr. 14, Sighișoara"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "mures",
+    "localNote": "Viișoara, numită până în secolul trecut Hundorf (în germană Hohndorf, în maghiară Csatófalva), se află în sudul județului Mureș, pe pârâul Domald, cunoscut și ca Zagăr, afluent al Târnavei Mici. Comuna este traversată de DJ142C, drumul care leagă Bălăușeriul de Dumbrăveni, și cuprinde satele Ormeniș și Sântioana, atestate documentar din 1319, respectiv 1303. Hotarul de podiș, cu dealuri împădurite, fânețe și vii, e lucrat în parcele mici, moștenite. Spre deosebire de celelalte comune mureșene pe care le deservim, Viișoara este arondată la BCPI Sighișoara, de pe Str. Libertății nr. 14.",
+    "nearby": [],
+    "sources": [
+      "https://lege5.ro/Gratuit/geydcojygi/birourile-de-cadastru-si-publicitate-imobiliara-si-arondarea-pe-unitati-administrativ-teritoriale-regulament (Ordin ANCPI 1445/2016, anexa arondare BCPI — consultat 2026-07-29)",
+      "https://ro.wikipedia.org/wiki/Comuna_Viișoara,_Mureș",
+      "https://www.viisoarams.ro/ro/pagina?slug=istoricul-localitatii",
+      "https://ms.ancpi.ro/contact/ (OCPI Mureș — birouri BCPI Târgu Mureș, Luduș, Reghin, Sighișoara, Târnăveni, adrese verificate 2026-07-29)",
+      "https://ro.wikipedia.org/wiki/Comuna_Viișoara,_Mureș (denumiri istorice Hundorf / Hohndorf / Csatófalva; coordonate 46,308038 N — 24,555602 E; sate Ormeniș și Sântioana; consultat 2026-07-29)"
+    ]
   },
   {
     "name": "Zau de Câmpie",

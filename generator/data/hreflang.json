@@ -1,5 +1,5 @@
 {
-  "comment": "18 RO<->EN hreflang pairs. Absolute URLs. hreflang values at render: ro (RO url), en (EN url), x-default = RO url (chair ruling c). Bidirectional + self-referencing links emitted in <head> of BOTH pages; verify.js enforces reciprocity. Solar leaf slugs (pairs 10-17 minus the hub) pending final confirmation from G6-solar; all other pairs are chair-ratified.",
+  "comment": "29 RO<->EN hreflang pairs. Absolute URLs. hreflang values at render: ro (RO url), en (EN url), x-default = RO url (chair ruling c). Bidirectional + self-referencing links emitted in <head> of BOTH pages; verify.js enforces reciprocity. Every roUrl listed here was checked against generator/data (guides/, verticals-*/, services.json) — no pair points at a page that does not exist. EN pages without a true RO counterpart carry roPair:null and are deliberately absent from this file.",
   "pairs": [
     {
       "roUrl": "https://expert-intabulare.ro/",
@@ -72,6 +72,50 @@
     {
       "roUrl": "https://expert-intabulare.ro/fonduri-europene/",
       "enUrl": "https://expert-intabulare.ro/en/eu-funds/surveying-eu-funded-projects-romania.html"
+    },
+    {
+      "roUrl": "https://expert-intabulare.ro/teren-agricol/",
+      "enUrl": "https://expert-intabulare.ro/en/agri/farmland-investment-surveying-romania.html"
+    },
+    {
+      "roUrl": "https://expert-intabulare.ro/ghid/extras-carte-funciara-online.html",
+      "enUrl": "https://expert-intabulare.ro/en/guides/how-to-get-land-registry-extract-romania.html"
+    },
+    {
+      "roUrl": "https://expert-intabulare.ro/ghid/cat-dureaza-cadastrul-si-intabularea.html",
+      "enUrl": "https://expert-intabulare.ro/en/guides/land-registration-timeline-romania.html"
+    },
+    {
+      "roUrl": "https://expert-intabulare.ro/ghid/dezmembrare-teren-pasi.html",
+      "enUrl": "https://expert-intabulare.ro/en/guides/subdividing-land-romania.html"
+    },
+    {
+      "roUrl": "https://expert-intabulare.ro/ghid/autorizatie-construire-documentatie-topografica.html",
+      "enUrl": "https://expert-intabulare.ro/en/guides/topographic-plan-building-permit-romania.html"
+    },
+    {
+      "roUrl": "https://expert-intabulare.ro/ghid/pasi-intabulare-teren-mostenit.html",
+      "enUrl": "https://expert-intabulare.ro/en/guides/unregistered-inherited-property-romania.html"
+    },
+    {
+      "roUrl": "https://expert-intabulare.ro/ghid/taxe-si-tarife-ocpi-ancpi.html",
+      "enUrl": "https://expert-intabulare.ro/en/services/land-registration-fees-romania.html"
+    },
+    {
+      "roUrl": "https://expert-intabulare.ro/parcuri-fotovoltaice/amplasament-baterii-stocare-energie.html",
+      "enUrl": "https://expert-intabulare.ro/en/solar/bess-battery-storage-site-survey-romania.html"
+    },
+    {
+      "roUrl": "https://expert-intabulare.ro/parcuri-fotovoltaice/ridicare-topografica-racord-electric.html",
+      "enUrl": "https://expert-intabulare.ro/en/solar/grid-connection-survey-romania.html"
+    },
+    {
+      "roUrl": "https://expert-intabulare.ro/ghid/numar-cadastral-cum-il-afli.html",
+      "enUrl": "https://expert-intabulare.ro/en/guides/romania-cadastral-number-lookup.html"
+    },
+    {
+      "roUrl": "https://expert-intabulare.ro/teren-agricol/comasare-terenuri-agricole-pasi.html",
+      "enUrl": "https://expert-intabulare.ro/en/agri/agricultural-land-consolidation-romania.html"
     }
   ]
 }

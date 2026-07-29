@@ -121,6 +121,7 @@ button{font-family:inherit}
 @media (min-width:1100px){.burger{display:none}
 .nav-desktop{display:flex;align-items:center;position:static;background:none;border:0;padding:0;max-height:none;overflow:visible;gap:4px}
 .nav-desktop a:not(.nav-cta){display:inline-flex;align-items:center;padding:8px 12px}
+.nav-desktop>a:not(.nav-cta),.nav-desktop>.nav-item>a{padding-inline:9px;white-space:nowrap}
 .nav-item{display:flex;align-items:center}
 .nav-item>a{padding-right:6px}
 .nav-toggler{position:static;width:24px;height:40px}
@@ -131,6 +132,9 @@ button{font-family:inherit}
 .nav-menu a{display:block;padding:10px 12px;border-radius:var(--radius)}
 .nav-menu a:hover{background:var(--paper-2)}
 .nav-cta{margin:0 0 0 12px}
+}
+@media (min-width:1100px) and (max-width:1159.98px){.nav-desktop{gap:2px}
+.nav-desktop>a:not(.nav-cta),.nav-desktop>.nav-item>a{padding-inline:7px}
 }
 .page-hero{padding:40px 0 48px;background-color:var(--paper);border-bottom:1px solid var(--line)}
 .page-hero h1{max-width:var(--prose);margin-bottom:12px}
@@ -278,3 +282,8 @@ textarea.form-control,.field textarea{min-height:160px;resize:vertical}
 .page-hero{padding:0;background:none;border:0}
 body{padding-bottom:0;background:#fff}
 }
+
+/* data-strip rhythm: the top hairline needs air above it, and the band must not leave a
+   triple-height orphan gap below its content before the hero border (CEO-reported). */
+.data-strip{margin-top:32px}
+.page-hero:has(.data-strip){padding-bottom:8px}

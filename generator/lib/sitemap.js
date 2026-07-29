@@ -1,5 +1,6 @@
 'use strict';
-// Sitemap index + 7 section sitemaps + robots.txt (spec ruling o; section names from Team D).
+// Sitemap index + 8 section sitemaps + robots.txt (spec ruling o; section names from Team D;
+// sitemap-teren-agricol.xml added by the moe-2k growth ruling, g-plan §4 H1).
 
 const SECTION_NAMES = [
   'sitemap-core.xml',
@@ -7,6 +8,7 @@ const SECTION_NAMES = [
   'sitemap-servicii-vecini.xml',
   'sitemap-ghid.xml',
   'sitemap-verticale.xml',
+  'sitemap-teren-agricol.xml',
   'sitemap-dictionar.xml',
   'sitemap-en.xml',
 ];
@@ -53,6 +55,7 @@ function buildSitemaps(site, sections) {
   files.set('sitemap-servicii-vecini.xml', sectionXml(abs(sections.serviciiVecini), lastmod));
   files.set('sitemap-ghid.xml', sectionXml(abs(sections.ghid), lastmod));
   files.set('sitemap-verticale.xml', sectionXml(abs(sections.verticale), lastmod));
+  files.set('sitemap-teren-agricol.xml', sectionXml(abs(sections.agricol || []), lastmod));
   files.set('sitemap-dictionar.xml', sectionXml(abs(sections.dictionar), lastmod));
   files.set('sitemap-en.xml', sectionXml(abs(sections.en), lastmod));
   files.set('sitemap.xml', indexXml(d, SECTION_NAMES, lastmod));

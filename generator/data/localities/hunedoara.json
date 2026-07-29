@@ -86,6 +86,97 @@
     "nearby": []
   },
   {
+    "name": "Boșorod",
+    "slug": "bosorod",
+    "county": "Hunedoara",
+    "countySlug": "hunedoara",
+    "type": "comuna",
+    "villages": [
+      "Boșorod",
+      "Alun",
+      "Bobaia",
+      "Chitid",
+      "Cioclovina",
+      "Luncani",
+      "Prihodiște",
+      "Târsa",
+      "Ursici"
+    ],
+    "lat": 45.6833,
+    "lon": 23.0833,
+    "ocpiOffice": {
+      "name": "BCPI Hunedoara",
+      "address": "Bd. Libertății nr. 9, Hunedoara"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "hunedoara",
+    "localNote": "Boșorodul urcă din valea Streiului, de lângă Călan, spre platoul Luncanilor, cu satele Luncani, Târsa și Cioclovina risipite la înălțime. În hotar stau cetatea dacică Piatra Roșie și peștera Cioclovina, iar gospodăriile de platou au adesea acte nefinalizate. Atenție la depunere: comuna este arondată la BCPI Hunedoara, nu la Deva.",
+    "nearby": []
+  },
+  {
+    "name": "Brănișca",
+    "slug": "branisca",
+    "county": "Hunedoara",
+    "countySlug": "hunedoara",
+    "type": "comuna",
+    "villages": [
+      "Brănișca",
+      "Boz",
+      "Bărăștii Iliei",
+      "Căbești",
+      "Furcșoara",
+      "Gialacuta",
+      "Rovina",
+      "Târnava",
+      "Târnăvița"
+    ],
+    "lat": 45.9167,
+    "lon": 22.7833,
+    "ocpiOffice": {
+      "name": "BCPI Deva",
+      "address": "Calea Zarandului nr. 106, Deva"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "hunedoara",
+    "localNote": "Brănișca stă pe Mureș, pe DN7, în aval de Deva spre Ilia, cu castelul familiei Jósika drept reper al satului. Satele comunei se înșiră pe luncă și pe văile dinspre dealurile împădurite din jur, cu arabil și fânețe. Dosarele se depun la BCPI Deva.",
+    "nearby": []
+  },
+  {
+    "name": "Bretea Română",
+    "slug": "bretea-romana",
+    "county": "Hunedoara",
+    "countySlug": "hunedoara",
+    "type": "comuna",
+    "villages": [
+      "Bretea Română",
+      "Bercu",
+      "Bretea Streiului",
+      "Bățălar",
+      "Covragiu",
+      "Gânțaga",
+      "Măceu",
+      "Ocolișu Mare",
+      "Plopi",
+      "Ruși",
+      "Vâlcele",
+      "Vâlcelele Bune",
+      "Vâlceluța"
+    ],
+    "lat": 45.6609,
+    "lon": 23.0174,
+    "ocpiOffice": {
+      "name": "BCPI Hațeg",
+      "address": "Str. Libertății nr. 6, Hațeg"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "hunedoara",
+    "localNote": "Bretea Română își răsfiră cele treisprezece sate — de la Bățălar la Vâlcelele Bune — pe valea Streiului, între Călan și Țara Hațegului. Lunca cu arabil și dealurile cu fânețe se împart între gospodării mici, cu multe parcele moștenite. Atenție la depunere: comuna este arondată la BCPI Hațeg, de pe Str. Libertății nr. 6.",
+    "nearby": []
+  },
+  {
     "name": "Călan",
     "slug": "calan",
     "county": "Hunedoara",
@@ -118,6 +209,35 @@
     "nearby": []
   },
   {
+    "name": "Certeju de Sus",
+    "slug": "certeju-de-sus",
+    "county": "Hunedoara",
+    "countySlug": "hunedoara",
+    "type": "comuna",
+    "villages": [
+      "Certeju de Sus",
+      "Bocșa Mare",
+      "Bocșa Mică",
+      "Hondol",
+      "Măgura-Toplița",
+      "Nojag",
+      "Săcărâmb",
+      "Toplița Mureșului",
+      "Vărmaga"
+    ],
+    "lat": 45.9667,
+    "lon": 22.9667,
+    "ocpiOffice": {
+      "name": "BCPI Deva",
+      "address": "Calea Zarandului nr. 106, Deva"
+    },
+    "matrix": "reduced",
+    "profile": "montan-apuseni",
+    "countyNotesRef": "hunedoara",
+    "localNote": "Certeju de Sus adună nouă sate în Munții Metaliferi, la nord-est de Deva, pe o vale cu lungă tradiție minieră auriferă. Săcărâmbul de aici a intrat în istoria mineralogiei: în minele lui au fost descrise pentru prima dată minerale telurate precum nagyagitul. Comuna este arondată la BCPI Deva.",
+    "nearby": []
+  },
+  {
     "name": "Deva",
     "slug": "deva",
     "county": "Hunedoara",
@@ -135,7 +255,7 @@
       "name": "BCPI Deva",
       "address": "Calea Zarandului nr. 106, Deva"
     },
-    "matrix": "reduced",
+    "matrix": "full",
     "profile": "urban",
     "countyNotesRef": "hunedoara",
     "localNote": "Deva, reședința județului, stă pe Mureș, sub conul vulcanic pe care se ridică Cetatea Devei, la intersecția DN7 cu autostrada A1. Dinspre Aiud se ajunge pe culoarul Mureșului, prin Alba Iulia și Simeria. Dosarele se depun la BCPI Deva, în sediul OCPI Hunedoara de pe Calea Zarandului nr. 106.",
@@ -196,6 +316,31 @@
     "nearby": []
   },
   {
+    "name": "Hunedoara",
+    "slug": "hunedoara",
+    "county": "Hunedoara",
+    "countySlug": "hunedoara",
+    "type": "municipiu",
+    "villages": [
+      "Boș",
+      "Groș",
+      "Hășdat",
+      "Peștișu Mare",
+      "Răcăștia"
+    ],
+    "lat": 45.75,
+    "lon": 22.9,
+    "ocpiOffice": {
+      "name": "BCPI Hunedoara",
+      "address": "Bd. Libertății nr. 9, Hunedoara"
+    },
+    "matrix": "reduced",
+    "profile": "urban",
+    "countyNotesRef": "hunedoara",
+    "localNote": "Hunedoara, al doilea municipiu al județului, stă pe Cerna, sub Castelul Corvinilor — cel mai mare castel gotic din România. Orașul fostului combinat siderurgic își reconvertește platformele industriale, iar satele aparținătoare — Peștișu Mare, Hășdat, Răcăștia — urcă spre Ținutul Pădurenilor. BCPI Hunedoara, de pe Bd. Libertății nr. 9, deservește municipiul și împrejurimile.",
+    "nearby": []
+  },
+  {
     "name": "Mărtinești",
     "slug": "martinesti",
     "county": "Hunedoara",
@@ -235,7 +380,7 @@
       "name": "BCPI Orăștie",
       "address": "Str. George Coșbuc nr. 7, Orăștie"
     },
-    "matrix": "reduced",
+    "matrix": "full",
     "profile": "urban",
     "countyNotesRef": "hunedoara",
     "localNote": "Orăștia, pe DN7 și A1, este poarta Munților Orăștiei și a cetăților dacice, cu râul Grădiștii vărsându-se aici în Mureș. Orașul istoric are zonă industrială activă și hotar agricol în luncă. BCPI Orăștie, de pe Str. George Coșbuc nr. 7, acoperă estul județului — cea mai apropiată zonă hunedoreană de Aiud.",
@@ -311,10 +456,40 @@
       "name": "BCPI Deva",
       "address": "Calea Zarandului nr. 106, Deva"
     },
-    "matrix": "reduced",
+    "matrix": "full",
     "profile": "urban",
     "countyNotesRef": "hunedoara",
     "localNote": "Simeria este unul dintre marile noduri feroviare ale țării, așezat pe Mureș la confluența cu Streiul; Arboretumul Simeria, cel mai vechi parc dendrologic din România, se întinde chiar în luncă. Zona industrială și logistică de lângă A1 se extinde constant. Orașul este arondat la BCPI Deva.",
+    "nearby": []
+  },
+  {
+    "name": "Șoimuș",
+    "slug": "soimus",
+    "county": "Hunedoara",
+    "countySlug": "hunedoara",
+    "type": "comuna",
+    "villages": [
+      "Șoimuș",
+      "Bejan",
+      "Bejan-Târnăvița",
+      "Boholt",
+      "Bălata",
+      "Chișcădaga",
+      "Căinelu de Jos",
+      "Fornădia",
+      "Păuliș",
+      "Sulighete"
+    ],
+    "lat": 45.9167,
+    "lon": 22.9,
+    "ocpiOffice": {
+      "name": "BCPI Deva",
+      "address": "Calea Zarandului nr. 106, Deva"
+    },
+    "matrix": "reduced",
+    "profile": "periurban",
+    "countyNotesRef": "hunedoara",
+    "localNote": "Șoimușul stă pe malul drept al Mureșului, față în față cu Deva, la începutul DN76 spre Brad. Lunca cu arabil și legume și apropierea de municipiu au făcut din comuna cu zece sate o zonă periurbană activă. Dosarele se depun la BCPI Deva.",
     "nearby": []
   },
   {
@@ -339,6 +514,36 @@
     "profile": "agricol-campie",
     "countyNotesRef": "hunedoara",
     "localNote": "Turdașul, pe Mureș lângă Orăștie, a dat numele uneia dintre cele mai vechi culturi neolitice din Europa, descoperită în situl de aici. Lunca fertilă a Mureșului și DN7 definesc hotarul comunei. Dosarele se depun la BCPI Orăștie.",
+    "nearby": []
+  },
+  {
+    "name": "Vețel",
+    "slug": "vetel",
+    "county": "Hunedoara",
+    "countySlug": "hunedoara",
+    "type": "comuna",
+    "villages": [
+      "Vețel",
+      "Boia Bârzii",
+      "Bretelin",
+      "Căoi",
+      "Herepeia",
+      "Leșnic",
+      "Mintia",
+      "Muncelu Mare",
+      "Muncelu Mic",
+      "Runcu Mic"
+    ],
+    "lat": 45.9,
+    "lon": 22.8167,
+    "ocpiOffice": {
+      "name": "BCPI Deva",
+      "address": "Calea Zarandului nr. 106, Deva"
+    },
+    "matrix": "reduced",
+    "profile": "periurban",
+    "countyNotesRef": "hunedoara",
+    "localNote": "Vețelul stă pe Mureș, pe DN7, imediat în aval de Deva, cu satul Mintia cunoscut pentru fosta termocentrală și pentru castrul roman Micia, aflat chiar lângă platformă. Lunca fertilă și versanții împăduriți dinspre Poiana Ruscă dau hotarul comunei. Competența este la BCPI Deva.",
     "nearby": []
   }
 ]

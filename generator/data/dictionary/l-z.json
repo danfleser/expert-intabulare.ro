@@ -64,6 +64,23 @@
     "category": "legal"
   },
   {
+    "term": "LiDAR",
+    "slug": "lidar",
+    "gloss": "Tehnologie de scanare cu laser care măsoară relieful, chiar și sub vegetație, sub formă de nor de puncte.",
+    "definition": "LiDAR este o tehnologie de măsurare care trimite impulsuri laser spre sol și calculează distanța după timpul în care lumina se întoarce la senzor. Montat pe avion, pe dronă sau pe un scaner terestru, sistemul înregistrează sute de mii de puncte pe secundă și livrează un nor de puncte din care se extrag modelul digital al terenului, curbele de nivel și profilele. Avantajul față de fotogrametria clasică este că o parte dintre impulsuri trec printre frunze și ating pământul, așa că relieful poate fi ridicat chiar și sub pădure sau sub vegetație deasă. În practică, datele LiDAR ajută la suprafețe mari, la coridoare de drumuri și conducte, la cariere, la calcule de volume și la studii privind scurgerea apelor. Ce trebuie să știe un proprietar: LiDAR-ul descrie foarte bine forma terenului, dar nu vede limitele juridice ale proprietății. Pentru documentația cadastrală rămâne obligatorie măsurarea punctelor de hotar cu GNSS sau cu stația totală.",
+    "example": "Pentru un parc fotovoltaic de 30 de hectare am pornit de la un model LiDAR al terenului, apoi am completat cu măsurători GNSS pe limitele parcelelor.",
+    "related": [
+      "scanare-laser-3d",
+      "nor-de-puncte",
+      "drona-topografica-uav",
+      "model-digital-al-terenului-mdt",
+      "fotogrametrie",
+      "curba-de-nivel"
+    ],
+    "ctaService": "plan-topografic",
+    "category": "measurement"
+  },
+  {
     "term": "Limită de proprietate",
     "slug": "limita-de-proprietate",
     "gloss": "Linia care desparte două imobile vecine; poziția ei exactă se stabilește prin măsurători cadastrale.",
@@ -129,6 +146,27 @@
     "category": "urbanism"
   },
   {
+    "term": "Mansardare",
+    "slug": "mansardare",
+    "gloss": "Transformarea podului în spațiu locuibil; cere autorizație, expertiză și actualizarea suprafețelor în CF.",
+    "definition": "Mansardarea înseamnă transformarea podului într-un spațiu locuibil sau adăugarea unui nivel mansardat peste construcția existentă. Nu este o simplă amenajare interioară: lucrarea schimbă regimul de înălțime și încarcă structura, deci presupune certificat de urbanism, expertiză tehnică de rezistență, proiect și autorizație de construire. La blocurile de locuințe situația este și mai strictă, pentru că podul face parte din părțile comune ale condominiului. Pe lângă hotărârea adunării generale a asociației, legea cere acordul autentic al proprietarilor direct afectați de noua construcție, iar instanțele au anulat autorizații de mansardare tocmai pentru că lipsea acest acord. După terminarea lucrărilor și recepție urmează partea cadastrală: se întocmește un releveu nou, se recalculează suprafața utilă și cea desfășurată, iar cartea funciară se actualizează. Dacă la mansardă rezultă locuințe separate, ele se înscriu ca unități individuale, cu cote-părți din părțile comune. Fără acest pas, spațiul există în realitate, dar nu și în acte.",
+    "example": "Proprietarul a mansardat casa și a câștigat două camere; după recepție am refăcut releveul, iar suprafața utilă din cartea funciară a crescut cu 46 mp.",
+    "related": [
+      "autorizatie-de-construire",
+      "regim-de-inaltime",
+      "parti-comune",
+      "releveu",
+      "suprafata-utila",
+      "extindere-constructie"
+    ],
+    "ctaService": "actualizare-carte-funciara",
+    "category": "urbanism",
+    "sources": [
+      "Legea 50/1991, Anexa 1 pct. 2.5.6 — acordul autentic al proprietarilor direct afectați: https://isc.gov.ro/files/2020/Legislatie/Lege%2050%201991(r2).pdf",
+      "Legea 196/2018 privind asociațiile de proprietari — regimul părților comune"
+    ]
+  },
+  {
     "term": "Marea Neagră 1975",
     "slug": "marea-neagra-1975",
     "gloss": "Sistemul oficial de referință pentru altitudini din România: cotele se raportează la nivelul Mării Negre.",
@@ -143,6 +181,27 @@
     ],
     "ctaService": "plan-topografic",
     "category": "measurement"
+  },
+  {
+    "term": "Masă succesorală",
+    "slug": "masa-succesorala",
+    "gloss": "Totalitatea bunurilor și datoriilor lăsate de defunct, stabilită de notar la dezbaterea succesiunii.",
+    "definition": "Masa succesorală cuprinde tot ce lasă în urmă o persoană decedată: case, terenuri, conturi, autoturisme, dar și datoriile neachitate. Ea se stabilește la notar, în cadrul dezbaterii succesorale, pe baza actelor de proprietate prezentate de moștenitori, iar imobilele intră în masă numai dacă pot fi identificate exact. Aici apare cel mai des blocajul: un teren care figurează doar într-un titlu de proprietate din anii '90, fără număr cadastral și fără carte funciară, trebuie mai întâi măsurat și înscris, altfel notarul nu îl poate trece în certificatul de moștenitor. Ordinea practică este simplă: se strâng actele de deces și de rudenie, se face documentația cadastrală pentru imobilele neînscrise, apoi se dezbate succesiunea. După eliberare, certificatul de moștenitor se depune la OCPI, iar dreptul se intabulează pe numele moștenitorilor. Nu uita termenul: acceptarea moștenirii se face în cel mult un an de la deces, iar depășirea lui complică serios lucrurile.",
+    "example": "În masa succesorală a intrat și o parcelă de 1,2 ha din extravilan; am făcut întâi cadastrul, iar apoi notarul a putut include terenul în certificatul de moștenitor.",
+    "related": [
+      "mostenire-succesiune",
+      "certificat-de-mostenitor",
+      "dezbatere-succesorala",
+      "partaj",
+      "sulta",
+      "indiviziune"
+    ],
+    "ctaService": "cadastru-si-intabulare",
+    "category": "legal",
+    "sources": [
+      "Codul civil (Legea 287/2009), art. 1103 — termenul de opțiune succesorală de 1 an",
+      "Legea 7/1996 — înscrierea în cartea funciară pe baza certificatului de moștenitor"
+    ]
   },
   {
     "term": "Măsurători topografice",
@@ -534,6 +593,23 @@
     "category": "legal"
   },
   {
+    "term": "Panta terenului",
+    "slug": "panta-terenului",
+    "gloss": "Înclinarea terenului, exprimată în procente sau grade; se citește din curbele de nivel.",
+    "definition": "Panta arată cât de înclinat este un teren și se exprimă în procente sau în grade: o pantă de 10% înseamnă că, pe o distanță orizontală de 100 m, terenul urcă sau coboară 10 m. Se calculează din diferența de nivel dintre două puncte, raportată la distanța dintre ele, iar pe un plan topografic se citește direct din curbele de nivel: cu cât liniile sunt mai dese, cu atât terenul este mai abrupt. Panta influențează aproape orice decizie legată de un teren, de la accesul auto și racordul la drum, la tipul de fundație, la costul săpăturilor, la direcția în care se scurge apa de ploaie, la poziția fosei septice, la orientarea rândurilor de vie sau de pomi și la distanța dintre rândurile de panouri într-un parc fotovoltaic. De aceea, pentru un teren în pantă merită comandat un plan topografic cu curbe de nivel și profile înainte de cumpărare sau înainte de a plăti un proiect.",
+    "example": "Terenul avea o pantă medie de 18%, iar profilul transversal a arătat că accesul auto se poate face rezonabil doar dinspre latura de est.",
+    "related": [
+      "curba-de-nivel",
+      "cota-de-nivel",
+      "altimetrie",
+      "model-digital-al-terenului-mdt",
+      "profil-longitudinal",
+      "suprafata-in-panta"
+    ],
+    "ctaService": "plan-topografic",
+    "category": "measurement"
+  },
+  {
     "term": "Parc fotovoltaic",
     "slug": "parc-fotovoltaic",
     "gloss": "Amenajare de producere a energiei solare, care necesită studii topografice și lucrări cadastrale în toate etapele.",
@@ -600,6 +676,27 @@
     "category": "legal"
   },
   {
+    "term": "Părți comune",
+    "slug": "parti-comune",
+    "gloss": "Porțiunile dintr-un bloc care aparțin tuturor proprietarilor în cote indivize: teren, structură, scări, acoperiș.",
+    "definition": "Părțile comune sunt acele porțiuni dintr-o clădire cu mai mulți proprietari care nu aparțin exclusiv niciunui apartament, ci tuturor, în cote-părți indivize: terenul de sub bloc și cel din jur, fundația, structura de rezistență, fațada, acoperișul și podul, casa scării, holurile, liftul, subsolul tehnic și coloanele comune de apă, canalizare și încălzire. Codul civil și legea privind asociațiile de proprietari le definesc și stabilesc că fiecare proprietar deține o cotă-parte, calculată de regulă în raport cu suprafața utilă a locuinței sale. Cota apare scrisă în cartea funciară și nu poate fi vândută separat: se transmite automat, odată cu apartamentul. În viața de zi cu zi, părțile comune contează atunci când cineva vrea să mansardeze podul, să închidă un balcon, să extindă la parter sau să ocupe o boxă din subsol, pentru că astfel de lucrări cer acordurile prevăzute de lege, iar uneori și o documentație cadastrală care să reflecte noua împărțire.",
+    "example": "La intabularea apartamentului, în cartea funciară s-a înscris și cota de 2,15% din părțile comune și din terenul aferent blocului.",
+    "related": [
+      "condominiu",
+      "cota-indiviza",
+      "unitate-individuala",
+      "carte-funciara-colectiva",
+      "apartamentare",
+      "releveu-de-apartament"
+    ],
+    "ctaService": "intabulare-apartament",
+    "category": "legal",
+    "sources": [
+      "Codul civil (Legea 287/2009), art. 649 — părțile comune ale unei clădiri cu mai multe etaje sau apartamente",
+      "Legea 196/2018 privind înființarea, organizarea și funcționarea asociațiilor de proprietari"
+    ]
+  },
+  {
     "term": "Pășune",
     "slug": "pasune",
     "gloss": "Categorie de folosință agricolă: teren acoperit cu iarbă, destinat pășunatului animalelor.",
@@ -614,6 +711,27 @@
     ],
     "ctaService": "intabulare-teren",
     "category": "agricol"
+  },
+  {
+    "term": "Pășune comunală",
+    "slug": "pasune-comunala",
+    "gloss": "Pajiștea aflată în proprietatea comunei, administrată de consiliul local și dată în folosință crescătorilor.",
+    "definition": "Pășunea comunală este suprafața de pajiște aflată în proprietatea unei comune sau a unui oraș, administrată de consiliul local, care o dă în folosință crescătorilor de animale prin închiriere sau prin concesiune. Regimul ei este stabilit de ordonanța privind organizarea, administrarea și exploatarea pajiștilor permanente, care obligă fiecare unitate administrativ-teritorială să aibă un amenajament pastoral: documentul tehnic ce descrie trupurile de pășune, starea lor, lucrările de întreținere și încărcătura maximă de animale la hectar. Pentru fermier, partea sensibilă este suprafața: cea din contract, cea din amenajament și cea declarată la APIA trebuie să se potrivească, însă în teren apar frecvent diferențe din cauza tufărișurilor instalate, a drumurilor de exploatare sau a suprapunerilor între utilizatori. Ca topografi, măsurăm trupurile de pășune, întocmim planurile de situație pe fiecare trup și documentația cadastrală necesară primei înscrieri pe numele comunei, astfel încât contractele și cererile de subvenție să se sprijine pe suprafețe reale, nu pe evidențe vechi.",
+    "example": "Comuna avea în evidențe 214 ha de pășune, dar măsurătorile au arătat 197 ha efectiv pășunabile, restul fiind ocupat de tufăriș și de un drum de exploatare.",
+    "related": [
+      "pasune",
+      "registrul-agricol",
+      "domeniu-public",
+      "concesiune",
+      "bloc-fizic-apia",
+      "uat"
+    ],
+    "ctaService": "cadastru-si-intabulare",
+    "category": "agricol",
+    "sources": [
+      "OUG 34/2013 privind organizarea, administrarea și exploatarea pajiștilor permanente (în vigoare, cu modificări) — https://legislatie.just.ro/Public/DetaliiDocument/147761",
+      "MADR — text consolidat OUG 34/2013: https://www.madr.ro/docs/agricultura/fond-funciar/2024/ordonanta-de-urgenta-nr-34-2013-privind-organizarea-administrarea-si-exploatarea-pajistilor-permanente-si-pentru-modificarea-si-completarea-legii-fondului-funciar-nr-18-1991.pdf"
+    ]
   },
   {
     "term": "Persoană autorizată ANCPI",
@@ -779,6 +897,27 @@
     "category": "legal"
   },
   {
+    "term": "Posesie",
+    "slug": "posesie",
+    "gloss": "Stăpânirea în fapt a unui imobil, ca și cum ai fi proprietar; poate duce, în timp, la proprietate.",
+    "definition": "A avea posesia unui imobil înseamnă a-l stăpâni în fapt, comportându-te ca un proprietar: îl folosești, îl îngrădești, plătești impozit pe el, îl lași mai departe copiilor. Codul civil tratează posesia separat de dreptul de proprietate, pentru că se poate să fii posesor fără acte, după cum se poate să ai acte fără să stăpânești efectiv terenul. Posesia are însă efecte juridice serioase. Dacă este publică, neîntreruptă și exercitată sub nume de proprietar timp îndelungat, ea poate duce la dobândirea proprietății prin uzucapiune, în condițiile și termenele prevăzute de lege. Iar în lucrările de cadastru sistematic, când nu există acte, posesia se notează în cartea funciară pe baza identificării făcute în teren împreună cu comisia locală; dacă nimeni nu contestă înscrierea, dreptul de proprietate se înscrie din oficiu după trei ani. La cadastrul sporadic, cerut individual, regula rămâne mai severă: fără acte, drumul trece de obicei prin instanță.",
+    "example": "Familia stăpânea grădina din 1975, o îngrădise și plătise impozit pentru ea; în lucrarea de cadastru sistematic posesia a fost notată în cartea funciară, iar după trei ani a devenit drept de proprietate.",
+    "related": [
+      "uzucapiune",
+      "punere-in-posesie",
+      "cadastru-sistematic",
+      "prima-inregistrare",
+      "drept-de-proprietate",
+      "declaratie-de-notorietate"
+    ],
+    "ctaService": "cadastru-si-intabulare",
+    "category": "legal",
+    "sources": [
+      "Legea 7/1996, art. 13 — notarea posesiei în cadastrul sistematic și înscrierea din oficiu a proprietății după 3 ani: https://legislatie.just.ro/Public/DetaliiDocumentAfis/7798",
+      "Codul civil (Legea 287/2009), art. 916 și urm. — noțiunea de posesie; art. 930 — uzucapiunea extratabulară"
+    ]
+  },
+  {
     "term": "POT",
     "slug": "pot",
     "gloss": "Procentul de ocupare a terenului: cât din suprafața parcelei poate acoperi construcția la sol.",
@@ -861,6 +1000,23 @@
     "category": "urbanism"
   },
   {
+    "term": "Proces-verbal de trasare",
+    "slug": "proces-verbal-de-trasare",
+    "gloss": "Documentul semnat pe teren prin care topograful predă beneficiarului punctele trasate.",
+    "definition": "Procesul-verbal de trasare este documentul semnat pe teren, la finalul lucrării, prin care topograful predă beneficiarului punctele materializate. El cuprinde data, identificarea imobilului cu număr cadastral și carte funciară, sistemul de coordonate folosit, lista punctelor trasate cu coordonatele lor, schița cu poziția țărușilor sau a bornelor și semnăturile părților; la construcții se trec și axele, cotele și nivelul de referință al parterului, iar pe șantiere mai mari semnează și constructorul ori dirigintele de șantier. Rostul lui este dublu. Pe de o parte, dovedește că limitele sau axele au fost predate corect și la un moment anume, ceea ce contează dacă apare mai târziu o discuție cu vecinul, cu executantul sau în instanță. Pe de altă parte, împreună cu inventarul de coordonate, permite refacerea rapidă a punctelor: țărușii de lemn dispar la prima arătură sau la primul utilaj, dar coordonatele rămân. Păstrează-l lângă documentația cadastrală.",
+    "example": "Înainte de turnarea fundației am trasat colțurile casei și am semnat procesul-verbal cu constructorul, cu cota zero raportată la borna din fața porții.",
+    "related": [
+      "trasare",
+      "trasarea-constructiilor",
+      "pichetare",
+      "cota-zero",
+      "inventar-de-coordonate",
+      "borna-topografica"
+    ],
+    "ctaService": "trasare-teren",
+    "category": "measurement"
+  },
+  {
     "term": "Proces-verbal de vecinătate",
     "slug": "proces-verbal-de-vecinatate",
     "gloss": "Documentul prin care vecinii confirmă că sunt de acord cu limitele măsurate ale imobilului.",
@@ -876,6 +1032,27 @@
     ],
     "ctaService": "cadastru-si-intabulare",
     "category": "legal"
+  },
+  {
+    "term": "Procură notarială imobiliară",
+    "slug": "procura-notariala-imobiliara",
+    "gloss": "Împuternicire autentică prin care altcineva semnează în numele tău actele privind un imobil.",
+    "definition": "Procura este împuternicirea prin care dai altcuiva dreptul să semneze în numele tău. Când e vorba de imobile, forma contează enorm: legea cere ca mandatul să respecte forma pretinsă pentru actul care urmează să fie încheiat, așa că pentru o vânzare, o donație, un partaj sau o ipotecă procura trebuie autentificată la notar. O împuternicire scrisă acasă și semnată între patru ochi nu este acceptată. În cuprins trebuie să apară datele complete ale părților, identificarea exactă a imobilului cu număr cadastral și număr de carte funciară, operațiunile permise mandatarului, eventual prețul minim și modul de încasare a banilor, plus durata de valabilitate. Pentru cei plecați din țară, procura se poate da la secția consulară a ambasadei României sau la un notar din statul respectiv, caz în care mai sunt necesare apostila ori supralegalizarea și traducerea legalizată. Pentru partea cadastrală formalitățile sunt mai simple: de regulă e suficientă împuternicirea dată persoanei autorizate care depune documentația.",
+    "example": "Proprietarul lucrează în Spania, așa că a dat fratelui său o procură autentică, apostilată și tradusă, pentru semnarea contractului de vânzare și depunerea actelor la OCPI.",
+    "related": [
+      "act-autentic",
+      "autentificare-notariala",
+      "contract-de-vanzare-cumparare",
+      "taxe-notariale",
+      "cerere-de-inscriere",
+      "dezbatere-succesorala"
+    ],
+    "ctaService": "cadastru-si-intabulare",
+    "category": "legal",
+    "sources": [
+      "Codul civil (Legea 287/2009), art. 2013 alin. (2) — mandatul trebuie dat în forma cerută de lege pentru încheierea actului",
+      "Legea 36/1995 a notarilor publici — autentificarea și procurile date în fața misiunilor diplomatice"
+    ]
   },
   {
     "term": "Profil longitudinal",
@@ -976,6 +1153,23 @@
     ],
     "ctaService": "topografie-constructii",
     "category": "urbanism"
+  },
+  {
+    "term": "Punct de hotar",
+    "slug": "punct-de-hotar",
+    "gloss": "Colțul în care limita proprietății își schimbă direcția; are coordonate în documentația cadastrală.",
+    "definition": "Punctul de hotar este locul în care limita unei proprietăți își schimbă direcția, adică, pe scurt, colțul terenului. În teren poate fi marcat cu bornă de beton, țeavă bătută în pământ, țăruș metalic, colț de gard sau un semn făcut pe zidul unei construcții; de multe ori nu mai există nimic vizibil și trebuie reconstituit. În documentația cadastrală, fiecare punct de hotar primește un număr și coordonate în sistemul național de proiecție, trecute în inventarul de coordonate. Unite în ordine, aceste puncte dau conturul imobilului și, mai departe, suprafața înscrisă în cartea funciară: cu cât sunt determinate mai atent, cu atât suprafața este mai corectă. Punctele de hotar stau și în centrul oricărei neînțelegeri cu vecinii, pentru că grănițuirea, procesul-verbal de vecinătate și expertizele judiciare se poartă exact pe poziția lor. Dacă bornele dispar, ele pot fi refăcute oricând prin trasare, pornind de la coordonatele recepționate de OCPI.",
+    "example": "Vecinul mutase gardul cu 80 cm; am retrasat punctele de hotar din inventarul de coordonate al documentației recepționate, iar diferența a devenit vizibilă pentru amândoi.",
+    "related": [
+      "hotar",
+      "limita-de-proprietate",
+      "borna-topografica",
+      "inventar-de-coordonate",
+      "vecinatati",
+      "granituire"
+    ],
+    "ctaService": "trasare-teren",
+    "category": "measurement"
   },
   {
     "term": "Punct de stație",
@@ -1217,7 +1411,7 @@
     "related": [
       "releveu-de-apartament",
       "apartamentare",
-      "unitate-individuala-ui",
+      "unitate-individuala",
       "scanare-laser-3d",
       "suprafata-utila",
       "inscrierea-constructiei"
@@ -1233,7 +1427,7 @@
     "example": "Evaluatorul băncii a comparat apartamentul cu releveul din cartea funciară și a cerut lămuriri pentru balconul închis.",
     "related": [
       "releveu",
-      "unitate-individuala-ui",
+      "unitate-individuala",
       "apartamentare",
       "suprafata-utila",
       "carte-funciara-individuala",
@@ -1604,6 +1798,47 @@
     "category": "measurement"
   },
   {
+    "term": "Sistem de proiecție",
+    "slug": "sistem-de-proiectie",
+    "gloss": "Regula matematică prin care suprafața curbă a Pământului este transpusă pe plan; în România, Stereo 70.",
+    "definition": "Un sistem de proiecție este regula matematică prin care suprafața curbă a Pământului se transpune pe o hartă sau pe un plan. Fără o astfel de regulă, coordonatele măsurate pe teren nu ar putea fi desenate corect pe hârtie și nici comparate între ele. În România, documentațiile cadastrale și topografice se întocmesc obligatoriu în proiecția Stereografică 1970 pentru poziția în plan, iar altitudinile se raportează la sistemul Marea Neagră 1975. Aparatele GNSS măsoară însă în sisteme globale, ETRS89 sau WGS84, așa că datele brute se transformă cu programul oficial pus la dispoziție de ANCPI. De aici pornesc multe probleme pe care clientul le vede fără să le știe cauza: un plan întocmit în alt sistem sau transformat greșit așază imobilul cu zeci de metri mai încolo pe geoportal, creează suprapuneri inexistente și duce la respingerea dosarului. Când primești un fișier de la un proiectant sau de la un alt topograf, întreabă întotdeauna în ce sistem sunt coordonatele.",
+    "example": "Fișierul primit de la proiectant era în coordonate WGS84; după transformarea în Stereo 70 cu programul oficial, planul s-a suprapus perfect peste ortofotoplan.",
+    "related": [
+      "stereografic-1970-stereo-70",
+      "sistem-de-coordonate",
+      "transformare-de-coordonate",
+      "marea-neagra-1975",
+      "transdatro",
+      "etrs89"
+    ],
+    "ctaService": "plan-topografic",
+    "category": "measurement",
+    "sources": [
+      "Ordinul ANCPI 700/2014 privind aprobarea Regulamentului de avizare, recepție și înscriere în evidențele de cadastru și carte funciară — obligativitatea sistemului Stereografic 1970 și a sistemului de cote Marea Neagră 1975"
+    ]
+  },
+  {
+    "term": "Solă",
+    "slug": "sola",
+    "gloss": "Grup de parcele agricole delimitat de drumuri sau canale, folosit în evidențele vechi și în asolament.",
+    "definition": "Sola este o subdiviziune a teritoriului agricol, folosită atât în evidențele funciare vechi, cât și în organizarea culturilor: un grup de parcele delimitat de drumuri de exploatare, canale, liziere sau alte limite stabile, lucrat unitar. În agronomie, solele sunt suprafețele între care se rotesc culturile în cadrul asolamentului. În acte, cuvântul apare mai ales în titlurile de proprietate emise după 1991 și în registrele agricole, unde terenul este identificat prin solă, tarla și parcelă. Astăzi, în cadastru, rolul ei este preluat de tarla și de sectorul cadastral, iar identificarea se face prin număr cadastral și coordonate. Problema practică apare la prima înscriere a terenurilor agricole: denumirile de sole s-au schimbat sau s-au pierdut, drumurile de acces au fost arate, iar vecinii trecuți în titlu nu mai sunt de mult aceiași. Atunci mergem în teren cu titlul, cu planul parcelar și cu oamenii locului, ca să identificăm exact suprafața cuvenită.",
+    "example": "Titlul indica sola 42, tarlaua 118, parcela 7; cu planul parcelar al comunei și cu ajutorul vecinilor am identificat terenul în extravilan, la marginea drumului de exploatare.",
+    "related": [
+      "tarla",
+      "parcela",
+      "plan-parcelar",
+      "titlu-de-proprietate",
+      "drum-de-exploatare",
+      "registrul-agricol"
+    ],
+    "ctaService": "intabulare-teren",
+    "category": "agricol",
+    "sources": [
+      "Legea 18/1991 a fondului funciar — titlurile de proprietate emise cu identificarea terenului pe tarla și parcelă",
+      "HG 985/2019 privind registrul agricol — identificarea terenurilor în registrul agricol (verificat 2026-07-29)"
+    ]
+  },
+  {
     "term": "Stație totală",
     "slug": "statie-totala",
     "gloss": "Instrumentul electronic principal al topografului: măsoară unghiuri și distanțe cu precizie milimetrică.",
@@ -1654,6 +1889,27 @@
     "category": "urbanism"
   },
   {
+    "term": "Studiu pedologic",
+    "slug": "studiu-pedologic",
+    "gloss": "Analiza solului făcută de OSPA, care încadrează terenul agricol într-o clasă de calitate de la I la V.",
+    "definition": "Studiul pedologic este analiza solului dintr-o parcelă, întocmită de Oficiul de Studii Pedologice și Agrochimice al județului, instituție aflată în subordinea direcției pentru agricultură. Specialiștii deschid profile de sol, iau probe, le analizează în laborator și acordă note de bonitare, în funcție de care terenul se încadrează într-o clasă de calitate, de la I, solurile cele mai fertile, până la V, cele mai slabe. Documentul este cerut în situații foarte concrete: la scoaterea definitivă sau temporară din circuitul agricol, unde taxa datorată depinde tocmai de clasa de calitate, la proiectele de parcuri fotovoltaice pe teren agricol, la comasări, la contracte de arendă sau concesiune și, uneori, la creditele garantate cu teren. Ca să îl poți comanda, ai nevoie de identificarea exactă a parcelei: extras de carte funciară, plan de amplasament și coordonate, așa că drumul începe de obicei de la o ridicare topografică. Termenele și tarifele diferă de la un oficiu județean la altul.",
+    "example": "Terenul a fost încadrat în clasa a IV-a de calitate, ceea ce a permis depunerea documentației pentru un parc fotovoltaic pe suprafața din extravilan.",
+    "related": [
+      "bonitare-cadastrala",
+      "categorie-de-folosinta",
+      "scoaterea-din-circuitul-agricol",
+      "arabil",
+      "agrivoltaic",
+      "extravilan"
+    ],
+    "ctaService": "plan-topografic",
+    "category": "agricol",
+    "sources": [
+      "Norme și Regulament din 28.05.2002 privind conținutul studiilor pedologice și agrochimice și bonitarea terenurilor agricole — https://legislatie.just.ro/Public/DetaliiDocument/37983 și https://legislatie.just.ro/Public/DetaliiDocumentAfis/37982",
+      "OSPA — atribuții privind încadrarea în clase de calitate: https://www.ospa.ro/activitate-de-pedologie-2/"
+    ]
+  },
+  {
     "term": "Studiu topografic",
     "slug": "studiu-topografic",
     "gloss": "Documentația topografică completă cerută la proiecte, avize și finanțări: planuri, cote, coordonate.",
@@ -1678,7 +1934,7 @@
     "example": "Apartamentul de cinci camere de la parter a fost subapartamentat în două unități, fiecare cu intrare și carte funciară proprie.",
     "related": [
       "apartamentare",
-      "unitate-individuala-ui",
+      "unitate-individuala",
       "releveu-de-apartament",
       "cota-indiviza",
       "condominiu",
@@ -1686,6 +1942,27 @@
     ],
     "ctaService": "cadastru-si-intabulare",
     "category": "legal"
+  },
+  {
+    "term": "Sultă",
+    "slug": "sulta",
+    "gloss": "Suma plătită de cel care primește un lot mai valoros la partaj, ca să îi despăgubească pe ceilalți.",
+    "definition": "Sulta este suma de bani plătită de acela care primește, la împărțeala unui bun comun, un lot mai valoros decât cota care i se cuvine, pentru a-i despăgubi pe ceilalți. Apare mai ales la partajul succesoral și la ieșirea din indiviziune, atunci când imobilul nu poate fi împărțit comod în natură: Codul civil prevede expres că bunul poate fi atribuit unuia dintre coproprietari, în schimbul unei sulte către ceilalți. Valoarea ei se stabilește prin acordul părților, pe baza unei evaluări, sau de instanță, pe baza unui raport de expertiză. Aici intră în joc și topograful: printr-o propunere bine gândită de dezmembrare, cu loturi echilibrate ca suprafață, formă și deschidere la drum, sulta poate fi mult redusă sau chiar evitată. Reține două lucruri practice: partajul produce efecte asupra imobilului doar după înscrierea în cartea funciară a actului autentic ori a hotărârii judecătorești, iar sulta neplătită poate fi garantată cu ipotecă legală asupra lotului atribuit.",
+    "example": "Cei doi frați au împărțit terenul în două loturi, dar numai unul avea ieșire la drumul asfaltat; diferența de valoare a fost compensată printr-o sultă stabilită la notar.",
+    "related": [
+      "partaj",
+      "iesire-din-indiviziune",
+      "masa-succesorala",
+      "cota-parte",
+      "dezmembrare",
+      "certificat-de-mostenitor"
+    ],
+    "ctaService": "dezmembrare-alipire",
+    "category": "legal",
+    "sources": [
+      "Codul civil (Legea 287/2009), art. 676 — atribuirea bunului în schimbul unei sulte: https://www.codulcivil.ro/art-676-regulile-privitoare-la-modul-de-impartire/",
+      "Codul civil, art. 680 — efectele partajului se produc prin înscrierea în cartea funciară; art. 2386 — ipoteca legală pentru garantarea sultei"
+    ]
   },
   {
     "term": "Superficie",
@@ -1753,6 +2030,23 @@
     "category": "legal"
   },
   {
+    "term": "Suprafață în pantă",
+    "slug": "suprafata-in-panta",
+    "gloss": "Suprafața reală, măsurată pe teren înclinat, este mai mare decât cea din CF, calculată în proiecție orizontală.",
+    "definition": "Pe un teren înclinat, suprafața pe care o calci este mai mare decât cea care ajunge în cartea funciară. Motivul este simplu: cadastrul lucrează întotdeauna în proiecție orizontală, adică suprafața așa cum s-ar vedea privind terenul de sus, nu desfășurată pe coastă. Diferența crește odată cu înclinarea: la o pantă de 10% ea este de aproximativ o jumătate de procent, la 30% ajunge în jur de 4%, iar la o coastă abruptă, de 50%, depășește 10%. De aceea, proprietarul care măsoară cu ruleta din vale spre deal obține mereu mai mult decât scrie în acte și crede că a fost păgubit. Aceeași regulă se aplică la declarațiile APIA și la orice comparație între suprafața din acte și cea măsurată. Ce merită reținut: suprafața juridică a imobilului este cea în plan orizontal, iar suprafața reală de lucru, importantă pentru împrejmuire, plantații sau terasări, se calculează separat, din modelul terenului.",
+    "example": "Pe o vie în pantă de 35%, proprietarul măsurase cu ruleta 1,06 ha, iar în proiecție orizontală au rezultat 1,00 ha, exact cât scria în titlul de proprietate.",
+    "related": [
+      "suprafata-masurata",
+      "suprafata-din-acte",
+      "panta-terenului",
+      "toleranta",
+      "ridicare-topografica",
+      "plan-cadastral"
+    ],
+    "ctaService": "cadastru-si-intabulare",
+    "category": "measurement"
+  },
+  {
     "term": "Suprafață măsurată",
     "slug": "suprafata-masurata",
     "gloss": "Suprafața reală a imobilului, rezultată din măsurătorile topografice moderne.",
@@ -1777,7 +2071,7 @@
     "related": [
       "releveu-de-apartament",
       "suprafata-construita-desfasurata",
-      "unitate-individuala-ui",
+      "unitate-individuala",
       "apartamentare",
       "releveu"
     ],
@@ -1810,8 +2104,8 @@
     "related": [
       "taxa-de-urgenta",
       "termen-de-solutionare",
-      "extras-de-carte-funciara",
-      "receptie-cadastrala"
+      "extras-de-carte-funciara-pentru-informare",
+      "receptie-tehnica-ocpi"
     ],
     "ctaService": "servicii-ocpi",
     "category": "legal"
@@ -1878,6 +2172,27 @@
     "category": "measurement"
   },
   {
+    "term": "Teren viran",
+    "slug": "teren-viran",
+    "gloss": "Teren fără construcții, de regulă din intravilan; termen din vorbirea curentă, nu din cadastru.",
+    "definition": "Prin teren viran se înțelege, în limbajul obișnuit, un teren fără construcții, de regulă situat în intravilanul localității. Termenul nu există ca atare în cadastru: în cartea funciară terenul apare cu o categorie de folosință concretă, curți-construcții, arabil, fâneață sau livadă, indiferent cum îl numesc anunțurile imobiliare ori evidențele fiscale mai vechi. Pentru cumpărător, întrebarea importantă nu este dacă terenul este viran, ci ce se poate construi pe el. Răspunsul se ia din certificatul de urbanism eliberat de primărie, unde sunt trecute funcțiunea zonei, indicatorii POT și CUT, retragerile obligatorii și avizele necesare. La fel de importante sunt accesul la un drum public, utilitățile din apropiere, faptul că terenul este intabulat și dacă suprafața din acte se confirmă la măsurătoare. Înainte de a semna un antecontract, merită verificat pe geoportal dacă imobilul este poziționat corect și dacă nu se suprapune peste vecini.",
+    "example": "Terenul era prezentat ca viran și bun de casă, dar certificatul de urbanism arăta o zonă de spații verzi, unde locuința dorită nu se putea autoriza.",
+    "related": [
+      "intravilan",
+      "curti-constructii",
+      "certificat-de-urbanism",
+      "categorie-de-folosinta",
+      "deschidere-la-drum",
+      "impozit-pe-teren"
+    ],
+    "ctaService": "intabulare-teren",
+    "category": "urbanism",
+    "sources": [
+      "Legea 50/1991, art. 6 — certificatul de urbanism, act de informare privind regimul juridic, economic și tehnic al terenului: https://isc.gov.ro/files/2020/Legislatie/Lege%2050%201991(r2).pdf",
+      "Ordinul ANCPI 700/2014 — categoriile de folosință înscrise în cartea funciară (verificat 2026-07-29)"
+    ]
+  },
+  {
     "term": "Termen de soluționare",
     "slug": "termen-de-solutionare",
     "gloss": "Durata legală în care OCPI trebuie să rezolve o cerere de cadastru sau carte funciară.",
@@ -1885,8 +2200,8 @@
     "example": "Cererea de primă înscriere depusă luni a primit termen de soluționare 18 zile, dar cu taxă de urgență extrasul a fost gata în 4 zile.",
     "related": [
       "taxa-de-urgenta",
-      "nota-de-completare",
-      "receptie-cadastrala",
+      "referat-de-completare",
+      "receptie-tehnica-ocpi",
       "ocpi"
     ],
     "ctaService": "servicii-ocpi",
@@ -1962,7 +2277,7 @@
     "example": "După sesiunea RTK, topograful a rulat coordonatele prin TransDatRO și a obținut valorile finale în Stereo 70 pentru fișierul CPXML.",
     "related": [
       "transformare-de-coordonate",
-      "stereo-70",
+      "stereografic-1970-stereo-70",
       "wgs84",
       "gnss"
     ],
@@ -1977,7 +2292,7 @@
     "example": "Coordonatele ridicate cu GPS-ul au fost transformate cu TransDatRO din ETRS89 în Stereo 70 înainte de întocmirea planului de amplasament.",
     "related": [
       "wgs84",
-      "stereo-70",
+      "stereografic-1970-stereo-70",
       "transdatro",
       "gnss",
       "sistem-de-proiectie"
@@ -2118,7 +2433,7 @@
       "abitatie",
       "sarcini",
       "radiere",
-      "extras-de-carte-funciara"
+      "extras-de-carte-funciara-pentru-informare"
     ],
     "ctaService": "cadastru-si-intabulare",
     "category": "legal"
@@ -2148,7 +2463,7 @@
       "categorie-de-folosinta",
       "schimbarea-categoriei-de-folosinta",
       "extravilan",
-      "teren-arabil"
+      "arabil"
     ],
     "ctaService": "actualizare-carte-funciara",
     "category": "agricol"
@@ -2160,7 +2475,7 @@
     "definition": "WGS84 (World Geodetic System 1984) este sistemul global de referință în care funcționează constelațiile de sateliți GPS: orice receptor — de la telefonul mobil la echipamentele geodezice profesionale — determină pozițiile, la origine, în acest sistem mondial de coordonate. Pentru lucrările oficiale din România, coordonatele WGS84/ETRS89 nu se folosesc însă direct: documentațiile cadastrale și planurile topografice se predau obligatoriu în proiecția națională Stereografic 1970, iar conversia dintre cele două se face cu grila oficială ANCPI, prin aplicația TransDatRO. Diferența nu e teoretică — între coordonatele „brute” din GPS și cele naționale sunt sute de kilometri ca valori numerice, iar o transformare aproximativă produce erori de poziție de ordinul metrilor. De aceea, coordonatele citite de pe telefon sunt bune pentru orientare, dar nu pot sta la baza niciunui act oficial.",
     "example": "Punctele măsurate GNSS au rezultat în ETRS89, apropiat de WGS84, apoi au fost transformate oficial în Stereo 70 pentru documentație.",
     "related": [
-      "stereo-70",
+      "stereografic-1970-stereo-70",
       "transformare-de-coordonate",
       "transdatro",
       "gnss"

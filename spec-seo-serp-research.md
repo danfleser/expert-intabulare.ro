@@ -69,7 +69,7 @@ Google autocomplete; People Also Ask; related searches.
 below Enterprise — its value here was technical audit only, deferred.
 
 **Deferred, not dropped:** Google Search Console. It is verified but holds ~no data on a
-days-old site. Revisit ~2026-08-19 (3 weeks) as the measurement gate in section 7.
+days-old site. Revisit ~2026-08-19 (3 weeks) as the measurement gate in section 8.2.
 
 ## 4. Query selection
 

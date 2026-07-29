@@ -1,6 +1,6 @@
 {
   "domain": "https://expert-intabulare.ro",
-  "buildDate": "2026-07-28",
+  "buildDate": "2026-07-29",
   "brand": "Fleser Aurel Expert",
   "nap": {
     "name": "Fleser Aurel Expert PFA",
@@ -25,6 +25,7 @@
       "dictionar": "Salut! Am o întrebare despre %TOPIC%.",
       "fonduri": "Salut! Am un proiect cu fonduri europene (%TOPIC%) și am nevoie de documentație topografică/cadastrală.",
       "solar": "Salut! Dezvolt un proiect fotovoltaic și am nevoie de %TOPIC%.",
+      "agricol": "Salut! Am un teren agricol și am nevoie de %TOPIC%.",
       "default": "Salut! Doresc o ofertă."
     },
     "buttonLabel": "Scrie-ne pe WhatsApp",
@@ -74,7 +75,8 @@
       { "label": "Ghiduri practice", "href": "/ghid/" },
       { "label": "Dicționar de cadastru", "href": "/dictionar/" },
       { "label": "Fonduri europene", "href": "/fonduri-europene/" },
-      { "label": "Parcuri fotovoltaice", "href": "/parcuri-fotovoltaice/" }
+      { "label": "Parcuri fotovoltaice", "href": "/parcuri-fotovoltaice/" },
+      { "label": "Teren agricol", "href": "/teren-agricol/" }
     ]
   },
   "en": {

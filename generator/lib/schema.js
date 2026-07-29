@@ -77,6 +77,16 @@ function definedTerm(site, term) {
   };
 }
 
+/**
+ * DefinedTermSet for the A–Z index.
+ *
+ * Deliberately WITHOUT hasDefinedTerm: every term page emits its own DefinedTerm
+ * carrying `inDefinedTermSet: <this @id>`, so membership is already fully expressed
+ * from the term side. Inlining all terms here duplicated that (~36KB on the index,
+ * ~30% of the page) and pushed the page past the hub size budget as the dictionary
+ * grew. Terms remain discoverable as ordinary links on the page and in
+ * sitemap-dictionar.xml, so nothing is lost for crawlers.
+ */
 function definedTermSet(site, terms) {
   return {
     '@context': 'https://schema.org',
@@ -84,11 +94,7 @@ function definedTermSet(site, terms) {
     '@id': `${site.domain}/dictionar/`,
     name: 'Dicționar de cadastru, carte funciară și topografie',
     url: `${site.domain}/dictionar/`,
-    hasDefinedTerm: terms.map((t) => ({
-      '@type': 'DefinedTerm',
-      name: t.term,
-      url: `${site.domain}/dictionar/${t.slug}.html`,
-    })),
+    numberOfItems: terms.length,
   };
 }
 

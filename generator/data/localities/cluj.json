@@ -43,10 +43,37 @@
       "name": "BCPI Cluj-Napoca",
       "address": "Str. Alexandru Vaida Voevod nr. 53, Cluj-Napoca"
     },
-    "matrix": "reduced",
+    "matrix": "full",
     "profile": "periurban",
     "countyNotesRef": "cluj",
     "localNote": "Apahida, la est de Cluj-Napoca, e nodul unde se despart DN1C spre Dej și DN16 spre Reghin, cu dezvoltare logistică și rezidențială accelerată. Hotarul mare al comunei se întinde peste lunca Someșului Mic și dealurile Câmpiei. Dosarele se depun la BCPI Cluj-Napoca.",
+    "nearby": []
+  },
+  {
+    "name": "Baciu",
+    "slug": "baciu",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Baciu",
+      "Corușu",
+      "Mera",
+      "Popești",
+      "Rădaia",
+      "Suceagu",
+      "Săliștea Nouă"
+    ],
+    "lat": 46.8,
+    "lon": 23.5167,
+    "ocpiOffice": {
+      "name": "BCPI Cluj-Napoca",
+      "address": "Str. Alexandru Vaida Voevod nr. 53, Cluj-Napoca"
+    },
+    "matrix": "reduced",
+    "profile": "periurban",
+    "countyNotesRef": "cluj",
+    "localNote": "Baciu este lipit de Cluj-Napoca, pe DN1F spre Zalău, cu gară pe magistrala feroviară Cluj–Oradea; creșterea rezidențială a ultimelor decenii a transformat satul de reședință într-o suburbie a municipiului. Pe hotarul comunei se întinde și cunoscuta pădure Hoia-Baciu. Comuna este arondată la BCPI Cluj-Napoca.",
     "nearby": []
   },
   {
@@ -79,6 +106,56 @@
     "nearby": []
   },
   {
+    "name": "Bonțida",
+    "slug": "bontida",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Bonțida",
+      "Coasta",
+      "Răscruci",
+      "Tăușeni"
+    ],
+    "lat": 46.9155,
+    "lon": 23.8148,
+    "ocpiOffice": {
+      "name": "BCPI Gherla",
+      "address": "Str. Plugarilor nr. 2, Gherla"
+    },
+    "matrix": "reduced",
+    "profile": "periurban",
+    "countyNotesRef": "cluj",
+    "localNote": "Bonțida, pe DN1C și pe calea ferată Cluj–Dej, este cunoscută pentru castelul Bánffy, supranumit „Versailles-ul Transilvaniei”, unde se ține anual festivalul Electric Castle. Comuna cuprinde și satele Coasta, Răscruci și Tăușeni, cu lunca Someșului Mic folosită agricol. Dosarele se depun la BCPI Gherla.",
+    "nearby": []
+  },
+  {
+    "name": "Căianu",
+    "slug": "caianu",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Căianu",
+      "Bărăi",
+      "Căianu Mic",
+      "Căianu-Vamă",
+      "Vaida-Cămăraș",
+      "Văleni"
+    ],
+    "lat": 46.7846,
+    "lon": 23.9185,
+    "ocpiOffice": {
+      "name": "BCPI Cluj-Napoca",
+      "address": "Str. Alexandru Vaida Voevod nr. 53, Cluj-Napoca"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "cluj",
+    "localNote": "Căianu stă pe DN16, între Apahida și Mociu, cu satul Căianu-Vamă dezvoltat chiar la șosea; comuna mai cuprinde Bărăi, Vaida-Cămăraș și Văleni. Dealurile joase ale Câmpiei Transilvaniei dau un hotar predominant agricol, cu arabil și fânațe. Comuna este arondată la BCPI Cluj-Napoca.",
+    "nearby": []
+  },
+  {
     "name": "Călărași",
     "slug": "calarasi",
     "county": "Cluj",
@@ -102,6 +179,29 @@
     "nearby": []
   },
   {
+    "name": "Cămărașu",
+    "slug": "camarasu",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Cămărașu",
+      "Năoiu",
+      "Sâmboleni"
+    ],
+    "lat": 46.7833,
+    "lon": 24.1333,
+    "ocpiOffice": {
+      "name": "BCPI Cluj-Napoca",
+      "address": "Str. Alexandru Vaida Voevod nr. 53, Cluj-Napoca"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "cluj",
+    "localNote": "Cămărașu este ultima comună clujeană pe DN16 spre Reghin, la limita cu județul Mureș, vecină cu orașul Sărmașu; satele Năoiu și Sâmboleni stau pe văile din hotar. Economia locală rămâne legată de cultura cerealelor și de creșterea animalelor, tipice Câmpiei Transilvaniei. Dosarele se depun la BCPI Cluj-Napoca.",
+    "nearby": []
+  },
+  {
     "name": "Câmpia Turzii",
     "slug": "campia-turzii",
     "county": "Cluj",
@@ -114,10 +214,36 @@
       "name": "BCPI Turda",
       "address": "Str. George Coșbuc nr. 2, Turda"
     },
-    "matrix": "reduced",
+    "matrix": "full",
     "profile": "urban",
     "countyNotesRef": "cluj",
     "localNote": "Câmpia Turzii stă pe Arieș, lângă Turda, cu tradiție în industria sârmei și acces direct la A3 și DN15. Zona industrială și cartierele de case generează constant lucrări de intabulare și actualizare. Dosarele se depun la BCPI Turda, aflat la câțiva kilometri.",
+    "nearby": []
+  },
+  {
+    "name": "Cătina",
+    "slug": "catina",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Cătina",
+      "Copru",
+      "Feldioara",
+      "Hagău",
+      "Hodaie",
+      "Valea Caldă"
+    ],
+    "lat": 46.85,
+    "lon": 24.1833,
+    "ocpiOffice": {
+      "name": "BCPI Gherla",
+      "address": "Str. Plugarilor nr. 2, Gherla"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "cluj",
+    "localNote": "Cătina se află în estul Câmpiei Transilvaniei, pe valea Fizeșului, unde salba de iazuri piscicole continuă lacurile de la Geaca și Țaga. Comuna are șase sate risipite pe coline, cu hotar de arabil, pășuni și luciu de apă. Cătina este arondată la BCPI Gherla.",
     "nearby": []
   },
   {
@@ -151,6 +277,35 @@
     "profile": "agricol-campie",
     "countyNotesRef": "cluj",
     "localNote": "Ceanu Mare își risipește cele treisprezece sate pe dealurile Câmpiei Transilvaniei, între Turda și Mociu. Hotarul imens, cu arabil și pășuni, păstrează multe parcele cu acte vechi. Dosarele se depun la BCPI Turda.",
+    "nearby": []
+  },
+  {
+    "name": "Chinteni",
+    "slug": "chinteni",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Chinteni",
+      "Deușu",
+      "Feiurdeni",
+      "Măcicașu",
+      "Pădureni",
+      "Satu Lung",
+      "Sânmărtin",
+      "Săliștea Veche",
+      "Vechea"
+    ],
+    "lat": 46.8667,
+    "lon": 23.5333,
+    "ocpiOffice": {
+      "name": "BCPI Cluj-Napoca",
+      "address": "Str. Alexandru Vaida Voevod nr. 53, Cluj-Napoca"
+    },
+    "matrix": "reduced",
+    "profile": "periurban",
+    "countyNotesRef": "cluj",
+    "localNote": "Chinteniul stă pe dealurile de la nord de Cluj-Napoca, cu nouă sate; apropierea de municipiu a adus loturi noi de casă și un val de construcții în satul de reședință. Restul hotarului rămâne agricol, cu fânațe și arabil pe coline. Dosarele de carte funciară se depun la BCPI Cluj-Napoca.",
     "nearby": []
   },
   {
@@ -194,7 +349,7 @@
       "name": "BCPI Cluj-Napoca",
       "address": "Str. Alexandru Vaida Voevod nr. 53, Cluj-Napoca"
     },
-    "matrix": "reduced",
+    "matrix": "full",
     "profile": "urban",
     "countyNotesRef": "cluj",
     "localNote": "Cluj-Napoca, cel mai mare oraș al Transilvaniei, se află pe Someșul Mic, la capătul culoarului care urcă din valea Arieșului prin Turda pe DN1/E81 și A3. Piața imobiliară clujeană este cea mai activă din regiune, cu termene aglomerate la birourile de carte funciară. Dosarele se depun la BCPI Cluj-Napoca, în sediul OCPI Cluj de lângă Iulius Mall; pentru lucrări de teren ajungem din Aiud pe autostradă.",
@@ -270,7 +425,7 @@
       "name": "BCPI Cluj-Napoca",
       "address": "Str. Alexandru Vaida Voevod nr. 53, Cluj-Napoca"
     },
-    "matrix": "reduced",
+    "matrix": "full",
     "profile": "periurban",
     "countyNotesRef": "cluj",
     "localNote": "Floreștiul, pe Someșul Mic la vest de Cluj-Napoca, a devenit cea mai populată comună din România în urma boomului imobiliar. Blocurile și ansamblurile noi cer apartamentări, dezmembrări și intabulări în flux continuu. Comuna este arondată la BCPI Cluj-Napoca.",
@@ -302,6 +457,32 @@
     "profile": "agricol-campie",
     "countyNotesRef": "cluj",
     "localNote": "Frata stă în inima Câmpiei Transilvaniei, la est de Ceanu Mare, cu sate mici printre dealuri și iazuri. Terenurile agricole întinse se arendează în mare parte exploatațiilor mari. Competența aparține BCPI Turda.",
+    "nearby": []
+  },
+  {
+    "name": "Geaca",
+    "slug": "geaca",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Geaca",
+      "Chiriș",
+      "Lacu",
+      "Legii",
+      "Puini",
+      "Sucutard"
+    ],
+    "lat": 46.8667,
+    "lon": 24.1,
+    "ocpiOffice": {
+      "name": "BCPI Gherla",
+      "address": "Str. Plugarilor nr. 2, Gherla"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "cluj",
+    "localNote": "Geaca stă pe valea Fizeșului, în plină Câmpie, cu iazuri piscicole vechi; la satul Legii se află o rezervație avifaunistică unde cuibăresc păsări de baltă. Satele Lacu, Puini și Sucutard completează o comună cu hotar agricol întins. Dosarele de cadastru se depun la BCPI Gherla.",
     "nearby": []
   },
   {
@@ -358,6 +539,31 @@
     "profile": "montan-apuseni",
     "countyNotesRef": "cluj",
     "localNote": "Iara stă în depresiunea omonimă, între Muntele Mare și valea Arieșului, pe drumul Turda–Buru–Băișoara. Comuna adună multe sate cu fânețe montane și pădure, moștenite în parcele mici. Comuna ține de BCPI Turda.",
+    "nearby": []
+  },
+  {
+    "name": "Jucu",
+    "slug": "jucu",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Jucu de Sus",
+      "Gădălin",
+      "Juc-Herghelie",
+      "Jucu de Mijloc",
+      "Vișea"
+    ],
+    "lat": 46.85,
+    "lon": 23.7833,
+    "ocpiOffice": {
+      "name": "BCPI Gherla",
+      "address": "Str. Plugarilor nr. 2, Gherla"
+    },
+    "matrix": "reduced",
+    "profile": "periurban",
+    "countyNotesRef": "cluj",
+    "localNote": "Jucu se află pe DN1C/E576 Cluj-Napoca–Dej, în valea Someșului Mic; aici funcționează parcul industrial Tetarom III, cu fabrici mari precum Bosch, care au adus mii de locuri de muncă în zona metropolitană. La Juc-Herghelie se păstrează herghelia istorică ce dă numele satului. Comuna este arondată la BCPI Gherla.",
     "nearby": []
   },
   {
@@ -462,6 +668,31 @@
     "nearby": []
   },
   {
+    "name": "Pălatca",
+    "slug": "palatca",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Pălatca",
+      "Băgaciu",
+      "Mureșenii de Câmpie",
+      "Petea",
+      "Sava"
+    ],
+    "lat": 46.85,
+    "lon": 23.9833,
+    "ocpiOffice": {
+      "name": "BCPI Cluj-Napoca",
+      "address": "Str. Alexandru Vaida Voevod nr. 53, Cluj-Napoca"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "cluj",
+    "localNote": "Pălatca este vestită pentru tarafurile sale de lăutari — muzicanții din Pălatca duc de generații muzica de joc a Câmpiei Transilvaniei pe scenele lumii. Comuna, cu satele Băgaciu, Mureșenii de Câmpie, Petea și Sava, are un hotar colinar agricol la nord de DN16. Dosarele se depun la BCPI Cluj-Napoca.",
+    "nearby": []
+  },
+  {
     "name": "Petreștii de Jos",
     "slug": "petrestii-de-jos",
     "county": "Cluj",
@@ -535,6 +766,34 @@
     "nearby": []
   },
   {
+    "name": "Sânmărtin",
+    "slug": "sanmartin",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Sânmărtin",
+      "Ceaba",
+      "Cutca",
+      "Diviciorii Mari",
+      "Diviciorii Mici",
+      "Măhal",
+      "Sâmboieni",
+      "Târgușor"
+    ],
+    "lat": 46.9,
+    "lon": 23.5667,
+    "ocpiOffice": {
+      "name": "BCPI Gherla",
+      "address": "Str. Plugarilor nr. 2, Gherla"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "cluj",
+    "localNote": "Sânmărtinul adună opt sate mici pe dealurile din nordul Câmpiei Transilvaniei, la est de Gherla, pe drumuri județene liniștite. Hotarul întins, cu arabil, fânațe și pâlcuri de pădure, se lucrează în parcele moștenite, ceea ce face frecvente dezmembrările și primele înscrieri. Comuna ține de BCPI Gherla.",
+    "nearby": []
+  },
+  {
     "name": "Săvădisla",
     "slug": "savadisla",
     "county": "Cluj",
@@ -560,6 +819,50 @@
     "profile": "periurban",
     "countyNotesRef": "cluj",
     "localNote": "Săvădisla, cu satele Vlaha și Stolna, stă la poalele Muntelui Mare, între Cluj-Napoca și Băișoara. Turismul rural și casele de vacanță au adus tranzacții tot mai dese cu terenuri. Competența este la BCPI Turda.",
+    "nearby": []
+  },
+  {
+    "name": "Sic",
+    "slug": "sic",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Sic"
+    ],
+    "lat": 46.9333,
+    "lon": 23.8833,
+    "ocpiOffice": {
+      "name": "BCPI Gherla",
+      "address": "Str. Plugarilor nr. 2, Gherla"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "cluj",
+    "localNote": "Sicul este o comună cu un singur sat, așezată între dealuri la sud de Gherla, pe locul unei vechi ocne medievale de sare. Stufărișurile de la Sic, întinse pe valea pârâului Sic, sunt printre cele mai mari din Transilvania și formează o arie protejată căutată de ornitologi, iar satul păstrează o puternică tradiție etnografică maghiară. Comuna este arondată la BCPI Gherla.",
+    "nearby": []
+  },
+  {
+    "name": "Suatu",
+    "slug": "suatu",
+    "county": "Cluj",
+    "countySlug": "cluj",
+    "type": "comuna",
+    "villages": [
+      "Suatu",
+      "Aruncuta",
+      "Dâmburile"
+    ],
+    "lat": 46.7667,
+    "lon": 23.9667,
+    "ocpiOffice": {
+      "name": "BCPI Cluj-Napoca",
+      "address": "Str. Alexandru Vaida Voevod nr. 53, Cluj-Napoca"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "cluj",
+    "localNote": "Suatu se află în Câmpia Transilvaniei, la sud de DN16 Apahida–Reghin, cu satele Aruncuta și Dâmburile. Pe coastele însorite din hotar se întind rezervațiile botanice Suatu I și II, cunoscute pentru cosaciul lui Péterfi (Astragalus peterfii), plantă de stepă descrisă chiar de aici. Restul hotarului este arabil și pășune, iar dosarele de carte funciară se depun la BCPI Cluj-Napoca.",
     "nearby": []
   },
   {
@@ -601,7 +904,7 @@
       "name": "BCPI Turda",
       "address": "Str. George Coșbuc nr. 2, Turda"
     },
-    "matrix": "reduced",
+    "matrix": "full",
     "profile": "urban",
     "countyNotesRef": "cluj",
     "localNote": "Turda, pe Arieș, e cunoscută pentru Salina Turda și pentru apropierea Cheilor Turzii; prin oraș trec DN1 și autostrada A3. Pentru noi este cea mai apropiată zonă urbană din județul Cluj, la o jumătate de oră de Aiud. BCPI Turda, de pe Str. George Coșbuc nr. 2, acoperă tot bazinul Turda–Câmpia Turzii.",

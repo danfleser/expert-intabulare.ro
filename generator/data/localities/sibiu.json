@@ -1,5 +1,50 @@
 [
   {
+    "name": "Alma",
+    "slug": "alma",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Alma",
+      "Giacăș",
+      "Șmig"
+    ],
+    "lat": 46.2136,
+    "lon": 24.4804,
+    "ocpiOffice": {
+      "name": "BCPI Mediaș",
+      "address": "Piața Corneliu Coposu nr. 3, Mediaș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "sibiu",
+    "localNote": "Alma, cu satele Giacăș și Șmig, se ascunde pe dealurile dintre cele două Târnave, la nord-est de Mediaș. Biserica medievală din Șmig, cu altarul ei gotic, e reperul istoric al comunei, iar hotarul poartă vii și arabil. Comuna ține de BCPI Mediaș.",
+    "nearby": []
+  },
+  {
+    "name": "Apoldu de Jos",
+    "slug": "apoldu-de-jos",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Apoldu de Jos",
+      "Sângătin"
+    ],
+    "lat": 45.8667,
+    "lon": 23.85,
+    "ocpiOffice": {
+      "name": "BCPI Săliște",
+      "address": "Str. Reuniunea Meseriașilor nr. 3, Săliște"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "sibiu",
+    "localNote": "Apoldu de Jos, cu satul Sângătin, ocupă valea Secașului lângă Miercurea Sibiului, cu DN1 și autostrada A1 la câțiva kilometri. Satul săsesc de odinioară, Kleinpold, păstrează hotar agricol întins, cu arabil și pășuni. Dosarele se depun la BCPI Săliște.",
+    "nearby": []
+  },
+  {
     "name": "Ațel",
     "slug": "atel",
     "county": "Sibiu",
@@ -18,7 +63,7 @@
     "matrix": "reduced",
     "profile": "agricol-campie",
     "countyNotesRef": "sibiu",
-    "localNote": "Ațelul se ascunde pe o vale laterală a Târnavei Mari, între Mediaș și Dumbrăveni, cu o biserică fortificată gotică remarcabilă. Viile și livezile de pe dealuri completează arabilul din vale. Dosarele se depun la BCPI Mediaș.",
+    "localNote": "Ațelul se ascunde pe o vale laterală a Târnavei Mari, între Mediaș și Dumbrăveni, cu o biserică fortificată gotică remarcabilă, vestită pentru portalul ei de piatră sculptată. Satul Dupuș, pe dealurile de alături, își păstrează și el biserica săsească fortificată. Viile și livezile de pe dealuri completează arabilul din vale, iar accesul se face pe drumul care se desprinde din DN14. Dosarele se depun la BCPI Mediaș.",
     "nearby": []
   },
   {
@@ -45,6 +90,32 @@
     "nearby": []
   },
   {
+    "name": "Bârghiș",
+    "slug": "barghis",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Bârghiș",
+      "Apoș",
+      "Ighișu Vechi",
+      "Pelișor",
+      "Vecerd",
+      "Zlagna"
+    ],
+    "lat": 45.9833,
+    "lon": 24.5333,
+    "ocpiOffice": {
+      "name": "BCPI Agnita",
+      "address": "Piața Republicii nr. 18, Agnita"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "sibiu",
+    "localNote": "Bârghișul își răsfiră cele șase sate — între ele Apoș, Pelișor și Zlagna — pe dealurile Hârtibaciului, la nord-vest de Agnita. Comuna agricolă are arabil, pășuni și fânețe pe versanți domoli, cu multe parcele aflate abia la prima înscriere. Comuna este arondată la BCPI Agnita.",
+    "nearby": []
+  },
+  {
     "name": "Bazna",
     "slug": "bazna",
     "county": "Sibiu",
@@ -65,6 +136,29 @@
     "profile": "agricol-campie",
     "countyNotesRef": "sibiu",
     "localNote": "Bazna e cunoscută pentru stațiunea balneară cu nămol sărat și gaze terapeutice, dar și pentru biserica fortificată săsească. Comuna stă pe dealurile dintre Târnava Mică și Târnava Mare, la nord-vest de Mediaș. Comuna ține de BCPI Mediaș.",
+    "nearby": []
+  },
+  {
+    "name": "Biertan",
+    "slug": "biertan",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Biertan",
+      "Copșa Mare",
+      "Richiș"
+    ],
+    "lat": 46.1333,
+    "lon": 24.5167,
+    "ocpiOffice": {
+      "name": "BCPI Mediaș",
+      "address": "Piața Corneliu Coposu nr. 3, Mediaș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "sibiu",
+    "localNote": "Biertanul, cu biserica fortificată înscrisă în patrimoniul mondial UNESCO, a fost aproape trei secole scaunul episcopiei evanghelice din Transilvania. Satele Copșa Mare și Richiș păstrează la rândul lor biserici fortificate, iar dealurile din hotar au tradiție viticolă veche. Comuna este arondată la BCPI Mediaș.",
     "nearby": []
   },
   {
@@ -109,7 +203,28 @@
     "matrix": "reduced",
     "profile": "agricol-campie",
     "countyNotesRef": "sibiu",
-    "localNote": "Brateiul stă pe Târnava Mare, pe DN14 între Mediaș și Dumbrăveni, cunoscut arheologic pentru necropolele din epoca migrațiilor descoperite aici. Comunitatea de meșteri căldărari și hotarul agricol dau specificul local. Competența este la BCPI Mediaș.",
+    "localNote": "Brateiul stă pe Târnava Mare, pe DN14 între Mediaș și Dumbrăveni, cunoscut arheologic pentru necropolele din epoca migrațiilor descoperite aici. Comunitatea de meșteri căldărari, cu atelierele ei de aramă vizibile chiar de la drum, și hotarul agricol dau specificul local. Satul Buzd, pe valea dinspre sud, își păstrează biserica săsească fortificată și hotarul cu vii. Competența este la BCPI Mediaș.",
+    "nearby": []
+  },
+  {
+    "name": "Cisnădie",
+    "slug": "cisnadie",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "oras",
+    "villages": [
+      "Cisnădioara"
+    ],
+    "lat": 45.7167,
+    "lon": 24.15,
+    "ocpiOffice": {
+      "name": "BCPI Sibiu",
+      "address": "Calea Dumbrăvii nr. 34, Sibiu"
+    },
+    "matrix": "reduced",
+    "profile": "urban",
+    "countyNotesRef": "sibiu",
+    "localNote": "Cisnădia, orașul textiliștilor de odinioară, stă la poalele Măgurii, la doar câțiva kilometri de Sibiu, cu biserica fortificată masivă în centru și cu bazilica romanică din Cisnădioara pe dealul ei. Cartierele rezidențiale noi dinspre Sibiu au făcut din oraș una dintre cele mai active piețe imobiliare din județ. Dosarele se depun la BCPI Sibiu.",
     "nearby": []
   },
   {
@@ -129,6 +244,27 @@
     "profile": "urban",
     "countyNotesRef": "sibiu",
     "localNote": "Copșa Mică stă la confluența Visei cu Târnava Mare, unde DN14B dinspre Blaj se unește cu DN14 Sibiu–Mediaș. După trecutul industrial greu, orașul își reface fondul construit, iar terenurile fostelor platforme cer clarificări cadastrale. Dosarele se depun la BCPI Mediaș.",
+    "nearby": []
+  },
+  {
+    "name": "Cristian",
+    "slug": "cristian",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Cristian"
+    ],
+    "lat": 45.7833,
+    "lon": 24.0333,
+    "ocpiOffice": {
+      "name": "BCPI Sibiu",
+      "address": "Calea Dumbrăvii nr. 34, Sibiu"
+    },
+    "matrix": "reduced",
+    "profile": "periurban",
+    "countyNotesRef": "sibiu",
+    "localNote": "Cristianul stă pe Cibin, pe DN1, la vest de Sibiu, cu biserica fortificată veghind satul și cu faimoasa colonie de berze care revine an de an pe stâlpii comunei. Zona comercială și rezidențială dinspre Sibiu crește constant. Dosarele se depun la BCPI Sibiu.",
     "nearby": []
   },
   {
@@ -196,7 +332,32 @@
     "matrix": "reduced",
     "profile": "agricol-campie",
     "countyNotesRef": "sibiu",
-    "localNote": "Hoghilagul stă pe Târnava Mare, pe DN14 lângă Dumbrăveni, faimos pentru culturile de tuberoze — florile parfumate au aici o tradiție unică în țară. Lunca și dealurile cu vii întregesc hotarul. Comuna este arondată la BCPI Mediaș.",
+    "localNote": "Hoghilagul stă pe Târnava Mare, pe DN14 lângă Dumbrăveni, faimos pentru culturile de tuberoze — florile parfumate au aici o tradiție unică în țară, sărbătorită la festivalul anual al satului. Satele Prod și Valchid, pe văile împădurite dinspre sud, își păstrează bisericile săsești și fânețele de deal. Lunca și dealurile cu vii întregesc hotarul. Comuna este arondată la BCPI Mediaș.",
+    "nearby": []
+  },
+  {
+    "name": "Laslea",
+    "slug": "laslea",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Laslea",
+      "Florești",
+      "Mălâncrav",
+      "Nou Săsesc",
+      "Roandola"
+    ],
+    "lat": 46.2167,
+    "lon": 24.65,
+    "ocpiOffice": {
+      "name": "BCPI Mediaș",
+      "address": "Piața Corneliu Coposu nr. 3, Mediaș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "sibiu",
+    "localNote": "Laslea stă pe DN14, între Dumbrăveni și Sighișoara, cu satul Mălâncrav — una dintre cele mai mari comunități săsești rămase în Transilvania — celebru pentru conacul Apafi restaurat și pentru livezile vechi de meri. Dealurile cu vii și arabilul din lunca Târnavei Mari dau hotarul comunei. Dosarele se depun la BCPI Mediaș.",
     "nearby": []
   },
   {
@@ -226,6 +387,28 @@
     "nearby": []
   },
   {
+    "name": "Ludoș",
+    "slug": "ludos",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Ludoș",
+      "Gusu"
+    ],
+    "lat": 45.9167,
+    "lon": 23.9,
+    "ocpiOffice": {
+      "name": "BCPI Săliște",
+      "address": "Str. Reuniunea Meseriașilor nr. 3, Săliște"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "sibiu",
+    "localNote": "Ludoșul, cu satul Gusu, stă în Podișul Secașelor, între Ocna Sibiului și Miercurea Sibiului. Hotarul e agricol-pastoral, cu arabil pe văi și pășuni întinse pe dealurile domoale ale Secașelor. Comuna este arondată la BCPI Săliște.",
+    "nearby": []
+  },
+  {
     "name": "Mediaș",
     "slug": "medias",
     "county": "Sibiu",
@@ -240,7 +423,7 @@
       "name": "BCPI Mediaș",
       "address": "Piața Corneliu Coposu nr. 3, Mediaș"
     },
-    "matrix": "reduced",
+    "matrix": "full",
     "profile": "urban",
     "countyNotesRef": "sibiu",
     "localNote": "Mediașul, al doilea oraș al județului, stă pe Târnava Mare, pe DN14, cu Turnul Trompeților deasupra centrului medieval; orașul e vatra istorică a industriei gazului metan. Pentru noi e capătul firesc al culoarului care vine din Aiud prin Blaj pe DN14B. BCPI Mediaș, din Piața Corneliu Coposu nr. 3, acoperă tot nordul județului.",
@@ -267,7 +450,7 @@
     "matrix": "reduced",
     "profile": "agricol-campie",
     "countyNotesRef": "sibiu",
-    "localNote": "Micăsasa stă pe Târnava Mare, pe DN14B, între Copșa Mică și Blaj, la hotarul cu județul Alba — practic pe drumul nostru dinspre Aiud. Lunca și dealurile cu vii îi dau profilul agricol. Comuna este arondată la BCPI Mediaș.",
+    "localNote": "Micăsasa stă pe Târnava Mare, pe DN14B, între Copșa Mică și Blaj, la hotarul cu județul Alba — practic pe drumul nostru dinspre Aiud. Aici arheologii au dezvelit cel mai mare centru de producție ceramică din Dacia romană, cu zeci de cuptoare și tipare descoperite pe malul Târnavei. Lunca și dealurile cu vii îi dau profilul agricol, cu satele Țapu și Chesler răsfirate pe văile dinspre sud. Comuna este arondată la BCPI Mediaș.",
     "nearby": []
   },
   {
@@ -293,6 +476,79 @@
     "nearby": []
   },
   {
+    "name": "Mihăileni",
+    "slug": "mihaileni",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Mihăileni",
+      "Metiș",
+      "Moardăș",
+      "Răvășel",
+      "Șalcău"
+    ],
+    "lat": 45.9833,
+    "lon": 24.35,
+    "ocpiOffice": {
+      "name": "BCPI Agnita",
+      "address": "Piața Republicii nr. 18, Agnita"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "sibiu",
+    "localNote": "Mihăilenii își răsfiră cele cinci sate — Metiș, Moardăș, Răvășel, Șalcău — pe dealurile Hârtibaciului, între valea Târnavei Mari și Agnita. Comuna agricolă are arabil și pășuni pe versanți domoli, cu multe parcele încă neintabulate. Atenție la depunere: comuna este arondată la BCPI Agnita.",
+    "nearby": []
+  },
+  {
+    "name": "Moșna",
+    "slug": "mosna",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Moșna",
+      "Alma Vii",
+      "Nemșa"
+    ],
+    "lat": 46.0833,
+    "lon": 24.4,
+    "ocpiOffice": {
+      "name": "BCPI Mediaș",
+      "address": "Piața Corneliu Coposu nr. 3, Mediaș"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "sibiu",
+    "localNote": "Moșna, la sud de Mediaș, păstrează una dintre cele mai impunătoare biserici fortificate din Transilvania, ridicată la sfârșitul secolului al XV-lea de meșterul Andreas Lapicida. Satele Alma Vii și Nemșa își au propriile biserici fortificate, iar hotarul poartă vii și arabil. Dosarele se depun la BCPI Mediaș.",
+    "nearby": []
+  },
+  {
+    "name": "Nocrich",
+    "slug": "nocrich",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Nocrich",
+      "Fofeldea",
+      "Ghijasa de Jos",
+      "Hosman",
+      "Țichindeal"
+    ],
+    "lat": 45.9,
+    "lon": 24.45,
+    "ocpiOffice": {
+      "name": "BCPI Agnita",
+      "address": "Piața Republicii nr. 18, Agnita"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "sibiu",
+    "localNote": "Nocrichul, pe valea Hârtibaciului între Sibiu și Agnita, e satul natal al baronului Samuel von Brukenthal, guvernatorul Transilvaniei. La Hosman, biserica fortificată și moara veche restaurată au devenit repere turistice ale văii. Atenție la depunere: comuna ține de BCPI Agnita, nu de Sibiu.",
+    "nearby": []
+  },
+  {
     "name": "Ocna Sibiului",
     "slug": "ocna-sibiului",
     "county": "Sibiu",
@@ -311,6 +567,27 @@
     "profile": "urban",
     "countyNotesRef": "sibiu",
     "localNote": "Ocna Sibiului e stațiunea balneară cu lacuri sărate formate pe vechile ocne, la câțiva kilometri de Sibiu. Terenurile din jurul lacurilor și pensiunilor sunt intens tranzacționate. Dosarele se depun la BCPI Sibiu.",
+    "nearby": []
+  },
+  {
+    "name": "Orlat",
+    "slug": "orlat",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Orlat"
+    ],
+    "lat": 45.75,
+    "lon": 23.9667,
+    "ocpiOffice": {
+      "name": "BCPI Săliște",
+      "address": "Str. Reuniunea Meseriașilor nr. 3, Săliște"
+    },
+    "matrix": "reduced",
+    "profile": "periurban",
+    "countyNotesRef": "sibiu",
+    "localNote": "Orlatul stă la poalele Cindrelului, pe Cibin, la intrarea în Mărginimea Sibiului; aici a avut sediul primul regiment românesc de graniță, înființat la 1762. Satul compact, cu tradiție pastorală, atrage azi și construcții noi datorită apropierii de Sibiu. Dosarele se depun la BCPI Săliște.",
     "nearby": []
   },
   {
@@ -334,7 +611,62 @@
     "matrix": "reduced",
     "profile": "agricol-campie",
     "countyNotesRef": "sibiu",
-    "localNote": "Păuca stă în Podișul Secașelor, la hotarul cu județul Alba, lângă Roșia de Secaș, cu satele Bogatu Român, Broșteni și Presaca. Comuna agricolă are arabil întins pe versanții domoli ai Secașului. Comuna ține de BCPI Sibiu.",
+    "localNote": "Păuca stă în Podișul Secașelor, la hotarul cu județul Alba, lângă Roșia de Secaș, cu satele Bogatu Român, Broșteni și Presaca. Comuna agricolă are arabil întins pe versanții domoli ai Secașului; dealurile aproape lipsite de pădure, cu tarlale mari comasate și pășuni de oi, dau peisajul tipic al Secașelor. Fiind la margine de județ, mulți proprietari au parcele și peste hotar, în Alba, așa că verificarea competenței contează. Comuna ține de BCPI Sibiu.",
+    "nearby": []
+  },
+  {
+    "name": "Roșia",
+    "slug": "rosia",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Roșia",
+      "Cașolț",
+      "Cornățel",
+      "Daia",
+      "Nou",
+      "Nucet"
+    ],
+    "lat": 45.8167,
+    "lon": 24.3167,
+    "ocpiOffice": {
+      "name": "BCPI Sibiu",
+      "address": "Calea Dumbrăvii nr. 34, Sibiu"
+    },
+    "matrix": "reduced",
+    "profile": "periurban",
+    "countyNotesRef": "sibiu",
+    "localNote": "Roșia adună șase sate pe dealurile dintre Sibiu și valea Hârtibaciului, de la Cașolț și Daia până la Nou și Nucet. Apropierea de Sibiu a adus extindere rezidențială printre gospodăriile săsești vechi, mai ales spre Cașolț și Daia. Dosarele se depun la BCPI Sibiu.",
+    "nearby": []
+  },
+  {
+    "name": "Săliște",
+    "slug": "saliste",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "oras",
+    "villages": [
+      "Aciliu",
+      "Amnaș",
+      "Crinț",
+      "Fântânele",
+      "Galeș",
+      "Mag",
+      "Sibiel",
+      "Săcel",
+      "Vale"
+    ],
+    "lat": 45.7963,
+    "lon": 23.8868,
+    "ocpiOffice": {
+      "name": "BCPI Săliște",
+      "address": "Str. Reuniunea Meseriașilor nr. 3, Săliște"
+    },
+    "matrix": "reduced",
+    "profile": "urban",
+    "countyNotesRef": "sibiu",
+    "localNote": "Săliștea, capitala istorică a Mărginimii Sibiului, e oraș din 2003 și are ieșire directă la autostrada A1 Sibiu–Sebeș. Satele aparținătoare — Sibiel, cu muzeul de icoane pe sticlă, Galeș, Fântânele — trăiesc din turism și din tradiția pastorală. BCPI Săliște funcționează chiar în oraș, pe Str. Reuniunea Meseriașilor nr. 3.",
     "nearby": []
   },
   {
@@ -386,6 +718,30 @@
     "nearby": []
   },
   {
+    "name": "Șelimbăr",
+    "slug": "selimbar",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Șelimbăr",
+      "Bungard",
+      "Mohu",
+      "Veștem"
+    ],
+    "lat": 45.7667,
+    "lon": 24.2,
+    "ocpiOffice": {
+      "name": "BCPI Sibiu",
+      "address": "Calea Dumbrăvii nr. 34, Sibiu"
+    },
+    "matrix": "reduced",
+    "profile": "periurban",
+    "countyNotesRef": "sibiu",
+    "localNote": "Șelimbărul, locul bătăliei din 1599 a lui Mihai Viteazul, e azi cea mai dinamică suburbie a Sibiului, cu mari zone comerciale și cartiere rezidențiale noi. Satele Veștem, Mohu și Bungard stau la nodul rutier unde DN1 se desparte de DN7. Volumul mare de tranzacții face din cartea funciară o rutină zilnică aici. Dosarele se depun la BCPI Sibiu.",
+    "nearby": []
+  },
+  {
     "name": "Sibiu",
     "slug": "sibiu",
     "county": "Sibiu",
@@ -400,10 +756,79 @@
       "name": "BCPI Sibiu",
       "address": "Calea Dumbrăvii nr. 34, Sibiu"
     },
-    "matrix": "reduced",
+    "matrix": "full",
     "profile": "urban",
     "countyNotesRef": "sibiu",
     "localNote": "Sibiul, fostă Capitală Culturală Europeană, stă pe Cibin, la poalele Făgărașului, cu aeroport internațional și piață imobiliară intensă. Dinspre Aiud se ajunge pe A1 prin Sebeș, deci lucrările se programează grupat. Dosarele se depun la BCPI Sibiu, în sediul OCPI de pe Calea Dumbrăvii nr. 34.",
+    "nearby": []
+  },
+  {
+    "name": "Slimnic",
+    "slug": "slimnic",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Slimnic",
+      "Albi",
+      "Pădureni",
+      "Ruși",
+      "Veseud"
+    ],
+    "lat": 45.9167,
+    "lon": 24.1667,
+    "ocpiOffice": {
+      "name": "BCPI Sibiu",
+      "address": "Calea Dumbrăvii nr. 34, Sibiu"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "sibiu",
+    "localNote": "Slimnicul stă pe DN14, la jumătatea drumului dintre Sibiu și Șeica Mare, sub ruina impunătoare a cetății Stolzenburg, ridicată pe dealul dintre sat și vale. Satele Ruși și Pădureni completează hotarul cu arabil și pășuni. Competența este la BCPI Sibiu.",
+    "nearby": []
+  },
+  {
+    "name": "Șura Mare",
+    "slug": "sura-mare",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Șura Mare",
+      "Hamba"
+    ],
+    "lat": 45.85,
+    "lon": 24.1667,
+    "ocpiOffice": {
+      "name": "BCPI Sibiu",
+      "address": "Calea Dumbrăvii nr. 34, Sibiu"
+    },
+    "matrix": "reduced",
+    "profile": "periurban",
+    "countyNotesRef": "sibiu",
+    "localNote": "Șura Mare stă pe DN14, imediat la nord de Sibiu, cu satul Hamba spre dealurile Slimnicului. Apropierea de oraș a transformat comuna într-o zonă rezidențială în plină extindere, cu loturi noi scoase constant în intravilan. Competența este la BCPI Sibiu.",
+    "nearby": []
+  },
+  {
+    "name": "Șura Mică",
+    "slug": "sura-mica",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Șura Mică",
+      "Rusciori"
+    ],
+    "lat": 45.8333,
+    "lon": 24.0667,
+    "ocpiOffice": {
+      "name": "BCPI Sibiu",
+      "address": "Calea Dumbrăvii nr. 34, Sibiu"
+    },
+    "matrix": "reduced",
+    "profile": "periurban",
+    "countyNotesRef": "sibiu",
+    "localNote": "Șura Mică stă la nord-vest de Sibiu, pe drumul spre Ocna Sibiului, cu satul Rusciori peste deal. Parcul industrial dezvoltat aici a adus hale, depozite și un flux constant de tranzacții cu teren. Dosarele se depun la BCPI Sibiu.",
     "nearby": []
   },
   {
@@ -448,6 +873,27 @@
     "profile": "agricol-campie",
     "countyNotesRef": "sibiu",
     "localNote": "Valea Viilor păstrează una dintre bisericile fortificate săsești înscrise în patrimoniul mondial UNESCO, într-o vale lăturalnică a Târnavei Mari, la sud de Copșa Mică. Numele spune totul despre hotar: vii pe versanți și arabil pe vale. Dosarele se depun la BCPI Mediaș.",
+    "nearby": []
+  },
+  {
+    "name": "Vurpăr",
+    "slug": "vurpar",
+    "county": "Sibiu",
+    "countySlug": "sibiu",
+    "type": "comuna",
+    "villages": [
+      "Vurpăr"
+    ],
+    "lat": 45.9,
+    "lon": 24.35,
+    "ocpiOffice": {
+      "name": "BCPI Sibiu",
+      "address": "Calea Dumbrăvii nr. 34, Sibiu"
+    },
+    "matrix": "reduced",
+    "profile": "agricol-campie",
+    "countyNotesRef": "sibiu",
+    "localNote": "Vurpărul stă pe un pârâu afluent al Hârtibaciului, la nord-est de Sibiu, cu biserica fortificată în mijlocul satului compact săsesc. Hotarul agricol întins, cu arabil și pășuni pe dealuri, se lucrează în bună parte comasat. Comuna ține de BCPI Sibiu.",
     "nearby": []
   }
 ]

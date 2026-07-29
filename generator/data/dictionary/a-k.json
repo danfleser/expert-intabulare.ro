@@ -32,6 +32,26 @@
     "category": "legal"
   },
   {
+    "term": "Act autentic",
+    "slug": "act-autentic",
+    "gloss": "Înscris întocmit de notar sau de o autoritate publică, cu forță probantă deplină.",
+    "definition": "Actul autentic este înscrisul întocmit sau autentificat de o autoritate publică, cel mai adesea de notarul public, cu respectarea formelor cerute de lege. Spre deosebire de un înscris sub semnătură privată, el face dovada deplină a datei, a semnăturilor și a declarațiilor părților, iar în multe situații este chiar titlu executoriu. În domeniul imobiliar, forma autentică este obligatorie: vânzarea, donația, schimbul sau partajul unui teren ori al unei construcții se încheie valabil numai la notar, sub sancțiunea nulității absolute. Tot acte autentice sunt certificatul de moștenitor și hotărârea judecătorească. Pentru intabulare, OCPI cere ca dreptul de proprietate să rezulte dintr-un asemenea înscris: nu poți înscrie un imobil în cartea funciară pe baza unei chitanțe de mână. De aceea, multe vânzări făcute prin acte sub semnătură privată în anii '90 trebuie astăzi regularizate la notar sau în instanță înainte de orice documentație cadastrală.",
+    "example": "Antecontractul a fost semnat la agenție, dar transferul proprietății s-a făcut abia prin actul autentic încheiat la notar.",
+    "related": [
+      "autentificare-notariala",
+      "taxe-notariale",
+      "contract-de-vanzare-cumparare",
+      "certificat-de-mostenitor",
+      "intabulare"
+    ],
+    "ctaService": "cadastru-si-intabulare",
+    "category": "legal",
+    "sources": [
+      "Codul civil (Legea 287/2009), art. 1244 — convențiile care strămută sau constituie drepturi reale înscrise în cartea funciară se încheie în formă autentică, sub sancțiunea nulității absolute: https://www.codulcivil.ro/art-1244-forma-ceruta-pentru-inscrierea-in-cartea-funciara/",
+      "Codul civil, art. 269 și art. 885 — înscrisul autentic; dobândirea drepturilor reale prin înscriere în cartea funciară (verificat 2026-07-29)"
+    ]
+  },
+  {
     "term": "Act de alipire",
     "slug": "act-de-alipire",
     "gloss": "Actul notarial prin care două sau mai multe imobile alăturate devin unul singur.",
@@ -112,6 +132,26 @@
     "category": "legal"
   },
   {
+    "term": "Adeverință de intravilan",
+    "slug": "adeverinta-de-intravilan",
+    "gloss": "Document de la primărie care confirmă că un teren se află în intravilanul localității.",
+    "definition": "Adeverința de intravilan se eliberează de primăria pe raza căreia se află terenul și atestă, pe baza planului urbanistic general, că imobilul este situat în interiorul limitei intravilanului. O cere de regulă notarul la vânzare, banca la creditare sau OCPI atunci când din actele vechi nu rezultă clar regimul terenului. Distincția nu este un detaliu birocratic: în intravilan poți construi, impozitul se calculează diferit, iar prețul pe metru pătrat este de câteva ori mai mare decât la un teren extravilan asemănător. Documentul menționează de obicei numărul cadastral sau identificarea din registrul agricol, suprafața și, uneori, zona din PUG în care se încadrează imobilul. Dacă terenul este doar parțial în intravilan, adeverința trebuie să precizeze suprafețele pentru fiecare parte, iar la înscrierea în cartea funciară situația se reflectă în categoriile de folosință. Introducerea unui teren în intravilan nu se face prin adeverință, ci doar prin aprobarea unui PUG nou sau a unui PUZ.",
+    "example": "Notarul a cerut o adeverință de intravilan de la primărie ca să confirme regimul terenului înainte de semnarea vânzării.",
+    "related": [
+      "intravilan",
+      "extravilan",
+      "pug",
+      "certificat-de-urbanism",
+      "rol-fiscal"
+    ],
+    "ctaService": "intabulare-teren",
+    "category": "urbanism",
+    "sources": [
+      "Legea 350/2001 privind amenajarea teritoriului și urbanismul — intravilanul se stabilește prin planul urbanistic general aprobat; modificarea se face prin PUG sau PUZ: https://legislatie.just.ro/Public/DetaliiDocument/29453",
+      "Legea 50/1991 — certificatul de urbanism ca act de informare privind regimul juridic, economic și tehnic al imobilului (verificat 2026-07-29)"
+    ]
+  },
+  {
     "term": "Adeverință de rol agricol",
     "slug": "adeverinta-de-rol-agricol",
     "gloss": "Dovada eliberată de primărie că imobilul figurează în registrul agricol.",
@@ -142,6 +182,26 @@
     ],
     "ctaService": "actualizare-carte-funciara",
     "category": "legal"
+  },
+  {
+    "term": "Agrivoltaic",
+    "slug": "agrivoltaic",
+    "gloss": "Sistem care combină pe același teren producția agricolă cu panourile fotovoltaice.",
+    "definition": "Un sistem agrivoltaic folosește același teren de două ori: dedesubt se cultivă sau se pășunează, iar deasupra, pe structuri înălțate, panourile fotovoltaice produc energie. Panourile se montează astfel încât utilajele agricole să poată circula printre stâlpi, iar din circuitul agricol se scoate doar amprenta la sol a fundațiilor, nu întreaga suprafață. Cadrul legal a fost deschis de Legea 254/2022, care a modificat Legea fondului funciar: obiectivele de producere a energiei din surse regenerabile se pot amplasa pe terenuri agricole extravilane din clasele de calitate III, IV și V, pe cel mult 50 de hectare, iar terenurile agricole extravilane — cu excepția celor având categoria de folosință arabil — pot fi folosite în sistem dual, adică pentru producție agricolă și pentru energie în același timp. Pentru un asemenea proiect, topograful întocmește ridicarea topografică a amplasamentului, planurile de situație pentru avize și documentația necesară scoaterii din circuitul agricol a suprafețelor ocupate de stâlpi. Clasa de calitate a terenului se dovedește cu studiu pedologic, deci merită verificată înainte de a semna orice contract de superficie.",
+    "example": "Pe o pășune din extravilan, ferma a montat panourile pe structuri înălțate, sub care oile pasc mai departe, iar din circuitul agricol s-a scos doar amprenta stâlpilor.",
+    "related": [
+      "parc-fotovoltaic",
+      "scoaterea-din-circuitul-agricol",
+      "arabil",
+      "extravilan",
+      "categorie-de-folosinta"
+    ],
+    "ctaService": "plan-topografic",
+    "category": "agricol",
+    "sources": [
+      "Legea 254/2022 pentru modificarea și completarea Legii fondului funciar nr. 18/1991 — obiective de energie regenerabilă pe terenuri agricole extravilane clasele III-V, maximum 50 ha; utilizarea în sistem dual a terenurilor extravilane, cu excepția categoriei de folosință arabil: https://legislatie.just.ro/Public/DetaliiDocument/257727",
+      "Legea 18/1991, art. 92 — scoaterea din circuitul agricol doar pentru suprafețele ocupate efectiv de obiectivele de investiții (verificat 2026-07-29)"
+    ]
   },
   {
     "term": "Aliniament",
@@ -273,13 +333,33 @@
     "category": "legal"
   },
   {
+    "term": "Anulare număr cadastral",
+    "slug": "anulare-numar-cadastral",
+    "gloss": "Procedura prin care OCPI radiază un număr cadastral atribuit greșit sau rămas fără obiect.",
+    "definition": "Numărul cadastral se anulează atunci când documentația care l-a generat nu mai poate produce efecte: cererea de intabulare a fost respinsă definitiv, documentația conține erori sau suprapuneri care nu se pot repara, ori imobilul a fost recepționat, dar nu s-a mai deschis carte funciară. Procedura depinde de un singur lucru: există sau nu carte funciară deschisă pentru acel număr. Dacă nu există, anularea se face administrativ, printr-o cerere depusă la OCPI de persoana autorizată sau de proprietar, însoțită de declarația beneficiarului, și se soluționează în câteva zile lucrătoare. Dacă însă cartea funciară a fost deschisă, simpla cerere nu mai este suficientă: este nevoie de o hotărâre judecătorească ce lipsește de efecte documentația cadastrală. Un număr cadastral anulat nu se refolosește niciodată; imobilul primește la noua documentație un număr nou. Anularea apare frecvent când se reface o lucrare veche cu geometrie greșită.",
+    "example": "Pentru că documentația veche conținea o suprapunere ireparabilă, topograful a cerut anularea numărului cadastral și a depus o lucrare nouă.",
+    "related": [
+      "numar-cadastral",
+      "documentatie-cadastrala",
+      "receptie-tehnica-ocpi",
+      "incheiere-de-carte-funciara",
+      "suprapunere-de-imobile"
+    ],
+    "ctaService": "servicii-ocpi",
+    "category": "legal",
+    "sources": [
+      "Ordinul ANCPI 700/2014, art. 66 (modificat prin Ordinul 1340/2015) — anularea numărului cadastral: https://legislatie.just.ro/Public/DetaliiDocument/162860",
+      "Doctrină: L.-M. Harosa, „Anularea numărului cadastral în cazul acțiunilor de carte funciară” — cerere necontencioasă când nu există CF deschisă, hotărâre judecătorească când există: https://www.universuljuridic.ro/anularea-numarului-cadastral-in-cazul-actiunilor-de-carte-funciara-scurte-consideratii/"
+    ]
+  },
+  {
     "term": "Apartamentare",
     "slug": "apartamentare",
     "gloss": "Împărțirea unei clădiri în unități individuale, fiecare cu carte funciară proprie.",
     "definition": "Apartamentarea este operațiunea prin care o clădire înscrisă în cartea funciară ca un singur corp se împarte în unități individuale — apartamente, spații comerciale, garaje — fiecare primind număr cadastral și carte funciară proprie. Este pasul obligatoriu pentru un dezvoltator care vrea să vândă apartamentele dintr-un bloc nou, dar și pentru proprietarii unei case cu două locuințe care vor să le separe juridic, de exemplu între frați. Lucrarea presupune relevee pentru fiecare unitate, calculul cotelor-părți indivize din părțile comune (teren, casa scării, acoperiș), documentația cadastrală de apartamentare recepționată de OCPI și actul autentic notarial. Rezultatul: o carte funciară colectivă pentru întreaga clădire și câte o carte funciară individuală pentru fiecare unitate. Condiția tehnică esențială este ca unitățile să poată funcționa independent, cu acces propriu, iar construcția să fie intabulată corect înainte de împărțire.",
     "example": "După recepția blocului, dezvoltatorul a făcut apartamentarea: fiecare dintre cele 24 de apartamente a primit carte funciară individuală și a putut fi vândut separat.",
     "related": [
-      "unitate-individuala-ui",
+      "unitate-individuala",
       "carte-funciara-colectiva",
       "carte-funciara-individuala",
       "cota-indiviza",
@@ -305,6 +385,26 @@
     ],
     "ctaService": "intabulare-teren",
     "category": "agricol"
+  },
+  {
+    "term": "Arendă",
+    "slug": "arenda",
+    "gloss": "Contract prin care proprietarul unui teren agricol îl dă spre exploatare unui arendaș, contra unui preț.",
+    "definition": "Prin contractul de arendă, proprietarul (arendatorul) cedează folosința terenului agricol unui arendaș, care îl lucrează și plătește în schimb arenda, în bani sau într-o cotă din producție. Codul civil cere forma scrisă, iar contractul trebuie înregistrat la consiliul local al comunei pe raza căreia se află terenul; abia din acel moment devine opozabil terților, iar pentru plata arendei are chiar valoare de titlu executoriu. Arendașul are, prin Legea 17/2014, rang de preemptor la vânzarea terenului, dacă contractul este înregistrat corect și la timp. Pentru proprietar, arenda este soluția obișnuită când parcelele moștenite sunt departe de casă; pentru fermier, contractele înregistrate stau la baza cererilor de subvenție APIA. Un detaliu des ignorat: terenul trebuie identificat fără echivoc în contract, cu tarlaua, parcela și, ideal, numărul cadastral, altfel apar conflicte la declararea suprafețelor sau la vânzare. Arenda se poate nota și în cartea funciară.",
+    "example": "Moștenitorii au arendat cele trei hectare din câmpie, iar contractul de arendă a fost înregistrat la primărie înainte de campania APIA.",
+    "related": [
+      "drept-de-preemptiune",
+      "legea-17-2014",
+      "registrul-agricol",
+      "arabil",
+      "fond-funciar"
+    ],
+    "ctaService": "intabulare-teren",
+    "category": "agricol",
+    "sources": [
+      "Codul civil (Legea 287/2009), art. 1838 — forma scrisă sub sancțiunea nulității absolute, depunerea unui exemplar la consiliul local, valoarea de titlu executoriu pentru plata arendei: https://www.codulcivil.ro/art-1838-conditii-de-forma/",
+      "Legea 17/2014 privind vânzarea terenurilor agricole extravilane, cu modificările aduse de Legea 175/2020 — arendașul între preemptori (verificat 2026-07-29)"
+    ]
   },
   {
     "term": "As-built (documentație conform execuției)",
@@ -388,6 +488,46 @@
     "category": "urbanism"
   },
   {
+    "term": "Aviz de amplasament",
+    "slug": "aviz-de-amplasament",
+    "gloss": "Acordul unui deținător de rețele edilitare că o construcție nu îi afectează instalațiile.",
+    "definition": "Avizul de amplasament se obține de la operatorii de rețele — energie electrică, gaze naturale, apă-canal, telecomunicații — și confirmă că viitoarea construcție nu afectează instalațiile lor și respectă distanțele de protecție și de siguranță. Lista avizelor necesare este stabilită de primărie prin certificatul de urbanism, iar fără ele dosarul pentru autorizația de construire este incomplet. Cererea se depune la fiecare operator împreună cu un plan de încadrare în zonă și un plan de situație pe suport topografic vizat, pe care operatorul își marchează traseele rețelelor din zonă. Aici intervine topograful: planul de situație trebuie să fie actualizat, în coordonate Stereografic 1970, cu construcția propusă figurată exact. Dacă imobilul se află în zona de protecție a unei conducte magistrale sau a unei linii electrice aeriene, avizul poate veni cu condiții — devieri, distanțe minime, adâncimi de fundare — care schimbă uneori chiar amplasarea casei pe lot.",
+    "example": "Operatorul de gaze a eliberat avizul de amplasament după ce a verificat pe planul de situație distanța casei față de conductă.",
+    "related": [
+      "retele-edilitare",
+      "plan-de-situatie",
+      "certificat-de-urbanism",
+      "autorizatie-de-construire",
+      "zona-de-protectie"
+    ],
+    "ctaService": "plan-topografic",
+    "category": "urbanism",
+    "sources": [
+      "Legea 50/1991 privind autorizarea executării lucrărilor de construcții — certificatul de urbanism stabilește avizele și acordurile necesare, obținute de solicitant înainte de depunerea cererii de autorizare: https://isc.gov.ro/files/2020/Legislatie/Lege%2050%201991(r2).pdf",
+      "Ordinul ANCPI 700/2014 — planul de situație pe suport topografic în Stereografic 1970, cerut la documentațiile pentru avize (verificat 2026-07-29)"
+    ]
+  },
+  {
+    "term": "Aviz de oportunitate",
+    "slug": "aviz-de-oportunitate",
+    "gloss": "Avizul prin care primăria acceptă inițierea unui PUZ care modifică prevederile PUG.",
+    "definition": "Când un investitor vrea să dezvolte un teren altfel decât permite planul urbanistic general — de pildă să parceleze o fostă zonă agricolă pentru locuințe sau să ridice un ansamblu mai înalt decât regulamentul —, primul pas este avizul de oportunitate. Acesta se emite de structura de specialitate condusă de arhitectul-șef, în baza Legii 350/2001, și stabilește cadrul în care va fi elaborat planul urbanistic zonal: teritoriul care trebuie studiat, categoriile funcționale admise, reglementările obligatorii și obiectivele de utilitate publică cerute în schimb. Avizul nu aprobă construcția și nu ține loc de PUZ; el doar deschide drumul către acesta și îi fixează limitele. Pentru documentație este nevoie de un studiu de oportunitate și de planuri pe suport topografic actualizat, astfel că ridicarea topografică a zonei se comandă de obicei chiar la început. Abia după aprobarea PUZ-ului prin hotărâre de consiliu local se pot cere certificatul de urbanism și autorizația de construire pe noile reguli.",
+    "example": "Pentru parcelarea de la marginea orașului, investitorul a obținut întâi avizul de oportunitate și abia apoi a comandat PUZ-ul.",
+    "related": [
+      "puz",
+      "pug",
+      "certificat-de-urbanism",
+      "indicatori-urbanistici",
+      "rlu"
+    ],
+    "ctaService": "plan-topografic",
+    "category": "urbanism",
+    "sources": [
+      "Legea 350/2001, art. 32 — avizul de oportunitate emis de structura de specialitate condusă de arhitectul-șef; stabilește teritoriul de reglementat, categoriile funcționale, indicatorii urbanistici și dotările necesare: https://legislatie.just.ro/Public/DetaliiDocument/29453",
+      "Legea 350/2001, art. 37 — avizul tehnic al arhitectului-șef pe documentația de PUZ, distinct de avizul de oportunitate (verificat 2026-07-29)"
+    ]
+  },
+  {
     "term": "Azimut",
     "slug": "azimut",
     "gloss": "Unghiul măsurat în sens orar de la direcția nord până la o direcție dată.",
@@ -418,6 +558,46 @@
     ],
     "ctaService": "servicii-ocpi",
     "category": "legal"
+  },
+  {
+    "term": "Bloc fizic (APIA)",
+    "slug": "bloc-fizic-apia",
+    "gloss": "Unitatea de referință din sistemul LPIS al APIA: o suprafață agricolă delimitată de limite stabile.",
+    "definition": "Blocul fizic este felul în care APIA vede terenul agricol: o suprafață continuă, lucrată de unul sau mai mulți fermieri, delimitată de limite stabile în timp — drumuri, căi ferate, ape, canale, liziere, garduri vii sau marginea satului. Fiecare bloc fizic are un număr unic în LPIS, sistemul de identificare a parcelelor agricole, și servește drept parcelă de referință la depunerea cererii unice de plată: fermierul își desenează parcelele în interiorul blocului, în aplicația IPA Online. Important de înțeles este că blocul fizic nu coincide cu parcela din cartea funciară — el poate cuprinde zeci de parcele cadastrale ale unor proprietari diferiți, iar suprafața eligibilă la plată poate diferi de cea din acte. Când doi fermieri declară aceeași suprafață sau când limita desenată nu corespunde terenului lucrat, apar suprapunerile sancționate de APIA; măsurătorile topografice ale parcelelor reale sunt calea curată de a le lămuri.",
+    "example": "La depunerea cererii unice, fermierul și-a desenat cele patru parcele în interiorul blocului fizic indicat de APIA.",
+    "related": [
+      "parcela",
+      "tarla",
+      "plan-parcelar",
+      "registrul-agricol",
+      "adeverinta-de-rol-agricol"
+    ],
+    "ctaService": "intabulare-teren",
+    "category": "agricol",
+    "sources": [
+      "APIA — LPIS, sistemul de identificare a parcelelor agricole; blocul fizic este parcela de referință: https://lpis.apia.org.ro/",
+      "APIA — Ghid de utilizare a aplicației IPA Online (desenarea parcelelor în interiorul blocului fizic, cererea unică de plată): https://apia.org.ro/wp-content/uploads/2022/03/GHID-utilizare-IPA_ONLINE_Editia-VI-2022.pdf (verificat 2026-07-29)"
+    ]
+  },
+  {
+    "term": "Bonitare cadastrală",
+    "slug": "bonitare-cadastrala",
+    "gloss": "Evaluarea capacității de producție a terenurilor agricole, exprimată în note și clase de calitate.",
+    "definition": "Bonitarea măsoară cât de productiv este un teren agricol: pe baza însușirilor solului, climei, reliefului și apei freatice se calculează note de bonitare de la 0 la 100, iar terenul se încadrează într-una din cele cinci clase de calitate — clasa I fiind cea mai fertilă, clasa a V-a cea mai slabă. Datele vin din studiile pedologice întocmite de oficiile OSPA. Pentru proprietar, clasa de calitate nu este o abstracțiune: de ea depinde taxa datorată la scoaterea terenului din circuitul agricol, tot ea decide dacă pe teren se poate amplasa un parc fotovoltaic (Legea 254/2022 permite obiectivele de energie regenerabilă în extravilan doar pe clasele III, IV și V, pe cel mult 50 de hectare) și tot ea cântărește în prețul de vânzare al terenului arabil. La schimbarea categoriei de folosință sau la introducerea în intravilan, primăriile și direcțiile agricole cer frecvent dovada clasei de bonitare. Un teren din câmpie poate avea clase diferite de la o tarla la alta, așa că verificarea se face pe parcela concretă.",
+    "example": "Terenul a fost încadrat la bonitare în clasa a IV-a de calitate, așa că taxa de scoatere din circuitul agricol a fost modestă.",
+    "related": [
+      "studiu-pedologic",
+      "scoaterea-din-circuitul-agricol",
+      "categorie-de-folosinta",
+      "arabil",
+      "agrivoltaic"
+    ],
+    "ctaService": "expertize-documentatii",
+    "category": "agricol",
+    "sources": [
+      "Normele și Regulamentul din 28.05.2002 privind conținutul studiilor pedologice și agrochimice și bonitarea terenurilor agricole — note de bonitare și clase de calitate I-V: https://legislatie.just.ro/Public/DetaliiDocument/37983",
+      "Legea 254/2022 (modificare a Legii 18/1991) — condiționarea amplasării obiectivelor fotovoltaice de clasele de calitate III-V, în extravilan, pe cel mult 50 ha: https://legislatie.just.ro/Public/DetaliiDocument/257727"
+    ]
   },
   {
     "term": "Bornă topografică",
@@ -544,7 +724,7 @@
       "condominiu",
       "apartamentare",
       "cota-indiviza",
-      "unitate-individuala-ui"
+      "unitate-individuala"
     ],
     "ctaService": "intabulare-apartament",
     "category": "legal"
@@ -557,13 +737,53 @@
     "example": "Banca a solicitat extras din cartea funciară individuală a apartamentului, ca să înscrie ipoteca doar asupra acestuia, nu asupra întregii clădiri.",
     "related": [
       "carte-funciara-colectiva",
-      "unitate-individuala-ui",
+      "unitate-individuala",
       "apartamentare",
       "cota-indiviza",
       "releveu-de-apartament"
     ],
     "ctaService": "intabulare-apartament",
     "category": "legal"
+  },
+  {
+    "term": "Cartea tehnică a construcției",
+    "slug": "cartea-tehnica-a-constructiei",
+    "gloss": "Dosarul complet al unei clădiri: proiecte, avize, procese-verbale și documentele recepției.",
+    "definition": "Cartea tehnică a construcției adună într-un singur dosar întreaga viață a unei clădiri: documentația de proiectare și avizele, documentele privind execuția (procese-verbale de lucrări ascunse, certificate de calitate ale materialelor), documentele recepției și jurnalul evenimentelor din exploatare — reparații, consolidări, modificări. Obligația de a o întocmi și păstra revine investitorului, apoi proprietarului, conform Legii 10/1995 privind calitatea în construcții, iar la vânzare dosarul se predă noului proprietar. În practică, la casele particulare cartea tehnică este adesea incompletă sau lipsește cu totul, ceea ce se răzbună târziu: planurile conforme cu execuția (as-built) și procesul-verbal de recepție din ea sunt exact piesele de care este nevoie la intabularea construcției, la actualizarea cărții funciare după o extindere sau la expertize. Cine construiește acum face bine să ceară constructorului și dirigintelui de șantier toate documentele pe măsură ce apar, nu la final.",
+    "example": "La vânzarea halei, cumpărătorul a cerut cartea tehnică a construcției, cu procesul-verbal de recepție și planurile as-built.",
+    "related": [
+      "autorizatie-de-construire",
+      "as-built",
+      "proces-verbal-de-receptie",
+      "certificat-de-atestare-a-edificarii",
+      "inscrierea-constructiei"
+    ],
+    "ctaService": "intabulare-casa-constructie",
+    "category": "urbanism",
+    "sources": [
+      "Legea 10/1995 privind calitatea în construcții, republicată — obligația de a întocmi, păstra, completa și preda cartea tehnică la înstrăinarea construcției: https://isc.gov.ro/files/2020/Legislatie/Lege%2010%201995(r2).pdf",
+      "HG 273/1994, Anexa 6 — conținutul cărții tehnice a construcției: https://isc.gov.ro/files/2017/Legislatie/Hotarare%20273%201994.pdf (verificat 2026-07-29)"
+    ]
+  },
+  {
+    "term": "Casă la roșu",
+    "slug": "casa-la-rosu",
+    "gloss": "Stadiu de execuție în care structura casei este ridicată, fără finisaje și instalații.",
+    "definition": "O casă „la roșu\" are fundația turnată, zidurile și planșeele ridicate și, de regulă, șarpanta cu învelitoarea montată — dar nu are tencuieli, tâmplărie, instalații sau finisaje. Este stadiul în care structura se vede în cărămidă, de unde și numele. Multe case se vând în acest stadiu, fie pentru că proprietarul a rămas fără fonduri, fie pentru că dezvoltatorii mici preferă să lase finisajele pe gustul cumpărătorului. Ce trebuie știut înainte de o asemenea tranzacție: legea permite, în anumite condiții, înscrierea în cartea funciară a construcțiilor nefinalizate, pe stadiul de execuție atins, în baza autorizației de construire, a certificatului prin care primăria atestă stadiul de execuție atins, a unui proces-verbal privind stadiul lucrărilor și a documentației cadastrale. Fără această înscriere, actul de vânzare poate transfera doar terenul, iar casa rămâne juridic invizibilă. Verificați și valabilitatea autorizației: dacă a expirat înainte de finalizare, continuarea lucrărilor cere prelungire sau o autorizație nouă.",
+    "example": "Au cumpărat casa la roșu, cu acoperișul montat, dar fără tencuieli, instalații sau tâmplărie, și au terminat-o în doi ani.",
+    "related": [
+      "inscrierea-constructiei",
+      "autorizatie-de-construire",
+      "proces-verbal-de-receptie",
+      "suprafata-construita-la-sol",
+      "certificat-de-atestare-a-edificarii"
+    ],
+    "ctaService": "intabulare-casa-constructie",
+    "category": "urbanism",
+    "sources": [
+      "Ordinul ANCPI 700/2014, art. 98 alin. (3) — înscrierea dreptului de proprietate asupra construcțiilor pe stadii de execuție, în baza certificatului de atestare a stadiului realizării construcției, a procesului-verbal privind stadiul lucrărilor și a documentației cadastrale: https://legislatie.just.ro/Public/DetaliiDocument/162860",
+      "Legea 50/1991 — valabilitatea și prelungirea autorizației de construire (verificat 2026-07-29)"
+    ]
   },
   {
     "term": "Categorie de folosință",
@@ -616,6 +836,26 @@
     "category": "legal"
   },
   {
+    "term": "Cerere de reexaminare",
+    "slug": "cerere-de-reexaminare",
+    "gloss": "Calea administrativă de atac împotriva unei încheieri de carte funciară, soluționată de registratorul-șef.",
+    "definition": "Când OCPI respinge o cerere de înscriere — sau o admite altfel decât ai cerut —, primul pas nu este instanța, ci cererea de reexaminare. Ea se depune în termen de 15 zile de la comunicarea încheierii, la biroul teritorial care a emis-o, și este soluționată de registratorul-șef, printr-o încheiere proprie, în termen de 20 de zile. Formularea cererii de reexaminare este o etapă obligatorie: instanțele resping ca inadmisibilă o plângere depusă direct la judecătorie, fără acest pas prealabil. Abia împotriva încheierii registratorului-șef se poate face plângere la judecătoria în raza căreia se află imobilul, tot în 15 zile de la comunicare. Atât cererea de reexaminare, cât și plângerea se notează din oficiu în cartea funciară, ca să afle orice terț că înscrierea este contestată. În practică, multe respingeri pleacă de la lipsuri remediabile — un act neatașat, o taxă neplătită — și se rezolvă favorabil la reexaminare, cu argumentație corectă.",
+    "example": "După respingerea intabulării, proprietarul a depus cerere de reexaminare în termenul de 15 zile, iar registratorul-șef i-a dat dreptate.",
+    "related": [
+      "incheiere-de-carte-funciara",
+      "respingere-incheiere-de-respingere",
+      "plangere-impotriva-incheierii",
+      "registrator-de-carte-funciara",
+      "referat-de-completare"
+    ],
+    "ctaService": "servicii-ocpi",
+    "category": "legal",
+    "sources": [
+      "Legea 7/1996, art. 31 — cerere de reexaminare în 15 zile de la comunicare, soluționată de registratorul-șef în 20 de zile; plângere în 15 zile împotriva încheierii registratorului-șef, notate din oficiu în cartea funciară: https://lege5.ro/gratuit/g44dcmjsge/procedura-de-inscriere-in-cartea-funciara-lege-7-1996",
+      "Legea 7/1996, text actualizat pe portalul legislativ: https://legislatie.just.ro/Public/DetaliiDocumentAfis/7798 (verificat 2026-07-29)"
+    ]
+  },
+  {
     "term": "Certificat de atestare a edificării",
     "slug": "certificat-de-atestare-a-edificarii",
     "gloss": "Actul primăriei care confirmă că o construcție a fost finalizată și poate fi intabulată.",
@@ -665,6 +905,26 @@
     "category": "legal"
   },
   {
+    "term": "Certificat de sarcini",
+    "slug": "certificat-de-sarcini",
+    "gloss": "Document care arată sarcinile unui imobil neînscris în cartea funciară, din vechile registre de publicitate.",
+    "definition": "Certificatul de sarcini este echivalentul extrasului de carte funciară pentru imobilele care nu au fost niciodată intabulate. Se eliberează de OCPI pe baza vechilor registre de transcripțiuni și inscripțiuni, în care se consemnau, înainte de generalizarea cărților funciare, actele de înstrăinare și sarcinile: ipoteci, privilegii, urmăriri silite. Notarul îl cere de regulă la vânzarea sau la dezbaterea succesorală a unui imobil fără carte funciară, ca să verifice că bunul nu este grevat de sarcini ascunse. Cererea se depune la biroul de cadastru și publicitate imobiliară în raza căruia se află imobilul, cu identificarea proprietarilor succesivi din acte, pentru că registrele vechi sunt organizate pe numele persoanelor, nu pe imobile — de aici și limita lui practică: un certificat este atât de bun cât de complet este lanțul de proprietari cercetat. După prima înscriere în cartea funciară, locul lui este luat definitiv de extrasul de carte funciară.",
+    "example": "Pentru casa bătrânească neintabulată, notarul a cerut de la OCPI un certificat de sarcini din vechile registre de inscripțiuni.",
+    "related": [
+      "sarcini",
+      "extras-de-carte-funciara-pentru-informare",
+      "ipoteca",
+      "publicitate-imobiliara",
+      "carte-funciara"
+    ],
+    "ctaService": "actualizare-carte-funciara",
+    "category": "legal",
+    "sources": [
+      "Ordinul ANCPI 700/2014, Regulamentul de avizare, recepție și înscriere în evidențele de cadastru și carte funciară — evidențele registrelor de transcripțiuni și inscripțiuni: https://cl.ancpi.ro/wp-content/uploads/2023/02/Regulamentul-de-receptie-si-inscriere-in-evidentele-de-cadastru-si-carte-funciara.pdf",
+      "Legea 7/1996 — deschiderea cărților funciare și înlocuirea vechilor registre de publicitate imobiliară (verificat 2026-07-29)"
+    ]
+  },
+  {
     "term": "Certificat de urbanism",
     "slug": "certificat-de-urbanism",
     "gloss": "Actul informativ al primăriei despre regimul juridic, economic și tehnic al unui teren.",
@@ -696,6 +956,26 @@
     ],
     "ctaService": "cadastru-si-intabulare",
     "category": "legal"
+  },
+  {
+    "term": "Clauză de inalienabilitate",
+    "slug": "clauza-de-inalienabilitate",
+    "gloss": "Clauză prin care un imobil nu poate fi înstrăinat o perioadă determinată, notată în cartea funciară.",
+    "definition": "Prin clauza de inalienabilitate, dobânditorul unui imobil se obligă să nu îl înstrăineze un anumit timp. Codul civil o admite doar pentru un interes serios și legitim și pe cel mult 49 de ani. O întâlnești cel mai des în donații — părinții donează casa copilului, dar îi interzic vânzarea cât timp trăiesc —, în contractele cu clauză de întreținere și în programele guvernamentale de creditare, unde locuința nu poate fi vândută o perioadă stabilită de lege. Ca să fie opozabilă terților, clauza se notează în partea a III-a a cărții funciare; un cumpărător diligent o vede pe extras înainte de a semna orice. Actul de vânzare încheiat cu încălcarea clauzei poate fi anulat la cererea celui protejat de ea, așa că notarii refuză autentificarea cât timp notarea există. La împlinirea termenului sau cu acordul beneficiarului, clauza se radiază, iar imobilul redevine liber la vânzare.",
+    "example": "Apartamentul cumpărat prin programul guvernamental are notată în cartea funciară o clauză de inalienabilitate de cinci ani.",
+    "related": [
+      "interdictie-de-instrainare",
+      "notare",
+      "sarcini",
+      "donatie",
+      "carte-funciara"
+    ],
+    "ctaService": "cadastru-si-intabulare",
+    "category": "legal",
+    "sources": [
+      "Codul civil (Legea 287/2009), art. 627 — clauza de inalienabilitate: cel mult 49 de ani și interes serios și legitim: https://lege5.ro/gratuit/gi2tsmbqhe/art-627-clauza-de-inalienabilitate-conditii-domeniu-de-aplicare-codul-civil",
+      "Codul civil, art. 628 — condiții de opozabilitate, notarea în cartea funciară (verificat 2026-07-29)"
+    ]
   },
   {
     "term": "Comasare",
@@ -762,6 +1042,26 @@
     "category": "agricol"
   },
   {
+    "term": "Concesiune",
+    "slug": "concesiune",
+    "gloss": "Dreptul de a folosi și exploata un bun al statului sau al primăriei, pe durată determinată, contra unei redevențe.",
+    "definition": "Concesiunea este contractul prin care statul sau unitatea administrativ-teritorială (concedentul) transmite unei persoane (concesionarul) dreptul de a exploata un bun public sau privat al său, pe cel mult 49 de ani, în schimbul unei plăți periodice numite redevență. În viața de zi cu zi a proprietarilor, forma cea mai întâlnită este terenul concesionat de la primărie pentru construirea unei locuințe sau a unui spațiu comercial: terenul rămâne al orașului, dar construcția ridicată pe el este proprietatea privată a concesionarului. Dreptul de concesiune se înscrie în cartea funciară și poate fi ipotecat sau, în condițiile contractului, transmis odată cu construcția. La cumpărarea unei case pe teren concesionat, verificați durata rămasă, redevența și clauzele de încetare — banca și notarul le vor cerceta oricum. Pentru înscrierea construcției pe terenul concesionat este nevoie de documentație cadastrală, exact ca la un teren propriu.",
+    "example": "Primăria i-a concesionat un teren de 300 mp pentru construirea casei, iar dreptul de concesiune a fost intabulat în cartea funciară.",
+    "related": [
+      "domeniu-public",
+      "superficie",
+      "drept-de-folosinta",
+      "notare",
+      "carte-funciara"
+    ],
+    "ctaService": "intabulare-teren",
+    "category": "legal",
+    "sources": [
+      "OUG 57/2019 privind Codul administrativ — concesionarea bunurilor proprietate publică, durata contractului de cel mult 49 de ani, redevența: https://legislatie.just.ro/Public/DetaliiDocumentAfis/215925",
+      "Codul administrativ, secțiunea privind durata concesiunii (prelungire în limita aceleiași durate totale de 49 de ani), verificat 2026-07-29: https://lege5.ro/gratuit/gm2dcnrygm3q/durata-concesiunii-codul-administrativ"
+    ]
+  },
+  {
     "term": "Condominiu",
     "slug": "condominiu",
     "gloss": "Clădire cu mai multe unități individuale și părți comune deținute în cote indivize.",
@@ -772,7 +1072,7 @@
       "carte-funciara-colectiva",
       "carte-funciara-individuala",
       "cota-indiviza",
-      "unitate-individuala-ui"
+      "unitate-individuala"
     ],
     "ctaService": "intabulare-apartament",
     "category": "legal"
@@ -939,6 +1239,25 @@
     "category": "measurement"
   },
   {
+    "term": "Cotă de nivel",
+    "slug": "cota-de-nivel",
+    "gloss": "Înălțimea unui punct față de un plan de referință, exprimată în metri.",
+    "definition": "Cota de nivel spune cât de sus se află un punct față de o suprafață de referință. În România, referința oficială pentru cotele absolute este sistemul Marea Neagră 1975: când pe un plan topografic scrie 254,37 lângă un punct, acela se află la 254,37 metri deasupra nivelului de referință al mării. Pe șantiere se lucrează adesea și cu cote relative, raportate la cota ±0,00 a clădirii — pardoseala finită a parterului. Topografii determină cotele prin nivelment geometric sau trigonometric ori cu receptoare GNSS, plecând de la reperele rețelei de nivelment de stat. De ce contează pentru un beneficiar obișnuit: pantele curților și ale canalizărilor se proiectează pe cote, diferența de nivel dintre teren și drum decide dacă ai nevoie de umpluturi sau sprijiniri, iar în zonele inundabile cota terenului față de vecinătăți poate schimba condițiile din autorizația de construire. Un plan topografic fără cote de nivel corecte este inutilizabil pentru proiectare.",
+    "example": "Pe planul topografic, fiecare punct măsurat are trecută cota de nivel în sistemul Marea Neagră 1975.",
+    "related": [
+      "cota-altitudine",
+      "marea-neagra-1975",
+      "nivelment",
+      "reper-de-nivelment",
+      "cota-zero"
+    ],
+    "ctaService": "topografie-constructii",
+    "category": "measurement",
+    "sources": [
+      "Ordinul ANCPI 700/2014 — sistemul de referință pentru cote: Marea Neagră 1975; poziția în plan: Stereografic 1970 (verificat 2026-07-29)"
+    ]
+  },
+  {
     "term": "Cotă indiviză",
     "slug": "cota-indiviza",
     "gloss": "Fracțiunea din părțile comune ale clădirii care revine fiecărui apartament.",
@@ -948,7 +1267,7 @@
       "condominiu",
       "apartamentare",
       "carte-funciara-individuala",
-      "unitate-individuala-ui",
+      "unitate-individuala",
       "suprafata-utila"
     ],
     "ctaService": "intabulare-apartament",
@@ -971,6 +1290,22 @@
     "category": "legal"
   },
   {
+    "term": "Cota zero",
+    "slug": "cota-zero",
+    "gloss": "Nivelul de referință al unei clădiri, de regulă pardoseala finită a parterului, notat ±0,00.",
+    "definition": "În orice proiect de arhitectură există un nivel față de care se măsoară totul: cota ±0,00, numită pe scurt cota zero. De regulă este pardoseala finită a parterului; etajul poate fi la +2,80, subsolul la −2,50, iar streașina la +6,40 — toate raportate la acest zero convențional. Proiectantul stabilește cota zero față de terenul natural și, prin echivalență, față de cota absolută din sistemul Marea Neagră 1975. La începutul șantierului, topograful este cel care o transmite din hârtie în teren: la trasarea construcției, cota zero se materializează pe borne, țăruși sau repere fixe din apropiere, iar constructorul își raportează la ea săpătura, fundația și fiecare planșeu. O cotă zero greșit transmisă se propagă în toată clădirea — case „îngropate\" față de drum sau, invers, cocoțate peste vecini, cu probleme la recepție, la scurgerea apelor pluviale și la respectarea regimului de înălțime din autorizație.",
+    "example": "Topograful a materializat cota zero a viitoarei case pe un reper metalic, la 45 cm deasupra terenului natural.",
+    "related": [
+      "cota-de-nivel",
+      "trasarea-constructiilor",
+      "proces-verbal-de-trasare",
+      "reper-de-nivelment",
+      "regim-de-inaltime"
+    ],
+    "ctaService": "topografie-constructii",
+    "category": "measurement"
+  },
+  {
     "term": "CPXML",
     "slug": "cpxml",
     "gloss": "Formatul electronic oficial în care se predau documentațiile cadastrale în sistemul e-Terra.",
@@ -979,8 +1314,8 @@
     "related": [
       "e-terra",
       "documentatie-cadastrala",
-      "persoana-autorizata",
-      "receptie-cadastrala"
+      "persoana-autorizata-ancpi",
+      "receptie-tehnica-ocpi"
     ],
     "ctaService": "cadastru-si-intabulare",
     "category": "legal"
@@ -1050,6 +1385,26 @@
     "category": "urbanism"
   },
   {
+    "term": "Declarație de notorietate",
+    "slug": "declaratie-de-notorietate",
+    "gloss": "Act notarial care atestă un fapt cunoscut public, de pildă identitatea de nume a unei persoane.",
+    "definition": "Declarația de notorietate rezolvă o problemă banală, dar blocantă: actele vechi nu se potrivesc între ele. Bunicul apare în titlul de proprietate drept „Ioan\", în certificatul de deces drept „Ion\", iar într-un contract din 1965 cu numele scris altfel; sau imobilul din actul vechi este descris prin vecini care între timp au murit, iar strada și-a schimbat numele și numerotarea. Printr-o asemenea declarație, dată în formă autentică la notar, de regulă susținută de martori și de documente ajutătoare, se atestă că persoana din acte este una și aceeași ori că imobilul descris în vechiul act este cel stăpânit astăzi. Documentul se folosește frecvent la dezbaterea succesiunilor, la prima înscriere în cartea funciară și în dosarele de uzucapiune, alături de adeverințele de rol fiscal. Nu este un act de proprietate și nu creează drepturi — doar face legătura credibilă între înscrisurile existente, ca lanțul de acte să poată fi acceptat.",
+    "example": "Pentru că bunicul apărea în titlu drept „Ioan\", iar în certificatul de deces „Ion\", notarul a întocmit o declarație de notorietate privind identitatea de nume.",
+    "related": [
+      "act-autentic",
+      "autentificare-notariala",
+      "prima-inregistrare",
+      "mostenire-succesiune",
+      "adresa-administrativa"
+    ],
+    "ctaService": "cadastru-si-intabulare",
+    "category": "legal",
+    "sources": [
+      "Legea 36/1995 a notarilor publici și a activității notariale, republicată — autentificarea declarațiilor și procedura succesorală notarială",
+      "Ordinul ANCPI 700/2014 — actele acceptate la prima înscriere pentru identificarea imobilului și a titularului (verificat 2026-07-29)"
+    ]
+  },
+  {
     "term": "Deschidere la drum",
     "slug": "deschidere-la-drum",
     "gloss": "Lungimea limitei prin care un imobil se învecinează direct cu drumul public.",
@@ -1065,6 +1420,26 @@
     ],
     "ctaService": "topografie-constructii",
     "category": "urbanism"
+  },
+  {
+    "term": "Devălmășie",
+    "slug": "devalmasie",
+    "gloss": "Proprietate comună fără cote-părți determinate, tipică soților căsătoriți.",
+    "definition": "Devălmășia este forma de proprietate comună în care titularii stăpânesc bunul împreună, fără ca vreunul să aibă o cotă-parte stabilită: nu există „jumătatea mea și jumătatea ta\", ci un întreg al amândurora. Cazul clasic este comunitatea legală a soților — imobilele cumpărate în timpul căsătoriei, sub regimul comunității, sunt bunuri devălmașe, iar în cartea funciară soții se înscriu împreună, fără cote. Consecința practică: niciunul nu poate vinde sau ipoteca singur imobilul, oricât de „egală\" ar părea partea lui, iar actele semnate de un singur soț pentru bunul comun sunt lovite de probleme serioase. Cotele apar abia la lichidarea comunității — prin divorț, prin convenție matrimonială sau la decesul unui soț —, când devălmășia se transformă în coproprietate pe cote-părți și, dacă e nevoie, se face partajul. Forme istorice de devălmășie supraviețuiesc și în composesoratele și obștile din Transilvania, la păduri și pășuni.",
+    "example": "Apartamentul cumpărat în timpul căsătoriei este înscris în cartea funciară în devălmășie, fără cote-părți.",
+    "related": [
+      "coproprietate",
+      "cota-parte",
+      "partaj",
+      "iesire-din-indiviziune",
+      "composesorat"
+    ],
+    "ctaService": "cadastru-si-intabulare",
+    "category": "legal",
+    "sources": [
+      "Codul civil (Legea 287/2009), art. 667 — proprietatea comună în devălmășie, fără cote determinate: https://lege5.ro/gratuit/gi2tsmbqhe/art-667-proprietatea-comuna-in-devalmasie-codul-civil",
+      "Codul civil, art. 339 — bunurile dobândite în timpul regimului comunității legale sunt bunuri comune în devălmășie: https://lege5.ro/gratuit/gi2tsmbqhe/art-339-bunurile-comune-codul-civil"
+    ]
   },
   {
     "term": "Dezbatere succesorală",
@@ -1147,6 +1522,27 @@
     ],
     "ctaService": "cadastru-si-intabulare",
     "category": "legal"
+  },
+  {
+    "term": "Drept de folosință",
+    "slug": "drept-de-folosinta",
+    "gloss": "Dreptul de a utiliza un bun și de a-i culege beneficiile, fără a fi proprietarul lui.",
+    "definition": "A folosi un imobil și a fi proprietarul lui sunt lucruri diferite, iar dreptul civil cunoaște o întreagă familie de drepturi de folosință. Unele sunt drepturi reale, opozabile oricui dacă sunt înscrise în cartea funciară: uzufructul (folosești și culegi veniturile), uzul și abitația (folosință limitată la nevoile tale și ale familiei), superficia (construiești pe terenul altuia). Altele izvorăsc din contracte și leagă doar părțile: închirierea, arenda, comodatul — împrumutul de folosință gratuit, frecvent între părinți și copii. Există și folosința primită de la stat sau primărie, cum sunt terenurile atribuite în folosință pentru case în anii regimului trecut, situații care se lămuresc astăzi prin constituirea dreptului de proprietate. Regula de aur la orice tranzacție: cine cumpără un imobil îl cumpără cu drepturile de folosință notate în cartea funciară cu tot, așa că partea a III-a a extrasului se citește înainte de a negocia prețul.",
+    "example": "Prin contractul de comodat, fiul are drept de folosință asupra terenului părinților, dar nu îl poate vinde sau ipoteca.",
+    "related": [
+      "uz",
+      "uzufruct",
+      "abitatie",
+      "comodat",
+      "concesiune",
+      "superficie"
+    ],
+    "ctaService": "cadastru-si-intabulare",
+    "category": "legal",
+    "sources": [
+      "Codul civil (Legea 287/2009) — uzufruct (art. 703 și urm.), uz și abitație (art. 749-752), superficie (art. 693 și urm.)",
+      "Codul civil — locațiunea (art. 1777 și urm.), arendarea (art. 1836 și urm.), comodatul (art. 2146 și urm.); art. 902 — drepturi supuse notării în cartea funciară (verificat 2026-07-29)"
+    ]
   },
   {
     "term": "Drept de preempțiune",
@@ -1420,6 +1816,27 @@
     ],
     "ctaService": "cadastru-si-intabulare",
     "category": "legal"
+  },
+  {
+    "term": "Extindere de construcție",
+    "slug": "extindere-constructie",
+    "gloss": "Lucrare prin care o clădire existentă câștigă suprafață sau volum; cere autorizație și actualizarea cărții funciare.",
+    "definition": "O extindere înseamnă că la o clădire deja existentă se adaugă suprafață sau volum: o cameră în plus, o verandă închisă, un garaj lipit de casă, un etaj ridicat peste parter. Din punct de vedere legal, lucrarea este tratată ca o construcție nouă, deci ai nevoie de certificat de urbanism, proiect tehnic, avizele cerute prin certificat și autorizație de construire, iar amplasarea trebuie să respecte retragerile față de vecini și indicatorii POT și CUT din documentațiile de urbanism. După terminarea lucrărilor urmează recepția și declararea la primărie, apoi pasul uitat cel mai des: punerea la zi a cărții funciare. Un topograf autorizat întocmește documentația de actualizare, cu releveul noii configurații, suprafața construită la sol și cea desfășurată, iar OCPI corectează descrierea imobilului. Dacă sari peste acest pas, cartea funciară va arăta o casă mai mică decât cea reală, iar la vânzare, la un credit ipotecar sau la o succesiune vei fi oprit până când pui actele în ordine.",
+    "example": "Familia a lipit de casă o bucătărie de 18 mp; după recepție am refăcut releveul, iar suprafața construită înscrisă în cartea funciară a crescut de la 92 la 110 mp.",
+    "related": [
+      "autorizatie-de-construire",
+      "actualizare-date-imobil",
+      "suprafata-construita-desfasurata",
+      "inscrierea-constructiei",
+      "certificat-de-urbanism",
+      "mansardare"
+    ],
+    "ctaService": "actualizare-carte-funciara",
+    "category": "urbanism",
+    "sources": [
+      "Legea 50/1991 privind autorizarea executării lucrărilor de construcții, republicată — https://isc.gov.ro/files/2020/Legislatie/Lege%2050%201991(r2).pdf",
+      "Ordinul ANCPI 700/2014, documentații de actualizare a informațiilor tehnice"
+    ]
   },
   {
     "term": "Extras CF online",
@@ -1795,6 +2212,27 @@
     "category": "legal"
   },
   {
+    "term": "Hotărnicie",
+    "slug": "hotarnicie",
+    "gloss": "Numele vechi al operațiunii de stabilire și marcare a hotarului dintre două proprietăți vecine.",
+    "definition": "Hotărnicia este denumirea veche a lucrării prin care se stabilea și se marca pe teren linia care desparte două proprietăți. Până la jumătatea secolului trecut, ea era făcută de inginerii hotarnici și se materializa într-un plan de hotărnicie, cu descrierea semnelor de hotar, a vecinilor și a suprafețelor; în Transilvania, multe dintre aceste planuri au stat la baza cărților funciare vechi. Astăzi cuvântul se mai aude de la oamenii în vârstă și apare în actele de arhivă, iar echivalentele moderne sunt grănițuirea, atunci când vecinii ajung în instanță, și trasarea limitelor, atunci când proprietarul vrea doar să vadă pe unde trece hotarul. Planurile vechi rămân o probă valoroasă și pot fi căutate în arhiva OCPI, la primărie sau în arhivele naționale. Noi le scanăm, le transpunem în sistemul de coordonate actual și le comparăm cu situația din teren; de multe ori așa se explică de ce o fâșie de teren a ajuns, în timp, dincolo de gardul vecinului.",
+    "example": "Pentru un teren din Aiud am scos din arhivă planul de hotărnicie din 1936; suprapus peste măsurătoarea actuală, a arătat o diferență de 1,4 m pe latura de nord.",
+    "related": [
+      "granituire",
+      "hotar",
+      "limita-de-proprietate",
+      "punct-de-hotar",
+      "proces-verbal-de-vecinatate",
+      "imprejmuire"
+    ],
+    "ctaService": "expertize-documentatii",
+    "category": "legal",
+    "sources": [
+      "Codul civil (Legea 287/2009), art. 560 — obligația de grănițuire între proprietarii vecini",
+      "Ordinul ANCPI 700/2014 — utilizarea planurilor și documentațiilor din arhiva OCPI la întocmirea documentațiilor cadastrale (verificat 2026-07-29)"
+    ]
+  },
+  {
     "term": "Ieșire din indiviziune",
     "slug": "iesire-din-indiviziune",
     "gloss": "Împărțirea efectivă a bunului comun între coproprietari, prin bună învoială sau prin instanță.",
@@ -1821,10 +2259,31 @@
       "carte-funciara",
       "bun-imobil",
       "parcela",
-      "unitate-individuala-ui"
+      "unitate-individuala"
     ],
     "ctaService": "cadastru-si-intabulare",
     "category": "legal"
+  },
+  {
+    "term": "Impozit pe teren",
+    "slug": "impozit-pe-teren",
+    "gloss": "Taxa anuală datorată primăriei de proprietarul terenului, calculată după rang, zonă și categorie de folosință.",
+    "definition": "Impozitul pe teren este taxa anuală pe care o datorează bugetului local cel care figurează ca proprietar în evidența fiscală a primăriei. Suma nu se raportează la prețul de piață, ci la criterii administrative: rangul localității, zona din interiorul ei, categoria de folosință înscrisă în acte și faptul că terenul se află în intravilan sau în extravilan. Valorile concrete se aprobă anual prin hotărâre de consiliu local, deci diferă de la o comună la alta și se schimbă de la un an la altul; în ultimii ani regulile din Codul fiscal au fost modificate des, așa că suma exactă se cere la primăria unde este înregistrat terenul. Plata se face de regulă în două rate, cu termene la 31 martie și 30 septembrie, iar achitarea integrală până la primul termen aduce o bonificație. Reține și obligația de declarare: după intabulare, dezmembrare, alipire sau schimbarea categoriei de folosință trebuie să depui declarație la primărie, altfel rolul fiscal rămâne greșit și certificatul fiscal cerut de notar nu poate fi eliberat.",
+    "example": "După dezmembrarea unui teren de 60 de ari în trei loturi, proprietarul a depus declarațiile la primărie în termen de 30 de zile și a primit trei roluri fiscale distincte.",
+    "related": [
+      "rol-fiscal",
+      "certificat-fiscal",
+      "categorie-de-folosinta",
+      "intravilan",
+      "extravilan",
+      "registrul-agricol"
+    ],
+    "ctaService": "cadastru-si-intabulare",
+    "category": "legal",
+    "sources": [
+      "Codul fiscal (Legea 227/2015), art. 463-467 — impozitul pe teren, actualizat 2026: https://lege5.ro/Gratuit/g43donzvgi/impozitul-pe-teren-si-taxa-pe-teren-codul-fiscal",
+      "Modificări taxe locale 2026 (majorări diferențiate, proiect contestat la CCR) — https://startupcafe.ro/majorarea-impozitelor-pe-locuinte-si-autoturisme-din-2026-ce-trebuie-sa-stie-proprietarii-avocat-91007"
+    ]
   },
   {
     "term": "Împrejmuire",
@@ -2037,6 +2496,27 @@
     ],
     "ctaService": "cadastru-si-intabulare",
     "category": "legal"
+  },
+  {
+    "term": "Istoric de rol fiscal",
+    "slug": "istoric-de-rol-fiscal",
+    "gloss": "Adeverință de la primărie care arată cine a figurat cu imobilul în evidențele fiscale, pe ani.",
+    "definition": "Istoricul de rol fiscal este adeverința eliberată de compartimentul de impozite și taxe al primăriei, din care rezultă cine a figurat de-a lungul anilor cu un teren sau cu o casă în evidențele fiscale ale localității, cu ce suprafețe și în ce perioade. Împreună cu extrasul din registrul agricol, este documentul care leagă o stăpânire veche de persoana care folosește astăzi imobilul. Se cere cel mai des la prima înscriere a imobilelor fără acte de proprietate clare, în dosarele de uzucapiune, în succesiunile deschise cu mare întârziere și atunci când numele din titlul de proprietate nu mai corespunde cu al posesorului actual. Cererea se depune la primărie, cu actul de identitate și, dacă e cazul, cu actele de moștenire; se achită o taxă modică, iar adeverința se eliberează de obicei în câteva zile. Un avertisment necesar: documentul dovedește înregistrarea și plata impozitului, nu dreptul de proprietate. El susține dosarul, dar nu ține locul unui titlu.",
+    "example": "Pentru un teren stăpânit din 1978, istoricul de rol fiscal a arătat plăți neîntrerupte pe numele bunicului, ceea ce a întărit dosarul de uzucapiune depus în instanță.",
+    "related": [
+      "rol-fiscal",
+      "adeverinta-de-rol-agricol",
+      "registrul-agricol",
+      "certificat-fiscal",
+      "prima-inregistrare",
+      "uzucapiune"
+    ],
+    "ctaService": "cadastru-si-intabulare",
+    "category": "legal",
+    "sources": [
+      "Codul fiscal (Legea 227/2015) — evidența fiscală a clădirilor și terenurilor la nivelul organului fiscal local",
+      "Codul de procedură fiscală (Legea 207/2015), art. 69 — eliberarea certificatelor și adeverințelor pe baza evidențelor fiscale; documentul atestă înregistrarea fiscală, nu dreptul de proprietate (verificat 2026-07-29)"
+    ]
   },
   {
     "term": "Istoricul cărții funciare",
