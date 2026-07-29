@@ -22,12 +22,12 @@ Render-gate demotions: 92
   - cadastru-si-intabulare/mures/cucerdea: unique words 106 < 120
   - cadastru-si-intabulare/mures/taureni: unique words 117 < 120
   - cadastru-si-intabulare/sibiu/sura-mare: shingle overlap 70.0% > 70%
-  - cadastru-si-intabulare/sibiu/sura-mica: shingle overlap 70.2% > 70%
+  - cadastru-si-intabulare/sibiu/sura-mica: shingle overlap 70.3% > 70%
   - cadastru-si-intabulare/sibiu/vurpar: unique words 119 < 120
   - intabulare-teren/alba/ciuruleasa: shingle overlap 70.9% > 70%
   - intabulare-teren/alba/craciunelu-de-jos: unique words 119 < 120
   - intabulare-teren/cluj/viisoara: unique words 75 < 120
-  - intabulare-teren/mures/bogata: shingle overlap 70.4% > 70%
+  - intabulare-teren/mures/bogata: shingle overlap 70.6% > 70%
   - intabulare-teren/mures/mihesu-de-campie: unique words 115 < 120
   - intabulare-teren/mures/sanger: shingle overlap 72.1% > 70%
   - intabulare-casa-constructie/alba/craciunelu-de-jos: unique words 111 < 120

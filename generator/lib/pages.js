@@ -223,6 +223,14 @@ function buildLocalContext(ctx, service, loc, county, seed) {
   const countyName = county ? county.name : loc.county;
   const km = distanceKm(ctx.site, loc);
   const typeLabel = loc.type === 'municipiu' ? 'municipiul' : loc.type === 'oras' ? 'orașul' : 'comuna';
+  // Romanian takes the genitive here — "centrul de + tip" is wrong in every variant.
+  // The old typeLabel.replace(/ul$/, '') also produced the non-word "municipi" and
+  // left "comuna" without its diacritic.
+  const centrulGenitiv =
+    loc.type === 'municipiu' ? 'centrul municipiului'
+      : loc.type === 'oras' ? 'centrul orașului'
+        : loc.type === 'comuna' ? 'centrul comunei'
+          : 'centrul localității';
   const s = [];
 
   const distFrames = [
@@ -248,7 +256,7 @@ function buildLocalContext(ctx, service, loc, county, seed) {
   const vill = (loc.villages || []).filter(Boolean);
   if (vill.length > 1) {
     const villFrames = [
-      () => `Pe lângă centrul de ${typeLabel.replace(/ul$/, '')}, acoperim toate cele ${vill.length} sate aparținătoare — de la ${vill[0]} până la ${vill[vill.length - 1]}.`,
+      () => `Pe lângă ${centrulGenitiv}, acoperim toate cele ${vill.length} sate aparținătoare — de la ${vill[0]} până la ${vill[vill.length - 1]}.`,
       () => `Lucrările acoperă întreaga unitate administrativ-teritorială: ${vill.slice(0, Math.min(4, vill.length)).join(', ')}${vill.length > 4 ? ' și celelalte sate aparținătoare' : ''}.`,
       () => `Am executat măsurători atât în ${loc.name}, cât și în satele componente precum ${vill[Math.floor(vill.length / 2)]} sau ${vill[vill.length - 1]}.`,
       () => `Indiferent că imobilul este în ${loc.name} sau într-un sat aparținător precum ${vill[0]}, procedura și actele sunt aceleași.`,
