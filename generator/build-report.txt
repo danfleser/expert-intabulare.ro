@@ -1,34 +1,20 @@
 BUILD REPORT — expert-intabulare.ro generator (buildDate 2026-07-29)
 
-Pages emitted: 2081  (+ 10 sitemap/robots files)
+Pages emitted: 2095  (+ 10 sitemap/robots files)
   agricol: 48
   core: 5
   dictionar: 305
   en: 41
   ghid: 53
   serviciiAlba: 636
-  serviciiVecini: 878
+  serviciiVecini: 892
   verticale: 115
 
 Data shards missing/unreadable (tolerated — build what exists): 0
 
 Data-gate demotions (matrix row on county hub instead of page): 0
 
-Render-gate demotions: 14
-  - cadastru-si-intabulare/sibiu/sura-mare: shingle overlap 70.0% > 70%
-  - cadastru-si-intabulare/sibiu/sura-mica: shingle overlap 70.3% > 70%
-  - cadastru-si-intabulare/sibiu/vurpar: unique words 119 < 120
-  - intabulare-casa-constructie/sibiu/apoldu-de-jos: unique words 117 < 120
-  - intabulare-casa-constructie/sibiu/loamnes: unique words 118 < 120
-  - intabulare-casa-constructie/sibiu/sura-mica: unique words 115 < 120
-  - intabulare-casa-constructie/sibiu/vurpar: unique words 114 < 120
-  - dezmembrare-alipire/sibiu/alma: unique words 115 < 120
-  - dezmembrare-alipire/sibiu/bazna: unique words 119 < 120
-  - dezmembrare-alipire/sibiu/darlos: unique words 118 < 120
-  - plan-topografic/sibiu/ocna-sibiului: unique words 116 < 120
-  - dezmembrare-alipire/sibiu/laslea: unique words 119 < 120
-  - plan-topografic/sibiu/apoldu-de-jos: unique words 119 < 120
-  - dezmembrare-alipire/sibiu/hoghilag: shingle overlap 70.2% > 70%
+Render-gate demotions: 0
 
 Errors (build fails): 0
 
