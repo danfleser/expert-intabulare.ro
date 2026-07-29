@@ -51,3 +51,12 @@ Server hosting + Resend email, form backends, GSC ongoing monitoring/pruning loo
 - [x] site.css 25KB raw / 7.1KB gz for all 1,357 generated pages; SVG wordmark; GPS-coords footer
 - [x] Pre-existing [object Object] bugs fixed (zone hubs OCPI/BCPI lists, ghid step lists)
 - [x] B4 gate green (verify, bytes, 27 screenshots, overflow/contrast/z-order checks) + live checks passed
+
+## Growth to 2,000+ pages & link audit (2026-07-29, fourth delivery — g-plan in scratchpad moe-2k)
+- [x] Link audit of every displayed link: 170,558 refs across 2,006 pages, externals curl-verified — 0 broken, 0 degraded. Permanent tool `generator/audit-links.js`; verify.js now covers homepage/legal links + fragment targets.
+- [x] Fixed: blank WhatsApp sprite icon on the two legal pages (the one real broken link found).
+- [x] 2,003 generated pages live (was 1,357): 222 locality records (+59 new UATs in CJ/MS/SB/HD with researched BCPI arondare), 14 towns upgraded to the full 8-service matrix, 2 services widened to neighbour counties.
+- [x] New /teren-agricol/ vertical (48 pages: APIA, arendă, comasare, Legea 17/2014). Guides 20→52, dictionary 264→304, EN 25→41.
+- [x] Anti-thin-content gate held: 92 pages demoted rather than shipped thin.
+- [x] Design fixes: desktop nav no longer wraps to two lines with the 9th item; data-strip spacing balanced (CEO-reported); related-link labels no longer show the raw meta title.
+- [x] Dictionary-index JSON-LD de-duplicated (−36KB) — hub size gate respected instead of weakened.
