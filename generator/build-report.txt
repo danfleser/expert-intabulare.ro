@@ -1,20 +1,20 @@
 BUILD REPORT — expert-intabulare.ro generator (buildDate 2026-07-29)
 
-Pages emitted: 2226  (+ 10 sitemap/robots files)
+Pages emitted: 2319  (+ 10 sitemap/robots files)
   agricol: 48
   core: 5
   dictionar: 305
   en: 41
   ghid: 53
-  serviciiAlba: 723
-  serviciiVecini: 936
+  serviciiAlba: 799
+  serviciiVecini: 953
   verticale: 115
 
 Data shards missing/unreadable (tolerated — build what exists): 0
 
 Data-gate demotions (matrix row on county hub instead of page): 0
 
-Render-gate demotions: 9
+Render-gate demotions: 12
   - topografie-constructii/alba/lunca-muresului: unique words 118 < 120
   - topografie-constructii/alba/noslac: unique words 115 < 120
   - topografie-constructii/alba/ohaba: unique words 115 < 120
@@ -23,6 +23,9 @@ Render-gate demotions: 9
   - topografie-constructii/mures/tarnaveni: unique words 119 < 120
   - topografie-constructii/sibiu/medias: unique words 116 < 120
   - topografie-constructii/sibiu/sibiu: unique words 115 < 120
+  - servicii-ocpi/alba/cenade: unique words 116 < 120
+  - servicii-ocpi/alba/ohaba: unique words 115 < 120
+  - servicii-ocpi/cluj/campia-turzii: unique words 112 < 120
   - topografie-constructii/cluj/turda: unique words 114 < 120
 
 Errors (build fails): 0

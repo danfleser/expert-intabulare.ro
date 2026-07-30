@@ -2606,7 +2606,7 @@
     "slug": "servicii-ocpi",
     "shortName": "servicii OCPI",
     "tier2Available": false,
-    "hubOnly": true,
+    "hubOnly": false,
     "metaDescription": "Servicii OCPI: extras de carte funciară, copii planuri, verificări imobile, depuneri și urmărire dosare. Rapid, inclusiv de la distanță.",
     "hubIntro": "Nu orice problemă de carte funciară cere măsurători. Pentru multe aveți nevoie doar de cineva care cunoaște ghișeele și procedurile: obținerea extraselor de carte funciară, copii după planuri și documentații vechi, verificarea situației unui imobil înainte de cumpărare, depunerea cererilor și urmărirea dosarelor la OCPI. Le rezolvăm rapid, pentru clienți din țară sau din străinătate, în mare parte fără deplasarea dumneavoastră.",
     "process": [

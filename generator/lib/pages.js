@@ -1019,12 +1019,27 @@ function buildCountyHub(ctx, county, emitted, demotedNotes) {
   const rows = locs.map((l) => {
     const km = distanceKm(site, l);
     const kmTxt = km != null ? ` — aprox. ${km} km de Aiud` : '';
+    // Inline, comma-joined, and the anchor carries the SERVICE only — the locality
+    // is already the <summary> of the panel this list sits inside, so repeating it
+    // in every anchor was pure duplication.
+    //
+    // This is a size fix with a hard number behind it. The matrix is
+    // localities × emitted services, so promoting the four hub-only services took
+    // Alba from 8 to 12 services over 78 localities = 936 links. At the old shape
+    // (`<li class="mb-1">` plus "Serviciu în Localitate") that page measures
+    // 145,102 B against MAX_HUB_BYTES = 122,880 — a build failure, not a warning.
+    // Measured alternatives: keeping the full anchor text and only dropping the
+    // <li> wrapper still lands at 133,661 B, and keeping it inline with full
+    // anchors at 127,109 B. Both over. This shape measures 114,341 B.
+    // The full "Serviciu în Localitate" anchor is not lost — it is what every
+    // leaf's own service×county hub A–Z index uses, which is that leaf's
+    // breadcrumb parent since R3 and its strongest internal link.
     const links = ctx.services
       .filter((s) => emitted.has(`${s.slug}/${l.countySlug}/${l.slug}`))
-      .map((s) => `<li class="mb-1"><a href="/servicii/${s.slug}/${l.countySlug}/${l.slug}.html">${escHtml(s.name)} în ${escHtml(l.name)}</a></li>`);
+      .map((s) => `<a href="/servicii/${s.slug}/${l.countySlug}/${l.slug}.html">${escHtml(s.name)}</a>`);
     let body;
     if (links.length) {
-      body = `<ul class="list-unstyled fz-14 mb-0">${links.join('')}</ul>`;
+      body = `<p class="fz-14 mb-0">${links.join(', ')}.</p>`;
     } else {
       const note = demotedNotes.get(`${l.countySlug}/${l.slug}`);
       body =
@@ -1042,9 +1057,21 @@ function buildCountyHub(ctx, county, emitted, demotedNotes) {
     .filter((c) => c.slug !== county.slug && ctx.countiesBySlug.has(c.slug))
     .map((c) => ({ href: `/zone/${c.slug}/`, label: `Județul ${c.label}` }));
 
+  // Before R1 there was no service×county node to link to, so this page named each
+  // service exactly once, in the site nav (PLAN-rank-first.md §topografie-constructii
+  // gap 5). Now every service that has a county-level surface here gets a real
+  // anchor from the county's top-level page. Filtered on `serviceCountyHubs` so a
+  // service with no inventory in a neighbouring county is never linked.
+  const serviceHubs = ctx.serviceCountyHubs
+    ? ctx.services
+        .filter((s) => ctx.serviceCountyHubs.has(`${s.slug}/${county.slug}`))
+        .map((s) => ({ href: `/servicii/${s.slug}/${county.slug}/`, label: `${s.name} în județul ${county.name}` }))
+    : [];
+  const serviceHubsBlock = chrome.linkCard(`Serviciile noastre în județul ${county.name}`, serviceHubs);
+
   const waTopic = `servicii de cadastru și topografie în județul ${county.name}`;
   const content = renderTemplate(tpl('page-county-hub.html'), {
-    countyIntro, ocpiBlock, feeNoteBlock,
+    countyIntro, ocpiBlock, feeNoteBlock, serviceHubsBlock,
     sidebar: chrome.contactCard(site, { namespace: 'zone', topic: waTopic }),
     otherCountiesBlock: chrome.linkCard('Alte județe', others),
     matrixHeading: `Localități din județul ${county.name}`,
