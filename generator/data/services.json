@@ -1534,11 +1534,11 @@
       }
     ],
     "process": [
-      "Stabilim scopul planului (autorizare, proiectare, PUZ/PUD) și zona de măsurat.",
-      "Facem ridicarea topografică la fața locului.",
-      "Întocmim planul în format digital (dwg/pdf) și analogic, cu inventar de coordonate.",
-      "Obținem avizul/viza OCPI atunci când este cerută prin certificatul de urbanism.",
-      "Predăm planul proiectantului și primăriei, în formatele cerute."
+      "Citim certificatul de urbanism și stabilim ce piesă vi se cere: plan de situație pe suport topografic, plan topografic vizat OCPI pentru autorizația de construire (P.A.C.), plan pentru PUZ sau PUD ori plan pentru scoaterea din circuitul agricol.",
+      "Facem ridicarea topografică la fața locului: limitele imobilului, cotele de nivel, construcțiile și împrejmuirile existente, rețelele vizibile și drumul de acces.",
+      "Întocmim planul în format editabil (dwg/dxf) și pdf, cu inventar de coordonate în Stereo 70, plus curbe de nivel și profile topografice acolo unde relieful sau proiectul le cer.",
+      "Depunem planul pentru recepție la oficiul de cadastru și obținem viza OCPI, atunci când certificatul de urbanism o cere.",
+      "Predăm planul proiectantului și primăriei, în exemplarele și formatele cerute la dosar."
     ],
     "documents": [
       "Extras de carte funciară (dacă imobilul este intabulat)",
