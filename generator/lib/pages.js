@@ -512,6 +512,67 @@ function serviceResources(service) {
     .map((r) => ({ href: r.href, label: r.label }));
 }
 
+// ---------- head layer (title / h1 / metaDescription) ----------
+//
+// <title>, <h1> and the meta description all sit ABOVE <!--content:start--> in
+// templates/layout.html (h1 on :29, the marker on :36), so nothing here is seen
+// by the unique-words or overlap gates. Retargeting the head layer is the one
+// free lever in the whole plan (PLAN-rank-first.md §2.4) — which is why it gets
+// real data hooks instead of hard-coded strings.
+//
+// Two optional fields on a service, both defaulting to today's exact literals so
+// that a build with neither declared is byte-identical:
+//
+//   "titleName":  noun phrase used INSTEAD of `service.name` when composing the
+//                 title, h1 and meta description of the national hub, the
+//                 service × county hub and every leaf. For naming the DOCUMENT a
+//                 searcher typed rather than our internal service label —
+//                 `servicii-ocpi` is titled "Servicii OCPI", names no document
+//                 and no place, and "extras" appears in zero of its headings on
+//                 a service whose three captured queries are all
+//                 `extras carte funciara …`.
+//
+//   "credential": the credential phrase appended to those titles and carried in
+//                 the meta description. Defaults to "Topograf autorizat ANCPI"
+//                 (leaves use the shorter "Topograf autorizat" to protect the
+//                 title budget). `certificat-energetic` advertises the surveyor
+//                 credential on an energy-certificate query where 11 of 11
+//                 cohort providers present as *auditor energetic*.
+//
+// `service.h1` (national hub) and `service.metaDescription` were already
+// honoured and are unchanged. `service.title` overrides the national hub's
+// composed title outright, for the case where composition is not enough.
+//
+// Deliberately NOT routed through these: the JSON-LD `serviceName`, the WhatsApp
+// prefill topic and the breadcrumb labels. Those are structured identity, not
+// SERP copy, and they should keep naming the canonical service.
+//
+// Cost warning for whoever sets `titleName`: it lands on every leaf of the
+// service, up to 222 titles. `fitTitle` drops trailing segments that do not fit
+// the budget, so a long phrase silently costs the " | Fleser Aurel Expert"
+// suffix. Check a long-name leaf (e.g. …/mures/tarnaveni.html) after setting it.
+
+const DEFAULT_CREDENTIAL = 'Topograf autorizat ANCPI';
+const DEFAULT_CREDENTIAL_SHORT = 'Topograf autorizat';
+
+/** Noun phrase for the head layer. Falls back to the canonical service name. */
+function titleNameOf(service) {
+  const t = service && typeof service.titleName === 'string' ? service.titleName.trim() : '';
+  return t || service.name;
+}
+
+/**
+ * Credential phrase for the head layer.
+ * `short` picks the leaf-title variant, which omits "ANCPI" to save budget —
+ * but only for the default. An authored `credential` is used verbatim in both
+ * positions, because we cannot guess how to abbreviate someone else's title.
+ */
+function credentialOf(service, { short = false } = {}) {
+  const c = service && typeof service.credential === 'string' ? service.credential.trim() : '';
+  if (c) return c;
+  return short ? DEFAULT_CREDENTIAL_SHORT : DEFAULT_CREDENTIAL;
+}
+
 function buildServiceLocality(ctx, service, loc, emitted) {
   const { site } = ctx;
   const county = ctx.countiesBySlug.get(loc.countySlug) || null;
@@ -714,9 +775,10 @@ function buildServiceLocality(ctx, service, loc, emitted) {
     resourcesBlock: chrome.linkCard('Ghiduri și termeni utili', serviceResources(service)),
   }, ctx.warnings, pagePath);
 
+  const headName = titleNameOf(service);
   const title = fitTitle([
-    `${service.name} în ${loc.name}, jud. ${countyName}`,
-    ' — Topograf autorizat',
+    `${headName} în ${loc.name}, jud. ${countyName}`,
+    ` — ${credentialOf(service, { short: true })}`,
     ' | Fleser Aurel Expert',
   ]);
   // Meta description tail. The distance from Aiud is a selling point when the
@@ -730,7 +792,7 @@ function buildServiceLocality(ctx, service, loc, emitted) {
   // this touches no gate. Home-office case ("birou chiar în X") is unchanged.
   const META_DISTANCE_MAX_KM = 25;
   const META_MAX_CHARS = 155;
-  const metaHead = `${service.name} în ${loc.name}: acte, pași, prețuri orientative. Topograf autorizat ANCPI`;
+  const metaHead = `${headName} în ${loc.name}: acte, pași, prețuri orientative. ${credentialOf(service)}`;
   const metaPhone = `. Tel. ${site.nap.phoneDisplay}.`;
   const metaOffice = dep.atBcpi ? ocpiName(loc) : null;
   // Candidates, most informative first; the first one that fits the snippet
@@ -762,7 +824,7 @@ function buildServiceLocality(ctx, service, loc, emitted) {
     path: pagePath,
     section: loc.countySlug === 'alba' ? 'serviciiAlba' : 'serviciiVecini',
     title, metaDescription,
-    h1: `${service.name} în ${loc.name} (${countyName})`,
+    h1: `${headName} în ${loc.name} (${countyName})`,
     breadcrumbItems: [
       { name: 'Acasă', url: '/' },
       { name: service.name, url: `/servicii/${service.slug}/` },
@@ -882,7 +944,7 @@ function buildServiceHub(ctx, service, emitted) {
   }, ctx.warnings, pagePath);
 
   const metaDescription = service.metaDescription ||
-    `${service.name}: acte necesare, pași, prețuri orientative. Topograf autorizat ANCPI în județul Alba și împrejurimi. Tel. ${site.nap.phoneDisplay}.`;
+    `${titleNameOf(service)}: acte necesare, pași, prețuri orientative. ${credentialOf(service)} în județul Alba și împrejurimi. Tel. ${site.nap.phoneDisplay}.`;
   const jsonldExtra = [
     schema.serviceSchema(site, {
       serviceName: service.name,
@@ -897,9 +959,9 @@ function buildServiceHub(ctx, service, emitted) {
   return assemblePage(ctx, {
     path: pagePath,
     section: 'serviciiAlba',
-    title: fitTitle([`${service.name} — Topograf autorizat ANCPI`, ' | Fleser Aurel Expert']),
+    title: fitTitle([service.title || `${titleNameOf(service)} — ${credentialOf(service)}`, ' | Fleser Aurel Expert']),
     metaDescription,
-    h1: service.h1 || service.name,
+    h1: service.h1 || titleNameOf(service),
     breadcrumbItems: [
       { name: 'Acasă', url: '/' },
       { name: service.name, url: urlPath(pagePath) },
@@ -1117,13 +1179,14 @@ function buildServiceCountyHub(ctx, service, county, emitted) {
   }, ctx.warnings, pagePath);
 
   const META_MAX_CHARS = 155;
-  const metaHead = `${service.name} în județul ${county.name}`;
+  const metaHead = `${titleNameOf(service)} în județul ${county.name}`;
   const metaPhone = `. Tel. ${site.nap.phoneDisplay}.`;
+  const cred = credentialOf(service);
   const metaMids = dep.atBcpi
-    ? [': localități, birouri BCPI, acte, prețuri orientative. Topograf autorizat ANCPI',
-       ': localități, acte, prețuri orientative. Topograf autorizat ANCPI']
-    : [': localități acoperite, acte necesare, prețuri orientative. Topograf autorizat ANCPI',
-       ': localități, acte, prețuri orientative. Topograf autorizat ANCPI'];
+    ? [`: localități, birouri BCPI, acte, prețuri orientative. ${cred}`,
+       `: localități, acte, prețuri orientative. ${cred}`]
+    : [`: localități acoperite, acte necesare, prețuri orientative. ${cred}`,
+       `: localități, acte, prețuri orientative. ${cred}`];
   const metaDescription = metaHead +
     (metaMids.find((m) => [...(metaHead + m + metaPhone)].length <= META_MAX_CHARS) || '') +
     metaPhone;
@@ -1142,12 +1205,12 @@ function buildServiceCountyHub(ctx, service, county, emitted) {
     path: pagePath,
     section: county.slug === 'alba' ? 'serviciiAlba' : 'serviciiVecini',
     title: fitTitle([
-      `${service.name} în județul ${county.name}`,
-      ' — Topograf autorizat ANCPI',
+      `${titleNameOf(service)} în județul ${county.name}`,
+      ` — ${credentialOf(service)}`,
       ' | Fleser Aurel Expert',
     ]),
     metaDescription,
-    h1: `${service.name} în județul ${county.name}`,
+    h1: `${titleNameOf(service)} în județul ${county.name}`,
     breadcrumbItems: [
       { name: 'Acasă', url: '/' },
       { name: service.name, url: `/servicii/${service.slug}/` },
