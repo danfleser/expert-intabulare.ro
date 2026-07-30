@@ -2214,24 +2214,24 @@
     ],
     "resources": [
       {
+        "href": "/ghid/rectificare-suprafata-teren-cf.html",
+        "label": "Rectificarea suprafeței în cartea funciară"
+      },
+      {
+        "href": "/ghid/acte-necesare-actualizare-date-imobil.html",
+        "label": "Acte necesare pentru actualizarea datelor imobilului"
+      },
+      {
+        "href": "/ghid/prima-inscriere-vs-actualizare-carte-funciara.html",
+        "label": "Prima înscriere sau actualizare — cum le deosebiți"
+      },
+      {
+        "href": "/ghid/radiere-constructie-demolata.html",
+        "label": "Radierea unei construcții demolate"
+      },
+      {
         "href": "/dictionar/proces-verbal-de-vecinatate.html",
         "label": "Proces-verbal de vecinătate — ce este"
-      },
-      {
-        "href": "/dictionar/rectificare-de-carte-funciara.html",
-        "label": "Rectificare de carte funciară — ce este"
-      },
-      {
-        "href": "/dictionar/actualizare-date-imobil.html",
-        "label": "Actualizare de date ale imobilului"
-      },
-      {
-        "href": "/dictionar/inscrierea-constructiei.html",
-        "label": "Înscrierea construcției în cartea funciară"
-      },
-      {
-        "href": "/dictionar/radierea-constructiei.html",
-        "label": "Radierea unei construcții demolate"
       }
     ],
     "acteVariants": [
