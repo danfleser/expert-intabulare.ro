@@ -91,7 +91,7 @@
       },
       {
         "q": "Ce acte îmi trebuie dacă imobilul este moștenit?",
-        "a": "Certificatul de moștenitor este actul de bază. Dacă succesiunea nu a fost dezbătută, mai întâi se face la notar — vă putem îndruma pașii — iar apoi întocmim documentația cadastrală pe baza lui."
+        "a": "Certificatul de moștenitor este actul de bază. Dacă succesiunea nu a fost dezbătută, mai întâi se face la notar, iar apoi întocmim documentația cadastrală pe baza certificatului."
       },
       {
         "q": "Imobilul apare la registrul agricol din {localitate}, dar nu are carte funciară. Se poate intabula?",
@@ -123,7 +123,7 @@
       },
       {
         "q": "Faceți și acte pentru bancă, la credit ipotecar?",
-        "a": "Da — documentația cadastrală și intabularea sunt exact ce cere banca înainte de ipotecă. Lucrăm frecvent cu termene impuse de bănci și de notari și știm să ne încadrăm în ele."
+        "a": "Da — documentația cadastrală și intabularea sunt exact ce cere banca înainte de ipotecă. Lucrăm frecvent cu termene impuse de bănci și de notari."
       },
       {
         "q": "Cine plătește cadastrul: vânzătorul sau cumpărătorul?",
@@ -702,11 +702,11 @@
       },
       {
         "q": "Casa depășește puțin limita terenului. Ce se întâmplă?",
-        "a": "Situația se vede exact la măsurătoare. În funcție de caz, se rezolvă prin acord cu vecinul, servitute, cumpărarea fâșiei sau alte căi legale — vă prezentăm variantele cu argumente, înainte de a depune ceva."
+        "a": "Situația se vede exact la măsurătoare. În funcție de caz, se rezolvă prin acord cu vecinul, servitute, cumpărarea fâșiei sau alte căi legale — vă spunem care se aplică în cazul dumneavoastră înainte de a depune dosarul."
       },
       {
         "q": "Banca îmi cere înscrierea casei pentru credit. Vă încadrați în termen?",
-        "a": "Da, lucrăm frecvent cu termene bancare. Cu actele complete și taxa de urgență la OCPI, intabularea construcției se poate finaliza în timp util pentru dosarul de credit."
+        "a": "Da. Cu actele complete și taxa de urgență la OCPI, intabularea construcției se poate finaliza în timp util pentru dosarul de credit."
       }
     ],
     "related": [
@@ -957,7 +957,7 @@
     ],
     "process": [
       "Ne trimiți pe WhatsApp actele apartamentului și ne spui scopul: vânzare, moștenire, credit.",
-      "Facem releveul apartamentului, cu deplasare în {localitate}, la ora care vă convine.",
+      "Facem releveul apartamentului, cu deplasare în {localitate}.",
       "Întocmim documentația cadastrală de unitate individuală, cu cotele din părțile comune.",
       "Depunem dosarul la {ocpi} și urmărim soluționarea.",
       "Primești extrasul de carte funciară al apartamentului, gata pentru notar sau bancă."
@@ -1252,7 +1252,7 @@
       },
       {
         "q": "E nevoie de notar la dezmembrare?",
-        "a": "Da — după recepția documentației de către OCPI, dezmembrarea se perfectează prin act autentic notarial, iar pe baza lui se înscriu loturile noi. Colaborăm direct cu notarul dumneavoastră pentru un circuit fără drumuri inutile."
+        "a": "Da — după recepția documentației de către OCPI, dezmembrarea se perfectează prin act autentic notarial, iar pe baza lui se înscriu loturile noi. Colaborăm direct cu notarul dumneavoastră."
       },
       {
         "q": "Toți frații trebuie să fie de acord cu dezmembrarea terenului moștenit?",
@@ -1276,7 +1276,7 @@
       },
       {
         "q": "Dezmembrarea schimbă impozitul pe teren?",
-        "a": "Impozitarea rămâne pe suprafețele și categoriile de folosință existente, dar loturile noi se declară la primărie în 30 de zile. Vă predăm actele necesare declarării, ca totul să fie în regulă."
+        "a": "Impozitarea rămâne pe suprafețele și categoriile de folosință existente, dar loturile noi se declară la primărie în 30 de zile. Vă predăm actele necesare declarării la primărie."
       }
     ],
     "related": [
@@ -1571,7 +1571,7 @@
       },
       {
         "q": "Planul topografic e valabil o anumită perioadă?",
-        "a": "Planul reflectă situația din teren la data măsurătorii. Dacă între timp au apărut construcții sau modificări, primăria poate cere actualizarea lui — o facem rapid, pe baza ridicării existente."
+        "a": "Planul reflectă situația din teren la data măsurătorii. Dacă între timp au apărut construcții sau modificări, primăria poate cere actualizarea lui — o facem pe baza ridicării existente."
       },
       {
         "q": "Măsurați și rețelele — apă, gaz, curent?",
@@ -2126,7 +2126,7 @@
       },
       {
         "q": "Cum schimb categoria de folosință a terenului din {localitate}?",
-        "a": "Pe baza unei documentații cadastrale de schimbare a categoriei de folosință, cu actele cerute de lege — pentru scoaterea din circuitul agricol există proceduri și taxe separate. Vă ghidăm pas cu pas prin întreg procesul, inclusiv la {ocpi}."
+        "a": "Pe baza unei documentații cadastrale de schimbare a categoriei de folosință, cu actele cerute de lege — pentru scoaterea din circuitul agricol există proceduri și taxe separate."
       },
       {
         "q": "Am demolat șura veche. Trebuie radiată din cartea funciară?",
@@ -2150,7 +2150,7 @@
       },
       {
         "q": "Vecinul și-a intabulat terenul peste al meu. Ce pot face?",
-        "a": "Este o suprapunere cadastrală — se analizează pe măsurători și evidențe, apoi se rezolvă prin repoziționare, rectificare sau, în ultimă instanță, în instanță. Documentăm exact situația și vă prezentăm variantele."
+        "a": "Este o suprapunere cadastrală — se analizează pe măsurători și evidențe, apoi se rezolvă prin repoziționare, rectificare sau, în ultimă instanță, în instanță."
       },
       {
         "q": "Am construit o anexă lângă casă. Trebuie trecută în cartea funciară?",
@@ -2373,7 +2373,7 @@
       },
       {
         "q": "Lucrați cu firme de construcții pe bază de contract?",
-        "a": "Da — colaborăm cu constructori și dezvoltatori pe toată durata șantierului, cu tarife per etapă sau abonament de șantier și timp de reacție convenit. Colaborăm cu dezvoltatori și constructori din toată zona."
+        "a": "Da — colaborăm cu constructori și dezvoltatori pe toată durata șantierului, cu tarife per etapă sau abonament de șantier și timp de reacție convenit."
       },
       {
         "q": "Ce precizie au trasările?",
@@ -2632,7 +2632,7 @@
       },
       {
         "q": "Cumpăr un teren și vreau să-l verific înainte. Ce îmi puteți spune?",
-        "a": "Verificăm cartea funciară (proprietar, sarcini, ipoteci, notări de litigii), corespondența dintre acte și teren, poziția reală a imobilului și eventuale suprapuneri. Un raport scurt care vă poate scuti de o cumpărătură proastă."
+        "a": "Verificăm cartea funciară (proprietar, sarcini, ipoteci, notări de litigii), corespondența dintre acte și teren, poziția reală a imobilului și eventuale suprapuneri."
       },
       {
         "q": "Aveți acces la planurile și documentațiile vechi ale imobilului?",
@@ -2857,7 +2857,7 @@
     "hubIntro": "Certificatul de performanță energetică este obligatoriu la vânzarea sau închirierea oricărei locuințe — notarul îl cere la semnare. Documentul încadrează imobilul într-o clasă energetică, de la A la G, pe baza caracteristicilor constructive și a instalațiilor. Îl întocmim noi, de la vizita la imobil până la predarea certificatului, pentru apartamente și case din Alba Iulia, Aiud, Sebeș, Blaj, Ocna Mureș, Teiuș și restul județului Alba.",
     "process": [
       "Ne trimiteți pe WhatsApp datele imobilului și actele existente.",
-      "Programăm vizita pentru releveu și fotografii, la ora care vă convine.",
+      "Programăm vizita pentru releveu și fotografii.",
       "Întocmim certificatul de performanță energetică și stabilim clasa energetică a imobilului.",
       "Primiți certificatul electronic și în original, gata pentru notar."
     ],
@@ -3150,7 +3150,7 @@
       },
       {
         "q": "Aveți experiență cu procese de grănițuire?",
-        "a": "Da — litigiile de hotar sunt printre cele mai frecvente lucrări de expertiză din zonă. Documentăm limitele din acte, măsurătorile actuale și istoricul folosinței, cu schițe pe care instanța le poate urmări ușor."
+        "a": "Da — litigiile de hotar sunt printre cele mai frecvente lucrări de expertiză din zonă. Documentăm limitele din acte, măsurătorile actuale și istoricul folosinței, cu schițe anexate raportului."
       },
       {
         "q": "Ce fac dacă terenul meu se suprapune în e-Terra cu al vecinului?",
