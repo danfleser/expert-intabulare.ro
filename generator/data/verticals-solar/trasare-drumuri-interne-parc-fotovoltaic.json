@@ -4,7 +4,7 @@
   "h1": "Trasarea infrastructurii parcului: drumuri interne, șanțuri de cabluri, platforme, împrejmuire",
   "metaDescription": "Trasare drumuri interne, trasee de cabluri, platforme de stații și împrejmuire pentru parcuri fotovoltaice. Axe, cote și ordinea corectă a lucrărilor pe șantier.",
   "whatsappTopic": "trasarea drumurilor interne și a traseelor de cabluri pentru un parc fotovoltaic",
-  "hook": "epc",
+  "hook": "none",
   "trustBar": true,
   "sections": [
     {

@@ -4,7 +4,7 @@
   "h1": "Nivelmentul de precizie: cotele milimetrice de care depind stația de transformare și platforma BESS",
   "metaDescription": "Nivelment geometric de precizie pentru fundațiile stațiilor de transformare, punctelor de conexiune și platformelor BESS din parcuri fotovoltaice. Cote verificabile.",
   "whatsappTopic": "nivelment de precizie pentru fundațiile unei stații de transformare",
-  "hook": "epc",
+  "hook": "none",
   "trustBar": true,
   "sections": [
     {

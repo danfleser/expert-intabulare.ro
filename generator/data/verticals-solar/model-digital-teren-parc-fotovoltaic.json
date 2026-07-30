@@ -4,7 +4,7 @@
   "h1": "Modelul digital al terenului pentru parcuri fotovoltaice: fundația proiectării în PVsyst, PVcase și Civil 3D",
   "metaDescription": "MDT/DTM pentru parcuri fotovoltaice: grid, breaklines, acuratețe cote, export pentru PVsyst, PVcase, AutoCAD Civil 3D. Din măsurători GNSS și fotogrametrie UAV.",
   "whatsappTopic": "un model digital al terenului pentru proiectarea unui parc fotovoltaic",
-  "hook": "epc",
+  "hook": "none",
   "trustBar": true,
   "sections": [
     {

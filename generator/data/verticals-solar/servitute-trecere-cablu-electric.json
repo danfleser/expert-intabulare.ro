@@ -4,7 +4,7 @@
   "h1": "Servitutea de trecere: drepturi înscrise pentru fiecare teren traversat de cablu",
   "metaDescription": "Servitute de trecere pentru cablul de evacuare al parcului fotovoltaic: identificarea CF-urilor traversate, plan de servitute per imobil, înscriere OCPI.",
   "whatsappTopic": "un plan de servitute pentru traseul cablului de evacuare al unui parc fotovoltaic",
-  "hook": "epc",
+  "hook": "none",
   "trustBar": true,
   "sections": [
     {

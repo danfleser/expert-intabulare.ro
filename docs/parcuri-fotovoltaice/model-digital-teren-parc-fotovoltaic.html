@@ -66,7 +66,7 @@
         <h1>Modelul digital al terenului pentru parcuri fotovoltaice: fundația proiectării în PVsyst, PVcase și Civil 3D</h1>
         <!-- WhatsApp CTA (BINDING spec §3.5): static prebuilt anchor + tel secondary-->
 <div class="cta-whatsapp cta-row mt-2">
-  <a class="btn btn-wa" href="https://api.whatsapp.com/send/?phone=40741478540&amp;text=Salut!%20Dezvolt%20un%20proiect%20fotovoltaic%20%C8%99i%20am%20nevoie%20de%20un%20model%20digital%20al%20terenului%20pentru%20proiectarea%20unui%20parc%20fotovoltaic.&amp;type=phone_number&amp;app_absent=0" target="_blank" rel="noopener"><i class="bi bi-whatsapp"></i>Scrie-ne pe WhatsApp</a>
+  <a class="btn btn-wa" href="https://api.whatsapp.com/send/?phone=40741478540&amp;text=Salut!%20Dezvolt%20un%20proiect%20fotovoltaic%20%C8%99i%20am%20nevoie%20de%20un%20model%20digital%20al%20terenului%20pentru%20proiectarea%20unui%20parc%20fotovoltaic.&amp;type=phone_number&amp;app_absent=0" target="_blank" rel="noopener"><i class="bi bi-whatsapp"></i>Scrieți-ne pe WhatsApp</a>
   <a class="btn btn-ghost" href="tel:0741478540"><i class="bi bi-telephone"></i>0741 478 540</a>
 </div>
 
@@ -83,12 +83,7 @@
   <div class="container">
     <div class="row g-5">
       <div class="col-12 col-lg-8">
-        <div class="card c-card-service mb-5"><div class="card-body"><div class="icon-chip"><i class="bi bi-lightning-charge"></i></div><h2 class="h5 mb-3">Colaborăm cu dezvoltatori și constructori</h2><p>Lucrăm alături de echipe de proiect, consultanți și antreprenori — de la măsurători inițiale până la recepția finală a lucrării.</p><!-- WhatsApp CTA (BINDING spec §3.5): static prebuilt anchor + tel secondary-->
-<div class="cta-whatsapp cta-row">
-  <a class="btn btn-wa" href="https://api.whatsapp.com/send/?phone=40741478540&amp;text=Salut!%20Dezvolt%20un%20proiect%20fotovoltaic%20%C8%99i%20am%20nevoie%20de%20un%20model%20digital%20al%20terenului%20pentru%20proiectarea%20unui%20parc%20fotovoltaic.&amp;type=phone_number&amp;app_absent=0" target="_blank" rel="noopener"><i class="bi bi-whatsapp"></i>Scrie-ne pe WhatsApp</a>
-  <a class="btn btn-ghost" href="tel:0741478540"><i class="bi bi-telephone"></i>0741 478 540</a>
-</div>
-</div></div>
+        
         <div class="mb-5"><h2 class="h4 mb-3">Terenul tău, în formatul în care lucrează proiectantul</h2><p>Modelul digital al terenului (MDT sau DTM) este reprezentarea 3D a suprafeței terenului natural, construită din punctele măsurate: pe el se calculează pantele, umbrirea dată de relief, lungimile piloniilor, volumele de terasamente și traseele drumurilor interne. Practic, orice decizie de proiectare a unui parc fotovoltaic — de la layout la buget — trece prin MDT. Un model prost înseamnă decizii proaste luate cu încredere.</p><p>Noi livrăm MDT-uri construite din măsurători proprii — GNSS RTK cu precizie de ±2–3 cm în plan, completat pe suprafețe mari cu <a href="/parcuri-fotovoltaice/fotogrametrie-drona-teren.html">fotogrametrie UAV</a> cu puncte de control la sol, în toleranțe de 2–5 cm — în formatele native ale softurilor cu care lucrează echipa ta de proiectare. Scrie-ne pe WhatsApp cu localizarea terenului și softul în care proiectați, și îți spunem exact ce livrabil primești și în cât timp.</p></div>
 <div class="mb-5"><h2 class="h4 mb-3">Ce face diferența între un MDT bun și unul decorativ</h2><p>Oricine poate genera o suprafață dintr-un nor de puncte apăsând un buton. Un MDT pe care poți proiecta cere trei lucruri:</p><ul><li><strong>Teren, nu suprafață.</strong> Modelul trebuie să reprezinte solul, nu vegetația sau construcțiile. Din fotogrametrie rezultă întâi un model al suprafeței (MDS/DSM), care include lanuri, tufe, balotare; filtrarea până la terenul natural și verificarea ei cu puncte măsurate la sol sunt pași obligatorii, nu opționali.</li><li><strong>Breaklines măsurate, nu interpolate.</strong> Muchiile de taluz, șanțurile, crestele și talvegurile se măsoară ca linii continue și se impun în triangulație. Fără ele, modelul netezește exact denivelările care dictează lungimile piloniilor și scurgerea apelor.</li><li><strong>Densitate adaptată reliefului.</strong> Grid orientativ de 10–20 m pe zone plane, îndesit pe teren frământat — aceeași logică din <a href="/parcuri-fotovoltaice/ridicare-topografica-teren-fotovoltaic.html">ridicarea topografică</a> pe care se sprijină modelul.</li></ul><p>Totul în Stereo 70, pe aceeași rețea de sprijin materializată în teren pe care o refolosim la trasare și la as-built — modelul rămâne comparabil cu realitatea pe toată durata proiectului.</p></div>
 <div class="mb-5"><h2 class="h4 mb-3">Formate de livrare pe softuri de proiectare PV</h2><div class="table-scroll"><table class="table"><thead><tr><th>Softul tău</th><th>Format recomandat</th><th>Observații</th></tr></thead><tbody><tr><td>PVsyst</td><td>grid regulat CSV/XYZ sau import din scenă 3D</td><td>Pentru analiza de umbrire pe relief; convenim pasul gridului</td></tr><tr><td>PVcase / AutoCAD</td><td>dwg/dxf cu suprafață 3D și curbe de nivel</td><td>Breaklines incluse; strat separat pentru limite cadastrale</td></tr><tr><td>AutoCAD Civil 3D</td><td>LandXML (suprafață TIN)</td><td>Formatul cel mai curat pentru terasamente și drumuri</td></tr><tr><td>QGIS / GIS</td><td>GeoTIFF (raster MDT) + shp</td><td>Pentru analize de pantă, orientare, hidrologie</td></tr><tr><td>Alte softuri</td><td>XYZ / nor de puncte LAS</td><td>Convenim formatul cu proiectantul înainte de livrare</td></tr></tbody></table></div></div>
@@ -100,7 +95,7 @@
       <div class="col-12 col-lg-4">
         <div class="card c-card-contact sidebar-sticky mb-4"><div class="card-body"><h2 class="h5 mb-2">Contact rapid</h2><!-- WhatsApp CTA (BINDING spec §3.5): static prebuilt anchor + tel secondary-->
 <div class="cta-whatsapp cta-row">
-  <a class="btn btn-wa" href="https://api.whatsapp.com/send/?phone=40741478540&amp;text=Salut!%20Dezvolt%20un%20proiect%20fotovoltaic%20%C8%99i%20am%20nevoie%20de%20un%20model%20digital%20al%20terenului%20pentru%20proiectarea%20unui%20parc%20fotovoltaic.&amp;type=phone_number&amp;app_absent=0" target="_blank" rel="noopener"><i class="bi bi-whatsapp"></i>Scrie-ne pe WhatsApp</a>
+  <a class="btn btn-wa" href="https://api.whatsapp.com/send/?phone=40741478540&amp;text=Salut!%20Dezvolt%20un%20proiect%20fotovoltaic%20%C8%99i%20am%20nevoie%20de%20un%20model%20digital%20al%20terenului%20pentru%20proiectarea%20unui%20parc%20fotovoltaic.&amp;type=phone_number&amp;app_absent=0" target="_blank" rel="noopener"><i class="bi bi-whatsapp"></i>Scrieți-ne pe WhatsApp</a>
   <a class="btn btn-ghost" href="tel:0741478540"><i class="bi bi-telephone"></i>0741 478 540</a>
 </div>
 <p class="fz-14 mb-0 mt-2"><i class="bi bi-clock me-1"></i>Disponibili Luni-Vineri, între 9:00 - 17:00</p></div></div><div class="card about-card mb-4"><div class="card-body"><h2 class="h6 mb-2"><i class="bi bi-person-badge me-1"></i>Cine face lucrarea</h2><p class="fz-14 mb-0">Fleser Aurel, topograf autorizat ANCPI, birou propriu în Aiud, Str. Florilor 1A.</p></div></div>
@@ -127,10 +122,10 @@
       <div class="container">
         <div class="card about-card"><div class="card-body">
           <h2 class="h4 mb-2">Spuneți-ne ce aveți de rezolvat</h2>
-          <p class="mb-3">Scrie-ne pe WhatsApp sau sună-ne — răspundem de obicei în aceeași zi lucrătoare.</p>
+          <p class="mb-3">Scrieți-ne pe WhatsApp sau sunați-ne — răspundem de obicei în aceeași zi lucrătoare.</p>
           <!-- WhatsApp CTA (BINDING spec §3.5): static prebuilt anchor + tel secondary-->
 <div class="cta-whatsapp cta-row">
-  <a class="btn btn-wa" href="https://api.whatsapp.com/send/?phone=40741478540&amp;text=Salut!%20Dezvolt%20un%20proiect%20fotovoltaic%20%C8%99i%20am%20nevoie%20de%20un%20model%20digital%20al%20terenului%20pentru%20proiectarea%20unui%20parc%20fotovoltaic.&amp;type=phone_number&amp;app_absent=0" target="_blank" rel="noopener"><i class="bi bi-whatsapp"></i>Scrie-ne pe WhatsApp</a>
+  <a class="btn btn-wa" href="https://api.whatsapp.com/send/?phone=40741478540&amp;text=Salut!%20Dezvolt%20un%20proiect%20fotovoltaic%20%C8%99i%20am%20nevoie%20de%20un%20model%20digital%20al%20terenului%20pentru%20proiectarea%20unui%20parc%20fotovoltaic.&amp;type=phone_number&amp;app_absent=0" target="_blank" rel="noopener"><i class="bi bi-whatsapp"></i>Scrieți-ne pe WhatsApp</a>
   <a class="btn btn-ghost" href="tel:0741478540"><i class="bi bi-telephone"></i>0741 478 540</a>
 </div>
 

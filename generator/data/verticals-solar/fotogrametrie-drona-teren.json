@@ -4,7 +4,7 @@
   "h1": "Fotogrametrie cu drona: când bate stația totală și cum garantăm precizia",
   "metaDescription": "Fotogrametrie UAV pentru terenuri de parc fotovoltaic: GCP-uri, precizie 2–5 cm, nor de puncte, MDT, ortofotoplan. Când are sens drona față de metoda clasică.",
   "whatsappTopic": "fotogrametrie cu drona pentru terenul unui parc fotovoltaic",
-  "hook": "epc",
+  "hook": "none",
   "trustBar": true,
   "sections": [
     {

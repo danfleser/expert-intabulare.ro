@@ -4,7 +4,7 @@
   "h1": "Câți MW încap pe un hectar? Orientativ 1 MW la 1–1,5 ha — dar cifra reală iese din măsurătoare",
   "metaDescription": "Câți MW pe hectar are un parc fotovoltaic? Orientativ 1 MW la 1–1,5 ha la structură fixă. Cifra exactă vine din suprafața utilă măsurată, nu din extrasul CF.",
   "whatsappTopic": "calculul suprafeței utile pentru un teren de parc fotovoltaic",
-  "hook": "epc",
+  "hook": "none",
   "trustBar": true,
   "sections": [
     {

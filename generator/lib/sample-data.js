@@ -172,7 +172,7 @@ module.exports = function sampleData() {
         metaDescription: 'Verificarea topografică și cadastrală a terenului înainte de a cumpăra sau închiria pentru un parc fotovoltaic: suprapuneri, sarcini, accese, cote.',
         h1: 'Due diligence de teren pentru un parc fotovoltaic',
         whatsappTopic: 'o verificare de teren pentru un parc fotovoltaic',
-        hook: 'epc',
+        hook: 'none',
         sections: [
           { type: 'html', heading: 'Ce verificăm înainte să semnați', html: '<p>O verificare topografică preliminară costă o fracțiune dintr-o afacere proastă cu terenul. Confirmăm limitele reale față de cartea funciară, căutăm suprapuneri cu parcelele vecine, verificăm accesul legal la drum și cotele de nivel care influențează proiectarea structurii.</p>' },
           { type: 'checklist', heading: 'Livrabilele verificării', items: ['Raport de suprapunere cadastrală', 'Măsurătoare de contur cu GPS geodezic', 'Verificarea acceselor și a servituților vizibile', 'Model de teren pentru estimarea pantelor', 'Recomandări pentru pașii cadastrali următori'] },

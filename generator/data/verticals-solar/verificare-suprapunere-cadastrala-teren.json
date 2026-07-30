@@ -4,7 +4,7 @@
   "h1": "Suprapunere cadastrală: verific-o înainte de avans, nu când o semnalează OCPI",
   "metaDescription": "Verificare suprapunere cadastrală pentru teren de parc fotovoltaic: analiză pe geoportalul ANCPI plus măsurători de teren. Descoperită după avans, blochează proiectul.",
   "whatsappTopic": "o verificare de suprapunere cadastrală pentru un teren",
-  "hook": "epc",
+  "hook": "none",
   "trustBar": true,
   "sections": [
     {

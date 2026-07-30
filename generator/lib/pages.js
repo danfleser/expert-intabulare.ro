@@ -300,7 +300,7 @@ function buildLocalContext(ctx, service, loc, county, seed) {
     (n) => `${typeLabel.charAt(0).toUpperCase() + typeLabel.slice(1)} ${n} se află la aproximativ ${km} km de biroul nostru din Aiud, așa că programăm măsurătorile fără costuri suplimentare de mobilizare.`,
     (n) => `De la Aiud până în ${n} facem aproximativ ${km} km — o deplasare pe care o programăm de regulă în aceeași săptămână.`,
     (n) => `Distanța de circa ${km} km față de Aiud ne permite să răspundem rapid pentru lucrările din ${n}, inclusiv la măsurători cu termen scurt.`,
-    (n) => `Pentru ${typeLabel} ${n}, aflat${loc.type === 'comuna' ? 'ă' : ''} la aproximativ ${km} km de Aiud, mobilizarea în teren se face rapid, fără drumuri pierdute.`,
+    (n) => `Pentru ${typeLabel} ${n}, aflat${loc.type === 'comuna' ? 'ă' : ''} la aproximativ ${km} km de Aiud, mobilizarea în teren se face rapid.`,
   ];
   // km === 0 is the home-office case: exactly one locality record carries
   // distanceKmFromAiud: 0, the town the office sits in. A seeded distance frame
@@ -333,7 +333,11 @@ function buildLocalContext(ctx, service, loc, county, seed) {
     s.push(fillParams(dep.contextSentence, copyParams(ctx.site, service, loc, county)));
   } else if (ocpi && dep.atBcpi) {
     const ocpiFrames = [
-      () => `Dosarele pentru imobilele din zonă se depun la ${ocpi}, unde cunoaștem procedurile și registratorii de ani de zile.`,
+      // Naming the locality instead of "din zonă" is deliberate and load-bearing:
+      // cutting the self-praise clause alone costs page-exclusive shingles that
+      // spanned the office name into ", unde" and demotes a leaf. The two halves
+      // of this edit go together or not at all.
+      () => `Dosarele pentru imobilele din ${loc.name} se depun la ${ocpi}.`,
       () => `Competent teritorial pentru ${loc.name} este ${ocpi} — acolo depunem și urmărim fiecare dosar până la soluționare.`,
       () => `Documentațiile le predăm la ${ocpi}; urmărim termenele și răspundem noi la eventualele note de completare.`,
     ];
@@ -363,12 +367,12 @@ function buildLocalContext(ctx, service, loc, county, seed) {
     'montan-apuseni': [
       `Relieful accidentat din zona ${loc.name} cere echipament potrivit și experiență: măsurăm cu stație totală acolo unde semnalul GPS este slab, indiferent de pantă sau pădure.`,
       `În zona de munte, proprietățile au adesea limite naturale — pâraie, culmi, liziere — pe care le documentăm atent la ${svc}.`,
-      `Satele risipite din jurul localității ${loc.name} nu sunt o problemă: ne deplasăm până la imobil, oricât de izolat ar fi.`,
-      `La imobilele din zona montană, actele vechi și folosința din bătrâni cer deseori lămuriri suplimentare — știm exact ce întrebări să punem înainte de măsurătoare.`,
+      `Ne deplasăm în satele risipite din jurul localității ${loc.name}, oricât de izolat ar fi imobilul.`,
+      `La imobilele din zona montană, actele vechi și folosința din bătrâni cer deseori lămuriri suplimentare.`,
     ],
     'urban': [
       `În ${loc.name}, lucrările de ${svc} se corelează cu evidențele existente — imobile învecinate deja cadastrate, aliniamente și reglementări de urbanism.`,
-      `Mediul urban aduce cerințe suplimentare: acorduri de vecinătate în zone dens construite, corelarea cu PUG-ul și termene ferme la notar sau bancă. Le gestionăm curent.`,
+      `Mediul urban aduce cerințe suplimentare: acorduri de vecinătate în zone dens construite, corelarea cu PUG-ul și termene ferme la notar sau bancă.`,
       `Pentru imobilele din ${loc.name}, verificăm întotdeauna istoricul cărții funciare înainte de măsurătoare — economisește timp și evită respingerile.`,
       `Cererea imobiliară din ${loc.name} face ca actele corecte să conteze: o lucrare de ${svc} bine făcută scurtează orice tranzacție.`,
     ],
@@ -881,17 +885,11 @@ function buildServiceCountyHub(ctx, service, county, emitted) {
     // Deliberately service-agnostic: this paragraph is the fallback for every one
     // of the 12 services, so it may not assert anything specific to cadastral work.
     const sentences = [
-      `${service.name} în județul ${county.name}: ne ocupăm de lucrare de la prima discuție ` +
-      `până la documentația finală, cu deplasare la fața locului din biroul nostru din Aiud.`,
+      `${service.name} în județul ${county.name}, cu deplasare la fața locului din biroul nostru din Aiud.`,
     ];
     if (named.length) {
-      sentences.push(`Lucrăm în tot județul — inclusiv în ${roList(named)} — și ne deplasăm în orice localitate din listele de mai jos.`);
+      sentences.push(`Lucrăm în tot județul — inclusiv în ${roList(named)}.`);
     }
-    // Only announce sections this page actually has.
-    const has = ['actele de pregătit', 'pașii lucrării'];
-    if (offices.length) has.push('birourile teritoriale din județ');
-    if (locs.length) has.push('localitățile în care lucrăm');
-    sentences.push(`Mai jos găsiți ${roList(has)}.`);
     introHtml = `<p class="lead">${escHtml(sentences[0])}</p>` +
       sentences.slice(1).map((s) => `<p>${escHtml(s)}</p>`).join('');
   }
@@ -1189,12 +1187,16 @@ function buildCountyHub(ctx, county, emitted, demotedNotes) {
 const HOOKS = {
   deadline: {
     heading: 'Termen de depunere aproape?',
-    text: 'Scrie-ne pe WhatsApp data limită a proiectului tău — îți spunem sincer dacă documentația poate fi gata la timp și planificăm invers, de la termen.',
+    text: 'Scrieți-ne pe WhatsApp data limită a proiectului dumneavoastră — vă spunem sincer dacă documentația poate fi gata la timp și planificăm invers, de la termen.',
   },
-  epc: {
-    heading: 'Colaborăm cu dezvoltatori și constructori',
-    text: 'Lucrăm alături de echipe de proiect, consultanți și antreprenori — de la măsurători inițiale până la recepția finală a lucrării.',
-  },
+  // There was an `epc` hook here whose whole content was a list of job titles we
+  // are near ("Colaborăm cu dezvoltatori și constructori" / "Lucrăm alături de
+  // echipe de proiect, consultanți și antreprenori"). It told a developer nothing
+  // they could act on, and it read ambiguously against the standing rule that the
+  // site says nothing in either direction about partners or who does the work.
+  // Deleted, and the 58 solar verticals that selected it now say "none".
+  // Do not reinstate it, and do not "fix" that ambiguity by adding a
+  // clarification about who does the work.
 };
 
 function namespaceOf(kind) {
@@ -1436,7 +1438,8 @@ function buildDictTerm(ctx, term, termsBySlug) {
     definitionHtml,
     exampleBlock,
     relatedBlock,
-    ctaHeading: 'Ai nevoie de un topograf autorizat?',
+    // No ctaHeading: it was a second rhetorical question stacked on ctaText, which
+    // is the line doing the work — it names the term and links the service.
     ctaText,
     ctaWhatsapp: chrome.ctaWhatsapp(site, { namespace: 'dictionar', topic: waTopic }),
     disclaimer: site.dictionaryDisclaimer,

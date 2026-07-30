@@ -4,7 +4,7 @@
   "h1": "Date topografice pentru proiectare: dwg, LandXML, shp, GeoTIFF — fără conversii",
   "metaDescription": "Livrăm date topografice pentru proiectarea PV în dwg, dxf, LandXML, shp, GeoTIFF: MDT, curbe de nivel, coordonate Stereo 70, compatibil Civil 3D și PVcase.",
   "whatsappTopic": "date topografice în format compatibil cu softul nostru de proiectare",
-  "hook": "epc",
+  "hook": "none",
   "trustBar": true,
   "sections": [
     {

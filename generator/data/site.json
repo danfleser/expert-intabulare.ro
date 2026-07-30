@@ -35,7 +35,7 @@
       "agricol": "Salut! Am un teren agricol și am nevoie de %TOPIC%.",
       "default": "Salut! Doresc o ofertă."
     },
-    "buttonLabel": "Scrie-ne pe WhatsApp",
+    "buttonLabel": "Scrieți-ne pe WhatsApp",
     "buttonLabelEn": "Message us on WhatsApp"
   },
   "trustStats": ["25+ ani experiență", "1052+ proiecte finalizate", "2681+ colaborări", "Autorizat ANCPI", "Aiud, jud. Alba"],
@@ -103,7 +103,7 @@
   },
   "ro": {
     "preFooterHeading": "Spuneți-ne ce aveți de rezolvat",
-    "preFooterText": "Scrie-ne pe WhatsApp sau sună-ne — răspundem de obicei în aceeași zi lucrătoare.",
+    "preFooterText": "Scrieți-ne pe WhatsApp sau sunați-ne — răspundem de obicei în aceeași zi lucrătoare.",
     "contactCardHeading": "Contact rapid",
     "cookieText": "Acest site folosește cookie-uri. Pentru detalii, consultați",
     "cookieLinkLabel": "Politica de Confidențialitate.",

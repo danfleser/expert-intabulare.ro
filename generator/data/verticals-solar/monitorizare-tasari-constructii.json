@@ -4,7 +4,7 @@
   "h1": "Monitorizarea tasărilor: cum dovedești asigurătorului și finanțatorului că stația stă pe loc",
   "metaDescription": "Monitorizare tasări pentru stații de transformare, BESS și construcții din parcuri fotovoltaice: reperi, cicluri de nivelment de precizie, rapoarte pentru lender.",
   "whatsappTopic": "monitorizarea tasărilor pentru construcțiile unui parc fotovoltaic",
-  "hook": "epc",
+  "hook": "none",
   "trustBar": true,
   "sections": [
     {

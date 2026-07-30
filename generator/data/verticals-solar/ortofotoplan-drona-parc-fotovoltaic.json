@@ -4,7 +4,7 @@
   "h1": "Ortofotoplan de înaltă rezoluție: de la avizare la monitorizarea șantierului",
   "metaDescription": "Ortofotoplan cu drona pentru parcuri fotovoltaice: rezoluție centimetrică, georeferențiere Stereo 70, plan de situație, monitorizare șantier, GeoTIFF.",
   "whatsappTopic": "un ortofotoplan cu drona pentru un teren de parc fotovoltaic",
-  "hook": "epc",
+  "hook": "none",
   "trustBar": true,
   "sections": [
     {
