@@ -448,6 +448,33 @@ function stripCadastralSentences(note) {
   const kept = splitSentences(note).filter((sentence) => !CADASTRAL_SENTENCE.test(sentence));
   return kept.join(' ').trim();
 }
+/**
+ * The narrow sibling of the rule above, and the one that needs no opt-in.
+ * `CADASTRAL_SENTENCE` drops everything that so much as names the land registry,
+ * which is right for certificat-energetic and wrong for expertize-documentatii —
+ * its documentații de îndreptare really are lodged at the competent office, so the
+ * "Dosarele se depun la BCPI Aiud" sentences belong on those pages.
+ *
+ * What does NOT belong on any service we have declared is not lodged as a cadastral
+ * dosar is the *registration dossier workflow itself*: `note de completare` are the
+ * land registry's response to a cadastral documentation, and "dosarul se depune și
+ * se urmărește" is first-person case-handling of one. On a trasare page or an
+ * expertise-report page those sentences describe a procedure the page's own card
+ * says the service does not go through. Fărău is the only locality note carrying
+ * the shape today; the gate exists so the next one cannot ship it either.
+ *
+ * Applied whenever `depunere` is declared with `atBcpi: false` — no separate flag,
+ * because "not lodged at BCPI" is exactly the condition that makes this false.
+ */
+const DOSSIER_WORKFLOW_SENTENCE = new RegExp([
+  'not(ă|e|ele) de completare',
+  'dosarul se depune',
+  'dosarul se urmărește',
+].join('|'), 'i');
+function stripDossierWorkflowSentences(note) {
+  const kept = splitSentences(note).filter((s) => !DOSSIER_WORKFLOW_SENTENCE.test(s));
+  return kept.join(' ').trim();
+}
 
 function buildServiceLocality(ctx, service, loc, emitted) {
   const { site } = ctx;
@@ -536,7 +563,11 @@ function buildServiceLocality(ctx, service, loc, emitted) {
   // localities never share phrasing. This is data-driven prose, not spun text.
   const localContext = buildLocalContext(ctx, service, loc, county, seed);
   const localNote = loc.localNote
-    ? (dep.dropLocalNoteCadastral ? stripCadastralSentences(loc.localNote) : loc.localNote)
+    ? (dep.dropLocalNoteCadastral
+      ? stripCadastralSentences(loc.localNote)
+      : (dep.declared && !dep.atBcpi
+        ? stripDossierWorkflowSentences(loc.localNote)
+        : loc.localNote))
     : '';
   const localNoteBlock = (localNote || localContext)
     ? `<div class="mb-5"><h2 class="h5 mb-3">Despre lucrări în ${escHtml(loc.name)}</h2>` +
