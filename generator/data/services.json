@@ -2573,6 +2573,32 @@
         "situation": "Proiectantul a prevăzut urmărirea în timp a construcției",
         "text": "Ați primit proiectul și scrie acolo, la capitolul de urmărire în timp, că trebuie montați reperi de tasare și făcute măsurători pe cicluri. Nu este o exagerare a proiectantului: la construcții mari sau pe terenuri slabe este cerință de proiect și intră în cartea tehnică a construcției. Montăm reperii, executăm măsurătorile la ciclurile prevăzute și predăm rapoartele, ca lucrarea să nu rămână blocată la recepție pentru o piesă lipsă."
       }
+    ],
+    "introVariants": [
+      {
+        "profile": "urban",
+        "text": "Începeți un șantier în {localitate}? Trasăm construcția din proiectul autorizat înainte de săpătură — axe, colțuri, cotă zero —, verificăm cotele pe etape și predăm as-built-ul la recepție. În oraș contează și vecinătatea: măsurăm retragerile față de limitele proprietății și le documentăm, ca o eventuală abatere să apară pe hârtie, nu în reclamația vecinului."
+      },
+      {
+        "profile": "periurban",
+        "text": "În zonele de case noi apărute la marginea localității {localitate}, construcțiile pornesc pe terenuri abia dezmembrate, unde limita din acte și gardul din teren nu coincid. Trasăm construcția pe coordonatele din proiectul autorizat, verificăm cota zero față de drumul de acces și predăm constructorului procesul-verbal de trasare la începerea lucrărilor."
+      },
+      {
+        "profile": "agricol-campie",
+        "text": "Ridicați o hală, un grajd sau o platformă în {localitate}? Măsurăm terenul pentru planul topografic cerut la autorizare, trasăm construcția pe amplasament, verificăm cotele de fundație și stabilim cantitățile de pământ săpat și adus, necesare decontărilor. Pe teren deschis lucrăm eficient, așa că deplasarea nu scumpește devizul."
+      },
+      {
+        "profile": "agricol-campie",
+        "text": "Pe amplasamentele întinse din zona {localitate}, drumurile de incintă, platformele betonate și rețelele îngropate cer trasare și nivelment înainte de execuție, nu corecții după. Preluăm profilul longitudinal din proiect, materializăm traseul și cotele de pozare, iar la final ridicăm ce s-a executat pentru documentația as-built."
+      },
+      {
+        "profile": "montan-apuseni",
+        "text": "Ridicați o casă sau o pensiune în zona {localitate}? Pe teren în pantă, cota zero și încadrarea construcției se stabilesc pe măsurători, nu din ochi — altfel apar diferențe de nivel pe care le plătiți la fundație. Folosim stația totală pe amplasamentele unde coroana pădurii blochează recepția satelitară, așa că panta nu ne oprește."
+      },
+      {
+        "profile": "montan-apuseni",
+        "text": "Pe amplasamentele din zona {localitate}, accesul greu și relieful frământat fac din ridicarea topografică piesa care decide cât costă execuția. Măsurăm terenul complet — cote, taluzuri, drum de acces —, trasăm apoi construcția pe proiectul autorizat și verificăm cotele la fiecare etapă a șantierului."
+      }
     ]
   },
   {
@@ -2793,6 +2819,32 @@
         "situation": "A primit notă de completare sau i s-a respins dosarul",
         "text": "Ați depus un dosar la cadastru și, în loc de documentul așteptat, ați primit o hârtie cu termeni pe care nu îi înțelegeți: notă de completare, încheiere de respingere, corelare cu planul parcelar. De obicei lipsește un singur lucru și se poate remedia fără să reluați totul de la capăt. Trimiteți-ne încheierea, o citim și vă spunem concret ce trebuie completat."
       }
+    ],
+    "introVariants": [
+      {
+        "profile": "urban",
+        "text": "Într-un oraș ca {localitate}, cele mai multe blocaje nu vin de la măsurători, ci de la o hârtie care lipsește: extrasul de carte funciară cerut de notar sau de bancă, un plan scos din arhivă, o verificare făcută înaintea avansului. Le scoatem din evidențele ținute la {ocpi}, depunem cererile și urmărim dosarele până la rezultat."
+      },
+      {
+        "profile": "agricol-campie",
+        "text": "Multe terenuri din hotarul localității {localitate} figurează în acte vechi, cu numere topografice, iar cartea funciară nu a fost încă trecută în format electronic. Când apare un cumpărător sau o cerere la APIA, hârtia trebuie scoasă din evidențe. Identificăm parcela la {ocpi}, ridicăm extrasul sau copia documentației și lămurim situația juridică."
+      },
+      {
+        "profile": "agricol-campie",
+        "text": "Dacă ați moștenit pământ în {localitate} și nu știți ce figurează și pe numele cui, primul pas nu cere un drum la fața locului. Din cartea funciară aflăm proprietarul de drept, suprafața și eventualele sarcini, iar din arhiva biroului {ocpi} scoatem planurile vechi. Abia după aceea se vede dacă mai este nevoie de măsurători."
+      },
+      {
+        "profile": "montan-apuseni",
+        "text": "În zona localității {localitate}, proprietățile se transmit din tată în fiu, iar actele rămân în urmă: certificate de moștenitor nepuse în cartea funciară, cărți funciare vechi ținute pe hârtie la arhivă, imobile care nu apar deloc în evidența electronică. Verificăm situația la {ocpi} și vă spunem concret ce lipsește și ce se poate obține de la ghișeu."
+      },
+      {
+        "profile": "montan-apuseni",
+        "text": "Pentru gospodăriile și pădurile din jurul localității {localitate}, drumul până la ghișeu înseamnă timp pierdut și program luat de la muncă. Nu este nevoie să îl faceți: ne trimiteți datele imobilului sau o poză cu actele, iar noi ridicăm extrasul de carte funciară, scoatem copiile din arhivă și depunem cererile la {ocpi} în numele dumneavoastră."
+      },
+      {
+        "profile": "periurban",
+        "text": "În jurul orașelor din județul {judet}, cum este cazul localității {localitate}, terenurile își schimbă repede proprietarul și destinația. Înainte să semnați, merită să știți exact ce spune cartea funciară: proprietarul de drept, sarcinile, notările, poziția reală a parcelei pe plan. Cerem la {ocpi} extrasul de carte funciară împreună cu extrasul de plan cadastral și vi le explicăm."
+      }
     ]
   },
   {
@@ -3004,6 +3056,40 @@
       {
         "situation": "Clădire nouă, la recepția la terminarea lucrărilor",
         "text": "Ați terminat casa sau blocul și pregătiți recepția la terminarea lucrărilor. Printre documentele cerute apare și certificatul de performanță energetică, iar lipsa lui poate amâna tot dosarul. Îl facem după proiect și după ce s-a executat în realitate — cele două nu coincid întotdeauna — cu o vizită la clădire. Trimiteți-ne autorizația și planurile, iar noi vă răspundem ce mai lipsește."
+      }
+    ],
+    "introVariants": [
+      {
+        "profile": "urban",
+        "text": "Aveți de vândut apartamentul din {localitate}, iar notarul v-a cerut certificatul de performanță energetică înainte de semnare? Îl întocmim noi. Venim la locuință, luăm măsurătorile și datele care contează — încălzirea, tâmplăria, izolația fațadei, suprafețele vitrate — și vă predăm certificatul cu clasa energetică stabilită, gata pentru dosarul notarial."
+      },
+      {
+        "profile": "agricol-campie",
+        "text": "Ați moștenit casa din {localitate}, iar acum o vindeți, dar prin acte nu se găsește niciun plan? Pentru certificatul energetic nu e nevoie de proiect. Măsurăm casa pe teren, întocmim noi releveul și pe baza lui calculăm performanța energetică. Primiți certificatul, iar vânzarea merge înainte fără alte amânări."
+      },
+      {
+        "profile": "agricol-campie",
+        "text": "Multe locuințe din {localitate} sunt zidite cu cărămidă și încălzite cu lemne, fără izolație pe pereți. Asta le duce de regulă într-o clasă energetică inferioară, dar nu împiedică vânzarea: legea cere certificatul, nu o anumită clasă. Îl întocmim după o vizită la imobil și vi-l predăm pregătit pentru notar."
+      },
+      {
+        "profile": "montan-apuseni",
+        "text": "Multe case și pensiuni din {localitate} au mansarde amenajate, sobe și centrale pe lemne — detalii care schimbă calculul energetic. Urcăm la imobil oriunde se află, notăm exact ce există acolo și eliberăm certificatul de performanță energetică cerut la vânzare sau la închiriere."
+      },
+      {
+        "profile": "montan-apuseni",
+        "text": "Închiriați o cabană ori o locuință de sezon în {localitate}? Legea cere certificat energetic și la închiriere, iar clasa trebuie trecută în anunț. Evaluăm pereții, acoperișul, tâmplăria și modul de încălzire, apoi vă predăm certificatul — rămâne valabil pentru toți chiriașii care urmează."
+      },
+      {
+        "profile": "periurban",
+        "text": "Prin {localitate} se vând acum multe case ridicate recent, iar cumpărătorii cer clasa energetică încă din anunț. Venim la imobil, evaluăm anvelopa clădirii și instalațiile, apoi eliberăm certificatul de performanță energetică — documentul pe care notarul îl va cere oricum la semnarea contractului."
+      },
+      {
+        "profile": "urban",
+        "text": "Apartamentul din {localitate} este într-un bloc vechi, cu termoficare sau centrală proprie, iar cumpărătorul întreabă de clasa energetică? Facem evaluarea la imobil — suprafețe, tâmplărie, poziția în bloc, sistemul de încălzire — și eliberăm certificatul de performanță energetică, cu clasa trecută negru pe alb."
+      },
+      {
+        "profile": "periurban",
+        "text": "Ați terminat casa lângă {localitate} și urmează recepția? Certificatul de performanță energetică se cere la recepția la terminarea lucrărilor, alături de celelalte documente. Îl facem după proiect și după execuția reală, cu o vizită la imobil, ca să nu vă întârzie dosarul."
       }
     ]
   },
@@ -3251,6 +3337,32 @@
       {
         "situation": "Pământ lucrat de-o viață, fără niciun act pe el",
         "text": "Lucrați pământul de când vă știți, l-a lucrat și tatăl dumneavoastră înainte, dar în acte nu apare nimic pe numele nimănui: nu-l puteți vinde, nu-l puteți lăsa mai departe și, de câte ori e nevoie de o hârtie, nu aveți ce arăta. Situația se numește uzucapiune și se rezolvă în instanță. Partea tehnică o facem noi: identificăm parcela pe planurile vechi, o măsurăm și întocmim documentația care însoțește cererea."
+      }
+    ],
+    "introVariants": [
+      {
+        "profile": "montan-apuseni",
+        "text": "În satele din Apuseni hotarele s-au ținut minte, nu s-au măsurat: un pârâu, o culme, un gard mutat cândva și niciodată pus la loc. La notar sau în instanță, memoria nu ține loc de plan. În {localitate} identificăm limitele la teren, le confruntăm cu actele și cu planurile vechi din arhivă și le punem într-un raport pe care îl poate urmări și un judecător."
+      },
+      {
+        "profile": "montan-apuseni",
+        "text": "Terenurile de munte sunt fărâmițate: parcele mici, în pantă, ajunse prin moșteniri succesive la proprietari care nu s-au mai întâlnit de mult. De aici pornesc partajele și disputele de hotar din {localitate}. Măsurăm fiecare parcelă în parte, stabilim ce revine fiecăruia din acte și întocmim expertiza — pentru instanță sau pentru înțelegerea dintre părți."
+      },
+      {
+        "profile": "agricol-campie",
+        "text": "În câmpie, punerea în posesie s-a făcut adesea după planul parcelar, nu după ce era pe teren. Așa se nasc suprapunerile pe raza {localitate}: două titluri pe aceeași brazdă sau o suprafață care nu se regăsește la măsurătoare. Analizăm ambele documentații, măsurăm din nou și vă arătăm exact de unde vine eroarea — pentru îndreptare la {ocpi} sau pentru dosarul din instanță."
+      },
+      {
+        "profile": "agricol-campie",
+        "text": "Ați cumpărat sau ați moștenit pământ în {localitate} și acum vecinul ară pe unde vrea, iar dumneavoastră nu aveți cu ce dovedi contrariul. O expertiză extrajudiciară vă pune limita reală pe hârtie, cu coordonate și schiță, înainte de a ajunge la avocat. Dacă totuși se ajunge în instanță, aceleași măsurători intră direct în dosar."
+      },
+      {
+        "profile": "urban",
+        "text": "Un imobil din {localitate} ajuns într-un proces — partaj după divorț, ieșire din indiviziune, revendicare, litigiu la limita de proprietate — cere expertiză topografică, nu o documentație cadastrală obișnuită. Întocmim raportul dispus de instanță sau, dacă încă nu ați deschis proces, unul extrajudiciar, cu care puteți negocia din poziția celui care știe exact cum stau lucrurile."
+      },
+      {
+        "profile": "periurban",
+        "text": "În zonele care se construiesc repede la marginea orașelor, cum este {localitate}, loturile s-au vândut și s-au dezmembrat de mai multe ori, iar limita din acte nu mai coincide cu gardul ridicat pe teren. Măsurăm situația reală, o comparăm cu documentațiile depuse de-a lungul timpului la {ocpi} din județul {judet} și stabilim tehnic cine unde stă."
       }
     ]
   }
