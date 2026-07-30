@@ -1594,6 +1594,14 @@
       "cadastru-si-intabulare",
       "dezmembrare-alipire"
     ],
+    "depunere": {
+      "atBcpi": true,
+      "cardHeading": "Unde ajunge planul topografic",
+      "cardText": "Planul topografic nu este o documentație cadastrală și nu se înscrie în cartea funciară. Când certificatul de urbanism pentru imobilul din {localitate} cere plan vizat, îl depunem spre recepție tehnică la oficiul de cadastru și obținem viza, iar de acolo planul merge la dosarul de autorizare și la proiectant. Pentru lucrările din {localitate} predăm planul în exemplarele și formatele cerute — dwg/dxf și pdf, cu inventar de coordonate în Stereografic 1970 — iar planurile pentru care viza nu este cerută vi le predăm direct.",
+      "introSentence": "Ne deplasăm la fața locului pentru ridicarea topografică, iar planul care are nevoie de viză îl ducem la recepție tehnică la oficiul de cadastru.",
+      "contextSentence": "Pentru proiectele din {localitate}, planul cerut prin certificatul de urbanism trece pe la recepția tehnică a oficiului de cadastru, iar exemplarele vizate ajung la dosarul de autorizare și la proiectant.",
+      "metaTail": "Plan vizat OCPI pentru autorizare"
+    },
     "hubFaq": [
       {
         "q": "Primăria mi-a cerut „plan topografic vizat OCPI”. Ce înseamnă?",
@@ -1880,6 +1888,14 @@
       "intabulare-teren",
       "dezmembrare-alipire"
     ],
+    "depunere": {
+      "atBcpi": false,
+      "cardHeading": "Ce vă rămâne după trasare",
+      "cardText": "Trasarea nu produce un dosar de depus la biroul de cadastru și nu se înscrie în cartea funciară. Punctele din acte sau din proiectul autorizat le materializăm în teren, în {localitate}, cu țăruși, borne sau vopsea, iar rezultatul îl consemnăm în procesul-verbal de trasare, pe care îl semnăm și îl predăm pe loc dumneavoastră sau constructorului, împreună cu schița punctelor trasate. Dacă din măsurători reiese că actele imobilului din {localitate} nu mai corespund situației din teren, vă spunem ce documentație separată ar fi necesară.",
+      "introSentence": "Ne deplasăm la fața locului cu GPS și stație totală, materializăm punctele cerute și vă predăm pe teren procesul-verbal de trasare, semnat.",
+      "contextSentence": "Pentru trasările din {localitate} nu se deschide dosar la biroul de cadastru: punctele rămân materializate în teren, iar procesul-verbal de trasare și schița vă rămân dumneavoastră și constructorului.",
+      "metaTail": "Proces-verbal de trasare, predat pe loc"
+    },
     "hubFaq": [
       {
         "q": "Vecinul susține că gardul stă pe terenul lui. Cum aflu cine are dreptate?",
