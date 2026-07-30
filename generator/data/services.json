@@ -183,6 +183,139 @@
         "href": "/dictionar/documentatie-cadastrala.html",
         "label": "Documentație cadastrală — ce conține dosarul"
       }
+    ],
+    "acteVariants": [
+      {
+        "caseType": "teren-intravilan",
+        "label": "Teren în intravilan, fără carte funciară (primă înscriere)",
+        "items": [
+          "Actul de proprietate în copie legalizată: contract de vânzare-cumpărare, titlu de proprietate, certificat de moștenitor, act de donație, act de partaj sau hotărâre judecătorească definitivă",
+          "Copie după actul de identitate al fiecărui proprietar; pentru firme, certificatul de înregistrare",
+          "Certificat de atestare fiscală eliberat de primărie, pe numele proprietarului, cu mențiunea că se eliberează pentru cadastru",
+          "Adeverință de la primărie cu adresa administrativă a imobilului și cu încadrarea în intravilan, atunci când adresa scrisă în acte diferă de cea de astăzi",
+          "Schița sau planul de situație anexat actului de proprietate, dacă există"
+        ],
+        "note": "Documentația cadastrală, planul de amplasament și delimitare, cererea și declarația de identificare a imobilului le întocmim noi. Dumneavoastră ne trimiteți doar actele de mai sus, fotografiate lizibil."
+      },
+      {
+        "caseType": "teren-extravilan",
+        "label": "Teren în extravilan, cu titlu de proprietate din fondul funciar",
+        "items": [
+          "Titlul de proprietate emis de comisia județeană, în copie legalizată",
+          "Procesul-verbal de punere în posesie și schița de la punerea în posesie, dacă le mai aveți",
+          "Adeverință din registrul agricol de la primărie, pentru identificarea parcelelor din titlu",
+          "Copie după actele de identitate ale tuturor persoanelor care figurează în titlu",
+          "Certificat de atestare fiscală pentru cadastru, eliberat de primărie",
+          "Planul parcelar pentru tarlaua din care face parte terenul, dacă primăria îl are întocmit"
+        ],
+        "note": "La extravilan, hotarul din teren este de multe ori singura dovadă rămasă. Mergem la fața locului cu dumneavoastră sau cu o persoană care cunoaște hotarul și, unde este cazul, întocmim procesul-verbal de vecinătate, semnat de proprietarii terenurilor învecinate."
+      },
+      {
+        "caseType": "mostenire",
+        "label": "Imobil moștenit",
+        "items": [
+          "Certificatul de moștenitor; dacă au fost mai multe succesiuni, toate certificatele care duc lanțul până la dumneavoastră",
+          "Actul de proprietate pe numele defunctului: titlu de proprietate, contract de vânzare-cumpărare, act de donație sau hotărâre judecătorească",
+          "Copie după actele de identitate ale moștenitorilor care apar în certificat",
+          "Certificat de atestare fiscală pentru cadastru, eliberat pe numele moștenitorilor",
+          "Extras de carte funciară pentru informare, în cazul în care imobilul figurează deja pe numele defunctului"
+        ],
+        "note": "Dacă succesiunea nu a fost dezbătută, aceasta este prima etapă și se face la notar. Vă spunem ce acte cere notarul pentru dosarul de succesiune și pregătim între timp măsurătoarea, ca lucrarea să continue imediat ce aveți certificatul de moștenitor."
+      },
+      {
+        "caseType": "teren-cu-constructie",
+        "label": "Teren cu casă pe el, ambele de înscris",
+        "items": [
+          "Actul de proprietate al terenului, în copie legalizată",
+          "Autorizația de construire împreună cu procesul-verbal de recepție la terminarea lucrărilor, pentru construcțiile ridicate cu autorizație",
+          "Certificatul de atestare a edificării construcției, eliberat de primărie, pentru construcțiile vechi fără autorizație",
+          "Certificat de atestare fiscală pentru cadastru, în care construcția să figureze la rol",
+          "Copie după actele de identitate ale proprietarilor"
+        ],
+        "note": "Măsurăm terenul și construcția în aceeași deplasare și întocmim releveele pe niveluri pentru casă. Amândouă intră în același dosar, depus la OCPI, nu în două lucrări separate."
+      },
+      {
+        "caseType": "constructie-veche-fara-autorizatie",
+        "label": "Casă veche, ridicată fără autorizație de construire",
+        "items": [
+          "Certificatul de atestare a edificării construcției, eliberat de primăria localității",
+          "Adeverință din registrul agricol, care arată că locuința figurează pe numele dumneavoastră",
+          "Actul de proprietate al terenului pe care se află casa",
+          "Declarație pe propria răspundere a proprietarului cu privire la edificarea construcției",
+          "Copie după actul de identitate și certificat de atestare fiscală pentru cadastru"
+        ],
+        "note": "Este cel mai frecvent caz la casele din sate și de la marginea orașelor. Primăria eliberează certificatul de atestare a edificării pe baza evidențelor proprii; vă spunem ce cerere depuneți și ce trebuie să conțină, ca să nu vă întoarcă dosarul."
+      },
+      {
+        "caseType": "constructie-noua-cu-receptie",
+        "label": "Casă nouă, terminată, cu autorizație și recepție",
+        "items": [
+          "Autorizația de construire, împreună cu prelungirile ei, dacă a fost prelungită",
+          "Procesul-verbal de recepție la terminarea lucrărilor",
+          "Certificatul de atestare a edificării construcției, eliberat de primărie după recepție",
+          "Extrasul de carte funciară al terenului, dacă acesta este deja intabulat",
+          "Copie după actele de identitate ale proprietarilor și certificat de atestare fiscală pentru cadastru"
+        ],
+        "note": "Dacă terenul este deja înscris, construcția se notează pe cartea funciară existentă și nu se deschide una nouă. Întocmim planul de amplasament și delimitare cu construcția și releveele pe fiecare nivel, apoi depunem dosarul complet."
+      },
+      {
+        "caseType": "extindere-modificare",
+        "label": "Extindere, mansardare sau demolare parțială la o construcție deja înscrisă",
+        "items": [
+          "Autorizația de construire pentru lucrările executate",
+          "Procesul-verbal de recepție la terminarea lucrărilor",
+          "Certificatul de atestare a edificării sau a extinderii, eliberat de primărie",
+          "Extras de carte funciară pentru informare, cu situația actuală a imobilului",
+          "Documentația cadastrală anterioară, dacă o aveți în copie"
+        ],
+        "note": "Aici nu este vorba de o primă înscriere, ci de actualizarea datelor imobilului: suprafața construită s-a schimbat, iar cartea funciară trebuie pusă de acord cu ce există în teren. Fără acest pas, actele nu descriu clădirea reală și tranzacția se blochează la notar."
+      },
+      {
+        "caseType": "apartament",
+        "label": "Apartament în bloc",
+        "items": [
+          "Actul de proprietate: contract de vânzare-cumpărare, contract de construire cu procesul-verbal de predare-primire, certificat de moștenitor sau act de donație",
+          "Copie după actele de identitate ale proprietarilor",
+          "Certificat de atestare fiscală pentru cadastru, eliberat de primărie",
+          "Extras de carte funciară pentru informare, în cazul în care apartamentul are deja număr cadastral",
+          "Schița apartamentului anexată actului de proprietate, dacă există"
+        ],
+        "note": "La apartamente, măsurătoarea se face în interior. Întocmim releveul pe baza măsurătorii, nu pe baza schiței din contract, pentru că suprafețele reale diferă frecvent de cele trecute în actele vechi."
+      },
+      {
+        "caseType": "teren-fara-act-de-proprietate",
+        "label": "Teren folosit de familie, dar fără act de proprietate",
+        "items": [
+          "Orice înscris vechi pe care îl aveți: act de vânzare sub semnătură privată, act de partaj voluntar, testament, chitanță de mână",
+          "Adeverință din registrul agricol, care arată de când figurează terenul pe numele familiei",
+          "Certificat de atestare fiscală și dovada plății impozitului pe teren",
+          "Acte de stare civilă care leagă posesorul actual de persoanele din înscrisurile vechi",
+          "Numele și datele vecinilor de pe fiecare latură a terenului"
+        ],
+        "note": "Este singura situație în care nu vă putem spune din prima ce se poate face. Verificăm întâi ce figurează în cartea funciară, apoi ce are primăria în evidențe, și vă spunem clar dacă imobilul se poate înscrie și pe ce cale. Nu pornim o lucrare despre care știm că nu se poate finaliza."
+      }
+    ],
+    "problemOpeners": [
+      {
+        "situation": "Notarul a oprit vânzarea",
+        "text": "Ați găsit cumpărător, ați bătut palma, iar la notar ați aflat că imobilul nu poate fi vândut: nu are carte funciară. Este situația cu care ne întâlnim cel mai des. Nu s-a stricat nimic — imobilul trebuie măsurat, identificat și înscris în cartea funciară, iar apoi notarul poate autentifica actul. Trimiteți-ne pe WhatsApp actele pe care le aveți și vă spunem exact ce lipsește."
+      },
+      {
+        "situation": "Moștenire cu acte vechi",
+        "text": "Părinții au lăsat casa și pământul, dar în acte figurează tot ei, iar hârtiile sunt cele de la împărțirea terenurilor. Frații nu știu de unde să înceapă. Ordinea este simplă: întâi certificatul de moștenitor la notar, apoi măsurătoarea și trecerea imobilului în cartea funciară pe moștenitori. Ne uităm peste ce acte există și vă spunem ce se poate face cu ele."
+      },
+      {
+        "situation": "Casa nu apare în cartea funciară",
+        "text": "Casa este ridicată de zeci de ani, familia plătește impozit pe ea la primărie, iar în cartea funciară figurează doar terenul. La vânzare sau la credit, cumpărătorul și banca văd în acte un teren gol. Construcția se poate înscrie și acum: cu certificatul de atestare a edificării de la primărie, cu măsurătoare și cu releveele pe niveluri, întocmite de noi."
+      },
+      {
+        "situation": "Banca cere acte pentru credit",
+        "text": "Aveți dosarul depus la bancă, vi s-a cerut documentația cadastrală și extrasul de carte funciară, iar termenul curge. Lucrăm frecvent cu dosare de credit și știm cum arată presiunea asta. Verificăm întâi ce este deja înscris, măsurăm imobilul, întocmim documentația și o depunem, ținându-vă la curent la fiecare pas. Trimiteți-ne un mesaj pe WhatsApp și spuneți-ne de la început că lucrarea este pentru bancă."
+      },
+      {
+        "situation": "Neînțelegere de limită cu vecinul",
+        "text": "Vecinul a mutat gardul, a arat peste hotar sau susține că o parte din curte este a lui, iar din acte nu reiese clar pe unde trece limita. Măsurăm imobilul pe coordonate, comparăm ce am găsit la fața locului cu actele și cu planurile existente și punem pe hârtie unde este limita în realitate. Rezultatul este un document pe care îl puteți arăta vecinului, primăriei sau instanței."
+      }
     ]
   },
   {
@@ -362,6 +495,103 @@
         "href": "/dictionar/extravilan.html",
         "label": "Extravilan — ce înseamnă pentru intabulare"
       }
+    ],
+    "acteVariants": [
+      {
+        "caseType": "intravilan",
+        "label": "Teren în intravilan",
+        "items": [
+          "Act de proprietate în copie legalizată: contract de vânzare-cumpărare, act de donație, act de schimb, titlu de proprietate sau certificat de moștenitor",
+          "Acte de identitate ale tuturor proprietarilor",
+          "Certificat de atestare fiscală eliberat de primărie pentru cadastru, cu terenul pe rolul proprietarului",
+          "Extras de carte funciară pentru informare, dacă imobilul are deja carte funciară deschisă",
+          "Documentația cadastrală anterioară sau planul de amplasament vechi, dacă terenul a mai fost măsurat",
+          "Certificat de urbanism sau adeverință de intravilan de la primărie, când trebuie confirmată încadrarea terenului",
+          "Proces-verbal de vecinătate semnat de vecini — se întocmește de noi la măsurătoare"
+        ],
+        "note": "Actele de identitate și actul de proprietate le puteți fotografia și trimite pe WhatsApp înainte de deplasare; verificăm din start dacă mai lipsește ceva, ca să nu faceți drumuri degeaba la primărie."
+      },
+      {
+        "caseType": "extravilan",
+        "label": "Teren agricol în extravilan",
+        "items": [
+          "Titlu de proprietate emis de comisia județeană de fond funciar, în copie legalizată",
+          "Proces-verbal de punere în posesie și schița de punere în posesie, de la primărie",
+          "Extras din planul parcelar al tarlalei, de la primărie sau din arhiva biroului de cadastru",
+          "Adeverință din registrul agricol pentru parcela în cauză, de la primărie",
+          "Adeverință de la primărie pentru imobilele din zonă necooperativizată, unde nu s-a emis titlu de proprietate",
+          "Certificat de atestare fiscală de la primărie",
+          "Acte de identitate ale proprietarilor",
+          "Extras de carte funciară pentru informare, dacă parcela a fost deja înscrisă",
+          "Proces-verbal de vecinătate — se întocmește la identificarea limitelor în câmp"
+        ],
+        "note": "La extravilan partea grea nu sunt actele, ci găsirea parcelei pe teren. Titlul spune tarlaua și parcela, nu coordonatele. De aceea mergem în câmp împreună cu dumneavoastră și, dacă se poate, cu un vecin care ține minte reperele vechi. O parcelă confundată se plătește scump: ajungeți cu acte pe pământul altui om."
+      },
+      {
+        "caseType": "mostenire",
+        "label": "Teren moștenit",
+        "items": [
+          "Certificat de moștenitor sau certificat de moștenitor suplimentar, eliberat de notar",
+          "Actul de proprietate pe numele defunctului: titlu de proprietate, contract de vânzare-cumpărare, act de donație",
+          "Certificat de deces al proprietarului",
+          "Acte de identitate ale moștenitorilor",
+          "Dovada înregistrării terenului pe numele moștenitorilor la Direcția Taxe și Impozite a primăriei",
+          "Certificat de atestare fiscală eliberat pe numele moștenitorilor",
+          "Extras de carte funciară pentru informare, dacă terenul figurează deja în cartea funciară",
+          "Documentația cadastrală anterioară, dacă terenul a fost măsurat cândva"
+        ],
+        "note": "Când nimeni nu a mai umblat la succesiune, dosarul succesoral se deschide la notarul din localitatea ultimului domiciliu al defunctului, indiferent dacă terenul figurează sau nu în cartea funciară. Pasul uitat de aproape toată lumea este înregistrarea terenului pe numele moștenitorilor la Direcția Taxe și Impozite — fără ea primăria nu eliberează certificatul de atestare fiscală, iar dosarul se oprește acolo."
+      },
+      {
+        "caseType": "teren-cu-constructie",
+        "label": "Teren cu construcție pe el",
+        "items": [
+          "Act de proprietate pentru teren, în copie legalizată",
+          "Autorizație de construire și proces-verbal de recepție la terminarea lucrărilor pentru construcție",
+          "Certificat de atestare a edificării construcției, eliberat de primărie, când nu există autorizație sau recepție",
+          "Certificat de atestare fiscală care cuprinde atât terenul, cât și construcția",
+          "Acte de identitate ale proprietarilor",
+          "Extras de carte funciară pentru informare, dacă imobilul este deja înscris",
+          "Releveele construcției — le întocmim noi la măsurătoare, împreună cu planul de amplasament și delimitare"
+        ],
+        "note": "Terenul și construcția intră într-o singură documentație și într-o singură carte funciară, nu în două dosare separate. Dacă însă construcția nu are acte, terenul se poate înscrie singur, iar clădirea se adaugă ulterior — vă spunem de la început care variantă este mai ieftină și mai rapidă în cazul dumneavoastră."
+      },
+      {
+        "caseType": "fara-acte-vechi",
+        "label": "Teren fără acte de proprietate",
+        "items": [
+          "Adeverință din registrul agricol care atestă folosința terenului, de la primărie",
+          "Certificat de atestare fiscală, care arată că terenul figurează pe rolul dumneavoastră",
+          "Acte vechi, chiar și sub semnătură privată: chitanțe de mână, acte de partaj, schițe, contracte neautentificate",
+          "Declarații ale vecinilor și proces-verbal de vecinătate",
+          "Hotărâre judecătorească definitivă, când dreptul de proprietate a fost stabilit în instanță",
+          "Cererea și documentele depuse la comisia locală de fond funciar, dacă s-a cerut reconstituirea dreptului",
+          "Acte de identitate"
+        ],
+        "note": "Fără un act de proprietate valabil, terenul nu se înscrie pe numele dumneavoastră printr-o documentație obișnuită. Verificăm întâi ce se poate valorifica: reconstituirea dreptului la comisia locală de fond funciar, înscrierea posesiei prin cadastrul sistematic sau acțiunea în instanță. Vă spunem din prima discuție care variantă se aplică, ca să nu plătiți o măsurătoare care nu poate fi folosită."
+      }
+    ],
+    "problemOpeners": [
+      {
+        "situation": "Notarul a blocat vânzarea — terenul nu are carte funciară",
+        "text": "Ați găsit cumpărător, ați stabilit prețul, iar la notar aflați că nu se poate semna: terenul nu are carte funciară, deci nu există extras valabil. Nu este o piedică juridică, este o lipsă de documentație. Se rezolvă cu prima înscriere: identificarea parcelei, măsurătoarea la fața locului, planul de amplasament și delimitare, dosarul depus la biroul de cadastru. Trimiteți-ne pe WhatsApp actele pe care le aveți și vă spunem exact ce lipsește."
+      },
+      {
+        "situation": "Teren moștenit, cu titlul rămas pe numele unui părinte decedat",
+        "text": "Ați rămas cu un teren de la părinți sau bunici, titlul de proprietate este încă pe numele lor, iar nimeni nu a mai umblat la acte de ani de zile. Ordinea contează: întâi succesiunea la notar și certificatul de moștenitor, apoi înregistrarea la Direcția Taxe și Impozite, abia apoi măsurătoarea și deschiderea cărții funciare pe numele dumneavoastră. Spuneți-ne ce acte există în casă și vă arătăm de unde se pornește."
+      },
+      {
+        "situation": "Parcelă agricolă cu titlu pe tarla și parcelă, pe care nimeni nu o mai găsește pe teren",
+        "text": "Aveți un titlu de proprietate din fond funciar care spune tarlaua și parcela, dar pe teren nu mai știe nimeni exact unde începe și unde se termină. Locul a fost lucrat de altcineva, reperele au dispărut, vecinii au versiuni diferite. Pornim de la planul parcelar și de la procesul-verbal de punere în posesie, mergem cu dumneavoastră în câmp și fixăm limitele înainte de a întocmi documentația."
+      },
+      {
+        "situation": "Vecinul a mutat gardul sau contestă limita",
+        "text": "S-a mutat un gard, s-a arat peste hotar sau vecinul și-a intabulat imobilul cu o limită pe care dumneavoastră nu o recunoașteți. Prima măsură nu este plângerea, ci măsurătoarea: verificăm ce arată actele fiecăruia, planul parcelar și imobilele deja înscrise în zonă, apoi vă arătăm negru pe alb unde cade limita corectă. De acolo se poate merge pe înțelegere, pe expertiză sau, dacă nu se poate altfel, în instanță."
+      },
+      {
+        "situation": "Terenul e cerut ca garanție la bancă sau într-un dosar de finanțare",
+        "text": "Banca, finanțatorul sau consultantul de fonduri v-a cerut extras de carte funciară pentru teren și ați descoperit că nu aveți așa ceva. Fără număr cadastral și fără înscriere, terenul nu poate fi ipotecat și nu este acceptat ca garanție într-un dosar de finanțare. Facem măsurătoarea, întocmim documentația și depunem dosarul, iar la final primiți extrasul cerut. Scrieți-ne ce vi s-a cerut și de când aveți nevoie."
+      }
     ]
   },
   {
@@ -540,6 +770,147 @@
         "href": "/ghid/intabulare-teren-fara-acte.html",
         "label": "Teren fără acte de proprietate: soluțiile reale"
       }
+    ],
+    "acteVariants": [
+      {
+        "caseType": "constructie-noua-autorizata",
+        "label": "Construcție nouă, cu autorizație de construire și recepție",
+        "items": [
+          "Extrasul de carte funciară al terenului sau actul de proprietate asupra terenului",
+          "Autorizația de construire, în copie",
+          "Procesul-verbal de recepție la terminarea lucrărilor, semnat cu comisia primăriei",
+          "Certificatul de atestare a edificării construcției, eliberat de primăria care a emis autorizația",
+          "Certificat de atestare fiscală, cu construcția declarată la rolul fiscal",
+          "Actele de identitate ale proprietarilor, în copie",
+          "Procură notarială, dacă dosarul se semnează prin împuternicit"
+        ],
+        "note": "Planul de amplasament actualizat, releveele pe niveluri, memoriul tehnic și cererea tip le întocmim noi — pe acestea nu trebuie să le aduceți dumneavoastră."
+      },
+      {
+        "caseType": "autorizatie-fara-receptie",
+        "label": "Casă construită cu autorizație, dar fără recepția la terminarea lucrărilor",
+        "items": [
+          "Autorizația de construire și, dacă a fost prelungită, actele de prelungire",
+          "Proiectul autorizat și cartea tehnică a construcției, dacă există",
+          "Extrasul de carte funciară al terenului",
+          "Certificat de atestare fiscală",
+          "Actele de identitate ale proprietarilor"
+        ],
+        "note": "Aici primul pas nu este la OCPI, ci la primărie: se încheie recepția la terminarea lucrărilor, apoi se eliberează certificatul de atestare a edificării. Abia după aceea se depune dosarul de înscriere."
+      },
+      {
+        "caseType": "casa-veche-fara-autorizatie",
+        "label": "Casă veche, ridicată înainte de regulile actuale de autorizare",
+        "items": [
+          "Actul de proprietate asupra terenului pe care se află casa",
+          "Extrasul de carte funciară al terenului, dacă acesta este deja înscris",
+          "Certificat de atestare fiscală din care rezultă că locuința figurează la rolul fiscal, cu anul edificării",
+          "Adeverință din registrul agricol al primăriei, acolo unde există",
+          "Declarație pe propria răspundere privind identificarea imobilului și anul edificării",
+          "Certificatul de moștenitor și actele autorului, dacă imobilul provine din succesiune",
+          "Actele de identitate ale tuturor proprietarilor"
+        ],
+        "note": "Anul edificării decide întregul dosar, așa că îl stabilim cu documente, nu din memorie: registrul agricol, evidența fiscală, actele vechi ale familiei, ortofotoplanuri."
+      },
+      {
+        "caseType": "constructie-fara-autorizatie-prescrisa",
+        "label": "Construcție fără autorizație, ridicată după intrarea în vigoare a regulilor actuale",
+        "items": [
+          "Actul de proprietate asupra terenului și extrasul de carte funciară, dacă terenul este înscris",
+          "Documente din care rezultă anul edificării: adeverințe din registrul agricol, evidențe fiscale, ortofotoplanuri",
+          "Raport de expertiză tehnică privind respectarea cerințelor fundamentale de calitate în construcții",
+          "Certificatul sau adeverința de atestare a edificării, emise de primărie pe baza expertizei",
+          "Certificat de atestare fiscală cu construcția înscrisă la rolul fiscal",
+          "Actele de identitate ale proprietarilor"
+        ],
+        "note": "Această cale se deschide numai după împlinirea termenului de prescripție prevăzut de lege. Pentru construcțiile foarte recente nu există scurtătură: se merge pe intrare în legalitate, la primărie."
+      },
+      {
+        "caseType": "extindere-mansardare",
+        "label": "Extindere, mansardare sau modificare a unei case deja înscrise",
+        "items": [
+          "Extrasul de carte funciară actual al imobilului",
+          "Autorizația de construire pentru extindere sau mansardare",
+          "Procesul-verbal de recepție la terminarea lucrărilor",
+          "Certificatul de atestare a edificării pentru lucrarea nouă",
+          "Certificat de atestare fiscală cu suprafața construită actualizată",
+          "Actele de identitate ale proprietarilor"
+        ],
+        "note": "Nu este o primă înscriere, ci o actualizare a documentației cadastrale existente: remăsurăm construcția și refacem releveele pentru suprafețele noi."
+      },
+      {
+        "caseType": "anexe-gospodaresti",
+        "label": "Garaj, grajd, șură și alte anexe gospodărești",
+        "items": [
+          "Extrasul de carte funciară al imobilului",
+          "Autorizația de construire și procesul-verbal de recepție, pentru anexele autorizate",
+          "Certificat de atestare fiscală din care rezultă că anexa este declarată la rolul fiscal",
+          "Adeverință de la primărie privind regimul de exceptare, pentru anexele agricole exceptate de la autorizare",
+          "Actele de identitate ale proprietarilor"
+        ],
+        "note": "Anexele se măsoară și se înscriu odată cu casa, într-un singur dosar. Este varianta care ține actele curate la vânzare, la credit și la partaj."
+      },
+      {
+        "caseType": "casa-pe-teren-neintabulat",
+        "label": "Casa se află pe un teren care nu este încă intabulat",
+        "items": [
+          "Actul de proprietate asupra terenului: contract, titlu de proprietate, certificat de moștenitor sau act de partaj",
+          "Certificatul de moștenitor și actele autorului, dacă terenul provine din succesiune",
+          "Certificat de atestare fiscală pentru teren și pentru construcție",
+          "Actele construcției, atât cât există: autorizație și recepție sau, la casele vechi, evidențele fiscale",
+          "Adeverință de la primărie privind adresa administrativă, unde este cazul",
+          "Actele de identitate ale proprietarilor"
+        ],
+        "note": "Terenul se intabulează primul, pentru că în cartea lui funciară intră construcția. Facem cele două operațiuni într-o singură documentație și un singur dosar, cu o singură deplasare pentru măsurători."
+      },
+      {
+        "caseType": "casa-mostenita",
+        "label": "Casă moștenită, neînscrisă în cartea funciară",
+        "items": [
+          "Certificatul de moștenitor sau certificatul de calitate de moștenitor",
+          "Actele de proprietate ale defunctului asupra terenului și, dacă există, asupra construcției",
+          "Extrasul de carte funciară, dacă imobilul figurează deja pe numele autorului",
+          "Certificat de atestare fiscală pe numele moștenitorilor, cu construcția la rolul fiscal",
+          "Actele care atestă vechimea construcției: registrul agricol, evidențe fiscale vechi",
+          "Actele de identitate ale tuturor moștenitorilor"
+        ],
+        "note": "Dacă succesiunea nu este dezbătută, ea se face prima, la notar. Fără certificat de moștenitor, dosarul nu poate fi depus pe numele dumneavoastră."
+      },
+      {
+        "caseType": "radiere-constructie-demolata",
+        "label": "Construcție demolată sau prăbușită, care încă apare în cartea funciară",
+        "items": [
+          "Extrasul de carte funciară de informare, recent",
+          "Actul de proprietate asupra imobilului",
+          "Autorizația de desființare emisă de primărie",
+          "Procesul-verbal de recepție la terminarea lucrărilor de desființare",
+          "Certificat de atestare fiscală din care rezultă că acea construcție a fost scoasă de la rolul fiscal",
+          "Actele de identitate ale proprietarilor"
+        ],
+        "note": "Dacă în locul construcției demolate ați ridicat una nouă, radierea și înscrierea se depun în același dosar. Dacă s-a dărâmat doar o parte, nu este radiere, ci actualizare de suprafață construită."
+      }
+    ],
+    "problemOpeners": [
+      {
+        "situation": "notarul a blocat vânzarea pentru că locuința nu apare în cartea funciară",
+        "text": "Ați găsit cumpărător, ați fixat data la notar, iar notarul v-a spus că în extras apare doar terenul. Casa, juridic, nu există. Nu se semnează nimic până nu este înscrisă. Se rezolvă cu o documentație cadastrală de înscriere a construcției: măsurăm casa, întocmim planul de amplasament și releveele, ridicăm actele de la primărie și depunem dosarul la OCPI. Trimiteți-ne extrasul și actele casei pe WhatsApp."
+      },
+      {
+        "situation": "casa părintească nu are acte pe construcție, iar moștenirea trebuie împărțită",
+        "text": "Casa în care ați copilărit este a familiei de generații, dar în acte nu figurează nicăieri: terenul apare pe bunici, construcția pe nimeni. La partaj sau la vânzare, blocajul este garantat. Pentru astfel de case, primăria eliberează certificatul de atestare pe baza evidențelor fiscale și a registrului agricol. Stabilim mai întâi, cu documente, anul edificării și situația terenului, apoi ducem dosarul până la extrasul final."
+      },
+      {
+        "situation": "banca cere locuința înscrisă în cartea funciară pentru credit sau refinanțare",
+        "text": "Ați depus dosarul de credit, evaluatorul a venit la fața locului, apoi a constatat că suprafața construită din extras nu se potrivește cu ce a măsurat el, ori că locuința nu apare deloc. Banca nu merge mai departe. Verificăm ce scrie astăzi în cartea funciară, remăsurăm construcția și întocmim documentația de înscriere sau de actualizare. Spuneți-ne data limită din ofertă și lucrăm după ea."
+      },
+      {
+        "situation": "casa nouă este gata și recepționată, dar înscrierea a rămas în urmă",
+        "text": "Ați terminat casa, ați semnat procesul-verbal de recepție cu comisia primăriei și v-ați mutat. Mai târziu descoperiți că în cartea funciară figurează tot un teren liber. Recepția nu înscrie construcția automat. Urmează certificatul de atestare de la primărie, declararea la rolul fiscal și documentația cadastrală de înscriere, cu relevee pe niveluri. Le facem pe toate și vă predăm extrasul actualizat."
+      },
+      {
+        "situation": "gospodăria s-a extins în timp, iar suprafața din acte nu mai corespunde cu realitatea",
+        "text": "În timp, gospodăria a crescut: o cameră în plus, o terasă închisă, un garaj, o șură. În cartea funciară a rămas însă situația veche, iar suprafața construită scrisă acolo nu se mai potrivește cu realitatea din curte. Orice vânzare, credit sau succesiune se lovește de această diferență. Remăsurăm tot ce există, refacem releveele și actualizăm documentația cadastrală."
+      }
     ]
   },
   {
@@ -697,6 +1068,117 @@
         "href": "/dictionar/apartamentare.html",
         "label": "Apartamentare — împărțirea clădirii în locuințe cu carte funciară proprie"
       }
+    ],
+    "acteVariants": [
+      {
+        "caseType": "bloc-vechi-prima-inscriere",
+        "label": "Apartament în bloc vechi, fără cadastru (prima înscriere)",
+        "items": [
+          "Contractul de vânzare-cumpărare încheiat cu statul sau cu unitatea deținătoare, ori contractul de construire",
+          "Procesul-verbal de predare-primire a locuinței, dacă îl mai aveți",
+          "Actele de identitate ale tuturor proprietarilor înscriși în contract",
+          "Certificat de atestare fiscală eliberat de primărie, pe numele proprietarului",
+          "Schița apartamentului anexată contractului, dacă există"
+        ],
+        "note": "Contractul vechi rămâne act de proprietate valabil; nu trebuie refăcut la notar. Dacă blocul nu are carte funciară colectivă, verificăm întâi ce este înregistrat pe clădire și pe terenul de sub bloc și vă spunem ce pas urmează."
+      },
+      {
+        "caseType": "mostenire",
+        "label": "Apartament moștenit",
+        "items": [
+          "Certificatul de moștenitor, în original sau copie legalizată",
+          "Actul de proprietate al defunctului (contract de vânzare-cumpărare, contract de construire, titlu)",
+          "Actele de identitate ale tuturor moștenitorilor",
+          "Certificat de atestare fiscală de la primărie, pe numele moștenitorilor",
+          "Extras de carte funciară pentru informare, dacă apartamentul a mai fost înscris"
+        ],
+        "note": "Dacă succesiunea nu este dezbătută, aceasta este prima etapă și se face la notar — fără certificat de moștenitor apartamentul nu poate fi trecut pe moștenitori. Când sunt mai mulți moștenitori, apartamentul se înscrie pe toți, în cotele din certificat."
+      },
+      {
+        "caseType": "vanzare-actualizare",
+        "label": "Apartament cu cadastru vechi, pregătit pentru vânzare",
+        "items": [
+          "Actul de proprietate al apartamentului",
+          "Extras de carte funciară pentru informare",
+          "Documentația cadastrală veche, dacă o mai aveți (releveu, fișa bunului imobil)",
+          "Actele de identitate ale proprietarilor",
+          "Certificat de atestare fiscală de la primărie"
+        ],
+        "note": "Când suprafața din cartea funciară nu corespunde cu cea măsurată, sau apartamentul apare cu două numere cadastrale, lucrarea este de actualizare, nu de primă înscriere. Stabilim asta după ce vedem extrasul, înainte să comandați ceva."
+      },
+      {
+        "caseType": "credit-ipotecar",
+        "label": "Apartament cumpărat prin credit ipotecar",
+        "items": [
+          "Actul de proprietate al vânzătorului",
+          "Extras de carte funciară pentru informare, cât mai recent",
+          "Releveul apartamentului, dacă banca îl cere separat de documentația cadastrală",
+          "Actele de identitate ale vânzătorului și ale cumpărătorului",
+          "Certificat de atestare fiscală de la primărie, pe numele vânzătorului"
+        ],
+        "note": "Spuneți-ne de la început că este dosar de credit. Dacă apartamentul are modificări neînscrise sau suprafețe care nu corespund, le rezolvăm înainte de evaluare, ca semnarea la notar să nu se amâne."
+      },
+      {
+        "caseType": "bloc-nou-apartamentare",
+        "label": "Apartament în bloc nou / apartamentarea clădirii",
+        "items": [
+          "Autorizația de construire a blocului",
+          "Procesul-verbal de recepție la terminarea lucrărilor",
+          "Certificatul de atestare a edificării construcției, eliberat de primărie",
+          "Cartea funciară a clădirii sau extrasul acesteia, dacă a fost deja înscrisă",
+          "Planurile de arhitectură pe niveluri, dacă dezvoltatorul le pune la dispoziție",
+          "Contractul de vânzare-cumpărare sau antecontractul, pentru cumpărătorii individuali"
+        ],
+        "note": "Documentația de apartamentare se face o singură dată, pentru toată clădirea, iar apoi fiecare locuință primește carte funciară proprie, cu cotele din părțile comune și din teren. Dacă sunteți cumpărător individual, actele de mai sus le deține dezvoltatorul — vi le poate pune la dispoziție la cerere."
+      },
+      {
+        "caseType": "modificari-interioare",
+        "label": "Apartament cu balcon închis sau recompartimentat",
+        "items": [
+          "Actul de proprietate al apartamentului",
+          "Extras de carte funciară pentru informare",
+          "Releveul sau schița veche a apartamentului, dacă există",
+          "Autorizația de construire și recepția lucrării, dacă modificarea a necesitat autorizație",
+          "Actele de identitate ale proprietarilor",
+          "Certificat de atestare fiscală de la primărie"
+        ],
+        "note": "Nu orice modificare interioară cere autorizație. La releveu vedem exact ce s-a schimbat față de schița înscrisă și vă spunem dacă este nevoie de un act de la primărie sau dacă documentația nouă este suficientă."
+      },
+      {
+        "caseType": "apartamentare-casa",
+        "label": "Casă împărțită în două sau mai multe apartamente",
+        "items": [
+          "Actul de proprietate al imobilului",
+          "Extras de carte funciară pentru informare",
+          "Autorizația de construire și procesul-verbal de recepție, dacă există",
+          "Certificatul de atestare a edificării construcției, dacă locuința nu are autorizație",
+          "Acordul scris al tuturor coproprietarilor",
+          "Actele de identitate ale proprietarilor"
+        ],
+        "note": "Apartamentarea se poate face doar dacă fiecare unitate are acces propriu și poate funcționa independent. Verificăm întâi situația din cartea funciară și din teren și vă spunem dacă imobilul îndeplinește condițiile, înainte să porniți lucrarea."
+      }
+    ],
+    "problemOpeners": [
+      {
+        "situation": "vanzare-blocata-la-notar",
+        "text": "Aveți cumpărător, ați stabilit prețul, iar la notar aflați că apartamentul nu poate fi vândut: nu are cadastru sau ce este înscris nu corespunde cu realitatea. Nu este vina dumneavoastră și nu înseamnă că actul de proprietate e prost. Înseamnă doar că locuința nu figurează încă în cartea funciară ca unitate individuală. Ne trimiteți actele pe WhatsApp și vă spunem exact ce trebuie făcut."
+      },
+      {
+        "situation": "mostenire-fara-acte-clare",
+        "text": "A rămas apartamentul de la părinți și acum trebuie împărțit sau vândut, dar nimeni nu știe ce acte există. De obicei se găsește contractul vechi într-un dosar și cam atât. Ordinea este simplă: întâi succesiunea la notar, apoi cadastrul și înscrierea pe moștenitori. Ne uităm peste ce aveți, verificăm în evidențele OCPI ce e deja înregistrat și vă spunem de unde se pornește."
+      },
+      {
+        "situation": "banca-cere-documente-pentru-credit",
+        "text": "Ați găsit apartamentul, banca a dat acordul de principiu și dintr-o dată apar cerințe pe care nu le-a explicat nimeni: releveu, extras de carte funciară, suprafață care trebuie să corespundă. Dacă apartamentul are cadastru vechi sau modificări neînscrise, evaluarea se blochează exact când aveți termen. Spuneți-ne că este dosar de credit și tratăm lucrarea în consecință, de la prima discuție."
+      },
+      {
+        "situation": "bloc-vechi-cumparat-de-la-stat",
+        "text": "Locuiți de zeci de ani în același apartament, cumpărat pe vremea statului, și abia acum descoperiți că nu figurează nicăieri în cartea funciară. Este situația obișnuită a locuințelor din blocurile vechi și se rezolvă fără complicații. Contractul de atunci rămâne valabil; îi lipsește doar înscrierea. Măsurăm apartamentul, calculăm cotele din părțile comune și îl trecem în cartea funciară pe numele dumneavoastră."
+      },
+      {
+        "situation": "bloc-nou-fara-carte-funciara-proprie",
+        "text": "Ați cumpărat într-un bloc nou, ați primit cheile, dar apartamentul încă nu are carte funciară proprie — toată clădirea figurează pe un singur număr. Până când nu se face apartamentarea, locuința nu poate fi ipotecată și nu poate fi vândută ca bun de sine stătător. Facem documentația de apartamentare pentru clădire și cadastrul fiecărei unități individuale, cu cotele din părțile comune și din teren."
+      }
     ]
   },
   {
@@ -849,6 +1331,145 @@
       {
         "href": "/dictionar/comasare.html",
         "label": "Comasare — celălalt nume al alipirii parcelelor"
+      }
+    ],
+    "acteVariants": [
+      {
+        "caseType": "dezmembrare-teren-fara-constructii",
+        "label": "Dezmembrare teren fără construcții (intravilan)",
+        "items": [
+          "Extras de carte funciară de informare, recent, pentru imobilul care se dezmembrează",
+          "Copie după actul de proprietate: contract de vânzare-cumpărare, titlu de proprietate, certificat de moștenitor sau hotărâre judecătorească",
+          "Copiile actelor de identitate ale tuturor proprietarilor înscriși în cartea funciară",
+          "Copie după documentația cadastrală existentă, dacă imobilul a mai fost măsurat",
+          "Certificat de urbanism în original, eliberat de primăria localității, când operațiunea îl cere",
+          "Cererea de recepție și înscriere și declarațiile tipizate — se completează la biroul nostru, nu trebuie să le pregătiți dumneavoastră"
+        ],
+        "note": "Imobilul trebuie să fie deja intabulat. Dacă nu este, facem întâi prima înscriere și apoi dezmembrarea, ca o singură lucrare, cu o singură deplasare în teren."
+      },
+      {
+        "caseType": "dezmembrare-teren-extravilan",
+        "label": "Dezmembrare teren agricol extravilan",
+        "items": [
+          "Titlul de proprietate emis în baza legilor fondului funciar sau alt act de proprietate",
+          "Extras de carte funciară de informare, recent",
+          "Copie după documentația cadastrală existentă și, unde există, extras din planul parcelar",
+          "Copiile actelor de identitate ale proprietarilor",
+          "Adeverință din registrul agricol al primăriei privind categoria de folosință, când se cere"
+        ],
+        "note": "La extravilan primăriile cer certificatul de urbanism mai rar decât la intravilan, iar categoria de folosință rămâne cea existentă pe fiecare lot rezultat. Verificăm la primăria localității ce se aplică înainte de a măsura."
+      },
+      {
+        "caseType": "dezmembrare-teren-cu-constructii",
+        "label": "Dezmembrare teren pe care există construcții",
+        "items": [
+          "Extras de carte funciară de informare, recent, în care se vede și construcția, dacă este înscrisă",
+          "Copie după actul de proprietate al terenului",
+          "Copiile actelor de identitate ale proprietarilor",
+          "Copie după documentația cadastrală existentă a imobilului",
+          "Autorizația de construire și procesul-verbal de recepție la terminarea lucrărilor, dacă vreo construcție nu este încă înscrisă",
+          "Certificatul de atestare a edificării construcției, eliberat de primărie, pentru construcțiile vechi fără recepție",
+          "Certificat de urbanism în original, când operațiunea îl cere"
+        ],
+        "note": "Limita nouă dintre loturi nu poate trece prin construcție. Verificăm acest lucru pe teren înainte de a proiecta loturile, ca să nu ajungeți cu documentația respinsă după ce ați plătit taxele."
+      },
+      {
+        "caseType": "dezmembrare-teren-mostenit",
+        "label": "Dezmembrare teren moștenit, între moștenitori",
+        "items": [
+          "Certificatul de moștenitor sau certificatul de legatar",
+          "Extras de carte funciară de informare, recent",
+          "Copie după titlul de proprietate sau după actul prin care a dobândit defunctul",
+          "Copiile actelor de identitate ale tuturor moștenitorilor",
+          "Acordul tuturor coproprietarilor cu privire la loturile care rezultă",
+          "Certificat de urbanism în original, când operațiunea îl cere"
+        ],
+        "note": "Dacă succesiunea nu a fost dezbătută, terenul nu poate fi dezmembrat. Se merge întâi la notar pentru certificatul de moștenitor, se intabulează dreptul moștenitorilor și abia atunci se poate împărți."
+      },
+      {
+        "caseType": "parcelare-mai-multe-loturi",
+        "label": "Parcelare: împărțire în mai multe loturi de casă",
+        "items": [
+          "Certificat de urbanism în original, obligatoriu la parcelare, eliberat de primăria localității",
+          "Extras de carte funciară de informare, recent",
+          "Copie după actul de proprietate",
+          "Copiile actelor de identitate ale proprietarilor",
+          "Copie după documentația cadastrală existentă a imobilului",
+          "Planul urbanistic zonal aprobat, dacă certificatul de urbanism îl solicită"
+        ],
+        "note": "La parcelări, suprafețele minime și drumul de acces se stabilesc prin certificatul de urbanism, nu de noi. Îl citim împreună înainte de măsurătoare, ca loturile proiectate să fie exact cele care se pot aproba."
+      },
+      {
+        "caseType": "alipire-acelasi-proprietar",
+        "label": "Alipire parcele învecinate, același proprietar",
+        "items": [
+          "Extras de carte funciară de informare pentru fiecare imobil care se alipește, nu doar pentru unul",
+          "Copie după actul de proprietate pentru fiecare imobil în parte",
+          "Copie după documentația cadastrală a fiecărui imobil, dacă există",
+          "Copiile actelor de identitate ale proprietarilor",
+          "Certificat de urbanism în original, când primăria îl cere pentru alipire"
+        ],
+        "note": "Parcelele trebuie să aibă limite comune și toate trebuie să fie intabulate. Dacă una dintre ele nu este, o intabulăm întâi. Alipirea se mai numește și comasare — este aceeași operațiune, doar termenul diferă."
+      },
+      {
+        "caseType": "alipire-proprietari-diferiti",
+        "label": "Alipire parcele cu proprietari diferiți",
+        "items": [
+          "Extras de carte funciară de informare pentru fiecare imobil implicat",
+          "Copie după actul de proprietate al fiecărui imobil",
+          "Copiile actelor de identitate ale tuturor proprietarilor implicați",
+          "Actul autentic notarial prin care se stabilește situația de proprietate a imobilului rezultat — coproprietate cu cote, vânzare sau donație",
+          "Copie după documentația cadastrală a fiecărui imobil, dacă există",
+          "Certificat de urbanism în original, când primăria îl cere"
+        ],
+        "note": "Imobilul rezultat din alipire trebuie să aibă o situație de proprietate unitară, așa că pasul notarial se face înainte, nu după. Vă spunem exact ce se semnează și în ce ordine, ca documentația să treacă din prima."
+      },
+      {
+        "caseType": "alipire-pentru-intabulare-constructie",
+        "label": "Alipire pentru a putea intabula o construcție așezată pe două parcele",
+        "items": [
+          "Extras de carte funciară de informare pentru fiecare parcelă de sub construcție",
+          "Copie după actele de proprietate ale parcelelor",
+          "Copiile actelor de identitate ale proprietarilor",
+          "Autorizația de construire și procesul-verbal de recepție la terminarea lucrărilor, dacă există",
+          "Certificatul de atestare a edificării construcției, eliberat de primărie, pentru construcțiile vechi fără recepție"
+        ],
+        "note": "O construcție care trece peste limita dintre două imobile nu se poate înscrie cât timp imobilele rămân separate. Aici alipirea nu este o opțiune, ci condiția fără de care intabularea construcției nu se face."
+      },
+      {
+        "caseType": "imobil-cu-ipoteca",
+        "label": "Dezmembrare sau alipire la un imobil cu ipotecă înscrisă",
+        "items": [
+          "Acordul scris al băncii sau al creditorului ipotecar pentru operațiune",
+          "Extras de carte funciară de informare, în care se văd ipoteca și eventualele interdicții",
+          "Copie după actul de proprietate",
+          "Copie după contractul de credit, dacă banca îl cere pentru acord",
+          "Copiile actelor de identitate ale proprietarilor",
+          "Certificat de urbanism în original, când operațiunea îl cere"
+        ],
+        "note": "Ipoteca și interdicția de înstrăinare se transferă asupra loturilor rezultate. Fără acordul creditorului notarul nu autentifică actul, așa că cererea la bancă se face la început, nu la sfârșit."
+      }
+    ],
+    "problemOpeners": [
+      {
+        "situation": "Notarul a oprit vânzarea unei părți din teren",
+        "text": "Ați găsit cumpărător pentru o parte din teren, ați ajuns la notar și acolo v-ați oprit: nu se poate vinde o bucată dintr-un imobil care are o singură carte funciară. Partea vândută trebuie să devină întâi un imobil separat, cu număr cadastral și carte funciară proprie. Asta se numește dezmembrare, se face și pe teren, și în acte, și de aici începem."
+      },
+      {
+        "situation": "Casa stă peste limita dintre două parcele și nu se poate intabula",
+        "text": "Casa este ridicată de ani de zile, are autorizație, dar la intabulare v-ați lovit de o problemă pe care nu o bănuiați: construcția stă peste limita dintre două imobile cu cărți funciare diferite. Atât timp cât parcelele rămân separate, casa nu se poate înscrie. Se rezolvă prin alipire — parcelele devin un singur imobil, și abia apoi se intabulează construcția."
+      },
+      {
+        "situation": "Moștenire de împărțit între frați",
+        "text": "Ați rămas cu terenul părinților împreună cu frații și vreți fiecare partea lui scrisă în acte, nu doar înțeleasă între dumneavoastră. Se poate, dar în doi pași: întâi terenul se împarte tehnic în loturi, fiecare cu carte funciară proprie, apoi notarul face partajul și trece fiecare lot pe numele cui i se cuvine. Noi ne ocupăm de primul pas și pregătim actele pentru al doilea."
+      },
+      {
+        "situation": "Lot cumpărat dintr-un teren mai mare, fără carte funciară proprie",
+        "text": "Ați cumpărat un lot dintr-un teren mai mare, ați plătit, ați primit act — și acum aflați că lotul nu apare separat în cartea funciară, ci figurează tot în imobilul vechi. Se întâmplă des la lotizările făcute în grabă. Verificăm ce s-a înscris de fapt, apoi punem actele în ordine: dezmembrarea făcută corect și lotul dumneavoastră pe cartea lui."
+      },
+      {
+        "situation": "Vrea să dea un lot copilului sau să construiască pe o parte din teren",
+        "text": "Vreți să dați un lot copilului sau să construiți pe o parte din teren, iar restul să rămână cum este. Înainte de orice, trebuie știut ce permite primăria: suprafață minimă, deschidere la stradă, acces. Citim regulamentul local, apoi măsurăm și proiectăm loturile astfel încât fiecare să poată fi aprobat și fiecare să aibă ieșire la drum."
       }
     ]
   },
@@ -1014,6 +1635,135 @@
         "href": "/dictionar/scoaterea-din-circuitul-agricol.html",
         "label": "Scoaterea din circuitul agricol — ce presupune"
       }
+    ],
+    "acteVariants": [
+      {
+        "caseType": "autorizatie-construire",
+        "label": "Plan topografic pentru autorizație de construire",
+        "items": [
+          "Certificatul de urbanism, cu tot cu planurile anexate",
+          "Extras de carte funciară de informare, recent",
+          "Actul de proprietate: contract de vânzare-cumpărare, titlu de proprietate, certificat de moștenitor sau act de donație",
+          "Documentația cadastrală existentă — planul de amplasament și delimitare — dacă imobilul are număr cadastral",
+          "Copie după actul de identitate al proprietarului",
+          "Cerințele primite de la proiectant, dacă le aveți deja"
+        ],
+        "note": "Certificatul de urbanism spune negru pe alb dacă planul trebuie vizat OCPI și pe ce suprafață. Dacă nu îl aveți încă, pornim fără el și corelăm planul după ce îl primiți."
+      },
+      {
+        "caseType": "certificat-urbanism",
+        "label": "Plan de situație pentru obținerea certificatului de urbanism",
+        "items": [
+          "Actul de proprietate asupra terenului",
+          "Extras de carte funciară de informare, dacă imobilul este intabulat",
+          "Numărul cadastral sau numărul topografic, dacă îl cunoașteți",
+          "Adresa exactă, iar la extravilan tarlaua și parcela din titlul de proprietate"
+        ],
+        "note": "La cererea de certificat de urbanism primăria cere de regulă un plan de situație pe suport topografic și un plan de încadrare în zonă, nu documentația completă. Le întocmim în forma cerută de biroul de urbanism."
+      },
+      {
+        "caseType": "puz-pud",
+        "label": "Plan topografic pentru PUZ sau PUD",
+        "items": [
+          "Certificatul de urbanism emis pentru elaborarea documentației de urbanism",
+          "Avizul de oportunitate, dacă a fost solicitat",
+          "Actele de proprietate pentru toate parcelele cuprinse în studiu",
+          "Extrasele de carte funciară ale parcelelor din perimetrul studiat",
+          "Lista parcelelor și a proprietarilor din zona de studiu, așa cum v-a cerut-o urbanistul"
+        ],
+        "note": "Documentațiile de urbanism cer ridicare pe o zonă mai largă decât lotul propriu-zis, vizată OCPI. Predăm în sistemul de coordonate și în formatul cerute pentru documentația de urbanism."
+      },
+      {
+        "caseType": "scoatere-circuit-agricol",
+        "label": "Plan topografic pentru scoaterea terenului din circuitul agricol",
+        "items": [
+          "Certificatul de urbanism",
+          "Actul de proprietate și extrasul de carte funciară",
+          "Documentația cadastrală a terenului, dacă există",
+          "Adeverința de rol agricol, cu categoria de folosință înscrisă în registrul agricol"
+        ],
+        "note": "Planul delimitează exact suprafața care iese din folosința agricolă și se corelează cu documentația cadastrală a imobilului. Partea topografică și cadastrală o întocmim noi."
+      },
+      {
+        "caseType": "bransamente-utilitati",
+        "label": "Plan topografic pentru branșamente și rețele",
+        "items": [
+          "Extras de carte funciară sau actul de proprietate",
+          "Cerințele operatorului de utilități — apă, canalizare, gaz sau energie electrică",
+          "Avizele de amplasament deja obținute, dacă există",
+          "Certificatul de urbanism, dacă lucrarea îl presupune"
+        ],
+        "note": "Reprezentăm pe plan rețelele vizibile la suprafață — cămine, stâlpi, contoare, branșamente — și preluăm traseele subterane din avizele deținătorilor de rețele, atunci când proiectul le cere."
+      },
+      {
+        "caseType": "extindere-mansardare",
+        "label": "Extindere, mansardare sau modificare la o construcție existentă",
+        "items": [
+          "Certificatul de urbanism pentru lucrarea propusă",
+          "Extras de carte funciară cu construcția înscrisă",
+          "Autorizația de construire și proiectul construcției existente, dacă le aveți",
+          "Releveul construcției existente, dacă a fost întocmit",
+          "Documentația cadastrală existentă a imobilului"
+        ],
+        "note": "La extindere, planul trebuie să arate construcția exact așa cum stă în teren, cu cotele reale — de acolo pornește proiectantul. Dacă releveul lipsește, îl întocmim odată cu ridicarea."
+      },
+      {
+        "caseType": "teren-neintabulat",
+        "label": "Teren fără carte funciară sau cu acte vechi",
+        "items": [
+          "Titlul de proprietate, procesul-verbal de punere în posesie sau actul vechi pe care îl aveți",
+          "Certificatul de moștenitor, dacă terenul vine din succesiune",
+          "Adeverință din registrul agricol, eliberată de primărie",
+          "Orice schiță, plan parcelar sau extras de plan cadastral vechi găsit acasă ori la primărie"
+        ],
+        "note": "Planul topografic se poate întocmi și pe un teren neintabulat, însă dacă vă trebuie vizat OCPI imobilul are nevoie întâi de număr cadastral. Ne uităm pe acte și vă spunem dacă facem întâi prima înregistrare."
+      },
+      {
+        "caseType": "receptie-notare-constructie",
+        "label": "Plan topografic după execuție, pentru notarea construcției în cartea funciară",
+        "items": [
+          "Autorizația de construire și proiectul autorizat",
+          "Procesul-verbal de recepție la terminarea lucrărilor",
+          "Extras de carte funciară al terenului",
+          "Documentația cadastrală a terenului",
+          "Certificatul de atestare a edificării construcției, dacă a fost eliberat de primărie"
+        ],
+        "note": "După execuție, construcția se măsoară așa cum a fost realizată și se compară cu proiectul autorizat. Rezultatul intră în documentația de notare a construcției în cartea funciară."
+      },
+      {
+        "caseType": "investitie-extravilan",
+        "label": "Hale, ferme sau parcuri fotovoltaice pe teren extravilan",
+        "items": [
+          "Certificatul de urbanism",
+          "Actele de proprietate sau contractele de arendă ori de superficie pentru toate parcelele incluse",
+          "Extrasele de carte funciară ale parcelelor",
+          "Numerele de tarla și parcelă din titlul de proprietate, la terenurile neintabulate",
+          "Cerințele proiectantului privind sistemul de coordonate și formatul de predare"
+        ],
+        "note": "Pe suprafețe mari lucrăm cu rețea de sprijin proprie și predăm ridicarea în Stereo 70, cu curbe de nivel și inventar de coordonate. Dacă parcelele sunt mai multe, verificăm întâi dacă limitele din cartea funciară se închid între ele."
+      }
+    ],
+    "problemOpeners": [
+      {
+        "situation": "A primit certificatul de urbanism și nu înțelege lista de documentații",
+        "text": "Ați ridicat certificatul de urbanism și la lista de documentații scrie „plan topografic vizat OCPI”. Nimeni nu v-a explicat ce înseamnă. Înseamnă că cineva trebuie să vină la teren și să măsoare tot ce există acolo — limitele, cotele de nivel, construcțiile, împrejmuirile, drumul de acces — iar planul rezultat să treacă prin recepția oficiului de cadastru. Trimiteți-ne o poză cu certificatul și vă spunem exact ce vi se cere."
+      },
+      {
+        "situation": "Proiectantul nu poate începe fără planul în format editabil",
+        "text": "Arhitectul v-a spus că nu poate începe proiectul fără plan topografic în dwg și v-ați blocat înainte să porniți. Are dreptate: fără cotele reale ale terenului și fără limitele din cartea funciară, orice desen rămâne o presupunere. Facem ridicarea la fața locului și îi trimitem fișierul editabil, cu inventarul de coordonate în Stereo 70, ca să lucreze direct pe măsurătorile noastre."
+      },
+      {
+        "situation": "Dosarul de autorizare i-a fost întors pentru completare",
+        "text": "Ați depus dosarul de autorizare și v-a venit înapoi o solicitare de completare: planul topografic nu este vizat OCPI sau nu corespunde cu situația din teren. Se întâmplă des, mai ales cu planuri făcute în grabă ori preluate din arhivă. Ne uităm pe ce ați depus, măsurăm ce lipsește și refacem piesa topografică în forma cerută, cu viza obținută de noi."
+      },
+      {
+        "situation": "A cumpărat teren în pantă și nu știe ce îl așteaptă la execuție",
+        "text": "Ați cumpărat un teren în pantă și toată lumea vă spune altceva: unul că se construiește ușor, altul că săpătura vă mănâncă bugetul. Răspunsul nu se dă din ochi, se dă din cote. Măsurăm terenul și întocmim planul cu curbe de nivel și profile, iar proiectantul vede exact cât se sapă, cum se așază casa și pe unde intră accesul."
+      },
+      {
+        "situation": "Operatorul de utilități i-a cerut un plan cu rețelele existente",
+        "text": "Ați cerut branșament de gaz sau de curent, iar operatorul v-a răspuns cu o listă în care apare un plan de situație cu rețelele existente. Este o piesă topografică, nu o schiță făcută acasă. Mergem la teren, ridicăm căminele, stâlpii și limitele reale, preluăm traseele subterane din avizele deținătorilor de rețele și predăm planul în formatul cerut de operator."
+      }
     ]
   },
   {
@@ -1165,6 +1915,151 @@
       {
         "href": "/dictionar/stereografic-1970-stereo-70.html",
         "label": "Stereografic 1970 (Stereo 70)"
+      }
+    ],
+    "acteVariants": [
+      {
+        "caseType": "limite-teren-intabulat",
+        "label": "Teren cu cadastru și carte funciară — trasarea limitelor",
+        "items": [
+          "Extras de carte funciară pentru informare, recent",
+          "Planul de amplasament și delimitare a imobilului, din documentația cadastrală recepționată de OCPI",
+          "Inventarul de coordonate al punctelor de contur, dacă îl aveți separat",
+          "Copie după actul de identitate al proprietarului"
+        ],
+        "note": "Dacă nu mai găsiți planul de amplasament, îl scoatem noi din arhiva OCPI. Ne trebuie doar numărul cadastral, pe care îl citim din extras."
+      },
+      {
+        "caseType": "limite-teren-fara-documentatie",
+        "label": "Teren fără cadastru — doar cu acte pe hârtie",
+        "items": [
+          "Actul de proprietate: titlu de proprietate, contract de vânzare-cumpărare, certificat de moștenitor sau hotărâre judecătorească",
+          "Procesul-verbal de punere în posesie și schița anexă, dacă terenul provine din reconstituirea dreptului de proprietate",
+          "Planul parcelar sau schița de la primărie, dacă există",
+          "Copie după actul de identitate al proprietarului"
+        ],
+        "note": "Fără o documentație recepționată de OCPI nu se poate stabili oficial pe unde trec hotarele, așa că marcarea lor ar rămâne o presupunere. Întocmim întâi documentația cadastrală, înscriem terenul în cartea funciară și abia apoi mergem să trasăm."
+      },
+      {
+        "caseType": "teren-extravilan-agricol",
+        "label": "Parcelă agricolă în extravilan, fără repere pe teren",
+        "items": [
+          "Titlul de proprietate sau contractul prin care ați dobândit parcela",
+          "Extras de carte funciară, dacă parcela este înscrisă",
+          "Planul de amplasament și delimitare a imobilului sau extrasul de plan cadastral pentru tarlaua respectivă",
+          "Numărul tarlalei și al parcelei din registrul agricol, dacă îl cunoașteți"
+        ],
+        "note": "Pe parcelele arate an de an, hotarele se șterg și se mută încet. Materializăm colțurile cu țăruși sau, la cerere, cu borne care rezistă la lucrările agricole, iar poziția fiecărui punct rămâne consemnată numeric, ca semnele să poată fi refăcute."
+      },
+      {
+        "caseType": "teren-mostenit",
+        "label": "Teren moștenit, cu hotare pe care nu le mai știe nimeni",
+        "items": [
+          "Certificatul de moștenitor",
+          "Titlul de proprietate al defunctului sau actul prin care a dobândit terenul",
+          "Extras de carte funciară, dacă imobilul este deja înscris",
+          "Copii după actele de identitate ale moștenitorilor",
+          "Împuternicire din partea celorlalți moștenitori, dacă la măsurătoare vine unul singur"
+        ],
+        "note": "Dacă succesiunea nu este dezbătută sau nu este înscrisă în cartea funciară, semnele puse pe teren nu produc încă efecte între moștenitori. Rezolvăm întâi înscrierea dreptului, apoi mergem la măsurătoare."
+      },
+      {
+        "caseType": "inainte-de-cumparare",
+        "label": "Verificarea limitelor înainte de cumpărare",
+        "items": [
+          "Extras de carte funciară pentru informare al terenului, obținut de vânzător sau de dumneavoastră",
+          "Planul de amplasament și delimitare a imobilului",
+          "Acordul scris al vânzătorului pentru accesul pe teren și pentru marcarea punctelor",
+          "Numărul cadastral și localitatea, ca să pregătim coordonatele înainte de deplasare"
+        ],
+        "note": "Terenul nu trebuie să fie încă al dumneavoastră ca să fie trasat, dar aveți nevoie de acordul proprietarului. Verificarea făcută înainte de semnare arată dacă gardul existent și suprafața de pe teren se potrivesc cu ce scrie în acte."
+      },
+      {
+        "caseType": "lot-dezmembrat",
+        "label": "Lot nou, rezultat dintr-o dezmembrare",
+        "items": [
+          "Actul de dezmembrare autentificat sau încheierea OCPI de admitere",
+          "Extrasul de carte funciară al lotului nou, cu numărul cadastral propriu",
+          "Documentația de dezmembrare recepționată de OCPI, cu planul de amplasament al fiecărui lot"
+        ],
+        "note": "Loturile nou create există în evidențe, dar pe teren nu le arată nimic. Materializăm colțurile fiecărui lot, ca împrejmuirea și construcțiile să pornească din poziția corectă, nu din ce a rămas de la vechea parcelă."
+      },
+      {
+        "caseType": "imprejmuire-gard",
+        "label": "Gard nou sau împrejmuire pe limita de proprietate",
+        "items": [
+          "Extras de carte funciară pentru informare",
+          "Planul de amplasament și delimitare a imobilului",
+          "Autorizația de construire pentru împrejmuire, când primăria o cere prin certificatul de urbanism",
+          "Copie după actul de identitate al proprietarului"
+        ],
+        "note": "Materializăm colțurile pe aliniamentul înscris în acte, iar gardul se ridică pe ele. Un gard construit peste linie se mută pe cheltuiala celui care l-a ridicat, oricât de firesc ar fi părut traseul la momentul lucrării."
+      },
+      {
+        "caseType": "constructie-noua",
+        "label": "Construcție nouă — trasare la deschiderea șantierului",
+        "items": [
+          "Autorizația de construire",
+          "Proiectul autorizat, cu planul de situație vizat spre neschimbare",
+          "Planul de trasare cu coordonatele colțurilor și ale axelor, dacă proiectantul l-a întocmit separat",
+          "Extras de carte funciară al terenului",
+          "Planul de amplasament și delimitare a imobilului, pentru verificarea retragerilor față de hotare"
+        ],
+        "note": "Trasarea construcției și procesul-verbal se cer atunci când se deschide șantierul pe o autorizație și ajung în cartea tehnică a construcției. Dacă proiectul nu conține coordonate, le calculăm noi din planul de situație."
+      },
+      {
+        "caseType": "extindere-corp-nou",
+        "label": "Extindere sau corp nou lângă o construcție existentă",
+        "items": [
+          "Autorizația de construire pentru extindere",
+          "Proiectul autorizat, cu planul de situație vizat spre neschimbare",
+          "Extrasul de carte funciară și planul de amplasament al imobilului, cu construcția existentă",
+          "Releveul construcției existente, dacă îl aveți"
+        ],
+        "note": "La extinderi contează poziția reală a construcției existente, care nu coincide întotdeauna cu planul. Măsurăm întâi ce se află pe teren, apoi trasăm conturul nou în raport cu ea și cu hotarele proprietății."
+      },
+      {
+        "caseType": "hala-drum-retea",
+        "label": "Hale, platforme, drumuri și rețele",
+        "items": [
+          "Autorizația de construire și proiectul autorizat, pe specialități",
+          "Planul de trasare cu inventarul de coordonate al punctelor și al axelor",
+          "Planul de situație cu cotele de nivel, pentru trasarea pe înălțime",
+          "Extrasul de carte funciară și documentația cadastrală a terenului"
+        ],
+        "note": "La lucrările executate pe etape trasăm și verificăm geometria pe parcurs, cu câte un proces-verbal pentru fiecare etapă. Dacă proiectul vine în alt sistem de coordonate, îl transformăm în Stereografic 1970 înainte de deplasare."
+      },
+      {
+        "caseType": "prin-imputernicit",
+        "label": "Când la măsurătoare nu poate veni proprietarul",
+        "items": [
+          "Împuternicire scrisă sau procură notarială din partea proprietarului",
+          "Copie după actul de identitate al împuternicitului",
+          "Copie după actul de proprietate și extrasul de carte funciară"
+        ],
+        "note": "Pentru o trasare de hotare este suficientă o împuternicire scrisă, prin care proprietarul confirmă accesul pe teren și marcarea punctelor. Procura notarială devine necesară când împuternicitul semnează documente în numele proprietarului sau depune documentații la OCPI."
+      }
+    ],
+    "problemOpeners": [
+      {
+        "situation": "Vecinul a mutat gardul sau susține că terenul este al lui",
+        "text": "Ați găsit gardul împins spre curtea dumneavoastră, sau vecinul spune că grădina pe care o lucrați de ani de zile este de fapt a lui. O astfel de discuție nu se câștigă din memorie și din ce se știa în sat. Hotarul care contează este cel înscris în acte — noi îl arătăm pe teren, cu țăruși, și vi-l predăm în scris."
+      },
+      {
+        "situation": "Constructorul nu începe fundația fără proces-verbal de trasare",
+        "text": "Aveți autorizația de construire, utilajul este pe teren, iar constructorul spune că nu sapă până nu vine topograful. Nu vă cere o formalitate inventată: axele și colțurile se materializează după proiectul autorizat, iar actul semnat pe loc ajunge în cartea tehnică a construcției. Venim cu proiectul încărcat în aparat și punem semnele chiar atunci."
+      },
+      {
+        "situation": "Cumpărați un teren și nu se vede unde începe și unde se termină",
+        "text": "Ați văzut anunțul, ați văzut terenul, dar pe teren nu este niciun semn: nici bornă, nici gard, doar o parcelă în mijlocul altora. Nimeni nu vă poate arăta cu mâna până unde ajunge. Înainte să semnați la notar, venim cu coordonatele din acte și materializăm colțurile, ca să vedeți exact suprafața pentru care dați banii."
+      },
+      {
+        "situation": "Ați moștenit un teren și nimeni din familie nu mai știe hotarele",
+        "text": "Terenul a rămas de la părinți sau de la bunici, actele există într-o formă sau alta, dar hotarele le știa doar cel care nu mai este. Vecinii ară până unde apucă, iar reperele vechi — un pom, un șanț, o piatră de colț — au dispărut. Pornim de la actele pe care le aveți, refacem linia din documentație și o arătăm pe teren."
+      },
+      {
+        "situation": "Ridicați gard nou și nu vreți să îl mutați mai târziu",
+        "text": "V-ați apucat de împrejmuire și ați stabilit aliniamentul din ochi, după gardul vecinului sau după cum a fost dintotdeauna. Este exact felul în care se ajunge la un gard care trebuie mutat pe cheltuiala dumneavoastră. Punem întâi pe teren linia din acte, materializăm colțurile, iar gropile pentru stâlpi se sapă abia după aceea."
       }
     ]
   },
@@ -1323,6 +2218,131 @@
         "href": "/dictionar/radierea-constructiei.html",
         "label": "Radierea unei construcții demolate"
       }
+    ],
+    "acteVariants": [
+      {
+        "caseType": "constructie-noua-cu-autorizatie",
+        "label": "Casă nouă, terminată cu autorizație, pe teren deja intabulat",
+        "items": [
+          "Autorizația de construire, împreună cu prelungirile ei, dacă a fost prelungită",
+          "Procesul-verbal de recepție la terminarea lucrărilor, semnat și de reprezentantul primăriei",
+          "Certificatul de atestare a edificării, eliberat de primărie",
+          "Certificatul de atestare fiscală din care rezultă că locuința este declarată la rolul fiscal"
+        ],
+        "note": "Ordinea contează: recepția și certificatul de atestare a edificării se obțin de la primărie înainte de depunerea dosarului. Dacă nu le aveți încă, trimiteți-ne autorizația și vă spunem în ce stadiu sunteți și ce urmează."
+      },
+      {
+        "caseType": "constructie-veche-fara-autorizatie",
+        "label": "Construcție veche, ridicată fără autorizație de construire",
+        "items": [
+          "Certificatul de atestare fiscală din care rezultă că respectiva construcție figurează la rolul fiscal",
+          "Orice act mai vechi în care construcția este menționată: acte de succesiune, contracte, adeverințe din registrul agricol",
+          "Adeverința de la primărie privind regimul construcției, acolo unde primăria o eliberează pentru situația dumneavoastră"
+        ],
+        "note": "Regimul diferă mult după vechimea construcției. Pentru cele ridicate recent fără autorizație se cere intrarea în legalitate, cu expertiză tehnică. Verificăm întâi la primărie pe ce cale sunteți, înainte să întocmim documentația."
+      },
+      {
+        "caseType": "extindere-mansardare",
+        "label": "Extindere, mansardare sau modificări la o casă deja înscrisă",
+        "items": [
+          "Autorizația de construire pentru extindere sau mansardare",
+          "Procesul-verbal de recepție la terminarea lucrărilor",
+          "Certificatul de atestare a edificării pentru lucrările executate",
+          "Dovada declarării la rolul fiscal a suprafeței modificate"
+        ],
+        "note": "Nu se creează un număr cadastral nou. Se actualizează releveele și suprafața construită ale imobilului existent, pe același număr cadastral."
+      },
+      {
+        "caseType": "radiere-constructie-demolata",
+        "label": "Construcție demolată care încă apare în cartea funciară",
+        "items": [
+          "Autorizația de desființare emisă de primărie",
+          "Procesul-verbal de recepție la terminarea lucrărilor de desființare",
+          "Certificatul de atestare fiscală din care rezultă că respectiva construcție a fost scoasă de la rolul fiscal"
+        ],
+        "note": "Dacă demolarea s-a făcut fără autorizație, situația se clarifică întâi la primărie. Dacă în locul construcției demolate a fost ridicată alta, radierea și înscrierea construcției noi se pot trata în același dosar."
+      },
+      {
+        "caseType": "rectificare-suprafata",
+        "label": "Suprafața din teren nu se potrivește cu cea din cartea funciară",
+        "items": [
+          "Actul de proprietate în care apare suprafața veche: titlu de proprietate, contract sau certificat de moștenitor",
+          "Proces-verbal de vecinătate semnat de vecinii afectați, atunci când diferența depășește pragul admis fără el",
+          "Acte care justifică diferența, dacă există: schițe vechi, planuri parcelare, documentații anterioare de dezmembrare sau alipire"
+        ],
+        "note": "Procesul-verbal de vecinătate îl întocmim noi la fața locului; dumneavoastră ne ajutați doar să îi contactăm pe vecini. Avem nevoie de acces la teren și, de preferat, de prezența dumneavoastră la măsurătoare. Dacă un vecin contestă limita, dosarul nu se mai rezolvă administrativ."
+      },
+      {
+        "caseType": "schimbare-categorie-folosinta",
+        "label": "Categoria de folosință din acte nu mai corespunde: arabil, curți-construcții, livadă, fâneață",
+        "items": [
+          "Actele administrative emise de primărie care atestă schimbarea: adeverințe, hotărâri, avize, după caz",
+          "Certificatul de urbanism, atunci când operațiunea îl presupune",
+          "Dovada îndeplinirii formalităților de scoatere din circuitul agricol, acolo unde legea o cere"
+        ],
+        "note": "Scoaterea definitivă din circuitul agricol este o procedură separată, cu taxe proprii, care se face înaintea actualizării cărții funciare. Vă spunem dacă situația dumneavoastră o presupune sau nu."
+      },
+      {
+        "caseType": "actualizare-adresa",
+        "label": "Adresa administrativă s-a schimbat sau strada a fost redenumită",
+        "items": [
+          "Certificatul de nomenclatură stradală eliberat de primărie",
+          "Extrasul de carte funciară în care apare adresa veche"
+        ],
+        "note": "Este cea mai simplă operațiune de actualizare și de regulă nu presupune măsurători noi. Dacă mai aveți și altă modificare de făcut, se poate grupa în același dosar."
+      },
+      {
+        "caseType": "repozitionare-suprapunere",
+        "label": "Imobilul apare deplasat pe hartă sau se suprapune cu al vecinului",
+        "items": [
+          "Extrasul de carte funciară și, dacă îl aveți, planul de amplasament și delimitare recepționat anterior",
+          "Documentul prin care biroul de cadastru a respins un dosar pentru suprapunere, dacă ați primit unul",
+          "Extrasele de carte funciară ale imobilelor vecine implicate, dacă le puteți obține",
+          "Acordul scris al proprietarilor imobilelor afectate, atunci când repoziționarea atinge limitele lor"
+        ],
+        "note": "Repoziționarea corectează amplasamentul, nu suprafața și nu forma imobilului. Dacă vecinul pretinde o parte din teren, nu mai este o problemă de cadastru, ci de proprietate."
+      },
+      {
+        "caseType": "extravilan-in-intravilan",
+        "label": "Terenul a trecut din extravilan în intravilan",
+        "items": [
+          "Adeverința sau certificatul de urbanism din care rezultă că terenul este cuprins în intravilan potrivit documentațiilor de urbanism aprobate",
+          "Actul de proprietate în care terenul figurează ca extravilan"
+        ],
+        "note": "Încadrarea o stabilește primăria prin documentațiile de urbanism; noi actualizăm evidența de carte funciară după ce încadrarea există. De regulă se face împreună cu schimbarea categoriei de folosință."
+      },
+      {
+        "caseType": "cf-veche-mostenire",
+        "label": "Carte funciară veche, pe hârtie, cu numere topografice — de obicei descoperită la o moștenire",
+        "items": [
+          "Copia cărții funciare vechi sau numărul topografic, dacă îl cunoașteți",
+          "Certificatul de moștenitor și actele de succesiune",
+          "Actul de proprietate al antecesorului, în copie"
+        ],
+        "note": "Verificăm întâi dacă imobilul are geometrie digitală în sistemul integrat de cadastru și carte funciară. Dacă nu are, nu este o actualizare, ci o primă înregistrare — vă spunem asta înainte să porniți pe drumul greșit."
+      }
+    ],
+    "problemOpeners": [
+      {
+        "situation": "notarul a oprit tranzacția",
+        "text": "Ați ajuns la notar cu cumpărătorul găsit și acolo v-ați lovit de o frază scurtă: actele nu corespund cu cartea funciară. Casa nu apare, suprafața este alta, adresa e veche. Notarul nu poate autentifica până când cartea funciară nu arată realitatea. Se rezolvă printr-o documentație cadastrală de actualizare: măsurăm ce s-a schimbat, întocmim dosarul și îl depunem la biroul de cadastru competent."
+      },
+      {
+        "situation": "banca cere ca actele să corespundă înainte de credit",
+        "text": "Banca a aprobat creditul, dar evaluatorul a văzut pe teren o casă care în cartea funciară nu există, ori o extindere neînscrisă. Până nu apare în acte, imobilul nu poate fi ipotecat la valoarea lui reală. Verificăm exact ce diferă între extrasul de carte funciară și situația din teren, întocmim documentația de actualizare și o depunem, ca dosarul de credit să meargă mai departe."
+      },
+      {
+        "situation": "casa există de ani, dar nu figurează în CF, și iese la iveală la moștenire",
+        "text": "Casa este ridicată de mult și locuită, dar în cartea funciară figurează doar terenul. Cât timp nimeni nu vinde nimic, nu deranjează pe nimeni. Problema apare la succesiune sau la partaj, când moștenitorii constată că nu pot împărți o construcție care oficial nu există. Înscrierea construcției se face pe bază de măsurători și de actele de la primărie, iar noi vă spunem din prima ce lipsește."
+      },
+      {
+        "situation": "vecinul a făcut cadastru și acum documentația lui intră peste a dumneavoastră",
+        "text": "Vecinul și-a făcut cadastrul recent, iar documentația lui intră peste terenul dumneavoastră, deși gardurile nu au fost mutate de zeci de ani. Sau ați depus un dosar și v-a fost respins pentru suprapunere. Nu se lămurește prin discuții, ci pe măsurători și pe evidențele de cadastru. Identificăm care documentație este greșită și pe ce cale se îndreaptă: repoziționare, rectificare sau, dacă limita se contestă, instanță."
+      },
+      {
+        "situation": "terenul figurează arabil, deși pe el sunt casa și curtea",
+        "text": "Plătiți impozit ca pentru teren arabil, deși pe el aveți casa și curtea. Ori invers: cereți o autorizație și vi se spune că terenul are categoria de folosință greșită. Categoria se corectează printr-o documentație cadastrală de actualizare, împreună cu actele emise de primărie. Contează la impozit, la autorizație și la vânzare, iar de multe ori este cerută înaintea oricărei alte operațiuni."
+      }
     ]
   },
   {
@@ -1436,6 +2456,123 @@
         "href": "/dictionar/studiu-topografic.html",
         "label": "Studiu topografic"
       }
+    ],
+    "acteVariants": [
+      {
+        "caseType": "plan-topografic-autorizare",
+        "label": "Plan topografic pentru autorizația de construire",
+        "items": [
+          "Certificatul de urbanism eliberat de primărie",
+          "Actul de proprietate asupra terenului",
+          "Extras de carte funciară pentru informare, la zi",
+          "Documentația cadastrală a terenului, dacă imobilul este deja intabulat",
+          "Tema de proiectare sau schița cu ce doriți să construiți, dacă există"
+        ],
+        "note": "Planul se depune spre recepție tehnică la oficiul de cadastru înainte de a intra în dosarul de autorizare. Îl predăm și în format digital, pentru arhitect și pentru proiectantul de instalații."
+      },
+      {
+        "caseType": "studiu-topografic-puz-pud",
+        "label": "Studiu topografic pentru PUZ sau PUD",
+        "items": [
+          "Certificatul de urbanism care solicită elaborarea PUZ sau PUD",
+          "Limita zonei de studiu, primită de la urbanist",
+          "Actele de proprietate ale terenurilor cuprinse în zona studiată",
+          "Extrasele de carte funciară ale acestor terenuri",
+          "Planurile de amplasament existente, dacă terenurile sunt intabulate"
+        ],
+        "note": "Zona de studiu depășește aproape întotdeauna terenul propriu. Ridicăm și vecinătățile, rețelele vizibile și căile de acces, fiindcă urbanistul are nevoie de ele ca să poată reglementa zona."
+      },
+      {
+        "caseType": "trasare-constructie-noua",
+        "label": "Trasarea unei construcții noi, înainte de săpătură",
+        "items": [
+          "Autorizația de construire",
+          "Planul de situație din proiectul autorizat",
+          "Planul de trasare cu inventarul de coordonate, dacă proiectantul l-a întocmit",
+          "Extras de carte funciară al terenului",
+          "Planul de amplasament și delimitare a imobilului"
+        ],
+        "note": "Dacă proiectul nu are inventar de coordonate, îl calculăm noi din planul de situație. La final predăm procesul-verbal de trasare și schița cu punctele materializate în teren."
+      },
+      {
+        "caseType": "terasamente-volume",
+        "label": "Calcul de volume pentru terasamente și decontări",
+        "items": [
+          "Proiectul de terasamente sau planul de săpătură",
+          "Cota zero și cotele de proiect stabilite de proiectant",
+          "Limita amplasamentului sau a zonei de lucru",
+          "Măsurătoarea inițială a terenului, dacă a fost executată de altcineva"
+        ],
+        "note": "Măsurătoarea de dinainte de săpătură este esențială și nu se mai poate reface după. Chemați-ne înainte ca utilajele să intre pe teren."
+      },
+      {
+        "caseType": "as-built-receptie",
+        "label": "Documentație as-built la recepția lucrărilor",
+        "items": [
+          "Autorizația de construire",
+          "Proiectul tehnic și planurile de execuție — arhitectură și structură",
+          "Planul de situație din proiectul autorizat, pentru comparație",
+          "Procesele-verbale de trasare întocmite pe parcursul execuției, dacă există",
+          "Extras de carte funciară al imobilului"
+        ],
+        "note": "Măsurăm construcția în starea ei finală și o suprapunem peste proiect. Dacă lucrarea urmează să fie și înscrisă în cartea funciară, din aceleași măsurători rezultă și documentația cadastrală."
+      },
+      {
+        "caseType": "extindere-constructie-existenta",
+        "label": "Extindere, mansardare sau consolidare la o construcție existentă",
+        "items": [
+          "Actul de proprietate, împreună cu extrasul de carte funciară",
+          "Autorizația de construire inițială și proiectul, dacă se mai găsesc",
+          "Cartea tehnică a construcției, dacă a fost întocmită",
+          "Releveul existent al construcției, dacă a fost făcut vreodată",
+          "Acces în toate încăperile și la pod, în ziua măsurătorii"
+        ],
+        "note": "La construcțiile vechi proiectul lipsește aproape întotdeauna. Ridicăm noi releveul pe teren, iar proiectantul lucrează pe el — nu este un impediment."
+      },
+      {
+        "caseType": "urmarire-tasari-deformatii",
+        "label": "Urmărirea în timp a construcției — tasări și deformații",
+        "items": [
+          "Proiectul sau programul de urmărire în timp întocmit de proiectant",
+          "Planul cu poziția reperilor de tasare prevăzuți",
+          "Cartea tehnică a construcției",
+          "Măsurătoarea de referință, dacă un ciclu a fost deja executat"
+        ],
+        "note": "Ciclurile de măsurare le stabilește proiectantul prin proiect, nu noi. Montăm reperii, executăm măsurătorile la ciclurile prevăzute și predăm rapoartele care intră în cartea tehnică."
+      },
+      {
+        "caseType": "retele-drumuri-incinta",
+        "label": "Trasare și nivelment pentru rețele, drumuri și platforme",
+        "items": [
+          "Proiectul de rețele sau de drum, cu profilul longitudinal și profilele transversale",
+          "Autorizația de construire sau avizul de amplasament, după caz",
+          "Inventarul de coordonate al traseului, dacă proiectantul l-a predat",
+          "Planul cu rețelele existente în zonă, obținut de la deținători"
+        ],
+        "note": "Trasăm traseul și cotele de pozare, iar la final ridicăm rețeaua executată pentru documentația as-built cerută la preluare de deținătorul de rețea."
+      }
+    ],
+    "problemOpeners": [
+      {
+        "situation": "Constructorul cere trasarea înainte de a intra cu utilajele",
+        "text": "Aveți autorizația în mână, constructorul e gata să înceapă, iar acum vă cere „procesul-verbal de trasare” și nu știți ce este. Este documentul prin care cineva vă așază construcția pe teren exact acolo unde o arată proiectul — axe, colțuri, cotă zero — și își asumă poziția în scris. Fără el nimeni nu sapă, și pe bună dreptate: o construcție pusă greșit față de limita proprietății se rezolvă apoi foarte greu și foarte scump."
+      },
+      {
+        "situation": "Certificatul de urbanism cere plan topografic vizat OCPI",
+        "text": "Ați cerut certificatul de urbanism ca să vă construiți casa și v-a venit înapoi cu o listă de piese, prima fiind „plan topografic vizat OCPI”. Nu este o formalitate inventată de primărie: este ridicarea terenului dumneavoastră, cu limitele, cotele de nivel, construcțiile existente și rețelele vizibile, verificată apoi de oficiul de cadastru. Fără ea arhitectul nu poate porni proiectul, fiindcă nu știe pe ce teren desenează."
+      },
+      {
+        "situation": "Dispută pe volumele de terasamente decontate",
+        "text": "Constructorul vă trimite situația de plată cu mii de metri cubi de pământ săpat și nu aveți cum să verificați nimic — groapa este deja acolo. Singurul mod onest de a lămuri discuția este măsurarea terenului înainte și după, iar din diferența celor două modele rezultă volumul real. Dacă săpătura nu a început încă, chemați-ne acum: măsurătoarea inițială este singura care nu se mai poate reface."
+      },
+      {
+        "situation": "Recepția lucrărilor cere documentația as-built",
+        "text": "Casa este gata, ați chemat comisia de recepție și vi se cere „documentația as-built”. Înseamnă măsurarea construcției exact așa cum a ieșit, suprapusă peste proiectul autorizat, ca abaterile să fie văzute și măsurate, nu discutate din ochi. O cer dirigintele de șantier, banca la ultima tranșă și, la anumite obiective, autoritatea care aprobă punerea în funcțiune. Se face pe construcția terminată, deci nu ați pierdut nimic."
+      },
+      {
+        "situation": "Proiectantul a prevăzut urmărirea în timp a construcției",
+        "text": "Ați primit proiectul și scrie acolo, la capitolul de urmărire în timp, că trebuie montați reperi de tasare și făcute măsurători pe cicluri. Nu este o exagerare a proiectantului: la construcții mari sau pe terenuri slabe este cerință de proiect și intră în cartea tehnică a construcției. Montăm reperii, executăm măsurătorile la ciclurile prevăzute și predăm rapoartele, ca lucrarea să nu rămână blocată la recepție pentru o piesă lipsă."
+      }
     ]
   },
   {
@@ -1547,6 +2684,115 @@
         "href": "/dictionar/certificat-de-sarcini.html",
         "label": "Certificat de sarcini"
       }
+    ],
+    "acteVariants": [
+      {
+        "caseType": "extras-informare",
+        "label": "Extras de carte funciară de informare",
+        "items": [
+          "Numărul cadastral sau numărul de carte funciară al imobilului",
+          "Dacă nu le aveți: adresa exactă a imobilului și numele proprietarului înscris",
+          "Actul de identitate al solicitantului"
+        ],
+        "note": "Extrasul de informare poate fi cerut de oricine, nu doar de proprietar. Se folosește la verificări înainte de cumpărare, la dosare de finanțare, la primărie și în orice situație în care aveți nevoie să știți ce scrie în cartea funciară."
+      },
+      {
+        "caseType": "extras-autentificare",
+        "label": "Extras de carte funciară pentru autentificare (pentru notar)",
+        "items": [
+          "Numărul cadastral și numărul de carte funciară",
+          "Actele de proprietate ale imobilului",
+          "Actul de identitate al proprietarului",
+          "Datele biroului notarial și data programării la semnare"
+        ],
+        "note": "Se eliberează pentru semnarea actului la notar și are o valabilitate limitată prin lege, de aceea se cere aproape de data programării. Verificăm din timp ce ar putea bloca semnarea: suprafață diferită față de acte, moștenitor neînscris, ipotecă neradiată, notare rămasă în partea a III-a."
+      },
+      {
+        "caseType": "extras-plan-cadastral",
+        "label": "Extras de plan cadastral, inclusiv pe ortofotoplan",
+        "items": [
+          "Numărul cadastral al imobilului",
+          "Numărul de carte funciară și localitatea în care se află imobilul",
+          "Actul de identitate al solicitantului"
+        ],
+        "note": "Arată poziția imobilului pe plan, nu doar datele lui scrise. Se cere când vreți să vedeți unde cade parcela față de vecini și față de drum, când pregătiți o dezmembrare sau când bănuiți o suprapunere cu un imobil deja cadastrat."
+      },
+      {
+        "caseType": "copie-arhiva",
+        "label": "Copie după documentația cadastrală din arhivă",
+        "items": [
+          "Numărul cadastral sau numărul de carte funciară",
+          "Numărul și anul lucrării recepționate, dacă le cunoașteți",
+          "Adresa imobilului și numele proprietarului de la data întocmirii, dacă numerele nu se cunosc",
+          "Actul de identitate al solicitantului"
+        ],
+        "note": "Se caută în arhiva biroului care ține evidența imobilului: planuri de amplasament și delimitare, schițe, memorii tehnice și planuri de situație vechi. Utile la lămurirea unei limite contestate, la refacerea unei documentații pierdute sau la o expertiză."
+      },
+      {
+        "caseType": "verificare-imobil",
+        "label": "Verificarea unui imobil înainte de cumpărare",
+        "items": [
+          "Adresa imobilului și, dacă le știți, numărul cadastral și numărul de carte funciară",
+          "Copie după actul de proprietate al vânzătorului, dacă vi l-a pus la dispoziție",
+          "Actul dumneavoastră de identitate, ca solicitant"
+        ],
+        "note": "Din aceste date obținem extrasul de informare și, la teren, extrasul de plan cadastral. Vă spunem cine este proprietarul înscris, ce sarcini și notări există și dacă suprafața și limitele din acte corespund cu realitatea din teren."
+      },
+      {
+        "caseType": "depunere-dosar",
+        "label": "Depunerea și urmărirea unui dosar deja întocmit",
+        "items": [
+          "Documentația cadastrală întocmită sau actele care urmează să fie înscrise, în original",
+          "Cererea de recepție și/sau înscriere, semnată de proprietar",
+          "Actul de identitate al proprietarului",
+          "Împuternicire, pentru depunerea și ridicarea documentelor în numele dumneavoastră"
+        ],
+        "note": "Ducem dosarul la biroul competent, achităm tarifele ANCPI la depunere, ținem legătura cu registratorul și ridicăm rezultatul. Dacă vine notă de completare, o rezolvăm și redepunem, fără să reluați procedura de la capăt."
+      },
+      {
+        "caseType": "diaspora",
+        "label": "Cereri făcute din străinătate, prin împuternicit",
+        "items": [
+          "Copie după actul de identitate sau pașaportul proprietarului",
+          "Datele imobilului: număr cadastral, număr de carte funciară sau adresă",
+          "Procură notarială sau împuternicire dată la consulat, cu menționarea expresă a operațiunilor pentru care este dată",
+          "Adresa de e-mail la care vreți să primiți documentele"
+        ],
+        "note": "Formulăm textul împuternicirii înainte să mergeți la notar sau la consulat, ca să acopere tot ce este de făcut, nu doar o parte. Documentele obținute vi le trimitem electronic și, la cerere, originalele la o adresă din țară."
+      },
+      {
+        "caseType": "imobil-negasit",
+        "label": "Imobil care nu apare în evidențe sau carte funciară neconvertită",
+        "items": [
+          "Orice act de proprietate aveți: titlu de proprietate, contract de vânzare-cumpărare, certificat de moștenitor, hotărâre judecătorească",
+          "Numărul topografic vechi sau numărul de carte funciară veche, dacă apar în acte",
+          "Adresa imobilului și numele proprietarului înscris în actele vechi",
+          "Adeverință de la primărie cu poziția din registrul agricol, dacă imobilul figurează acolo"
+        ],
+        "note": "Sunt două situații diferite: imobilul nu a fost niciodată înscris cu număr cadastral, sau are o carte funciară veche, pe hârtie, încă neconvertită în format electronic. Prima cere o documentație cadastrală, a doua se rezolvă la ghișeu. Verificăm în evidențe și vă spunem în care vă aflați."
+      }
+    ],
+    "problemOpeners": [
+      {
+        "situation": "Notarul a oprit semnarea pentru că lipsește extrasul sau pentru că nu corespunde cu actele",
+        "text": "Aveți programare la notar și, cu puțin timp înainte, aflați că nu se poate semna: extrasul de carte funciară arată altă suprafață decât actul, un moștenitor nu apare înscris, sau imobilul are o ipotecă pe care o credeați radiată. Nu este nevoie să anulați tranzacția. Trimiteți-ne actele pe WhatsApp, vedem exact ce blochează semnarea și ce se poate corecta până la dată."
+      },
+      {
+        "situation": "Cumpără un imobil și nu are cum să verifice ce cumpără",
+        "text": "Ați găsit un teren sau un apartament, prețul pare bun și vânzătorul vă grăbește. Singurul lucru pe care îl aveți este o poză cu actul. Înainte de a da un avans, se poate afla din evidențele oficiale cine este proprietarul de drept, ce datorii sunt înscrise pe imobil și dacă suprafața din acte există cu adevărat pe teren. Ne trimiteți adresa și ne ocupăm noi."
+      },
+      {
+        "situation": "Locuiește în străinătate și are acte de rezolvat pentru un imobil din România",
+        "text": "Locuiți în străinătate, aveți o casă sau un teren aici și amânați de fiecare dată, pentru că orice hârtie pare să ceară un drum acasă. Cea mai mare parte nu îl cere. Extrase, copii din arhivă, verificări, depuneri de dosare — toate se fac pe baza datelor imobilului și a unei împuterniciri date la consulat. Vă spunem exact ce trebuie să conțină, înainte să mergeți."
+      },
+      {
+        "situation": "Imobilul nu apare deloc în evidența electronică",
+        "text": "Ați căutat imobilul online, ați dat adresa, ați dat numele și nu apare nimic. Asta nu înseamnă că nu este al dumneavoastră. Unele proprietăți nu au ajuns niciodată la măsurătoare și la înscrierea cu număr cadastral; altele au o carte funciară veche, ținută pe hârtie la arhivă. Sunt situații diferite, cu rezolvări diferite. Plecăm de la actele dumneavoastră, căutăm în evidențe și vă spunem care este cazul."
+      },
+      {
+        "situation": "A primit notă de completare sau i s-a respins dosarul",
+        "text": "Ați depus un dosar la cadastru și, în loc de documentul așteptat, ați primit o hârtie cu termeni pe care nu îi înțelegeți: notă de completare, încheiere de respingere, corelare cu planul parcelar. De obicei lipsește un singur lucru și se poate remedia fără să reluați totul de la capăt. Trimiteți-ne încheierea, o citim și vă spunem concret ce trebuie completat."
+      }
     ]
   },
   {
@@ -1650,6 +2896,114 @@
       {
         "href": "/dictionar/autentificare-notariala.html",
         "label": "Autentificare notarială"
+      }
+    ],
+    "acteVariants": [
+      {
+        "caseType": "apartament-vanzare",
+        "label": "Apartament sau garsonieră, la vânzare",
+        "items": [
+          "Actul de proprietate — contract de vânzare-cumpărare, contract de construire sau certificat de moștenitor",
+          "Extrasul de carte funciară sau numărul cadastral, dacă îl aveți la îndemână",
+          "Releveul apartamentului — schița cu camerele și suprafețele; dacă lipsește, îl întocmim noi la vizită",
+          "Actul de identitate al proprietarului, pentru datele care apar pe certificat",
+          "Adresa completă: strada, numărul, blocul, scara, etajul și numărul apartamentului",
+          "Informații despre încălzire (centrală proprie sau termoficare), tâmplărie și izolația fațadei"
+        ],
+        "note": "Pentru certificatul energetic nu aveți nevoie de nimic de la biroul de cadastru. Dacă găsiți prin acte doar contractul de vânzare-cumpărare, este suficient ca să începem."
+      },
+      {
+        "caseType": "casa-vanzare",
+        "label": "Casă sau vilă, la vânzare",
+        "items": [
+          "Actul de proprietate al casei și al terenului",
+          "Autorizația de construire și planurile de arhitectură, dacă le mai aveți",
+          "Extrasul de carte funciară sau numărul cadastral, dacă îl aveți la îndemână",
+          "Actul de identitate al proprietarului",
+          "Anul construcției și, dacă s-au făcut, anii lucrărilor de renovare sau de izolare",
+          "Informații despre pereți și acoperiș (izolate sau nu), tâmplărie, sistemul de încălzire și de apă caldă"
+        ],
+        "note": "Dacă planurile s-au pierdut — situația obișnuită la casele vechi — măsurăm noi casa pe teren și întocmim releveul. Nu blochează cu nimic lucrarea."
+      },
+      {
+        "caseType": "casa-veche-fara-planuri",
+        "label": "Casă veche, fără planuri și fără proiect",
+        "items": [
+          "Actul de proprietate, oricât de vechi — contract, titlu de proprietate sau certificat de moștenitor",
+          "Adresa exactă a casei și anul aproximativ în care a fost construită",
+          "Actul de identitate al proprietarului",
+          "Acces la toate încăperile în ziua vizitei, inclusiv pod, beci sau anexe locuite"
+        ],
+        "note": "Lipsa planurilor nu împiedică eliberarea certificatului. Măsurăm casa pe teren, desenăm releveul și pe baza lui facem calculul — o întâlnim cel mai des la locuințele din mediul rural."
+      },
+      {
+        "caseType": "inchiriere",
+        "label": "Locuință dată în chirie",
+        "items": [
+          "Actul de proprietate",
+          "Releveul sau schița locuinței, dacă există",
+          "Actul de identitate al proprietarului",
+          "Adresa completă a locuinței care se închiriază",
+          "Informații despre încălzire, tâmplărie și izolație"
+        ],
+        "note": "Certificatul se predă chiriașului la semnarea contractului, iar clasa energetică trebuie trecută în anunțul de închiriere. Un singur certificat acoperă locuința pe toată durata lui de valabilitate, oricâți chiriași se succedă."
+      },
+      {
+        "caseType": "constructie-noua",
+        "label": "Clădire nouă, la recepția la terminarea lucrărilor",
+        "items": [
+          "Autorizația de construire",
+          "Proiectul tehnic — planurile de arhitectură și detaliile de izolare termică",
+          "Procesul-verbal de recepție la terminarea lucrărilor, dacă a fost deja încheiat",
+          "Actul de proprietate asupra terenului",
+          "Datele despre sistemul de încălzire, ventilare și apă caldă montat efectiv"
+        ],
+        "note": "La clădirile noi certificatul se întocmește pe baza proiectului și a ceea ce s-a executat în realitate — cele două nu coincid întotdeauna. De aceea vizita la fața locului contează chiar dacă aveți proiectul complet."
+      },
+      {
+        "caseType": "mostenire",
+        "label": "Imobil moștenit, cu acte incomplete",
+        "items": [
+          "Certificatul de moștenitor sau actul de proprietate pe numele defunctului",
+          "Orice schiță, plan sau documentație veche găsită prin acte",
+          "Actul de identitate al moștenitorului care semnează",
+          "Adresa exactă a imobilului și, dacă îl știți, anul construcției"
+        ],
+        "note": "Certificatul se poate întocmi chiar dacă succesiunea nu apare încă la carte funciară. Pentru vânzare notarul va cere și înscrierea, așa că merită rezolvate în paralel — ne ocupăm și de partea de cadastru."
+      },
+      {
+        "caseType": "spatiu-comercial",
+        "label": "Spațiu comercial, birou sau hală",
+        "items": [
+          "Actul de proprietate sau contractul care vă dă folosința spațiului",
+          "Planurile spațiului — releveu, plan de arhitectură sau plan de compartimentare",
+          "Autorizația de construire și procesul-verbal de recepție, dacă spațiul a fost construit sau recompartimentat recent",
+          "Datele firmei, așa cum trebuie să apară pe certificat",
+          "Informații despre încălzire, climatizare, ventilație și iluminat"
+        ],
+        "note": "La spații comerciale și birouri evaluarea ține cont și de climatizare, ventilație și iluminat, nu doar de încălzire — de aceea lista de informații este mai lungă decât la o locuință."
+      }
+    ],
+    "problemOpeners": [
+      {
+        "situation": "Notarul a cerut certificatul cu puțin timp înainte de semnare",
+        "text": "Ați fixat data la notar, ați strâns actele, iar în ultima discuție v-a spus că mai trebuie și certificatul energetic. Este documentul pe care mulți proprietari află abia atunci că există. Nu este complicat și nu depinde de cadastru: trebuie doar cineva care să vină la locuință, să o măsoare și să întocmească evaluarea. Trimiteți-ne pe WhatsApp adresa și o poză a actului de proprietate și pornim de acolo."
+      },
+      {
+        "situation": "Anunțul imobiliar nu se poate publica fără clasa energetică",
+        "text": "Ați pus locuința la vânzare, iar agenția sau site-ul de anunțuri vă cere clasa energetică, de la A la G, ca să publice anunțul. Clasa nu se estimează din ochi și nu se copiază de la vecin — rezultă din evaluarea concretă a locuinței dumneavoastră: suprafețe, pereți, tâmplărie, sistemul de încălzire și de apă caldă. Venim, evaluăm și vă predăm certificatul cu clasa scrisă în el."
+      },
+      {
+        "situation": "Casă moștenită, fără planuri și fără proiect",
+        "text": "Ați moștenit casa părintească și acum o vindeți, dar prin acte nu se găsește niciun plan, niciun proiect, uneori nici autorizația de construire. Pentru certificatul energetic nu contează. Venim la casă, o măsurăm încăpere cu încăpere, desenăm releveul și facem calculul pe baza lui. Dumneavoastră trebuie să aveți doar certificatul de moștenitor sau actul vechi de proprietate și buletinul."
+      },
+      {
+        "situation": "Închiriere — chiriașul sau agenția cere certificatul",
+        "text": "Dați apartamentul în chirie, iar chiriașul, agenția sau firma care îl închiriază v-a cerut certificatul energetic la semnarea contractului. Mulți proprietari cred că se cere doar la vânzare. Se cere și la închiriere, iar clasa energetică trebuie trecută în anunț încă de la publicare. Se face o singură dată și rămâne valabil pentru toți chiriașii care urmează, cât timp nu modificați locuința."
+      },
+      {
+        "situation": "Clădire nouă, la recepția la terminarea lucrărilor",
+        "text": "Ați terminat casa sau blocul și pregătiți recepția la terminarea lucrărilor. Printre documentele cerute apare și certificatul de performanță energetică, iar lipsa lui poate amâna tot dosarul. Îl facem după proiect și după ce s-a executat în realitate — cele două nu coincid întotdeauna — cu o vizită la clădire. Trimiteți-ne autorizația și planurile, iar noi vă răspundem ce mai lipsește."
       }
     ]
   },
@@ -1769,6 +3123,134 @@
       {
         "href": "/ghid/suprafata-din-acte-difera-de-teren.html",
         "label": "Suprafața din acte diferă de cea măsurată la teren"
+      }
+    ],
+    "acteVariants": [
+      {
+        "caseType": "expertiza-judiciara",
+        "label": "Expertiză dispusă de instanță (judiciară)",
+        "items": [
+          "Încheierea de numire a expertului și obiectivele stabilite de instanță",
+          "Numărul dosarului și instanța pe rolul căreia se află",
+          "Copii din dosar: cererea de chemare în judecată, întâmpinarea și înscrisurile depuse de părți",
+          "Extras de carte funciară pentru imobilele în litigiu, dacă sunt înscrise",
+          "Actele de proprietate ale părților: titlu de proprietate, contract, certificat de moștenitor, hotărâri anterioare",
+          "Planuri, schițe și documentații cadastrale mai vechi ale imobilelor, dacă există",
+          "Datele de contact ale părților, pentru convocarea la măsurătoare"
+        ],
+        "note": "Obiectivele expertizei le stabilește instanța, nu expertul. Dacă aveți avocat, merită să ne uităm împreună peste formularea lor înainte de termen: un obiectiv formulat neclar produce un raport care nu răspunde la ce vă interesează pe dumneavoastră."
+      },
+      {
+        "caseType": "expertiza-extrajudiciara",
+        "label": "Expertiză extrajudiciară (fără proces)",
+        "items": [
+          "Actul de proprietate: titlu de proprietate, contract de vânzare-cumpărare, certificat de moștenitor sau act de donație",
+          "Extras de carte funciară de informare, dacă imobilul este înscris",
+          "Documentația cadastrală recepționată anterior, dacă imobilul are număr cadastral",
+          "Plan parcelar, plan de situație sau schiță veche, din arhiva primăriei ori a biroului de cadastru",
+          "Actele vecinilor, dacă vi le pun la dispoziție — nu sunt obligatorii, dar scurtează analiza",
+          "Actul de identitate al proprietarului"
+        ],
+        "note": "O expertiză extrajudiciară o comandați direct dumneavoastră, fără instanță și fără acordul altcuiva. Raportul rămâne al dumneavoastră: îl folosiți la discuția cu vecinul, la notar sau ca bază pentru un proces, dacă se ajunge acolo."
+      },
+      {
+        "caseType": "granituire",
+        "label": "Litigiu de hotar / grănițuire",
+        "items": [
+          "Actul de proprietate al terenului dumneavoastră",
+          "Extras de carte funciară, dacă terenul este intabulat",
+          "Documentația cadastrală și planul de amplasament și delimitare, dacă există",
+          "Planul parcelar și procesul-verbal de punere în posesie, pentru terenurile reconstituite",
+          "Orice schiță veche, plan de casă sau plan de situație în care apare hotarul",
+          "Fotografii ale gardului, ale țărușilor sau ale bornelor existente pe teren"
+        ],
+        "note": "Dacă vecinul este deja cadastrat, iar dumneavoastră nu, jumătate din răspuns se află în evidențele oficiale și o scoatem noi de acolo. Până la măsurătoare nu mutați și nu scoateți nimic de pe teren — bornele și gardul existent sunt ele însele probe."
+      },
+      {
+        "caseType": "uzucapiune",
+        "label": "Uzucapiune — teren folosit de zeci de ani, fără acte",
+        "items": [
+          "Orice înscris care leagă terenul de dumneavoastră sau de înaintași: act de vânzare sub semnătură privată, chitanță, testament, adeverință",
+          "Adeverință din registrul agricol, pe numele dumneavoastră sau al înaintașilor",
+          "Certificatele de moștenitor din familie, dacă terenul a trecut prin succesiuni",
+          "Planul parcelar sau schița din arhiva primăriei în care apare parcela",
+          "Extrase de carte funciară pentru imobilele vecine deja înscrise, dacă le puteți obține",
+          "Datele martorilor care pot confirma folosința, pentru partea juridică a dosarului"
+        ],
+        "note": "Uzucapiunea se câștigă în instanță, nu la ghișeu. Noi facem identificarea și măsurătoarea parcelei, cu vecinătăți și desene la scară, care stau la baza cererii; partea juridică o duce avocatul dumneavoastră."
+      },
+      {
+        "caseType": "partaj-mostenire",
+        "label": "Partaj sau ieșire din indiviziune după moștenire",
+        "items": [
+          "Certificatul de moștenitor sau certificatul de calitate de moștenitor",
+          "Actele de proprietate ale defunctului, pentru fiecare imobil din masa succesorală",
+          "Extrase de carte funciară pentru imobilele care se împart",
+          "Documentațiile cadastrale existente, dacă imobilele au număr cadastral",
+          "Lista moștenitorilor și cotele, așa cum rezultă din certificat",
+          "Încheierea de numire, dacă partajul se judecă deja"
+        ],
+        "note": "La partaj, expertiza nu doar măsoară: propune variante concrete de împărțire, cu suprafețe, acces la drum și schiță pentru fiecare lot. De multe ori, când oamenii văd loturile desenate, se înțeleg fără să mai ducă procesul până la capăt."
+      },
+      {
+        "caseType": "revendicare",
+        "label": "Acțiune în revendicare",
+        "items": [
+          "Actul de proprietate pe care vă întemeiați cererea",
+          "Extras de carte funciară pentru imobilul revendicat",
+          "Actele sau documentația celui care deține imobilul, dacă le aveți din dosar",
+          "Planuri, schițe și documentații vechi care arată configurația imobilului la data actului",
+          "Hotărâri judecătorești anterioare privind același imobil, dacă există",
+          "Încheierea de numire și obiectivele, pentru expertiza judiciară"
+        ],
+        "note": "Întrebarea tehnică este una singură: imobilul din actul dumneavoastră este același cu cel de pe teren și în ce limite. La asta răspunde expertiza, prin suprapunerea actelor peste măsurătoarea de astăzi."
+      },
+      {
+        "caseType": "suprapunere-cadastrala",
+        "label": "Suprapunere în evidențele de cadastru",
+        "items": [
+          "Referatul sau nota de respingere de la biroul de cadastru, dacă dosarul v-a fost respins",
+          "Documentația cadastrală a imobilului dumneavoastră, în forma depusă",
+          "Extras de carte funciară pentru imobilul dumneavoastră și pentru cel cu care se suprapune",
+          "Actul de proprietate și planul parcelar",
+          "Numărul cadastral al imobilului vecin, dacă îl cunoașteți"
+        ],
+        "note": "Suprapunerea se rezolvă diferit, după cauză: o documentație veche întocmită greșit se poate îndrepta pe cale administrativă, la biroul teritorial de cadastru, cu acordul părților. Dacă vecinul nu este de acord, rămâne expertiza și instanța. Măsurătoarea este aceeași în ambele situații."
+      },
+      {
+        "caseType": "identificare-acte-vechi",
+        "label": "Identificarea imobilului după acte vechi",
+        "items": [
+          "Cartea funciară veche, în care imobilul apare cu număr topografic, nu cu număr cadastral",
+          "Actele de proprietate vechi: act de vânzare, act de partaj, act de schimb, testament, hotărâre judecătorească",
+          "Titlul de proprietate și procesul-verbal de punere în posesie, dacă terenul a fost reconstituit",
+          "Planul parcelar sau schița din arhiva primăriei ori a biroului de cadastru",
+          "Certificatele de moștenitor care fac legătura până la dumneavoastră",
+          "Adeverință din registrul agricol"
+        ],
+        "note": "Imobilele cu număr topografic din cărțile funciare vechi nu se regăsesc automat pe planurile de astăzi. Le identificăm confruntând planurile de arhivă cu măsurătoarea actuală și stabilim ce imobil de acum corespunde celui din act — pasul fără de care nici notarul, nici instanța nu merge mai departe."
+      }
+    ],
+    "problemOpeners": [
+      {
+        "situation": "Instanța a dispus expertiza și clientul nu știe ce urmează",
+        "text": "Ați primit termen și în încheiere scrie că s-a dispus expertiză topografică. De obicei nimeni nu vă explică ce înseamnă asta. Înseamnă că expertul citește dosarul, vă convoacă pe toți la teren, măsoară, compară măsurătoarea cu actele și depune la dosar un raport cu schițe. Dacă nu sunteți de acord cu concluziile, aveți dreptul să formulați obiecțiuni. Ne ocupăm de partea tehnică, de la citirea dosarului până la răspunsul la obiecțiuni."
+      },
+      {
+        "situation": "Vecinul a mutat hotarul, discuția nu duce nicăieri",
+        "text": "Gardul a apărut mai încoace, sau grădina s-a scurtat pe nesimțite, iar discuția cu vecinul nu duce nicăieri pentru că fiecare are altă părere despre unde este limita. Părerea nu se poate depune nicăieri. Măsurătoarea, da. Ridicăm hotarul real, îl suprapunem peste acte și peste planurile vechi și primiți un raport care spune, cu coordonate, pe unde trece limita."
+      },
+      {
+        "situation": "Moștenire de împărțit între frați, fără înțelegere",
+        "text": "A rămas casa și pământul de la părinți, sunteți mai mulți moștenitori și nu vă înțelegeți la împărțeală: cine ia partea de la drum, cine rămâne fără ieșire, cât înseamnă de fapt cota fiecăruia pe teren. Expertiza pune liniile pe hârtie — măsoară tot, propune variante de lotizare cu acces la drum și arată limpede ce revine fiecăruia. De multe ori atât e nevoie ca lumea să se înțeleagă."
+      },
+      {
+        "situation": "Documentația respinsă pentru suprapunere cu imobilul vecin",
+        "text": "Ați depus documentația cadastrală și v-a venit înapoi: imobilul se suprapune peste unul deja înscris. Nu înseamnă neapărat că ați greșit dumneavoastră și nici că vecinul v-a luat teren. De cele mai multe ori la mijloc este o documentație veche, întocmită după acte și nu după teren. Analizăm ambele lucrări, măsurăm din nou și stabilim de unde vine eroarea și pe ce cale se îndreaptă."
+      },
+      {
+        "situation": "Pământ lucrat de-o viață, fără niciun act pe el",
+        "text": "Lucrați pământul de când vă știți, l-a lucrat și tatăl dumneavoastră înainte, dar în acte nu apare nimic pe numele nimănui: nu-l puteți vinde, nu-l puteți lăsa mai departe și, de câte ori e nevoie de o hârtie, nu aveți ce arăta. Situația se numește uzucapiune și se rezolvă în instanță. Partea tehnică o facem noi: identificăm parcela pe planurile vechi, o măsurăm și întocmim documentația care însoțește cererea."
       }
     ]
   }
