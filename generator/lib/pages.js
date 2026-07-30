@@ -517,6 +517,8 @@ function buildServiceLocality(ctx, service, loc, emitted) {
     { href: `/zone/${loc.countySlug}/`, label: `Toate serviciile în județul ${countyName}` },
   ]);
 
+  const hasCountyHub = !!(ctx.serviceCountyHubs && ctx.serviceCountyHubs.has(`${service.slug}/${loc.countySlug}`));
+
   const waTopic = `${midSentence(service.shortName || service.name)} în ${loc.name}, județul ${countyName}`;
   const content = renderTemplate(tpl('page-service-locality.html'), {
     introHtml, ocpiBlock, villagesBlock, localNoteBlock,
@@ -577,7 +579,17 @@ function buildServiceLocality(ctx, service, loc, emitted) {
     breadcrumbItems: [
       { name: 'Acasă', url: '/' },
       { name: service.name, url: `/servicii/${service.slug}/` },
-      { name: `Județul ${countyName}`, url: `/zone/${loc.countySlug}/` },
+      // Position 3 is the leaf's parent. Pointing it at /zone/<county>/ switched
+      // hierarchy axis mid-chain: position 3 was not a path ancestor of position
+      // 4 and was shared by every service, which made this leaf a sibling of
+      // every other service's leaf in the same county. Reparent to the
+      // service×county hub — but ONLY where that hub exists, or the build emits
+      // BreadcrumbList item URLs that 404 and verify.js fails on 892 leaves
+      // (PLAN-rank-first.md §1.3). /zone/<county>/ keeps its inbound link from
+      // every leaf through hubLinksBlock above.
+      hasCountyHub
+        ? { name: `Județul ${countyName}`, url: `/servicii/${service.slug}/${loc.countySlug}/` }
+        : { name: `Județul ${countyName}`, url: `/zone/${loc.countySlug}/` },
       { name: loc.name, url: urlPath(pagePath) },
     ],
     content,
