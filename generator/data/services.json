@@ -602,7 +602,7 @@
     "shortName": "intabulare construcție",
     "tier2Available": true,
     "hubOnly": false,
-    "metaDescription": "Intabulare casă sau construcție nouă/veche: certificat de atestare, recepție, înscriere în cartea funciară. Topograf autorizat ANCPI, Alba.",
+    "metaDescription": "Intabulare casă sau construcție nouă/veche: certificat de atestare, recepție, înscriere în cartea funciară. Topograf autorizat ANCPI, județul Alba.",
     "hubIntro": "Casa construită — nouă sau veche — trebuie înscrisă în cartea funciară pentru a putea fi vândută, ipotecată sau lăsată moștenire fără complicații. Intabulăm construcții noi pe bază de autorizație și recepție, dar și construcții vechi, fără autorizație, pe baza certificatului de atestare eliberat de primărie. Măsurăm construcția, actualizăm planul de amplasament și depunem dosarul complet la OCPI.",
     "introVariants": [
       {
@@ -2359,7 +2359,7 @@
     "shortName": "topografie inginerească",
     "tier2Available": false,
     "hubOnly": false,
-    "metaDescription": "Topografie inginerească pentru construcții: trasări, nivelment, verificări cote, monitorizare, as-built. Topograf autorizat ANCPI, Alba și împrejurimi.",
+    "metaDescription": "Topografie de șantier în Alba Iulia, Aiud și împrejurimi: plan topografic vizat OCPI, trasare, cote, volume, as-built. Topograf autorizat ANCPI.",
     "hubIntro": "Topografia inginerească însoțește construcția pe tot parcursul ei: de la ridicarea topografică pentru proiectare, la trasarea axelor și a fundațiilor, verificarea cotelor pe etape, calculul volumelor de terasamente, până la documentația as-built de la recepție. Lucrăm pentru constructori, proiectanți, dezvoltatori și beneficiari privați — locuințe, hale industriale, drumuri, rețele, parcuri fotovoltaice — cu echipament GPS RTK și stație totală și cu procese-verbale predate la fiecare etapă.",
     "process": [
       "Primim proiectul și stabilim etapele topografice necesare șantierului.",
@@ -2608,7 +2608,8 @@
         "text": "Pe amplasamentele din zona {localitate}, accesul greu și relieful frământat fac din ridicarea topografică piesa care decide cât costă execuția. Măsurăm terenul complet — cote, taluzuri, drum de acces —, trasăm apoi construcția pe proiectul autorizat și verificăm cotele la fiecare etapă a șantierului."
       }
     ],
-    "countyIntro": "În județul Alba lucrăm pe șantiere din Alba Iulia, Aiud și din localitățile de pe valea Mureșului până în Apuseni, iar cererile se repetă: primăria cere plan topografic vizat OCPI pentru certificatul de urbanism, constructorul cere procesul-verbal de trasare înainte de a intra cu utilajele, iar comisia cere documentația as-built la recepție. Venim la fața locului cu stație totală și GPS RTK, trasăm construcția din proiectul autorizat, verificăm cotele pe etape și predăm fiecare măsurătoare în scris. Scrieți-ne pe WhatsApp ce vi s-a cerut și de la cine, iar noi vă spunem ce lucrare acoperă cererea."
+    "countyIntro": "În județul Alba lucrăm pe șantiere din Alba Iulia, Aiud și din localitățile de pe valea Mureșului până în Apuseni, iar cererile se repetă: primăria cere plan topografic vizat OCPI pentru certificatul de urbanism, constructorul cere procesul-verbal de trasare înainte de a intra cu utilajele, iar comisia cere documentația as-built la recepție. Venim la fața locului cu stație totală și GPS RTK, trasăm construcția din proiectul autorizat, verificăm cotele pe etape și predăm fiecare măsurătoare în scris. Scrieți-ne pe WhatsApp ce vi s-a cerut și de la cine, iar noi vă spunem ce lucrare acoperă cererea.",
+    "h1": "Topografie construcții și urmărire de șantier în Alba Iulia, Aiud și împrejurimi"
   },
   {
     "name": "Servicii OCPI",
@@ -2616,7 +2617,7 @@
     "shortName": "servicii OCPI",
     "tier2Available": false,
     "hubOnly": false,
-    "metaDescription": "Servicii OCPI: extras de carte funciară, copii planuri, verificări imobile, depuneri și urmărire dosare. Rapid, inclusiv de la distanță.",
+    "metaDescription": "Extras de carte funciară, extras de plan cadastral și copii din arhiva OCPI, în județul Alba și Alba Iulia. Depunem și urmărim dosarul. Tel. 0741 478 540.",
     "hubIntro": "Nu orice problemă de carte funciară cere măsurători. Pentru multe aveți nevoie doar de cineva care cunoaște ghișeele și procedurile: obținerea extraselor de carte funciară, copii după planuri și documentații vechi, verificarea situației unui imobil înainte de cumpărare, depunerea cererilor și urmărirea dosarelor la OCPI. Le rezolvăm pentru clienți din țară sau din străinătate, în mare parte fără deplasarea dumneavoastră.",
     "process": [
       "Ne scrieți pe WhatsApp ce aveți nevoie și pentru ce imobil.",
@@ -2855,7 +2856,9 @@
         "text": "În jurul orașelor din județul {judet}, cum este cazul localității {localitate}, terenurile își schimbă repede proprietarul și destinația. Înainte să semnați, merită să știți exact ce spune cartea funciară: proprietarul de drept, sarcinile, notările, poziția reală a parcelei pe plan. Cerem la {ocpi} extrasul de carte funciară împreună cu extrasul de plan cadastral și vi le explicăm."
       }
     ],
-    "countyIntro": "În județul Alba, multe blocaje de carte funciară nu cer o măsurătoare, ci o hârtie scoasă din evidențe: extrasul cerut de notar cu puțin timp înainte de semnare, planul vechi rămas în arhivă, verificarea unui teren înainte de plata avansului. Nu toate dosarele merg la Alba Iulia — județul are cinci birouri teritoriale, iar competent este cel al localității în care se află imobilul. Vă spunem la care se depune al dumneavoastră, obținem documentul din evidență sau din arhivă și urmărim dosarul până la rezultat, fără să vă deplasați la ghișeu."
+    "countyIntro": "În județul Alba, multe blocaje de carte funciară nu cer o măsurătoare, ci o hârtie scoasă din evidențe: extrasul cerut de notar cu puțin timp înainte de semnare, planul vechi rămas în arhivă, verificarea unui teren înainte de plata avansului. Nu toate dosarele merg la Alba Iulia — județul are cinci birouri teritoriale, iar competent este cel al localității în care se află imobilul. Vă spunem la care se depune al dumneavoastră, obținem documentul din evidență sau din arhivă și urmărim dosarul până la rezultat, fără să vă deplasați la ghișeu.",
+    "title": "Extras de carte funciară și acte OCPI",
+    "h1": "Extras de carte funciară și acte de la OCPI"
   },
   {
     "name": "Certificat energetic",
@@ -2863,7 +2866,7 @@
     "shortName": "certificat energetic",
     "tier2Available": false,
     "hubOnly": false,
-    "metaDescription": "Certificat de performanță energetică pentru vânzare sau închiriere: evaluare, clasă energetică, eliberare rapidă. Alba și împrejurimi.",
+    "metaDescription": "Certificat de performanță energetică cerut de notar la vânzare sau închiriere. Alba Iulia, Aiud și județul Alba: venim la imobil, stabilim clasa energetică.",
     "hubIntro": "Certificatul de performanță energetică este obligatoriu la vânzarea sau închirierea oricărei locuințe — notarul îl cere la semnare. Documentul încadrează imobilul într-o clasă energetică, de la A la G, pe baza caracteristicilor constructive și a instalațiilor. Îl întocmim noi, de la vizita la imobil până la predarea certificatului, pentru apartamente și case din Alba Iulia, Aiud, Sebeș, Blaj, Ocna Mureș, Teiuș și restul județului Alba.",
     "process": [
       "Ne trimiteți pe WhatsApp datele imobilului și actele existente.",
@@ -3129,7 +3132,9 @@
         "Multe locuințe din {localitate} au fost date în folosință pe etape, iar instalația de încălzire s-a completat pe parcurs. Consemnăm ce funcționează efectiv în ziua vizitei, nu ce era prevăzut."
       ]
     },
-    "countyIntro": "În județul Alba — la Alba Iulia, Aiud, Sebeș, Blaj sau în comunele din jur — certificatul de performanță energetică apare de obicei în ultima discuție cu notarul: dosarul de vânzare este gata, iar acest document lipsește. Nu ține de cadastru și nu are legătură cu cartea funciară. Se stabilește la fața locului, pe baza suprafețelor, a tâmplăriei, a izolației și a sistemului de încălzire, iar rezultatul este o clasă energetică de la A la G. Întocmim certificate pentru apartamente, case și spații comerciale, cu deplasare de la biroul nostru din Aiud."
+    "countyIntro": "În județul Alba — la Alba Iulia, Aiud, Sebeș, Blaj sau în comunele din jur — certificatul de performanță energetică apare de obicei în ultima discuție cu notarul: dosarul de vânzare este gata, iar acest document lipsește. Nu ține de cadastru și nu are legătură cu cartea funciară. Se stabilește la fața locului, pe baza suprafețelor, a tâmplăriei, a izolației și a sistemului de încălzire, iar rezultatul este o clasă energetică de la A la G. Întocmim certificate pentru apartamente, case și spații comerciale, cu deplasare de la biroul nostru din Aiud.",
+    "h1": "Certificat energetic în Alba Iulia și în județul Alba",
+    "title": "Certificat energetic în Alba Iulia și județul Alba"
   },
   {
     "name": "Expertize și documentații",
@@ -3137,7 +3142,7 @@
     "shortName": "expertize și documentații",
     "tier2Available": false,
     "hubOnly": false,
-    "metaDescription": "Expertize topografice, rapoarte pentru instanță, documentații speciale: grănițuire, uzucapiune, suprapuneri cadastrale. Expert topograf, Alba.",
+    "metaDescription": "Expertiză topografică în județul Alba: grănițuire, uzucapiune, partaj, suprapuneri în cadastru. Măsurători, schițe și raport. Tel. 0741 478 540.",
     "hubIntro": "Când situația imobilului ajunge la instanță sau iese din tiparul documentațiilor obișnuite, este nevoie de expertiză: rapoarte de expertiză topografică pentru procese de grănițuire, uzucapiune, revendicare sau partaj, documentații pentru rezolvarea suprapunerilor cadastrale, identificări de imobile după acte vechi, planuri de situație pentru avize speciale.",
     "process": [
       "Analizăm actele și situația imobilului — inclusiv istoricul din arhive.",
@@ -3430,6 +3435,8 @@
         "Unde arabilul a devenit teren de construcții pe raza {localitate}, documentațiile noi stau alături de titluri de proprietate vechi și de planuri parcelare care nu cad unul peste altul. Identificarea imobilului cere confruntarea tuturor acestor surse."
       ]
     },
-    "countyIntro": "Un gard mutat, o suprapunere care v-a întors documentația de la cadastru, o moștenire pe care frații nu o pot împărți fiindcă nimeni nu știe pe unde trec limitele: în județul Alba, de la Alba Iulia și Aiud până la satele din Apuseni, astfel de situații ajung în instanță pentru că lipsește o măsurătoare pusă pe hârtie. Venim la fața locului, ridicăm limitele așa cum sunt astăzi, le comparăm cu actele dumneavoastră și cu planurile din arhivă și întocmim raportul de expertiză — pentru dosarul din instanță sau numai pentru dumneavoastră, dacă vreți să vedeți cum stați înainte de a deschide un proces. Trimiteți-ne actele pe WhatsApp."
+    "countyIntro": "Un gard mutat, o suprapunere care v-a întors documentația de la cadastru, o moștenire pe care frații nu o pot împărți fiindcă nimeni nu știe pe unde trec limitele: în județul Alba, de la Alba Iulia și Aiud până la satele din Apuseni, astfel de situații ajung în instanță pentru că lipsește o măsurătoare pusă pe hârtie. Venim la fața locului, ridicăm limitele așa cum sunt astăzi, le comparăm cu actele dumneavoastră și cu planurile din arhivă și întocmim raportul de expertiză — pentru dosarul din instanță sau numai pentru dumneavoastră, dacă vreți să vedeți cum stați înainte de a deschide un proces. Trimiteți-ne actele pe WhatsApp.",
+    "h1": "Expertiză topografică și documentații: hotare, suprapuneri, moșteniri",
+    "titleName": "Expertiză topografică"
   }
 ]
