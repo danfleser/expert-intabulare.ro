@@ -475,7 +475,14 @@ function buildServiceLocality(ctx, service, loc, emitted) {
   const priceBlock = service.priceRange
     ? `<div class="mb-5"><p><strong>Preț orientativ:</strong> ${escHtml(service.priceRange)}. <span class="fz-14">${escHtml(site.priceDisclaimer)}</span></p></div>`
     : '';
-  const countyNoteBlock = (county && county.countyNote)
+  // Same ruling as the county hub (see buildServiceCountyHub): `countyNote` is
+  // written from the land-registry point of view — it ends "dosarul se depune
+  // întotdeauna la biroul competent pentru localitatea imobilului". On a service
+  // that files nothing at BCPI that sentence contradicts this page's own
+  // depunere card two blocks above it ("nu se depune la biroul de cadastru"), so
+  // it rides on the same flag as every other lodging claim. Zero-diff for the
+  // eight cadastral services: they declare no `depunere`, so `atBcpi` is true.
+  const countyNoteBlock = (county && county.countyNote && dep.atBcpi)
     ? cardBlock(`Particularități OCPI în județul ${countyName}`, `<p class="mb-0">${escHtml(county.countyNote)}</p>`, 'bi-info-circle')
     : '';
 

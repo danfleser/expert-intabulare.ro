@@ -2350,7 +2350,7 @@
     "slug": "topografie-constructii",
     "shortName": "topografie inginerească",
     "tier2Available": false,
-    "hubOnly": true,
+    "hubOnly": false,
     "metaDescription": "Topografie inginerească pentru construcții: trasări, nivelment, verificări cote, monitorizare, as-built. Topograf autorizat ANCPI, Alba și împrejurimi.",
     "hubIntro": "Topografia inginerească însoțește construcția pe tot parcursul ei: de la ridicarea topografică pentru proiectare, la trasarea axelor și a fundațiilor, verificarea cotelor pe etape, calculul volumelor de terasamente, până la documentația as-built de la recepție. Lucrăm pentru constructori, proiectanți, dezvoltatori și beneficiari privați — locuințe, hale industriale, drumuri, rețele, parcuri fotovoltaice — cu echipament GPS RTK și stație totală și cu procese-verbale predate la fiecare etapă.",
     "process": [
