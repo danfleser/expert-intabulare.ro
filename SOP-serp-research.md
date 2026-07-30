@@ -41,29 +41,36 @@ Read this in full before doing anything. Then follow it literally.
    the plan produced under it wrongly flagged them as violations. **Do not strip them. Do not
    re-flag them.**
 
-   **FORBIDDEN — no exact numbers for ANYTHING related to delivery. CEO ruling 2026-07-30:**
+   **DURATION NUMBERS — ALLOWED, AS FRAMED ESTIMATES. CEO ruling 2026-07-30 (SUPERSEDES the
+   earlier blanket ban):**
 
-   > *"The idea is not to use exact numbers for anything related to delivery. Aurel might have
-   > his own and it depends on each case."*
+   > *"So put numbers and update our SOP, but write that those are estimates and for real call
+   > or write on WhatsApp."*
 
-   Aurel sets his own timings and they vary case by case. A number printed on 2,000 pages
-   becomes a promise he never made, about a job he has not seen. So:
+   An earlier ruling banned every digit-bearing duration. That was too blunt: it would have
+   gutted guide pages whose entire purpose is answering "cât durează…", which is exactly what
+   people search for. The revised rule:
 
+   **A duration number is ALLOWED when BOTH are true:**
+   1. It is presented as an **estimate**, not a commitment — "orientativ", "de regulă", "în mod
+      obișnuit", "termene uzuale". Never "garantăm", "livrăm în", "vă predăm în".
+   2. The reader is pointed to a **real answer for their own case** — a WhatsApp/phone CTA
+      nearby, e.g. *"Termenele de mai jos sunt orientative. Pentru situația dumneavoastră,
+      scrieți-ne pe WhatsApp sau sunați-ne și vă spunem concret."*
+
+   **STILL FORBIDDEN:**
+   - **Bare first-person delivery promises with a clock** — "livrăm planul în 24–48 de ore",
+     "vă spunem în 24 de ore". These commit Aurel to a schedule for a job he has not seen.
+     Reframe as an estimate with a CTA, or remove.
    - The **exact ANCPI tariff** paid by the client. We do not know it.
-   - **Any digit-bearing delivery figure** — how long the measurement takes, how long the file
-     sits at BCPI, how long the whole job runs, how many days to a document, how many visits,
-     how many working days for anything. "se rezolvă în 10 zile", "15 zile lucrătoare",
-     "3–6 săptămâni", "în 2 zile", "termen de finalizare 7 zile".
-   - "în aceeași zi" applied to **BCPI processing** (as opposed to Aurel's own reply time, which
-     is allowed and live).
+   - **Contradicting ourselves.** If two pages state the same statutory term differently, at
+     least one is false. Statutory figures must be consistent site-wide and correct.
    - Inventing any NEW price figure not already in `generator/data/services.json`.
 
-   **THE TEST — apply it mechanically:** does the statement contain a digit or a specific count,
-   and is it about how long something takes or when it will be done? → **FORBIDDEN.**
-   Is it hedged and qualitative? → **ALLOWED.**
-
-   Write "de regulă câteva săptămâni", never "de regulă 3 săptămâni". The hedge is honest
-   precisely because it does not commit Aurel to a number he has not agreed to.
+   **ALSO ALLOWED, unchanged:** hedged non-numeric language ("de regulă câteva săptămâni"),
+   Aurel's own hedged reply time ("răspundem de obicei în aceeași zi lucrătoare"), and scope
+   statements about how a job is organised ("o singură deplasare pentru măsurători") — those
+   describe the shape of the work, not a schedule, and were never the target of this rule.
 
    The distinction: a **hedged range we already publish and stand behind** is fine. A **specific
    claim about how fast a third party works**, or a tariff we have not verified, is not.
@@ -287,9 +294,10 @@ From `generator/lib/gates.js`, verified:
 
 - Computing competitor consensus over directory listings.
 - Proposing a page change to fix a map-pack position.
-- Publishing the exact ANCPI tariff, or ANY turnaround/duration claim about BCPI processing
-  (ruling 0.2). **Note: existing hedged orientative price RANGES are allowed and live — proposing
-  to remove them is itself an anti-pattern.**
+- Publishing the exact ANCPI tariff, or a bare first-person delivery promise with a clock
+  ("livrăm în 24–48 de ore"). **Duration numbers framed as estimates WITH a contact CTA are
+  allowed (ruling 0.2). Existing hedged orientative price RANGES are allowed and live —
+  proposing to remove either is itself an anti-pattern.**
 - Inventing PNCCF years, sector numbers, parcel counts, or dates.
 - Proposing to display the ANCPI authorization number, or listing it as a missing trust signal or
   an open question (ruling 0.1). Settled: we do not publish it.
