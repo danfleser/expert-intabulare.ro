@@ -19,7 +19,7 @@
         ["Exemple tipice", "teren cu titlu din '91 nemăsurat vreodată; apartament fără CF individuală", "casă nouă pe teren intabulat; extindere; demolare; schimbare categorie de folosință; diferență de suprafață"],
         ["Documentație", "documentație cadastrală de primă înregistrare", "documentație cadastrală de actualizare (înscriere construcție, modificare suprafață etc.)"],
         ["Tarif ANCPI (regim normal)", "în prezent scutit de tarif", "se tarifează conform Ordinului 16/2019, per serviciu"],
-        ["Termen OCPI orientativ", "18 zile lucrătoare (8 în urgență)", "mai scurt de regulă, în funcție de serviciu"],
+        ["Termen OCPI orientativ", "15 zile lucrătoare, la fel și în urgență", "în funcție de serviciu (ex. înscriere construcție: 15 zile lucrătoare, 5 în urgență)"],
         ["Rezultat", "carte funciară nouă, proprietar intabulat", "carte funciară actualizată cu situația reală"]
       ]
     },

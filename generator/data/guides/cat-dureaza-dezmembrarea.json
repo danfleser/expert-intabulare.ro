@@ -8,11 +8,11 @@
     {
       "type": "paragraph",
       "heading": "Răspunsul realist: 3–6 săptămâni cap-coadă",
-      "text": "O dezmembrare obișnuită, pe un teren deja intabulat corect, fără sarcini și cu acte complete, durează de regulă între trei și șase săptămâni de la comandă până când aveți în mână extrasele de carte funciară pentru loturile noi. Termenul oficial pe care îl comunică OCPI acoperă doar o parte din acest interval; restul îl consumă măsurătorile, întocmirea documentației, actul notarial acolo unde este necesar și, uneori, obținerea unui aviz sau a unui acord.\n\nEste important să înțelegeți structura, pentru că oamenii se sperie când aud „7 zile lucrătoare la OCPI” și apoi constată că a trecut o lună. Nu s-a întâmplat nimic anormal: cele 7 zile sunt un singur pas dintr-un lanț de cinci.\n\nDacă vă interesează procedura în detaliu, aveți ghidul cu pașii dezmembrării și lista actelor necesare pentru dezmembrare, iar pentru bani, ghidul despre costul unei dezmembrări. Aici vorbim strict despre timp."
+      "text": "O dezmembrare obișnuită, pe un teren deja intabulat corect, fără sarcini și cu acte complete, durează de regulă între trei și șase săptămâni de la comandă până când aveți în mână extrasele de carte funciară pentru loturile noi. Termenul oficial pe care îl comunică OCPI acoperă doar o parte din acest interval; restul îl consumă măsurătorile, întocmirea documentației, actul notarial acolo unde este necesar și, uneori, obținerea unui aviz sau a unui acord.\n\nEste important să înțelegeți structura, pentru că oamenii se sperie când aud „7 zile lucrătoare la OCPI” și apoi constată că a trecut o lună. Nu s-a întâmplat nimic anormal: cele 7 zile sunt un singur pas dintr-un lanț de cinci.\n\nToate duratele de mai jos sunt estimări, construite pe termenele oficiale și pe cum se mișcă dosarele obișnuite; nu sunt termene pe care vi le garantăm. Dacă vreți cifra pentru terenul dumneavoastră, scrieți-ne pe WhatsApp sau sunați-ne — cu extrasul de carte funciară în față vă spunem concret.\n\nDacă vă interesează procedura în detaliu, aveți ghidul cu pașii dezmembrării și lista actelor necesare pentru dezmembrare, iar pentru bani, ghidul despre costul unei dezmembrări. Aici vorbim strict despre timp."
     },
     {
       "type": "table",
-      "heading": "Cronologia unei dezmembrări, pas cu pas",
+      "heading": "Cronologia unei dezmembrări, pas cu pas (durate orientative)",
       "head": ["Etapa", "Durată tipică", "Cine o face"],
       "rows": [
         ["Verificarea actelor și a cărții funciare", "1 – 2 zile", "topograful, gratuit, pe baza extrasului"],
@@ -35,7 +35,7 @@
       "type": "checklist",
       "heading": "Ce prelungește o dezmembrare — și cum se evită",
       "items": [
-        "Terenul nu este intabulat: mai întâi prima înregistrare, apoi dezmembrarea. Adaugă termenul primei înregistrări, de regulă 18 zile lucrătoare în regim normal",
+        "Terenul nu este intabulat: mai întâi prima înregistrare, apoi dezmembrarea. La calendar se adaugă termenul primei înregistrări, 15 zile lucrătoare, pe care urgența nu îl scurtează",
         "Cartea funciară are date vechi sau poziție greșită pe ortofotoplan: e nevoie de o actualizare sau de o repoziționare înainte de dezmembrare",
         "Suprafața din acte diferă de cea măsurată: se rezolvă întâi diferența, altfel OCPI emite referat de completare",
         "Imobilul are ipotecă înscrisă: banca trebuie să își dea acordul pentru dezmembrare, iar termenul depinde de bancă, nu de OCPI",
@@ -52,7 +52,7 @@
       "steps": [
         {
           "title": "Ziua 0 — trimiterea actelor",
-          "text": "Ne trimiteți extrasul de carte funciară și actul de proprietate pe WhatsApp. În 24–48 de ore vă spunem dacă dezmembrarea se poate face direct sau dacă are nevoie de o etapă prealabilă, și vă dăm calendarul realist."
+          "text": "Ne trimiteți extrasul de carte funciară și actul de proprietate pe WhatsApp. Răspundem de obicei în aceeași zi lucrătoare și vă spunem dacă dezmembrarea se poate face direct sau dacă are nevoie de o etapă prealabilă, împreună cu calendarul realist."
         },
         {
           "title": "Zilele 1–7 — acte și măsurători",
@@ -108,7 +108,7 @@
     },
     {
       "type": "cta",
-      "heading": "Vă spunem în 24 de ore cât durează în cazul dumneavoastră",
+      "heading": "Vă spunem cât durează în cazul dumneavoastră",
       "text": "Trimiteți pe WhatsApp extrasul de carte funciară și spuneți-ne în câte loturi vreți să împărțiți terenul și dacă aveți un termen limită. Primiți calendarul realist, pas cu pas, cu datele la care trebuie să faceți dumneavoastră ceva. Termenele din acest ghid sunt orientative; termenele oficiale se verifică pe site-ul OCPI competent."
     }
   ],

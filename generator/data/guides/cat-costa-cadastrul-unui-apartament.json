@@ -17,7 +17,7 @@
       "rows": [
         ["Onorariu documentație cadastrală apartament", "500 – 1.100 lei", "măsurarea apartamentului (releveu), întocmirea și depunerea dosarului"],
         ["Tarif OCPI primă înregistrare", "scutit în regim normal", "dacă apartamentul nu a mai fost înscris în cartea funciară"],
-        ["Regim de urgență la prima înregistrare", "fără tarif de urgență", "urgența scurtează termenul de la 18 la 8 zile lucrătoare; tariful a fost eliminat odată cu cel de primă înregistrare"],
+        ["Regim de urgență la prima înregistrare", "fără tarif de urgență", "la prima înregistrare urgența nu scurtează termenul — rămâne 15 zile lucrătoare în ambele regimuri"],
         ["Intabularea dreptului la cumpărare (apartament cu cadastru existent)", "0,15% din preț (persoane fizice, min. 60 lei)", "se achită de regulă prin notar, la tranzacție"],
         ["Certificat de atestare fiscală", "gratuit sau taxă mică", "de la primărie; valabil de regulă 30 de zile"],
         ["Copii legalizate acte", "zeci de lei", "la orice birou notarial"]
@@ -72,7 +72,7 @@
         },
         {
           "q": "Cât durează cadastrul unui apartament?",
-          "a": "Măsurătorile durează sub o oră, documentația câteva zile, iar termenul OCPI pentru prima înregistrare este de 18 zile lucrătoare în regim normal (8 în urgență). Cap-coadă: de regulă 3–5 săptămâni. Detalii în ghidul nostru despre durata cadastrului."
+          "a": "Măsurătorile durează sub o oră, documentația câteva zile, iar termenul OCPI pentru prima înregistrare este de 15 zile lucrătoare, la fel și în urgență. Cap-coadă, orientativ: 3–5 săptămâni. Sunt repere, nu termene ferme — pentru apartamentul dumneavoastră ne scrieți pe WhatsApp. Detalii în ghidul nostru despre durata cadastrului."
         },
         {
           "q": "Apartamentul e moștenit. Se schimbă prețul?",
