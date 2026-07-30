@@ -617,11 +617,11 @@
       },
       {
         "profile": "montan-apuseni",
-        "text": "Ai o cabană sau o casă de vacanță în {localitate}? Ca să o vinzi, să o închiriezi legal sau să o asiguri corect, trebuie înscrisă în cartea funciară. Rezolvăm intabularea construcției de la măsurătoare până la extrasul final."
+        "text": "Aveți o cabană sau o casă de vacanță în {localitate}? Ca să o vindeți, să o închiriați legal sau să o asigurați corect, trebuie înscrisă în cartea funciară. Rezolvăm intabularea construcției de la măsurătoare până la extrasul final."
       },
       {
         "profile": "urban",
-        "text": "Ai terminat casa în {localitate} și ai procesul-verbal de recepție? Urmează pasul final: intabularea construcției. Măsurăm imobilul, întocmim documentația cadastrală de înscriere a construcției și o depunem la {ocpi}, ca locuința să existe oficial în cartea funciară."
+        "text": "Ați terminat casa în {localitate} și aveți procesul-verbal de recepție? Urmează pasul final: intabularea construcției. Măsurăm imobilul, întocmim documentația cadastrală de înscriere a construcției și o depunem la {ocpi}, ca locuința să existe oficial în cartea funciară."
       },
       {
         "profile": "urban",
@@ -633,7 +633,7 @@
       },
       {
         "profile": "periurban",
-        "text": "Ai extins sau modificat casa din {localitate}? Extinderea trebuie înscrisă în cartea funciară, altfel apare diferență între acte și realitate la orice tranzacție. Actualizăm documentația cadastrală și o depunem la {ocpi}."
+        "text": "Ați extins sau modificat casa din {localitate}? Extinderea trebuie înscrisă în cartea funciară, altfel apare diferență între acte și realitate la orice tranzacție. Actualizăm documentația cadastrală și o depunem la {ocpi}."
       },
       {
         "profile": "agricol-campie",
@@ -641,7 +641,7 @@
       },
       {
         "profile": "agricol-campie",
-        "text": "Vrei să vinzi gospodăria din {localitate} sau să o treci pe numele copiilor? Fără construcțiile înscrise în cartea funciară, notarul nu poate autentifica actul. Măsurăm casa și anexele, obținem actele necesare de la primărie și ducem intabularea până la capăt la {ocpi}."
+        "text": "Doriți să vindeți gospodăria din {localitate} sau să o treceți pe numele copiilor? Fără construcțiile înscrise în cartea funciară, notarul nu poate autentifica actul. Măsurăm casa și anexele, obținem actele necesare de la primărie și ducem intabularea până la capăt la {ocpi}."
       },
       {
         "profile": "periurban",
@@ -653,11 +653,11 @@
       }
     ],
     "process": [
-      "Ne trimiți pe WhatsApp actele construcției — autorizație și recepție sau, la case vechi, ce acte există.",
+      "Ne trimiteți pe WhatsApp actele construcției — autorizație și recepție sau, la case vechi, ce acte există.",
       "Pentru construcțiile fără autorizație obținem certificatul de atestare a existenței construcției de la primărie.",
       "Măsurăm construcția și terenul, cu deplasare în {localitate}.",
       "Întocmim documentația cadastrală de înscriere a construcției.",
-      "Depunem dosarul la {ocpi} și îți predăm extrasul de carte funciară."
+      "Depunem dosarul la {ocpi} și vă predăm extrasul de carte funciară."
     ],
     "documents": [
       "Extras de carte funciară al terenului (terenul trebuie să fie intabulat)",
@@ -924,7 +924,7 @@
     "introVariants": [
       {
         "profile": "agricol-campie",
-        "text": "Ai un apartament în {localitate} cumpărat pe vremea statului sau moștenit? Multe locuințe din blocurile vechi nu au cadastru făcut. Realizăm releveul, calculăm cotele din părțile comune și înscriem apartamentul în cartea funciară, la {ocpi}."
+        "text": "Aveți un apartament în {localitate} cumpărat pe vremea statului sau moștenit? Multe locuințe din blocurile vechi nu au cadastru făcut. Realizăm releveul, calculăm cotele din părțile comune și înscriem apartamentul în cartea funciară, la {ocpi}."
       },
       {
         "profile": "agricol-campie",
@@ -936,7 +936,7 @@
       },
       {
         "profile": "montan-apuseni",
-        "text": "Vinzi sau moștenești un apartament în {localitate}? Verificăm situația lui în cartea funciară, refacem sau întocmim documentația cadastrală și rezolvăm înscrierea la {ocpi} — inclusiv pentru locuințele cumpărate de la stat în anii ’90."
+        "text": "Vindeți sau moșteniți un apartament în {localitate}? Verificăm situația lui în cartea funciară, refacem sau întocmim documentația cadastrală și rezolvăm înscrierea la {ocpi} — inclusiv pentru locuințele cumpărate de la stat în anii ’90."
       },
       {
         "profile": "urban",
@@ -952,15 +952,15 @@
       },
       {
         "profile": "periurban",
-        "text": "Cumperi un apartament în {localitate} prin credit? Banca cere cadastru și intabulare corecte. Verificăm documentația existentă și refacem ce este necesar înainte de evaluare."
+        "text": "Cumpărați un apartament în {localitate} prin credit? Banca cere cadastru și intabulare corecte. Verificăm documentația existentă și refacem ce este necesar înainte de evaluare."
       }
     ],
     "process": [
-      "Ne trimiți pe WhatsApp actele apartamentului și ne spui scopul: vânzare, moștenire, credit.",
+      "Ne trimiteți pe WhatsApp actele apartamentului și ne spuneți scopul: vânzare, moștenire, credit.",
       "Facem releveul apartamentului, cu deplasare în {localitate}.",
       "Întocmim documentația cadastrală de unitate individuală, cu cotele din părțile comune.",
       "Depunem dosarul la {ocpi} și urmărim soluționarea.",
-      "Primești extrasul de carte funciară al apartamentului, gata pentru notar sau bancă."
+      "Primiți extrasul de carte funciară al apartamentului, gata pentru notar sau bancă."
     ],
     "documents": [
       "Act de proprietate al apartamentului (contract, certificat de moștenitor)",
@@ -1204,7 +1204,7 @@
       },
       {
         "profile": "montan-apuseni",
-        "text": "Vinzi o parte din terenul din {localitate} — pentru o cabană, o casă de vacanță sau unui vecin? Dezmembrarea este pasul obligatoriu: lotul vândut primește carte funciară proprie. Facem documentația și depunerea la {ocpi}."
+        "text": "Vindeți o parte din terenul din {localitate} — pentru o cabană, o casă de vacanță sau unui vecin? Dezmembrarea este pasul obligatoriu: lotul vândut primește carte funciară proprie. Facem documentația și depunerea la {ocpi}."
       },
       {
         "profile": "urban",
@@ -1212,7 +1212,7 @@
       },
       {
         "profile": "urban",
-        "text": "Dezvolți sau vinzi loturi în {localitate}? Lucrăm dezmembrări cu mai multe loturi, cu plan de dezmembrare clar, numerotare corectă și depunere la {ocpi} — inclusiv coordonare cu notarul pentru actele de dezmembrare."
+        "text": "Dezvoltați sau vindeți loturi în {localitate}? Lucrăm dezmembrări cu mai multe loturi, cu plan de dezmembrare clar, numerotare corectă și depunere la {ocpi} — inclusiv coordonare cu notarul pentru actele de dezmembrare."
       },
       {
         "profile": "periurban",
@@ -1220,7 +1220,7 @@
       },
       {
         "profile": "periurban",
-        "text": "Ai cumpărat un lot dintr-un teren mai mare în {localitate}? Verificăm dacă dezmembrarea este corect înscrisă, iar dacă nu, punem actele în ordine: documentație cadastrală, recepție OCPI, act notarial, carte funciară nouă."
+        "text": "Ați cumpărat un lot dintr-un teren mai mare în {localitate}? Verificăm dacă dezmembrarea este corect înscrisă, iar dacă nu, punem actele în ordine: documentație cadastrală, recepție OCPI, act notarial, carte funciară nouă."
       }
     ],
     "process": [
@@ -1484,7 +1484,7 @@
     "introVariants": [
       {
         "profile": "agricol-campie",
-        "text": "Construiești sau extinzi în {localitate}? Realizăm planul topografic necesar autorizației de construire, cu ridicarea completă a terenului și predare în formatul acceptat de primărie și de proiectant."
+        "text": "Construiți sau extindeți în {localitate}? Realizăm planul topografic necesar autorizației de construire, cu ridicarea completă a terenului și predare în formatul acceptat de primărie și de proiectant."
       },
       {
         "profile": "agricol-campie",
@@ -1512,7 +1512,7 @@
       },
       {
         "profile": "periurban",
-        "text": "Pregătești un proiect în {localitate} — casă, hală, spălătorie, stație? Planul topografic vizat OCPI este printre primele piese cerute prin certificatul de urbanism. Îl realizăm cu deplasare la fața locului și predare digitală și pe hârtie."
+        "text": "Pregătiți un proiect în {localitate} — casă, hală, spălătorie, stație? Planul topografic vizat OCPI este printre primele piese cerute prin certificatul de urbanism. Îl realizăm cu deplasare la fața locului și predare digitală și pe hârtie."
       },
       {
         "profile": "agricol-campie",
@@ -1777,7 +1777,7 @@
     "introVariants": [
       {
         "profile": "agricol-campie",
-        "text": "Vrei să știi exact pe unde trece hotarul parcelei din {localitate} — înainte să pui gard, să ari sau să vinzi? Trasăm limitele din cartea funciară direct pe teren, cu GPS de precizie, și marcăm punctele de hotar cu țăruși."
+        "text": "Doriți să știți exact pe unde trece hotarul parcelei din {localitate} — înainte să puneți gard, să arați sau să vindeți? Trasăm limitele din cartea funciară direct pe teren, cu GPS de precizie, și marcăm punctele de hotar cu țăruși."
       },
       {
         "profile": "agricol-campie",
@@ -1789,15 +1789,15 @@
       },
       {
         "profile": "montan-apuseni",
-        "text": "Construiești o cabană sau o casă în {localitate}? Trasăm construcția conform proiectului autorizat — colțuri, axe, cotă de nivel — și predăm procesul-verbal de trasare cerut la începerea lucrărilor."
+        "text": "Construiți o cabană sau o casă în {localitate}? Trasăm construcția conform proiectului autorizat — colțuri, axe, cotă de nivel — și predăm procesul-verbal de trasare cerut la începerea lucrărilor."
       },
       {
         "profile": "urban",
-        "text": "Începi construcția în {localitate}? Înainte de săpătură, construcția se trasează conform proiectului: axe, colțuri, retrageri față de limite. O trasare corectă te ferește de amenzi și de litigii cu vecinii."
+        "text": "Începeți construcția în {localitate}? Înainte de săpătură, construcția se trasează conform proiectului: axe, colțuri, retrageri față de limite. O trasare corectă vă ferește de amenzi și de litigii cu vecinii."
       },
       {
         "profile": "urban",
-        "text": "Cumperi un teren în {localitate}? Trasarea limitelor înainte de semnare îți arată exact ce cumperi — dacă gardul existent respectă cartea funciară și dacă suprafața reală corespunde. O verificare ieftină față de riscul unei tranzacții greșite."
+        "text": "Cumpărați un teren în {localitate}? Trasarea limitelor înainte de semnare vă arată exact ce cumpărați — dacă gardul existent respectă cartea funciară și dacă suprafața reală corespunde. O verificare ieftină față de riscul unei tranzacții greșite."
       },
       {
         "profile": "periurban",
@@ -1805,11 +1805,11 @@
       },
       {
         "profile": "periurban",
-        "text": "Pui gard nou în {localitate}? Trasăm mai întâi limita din cartea funciară — gardul construit pe hotar greșit se demolează pe cheltuiala ta. Marcajele noastre îți dau siguranța că împrejmuirea este exact pe limita proprietății."
+        "text": "Puneți gard nou în {localitate}? Trasăm mai întâi limita din cartea funciară — gardul construit pe hotar greșit se demolează pe cheltuiala dumneavoastră. Marcajele noastre vă dau siguranța că împrejmuirea este exact pe limita proprietății."
       }
     ],
     "process": [
-      "Ne trimiți extrasul CF sau proiectul autorizat și stabilim ce trasăm.",
+      "Ne trimiteți extrasul CF sau proiectul autorizat și stabilim ce trasăm.",
       "Pregătim coordonatele punctelor de trasat din documentație sau din proiect.",
       "Marcăm punctele pe teren, în {localitate}, cu GPS/stație totală: țăruși, borne sau vopsea.",
       "Verificăm geometria trasată și cotele, unde este cazul.",
@@ -2086,7 +2086,7 @@
       },
       {
         "profile": "montan-apuseni",
-        "text": "Ai modernizat sau extins gospodăria din {localitate}? Extinderile și anexele noi trebuie înscrise în cartea funciară, altfel apar probleme la moștenire sau vânzare. Actualizăm documentația cadastrală complet."
+        "text": "Ați modernizat sau extins gospodăria din {localitate}? Extinderile și anexele noi trebuie înscrise în cartea funciară, altfel apar probleme la moștenire sau vânzare. Actualizăm documentația cadastrală complet."
       },
       {
         "profile": "urban",
@@ -2094,7 +2094,7 @@
       },
       {
         "profile": "urban",
-        "text": "Banca sau notarul ți-a cerut „actualizarea cadastrului” pentru imobilul din {localitate}? Verificăm exact ce diferă, întocmim documentația de actualizare necesară și o depunem la {ocpi} — inclusiv în regim de urgență."
+        "text": "Banca sau notarul v-a cerut „actualizarea cadastrului” pentru imobilul din {localitate}? Verificăm exact ce diferă, întocmim documentația de actualizare necesară și o depunem la {ocpi} — inclusiv în regim de urgență."
       },
       {
         "profile": "periurban",
@@ -2102,15 +2102,15 @@
       },
       {
         "profile": "periurban",
-        "text": "Ai construit, demolat sau extins pe terenul din {localitate}? Fiecare schimbare se reflectă în cartea funciară printr-o documentație cadastrală de actualizare. Ne ocupăm de măsurători, acte și depunerea la {ocpi}."
+        "text": "Ați construit, demolat sau extins pe terenul din {localitate}? Fiecare schimbare se reflectă în cartea funciară printr-o documentație cadastrală de actualizare. Ne ocupăm de măsurători, acte și depunerea la {ocpi}."
       }
     ],
     "process": [
-      "Ne trimiți extrasul CF și ne descrii ce s-a schimbat față de acte.",
+      "Ne trimiteți extrasul CF și ne descrieți ce s-a schimbat față de acte.",
       "Verificăm evidențele și stabilim tipul de actualizare necesar.",
       "Măsurăm imobilul în {localitate}, unde situația o cere.",
       "Întocmim documentația cadastrală de actualizare și o depunem la biroul competent.",
-      "Primești extrasul de carte funciară cu datele aduse la zi."
+      "Primiți extrasul de carte funciară cu datele aduse la zi."
     ],
     "documents": [
       "Extras de carte funciară al imobilului",
@@ -2688,7 +2688,7 @@
     "resources": [
       {
         "href": "/ghid/cum-citesti-un-extras-de-carte-funciara.html",
-        "label": "Cum citești un extras de carte funciară"
+        "label": "Cum citiți un extras de carte funciară"
       },
       {
         "href": "/ghid/copie-plan-amplasament-arhiva-ocpi.html",
