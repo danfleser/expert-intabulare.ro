@@ -598,7 +598,7 @@ function buildServiceLocality(ctx, service, loc, emitted) {
     }));
   const nearbyBlock = chrome.linkCard(`${service.name} în localități apropiate`, nearby);
 
-  const hubLinksBlock = chrome.linkCard('Vezi și', [
+  const hubLinksBlock = chrome.linkCard('Vedeți și', [
     { href: `/servicii/${service.slug}/`, label: `${service.name} — toate zonele` },
     { href: `/zone/${loc.countySlug}/`, label: `Toate serviciile în județul ${countyName}` },
   ]);
@@ -989,7 +989,7 @@ function buildServiceCountyHub(ctx, service, county, emitted) {
         .join('')}</div></div>`
     : '';
 
-  const hubLinksBlock = chrome.linkCard('Vezi și', [
+  const hubLinksBlock = chrome.linkCard('Vedeți și', [
     { href: `/servicii/${service.slug}/`, label: `${service.name} — toate zonele` },
     { href: `/zone/${county.slug}/`, label: `Toate serviciile în județul ${county.name}` },
   ]);
@@ -1430,8 +1430,8 @@ function buildDictTerm(ctx, term, termsBySlug) {
     : '';
 
   const ctaText = ctaService
-    ? `Ai o situație legată de „${escHtml(term.term)}”? Vezi serviciul nostru de <a href="/servicii/${escAttr(ctaService.slug)}/">${escHtml(ctaService.label)}</a> sau scrie-ne direct:`
-    : `Ai o situație legată de „${escHtml(term.term)}”? Scrie-ne direct:`;
+    ? `Aveți o situație legată de „${escHtml(term.term)}”? Vedeți serviciul nostru de <a href="/servicii/${escAttr(ctaService.slug)}/">${escHtml(ctaService.label)}</a> sau scrieți-ne direct:`
+    : `Aveți o situație legată de „${escHtml(term.term)}”? Scrieți-ne direct:`;
 
   const waTopic = `„${term.term}”`;
   const content = renderTemplate(tpl('page-dictionary-term.html'), {
@@ -1511,7 +1511,7 @@ function buildDictIndex(ctx, terms) {
 
   const waTopic = 'un termen din dicționar';
   const content = renderTemplate(tpl('page-dictionary-index.html'), {
-    introText: `Dicționar de cadastru, carte funciară și topografie: ${sorted.length} termeni explicați pe înțelesul tuturor, cu exemple practice. Alege o literă sau caută direct.`,
+    introText: `Dicționar de cadastru, carte funciară și topografie: ${sorted.length} termeni explicați pe înțelesul tuturor, cu exemple practice. Alegeți o literă sau căutați direct.`,
     filterLabel: 'Caută un termen',
     filterPlaceholder: 'ex. intabulare, extras CF, dezmembrare…',
     letterNav,
