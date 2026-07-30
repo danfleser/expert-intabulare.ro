@@ -1239,10 +1239,11 @@
       "Notarul sau noi depunem actul pentru înscrierea noilor imobile în cartea funciară."
     ],
     "documents": [
-      "Extras de carte funciară al imobilului (imobilul trebuie să fie intabulat)",
-      "Act de identitate proprietar(i)",
-      "Certificat de urbanism pentru dezmembrare, unde primăria îl cere",
-      "Acordul tuturor coproprietarilor, dacă imobilul e deținut în cote"
+      "Extras de carte funciară de informare, recent — pentru imobilul care se dezmembrează sau, la alipire, pentru fiecare parcelă care se unește (imobilele trebuie să fie deja intabulate)",
+      "Actul de proprietate, pentru fiecare imobil în parte: contract de vânzare-cumpărare, titlu de proprietate, certificat de moștenitor sau hotărâre judecătorească",
+      "Actele de identitate ale tuturor proprietarilor înscriși în cartea funciară",
+      "Certificat de urbanism în original, eliberat de primăria localității unde se află terenul — se cere atunci când din teren rezultă mai multe loturi și împărțirea intră la parcelare, și se obține înainte de măsurătoare, pentru că el fixează suprafețele minime, frontul la stradă și accesul",
+      "Acordul tuturor coproprietarilor, dacă imobilul este deținut în cote"
     ],
     "priceRange": "1.000 – 2.500 lei, orientativ, în funcție de numărul de loturi",
     "faqPool": [
