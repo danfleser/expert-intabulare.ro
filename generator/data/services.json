@@ -151,11 +151,11 @@
       },
       {
         "q": "Am moștenit un imobil, dar nu am făcut succesiunea. Cu ce încep?",
-        "a": "Cu notarul. Certificatul de moștenitor este actul care vă face proprietar și fără el imobilul nu se poate înscrie pe numele dumneavoastră. Ne puteți scrie și înainte: verificăm ce este înregistrat în evidențe, vă spunem ce acte cere notarul pentru dosarul de succesiune și pregătim măsurătoarea, ca lucrarea să pornească imediat ce aveți certificatul."
+        "a": "Cu notarul. Certificatul de moștenitor este actul care vă face proprietar și fără el imobilul nu se poate înscrie pe numele dumneavoastră. Ne puteți trimite actele și înainte de succesiune — verificăm ce este deja înregistrat în evidențe."
       },
       {
         "q": "Suprafața măsurată iese diferită de cea din acte. Pierd teren?",
-        "a": "Nu neapărat. Actele vechi conțineau suprafețe estimate, iar măsurătoarea de astăzi se face cu aparatură de precizie, pe limitele reale din teren. Dacă diferența este mică, de regulă se înscrie rezultatul măsurătorii; dacă este mare, se lămurește întâi cu vecinii și cu actele. Vă arătăm situația pe plan îndată ce am terminat de măsurat, înainte să depunem ceva."
+        "a": "Nu neapărat. Actele vechi conțineau suprafețe estimate, iar măsurătoarea de astăzi se face pe limitele reale din teren. Dacă diferența este mică, de regulă se înscrie rezultatul măsurătorii; dacă este mare, se lămurește întâi cu vecinii și cu actele. Vă arătăm situația pe plan îndată ce am terminat de măsurat, înainte să depunem ceva."
       },
       {
         "q": "Banca mi-a cerut documentație cadastrală pentru credit. Ce înseamnă concret?",
@@ -447,7 +447,7 @@
     "hubFaq": [
       {
         "q": "Notarul nu vrea să autentifice vânzarea pentru că terenul nu e intabulat. Ce trebuie făcut?",
-        "a": "Notarul cere un extras de carte funciară actualizat, iar acesta nu se poate elibera pentru un teren neînscris. Se rezolvă prin prima înscriere: găsim parcela în evidențe, o măsurăm pe teren, pregătim documentația cadastrală și ducem dosarul la biroul de cadastru competent. Când terenul primește număr cadastral și carte funciară, extrasul se eliberează, iar tranzacția merge mai departe. Depunerea și corespondența cu biroul rămân în sarcina noastră."
+        "a": "Notarul cere un extras de carte funciară actualizat, iar acesta nu se poate elibera pentru un teren neînscris. Se rezolvă prin prima înscriere: găsim parcela în evidențe, o măsurăm pe teren, pregătim documentația cadastrală și ducem dosarul la biroul de cadastru competent. Când terenul primește număr cadastral și carte funciară, extrasul se eliberează, iar tranzacția merge mai departe."
       },
       {
         "q": "Am titlu de proprietate din fond funciar, dar terenul nu are număr cadastral. Titlul nu e de ajuns?",
@@ -1020,7 +1020,7 @@
     "hubFaq": [
       {
         "q": "Notarul spune că apartamentul nu are cadastru și nu putem semna. Ce se poate face?",
-        "a": "Este cea mai frecventă situație cu care venim în contact. Apartamentul există în acte, dar nu figurează în cartea funciară ca unitate individuală, așa că notarul nu poate autentifica vânzarea. Ne trimiteți actul de proprietate pe WhatsApp, verificăm ce este deja înregistrat, facem releveul locuinței, întocmim documentația cadastrală și o depunem la OCPI. Dumneavoastră primiți extrasul de carte funciară cu care se poate semna."
+        "a": "Apartamentul există în acte, dar nu figurează în cartea funciară ca unitate individuală, așa că notarul nu poate autentifica vânzarea. Ne trimiteți actul de proprietate pe WhatsApp, verificăm ce este deja înregistrat, facem releveul locuinței, întocmim documentația cadastrală și o depunem la OCPI. Dumneavoastră primiți extrasul de carte funciară cu care se poate semna."
       },
       {
         "q": "Apartamentul e cumpărat de la stat în anii ’90. Contractul de atunci mai este valabil?",
@@ -1040,7 +1040,7 @@
       },
       {
         "q": "Onorariul dumneavoastră include și tarifele OCPI?",
-        "a": "Nu, sunt două plăți diferite și e bine de știut asta de la început. Taxa pe care o încasează oficiul de cadastru la înregistrarea dosarului este fixată prin ordin al ANCPI, este aceeași pentru oricine și se plătește direct instituției, nu nouă. Onorariul nostru acoperă deplasarea, măsurătoarea, releveul și întocmirea documentației, și vi-l spunem după ce ne trimiteți actele."
+        "a": "Nu, sunt două plăți diferite. Taxa pe care o încasează oficiul de cadastru la înregistrarea dosarului este fixată prin ordin al ANCPI, este aceeași pentru oricine și se plătește direct instituției, nu nouă. Onorariul nostru acoperă deplasarea, măsurătoarea, releveul și întocmirea documentației, și vi-l spunem după ce ne trimiteți actele."
       },
       {
         "q": "Sunt plecat din țară. Se poate face cadastrul fără mine?",
@@ -1884,7 +1884,7 @@
       },
       {
         "q": "Terenul nu are cadastru și carte funciară. Îmi puteți trasa limitele?",
-        "a": "Nu riguros. Poziția numerică a colțurilor apare abia odată cu documentația cadastrală recepționată de OCPI; până atunci nu avem de unde porni măsurătoarea, iar orice marcaj ar fi o presupunere. Ordinea corectă este inversă: întocmim întâi documentația, înscriem terenul în cartea funciară, iar trasarea vine după, ca ultim pas simplu. Ne ocupăm de ambele etape, așa că nu căutați două firme."
+        "a": "Nu riguros. Poziția numerică a colțurilor apare abia odată cu documentația cadastrală recepționată de OCPI; până atunci nu avem de unde porni măsurătoarea, iar orice marcaj ar fi o presupunere. Ordinea corectă este inversă: întocmim întâi documentația, înscriem terenul în cartea funciară, iar trasarea vine după, ca ultim pas simplu."
       },
       {
         "q": "Actele mele au coordonate vechi, în sistem local. Mai folosesc la ceva?",
@@ -2432,7 +2432,7 @@
       },
       {
         "q": "Lucrați și pe șantiere mici, la o singură casă?",
-        "a": "Da. O casă de locuit are nevoie de aceleași lucrări ca o hală, doar la altă scară: trasarea construcției înainte de săpătură, cota zero, verificarea fundației și a primului planșeu, iar la final măsurătoarea as-built. Nu punem condiție de suprafață sau de valoare a investiției. Ne ocupăm și de o anexă gospodărească, dacă asta aveți de trasat."
+        "a": "Da. O casă de locuit are nevoie de aceleași lucrări ca o hală, doar la altă scară: trasarea construcției înainte de săpătură, cota zero, verificarea fundației și a primului planșeu, iar la final măsurătoarea as-built. Ne ocupăm și de o anexă gospodărească, dacă asta aveți de trasat."
       }
     ],
     "resources": [
@@ -2608,7 +2608,7 @@
     "tier2Available": false,
     "hubOnly": false,
     "metaDescription": "Servicii OCPI: extras de carte funciară, copii planuri, verificări imobile, depuneri și urmărire dosare. Rapid, inclusiv de la distanță.",
-    "hubIntro": "Nu orice problemă de carte funciară cere măsurători. Pentru multe aveți nevoie doar de cineva care cunoaște ghișeele și procedurile: obținerea extraselor de carte funciară, copii după planuri și documentații vechi, verificarea situației unui imobil înainte de cumpărare, depunerea cererilor și urmărirea dosarelor la OCPI. Le rezolvăm rapid, pentru clienți din țară sau din străinătate, în mare parte fără deplasarea dumneavoastră.",
+    "hubIntro": "Nu orice problemă de carte funciară cere măsurători. Pentru multe aveți nevoie doar de cineva care cunoaște ghișeele și procedurile: obținerea extraselor de carte funciară, copii după planuri și documentații vechi, verificarea situației unui imobil înainte de cumpărare, depunerea cererilor și urmărirea dosarelor la OCPI. Le rezolvăm pentru clienți din țară sau din străinătate, în mare parte fără deplasarea dumneavoastră.",
     "process": [
       "Ne scrieți pe WhatsApp ce aveți nevoie și pentru ce imobil.",
       "Identificăm imobilul în evidențe după numărul cadastral sau adresă.",
@@ -3128,7 +3128,7 @@
     "tier2Available": false,
     "hubOnly": false,
     "metaDescription": "Expertize topografice, rapoarte pentru instanță, documentații speciale: grănițuire, uzucapiune, suprapuneri cadastrale. Expert topograf, Alba.",
-    "hubIntro": "Când situația imobilului ajunge la instanță sau iese din tiparul documentațiilor obișnuite, este nevoie de expertiză: rapoarte de expertiză topografică pentru procese de grănițuire, uzucapiune, revendicare sau partaj, documentații pentru rezolvarea suprapunerilor cadastrale, identificări de imobile după acte vechi, planuri de situație pentru avize speciale. Cu peste 25 de ani de experiență și peste 1.000 de lucrări finalizate, documentăm riguros situații pe care alții le ocolesc.",
+    "hubIntro": "Când situația imobilului ajunge la instanță sau iese din tiparul documentațiilor obișnuite, este nevoie de expertiză: rapoarte de expertiză topografică pentru procese de grănițuire, uzucapiune, revendicare sau partaj, documentații pentru rezolvarea suprapunerilor cadastrale, identificări de imobile după acte vechi, planuri de situație pentru avize speciale.",
     "process": [
       "Analizăm actele și situația imobilului — inclusiv istoricul din arhive.",
       "Măsurăm imobilul și vecinătățile relevante la fața locului.",
