@@ -968,7 +968,15 @@
       "plan-topografic",
       "trasare-teren",
       "cadastru-si-intabulare"
-    ]
+    ],
+    "depunere": {
+      "atBcpi": false,
+      "cardHeading": "Ce se depune și ce vă predăm",
+      "cardText": "Planul topografic se depune spre recepție tehnică la oficiul de cadastru, iar viza obținută îl face bun de dosar la primărie. Trasările, verificările de cote și măsurătoarea as-built nu se depun nicăieri: le predăm pe loc, cu proces-verbal semnat, dumneavoastră și constructorului.",
+      "introSentence": "Ne deplasăm la fața locului, iar planurile care au nevoie de viză le ducem la recepție tehnică la oficiul de cadastru.",
+      "contextSentence": "Planurile cerute la autorizare trec prin recepția tehnică a oficiului de cadastru, iar procesele-verbale de trasare și documentația as-built vă rămân dumneavoastră și constructorului.",
+      "metaTail": "Plan vizat OCPI și as-built"
+    }
   },
   {
     "name": "Servicii OCPI",
@@ -1020,7 +1028,10 @@
       "cadastru-si-intabulare",
       "actualizare-carte-funciara",
       "expertize-documentatii"
-    ]
+    ],
+    "depunere": {
+      "atBcpi": true
+    }
   },
   {
     "name": "Certificat energetic",
@@ -1068,7 +1079,15 @@
       "intabulare-apartament",
       "intabulare-casa-constructie",
       "servicii-ocpi"
-    ]
+    ],
+    "depunere": {
+      "atBcpi": false,
+      "cardHeading": "Cum ajunge certificatul la dumneavoastră",
+      "cardText": "Certificatul de performanță energetică nu se depune la biroul de cadastru și nu are legătură cu cartea funciară. După vizita la imobil întocmim certificatul, acesta primește număr de înregistrare și vi-l predăm dumneavoastră, ca proprietar — de acolo merge la notar, la cumpărător sau la chiriaș, împreună cu contractul.",
+      "introSentence": "Venim la imobil pentru evaluare și vă predăm certificatul de performanță energetică, cu clasa energetică stabilită, gata pentru dosarul de la notar.",
+      "contextSentence": "Pentru certificatul energetic nu există dosar de depus la biroul de cadastru: evaluarea se face la imobil, iar documentul vă rămâne dumneavoastră.",
+      "metaTail": "Certificat gata pentru notar"
+    }
   },
   {
     "name": "Expertize și documentații",
@@ -1123,6 +1142,14 @@
       "trasare-teren",
       "actualizare-carte-funciara",
       "servicii-ocpi"
-    ]
+    ],
+    "depunere": {
+      "atBcpi": false,
+      "cardHeading": "Unde ajunge raportul",
+      "cardText": "Raportul de expertiză judiciară se depune la dosarul instanței care a dispus-o, iar expertiza extrajudiciară vă rămâne dumneavoastră, ca să o folosiți la notar, la vecin sau la avocat. Când din măsurători rezultă o eroare de înscriere, întocmim și documentația de îndreptare și o depunem la biroul de cadastru competent.",
+      "introSentence": "Măsurăm la fața locului, confruntăm rezultatul cu actele și cu planurile din arhivă și întocmim raportul pentru instanță sau pentru dumneavoastră.",
+      "contextSentence": "Rapoartele de expertiză merg la dosarul instanței sau vă rămân dumneavoastră, iar documentațiile de îndreptare a erorilor se depun la biroul de cadastru competent.",
+      "metaTail": "Raport pentru instanță"
+    }
   }
 ]
