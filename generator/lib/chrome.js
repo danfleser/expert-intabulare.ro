@@ -224,13 +224,22 @@ function breadcrumbs(site, items) {
   return { html: lis, jsonld: schema.breadcrumbList(site, items) };
 }
 
-/** Sidebar contact card (RO or EN). */
+/**
+ * Sidebar contact card (RO or EN).
+ *
+ * `contactCardText` is deliberately absent from `site.ro` and present in `site.en`.
+ * Every RO page that renders this card also renders `ownerCard`, which already
+ * gives the name and the credential ("Fleser Aurel, topograf autorizat ANCPI, …");
+ * carrying it here too stacked the same two facts in adjacent sidebar cards. EN
+ * pages never render `ownerCard`, so there it is the only credential line, not a
+ * duplicate. The card's content is the CTA, the phone number and the hours.
+ */
 function contactCard(site, { namespace, topic, literalMessage, en = false }) {
   const t = en ? site.en : site.ro;
   return (
     `<div class="card c-card-contact sidebar-sticky mb-4"><div class="card-body">` +
     `<h2 class="h5 mb-2">${escHtml(t.contactCardHeading)}</h2>` +
-    `<p class="fz-14 mb-3">${escHtml(t.contactCardText)}</p>` +
+    (t.contactCardText ? `<p class="fz-14 mb-3">${escHtml(t.contactCardText)}</p>` : '') +
     ctaWhatsapp(site, { namespace, topic, literalMessage, en }) +
     `<p class="fz-14 mb-0 mt-2"><i class="bi bi-clock me-1"></i>${escHtml(site.nap.hours)}</p>` +
     `</div></div>`

@@ -1161,7 +1161,7 @@ function buildCountyHub(ctx, county, emitted, demotedNotes) {
   const waTopic = `servicii de cadastru și topografie în județul ${county.name}`;
   const content = renderTemplate(tpl('page-county-hub.html'), {
     countyIntro, ocpiBlock, feeNoteBlock, serviceHubsBlock,
-    sidebar: chrome.contactCard(site, { namespace: 'zone', topic: waTopic }),
+    sidebar: chrome.contactCard(site, { namespace: 'zone', topic: waTopic }) + chrome.ownerCard(site),
     otherCountiesBlock: chrome.linkCard('Alte județe', others),
     matrixHeading: `Localități din județul ${county.name}`,
     localityMatrix: rows.join('\n'),
@@ -1256,7 +1256,7 @@ function buildAuthoredPage(ctx, kind, entry, allEntries) {
   const enPath = entry.enPair || ctx.hreflangRoToEn.get(urlPath(pagePath)) || null;
   const content = renderTemplate(tpl(kind === 'ghid' ? 'page-guide.html' : 'page-vertical.html'), {
     hookBlock, sectionsHtml, relatedBlock,
-    sidebar: chrome.contactCard(site, { namespace: kind, topic: waTopic }),
+    sidebar: chrome.contactCard(site, { namespace: kind, topic: waTopic }) + chrome.ownerCard(site),
   }, ctx.warnings, pagePath);
 
   return assemblePage(ctx, {
@@ -1346,7 +1346,7 @@ function buildVerticalHub(ctx, kind, entries) {
   const enPath = (hubEntry && hubEntry.enPair) || ctx.hreflangRoToEn.get(urlPath(pagePath)) || null;
   const content = renderTemplate(tpl('page-vertical-hub.html'), {
     sectionsHtml, pageListBlock,
-    sidebar: chrome.contactCard(site, { namespace: kind, topic: waTopic }),
+    sidebar: chrome.contactCard(site, { namespace: kind, topic: waTopic }) + chrome.ownerCard(site),
   }, ctx.warnings, pagePath);
 
   return assemblePage(ctx, {
@@ -1383,7 +1383,7 @@ function buildGuideHub(ctx, guides) {
       `<p class="lead">Ghiduri practice despre cadastru, intabulare și topografie: acte necesare, pași, prețuri orientative și greșeli de evitat — explicate pe înțelesul tuturor.</p>` +
       `<ul class="list-unstyled mt-4">${lis}</ul>`,
     pageListBlock: '',
-    sidebar: chrome.contactCard(site, { namespace: 'ghid', topic: waTopic }),
+    sidebar: chrome.contactCard(site, { namespace: 'ghid', topic: waTopic }) + chrome.ownerCard(site),
   }, ctx.warnings, pagePath);
 
   return assemblePage(ctx, {
@@ -1442,6 +1442,7 @@ function buildDictTerm(ctx, term, termsBySlug) {
     disclaimer: site.dictionaryDisclaimer,
     sidebar:
       chrome.contactCard(site, { namespace: 'dictionar', topic: waTopic }) +
+      chrome.ownerCard(site) +
       chrome.linkCard('Dicționar', [{ href: '/dictionar/', label: 'Toți termenii A–Z' }]),
   }, ctx.warnings, pagePath);
 
@@ -1512,7 +1513,7 @@ function buildDictIndex(ctx, terms) {
     letterNav,
     termList: listParts.join('\n'),
     noResultsText: 'Niciun termen găsit. Încearcă alt cuvânt sau scrie-ne pe WhatsApp.',
-    sidebar: chrome.contactCard(site, { namespace: 'dictionar', topic: waTopic }),
+    sidebar: chrome.contactCard(site, { namespace: 'dictionar', topic: waTopic }) + chrome.ownerCard(site),
   }, ctx.warnings, pagePath);
 
   return assemblePage(ctx, {
