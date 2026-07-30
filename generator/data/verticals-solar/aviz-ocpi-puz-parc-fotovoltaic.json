@@ -28,7 +28,7 @@
       "head": ["Etapa", "Durată orientativă", "Observații"],
       "rows": [
         ["Aviz de începere la OCPI", "conform termenelor OCPI în vigoare", "se solicită imediat după comandă"],
-        ["Măsurători de teren", "1–3 zile lucrătoare", "în funcție de suprafața zonei de studiu și de relief"],
+        ["Măsurători de teren", "1–3 zile lucrătoare, estimativ", "în funcție de suprafața zonei de studiu și de relief"],
         ["Întocmire plan topografic", "3–7 zile lucrătoare", "planșe, inventar de coordonate, memoriu tehnic"],
         ["Recepția tehnică OCPI", "conform termenelor OCPI în vigoare", "plus timpul de rezolvare a eventualelor note de completare"]
       ]
