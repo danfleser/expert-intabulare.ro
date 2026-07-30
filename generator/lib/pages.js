@@ -476,6 +476,42 @@ function stripDossierWorkflowSentences(note) {
   return kept.join(' ').trim();
 }
 
+/**
+ * `service.resources[]` → link-card entries, for the leaf, the national hub and
+ * the service × county hub alike (PLAN-rank-first.md §2.3).
+ *
+ * We own 53 guides and 305 dictionary terms, and before this the ONLY pages
+ * pointing at them from /servicii/ were the 60 county hubs: measured inside the
+ * gated region of a leaf, 0 links to /ghid/ and 0 to /dictionar/. Twenty guides
+ * declare `actualizare-carte-funciara` and not one of its 92 leaves linked any
+ * of them.
+ *
+ * Gate class: the list is authored per SERVICE and the sibling group IS the
+ * service (all five counties), so these shingles sit at 100% document frequency,
+ * are dropped as boilerplate before overlap is computed, and cannot move any
+ * page's overlap ratio. Byte cost is ~500 B against ~31 KB of leaf headroom.
+ *
+ * Renders nothing for a service with no `resources` (chrome.linkCard returns ''
+ * on an empty list), so it is safe to call unconditionally.
+ *
+ * WHERE it sits in the leaf sidebar is not cosmetic — measured, both ways.
+ * htmlToText concatenates the blocks before shingling, so the two 3-word
+ * shingles that straddle each end of this card are made of its neighbours' text.
+ * Placed last (after hubLinksBlock, which ends "…în județul Alba") the leading
+ * boundary shingle is county-keyed: Alba is 35% of a 222-page sibling group,
+ * below the 50% boilerplate cut, so it lands in the residual and pushed worst
+ * overlap 69.38% → 69.43%. Placed between ownerBlock (identical on every page,
+ * 100% doc frequency) and otherServicesBlock (whose heading names the locality,
+ * so the shingle is page-exclusive) both boundaries are harmless and worst
+ * overlap goes 69.38% → 69.32%, with min unique words unchanged at 120.
+ * Do not reorder the leaf sidebar without re-measuring.
+ */
+function serviceResources(service) {
+  return (service.resources || [])
+    .filter((r) => r && r.href && r.label)
+    .map((r) => ({ href: r.href, label: r.label }));
+}
+
 function buildServiceLocality(ctx, service, loc, emitted) {
   const { site } = ctx;
   const county = ctx.countiesBySlug.get(loc.countySlug) || null;
@@ -675,6 +711,7 @@ function buildServiceLocality(ctx, service, loc, emitted) {
     sidebar: chrome.contactCard(site, { namespace: 'servicii', topic: waTopic }),
     ownerBlock: chrome.ownerCard(site),
     otherServicesBlock, nearbyBlock, hubLinksBlock,
+    resourcesBlock: chrome.linkCard('Ghiduri și termeni utili', serviceResources(service)),
   }, ctx.warnings, pagePath);
 
   const title = fitTitle([
@@ -840,6 +877,7 @@ function buildServiceHub(ctx, service, emitted) {
     sidebar: chrome.contactCard(site, { namespace: 'servicii', topic: waTopic }),
     ownerBlock: chrome.ownerCard(site),
     relatedServicesBlock: chrome.linkCard('Servicii conexe', related),
+    resourcesBlock: chrome.linkCard('Ghiduri și termeni utili', serviceResources(service)),
     localityIndex,
   }, ctx.warnings, pagePath);
 
@@ -1067,10 +1105,7 @@ function buildServiceCountyHub(ctx, service, county, emitted) {
     .filter((c) => c.slug !== county.slug && ctx.serviceCountyHubs.has(`${service.slug}/${c.slug}`))
     .map((c) => ({ href: `/servicii/${service.slug}/${c.slug}/`, label: `${service.name} în județul ${c.label}` }));
   const otherCountiesBlock = chrome.linkCard(`${service.name} în alte județe`, otherCounties);
-  const resources = (service.resources || [])
-    .filter((r) => r && r.href && r.label)
-    .map((r) => ({ href: r.href, label: r.label }));
-  const resourcesBlock = chrome.linkCard('Ghiduri și termeni utili', resources);
+  const resourcesBlock = chrome.linkCard('Ghiduri și termeni utili', serviceResources(service));
 
   const waTopic = `${midSentence(service.shortName || service.name)} în județul ${county.name}`;
   const content = renderTemplate(tpl('page-service-county-hub.html'), {
@@ -1582,7 +1617,7 @@ function buildDictIndex(ctx, terms) {
   const waTopic = 'un termen din dicționar';
   const content = renderTemplate(tpl('page-dictionary-index.html'), {
     introText: `Dicționar de cadastru, carte funciară și topografie: ${sorted.length} termeni explicați pe înțelesul tuturor, cu exemple practice. Alegeți o literă sau căutați direct.`,
-    filterLabel: 'Caută un termen',
+    filterLabel: 'Căutați un termen',
     filterPlaceholder: 'ex. intabulare, extras CF, dezmembrare…',
     letterNav,
     termList: listParts.join('\n'),
