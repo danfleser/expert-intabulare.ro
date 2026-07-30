@@ -20,7 +20,7 @@
         ["Diagnostic pe acte + verificări la OCPI/primărie", "1–3 zile", "de noi"],
         ["Succesiune la notar (dacă e cazul)", "săptămâni – luni", "de moștenitori și notar"],
         ["Măsurători + întocmirea documentației cadastrale", "3–10 zile", "de noi (și de vreme, la extravilan)"],
-        ["Soluționarea primei înscrieri la OCPI", "termen oficial de ordinul a 15 zile lucrătoare", "de OCPI"],
+        ["Soluționarea primei înscrieri la OCPI", "termen oficial de 15 zile lucrătoare", "de OCPI"],
         ["Eventuale note de completare", "+ zile – 2 săptămâni", "de natura observațiilor"],
         ["TOTAL caz simplu, fără succesiune", "realist 3–8 săptămâni", "—"]
       ]
@@ -34,7 +34,7 @@
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
-        { "q": "Se poate „intabulare de urgență” dacă plătim mai mult?", "a": "Pentru multe servicii OCPI există regim de urgență cu tarif majorat, dar tocmai prima înscriere are termenul ei oficial (de ordinul a 15 zile lucrătoare) care în practică nu se comprimă semnificativ. Ce putem accelera noi: partea de teren și documentație, care la noi se mișcă în zile. Fereste-te de oricine promite „CF-ul în 3 zile” la o primă înscriere." },
+        { "q": "Se poate „intabulare de urgență” dacă plătim mai mult?", "a": "Pentru multe servicii OCPI există regim de urgență cu tarif majorat, dar tocmai prima înscriere are același termen oficial de 15 zile lucrătoare și în regim normal, și în urgență — acolo tariful majorat nu cumpără nicio zi. Ce putem accelera noi: partea de teren și documentație, care la noi se mișcă în zile. Feriți-vă de oricine promite „CF-ul în 3 zile” la o primă înscriere." },
         { "q": "Sesiunea e peste 2 luni. E suficient timp?", "a": "Pentru cazurile fără succesiune — da, confortabil, dacă începem acum. Pentru moșteniri nedezbătute — depinde exclusiv de viteza succesiunii; noi pregătim partea cadastrală în paralel, ca după certificatul de moștenitor să depunem imediat." },
         { "q": "Pot să depun cu adeverință de la primărie că terenul e al meu?", "a": "Adeverințele și registrul agricol nu țin loc de carte funciară la niciun program serios de finanțare. Sunt utile ca punct de plecare pentru intabulare — atât." },
         { "q": "Cât costă prima înscriere a unui teren?", "a": "Depinde de suprafață, amplasament (intravilan/extravilan) și complexitatea actelor. Lucrăm cu prețuri orientative comunicate înainte de contract — vedeți și pagina noastră despre factorii de cost — iar diagnosticul inițial pe acte este gratuit." }

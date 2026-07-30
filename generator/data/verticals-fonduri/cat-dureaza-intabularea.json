@@ -2,7 +2,7 @@
   "slug": "cat-dureaza-intabularea",
   "title": "Cât durează intabularea față de termenul de depunere a proiectului | Expert Intabulare",
   "h1": "Cât durează intabularea — și cum o aliniați cu termenul de depunere",
-  "metaDescription": "Termene reale de intabulare în 2026: prima înscriere ~15 zile lucrătoare la OCPI, plus măsurători și acte. Tabel pe tipuri de lucrări și planificare inversă de la deadline.",
+  "metaDescription": "Termene orientative de intabulare în 2026: prima înscriere 15 zile lucrătoare la OCPI, plus măsurători și acte. Tabel pe tipuri de lucrări și planificare inversă de la deadline.",
   "whatsappTopic": "durata intabulării față de termenul de depunere",
   "hook": "deadline",
   "trustBar": true,
@@ -10,7 +10,7 @@
     {
       "type": "paragraph",
       "heading": "Două calendare care nu se cunosc între ele",
-      "html": "<p>Sesiunile de finanțare au calendarul lor: anunț, ghid, fereastră de depunere, apoi ghilotina. OCPI-ul are calendarul lui: termene de soluționare pe tipuri de cereri, stabilite prin ordin ANCPI, care nu au auzit niciodată de sesiunea dumneavoastră. Meseria noastră, în proiectele cu finanțare, este să facem cele două calendare să se întâlnească — iar unealta este <strong>planificarea inversă</strong>: porniți de la data limită de depunere și scădeți, etapă cu etapă, spre astăzi.</p><p>Un reper legislativ util: termenele actuale de soluționare sunt stabilite prin ordin ANCPI (în vigoare din august 2025). Cifra de reținut pentru scenariul care doare cel mai des: <strong>prima înscriere a unui imobil are termen de soluționare de ordinul a 15 zile lucrătoare</strong> — adică trei săptămâni calendaristice — la care se adaugă tot ce e înainte (acte, măsurători, documentație) și eventualele note de completare de după.</p>"
+      "html": "<p>Sesiunile de finanțare au calendarul lor: anunț, ghid, fereastră de depunere, apoi ghilotina. OCPI-ul are calendarul lui: termene de soluționare pe tipuri de cereri, stabilite prin ordin ANCPI, care nu au auzit niciodată de sesiunea dumneavoastră. Meseria noastră, în proiectele cu finanțare, este să facem cele două calendare să se întâlnească — iar unealta este <strong>planificarea inversă</strong>: porniți de la data limită de depunere și scădeți, etapă cu etapă, spre astăzi.</p><p>Un reper legislativ util: termenele actuale de soluționare sunt stabilite prin ordin ANCPI (în vigoare din august 2025). Cifra de reținut pentru scenariul care doare cel mai des: <strong>prima înscriere a unui imobil are termen de soluționare de 15 zile lucrătoare</strong> — adică aproximativ trei săptămâni calendaristice — la care se adaugă tot ce e înainte (acte, măsurători, documentație) și eventualele note de completare de după.</p><p>O precizare fără de care restul paginii se citește greșit: cifrele de mai jos sunt <strong>estimări de planificare</strong>, nu termene pe care vi le garantăm. Singurul termen fix este cel legal al OCPI; tot ce ține de acte, de primărie, de notar și de încărcarea biroului variază de la un dosar la altul. Dacă vreți calendarul dosarului dumneavoastră, cu datele sesiunii pe care o vizați, scrieți-ne pe WhatsApp sau sunați-ne și îl construim împreună.</p>"
     },
     {
       "type": "table",
@@ -18,7 +18,7 @@
       "head": ["Lucrarea", "Partea noastră (teren + documentație)", "Soluționarea la OCPI/BCPI", "Total realist"],
       "rows": [
         ["Extras CF de informare (imobil cu CF electronică)", "—", "1–2 zile, online adesea mai repede", "zile"],
-        ["Prima înscriere teren", "3–10 zile", "ordinul a 15 zile lucrătoare", "3–8 săptămâni"],
+        ["Prima înscriere teren", "3–10 zile", "15 zile lucrătoare (la fel și în urgență)", "3–8 săptămâni"],
         ["Înscriere construcție nouă (cu certificat de atestare obținut)", "3–7 zile", "zile – 2 săptămâni", "2–4 săptămâni"],
         ["Dezlipire / alipire", "3–7 zile", "1–2 săptămâni", "2–5 săptămâni"],
         ["Intabulare drept dintr-un act notarial (imobil cadastrat)", "—", "zile (depunere prin notar)", "sub 2 săptămâni"],
@@ -28,14 +28,14 @@
     {
       "type": "paragraph",
       "heading": "Nota de subsol care schimbă totul: urgența nu acoperă tot",
-      "html": "<p>Multe servicii OCPI au <strong>regim de urgență</strong> — tariful se majorează substanțial, termenul se scurtează la o fracțiune. Dar exact acolo unde beneficiarii de fonduri au cel mai des nevoie — prima înscriere — posibilitățile de comprimare sunt limitate: verificările de fond (suprapuneri, vecinătăți, acte) nu se pot sări. Concluzia practică pe care o repetăm fiecărui client: <strong>urgența e o plasă de siguranță, nu o strategie</strong>. Strategia este startul devreme.</p><p>Mai adaugă în calcul două variabile pe care nimeni nu le trece în tabele: <em>notele de completare</em> (OCPI cere lămuriri sau acte suplimentare — se întâmplă și la dosare bune, și costă una-două săptămâni) și <em>sezonalitatea</em> (înainte de sesiunile mari AFIR, oficiile din zonele agricole se aglomerează vizibil). Calendarul nostru de planificare inversă include ambele marje — de aceea promitem mai puțin și livrăm la timp, nu invers.</p>"
+      "html": "<p>Multe servicii OCPI au <strong>regim de urgență</strong> — tariful se majorează substanțial, termenul se scurtează la o fracțiune. Dar exact acolo unde beneficiarii de fonduri au cel mai des nevoie — prima înscriere — urgența nu ajută deloc: în anexa ordinului ANCPI, prima înscriere are <strong>același termen de 15 zile lucrătoare în ambele regimuri</strong>. Concluzia practică pe care o repetăm fiecărui client: <strong>urgența e o plasă de siguranță pentru celelalte etape, nu o strategie</strong>. Strategia este startul devreme.</p><p>Mai adăugați în calcul două variabile pe care nimeni nu le trece în tabele: <em>notele de completare</em> (OCPI cere lămuriri sau acte suplimentare — se întâmplă și la dosare bune, și costă una-două săptămâni) și <em>sezonalitatea</em> (înainte de sesiunile mari AFIR, oficiile din zonele agricole se aglomerează vizibil). Calendarul nostru de planificare inversă include ambele marje — de aceea promitem mai puțin și livrăm la timp, nu invers.</p>"
     },
     {
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
         { "q": "Sesiunea se deschide în 6 săptămâni. Terenul nu e intabulat. Realist: reușim?", "a": "Caz simplu (acte clare, fără succesiune, fără suprapuneri): da, strâns dar fezabil — dacă pornim în această săptămână. Caz cu succesiune sau identificare incertă: aproape sigur nu pentru această sesiune — și vi-o spunem direct, ca să vă construiți planul B din timp, nu în ultima zi." },
-        { "q": "Plătesc taxă de urgență la tot dosarul ca să câștig timp — merită?", "a": "Uneori da, punctual: la extrase, la recepții de planuri, la înscrieri de construcții. La prima înscriere, câștigul e limitat. Vă calculăm exact unde urgența cumpără zile reale și unde doar arde bani." },
+        { "q": "Plătesc taxă de urgență la tot dosarul ca să câștig timp — merită?", "a": "Uneori da, punctual: la extrase, la recepții de planuri, la înscrieri de construcții. La prima înscriere, nu: termenul este identic în regim normal și în regim de urgență, deci tariful majorat nu vă cumpără nicio zi. Vă spunem, poziție cu poziție, unde urgența are efect real și unde doar arde bani." },
         { "q": "De ce durează „partea voastră” 3–10 zile? Nu se măsoară într-o zi?", "a": "Măsurătoarea propriu-zisă adesea da. Dar înaintea ei stau verificările la OCPI și primărie (care previn respingerile), iar după ea redactarea documentației și controlul intern de calitate. Un dosar depus corect din prima e mai rapid decât unul depus „repede” și întors cu notă de completare." },
         { "q": "Ne puteți ține la curent cu stadiul cererii la OCPI?", "a": "Da — urmărim fiecare dosar depus și vă anunțăm la fiecare schimbare de stadiu, inclusiv pe WhatsApp. Când apare o notă de completare, o vedeți în aceeași zi în care o vedem noi, cu planul de răspuns inclus." }
       ]
