@@ -180,6 +180,51 @@ function ocpiName(loc) {
   if (!loc.ocpiOffice) return null;
   return typeof loc.ocpiOffice === 'string' ? loc.ocpiOffice : loc.ocpiOffice.name;
 }
+
+/**
+ * Per-service "where does the file get lodged" contract.
+ *
+ * The leaf template asserts, four times per page, that the documentation is
+ * lodged at the locality's BCPI office. That is true for the eight cadastral
+ * services and FALSE for at least one service about to gain locality pages:
+ * an energy performance certificate is never lodged at the land registry
+ * (PLAN-rank-first.md §1.2, defect 1). The claim therefore has to be
+ * per-service data, not a hardcoded template sentence.
+ *
+ * Data contract — `services.json`, optional, per service:
+ *
+ *   "depunere": {                     // alias accepted: "depunereTarget"
+ *     "atBcpi": false,                // default true = today's BCPI wording
+ *     "cardHeading":     "…",         // heading of the "Unde se depune dosarul" card
+ *     "cardText":        "…",         // body of that card
+ *     "introSentence":   "…",         // closing sentence of the intro paragraph
+ *     "contextSentence": "…",         // BCPI sentence inside "Despre lucrări în X"
+ *     "metaTail":        "…"          // meta-description tail (see buildServiceLocality)
+ *   }
+ *
+ * All five strings are service-constant (document frequency 100% inside the
+ * sibling group ⇒ boilerplate ⇒ overlap-neutral) and are run through
+ * `fillParams`, so `{locality}`, `{judet}`, `{ocpi}`, `{serviciu}`, `{sate}`,
+ * `{distanta}` are available. A plain string is read as
+ * `{ atBcpi: false, cardText: <string> }`.
+ *
+ * Absent field ⇒ byte-identical output to before this mechanism existed.
+ * `atBcpi: false` with no strings ⇒ every BCPI-lodging sentence is suppressed
+ * and replaced with wording that claims no lodging target at all, so a service
+ * can be flipped to leaves safely before its copy has been authored.
+ */
+function depunereOf(service) {
+  const raw = (service && (service.depunere || service.depunereTarget)) || null;
+  const d = typeof raw === 'string' ? { atBcpi: false, cardText: raw } : (raw || {});
+  return {
+    atBcpi: d.atBcpi !== false,
+    cardHeading: d.cardHeading || null,
+    cardText: d.cardText || null,
+    introSentence: d.introSentence || null,
+    contextSentence: d.contextSentence || null,
+    metaTail: d.metaTail || null,
+  };
+}
 function ocpiAddress(loc) {
   return loc.ocpiOffice && typeof loc.ocpiOffice === 'object' ? loc.ocpiOffice.address : null;
 }
@@ -265,7 +310,10 @@ function buildLocalContext(ctx, service, loc, county, seed) {
   }
 
   const ocpi = typeof loc.ocpiOffice === 'string' ? loc.ocpiOffice : (loc.ocpiOffice && loc.ocpiOffice.name);
-  if (ocpi) {
+  const dep = depunereOf(service);
+  if (dep.contextSentence) {
+    s.push(fillParams(dep.contextSentence, copyParams(ctx.site, service, loc, county)));
+  } else if (ocpi && dep.atBcpi) {
     const ocpiFrames = [
       () => `Dosarele pentru imobilele din zonă se depun la ${ocpi}, unde cunoaștem procedurile și registratorii de ani de zile.`,
       () => `Competent teritorial pentru ${loc.name} este ${ocpi} — acolo depunem și urmărim fiecare dosar până la soluționare.`,
@@ -352,28 +400,50 @@ function buildServiceLocality(ctx, service, loc, emitted) {
   const introParts = [];
   introParts.push(`<p class="lead">${escHtml(opener)}${variant ? ' ' + escHtml(fillParams(variant, params)) : ''}</p>`);
   introParts.push(`<p>${escHtml(closer)}</p>`);
+  // Closing sentence of the intro. Default asserts BCPI lodging; a service that is
+  // not lodged at the land registry supplies its own sentence, or none at all.
+  const dep = depunereOf(service);
+  const ocpiLabel = escHtml(ocpiName(loc) || 'biroul de cadastru competent');
   if (km === 0) {
     // Home town: the office is here, so a distance sentence contradicts itself.
+    const tail = dep.introSentence
+      ? escHtml(fillParams(dep.introSentence, params))
+      : dep.atBcpi
+        ? `Pentru imobilele din ${escHtml(loc.type || 'localitate')} și din satele aparținătoare nu există timp pierdut pe drum: ` +
+          `mergem la măsurătoare direct de la birou și depunem dosarul personal la ${ocpiLabel}, aflat la câteva minute de noi.`
+        : `Pentru imobilele din ${escHtml(loc.type || 'localitate')} și din satele aparținătoare nu există timp pierdut pe drum: ` +
+          `mergem la măsurătoare direct de la birou.`;
     introParts.push(
       `<p>${escHtml(loc.name)} (${escHtml(loc.type || 'localitate')}, județul ${escHtml(countyName)}) este localitatea unde avem biroul. ` +
-      `Pentru imobilele din ${escHtml(loc.type || 'localitate')} și din satele aparținătoare nu există timp pierdut pe drum: ` +
-      `mergem la măsurătoare direct de la birou și depunem dosarul personal la ${escHtml(ocpiName(loc) || 'biroul de cadastru competent')}, aflat la câteva minute de noi.</p>`
+      `${tail}</p>`
     );
   } else if (km != null) {
+    const tail = dep.introSentence
+      ? escHtml(fillParams(dep.introSentence, params))
+      : dep.atBcpi
+        ? `Ne deplasăm la fața locului pentru măsurători și predăm documentația completă la ${ocpiLabel}.`
+        : 'Ne deplasăm la fața locului pentru măsurători și vă predăm documentația completă.';
     introParts.push(
       `<p>${escHtml(loc.name)} (${escHtml(loc.type || 'localitate')}, județul ${escHtml(countyName)}) se află la aprox. ${km} km de biroul nostru din Aiud. ` +
-      `Ne deplasăm la fața locului pentru măsurători și predăm documentația completă la ${escHtml(ocpiName(loc) || 'biroul de cadastru competent')}.</p>`
+      `${tail}</p>`
     );
   }
   const introHtml = introParts.join('\n');
 
-  const ocpiBlock = ocpiName(loc)
-    ? cardBlock(
-        'Unde se depune dosarul',
-        `<p class="mb-0">Pentru imobilele din ${escHtml(loc.name)}, documentația cadastrală se depune la <strong>${escHtml(ocpiName(loc))}</strong>${ocpiAddress(loc) ? `, ${escHtml(ocpiAddress(loc))}` : ''}. Ne ocupăm noi de depunere și de urmărirea dosarului.</p>`,
-        'bi-geo-alt'
-      )
-    : '';
+  let ocpiBlock = '';
+  if (dep.cardText) {
+    ocpiBlock = cardBlock(
+      dep.cardHeading || 'Unde se depune dosarul',
+      `<p class="mb-0">${escHtml(fillParams(dep.cardText, params))}</p>`,
+      'bi-geo-alt'
+    );
+  } else if (dep.atBcpi && ocpiName(loc)) {
+    ocpiBlock = cardBlock(
+      dep.cardHeading || 'Unde se depune dosarul',
+      `<p class="mb-0">Pentru imobilele din ${escHtml(loc.name)}, documentația cadastrală se depune la <strong>${escHtml(ocpiName(loc))}</strong>${ocpiAddress(loc) ? `, ${escHtml(ocpiAddress(loc))}` : ''}. Ne ocupăm noi de depunere și de urmărirea dosarului.</p>`,
+      'bi-geo-alt'
+    );
+  }
 
   const villagesBlock = (loc.villages && loc.villages.length)
     ? `<p>Lucrăm în toate satele aparținătoare: <strong>${loc.villages.map(escHtml).join(', ')}</strong>.</p>`
