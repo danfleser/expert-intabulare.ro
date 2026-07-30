@@ -374,12 +374,10 @@ function buildLocalContext(ctx, service, loc, county, seed) {
       `În ${loc.name}, lucrările de ${svc} se corelează cu evidențele existente — imobile învecinate deja cadastrate, aliniamente și reglementări de urbanism.`,
       `Mediul urban aduce cerințe suplimentare: acorduri de vecinătate în zone dens construite, corelarea cu PUG-ul și termene ferme la notar sau bancă.`,
       `Pentru imobilele din ${loc.name}, verificăm întotdeauna istoricul cărții funciare înainte de măsurătoare — economisește timp și evită respingerile.`,
-      `Cererea imobiliară din ${loc.name} face ca actele corecte să conteze: o lucrare de ${svc} bine făcută scurtează orice tranzacție.`,
     ],
     'periurban': [
       `Zonele periurbane ca ${loc.name} se transformă rapid: terenuri agricole devenite intravilan, lotizări noi, construcții recente — situații pe care le întâlnim zilnic la ${svc}.`,
       `În ${loc.name}, multe imobile au documentații întocmite recent la dezvoltare — le verificăm și le corelăm cu măsurătorile noastre înainte de orice modificare.`,
-      `Aproape de oraș, presiunea pe terenuri e mare; lucrarea de ${svc} corect făcută vă protejează exact acolo unde valorile sunt în creștere.`,
       `Trecerea din extravilan în intravilan, frecventă în zona ${loc.name}, schimbă regimul imobilului — vă spunem ce presupune pentru actele dumneavoastră.`,
     ],
   };
