@@ -35,7 +35,7 @@
         ["Certificat fiscal", "direcția de taxe locale a primăriei", "câteva zile lucrătoare"],
         ["Adeverință asociație", "administratorul asociației de proprietari", "zile, în funcție de disponibilitate"],
         ["Certificat energetic", "auditor energetic atestat", "câteva zile"],
-        ["Documentație cadastrală (dacă lipsește)", "topograf autorizat ANCPI", "1–3 săptămâni cu tot cu recepția OCPI"],
+        ["Documentație cadastrală (dacă lipsește)", "topograf autorizat ANCPI", "orientativ 1–3 săptămâni cu tot cu recepția OCPI"],
         ["Copie releveu din arhiva OCPI", "topograf sau proprietar", "zile"]
       ]
     },
@@ -55,7 +55,7 @@
       "items": [
         {
           "q": "Cât durează, din momentul în care ne-am înțeles cu cumpărătorul?",
-          "a": "Dacă apartamentul are toate actele în regulă și cumpărătorul plătește cash: 1–2 săptămâni, cât să obțineți certificatul fiscal, adeverința asociației și certificatul energetic. Cu credit ipotecar: 4–8 săptămâni, pentru că se adaugă evaluarea și circuitul bancar. Dacă lipsește cadastrul, adăugați 1–3 săptămâni."
+          "a": "Dacă apartamentul are toate actele în regulă și cumpărătorul plătește cash: 1–2 săptămâni, cât să obțineți certificatul fiscal, adeverința asociației și certificatul energetic. Cu credit ipotecar: 4–8 săptămâni, pentru că se adaugă evaluarea și circuitul bancar. Dacă lipsește cadastrul, adăugați 1–3 săptămâni. Sunt intervale orientative, construite pe cazuri obișnuite — pentru apartamentul dumneavoastră ne scrieți pe WhatsApp sau ne sunați și vă spunem concret."
         },
         {
           "q": "Cât costă cadastrul unui apartament, dacă lipsește?",

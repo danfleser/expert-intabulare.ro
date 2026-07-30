@@ -28,8 +28,8 @@
     },
     {
       "type": "table",
-      "heading": "Probleme frecvente la case și cât durează rezolvarea",
-      "head": ["Problema", "Ce se face", "Termen realist"],
+      "heading": "Probleme frecvente la case și cât durează rezolvarea (termene estimate)",
+      "head": ["Problema", "Ce se face", "Termen orientativ"],
       "rows": [
         ["Casa nu e înscrisă, doar terenul", "documentație de înscriere construcție + acte primărie", "3–6 săptămâni"],
         ["Garaj sau anexă neînscrise", "actualizare cu înscrierea construcțiilor", "2–4 săptămâni"],
@@ -78,7 +78,7 @@
       "items": [
         {
           "q": "Pot vinde casa dacă garajul nu e înscris în cartea funciară?",
-          "a": "Puteți vinde ce este înscris — terenul și casa. Garajul neînscris nu se transferă valabil ca proprietate distinctă și, practic, cumpărătorul plătește pentru ceva care nu apare în acte. Cumpărătorii informați și băncile refuză această situație. Recomandarea noastră: înscrieți-l înainte; durează 2–4 săptămâni dacă aveți actele."
+          "a": "Puteți vinde ce este înscris — terenul și casa. Garajul neînscris nu se transferă valabil ca proprietate distinctă și, practic, cumpărătorul plătește pentru ceva care nu apare în acte. Cumpărătorii informați și băncile refuză această situație. Recomandarea noastră: înscrieți-l înainte; durează orientativ 2–4 săptămâni dacă aveți actele."
         },
         {
           "q": "Casa e construită fără autorizație. Se poate vinde?",
@@ -90,7 +90,7 @@
         },
         {
           "q": "Cât durează, în total, de la decizia de a vinde până la semnare?",
-          "a": "Cu actele complete și cumpărător cash: 2–3 săptămâni. Cu actele complete și credit: 6–10 săptămâni. Cu construcții neînscrise: adăugați 1–2 luni. Cu construcții fără autorizație: nu putem da un termen onest, depinde de primărie."
+          "a": "Cu actele complete și cumpărător cash: 2–3 săptămâni. Cu actele complete și credit: 6–10 săptămâni. Cu construcții neînscrise: adăugați 1–2 luni. Cu construcții fără autorizație: nu putem da un termen onest, depinde de primărie. Cifrele de mai sus sunt estimări pentru cazuri obișnuite, nu termene pe care ni le asumăm; pentru casa dumneavoastră ne scrieți pe WhatsApp sau ne sunați și vă spunem concret."
         },
         {
           "q": "Am moștenit casa. Ce trebuie în plus?",

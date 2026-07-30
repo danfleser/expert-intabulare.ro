@@ -32,7 +32,7 @@
       "rows": [
         ["Extras CF de informare", "oricine, online sau prin noi", "de la câteva ore la câteva zile"],
         ["Extras CF pentru autentificare", "exclusiv notarul, aproape de semnare", "valabilitate limitată, de ordinul zilelor lucrătoare"],
-        ["Documentație cadastrală nouă", "topograf autorizat ANCPI", "1–3 săptămâni, inclusiv recepția OCPI"],
+        ["Documentație cadastrală nouă", "topograf autorizat ANCPI", "orientativ 1–3 săptămâni, inclusiv recepția OCPI"],
         ["Copie releveu / plan din arhiva OCPI", "topograf sau proprietar", "zile"],
         ["Certificat fiscal", "proprietarul, la direcția de taxe locale", "zile"],
         ["Certificat energetic", "auditor energetic atestat", "zile"],
@@ -43,7 +43,7 @@
     {
       "type": "paragraph",
       "heading": "Ce blochează, în practică, dosarele — și cât durează remedierea",
-      "text": "Imobilul nu are cadastru deloc. Se face primă înregistrare: măsurători, documentație, recepție OCPI. Realist, 2–4 săptămâni pentru un caz curat. Este cea mai frecventă cerință și, paradoxal, una dintre cele mai simple.\n\nCasa nu este înscrisă, doar terenul. Se face înscrierea construcției, care presupune actele de la primărie. Dacă aveți autorizația și procesul-verbal de recepție, se rezolvă în 2–3 săptămâni; dacă lipsește certificatul de atestare a edificării, adăugați timpul de emitere la primărie.\n\nCasa are extindere sau mansardă neînscrisă. Aceeași procedură, dar cu relevee actualizate. Evaluatorul o va observa aproape sigur, pentru că măsoară pe teren.\n\nSuprafața din CF diferă de realitate. Dacă diferența este mică, se face actualizare. Dacă este mare, dosarul poate cere procese-verbale de vecinătate și devine dependent de vecini — aici nu putem promite termene.\n\nExistă suprapunere cadastrală sau imobilul apare deplasat pe hartă. Se tratează prin repoziționare sau prin corectarea documentației eronate. Este cel mai neplăcut caz, pentru că depinde și de alți proprietari.\n\nÎn cartea funciară figurează o ipotecă veche neradiată. Nu este o problemă cadastrală, dar oprește semnarea. Se cere băncii creditoare documentul de radiere și se depune la OCPI — rapid, dacă banca răspunde prompt.\n\nSfatul nostru pentru oricine plănuiește un credit: cereți extrasul de carte funciară cu trei luni înainte, nu cu trei săptămâni. Verificarea costă puțin și vă scutește de renegocierea termenelor cu vânzătorul."
+      "text": "Toate duratele din această pagină sunt estimări pentru cazuri obișnuite, nu termene garantate — când aveți un termen de bancă pe masă, sunați-ne sau scrieți-ne pe WhatsApp și vă spunem sincer dacă vă încadrați.\n\nImobilul nu are cadastru deloc. Se face primă înregistrare: măsurători, documentație, recepție OCPI. Orientativ, 2–4 săptămâni pentru un caz curat. Este cea mai frecventă cerință și, paradoxal, una dintre cele mai simple.\n\nCasa nu este înscrisă, doar terenul. Se face înscrierea construcției, care presupune actele de la primărie. Dacă aveți autorizația și procesul-verbal de recepție, se rezolvă în 2–3 săptămâni; dacă lipsește certificatul de atestare a edificării, adăugați timpul de emitere la primărie.\n\nCasa are extindere sau mansardă neînscrisă. Aceeași procedură, dar cu relevee actualizate. Evaluatorul o va observa aproape sigur, pentru că măsoară pe teren.\n\nSuprafața din CF diferă de realitate. Dacă diferența este mică, se face actualizare. Dacă este mare, dosarul poate cere procese-verbale de vecinătate și devine dependent de vecini — aici nu putem promite termene.\n\nExistă suprapunere cadastrală sau imobilul apare deplasat pe hartă. Se tratează prin repoziționare sau prin corectarea documentației eronate. Este cel mai neplăcut caz, pentru că depinde și de alți proprietari.\n\nÎn cartea funciară figurează o ipotecă veche neradiată. Nu este o problemă cadastrală, dar oprește semnarea. Se cere băncii creditoare documentul de radiere și se depune la OCPI — rapid, dacă banca răspunde prompt.\n\nSfatul nostru pentru oricine plănuiește un credit: cereți extrasul de carte funciară cu trei luni înainte, nu cu trei săptămâni. Verificarea costă puțin și vă scutește de renegocierea termenelor cu vânzătorul."
     },
     {
       "type": "process",
@@ -93,7 +93,7 @@
         },
         {
           "q": "Cât durează, de la zero, până pot semna?",
-          "a": "Dacă imobilul nu are deloc cadastru: 2–4 săptămâni pentru documentație și recepție, la care se adaugă evaluarea și circuitul bancar. Dacă imobilul este în regulă: nu adăugați nimic, cadastrul nu vă întârzie. Termenele OCPI sunt cele afișate de biroul teritorial și pot fi reduse în regim de urgență; la prima înregistrare urgența nu mai presupune tarif, în timp ce la alte operațiuni se plătește un tarif majorat."
+          "a": "Dacă imobilul nu are deloc cadastru: 2–4 săptămâni pentru documentație și recepție, la care se adaugă evaluarea și circuitul bancar. Dacă imobilul este în regulă: nu adăugați nimic, cadastrul nu vă întârzie. Termenele OCPI sunt cele din anexa ordinului ANCPI și se reduc în regim de urgență la majoritatea serviciilor, dar nu și la prima înregistrare, unde termenul de 15 zile lucrătoare este același în ambele regimuri."
         },
         {
           "q": "Evaluatorul a scris în raport că suprafața nu corespunde. Ce fac?",
