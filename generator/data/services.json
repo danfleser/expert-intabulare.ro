@@ -14,7 +14,7 @@
       },
       {
         "profile": "agricol-campie",
-        "text": "Vrei să vinzi, să arendezi cu acte în regulă sau să împarți moștenirea unui imobil din {localitate}? Fără cadastru și intabulare, notarul nu poate autentifica tranzacția. Ne ocupăm de măsurătoare, de documentația cadastrală și de dosarul depus la {ocpi}, până primești extrasul de carte funciară."
+        "text": "Doriți să vindeți, să arendați cu acte în regulă sau să împărțiți moștenirea unui imobil din {localitate}? Fără cadastru și intabulare, notarul nu poate autentifica tranzacția. Ne ocupăm de măsurătoare, de documentația cadastrală și de dosarul depus la {ocpi}, până primiți extrasul de carte funciară."
       },
       {
         "profile": "montan-apuseni",
@@ -30,7 +30,7 @@
       },
       {
         "profile": "urban",
-        "text": "Cumperi sau vinzi un imobil în {localitate}? Banca și notarul cer carte funciară la zi. Rezolvăm cadastrul și intabularea — inclusiv situațiile complicate: acte vechi, suprafețe diferite, construcții neînscrise — cu depunere la {ocpi} și urmărirea dosarului până la final."
+        "text": "Cumpărați sau vindeți un imobil în {localitate}? Banca și notarul cer carte funciară la zi. Rezolvăm cadastrul și intabularea — inclusiv situațiile complicate: acte vechi, suprafețe diferite, construcții neînscrise — cu depunere la {ocpi} și urmărirea dosarului până la final."
       },
       {
         "profile": "periurban",
@@ -42,11 +42,11 @@
       }
     ],
     "process": [
-      "Ne scrii pe WhatsApp sau ne suni și ne descrii situația imobilului și actele pe care le ai.",
-      "Verificăm situația în evidențele de carte funciară și îți spunem exact ce acte lipsesc.",
+      "Ne scrieți pe WhatsApp sau ne sunați și ne descrieți situația imobilului și actele pe care le aveți.",
+      "Verificăm situația în evidențele de carte funciară și vă spunem exact ce acte lipsesc.",
       "Măsurăm imobilul în {localitate}, cu convocarea vecinilor unde este necesar.",
       "Întocmim documentația cadastrală și o depunem la {ocpi}.",
-      "Urmărim dosarul și îți predăm extrasul de carte funciară cu imobilul înscris."
+      "Urmărim dosarul și vă predăm extrasul de carte funciară cu imobilul înscris."
     ],
     "documents": [
       "Act de proprietate (titlu de proprietate, contract de vânzare, certificat de moștenitor, hotărâre judecătorească)",
@@ -165,7 +165,7 @@
     "resources": [
       {
         "href": "/ghid/cum-verifici-daca-terenul-e-intabulat.html",
-        "label": "Cum verifici dacă imobilul este deja intabulat"
+        "label": "Cum verificați dacă imobilul este deja intabulat"
       },
       {
         "href": "/ghid/suprafata-din-acte-difera-de-teren.html",
@@ -329,7 +329,7 @@
     "introVariants": [
       {
         "profile": "agricol-campie",
-        "text": "Ai un teren agricol în {localitate} pe care vrei să-l vinzi, să-l arendezi cu acte în regulă sau să-l lași moștenire fără complicații? Intabularea este primul pas: măsurăm parcela cu echipament GPS de precizie, întocmim planul de amplasament și delimitare și depunem dosarul complet la {ocpi}."
+        "text": "Aveți un teren agricol în {localitate} pe care doriți să-l vindeți, să-l arendați cu acte în regulă sau să-l lăsați moștenire fără complicații? Intabularea este primul pas: măsurăm parcela cu echipament GPS de precizie, întocmim planul de amplasament și delimitare și depunem dosarul complet la {ocpi}."
       },
       {
         "profile": "agricol-campie",
@@ -341,7 +341,7 @@
       },
       {
         "profile": "montan-apuseni",
-        "text": "În satele din jurul localității {localitate}, terenurile se transmit din generație în generație fără acte la zi. Facem identificarea, măsurătoarea și prima înscriere în cartea funciară, ca proprietatea să fie a ta și pe hârtie, nu doar din bătrâni."
+        "text": "În satele din jurul localității {localitate}, terenurile se transmit din generație în generație fără acte la zi. Facem identificarea, măsurătoarea și prima înscriere în cartea funciară, ca proprietatea să fie a dumneavoastră și pe hârtie, nu doar din bătrâni."
       },
       {
         "profile": "urban",
@@ -349,7 +349,7 @@
       },
       {
         "profile": "urban",
-        "text": "Vinzi sau cumperi un teren în {localitate}? Notarul va cere extras de carte funciară valabil, iar dacă terenul nu este intabulat, tranzacția se blochează. Facem măsurătoarea, planul de amplasament și delimitare și depunem dosarul la {ocpi}, ca să semnezi la termen."
+        "text": "Vindeți sau cumpărați un teren în {localitate}? Notarul va cere extras de carte funciară valabil, iar dacă terenul nu este intabulat, tranzacția se blochează. Facem măsurătoarea, planul de amplasament și delimitare și depunem dosarul la {ocpi}, ca să semnați la termen."
       },
       {
         "profile": "periurban",
@@ -357,7 +357,7 @@
       },
       {
         "profile": "periurban",
-        "text": "Loturile din {localitate} sunt tot mai căutate pentru case noi — dar un teren fără carte funciară nu poate primi autorizație de construire pe numele tău. Rezolvăm intabularea: măsurătoare, documentație, depunere la {ocpi} și extras final."
+        "text": "Loturile din {localitate} sunt tot mai căutate pentru case noi — dar un teren fără carte funciară nu poate primi autorizație de construire pe numele dumneavoastră. Rezolvăm intabularea: măsurătoare, documentație, depunere la {ocpi} și extras final."
       },
       {
         "profile": "agricol-campie",
@@ -365,11 +365,11 @@
       },
       {
         "profile": "agricol-campie",
-        "text": "Dacă ai primit sau moștenit teren în {localitate} și vrei să pui actele în ordine, începem de la documente: titlul de proprietate, planul parcelar și situația de la primărie. Apoi măsurăm parcela pe teren, o corelăm cu vecinii deja intabulați și depunem documentația completă la {ocpi} — la final primești extrasul de carte funciară."
+        "text": "Dacă ați primit sau moștenit teren în {localitate} și doriți să puneți actele în ordine, începem de la documente: titlul de proprietate, planul parcelar și situația de la primărie. Apoi măsurăm parcela pe teren, o corelăm cu vecinii deja intabulați și depunem documentația completă la {ocpi} — la final primiți extrasul de carte funciară."
       },
       {
         "profile": "periurban",
-        "text": "Terenurile din {localitate} își schimbă repede destinația — din arabil în loc de casă. Înainte de orice proiect, verificăm ce scrie în actele terenului, măsurăm limitele reale și facem intabularea, ca să poți merge mai departe la certificat de urbanism și autorizație fără surprize."
+        "text": "Terenurile din {localitate} își schimbă repede destinația — din arabil în loc de casă. Înainte de orice proiect, verificăm ce scrie în actele terenului, măsurăm limitele reale și facem intabularea, ca să puteți merge mai departe la certificat de urbanism și autorizație fără surprize."
       },
       {
         "profile": "urban",
@@ -382,7 +382,7 @@
       "Măsurăm terenul în {localitate}, la fața locului cu echipament GPS/stație totală.",
       "Întocmim planul de amplasament și delimitare (PAD) și restul documentației.",
       "Depunem dosarul la {ocpi} și urmărim soluționarea.",
-      "Primești extrasul de carte funciară cu terenul înscris pe numele tău."
+      "Primiți extrasul de carte funciară cu terenul înscris pe numele dumneavoastră."
     ],
     "documents": [
       "Act de proprietate (titlu de proprietate, contract, certificat de moștenitor)",
@@ -2696,7 +2696,7 @@
       },
       {
         "href": "/ghid/numar-cadastral-cum-il-afli.html",
-        "label": "Cum afli numărul cadastral al unui imobil"
+        "label": "Cum aflați numărul cadastral al unui imobil"
       },
       {
         "href": "/dictionar/extras-de-carte-funciara-pentru-informare.html",
