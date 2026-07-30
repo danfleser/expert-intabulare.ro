@@ -3126,7 +3126,7 @@
     "slug": "expertize-documentatii",
     "shortName": "expertize și documentații",
     "tier2Available": false,
-    "hubOnly": true,
+    "hubOnly": false,
     "metaDescription": "Expertize topografice, rapoarte pentru instanță, documentații speciale: grănițuire, uzucapiune, suprapuneri cadastrale. Expert topograf, Alba.",
     "hubIntro": "Când situația imobilului ajunge la instanță sau iese din tiparul documentațiilor obișnuite, este nevoie de expertiză: rapoarte de expertiză topografică pentru procese de grănițuire, uzucapiune, revendicare sau partaj, documentații pentru rezolvarea suprapunerilor cadastrale, identificări de imobile după acte vechi, planuri de situație pentru avize speciale. Cu peste 25 de ani de experiență și peste 1.000 de lucrări finalizate, documentăm riguros situații pe care alții le ocolesc.",
     "process": [
@@ -3162,7 +3162,7 @@
       },
       {
         "q": "Lucrați cu avocați?",
-        "a": "Da — colaborăm cu avocații părților pentru formularea corectă a obiectivelor expertizei și pentru lămuriri pe parcursul procesului. Un obiectiv bine formulat scurtează procesul cu luni."
+        "a": "Da — ne uităm împreună cu avocatul dumneavoastră peste formularea obiectivelor expertizei și răspundem la lămuririle tehnice cerute pe parcursul procesului. Măsurătorile și raportul le întocmim noi, partea juridică rămâne la avocat, iar un obiectiv bine formulat scurtează procesul."
       },
       {
         "q": "Cât costă o expertiză topografică?",
@@ -3392,6 +3392,33 @@
         "profile": "periurban",
         "text": "În zonele care se construiesc repede la marginea orașelor, cum este {localitate}, loturile s-au vândut și s-au dezmembrat de mai multe ori, iar limita din acte nu mai coincide cu gardul ridicat pe teren. Măsurăm situația reală, o comparăm cu documentațiile depuse de-a lungul timpului la {ocpi} din județul {judet} și stabilim tehnic cine unde stă."
       }
-    ]
+    ],
+    "priceDisclaimer": "Costul se stabilește de la caz la caz, după ce vedem actele și starea imobilului pe teren: volumul măsurătorilor și istoricul documentelor diferă mult de la un dosar la altul.",
+    "profileNotes": {
+      "urban": [
+        "În blocurile din {localitate}, disputele pornesc de la suprafața utilă și de la boxele, mansardele sau balcoanele închise pe care releveul depus la înscriere nu le cuprinde; le ridicăm în teren, apoi punem în raport cât diferă de ce scrie în acte.",
+        "În centrul {localitate} locuințele împart aceeași intrare și același spațiu din spate, iar la partaj trebuie stabilit ce anume folosește fiecare — se lămurește prin măsurătoare, nu din spusele părților.",
+        "Când dosarul ajunge la partaj sau la executare, judecătorul citește desenul, nu terenul: pregătim plan de amplasament la scară, coordonatele punctelor de hotar și fotografii ale situației găsite în {localitate}.",
+        "Dacă documentația v-a fost respinsă pentru suprapunere, în {localitate} ne uităm întâi la lucrarea imobilului vecin, apoi repetăm măsurătoarea; abia de acolo se vede dacă eroarea se îndreaptă administrativ sau ajunge în fața instanței."
+      ],
+      "agricol-campie": [
+        "În {localitate} măsurăm tarlaua pe toată lungimea ei, nu doar parcela în dispută: poziția fiecărui lot reconstituit se stabilește numai prin raportare la capetele tarlalei și la ordinea din planul parcelar.",
+        "Pe raza {localitate}, parcelele date în arendă și-au pierdut de mult semnele de hotar. Brazda de astăzi nu dovedește nimic prin ea însăși, dar poziția ei ridicată cu aparatul și pusă lângă acte devine o probă pe care o poate folosi și instanța.",
+        "Cel mai des, în {localitate} expertiza se cere fiindcă suprafața trecută în titlu iese altfel la măsurătoarea de astăzi. În raport scriem și de unde provine nepotrivirea, pentru că doar mărimea diferenței nu ajută nici părțile, nici judecătorul.",
+        "Multe terenuri din jurul {localitate} au trecut prin succesiuni nefinalizate. La partaj identificăm întâi fiecare parcelă din masa succesorală, după planurile de arhivă și după măsurătoare, apoi propunem loturi cu ieșire la drum pentru fiecare moștenitor."
+      ],
+      "montan-apuseni": [
+        "În jurul {localitate} limitele se sprijină pe firul apei, pe muchia dealului sau pe lizieră — repere care se mută singure în timp. Raportul arată și linia din acte, și ce se vede astăzi pe teren, ca diferența dintre ele să poată fi judecată.",
+        "Fânețele în pantă de pe raza {localitate} s-au fărâmițat la fiecare succesiune, iar mulți coproprietari nu mai locuiesc în sat. Înainte de măsurătoare adunăm actele tuturor părților, altfel expertiza se oprește la prima vecinătate neclară.",
+        "La imobilele izolate din {localitate} folosim aparatul potrivit fiecărei situații, inclusiv acolo unde coroana pădurii sau panta prea mare împiedică recepția satelitară, astfel încât punctele din raport să poată fi regăsite de oricine reface lucrarea.",
+        "În {localitate} multe construcții de munte s-au ridicat în etape, pe teren moștenit și fără documentație păstrată. Expertiza le consemnează așa cum sunt — poziție, dimensiuni, vecinătăți — pentru dosarul care urmează."
+      ],
+      "periurban": [
+        "La marginea orașului, loturile de casă din {localitate} au trecut prin dezmembrări repetate și prin mai mulți proprietari, iar gardurile s-au ridicat din înțelegeri între vecini, nu după documentații. Expertiza pune față în față fiecare lucrare depusă la {ocpi} și situația de astăzi.",
+        "În lotizările noi din jurul {localitate}, drumul de acces a rămas uneori nedezmembrat sau pe numele celui care a vândut parcelele, și de acolo pornesc procesele. Raportul arată exact peste ce imobil trece accesul și în ce lățime.",
+        "Construcțiile recente din {localitate} trec destul de des peste limita de proprietate cu streașina, cu terasa sau cu fundația. Le ridicăm în coordonate și le desenăm în plan, cu abaterea față de limita din acte.",
+        "Unde arabilul a devenit teren de construcții pe raza {localitate}, documentațiile noi stau alături de titluri de proprietate vechi și de planuri parcelare care nu cad unul peste altul. Identificarea imobilului cere confruntarea tuturor acestor surse."
+      ]
+    }
   }
 ]
