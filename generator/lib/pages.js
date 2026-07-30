@@ -704,9 +704,23 @@ function buildServiceLocality(ctx, service, loc, emitted) {
       `<p>${escHtml(serviceNote)}</p></div>`
     : '';
 
-  // Keyed off county, not matrix: the deplasare note applies to every non-Alba locality,
-  // including tier-2 towns upgraded to the full matrix (g-plan §1a condition).
-  const deplasare = loc.countySlug !== 'alba' ? chrome.deplasareBlock(site) : '';
+  // Every leaf, no county condition (PLAN-rank-first.md §4 item 4.2). The note states
+  // the whole policy in one sentence — travel included inside Alba, distance-based in
+  // the neighbouring counties — so it is as much an answer for a reader in Alba, who
+  // learns the visit costs them nothing, as for one in Sibiu. Withholding it from Alba
+  // also put it on a MINORITY of the sibling group in the six 92-leaf services, where
+  // non-Alba is 14/92 = 15.2%: below `gates.js` boilerplate cut, i.e. residual text
+  // raising overlap on those 14 pages. At 92/92 and 222/222 it is boilerplate in every
+  // group and drops out of the overlap measure entirely.
+  //
+  // Unique-word collateral, measured over all 1884 leaves rather than argued: the
+  // block's own shingles were never page-exclusive anywhere (document frequency was
+  // already 144 or 14, never 1), but inserting it splits one seam on each of the 78
+  // Alba leaves per group and 98 pages lose 1–4 words to the shingles that spanned it.
+  // The lowest any of them lands is 130, and the three pages sitting exactly on the
+  // 120 floor are all non-Alba, so their HTML does not change at all. minUnique
+  // 120 → 120, worst overlap 69.3182% → 69.3182%, demotions 0 → 0.
+  const deplasare = chrome.deplasareBlock(site);
   const documentsBlock = checklistBlock('Acte necesare (orientativ)', service.documents);
   const processBlock = (service.process && service.process.length)
     ? `<div class="mb-5"><h2 class="h5 mb-3">Cum decurge procesul</h2><ol class="ps-3">${service.process.map((s) => `<li class="mb-2">${escHtml(fillParams(s, params))}</li>`).join('')}</ol></div>`
