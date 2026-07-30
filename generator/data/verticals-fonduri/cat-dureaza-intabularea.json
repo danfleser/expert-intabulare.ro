@@ -17,12 +17,12 @@
       "heading": "Termene orientative pe tipuri de lucrări (regim normal)",
       "head": ["Lucrarea", "Partea noastră (teren + documentație)", "Soluționarea la OCPI/BCPI", "Total realist"],
       "rows": [
-        ["Extras CF de informare (imobil cu CF electronică)", "—", "1–2 zile, online adesea mai repede", "zile"],
+        ["Extras CF de informare (imobil cu CF electronică)", "—", "1–2 zile, online adesea mai repede", "1–2 zile"],
         ["Prima înscriere teren", "3–10 zile", "15 zile lucrătoare (la fel și în urgență)", "3–8 săptămâni"],
-        ["Înscriere construcție nouă (cu certificat de atestare obținut)", "3–7 zile", "zile – 2 săptămâni", "2–4 săptămâni"],
+        ["Înscriere construcție nouă (cu certificat de atestare obținut)", "3–7 zile", "de la câteva zile la 2 săptămâni", "2–4 săptămâni"],
         ["Dezlipire / alipire", "3–7 zile", "1–2 săptămâni", "2–5 săptămâni"],
-        ["Intabulare drept dintr-un act notarial (imobil cadastrat)", "—", "zile (depunere prin notar)", "sub 2 săptămâni"],
-        ["Recepție plan topografic pentru proiectare", "3–10 zile", "zile – 2 săptămâni", "2–4 săptămâni"]
+        ["Intabulare drept dintr-un act notarial (imobil cadastrat)", "—", "câteva zile (depunere prin notar)", "sub 2 săptămâni"],
+        ["Recepție plan topografic pentru proiectare", "3–10 zile", "de la câteva zile la 2 săptămâni", "2–4 săptămâni"]
       ]
     },
     {

@@ -18,13 +18,13 @@
       "head": ["Serviciul", "Partea noastră", "Soluționare OCPI (regim normal)", "Urgență posibilă?"],
       "rows": [
         ["Extras CF de informare (CF electronică)", "—", "1–2 zile; online adesea în aceeași zi", "da, tarif majorat"],
-        ["Extras de plan cadastral pe ortofotoplan", "—", "zile", "da"],
-        ["Recepție plan topografic (Ordinul 700/2014)", "3–10 zile", "zile – 2 săptămâni", "da, la multe oficii"],
+        ["Extras de plan cadastral pe ortofotoplan", "—", "câteva zile", "da"],
+        ["Recepție plan topografic (Ordinul 700/2014)", "3–10 zile", "de la câteva zile la 2 săptămâni", "da, la multe oficii"],
         ["Primă înscriere imobil", "3–10 zile", "15 zile lucrătoare", "nu — termenul oficial este identic în urgență"],
-        ["Înscriere construcție (acte complete)", "3–7 zile", "zile – 2 săptămâni", "da"],
+        ["Înscriere construcție (acte complete)", "3–7 zile", "de la câteva zile la 2 săptămâni", "da"],
         ["Dezlipire / alipire", "3–7 zile", "1–2 săptămâni", "da"],
-        ["Intabulare drept din act notarial", "—", "zile (depune notarul)", "da"],
-        ["Rectificări / repoziționări", "variabil, după caz", "săptămâni", "rar relevant — analiza durează, nu ștampila"]
+        ["Intabulare drept din act notarial", "—", "câteva zile (depune notarul)", "da"],
+        ["Rectificări / repoziționări", "variabil, după caz", "de ordinul săptămânilor", "rar relevant — analiza durează, nu ștampila"]
       ]
     },
     {
