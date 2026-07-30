@@ -9,8 +9,8 @@
   "sections": [
     {
       "type": "paragraph",
-      "heading": "Cum folosești pagina asta",
-      "html": "<p>Mai jos sunt adunate întrebările pe care le primim cel mai des — la telefon, pe WhatsApp și prin consultanții cu care lucrăm — despre partea de teren a proiectelor cu finanțare. Răspunsurile sunt scurte intenționat: fiecare temă mare are pagina ei detaliată în această secțiune a site-ului, cu tabele, termene și pași. Dacă întrebarea ta nu e aici, cel mai rapid drum rămâne același: scrie-ne-o pe WhatsApp — răspundem de regulă în aceeași zi, iar întrebările bune ajung, anonimizat, chiar în pagina asta.</p>"
+      "heading": "Cum folosiți pagina asta",
+      "html": "<p>Mai jos sunt adunate întrebările pe care le primim cel mai des — la telefon, pe WhatsApp și prin consultanții cu care lucrăm — despre partea de teren a proiectelor cu finanțare. Răspunsurile sunt scurte intenționat: fiecare temă mare are pagina ei detaliată în această secțiune a site-ului, cu tabele, termene și pași. Dacă întrebarea dumneavoastră nu e aici, cel mai rapid drum rămâne același: scrieți-ne-o pe WhatsApp — răspundem de regulă în aceeași zi, iar întrebările bune ajung, anonimizat, chiar în pagina asta.</p>"
     },
     {
       "type": "faq",
@@ -18,7 +18,7 @@
       "items": [
         { "q": "Ce înseamnă, pe scurt, „dovada proprietății” într-un dosar de finanțare?", "a": "Extras de carte funciară recent care arată dreptul solicitantului asupra imobilului — proprietate, superficie, concesiune sau alt drept acceptat de ghid. Actele „din sertar” (contracte, titluri, adeverințe) nu țin loc de carte funciară." },
         { "q": "De ce trebuie extrasul CF să aibă sub 30 de zile?", "a": "E cerința standard a finanțatorilor: vor o fotografie recentă a situației juridice. Nu e o valabilitate legală a extrasului, ci o regulă de ghid — deci extrasul se scoate ultimul, chiar înainte de depunere." },
-        { "q": "Terenul e al părinților. Pot depune proiectul pe el?", "a": "Nu direct — îți trebuie un drept propriu: superficie constituită la notar și înscrisă în CF (soluția tipică dacă se construiește), donație, sau comodat/arendă unde ghidul le acceptă pentru investiții fără construcții." },
+        { "q": "Terenul e al părinților. Pot depune proiectul pe el?", "a": "Nu direct — vă trebuie un drept propriu: superficie constituită la notar și înscrisă în CF (soluția tipică dacă se construiește), donație, sau comodat/arendă unde ghidul le acceptă pentru investiții fără construcții." },
         { "q": "Moștenirea nu e dezbătută. Cât durează până pot depune?", "a": "Succesiunea la notar plus intabularea — realist de la câteva săptămâni la câteva luni, dominat de viteza succesiunii. Partea cadastrală o pregătim în paralel, ca să nu se adune duratele." },
         { "q": "Ce sarcini din cartea funciară îmi blochează eligibilitatea?", "a": "Cel mai des: litigii notate (blocante aproape peste tot), ipoteci neacceptate de ghid, interdicții de înstrăinare sau grevare, sechestre. Partea a III-a a extrasului se citește la începutul proiectului, nu la depunere." },
         { "q": "Arenda înregistrată la primărie e suficientă?", "a": "Pentru proiecte agricole fără construcții, de regulă da — cu durata acoperind implementarea plus monitorizarea. Pentru orice se autorizează și se construiește, nu: acolo trebuie drept real." }
@@ -32,9 +32,9 @@
         { "q": "Cât durează prima înscriere a unui teren?", "a": "Realist, 3–8 săptămâni cap-coadă în cazurile simple: câteva zile partea noastră de teren și documentație, termen de soluționare la OCPI de ordinul a 15 zile lucrătoare, plus marjă pentru eventuale completări." },
         { "q": "Există intabulare „de urgență”?", "a": "Multe servicii OCPI au regim de urgență cu tarif majorat, dar exact prima înscriere nu se comprimă semnificativ — verificările de fond își cer timpul. Urgența reală se cheamă „început devreme”." },
         { "q": "Suprafața din acte diferă de cea măsurată. Ce se întâmplă?", "a": "Diferențele mici se înscriu direct, în limitele toleranțelor din regulament; cele mari cer procedura de modificare a suprafeței. Pentru dosar, important e ca toate documentele să declare aceeași suprafață — cea din CF." },
-        { "q": "Ce e o suprapunere cadastrală și cât de gravă e?", "a": "Conturul tău intersectează, în evidențe, un imobil vecin deja înscris. De cele mai multe ori e eroare de evidență, rezolvabilă în săptămâni; când limita e efectiv disputată, poate ajunge la expertiză și instanță. Diagnosticul diferențiază." },
+        { "q": "Ce e o suprapunere cadastrală și cât de gravă e?", "a": "Conturul dumneavoastră intersectează, în evidențe, un imobil vecin deja înscris. De cele mai multe ori e eroare de evidență, rezolvabilă în săptămâni; când limita e efectiv disputată, poate ajunge la expertiză și instanță. Diagnosticul diferențiază." },
         { "q": "Cartea funciară e veche, pe hârtie, și nu pot scoate extras online. Ce fac?", "a": "Imobilul are nevoie de conversie în sistemul electronic — de regulă prin documentație cadastrală cu măsurători. Frecvent în Transilvania, la imobile cu numere topografice vechi; realist, câteva săptămâni." },
-        { "q": "Casa există de 30 de ani dar nu apare în cartea funciară. Contează?", "a": "Da — pentru finanțator, o construcție neînscrisă nu există. Se rezolvă prin certificatul de atestare a edificării de la primărie plus documentație cadastrală; pornește procedura înainte de depunere." }
+        { "q": "Casa există de 30 de ani dar nu apare în cartea funciară. Contează?", "a": "Da — pentru finanțator, o construcție neînscrisă nu există. Se rezolvă prin certificatul de atestare a edificării de la primărie plus documentație cadastrală; porniți procedura înainte de depunere." }
       ]
     },
     {
@@ -43,7 +43,7 @@
       "items": [
         { "q": "Ce înseamnă plan „vizat OCPI”?", "a": "Plan trecut prin recepția tehnică a OCPI: măsurători de persoană autorizată ANCPI, în sistem național Stereo 70, verificate de inspector conform Ordinului 700/2014. Fără viză, planul nu e piesă de dosar." },
         { "q": "Care e diferența dintre PAD, plan de situație și plan topografic?", "a": "PAD-ul definește imobilul juridic pentru cartea funciară; planul de situație arată amplasarea investiției pentru urbanism; planul topografic arată terenul complet (relief, cote, rețele) pentru proiectant. Un dosar matur le are pe toate trei, în etape diferite." },
-        { "q": "Cât e valabil un plan topografic vizat?", "a": "Legea nu-i dă termen de expirare; instituțiile cer plan „actualizat” — care reflectă realitatea curentă. Practic, peste 6–12 luni sau după orice modificare în teren, așteaptă-te să ți se ceară actualizarea." },
+        { "q": "Cât e valabil un plan topografic vizat?", "a": "Legea nu-i dă termen de expirare; instituțiile cer plan „actualizat” — care reflectă realitatea curentă. Practic, peste 6–12 luni sau după orice modificare în teren, așteptați-vă să vi se ceară actualizarea." },
         { "q": "Ce primește proiectantul de la voi pentru SF?", "a": "Planul vizat OCPI plus pachetul de date: puncte măsurate cu cote, curbe de nivel, model digital al terenului, rețele pe layere — în DWG/DXF, LandXML sau formatul cerut. Detaliile contează mai mult decât planșa frumoasă." },
         { "q": "Ce e procesul-verbal de trasare și de ce îl cere dirigintele?", "a": "Documentul care atestă că construcția a fost marcată pe teren conform proiectului autorizat, la începerea execuției. Intră în cartea tehnică și e prima verigă a lanțului care se închide la recepție." },
         { "q": "Ce e documentația as-built?", "a": "Măsurătorile finale ale construcției așa cum a fost executată, comparate cu proiectul — baza recepției, a cărții tehnice și a intabulării construcției. La proiectele cu finanțare, susține cererea finală de plată." },
@@ -63,8 +63,8 @@
     },
     {
       "type": "cta",
-      "heading": "Întrebarea ta nu e aici?",
-      "text": "Scrie-ne-o pe WhatsApp exact așa cum ți-o pui în minte — răspundem de regulă în aceeași zi, cu pașii concreți pentru situația ta."
+      "heading": "Întrebarea dumneavoastră nu e aici?",
+      "text": "Scrieți-ne-o pe WhatsApp exact așa cum vi-o puneți în minte — răspundem de regulă în aceeași zi, cu pașii concreți pentru situația dumneavoastră."
     }
   ],
   "related": [

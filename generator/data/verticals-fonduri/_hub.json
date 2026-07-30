@@ -10,13 +10,13 @@
   "sections": [
     {
       "type": "paragraph",
-      "heading": "Terenul și clădirea sunt fundația dosarului tău de finanțare",
+      "heading": "Terenul și clădirea sunt fundația dosarului dumneavoastră de finanțare",
       "html": "<p>Aproape orice proiect finanțat din fonduri europene sau naționale care presupune o investiție fizică — o hală, o pensiune, o fermă modernizată, un drum comunal — se sprijină pe două lucruri pe care finanțatorul le verifică fără excepție: <strong>dovada dreptului asupra terenului</strong> (extras de carte funciară, drept de superficie, concesiune) și <strong>documentația topografică</strong> (plan topografic vizat OCPI, plan de amplasament și delimitare, ridicare topografică pentru proiectant). Lipsa sau expirarea uneia dintre aceste piese este printre cele mai frecvente motive de respingere sau de blocare a dosarelor — nu tehnologia, nu planul de afaceri, ci terenul.</p><p>Colaborăm cu beneficiari, firme de consultanță în fonduri europene, dezvoltatori și constructori din județul Alba și din județele învecinate (Cluj, Mureș, Sibiu, Hunedoara). Măsurăm, întocmim și depunem documentația la OCPI, iar livrabilele ajung direct în formatul cerut de dosarul de finanțare — PDF pentru dosar, DWG/DXF pentru proiectant, CPXML pentru OCPI.</p>"
     },
     {
       "type": "table",
-      "heading": "În ce etapă ești? Găsește-ți pagina",
-      "head": ["Etapa proiectului", "Ce îți cere finanțatorul", "De unde începi"],
+      "heading": "În ce etapă sunteți? Găsiți-vă pagina",
+      "head": ["Etapa proiectului", "Ce vă cere finanțatorul", "De unde începeți"],
       "rows": [
         ["Înainte de depunere", "Extras CF valabil (de regulă ≤30 de zile), teren intabulat, drept de folosință înscris", "Paginile despre extras CF, intabulare înainte de depunere și teren neintabulat"],
         ["Contractare", "Dovada proprietății actualizată, plan de amplasament și delimitare (PAD)", "Paginile despre PAD și documentație cadastrală PNRR / AFIR"],
@@ -29,26 +29,26 @@
     {
       "type": "paragraph",
       "heading": "Programele acoperite — situația la zi în 2026",
-      "html": "<p>Peisajul finanțărilor se schimbă rapid, iar paginile din această secțiune sunt scrise pe situația reală din 2026:</p><ul><li><strong>PNRR</strong> — apelurile de proiecte s-au închis; termenul final de implementare și plată a fost prelungit până la finalul lunii august 2026. Pentru beneficiarii PNRR, miza anului 2026 nu mai este depunerea, ci recepția, documentația as-built și intabularea construcției finalizate.</li><li><strong>AFIR — Planul Strategic PAC 2023–2027</strong> — în plină derulare: intervenții pentru tineri fermieri (DR-12), ferme mici, procesare, LEADER prin GAL-uri (DR-36), cu sesiuni active în 2026.</li><li><strong>Programul Regional Centru 2021–2027</strong> — gestionat de ADR Centru, cu apeluri deschise în 2026 pentru IMM-uri, turism și infrastructură publică; județul Alba face parte din Regiunea Centru.</li><li><strong>Anghel Saligny</strong> (program național) — continuă în 2026 pentru drumuri, apă și canalizare, cu prioritate pentru proiectele în execuție avansată.</li><li><strong>Granturile SEE și Norvegiene 2021–2028</strong> — memorandumurile au fost semnate în mai 2026; apelurile urmează.</li></ul><p>Nu suntem consultanți în fonduri europene și nu scriem cereri de finanțare — facem partea de teren: măsurători, cadastru, carte funciară, avizare OCPI. Exact piesa pe care consultantul tău o așteaptă de la un topograf autorizat ANCPI.</p>"
+      "html": "<p>Peisajul finanțărilor se schimbă rapid, iar paginile din această secțiune sunt scrise pe situația reală din 2026:</p><ul><li><strong>PNRR</strong> — apelurile de proiecte s-au închis; termenul final de implementare și plată a fost prelungit până la finalul lunii august 2026. Pentru beneficiarii PNRR, miza anului 2026 nu mai este depunerea, ci recepția, documentația as-built și intabularea construcției finalizate.</li><li><strong>AFIR — Planul Strategic PAC 2023–2027</strong> — în plină derulare: intervenții pentru tineri fermieri (DR-12), ferme mici, procesare, LEADER prin GAL-uri (DR-36), cu sesiuni active în 2026.</li><li><strong>Programul Regional Centru 2021–2027</strong> — gestionat de ADR Centru, cu apeluri deschise în 2026 pentru IMM-uri, turism și infrastructură publică; județul Alba face parte din Regiunea Centru.</li><li><strong>Anghel Saligny</strong> (program național) — continuă în 2026 pentru drumuri, apă și canalizare, cu prioritate pentru proiectele în execuție avansată.</li><li><strong>Granturile SEE și Norvegiene 2021–2028</strong> — memorandumurile au fost semnate în mai 2026; apelurile urmează.</li></ul><p>Nu suntem consultanți în fonduri europene și nu scriem cereri de finanțare — facem partea de teren: măsurători, cadastru, carte funciară, avizare OCPI. Exact piesa pe care consultantul dumneavoastră o așteaptă de la un topograf autorizat ANCPI.</p>"
     },
     {
       "type": "checklist",
       "heading": "Primele 3 verificări, înainte de orice",
       "items": [
-        "Scoate un extras de carte funciară de informare recent: terenul este intabulat? Suprafața din CF corespunde cu realitatea? Există sarcini sau litigii notate în partea a III-a?",
-        "Verifică ce cere ghidul solicitantului la capitolul „dovada proprietății”: proprietate, superficie, concesiune, comodat sau arendă — și pe ce durată minimă.",
-        "Numără săptămânile până la termenul de depunere: o primă înscriere în cartea funciară durează realist câteva săptămâni — planifică invers de la deadline."
+        "Scoateți un extras de carte funciară de informare recent: terenul este intabulat? Suprafața din CF corespunde cu realitatea? Există sarcini sau litigii notate în partea a III-a?",
+        "Verificați ce cere ghidul solicitantului la capitolul „dovada proprietății”: proprietate, superficie, concesiune, comodat sau arendă — și pe ce durată minimă.",
+        "Numără săptămânile până la termenul de depunere: o primă înscriere în cartea funciară durează realist câteva săptămâni — planificați invers de la deadline."
       ]
     },
     {
       "type": "paragraph",
       "heading": "Cum lucrăm pe un dosar cu finanțare — pe scurt",
-      "html": "<p>Primul contact e un diagnostic gratuit: ne trimiți pe WhatsApp extrasul CF sau pozele actelor și linkul apelului, iar noi îți spunem ce piese de teren cere dosarul, ce există deja și ce lipsește. Urmează oferta scrisă — cu serviciile noastre și tarifele OCPI pe linii separate — și calendarul construit invers de la termenul de depunere, cu marje pentru soluționările instituționale. Apoi lucrăm etapizat: întâi ce ține de trecut (intabulări, succesiuni de înscris, regularizări de construcții), în paralel cu scrierea proiectului; la final, piesele cu valabilitate scurtă, emise cât mai aproape de depunere. Pe toată durata, stadiul fiecărei lucrări îl vezi în firul de WhatsApp al dosarului — cu documentele atașate pe măsură ce apar, nu la predarea finală. După semnarea contractului de finanțare rămânem pe proiect: trasare la începerea execuției, verificări pe parcurs, as-built la recepție și intabularea construcției în perioada de durabilitate. Un singur partener pentru toată partea de teren înseamnă un singur calendar, o singură răspundere și zero piese căzute între doi furnizori — exact ce are nevoie un dosar în care fiecare zi de întârziere are un cost.</p>"
+      "html": "<p>Primul contact e un diagnostic gratuit: ne trimiți pe WhatsApp extrasul CF sau pozele actelor și linkul apelului, iar noi vă spunem ce piese de teren cere dosarul, ce există deja și ce lipsește. Urmează oferta scrisă — cu serviciile noastre și tarifele OCPI pe linii separate — și calendarul construit invers de la termenul de depunere, cu marje pentru soluționările instituționale. Apoi lucrăm etapizat: întâi ce ține de trecut (intabulări, succesiuni de înscris, regularizări de construcții), în paralel cu scrierea proiectului; la final, piesele cu valabilitate scurtă, emise cât mai aproape de depunere. Pe toată durata, stadiul fiecărei lucrări îl vedeți în firul de WhatsApp al dosarului — cu documentele atașate pe măsură ce apar, nu la predarea finală. După semnarea contractului de finanțare rămânem pe proiect: trasare la începerea execuției, verificări pe parcurs, as-built la recepție și intabularea construcției în perioada de durabilitate. Un singur partener pentru toată partea de teren înseamnă un singur calendar, o singură răspundere și zero piese căzute între doi furnizori — exact ce are nevoie un dosar în care fiecare zi de întârziere are un cost.</p>"
     },
     {
       "type": "cta",
       "heading": "Termen de depunere aproape?",
-      "text": "Scrie-ne pe WhatsApp data limită a apelului tău — îți spunem sincer ce se poate face până atunci și planificăm invers de la deadline."
+      "text": "Scrieți-ne pe WhatsApp data limită a apelului dumneavoastră — vă spunem sincer ce se poate face până atunci și planificăm invers de la deadline."
     },
     {
       "type": "faq",
@@ -56,7 +56,7 @@
       "items": [
         { "q": "Lucrați direct cu firme de consultanță în fonduri europene?", "a": "Da, o parte importantă din proiectele noastre vin prin consultanți. Livrăm documentele direct în formatul cerut de dosar și ținem consultantul în copie pe fiecare etapă — avem o pagină dedicată despre cum decurge colaborarea." },
         { "q": "Acoperiți doar județul Alba?", "a": "Lucrăm pe teren în județul Alba și în județele învecinate — Cluj, Mureș, Sibiu, Hunedoara. Verificările de birou (extras CF, verificare documentație existentă) le putem face pentru imobile din toată țara." },
-        { "q": "Cât durează până primim planul topografic vizat OCPI?", "a": "Orientativ: măsurătorile în câteva zile de la comandă, apoi întocmirea documentației și avizarea la OCPI. În funcție de tipul lucrării și de încărcarea oficiului, procesul complet durează de regulă între una și câteva săptămâni — pentru termene exacte, scrie-ne cu localitatea și tipul proiectului." },
+        { "q": "Cât durează până primim planul topografic vizat OCPI?", "a": "Orientativ: măsurătorile în câteva zile de la comandă, apoi întocmirea documentației și avizarea la OCPI. În funcție de tipul lucrării și de încărcarea oficiului, procesul complet durează de regulă între una și câteva săptămâni — pentru termene exacte, scrieți-ne cu localitatea și tipul proiectului." },
         { "q": "Puteți lucra în paralel cu depunerea proiectului?", "a": "Da, și chiar recomandăm asta: intabularea sau actualizarea cărții funciare pot rula în paralel cu scrierea cererii de finanțare, astfel încât la contractare documentele să fie gata." }
       ]
     }

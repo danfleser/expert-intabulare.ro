@@ -36,7 +36,7 @@
         ["Urbanism", "CU → DTAC direct", "PUZ de introducere în intravilan, apoi CU → DTAC"],
         ["Durată până la autorizație", "luni (2–5, orientativ)", "de regulă peste un an cu tot cu PUZ"],
         ["Documentație topografică", "plan topografic vizat OCPI", "suport topografic pentru PUZ + planul pentru DTAC"],
-        ["Risc de calendar pentru finanțare", "gestionabil în majoritatea sesiunilor", "incompatibil cu sesiunile apropiate — planifică pe termen lung"],
+        ["Risc de calendar pentru finanțare", "gestionabil în majoritatea sesiunilor", "incompatibil cu sesiunile apropiate — planificați pe termen lung"],
         ["Cost total de pregătire", "moderat", "semnificativ mai mare (PUZ, avize, timp)"]
       ]
     },
@@ -44,7 +44,7 @@
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
-        { "q": "Am găsit teren ieftin în extravilan, lângă șosea. Merită pentru proiectul cu finanțare?", "a": "Depinde de orizont: pentru o sesiune din acest an — aproape sigur nu, PUZ-ul nu se comprimă. Pentru strategia pe 2–3 ani — poate fi o achiziție excelentă. Calculează prețul real: teren + PUZ + timp; adesea intravilanul „scump” iese mai ieftin per total." },
+        { "q": "Am găsit teren ieftin în extravilan, lângă șosea. Merită pentru proiectul cu finanțare?", "a": "Depinde de orizont: pentru o sesiune din acest an — aproape sigur nu, PUZ-ul nu se comprimă. Pentru strategia pe 2–3 ani — poate fi o achiziție excelentă. Calculați prețul real: teren + PUZ + timp; adesea intravilanul „scump” iese mai ieftin per total." },
         { "q": "Ce înseamnă „utilitățile în planul topografic” și de ce insistați?", "a": "Măsurăm și reprezentăm traseele reale ale rețelelor din zonă și incintă: cămine, hidranți, stâlpi, conducte indicate de deținători. Proiectantul așază hala în funcție de ele, iar avizatorii le cer explicit. Halele proiectate „fără utilități pe plan” se lovesc de relocări scumpe la execuție." },
         { "q": "Firma are deja o incintă cu construcții vechi. Checklist-ul se aplică la fel?", "a": "Da, plus auditul construcțiilor existente — orice corp neintabulat sau fără autorizație se regularizează înainte de depunere. Avem o pagină dedicată exact acestui scenariu de extindere pe fonduri, cu pașii de intrare în legalitate." },
         { "q": "Puteți verifica un teren înainte să-l cumpărăm pentru proiect?", "a": "Da — verificare de carte funciară și sarcini, măsurătoare de verificare a suprafeței și limitelor, controlul suprapunerilor la OCPI și o discuție cu primăria despre regimul urbanistic. Costă o fracțiune din avans și previne achiziția unui teren pe care proiectul nu se poate face." }
@@ -57,8 +57,8 @@
     },
     {
       "type": "cta",
-      "heading": "Ai un teren în vizor pentru hală?",
-      "text": "Trimite-ne pe WhatsApp numărul cadastral sau extrasul CF înainte să semnezi ceva — trecem terenul prin checklist și îți spunem ce ascunde."
+      "heading": "Aveți un teren în vizor pentru hală?",
+      "text": "Trimiteți-ne pe WhatsApp numărul cadastral sau extrasul CF înainte să semnați ceva — trecem terenul prin checklist și vă spunem ce ascunde."
     }
   ],
   "related": [

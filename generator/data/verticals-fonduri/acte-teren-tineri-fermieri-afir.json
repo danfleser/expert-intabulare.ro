@@ -1,7 +1,7 @@
 {
   "slug": "acte-teren-tineri-fermieri-afir",
-  "title": "Instalarea tinerilor fermieri: ce acte de teren îți cere AFIR | Expert Intabulare",
-  "h1": "Tineri fermieri (AFIR): actele de teren de care ai nevoie, pas cu pas",
+  "title": "Instalarea tinerilor fermieri: ce acte de teren vă cere AFIR | Expert Intabulare",
+  "h1": "Tineri fermieri (AFIR): actele de teren de care aveți nevoie, pas cu pas",
   "metaDescription": "DR-12 și instalarea tinerilor fermieri: extras CF, arendă, moștenire nedezbătută, intabulare la timp pentru sesiunea AFIR 2026. Timeline realist de la topograf.",
   "whatsappTopic": "acte de teren pentru proiect tânăr fermier AFIR",
   "hook": "deadline",
@@ -16,13 +16,13 @@
       "type": "table",
       "heading": "Situația terenului vs. timpul realist de rezolvare",
       "head": [
-        "Situația de la care pleci",
+        "Situația de la care plecați",
         "Ce trebuie făcut",
         "Durată realistă"
       ],
       "rows": [
         [
-          "Teren cu CF la zi, pe numele tău",
+          "Teren cu CF la zi, pe numele dumneavoastră",
           "Doar extras CF recent la depunere",
           "Zile"
         ],
@@ -52,8 +52,8 @@
       "type": "process",
       "heading": "Planul de lucru pe care îl recomandăm",
       "steps": [
-        "Inventarul actelor (săptămâna 1) — Strângi tot ce există: titluri de proprietate, contracte, certificate de moștenitor, extrase vechi. Ne trimiți pozele pe WhatsApp — îți spunem pentru fiecare parcelă în ce categorie de mai sus se încadrează.",
-        "Succesiunea, dacă e cazul — Pornește imediat la notar — este pasul pe care noi nu îl putem accelera. În paralel pregătim identificarea parcelelor și măsurătorile, ca la finalul succesiunii documentația cadastrală să fie gata de depus.",
+        "Inventarul actelor (săptămâna 1) — Strângi tot ce există: titluri de proprietate, contracte, certificate de moștenitor, extrase vechi. Ne trimiți pozele pe WhatsApp — vă spunem pentru fiecare parcelă în ce categorie de mai sus se încadrează.",
+        "Succesiunea, dacă e cazul — Porniți imediat la notar — este pasul pe care noi nu îl putem accelera. În paralel pregătim identificarea parcelelor și măsurătorile, ca la finalul succesiunii documentația cadastrală să fie gata de depus.",
         "Cadastru și intabulare — Măsurăm, întocmim documentațiile de primă înscriere și le depunem la OCPI. Termenul oficial de soluționare pentru prima înscriere este de ordinul a 15 zile lucrătoare de la depunere, la care se adaugă timpul de teren și de pregătire a dosarului.",
         "Extrasele finale, aproape de depunere — Extrasul CF de informare se scoate în ultimele 30 de zile înainte de depunerea proiectului, ca să fie în termen. Tot acum se emite extrasul de plan cadastral pe ortofotoplan, dacă ghidul îl cere."
       ]
@@ -64,31 +64,31 @@
       "items": [
         {
           "q": "Pot depune proiectul cu terenul încă pe numele părinților?",
-          "a": "Pentru unele componente ghidul acceptă arenda sau comodatul înregistrat, pentru altele se cere drept de proprietate sau superficie — mai ales dacă se construiește. Citim împreună cu consultantul tău exact ce scrie în ghidul sesiunii și alegem varianta cea mai rapidă care e și eligibilă."
+          "a": "Pentru unele componente ghidul acceptă arenda sau comodatul înregistrat, pentru altele se cere drept de proprietate sau superficie — mai ales dacă se construiește. Citim împreună cu consultantul dumneavoastră exact ce scrie în ghidul sesiunii și alegem varianta cea mai rapidă care e și eligibilă."
         },
         {
           "q": "Succesiunea durează luni. Are rost să mai încerc pentru sesiunea din acest an?",
-          "a": "Uneori da: dacă moștenitorii se înțeleg și actele sunt complete, o succesiune se poate încheia în câteva săptămâni, iar noi lucrăm cadastrul în paralel. Alteori e mai înțelept să țintești sesiunea următoare cu dosar complet decât să depui un dosar vulnerabil. Îți spunem sincer în care caz ești, după ce vedem actele."
+          "a": "Uneori da: dacă moștenitorii se înțeleg și actele sunt complete, o succesiune se poate încheia în câteva săptămâni, iar noi lucrăm cadastrul în paralel. Alteori e mai înțelept să țintiți sesiunea următoare cu dosar complet decât să depuneți un dosar vulnerabil. Vă spunem sincer în care caz sunteți, după ce vedem actele."
         },
         {
           "q": "Ce înseamnă „teren identificat în tarla” și de ce e o problemă?",
-          "a": "Înseamnă că parcela există în acte (titlu, registru agricol) dar nu are un contur măsurat și înscris la OCPI. Până la identificarea ei pe planul parcelar și cadastrare, nu poți obține extras CF pe ea — deci nu o poți folosi ca dovadă în dosar."
+          "a": "Înseamnă că parcela există în acte (titlu, registru agricol) dar nu are un contur măsurat și înscris la OCPI. Până la identificarea ei pe planul parcelar și cadastrare, nu puteți obține extras CF pe ea — deci nu o puteți folosi ca dovadă în dosar."
         },
         {
           "q": "Măsurați și exploatații întregi, cu zeci de parcele?",
-          "a": "Da — și recomandăm abordarea etapizată: întâi parcelele critice pentru dosar (sediul exploatației, terenul unde se construiește), apoi restul, în ritmul bugetului. Nu are rost să cadastrezi 40 de parcele înainte de depunere dacă dosarul are nevoie de 4."
+          "a": "Da — și recomandăm abordarea etapizată: întâi parcelele critice pentru dosar (sediul exploatației, terenul unde se construiește), apoi restul, în ritmul bugetului. Nu are rost să cadastrați 40 de parcele înainte de depunere dacă dosarul are nevoie de 4."
         }
       ]
     },
     {
       "type": "paragraph",
       "heading": "Cele trei capcane clasice ale dosarului de tânăr fermier",
-      "html": "<p><strong>Capcana 1: exploatația „pe hârtii amestecate”.</strong> O parte din parcele pe numele tău, o parte pe părinți, o parte pe bunicul decedat — iar dosarul cere o imagine juridică unitară a exploatației. Rezolvarea nu e „toate pe numele meu” cu orice preț: pentru multe parcele ajunge arenda înregistrată de la părinți, iar efortul de intabulare se concentrează doar unde se investește. Triajul corect economisește luni și mii de lei.</p><p><strong>Capcana 2: sediul exploatației improvizat.</strong> Adresa exploatației și locul investiției trebuie susținute de acte reale; o „magazie a familiei” fără forme nu ține loc de sediu pentru construcții finanțate. Dacă planul include utilaje adăpostite sau spații amenajate, verifică din prima zi regimul clădirii-suport.</p><p><strong>Capcana 3: calendarul optimist.</strong> Tinerii fermieri sunt, statistic, cei mai grăbiți solicitanți — și cei mai loviți de termenele succesiunilor. Regula pe care o repetăm: dacă în lanțul actelor apare un deces nedezbătut, calendarul îl dictează notarul și moștenitorii, nu topograful și nu consultantul. Tot ce putem face noi — și facem — este să pregătim partea cadastrală în paralel, astfel încât în ziua certificatului de moștenitor dosarul OCPI să plece spre soluționare, nu spre început.</p>"
+      "html": "<p><strong>Capcana 1: exploatația „pe hârtii amestecate”.</strong> O parte din parcele pe numele dumneavoastră, o parte pe părinți, o parte pe bunicul decedat — iar dosarul cere o imagine juridică unitară a exploatației. Rezolvarea nu e „toate pe numele meu” cu orice preț: pentru multe parcele ajunge arenda înregistrată de la părinți, iar efortul de intabulare se concentrează doar unde se investește. Triajul corect economisește luni și mii de lei.</p><p><strong>Capcana 2: sediul exploatației improvizat.</strong> Adresa exploatației și locul investiției trebuie susținute de acte reale; o „magazie a familiei” fără forme nu ține loc de sediu pentru construcții finanțate. Dacă planul include utilaje adăpostite sau spații amenajate, verifică din prima zi regimul clădirii-suport.</p><p><strong>Capcana 3: calendarul optimist.</strong> Tinerii fermieri sunt, statistic, cei mai grăbiți solicitanți — și cei mai loviți de termenele succesiunilor. Regula pe care o repetăm: dacă în lanțul actelor apare un deces nedezbătut, calendarul îl dictează notarul și moștenitorii, nu topograful și nu consultantul. Tot ce putem face noi — și facem — este să pregătim partea cadastrală în paralel, astfel încât în ziua certificatului de moștenitor dosarul OCPI să plece spre soluționare, nu spre început.</p>"
     },
     {
       "type": "cta",
-      "heading": "Vrei să prinzi sesiunea cu actele în regulă?",
-      "text": "Trimite-ne pe WhatsApp poze cu actele terenurilor și data sesiunii AFIR — facem gratuit triajul parcelelor și îți dăm calendarul realist de intabulare."
+      "heading": "Vreți să prindeți sesiunea cu actele în regulă?",
+      "text": "Trimiteți-ne pe WhatsApp poze cu actele terenurilor și data sesiunii AFIR — facem gratuit triajul parcelelor și vă dăm calendarul realist de intabulare."
     }
   ],
   "related": [

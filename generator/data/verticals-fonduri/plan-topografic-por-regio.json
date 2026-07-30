@@ -1,7 +1,7 @@
 {
   "slug": "plan-topografic-por-regio",
   "title": "Documentație topografică pentru Programul Regional Centru 2021–2027 | Expert Intabulare",
-  "h1": "Programul Regional Centru 2021–2027: documentația topografică pentru proiectul tău",
+  "h1": "Programul Regional Centru 2021–2027: documentația topografică pentru proiectul dumneavoastră",
   "metaDescription": "Plan topografic vizat OCPI și documentație cadastrală pentru apelurile Programului Regional Centru (Regio) 2021–2027, gestionat de ADR Centru. Alba = Regiunea Centru.",
   "whatsappTopic": "plan topografic pentru proiect Programul Regional Centru",
   "hook": "deadline",
@@ -21,21 +21,21 @@
       "type": "checklist",
       "heading": "Verificări înainte de a intra într-un apel Regio Centru",
       "items": [
-        "Citește secțiunea „dovada dreptului” din ghidul apelului tău — durata și tipul dreptului diferă de la apel la apel",
+        "Citiți secțiunea „dovada dreptului” din ghidul apelului dumneavoastră — durata și tipul dreptului diferă de la apel la apel",
         "Extras CF de informare recent pentru fiecare imobil din proiect, cu partea a III-a verificată de sarcini și litigii",
-        "Imobil neintabulat sau CF veche pe hârtie: pornește regularizarea imediat — apelurile au termene de depunere fixe",
-        "Cere proiectantului tema exactă pentru planul topografic (zona de studiu, scara, curbe de nivel) înainte de a comanda măsurătorile",
-        "Pentru UAT-uri: verifică atestarea inventarului domeniului public pentru imobilul investiției — lipsa lui blochează contractarea"
+        "Imobil neintabulat sau CF veche pe hârtie: porniți regularizarea imediat — apelurile au termene de depunere fixe",
+        "Cereți proiectantului tema exactă pentru planul topografic (zona de studiu, scara, curbe de nivel) înainte de a comanda măsurătorile",
+        "Pentru UAT-uri: verificați atestarea inventarului domeniului public pentru imobilul investiției — lipsa lui blochează contractarea"
       ]
     },
     {
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
-        { "q": "Ce apeluri sunt deschise acum pe Programul Regional Centru?", "a": "Calendarul se mișcă permanent — ADR Centru publică lunar Catalogul surselor de finanțare și menține calendarul apelurilor pe regiocentru.ro. În 2026 au fost lansate, printre altele, apeluri pentru infrastructura turistică balneară și de agrement. Verifică sursa oficială pentru stadiul la zi." },
+        { "q": "Ce apeluri sunt deschise acum pe Programul Regional Centru?", "a": "Calendarul se mișcă permanent — ADR Centru publică lunar Catalogul surselor de finanțare și menține calendarul apelurilor pe regiocentru.ro. În 2026 au fost lansate, printre altele, apeluri pentru infrastructura turistică balneară și de agrement. Verificați sursa oficială pentru stadiul la zi." },
         { "q": "Suntem un IMM din Alba — terenul e în leasing/închiriere. E o problemă?", "a": "Pentru investiții în construcții, ghidurile cer de regulă un drept real care permite autorizarea (proprietate, superficie, concesiune). Chiria simplă e rar suficientă. Alternativa uzuală este constituirea unui drept de superficie — avem o pagină dedicată." },
         { "q": "Cât înainte de depunere ar trebui făcut planul topografic?", "a": "Ideal odată cu tema de proiectare pentru SF/DALI, adică cu 2–3 luni înainte de depunere. Planul trebuie să fie „actualizat” la momentul avizării documentației — un plan proaspăt evită orice discuție." },
-        { "q": "Faceți și partea de cadastru, nu doar planul topografic?", "a": "Da — suntem autorizați ANCPI și pentru documentații cadastrale: primă înscriere, alipiri, dezlipiri, înscrierea construcțiilor. Pentru un dosar Regio le poți rezolva pe toate cu o singură echipă, cu răspundere unică." }
+        { "q": "Faceți și partea de cadastru, nu doar planul topografic?", "a": "Da — suntem autorizați ANCPI și pentru documentații cadastrale: primă înscriere, alipiri, dezlipiri, înscrierea construcțiilor. Pentru un dosar Regio le puteți rezolva pe toate cu o singură echipă, cu răspundere unică." }
       ]
     },
     {
@@ -45,8 +45,8 @@
     },
     {
       "type": "cta",
-      "heading": "Pregătești un dosar pentru Regio Centru?",
-      "text": "Scrie-ne pe WhatsApp apelul vizat și localitatea imobilului — îți confirmăm ce documentație topografică cere anexă tehnică și în cât timp o livrăm."
+      "heading": "Pregătiți un dosar pentru Regio Centru?",
+      "text": "Scrieți-ne pe WhatsApp apelul vizat și localitatea imobilului — vă confirmăm ce documentație topografică cere anexă tehnică și în cât timp o livrăm."
     }
   ],
   "related": [

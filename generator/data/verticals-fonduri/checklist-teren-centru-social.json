@@ -39,7 +39,7 @@
       "items": [
         { "q": "Primăria ne dă o clădire veche pentru centru de zi. Ce verificăm întâi?", "a": "Trei lucruri, în ordine: istoricul (retrocedări posibile?), cartea funciară (există? pe cine? cu ce sarcini?) și starea de intabulare a clădirii (corpul există în partea I?). Abia apoi discutăm de releveu și proiect. Prima verificare durează o zi și poate economisi un proiect întreg." },
         { "q": "Suntem ONG cu protocol de colaborare cu primăria. Ajunge pentru dosar?", "a": "Aproape sigur nu — ghidurile cer drept de folosință sau drept real dovedit prin act și înscriere, pe durată determinată acoperitoare. Protocolul e o intenție, nu un drept. Transformă-l din timp în folosință gratuită sau superficie înscrisă în CF." },
-        { "q": "Clădirea grădiniței nu apare în cartea funciară, doar terenul. Contează la reabilitare?", "a": "Da — proiectul reabilitează o construcție care juridic nu există. Înscrierea construcției publice (pe baza actelor istorice sau a certificatului de atestare a edificării) intră pe drumul critic al dosarului; pornește-o odată cu decizia de a aplica." },
+        { "q": "Clădirea grădiniței nu apare în cartea funciară, doar terenul. Contează la reabilitare?", "a": "Da — proiectul reabilitează o construcție care juridic nu există. Înscrierea construcției publice (pe baza actelor istorice sau a certificatului de atestare a edificării) intră pe drumul critic al dosarului; porniți-o odată cu decizia de a aplica." },
         { "q": "Normele de amplasament pentru creșe le verificați voi?", "a": "Noi livrăm planul de situație și măsurătorile pe care arhitectul face verificarea normativelor — distanțe, orientare, accese. Nu ne substituim proiectantului, dar lucrăm curent cu proiectanți pe astfel de funcțiuni și știm ce trebuie să conțină planul ca verificarea să fie posibilă din prima." }
       ]
     },
@@ -51,7 +51,7 @@
     {
       "type": "cta",
       "heading": "Proiect social în pregătire?",
-      "text": "Scrie-ne pe WhatsApp cine e solicitantul (UAT sau ONG) și ce imobil aveți în vedere — verificăm lanțul juridic și cadastral și vă dăm lista pașilor cu termene."
+      "text": "Scrieți-ne pe WhatsApp cine e solicitantul (UAT sau ONG) și ce imobil aveți în vedere — verificăm lanțul juridic și cadastral și vă dăm lista pașilor cu termene."
     }
   ],
   "related": [

@@ -16,7 +16,7 @@
       "type": "checklist",
       "heading": "Etapele la care merită măsurat, la o construcție tipică",
       "items": [
-        "Predarea amplasamentului și trasarea inițială — bornele și reperii de nivelment ai șantierului",
+        "Predarea amplasamentului și trasarea inițială — bornele și reperii de nivelment aveți șantierului",
         "Fundul săpăturii: cote și dimensiuni înainte de turnare — baza calculului real de terasamente",
         "Fundațiile: poziția și cota după turnare, înainte de elevații — ultima șansă ieftină de corecție",
         "Structura la fiecare nivel: verticalitate, axe, cote de planșeu",
@@ -27,8 +27,8 @@
     },
     {
       "type": "paragraph",
-      "heading": "Ce primești, în ce ritm, și cine vede rezultatele",
-      "html": "<p>Modul de lucru pe care îl propunem la contractare: stabilim împreună cu dirigintele de șantier și constructorul <strong>planul de măsurători pe etape</strong> (lista de mai sus, adaptată proiectului), iar apoi venim la fiecare etapă la anunțul șantierului — mobilizare în zilele lucrătoare imediat următoare, pentru amplasamentele din Alba și județele vecine. După fiecare vizită: proces-verbal cu valorile măsurate față de proiect, semnalarea imediată — telefonic, nu în raportul de peste două săptămâni — a oricărei abateri care cere decizie, și arhivarea datelor în dosarul lucrării.</p><p>Beneficiarul, dirigintele și, dacă dorești, consultantul primesc aceleași documente în același timp — pe grupul de WhatsApp al lucrării, cu PDF-urile atașate. La final, pachetul de monitorizare se varsă natural în documentația as-built și în cartea tehnică: nimic nu se măsoară de două ori, nimic nu rămâne nedocumentat.</p>"
+      "heading": "Ce primiți, în ce ritm, și cine vede rezultatele",
+      "html": "<p>Modul de lucru pe care îl propunem la contractare: stabilim împreună cu dirigintele de șantier și constructorul <strong>planul de măsurători pe etape</strong> (lista de mai sus, adaptată proiectului), iar apoi venim la fiecare etapă la anunțul șantierului — mobilizare în zilele lucrătoare imediat următoare, pentru amplasamentele din Alba și județele vecine. După fiecare vizită: proces-verbal cu valorile măsurate față de proiect, semnalarea imediată — telefonic, nu în raportul de peste două săptămâni — a oricărei abateri care cere decizie, și arhivarea datelor în dosarul lucrării.</p><p>Beneficiarul, dirigintele și, dacă doriți, consultantul primesc aceleași documente în același timp — pe grupul de WhatsApp al lucrării, cu PDF-urile atașate. La final, pachetul de monitorizare se varsă natural în documentația as-built și în cartea tehnică: nimic nu se măsoară de două ori, nimic nu rămâne nedocumentat.</p>"
     },
     {
       "type": "faq",
@@ -48,7 +48,7 @@
     {
       "type": "cta",
       "heading": "Execuția pornește sau e deja în mers?",
-      "text": "Scrie-ne pe WhatsApp stadiul șantierului și graficul de execuție — venim cu planul de măsurători pe etape și oferta de monitorizare până la recepție."
+      "text": "Scrieți-ne pe WhatsApp stadiul șantierului și graficul de execuție — venim cu planul de măsurători pe etape și oferta de monitorizare până la recepție."
     }
   ],
   "related": [

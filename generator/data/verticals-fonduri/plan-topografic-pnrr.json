@@ -55,7 +55,7 @@
     },
     {
       "type": "process",
-      "heading": "Cum obții planul topografic vizat OCPI — pașii reali",
+      "heading": "Cum obțineți planul topografic vizat OCPI — pașii reali",
       "steps": [
         "Măsurători în teren — Ridicare topografică cu GPS RTK și stație totală, în sistemul național de coordonate Stereo 70, cu preluarea detaliilor relevante: limite, construcții, rețele vizibile, accese, diferențe de nivel.",
         "Întocmirea planului — Redactare la scara cerută de proiect (uzual 1:500 sau 1:1000, la investiții liniare și 1:2000), cu inventarul de coordonate și încadrarea în zonă.",
@@ -66,7 +66,7 @@
     {
       "type": "paragraph",
       "heading": "Situația în 2026: planul topografic la finalul PNRR",
-      "html": "<p>Cu termenul final de implementare la sfârșitul lunii august 2026, cererea reală pe care o vedem la proiectele PNRR nu mai este planul pentru SF — acela trebuia făcut demult — ci <strong>măsurătorile de finalizare</strong>: verificarea conformității execuției, documentația as-built pentru cartea tehnică, planul de amplasament actualizat cu construcția nouă și intabularea acesteia. Dacă proiectul tău e în această fază, timpul se numără în zile: măsurătorile finale se pot face imediat după terminarea lucrărilor, iar restul documentației se pregătește în paralel cu recepția.</p><p>Un detaliu care scapă des: dacă în timpul execuției au apărut modificări față de autorizație (amplasare ușor diferită, extindere, anexe), ele trebuie clarificate <em>înainte</em> de recepție — altfel intabularea construcției se blochează exact în perioada în care finanțatorul o poate cere.</p>"
+      "html": "<p>Cu termenul final de implementare la sfârșitul lunii august 2026, cererea reală pe care o vedem la proiectele PNRR nu mai este planul pentru SF — acela trebuia făcut demult — ci <strong>măsurătorile de finalizare</strong>: verificarea conformității execuției, documentația as-built pentru cartea tehnică, planul de amplasament actualizat cu construcția nouă și intabularea acesteia. Dacă proiectul dumneavoastră e în această fază, timpul se numără în zile: măsurătorile finale se pot face imediat după terminarea lucrărilor, iar restul documentației se pregătește în paralel cu recepția.</p><p>Un detaliu care scapă des: dacă în timpul execuției au apărut modificări față de autorizație (amplasare ușor diferită, extindere, anexe), ele trebuie clarificate <em>înainte</em> de recepție — altfel intabularea construcției se blochează exact în perioada în care finanțatorul o poate cere.</p>"
     },
     {
       "type": "faq",
@@ -93,12 +93,12 @@
     {
       "type": "paragraph",
       "heading": "Tema de proiectare: cele cinci minute care decid calitatea planului",
-      "html": "<p>Cea mai bună investiție dintr-un plan topografic nu costă nimic: conversația directă dintre noi și proiectant, înainte de măsurători. În ea se stabilesc lucrurile pe care niciun standard nu le poate ghici: cât de departe de limita parcelei are nevoie de date (racorduri, scurgeri, vecinătăți), ce echidistanță de curbe de nivel cere terenul, dacă îi trebuie secțiuni caracteristice, ce layere și ce șablon CAD folosește biroul lui. Fără această conversație, planul se face „ca de obicei” — iar „ca de obicei” al topografului și „ca de obicei” al proiectantului coincid rar. Rezultatul tipic al necoincidenței: completări cerute după două săptămâni, remobilizare, termen pierdut. La proiectele PNRR aflate acum în finalizare, aceeași regulă se aplică în oglindă pentru măsurătorile as-built: comisia de recepție și autoritatea de plată au așteptări documentare precise, iar formatul livrării se stabilește înainte de măsurare, nu după. De aceea, la orice comandă legată de un proiect finanțat, primul nostru telefon nu e către echipa de teren — e către proiectantul sau dirigintele care va folosi datele. Cinci minute acolo economisesc săptămâni în aval, iar pentru tine, beneficiar, întreaga coordonare e invizibilă: primești direct piesa corectă, din prima.</p>"
+      "html": "<p>Cea mai bună investiție dintr-un plan topografic nu costă nimic: conversația directă dintre noi și proiectant, înainte de măsurători. În ea se stabilesc lucrurile pe care niciun standard nu le poate ghici: cât de departe de limita parcelei are nevoie de date (racorduri, scurgeri, vecinătăți), ce echidistanță de curbe de nivel cere terenul, dacă îi trebuie secțiuni caracteristice, ce layere și ce șablon CAD folosește biroul lui. Fără această conversație, planul se face „ca de obicei” — iar „ca de obicei” al topografului și „ca de obicei” al proiectantului coincid rar. Rezultatul tipic al necoincidenței: completări cerute după două săptămâni, remobilizare, termen pierdut. La proiectele PNRR aflate acum în finalizare, aceeași regulă se aplică în oglindă pentru măsurătorile as-built: comisia de recepție și autoritatea de plată au așteptări documentare precise, iar formatul livrării se stabilește înainte de măsurare, nu după. De aceea, la orice comandă legată de un proiect finanțat, primul nostru telefon nu e către echipa de teren — e către proiectantul sau dirigintele care va folosi datele. Cinci minute acolo economisesc săptămâni în aval, iar pentru dumneavoastră, beneficiar, întreaga coordonare e invizibilă: primiți direct piesa corectă, din prima.</p>"
     },
     {
       "type": "cta",
-      "heading": "Proiectantul îți cere planul vizat OCPI?",
-      "text": "Trimite-ne pe WhatsApp localitatea, numărul cadastral și ce ți-a cerut proiectantul — revenim cu termen și cost orientativ în aceeași zi."
+      "heading": "Proiectantul vă cere planul vizat OCPI?",
+      "text": "Trimiteți-ne pe WhatsApp localitatea, numărul cadastral și ce v-a cerut proiectantul — revenim cu termen și cost orientativ în aceeași zi."
     }
   ],
   "related": [

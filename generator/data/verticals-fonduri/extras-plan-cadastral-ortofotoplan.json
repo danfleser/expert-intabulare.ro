@@ -1,8 +1,8 @@
 {
   "slug": "extras-plan-cadastral-ortofotoplan",
-  "title": "Extrasul de plan cadastral pe ortofotoplan: când ți-l cere finanțatorul | Expert Intabulare",
-  "h1": "Extrasul de plan cadastral pe ortofotoplan: piesa pe care o cere AFIR și cum o obții",
-  "metaDescription": "Ce este extrasul de plan cadastral pe ortofotoplan, de ce îl cere AFIR în dosarele de finanțare, cum se obține de la OCPI și ce faci dacă nu se poate emite.",
+  "title": "Extrasul de plan cadastral pe ortofotoplan: când vi-l cere finanțatorul | Expert Intabulare",
+  "h1": "Extrasul de plan cadastral pe ortofotoplan: piesa pe care o cere AFIR și cum o obțineți",
+  "metaDescription": "Ce este extrasul de plan cadastral pe ortofotoplan, de ce îl cere AFIR în dosarele de finanțare, cum se obține de la OCPI și ce faceți dacă nu se poate emite.",
   "whatsappTopic": "extras de plan cadastral pe ortofotoplan",
   "hook": "none",
   "trustBar": true,
@@ -10,22 +10,22 @@
     {
       "type": "paragraph",
       "heading": "Ce este, pe înțeles",
-      "html": "<p><strong>Extrasul de plan cadastral pe ortofotoplan</strong> este un document emis de OCPI care arată conturul imobilului tău — așa cum e înscris în sistemul integrat — suprapus peste fotografia aeriană oficială a zonei (ortofotoplanul). Practic, e răspunsul vizual la întrebarea „unde este exact terenul acesta?”: se vede parcela, cu numărul cadastral, în contextul real — drumuri, culturi, construcții, vecinătăți.</p><p>De ce îl iubesc finanțatorii, în frunte cu AFIR: evaluatorul care nu va călca niciodată pe terenul tău poate verifica din birou că investiția descrisă în proiect se așază pe parcela declarată — că „ferma de la marginea satului” chiar e la marginea satului, că accesul există, că pe teren nu tronează deja o hală. În dosarele AFIR documentul apare constant la piesele de amplasament, iar la verificările pe teren servește ca referință comună între evaluator, beneficiar și hartă.</p>"
+      "html": "<p><strong>Extrasul de plan cadastral pe ortofotoplan</strong> este un document emis de OCPI care arată conturul imobilului dumneavoastră — așa cum e înscris în sistemul integrat — suprapus peste fotografia aeriană oficială a zonei (ortofotoplanul). Practic, e răspunsul vizual la întrebarea „unde este exact terenul acesta?”: se vede parcela, cu numărul cadastral, în contextul real — drumuri, culturi, construcții, vecinătăți.</p><p>De ce îl iubesc finanțatorii, în frunte cu AFIR: evaluatorul care nu va călca niciodată pe terenul dumneavoastră poate verifica din birou că investiția descrisă în proiect se așază pe parcela declarată — că „ferma de la marginea satului” chiar e la marginea satului, că accesul există, că pe teren nu tronează deja o hală. În dosarele AFIR documentul apare constant la piesele de amplasament, iar la verificările pe teren servește ca referință comună între evaluator, beneficiar și hartă.</p>"
     },
     {
       "type": "process",
       "heading": "Cum se obține — și condiția fără de care nu se poate",
       "steps": [
         "Condiția prealabilă: imobil înscris — Extrasul se emite doar pentru imobile cu număr cadastral — conturul care se suprapune pe ortofoto este cel din sistemul integrat. Teren necadastrat = extras imposibil de emis; întâi prima înscriere, apoi extrasul.",
-        "Cererea la OCPI — Se depune cererea cu identificarea imobilului (număr cadastral / carte funciară) și se achită tariful — direct de tine, la ghișeu sau online, ori prin noi, odată cu restul pieselor dosarului.",
+        "Cererea la OCPI — Se depune cererea cu identificarea imobilului (număr cadastral / carte funciară) și se achită tariful — direct de dumneavoastră, la ghișeu sau online, ori prin noi, odată cu restul pieselor dosarului.",
         "Emiterea — Documentul se eliberează de regulă în câteva zile în regim normal, mai repede cu tarif de urgență — termene de tip „piesă de flux”, nu de fond.",
         "Verificarea înainte de dosar — La primire, verifică — sau verificăm noi — că imobilul afișat corespunde realității: contur așezat corect pe teren, fără suprapuneri vizibile cu vecinii. Documentul care ar trebui să confirme amplasamentul poate, ocazional, să dezvăluie o problemă — mai bine acum decât la evaluare."
       ]
     },
     {
       "type": "paragraph",
-      "heading": "Ce faci când extrasul „iese urât”",
-      "html": "<p>Trei situații pe care le vedem în practică. <strong>Imobilul nu e cadastrat</strong> — cel mai frecvent caz la terenuri agricole moștenite: fără număr cadastral nu există extras; soluția e prima înscriere, cu calendarul ei de săptămâni, deci start imediat. <strong>Conturul e vizibil deplasat față de realitate</strong> — semn de măsurători vechi sau erori de integrare; pentru dosar poate trece, dar pentru orice lucrare viitoare pe imobil merită investigat acum. <strong>Conturul se suprapune cu vecinul</strong> — problema serioasă: suprapunerea care ți-ar fi blocat oricum următoarea documentație tocmai s-a arătat singură; tratamentul e pe pagina noastră dedicată suprapunerilor cadastrale.</p><p>Nota practică pentru dosarele AFIR: cere extrasul <strong>devreme în pregătirea proiectului</strong>, nu în săptămâna depunerii — exact pentru că el poate declanșa una dintre situațiile de mai sus. E un document ieftin care funcționează ca test de sănătate al imobilului.</p>"
+      "heading": "Ce faceți când extrasul „iese urât”",
+      "html": "<p>Trei situații pe care le vedem în practică. <strong>Imobilul nu e cadastrat</strong> — cel mai frecvent caz la terenuri agricole moștenite: fără număr cadastral nu există extras; soluția e prima înscriere, cu calendarul ei de săptămâni, deci start imediat. <strong>Conturul e vizibil deplasat față de realitate</strong> — semn de măsurători vechi sau erori de integrare; pentru dosar poate trece, dar pentru orice lucrare viitoare pe imobil merită investigat acum. <strong>Conturul se suprapune cu vecinul</strong> — problema serioasă: suprapunerea care v-ar fi blocat oricum următoarea documentație tocmai s-a arătat singură; tratamentul e pe pagina noastră dedicată suprapunerilor cadastrale.</p><p>Nota practică pentru dosarele AFIR: cereți extrasul <strong>devreme în pregătirea proiectului</strong>, nu în săptămâna depunerii — exact pentru că el poate declanșa una dintre situațiile de mai sus. E un document ieftin care funcționează ca test de sănătate al imobilului.</p>"
     },
     {
       "type": "faq",
@@ -37,7 +37,7 @@
         },
         {
           "q": "Cât e valabil extrasul pe ortofotoplan?",
-          "a": "Nu are termen de valabilitate legal ca extrasul CF de 30 de zile din ghiduri, dar reflectă situația de la emitere — iar ghidurile pot cere emitere recentă. Verifică cerința exactă a sesiunii tale; dacă e nevoie de unul proaspăt la depunere, se emite rapid."
+          "a": "Nu are termen de valabilitate legal ca extrasul CF de 30 de zile din ghiduri, dar reflectă situația de la emitere — iar ghidurile pot cere emitere recentă. Verificați cerința exactă a sesiunii dumneavoastră; dacă e nevoie de unul proaspăt la depunere, se emite rapid."
         },
         {
           "q": "Fotografia aeriană din extras e veche și nu arată construcția mea nouă. E o problemă?",
@@ -45,19 +45,19 @@
         },
         {
           "q": "Puteți obține voi extrasul pentru noi?",
-          "a": "Da — îl includem uzual în pachetul de piese al dosarului, împreună cu extrasul CF și restul documentelor. Trimite-ne numărul cadastral pe WhatsApp și îl punem pe listă."
+          "a": "Da — îl includem uzual în pachetul de piese al dosarului, împreună cu extrasul CF și restul documentelor. Trimiteți-ne numărul cadastral pe WhatsApp și îl punem pe listă."
         }
       ]
     },
     {
       "type": "paragraph",
-      "heading": "Rudele documentului: cu ce se confundă și când îți trebuie altceva",
-      "html": "<p>Extrasul pe ortofotoplan face parte dintr-o familie de documente „de vizualizare” care se confundă constant între ele, iar cererea greșită costă un drum și câteva zile. <strong>Planul de încadrare în zonă</strong> — piesa din documentațiile de urbanism care arată poziția imobilului la scară mică; se întocmește de proiectant sau topograf, nu se emite de OCPI. <strong>Captura de geoportal</strong> — gratuită și instantă, dar fără valoare de document oficial. <strong>Planul parcelar</strong> — evidența întregii tarlale, cu toate parcelele; relevant la terenurile agricole neintabulate, unde extrasul individual nu se poate emite. <strong>Extrasul de plan cadastral „simplu”</strong> (fără ortofoto) — conturul și vecinătățile din evidențe, pe fond alb; unele instituții îl cer în locul variantei pe ortofotoplan. Regula de aur când un ghid sau un funcționar cere „un plan al terenului”: cere formularea exactă în scris și trimite-ne-o — potrivirea cererii cu documentul corect e o expertiză măruntă care economisește săptămâni.</p><p>Și o observație din practica dosarelor AFIR: evaluatorii folosesc extrasul pe ortofotoplan și ca instrument de bun-simț — compară ce declară proiectul cu ce se vede din avion. Un beneficiar care își privește singur extrasul cu acest ochi critic, înainte de depunere, vede exact ce va vedea evaluatorul: inclusiv construcția „uitată” din colțul parcelei sau drumul de acces care în realitate nu ajunge la teren. Cinci minute de privit o imagine pot economisi o rundă întreagă de clarificări.</p>"
+      "heading": "Rudele documentului: cu ce se confundă și când vă trebuie altceva",
+      "html": "<p>Extrasul pe ortofotoplan face parte dintr-o familie de documente „de vizualizare” care se confundă constant între ele, iar cererea greșită costă un drum și câteva zile. <strong>Planul de încadrare în zonă</strong> — piesa din documentațiile de urbanism care arată poziția imobilului la scară mică; se întocmește de proiectant sau topograf, nu se emite de OCPI. <strong>Captura de geoportal</strong> — gratuită și instantă, dar fără valoare de document oficial. <strong>Planul parcelar</strong> — evidența întregii tarlale, cu toate parcelele; relevant la terenurile agricole neintabulate, unde extrasul individual nu se poate emite. <strong>Extrasul de plan cadastral „simplu”</strong> (fără ortofoto) — conturul și vecinătățile din evidențe, pe fond alb; unele instituții îl cer în locul variantei pe ortofotoplan. Regula de aur când un ghid sau un funcționar cere „un plan al terenului”: cereți formularea exactă în scris și trimiteți-ne-o — potrivirea cererii cu documentul corect e o expertiză măruntă care economisește săptămâni.</p><p>Și o observație din practica dosarelor AFIR: evaluatorii folosesc extrasul pe ortofotoplan și ca instrument de bun-simț — comparați ce declară proiectul cu ce se vede din avion. Un beneficiar care își privește singur extrasul cu acest ochi critic, înainte de depunere, vede exact ce va vedea evaluatorul: inclusiv construcția „uitată” din colțul parcelei sau drumul de acces care în realitate nu ajunge la teren. Cinci minute de privit o imagine pot economisi o rundă întreagă de clarificări.</p>"
     },
     {
       "type": "cta",
-      "heading": "Îți trebuie extrasul pe ortofotoplan pentru dosar?",
-      "text": "Trimite-ne pe WhatsApp numărul cadastral și termenul depunerii — îl obținem noi și, la primire, îl verificăm gratuit de suprapuneri și deplasări."
+      "heading": "Vă trebuie extrasul pe ortofotoplan pentru dosar?",
+      "text": "Trimiteți-ne pe WhatsApp numărul cadastral și termenul depunerii — îl obținem noi și, la primire, îl verificăm gratuit de suprapuneri și deplasări."
     }
   ],
   "related": [
