@@ -461,7 +461,7 @@ function buildServiceLocality(ctx, service, loc, emitted) {
   // sibling that shares the variant almost never shares the surrounding sentences too.
   const variant = pickIntroVariant(service, loc, seed);
   const openerPool = [
-    `Căutați „${midSentence(service.name)} ${loc.name}"? Sunteți exact unde trebuie.`,
+    `Căutați „${midSentence(service.name)} ${loc.name}”?`,
     `${loc.name} face parte din aria noastră de lucru curentă pentru ${midSentence(service.shortName || service.name)}.`,
     `Biroul nostru din Aiud execută frecvent lucrări de ${midSentence(service.shortName || service.name)} în zona ${loc.name}.`,
     `Pentru proprietarii din ${loc.name}, iată cum decurge concret lucrarea și ce trebuie pregătit.`,
