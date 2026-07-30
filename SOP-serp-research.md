@@ -72,10 +72,9 @@ Read this in full before doing anything. Then follow it literally.
    statements about how a job is organised ("o singură deplasare pentru măsurători") — those
    describe the shape of the work, not a schedule, and were never the target of this rule.
 
-   The distinction: a **hedged range we already publish and stand behind** is fine. A **specific
-   claim about how fast a third party works**, or a tariff we have not verified, is not.
-   Exception already live and approved: *"răspundem de obicei în aceeași zi lucrătoare"* — that
-   is Aurel's own reply time, hedged, and it stays.
+   **THE ONE-LINE TEST:** is the number framed as an estimate, and is the reader told how to get
+   a real answer for their own case? If yes → allowed. If it reads as a commitment we have made
+   → not allowed.
 
    This overrides any competitor pattern for the forbidden items only.
 3. **All 12 services are equal priority.** No service is deprioritized as low-value.
