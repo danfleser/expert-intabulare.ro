@@ -161,6 +161,28 @@
         "q": "Banca mi-a cerut documentație cadastrală pentru credit. Ce înseamnă concret?",
         "a": "Înseamnă imobilul măsurat, cu număr cadastral și carte funciară deschisă pe numele dumneavoastră, plus planul de amplasament și delimitare și, la locuințe, releveele pe niveluri. Banca nu poate înscrie ipoteca pe un imobil care nu figurează în cartea funciară. Dacă aveți deja termen la bancă, spuneți-ne de la început și organizăm lucrarea în consecință."
       }
+    ],
+    "resources": [
+      {
+        "href": "/ghid/cum-verifici-daca-terenul-e-intabulat.html",
+        "label": "Cum verifici dacă imobilul este deja intabulat"
+      },
+      {
+        "href": "/ghid/suprafata-din-acte-difera-de-teren.html",
+        "label": "Suprafața din acte diferă de cea măsurată"
+      },
+      {
+        "href": "/dictionar/carte-funciara.html",
+        "label": "Carte funciară — ce este și ce conține"
+      },
+      {
+        "href": "/dictionar/certificat-de-atestare-a-edificarii.html",
+        "label": "Certificat de atestare a edificării construcției"
+      },
+      {
+        "href": "/dictionar/documentatie-cadastrala.html",
+        "label": "Documentație cadastrală — ce conține dosarul"
+      }
     ]
   },
   {
@@ -314,6 +336,32 @@
         "q": "Terenul e trecut la primărie și plătesc impozit pe el de zeci de ani. Nu înseamnă că e al meu?",
         "a": "Exact acesta este golul pe care îl acoperă înscrierea în cartea funciară. Rolul fiscal și evidența primăriei arată că folosiți terenul și că plătiți pentru el, dar nu vă fac proprietar în sensul cerut de notar sau de bancă. Numai cartea funciară vă dă dreptul de a vinde, de a ipoteca sau de a dezmembra. Cele două evidențe nu se exclud: adeverința de la primărie este chiar unul dintre actele dosarului."
       }
+    ],
+    "resources": [
+      {
+        "href": "/ghid/intabulare-teren-fara-acte.html",
+        "label": "Teren fără acte de proprietate: ce soluții există"
+      },
+      {
+        "href": "/ghid/cum-verifici-daca-terenul-e-intabulat.html",
+        "label": "Cum verificați dacă terenul este deja intabulat"
+      },
+      {
+        "href": "/ghid/suprafata-din-acte-difera-de-teren.html",
+        "label": "Suprafața din acte diferă de cea măsurată pe teren"
+      },
+      {
+        "href": "/dictionar/titlu-de-proprietate.html",
+        "label": "Titlu de proprietate — ce este și ce dovedește"
+      },
+      {
+        "href": "/dictionar/plan-parcelar.html",
+        "label": "Plan parcelar — cum se găsește parcela în tarla"
+      },
+      {
+        "href": "/dictionar/extravilan.html",
+        "label": "Extravilan — ce înseamnă pentru intabulare"
+      }
     ]
   },
   {
@@ -466,6 +514,32 @@
         "q": "Am demolat o construcție veche, dar ea apare încă în extrasul de carte funciară.",
         "a": "Trebuie radiată. Cât timp în cartea funciară figurează o construcție care nu mai există pe teren, notarul și banca văd o nepotrivire, iar tranzacția se blochează. Radierea se face pe baza autorizației de desființare, a procesului-verbal de recepție a lucrărilor de desființare și a unei documentații cadastrale de actualizare. Dacă în locul ei ați ridicat o construcție nouă, radierea și înscrierea se pot depune în același dosar."
       }
+    ],
+    "resources": [
+      {
+        "href": "/dictionar/certificat-de-atestare-a-edificarii.html",
+        "label": "Certificatul de atestare a edificării, explicat"
+      },
+      {
+        "href": "/dictionar/proces-verbal-de-receptie.html",
+        "label": "Proces-verbal de recepție: ce este și de ce îl cere OCPI"
+      },
+      {
+        "href": "/dictionar/inscrierea-constructiei.html",
+        "label": "Înscrierea construcției în cartea funciară"
+      },
+      {
+        "href": "/dictionar/radierea-constructiei.html",
+        "label": "Radierea unei construcții demolate"
+      },
+      {
+        "href": "/ghid/cum-verifici-daca-terenul-e-intabulat.html",
+        "label": "Cum verificați dacă terenul de sub casă este intabulat"
+      },
+      {
+        "href": "/ghid/intabulare-teren-fara-acte.html",
+        "label": "Teren fără acte de proprietate: soluțiile reale"
+      }
     ]
   },
   {
@@ -601,6 +675,28 @@
         "q": "Sunt plecat din țară. Se poate face cadastrul fără mine?",
         "a": "Da. Avem nevoie de acces în apartament pentru releveu, deci de o persoană de încredere care să ne deschidă — o rudă, un vecin, chiriașul. Pentru semnături se face o procură la notar sau la consulat, în care se trece expres cadastrul și înscrierea în cartea funciară. Actele ni le trimiteți scanate pe WhatsApp, iar extrasul final vi-l trimitem tot electronic."
       }
+    ],
+    "resources": [
+      {
+        "href": "/dictionar/releveu.html",
+        "label": "Releveu — planul interior al apartamentului"
+      },
+      {
+        "href": "/dictionar/unitate-individuala.html",
+        "label": "Unitate individuală — cum apare apartamentul în cartea funciară"
+      },
+      {
+        "href": "/dictionar/parti-comune.html",
+        "label": "Părți comune și cotele care revin apartamentului"
+      },
+      {
+        "href": "/dictionar/carte-funciara-colectiva.html",
+        "label": "Carte funciară colectivă — cartea blocului"
+      },
+      {
+        "href": "/dictionar/apartamentare.html",
+        "label": "Apartamentare — împărțirea clădirii în locuințe cu carte funciară proprie"
+      }
     ]
   },
   {
@@ -735,6 +831,24 @@
       {
         "q": "Am moștenit un teren împreună cu frații și vrem să-l împărțim. Este dezmembrare sau partaj?",
         "a": "Sunt două lucruri diferite care merg împreună. Dezmembrarea este operațiunea tehnică prin care terenul se împarte în loturi cu cărți funciare separate; partajul este actul notarial prin care se stabilește cine ia care lot. Întâi trebuie ca terenul să fie intabulat pe numele moștenitorilor, adică succesiunea să fie dezbătută. Apoi întocmim documentația de dezmembrare, iar notarul face partajul pe baza ei."
+      }
+    ],
+    "resources": [
+      {
+        "href": "/ghid/acte-necesare-dezmembrare-teren.html",
+        "label": "Acte necesare pentru dezmembrarea unui teren"
+      },
+      {
+        "href": "/dictionar/certificat-de-urbanism.html",
+        "label": "Certificat de urbanism — ce este și cine îl eliberează"
+      },
+      {
+        "href": "/dictionar/servitute-de-trecere.html",
+        "label": "Servitute de trecere — cum se asigură accesul unui lot"
+      },
+      {
+        "href": "/dictionar/comasare.html",
+        "label": "Comasare — celălalt nume al alipirii parcelelor"
       }
     ]
   },
@@ -878,6 +992,28 @@
         "q": "Îmi trebuie plan topografic și pentru PUZ, pentru scoaterea din circuitul agricol sau pentru branșamente?",
         "a": "Da, toate trei pornesc de la o ridicare topografică. Documentațiile de urbanism cer plan vizat OCPI pe o zonă mai largă decât lotul; scoaterea din circuitul agricol cere planul cu suprafața exactă care iese din folosința agricolă; iar branșamentele de apă, gaz sau curent se proiectează pe planul cu rețelele vizibile și cotele reale. Le întocmim pe toate."
       }
+    ],
+    "resources": [
+      {
+        "href": "/dictionar/certificat-de-urbanism.html",
+        "label": "Certificat de urbanism — ce este și ce vă cere"
+      },
+      {
+        "href": "/dictionar/plan-de-situatie.html",
+        "label": "Plan de situație — ce este și cu ce diferă"
+      },
+      {
+        "href": "/dictionar/receptie-tehnica-ocpi.html",
+        "label": "Recepție tehnică OCPI — ce înseamnă viza de pe plan"
+      },
+      {
+        "href": "/dictionar/curba-de-nivel.html",
+        "label": "Curbă de nivel — la ce folosește pe teren în pantă"
+      },
+      {
+        "href": "/dictionar/scoaterea-din-circuitul-agricol.html",
+        "label": "Scoaterea din circuitul agricol — ce presupune"
+      }
     ]
   },
   {
@@ -1011,6 +1147,24 @@
       {
         "q": "Trasați și hale, drumuri sau împrejmuiri lungi?",
         "a": "Da. Executăm orice lucrare care are un proiect cu coordonate: hale industriale, platforme, drumuri de incintă, rețele, împrejmuiri lungi. Pe șantierele mari lucrăm pe etape — axe și cotă zero la deschiderea lucrărilor, verificări ale geometriei pe parcursul execuției — și eliberăm câte un proces-verbal pentru fiecare etapă trasată. Ne deplasăm în toate zonele în care lucrăm."
+      }
+    ],
+    "resources": [
+      {
+        "href": "/dictionar/proces-verbal-de-trasare.html",
+        "label": "Proces-verbal de trasare"
+      },
+      {
+        "href": "/dictionar/trasarea-constructiilor.html",
+        "label": "Trasarea construcțiilor"
+      },
+      {
+        "href": "/dictionar/punct-de-hotar.html",
+        "label": "Punct de hotar"
+      },
+      {
+        "href": "/dictionar/stereografic-1970-stereo-70.html",
+        "label": "Stereografic 1970 (Stereo 70)"
       }
     ]
   },
@@ -1147,6 +1301,28 @@
         "q": "Cât costă o actualizare de carte funciară?",
         "a": "Orientativ 600 – 1.800 lei, în funcție de tipul actualizării, plus tarifele ANCPI pentru serviciul solicitat. O actualizare de adresă este cea mai simplă operațiune; o înscriere de construcție cu relevee pe niveluri stă la capătul celălalt. Trimiteți-ne pe WhatsApp extrasul de carte funciară și o descriere a ceea ce s-a schimbat, iar noi vă dăm devizul pentru situația dumneavoastră."
       }
+    ],
+    "resources": [
+      {
+        "href": "/dictionar/proces-verbal-de-vecinatate.html",
+        "label": "Proces-verbal de vecinătate — ce este"
+      },
+      {
+        "href": "/dictionar/rectificare-de-carte-funciara.html",
+        "label": "Rectificare de carte funciară — ce este"
+      },
+      {
+        "href": "/dictionar/actualizare-date-imobil.html",
+        "label": "Actualizare de date ale imobilului"
+      },
+      {
+        "href": "/dictionar/inscrierea-constructiei.html",
+        "label": "Înscrierea construcției în cartea funciară"
+      },
+      {
+        "href": "/dictionar/radierea-constructiei.html",
+        "label": "Radierea unei construcții demolate"
+      }
     ]
   },
   {
@@ -1238,6 +1414,28 @@
         "q": "Lucrați și pe șantiere mici, la o singură casă?",
         "a": "Da. O casă de locuit are nevoie de aceleași lucrări ca o hală, doar la altă scară: trasarea construcției înainte de săpătură, cota zero, verificarea fundației și a primului planșeu, iar la final măsurătoarea as-built. Nu punem condiție de suprafață sau de valoare a investiției. Ne ocupăm și de o anexă gospodărească, dacă asta aveți de trasat."
       }
+    ],
+    "resources": [
+      {
+        "href": "/dictionar/trasarea-constructiilor.html",
+        "label": "Trasarea construcțiilor"
+      },
+      {
+        "href": "/dictionar/proces-verbal-de-trasare.html",
+        "label": "Proces-verbal de trasare"
+      },
+      {
+        "href": "/dictionar/as-built.html",
+        "label": "As-built — documentația conform execuției"
+      },
+      {
+        "href": "/dictionar/nivelment.html",
+        "label": "Nivelment"
+      },
+      {
+        "href": "/dictionar/studiu-topografic.html",
+        "label": "Studiu topografic"
+      }
     ]
   },
   {
@@ -1322,6 +1520,32 @@
       {
         "q": "Mi-au cerut completări la dosar sau mi l-au respins. Ce fac acum?",
         "a": "Ne trimiteți nota de completare sau încheierea și o citim. De cele mai multe ori lipsește un act, o semnătură sau o corelare între suprafața din acte și cea măsurată — lucruri care se refac fără să reluați procedura de la capăt. Întocmim ce trebuie completat, redepunem dosarul și îl urmărim până la soluționare, inclusiv discuția cu registratorul."
+      }
+    ],
+    "resources": [
+      {
+        "href": "/ghid/cum-citesti-un-extras-de-carte-funciara.html",
+        "label": "Cum citești un extras de carte funciară"
+      },
+      {
+        "href": "/ghid/copie-plan-amplasament-arhiva-ocpi.html",
+        "label": "Copie după planul de amplasament din arhiva OCPI"
+      },
+      {
+        "href": "/ghid/numar-cadastral-cum-il-afli.html",
+        "label": "Cum afli numărul cadastral al unui imobil"
+      },
+      {
+        "href": "/dictionar/extras-de-carte-funciara-pentru-informare.html",
+        "label": "Extras de carte funciară pentru informare"
+      },
+      {
+        "href": "/dictionar/extras-de-plan-cadastral.html",
+        "label": "Extras de plan cadastral"
+      },
+      {
+        "href": "/dictionar/certificat-de-sarcini.html",
+        "label": "Certificat de sarcini"
       }
     ]
   },
@@ -1408,6 +1632,24 @@
       {
         "q": "Certificatul făcut în alt județ este valabil?",
         "a": "Da. Certificatul de performanță energetică este valabil în toată țara, la orice notar și pentru orice cumpărător — nu este legat de județul în care a fost emis, ci de clădirea pentru care a fost întocmit. Ce contează este ca imobilul descris în certificat să fie exact cel pe care îl vindeți sau îl închiriați."
+      }
+    ],
+    "resources": [
+      {
+        "href": "/dictionar/releveu.html",
+        "label": "Releveu — schița pe care se face calculul"
+      },
+      {
+        "href": "/dictionar/suprafata-utila.html",
+        "label": "Suprafață utilă"
+      },
+      {
+        "href": "/dictionar/proces-verbal-de-receptie.html",
+        "label": "Proces-verbal de recepție"
+      },
+      {
+        "href": "/dictionar/autentificare-notariala.html",
+        "label": "Autentificare notarială"
       }
     ]
   },
@@ -1501,6 +1743,32 @@
       {
         "q": "Ce trebuie să vă trimit ca să știu de la ce pornim?",
         "a": "Extrasul de carte funciară, dacă imobilul este înscris, actul de proprietate — titlu, contract sau certificat de moștenitor — și orice plan, schiță sau documentație veche pe care o aveți prin casă. Dacă sunteți deja în proces, adăugați încheierea de numire și obiectivele stabilite de instanță. Fotografiate cu telefonul este suficient. Ne uităm peste ele și vă spunem concret ce se poate face."
+      }
+    ],
+    "resources": [
+      {
+        "href": "/dictionar/expertiza-topografica-judiciara.html",
+        "label": "Expertiză topografică judiciară — ce este și când se dispune"
+      },
+      {
+        "href": "/dictionar/granituire.html",
+        "label": "Grănițuire — cum se stabilește linia de hotar"
+      },
+      {
+        "href": "/dictionar/uzucapiune.html",
+        "label": "Uzucapiune — proprietate prin posesie îndelungată"
+      },
+      {
+        "href": "/dictionar/hotarnicie.html",
+        "label": "Hotărnicie — numele vechi al stabilirii hotarului"
+      },
+      {
+        "href": "/ghid/notare-litigiu-in-cf.html",
+        "label": "Notarea litigiului în cartea funciară"
+      },
+      {
+        "href": "/ghid/suprafata-din-acte-difera-de-teren.html",
+        "label": "Suprafața din acte diferă de cea măsurată la teren"
       }
     ]
   }
