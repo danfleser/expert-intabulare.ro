@@ -260,12 +260,7 @@ function main() {
     }
   }
 
-  const demotedNotes = new Map();
-  for (const d of [...demotedData, ...demotedRender]) {
-    const [, cSlug, lSlug] = d.key.split('/');
-    demotedNotes.set(`${cSlug}/${lSlug}`, d.missing || d.reasons);
-  }
-  for (const c of counties) allPages.push(pages.buildCountyHub(ctx, c, emitted, demotedNotes));
+  for (const c of counties) allPages.push(pages.buildCountyHub(ctx, c, emitted));
 
   const guides = data.guides || [];
   for (const g of guides) allPages.push(pages.buildAuthoredPage(ctx, 'ghid', g, guides));

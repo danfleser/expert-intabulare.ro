@@ -1058,7 +1058,7 @@ function buildServiceCountyHub(ctx, service, county, emitted) {
 
 // ---------- county hub ----------
 
-function buildCountyHub(ctx, county, emitted, demotedNotes) {
+function buildCountyHub(ctx, county, emitted) {
   const { site } = ctx;
   const pagePath = `/zone/${county.slug}/index.html`;
   const locs = ctx.localities
@@ -1126,10 +1126,13 @@ function buildCountyHub(ctx, county, emitted, demotedNotes) {
         (vill.length > 1 ? ` — sate aparținătoare: ${vill.map(escHtml).join(', ')}.` : '.') +
         `</p>`;
     } else {
-      const note = demotedNotes.get(`${l.countySlug}/${l.slug}`);
+      // Safety net, not dead weight: it renders on zero pages today (0 data-gate and
+      // 0 render-gate demotions) but fires the moment any locality demotes, and the
+      // gate margins are effectively zero. Kept and rewritten rather than deleted —
+      // deleting the branch would leave `body` undefined on the page that needs it.
       body =
-        `<p class="fz-14 mb-0">Lucrăm și în ${escHtml(l.name)}${l.villages && l.villages.length ? ` (${l.villages.map(escHtml).join(', ')})` : ''} — ` +
-        `contactați-ne pe WhatsApp sau telefonic pentru orice serviciu de cadastru sau topografie.${note ? '' : ''}</p>`;
+        `<p class="fz-14 mb-0">Lucrăm și în ${escHtml(l.name)}${l.villages && l.villages.length ? ` (${l.villages.map(escHtml).join(', ')})` : ''}. ` +
+        `Scrieți-ne pe WhatsApp ce aveți de rezolvat.</p>`;
     }
     const kmCount = km === 0 ? 'sediul nostru' : km != null ? `aprox. ${km} km` : '';
     return (
