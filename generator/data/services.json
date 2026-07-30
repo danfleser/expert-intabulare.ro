@@ -2884,9 +2884,12 @@
       "Primiți certificatul electronic și în original, gata pentru notar."
     ],
     "documents": [
-      "Act de proprietate sau extras CF",
-      "Schița imobilului, dacă există",
-      "Informații despre încălzire, izolație și tâmplărie"
+      "Act de proprietate sau extras de carte funciară",
+      "Actul de identitate al proprietarului, pentru datele care apar pe certificat",
+      "Releveul sau schița locuinței, dacă există — dacă nu, îl întocmim noi la vizită",
+      "Anul construcției și, dacă s-au făcut, anii lucrărilor de renovare sau de izolare",
+      "Sistemul de încălzire și de preparare a apei calde",
+      "Starea izolației și a tâmplăriei — pereți, acoperiș, ferestre"
     ],
     "priceRange": "150 – 500 lei, orientativ, în funcție de imobil",
     "faqPool": [
