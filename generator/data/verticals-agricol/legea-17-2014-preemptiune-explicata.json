@@ -30,7 +30,7 @@
     {
       "type": "paragraph",
       "heading": "Cum funcționează practic rangurile",
-      "html": "<p>Regula este simplă în enunț și subtilă în aplicare: dacă mai mulți preemptori acceptă oferta, <strong>vânzătorul este obligat să vândă celui cu rangul cel mai bun</strong>, la prețul și în condițiile din oferta afișată. Dacă acceptă mai mulți preemptori de același rang, vânzătorul poate alege liber între ei — aceasta este singura marjă de decizie pe care i-o lasă legea în interiorul procedurii.</p><p>Un caz special, prevăzut expres: dacă pe terenul scos la vânzare se află investiții agricole pentru pomi, viță-de-vie, hamei sau irigații, proprietarii acestor investiții au prioritate la cumpărare. Este scenariul clasic al livezii sau al viei plantate de altcineva pe terenul tău.</p><p>Al doilea aspect practic, adesea ignorat: <strong>arendașul e preemptor de rang II</strong>, iar vecinii de tarla sunt de rang III. Într-o comună mică asta înseamnă că, în momentul afișării ofertei, jumătate din sat poate fi preemptor. Nu e un motiv de panică — cei mai mulți nu vor cumpăra — dar este motivul pentru care termenul de 45 de zile lucrătoare nu poate fi scurtat.</p>"
+      "html": "<p>Regula este simplă în enunț și subtilă în aplicare: dacă mai mulți preemptori acceptă oferta, <strong>vânzătorul este obligat să vândă celui cu rangul cel mai bun</strong>, la prețul și în condițiile din oferta afișată. Dacă acceptă mai mulți preemptori de același rang, vânzătorul poate alege liber între ei — aceasta este singura marjă de decizie pe care i-o lasă legea în interiorul procedurii.</p><p>Un caz special, prevăzut expres: dacă pe terenul scos la vânzare se află investiții agricole pentru pomi, viță-de-vie, hamei sau irigații, proprietarii acestor investiții au prioritate la cumpărare. Este scenariul clasic al livezii sau al viei plantate de altcineva pe terenul dumneavoastră.</p><p>Al doilea aspect practic, adesea ignorat: <strong>arendașul e preemptor de rang II</strong>, iar vecinii de tarla sunt de rang III. Într-o comună mică asta înseamnă că, în momentul afișării ofertei, jumătate din sat poate fi preemptor. Nu e un motiv de panică — cei mai mulți nu vor cumpăra — dar este motivul pentru care termenul de 45 de zile lucrătoare nu poate fi scurtat.</p>"
     },
     {
       "type": "process",
@@ -55,30 +55,30 @@
         "Înregistrarea la autoritățile fiscale române cu cel puțin 5 ani înainte de înregistrarea ofertei.",
         "Pentru persoanele juridice, condiții suplimentare privind veniturile obținute din activități agricole și domiciliul asociatului sau acționarului care deține controlul.",
         "Dacă niciun cumpărător nu îndeplinește aceste condiții în termenul legal, vânzarea se poate face către orice persoană fizică sau juridică, în condițiile legii.",
-        "Verifică întotdeauna cu notarul situația concretă — încadrarea în aceste condiții se dovedește cu acte, nu cu declarații."
+        "Verificați întotdeauna cu notarul situația concretă — încadrarea în aceste condiții se dovedește cu acte, nu cu declarații."
       ]
     },
     {
       "type": "paragraph",
       "heading": "Unde intervine topograful în toată povestea",
-      "html": "<p>Aparent, preempțiunea e o chestiune pur juridică. În practică, jumătate din dosarele care se blochează se blochează la partea tehnică: terenul nu e înscris în cartea funciară, sau este înscris cu o suprafață care nu corespunde realității, sau se descoperă o <a href=\"/teren-agricol/suprapunere-cadastrala-teren-agricol.html\">suprapunere</a> cu imobilul vecin exact când dosarul ajunge la notar.</p><p>Ce facem noi înainte ca tu să depui oferta: verificăm cartea funciară și sarcinile, confruntăm suprafața din acte cu cea măsurată, verificăm dacă geometria imobilului se suprapune peste vecini în e-Terra, și — dacă terenul nu e intabulat — facem <a href=\"/servicii/intabulare-teren/\">documentația de primă înscriere</a>. Toate acestea se pot face în paralel cu găsirea cumpărătorului, ceea ce scurtează cu săptămâni întregi durata totală.</p>"
+      "html": "<p>Aparent, preempțiunea e o chestiune pur juridică. În practică, jumătate din dosarele care se blochează se blochează la partea tehnică: terenul nu e înscris în cartea funciară, sau este înscris cu o suprafață care nu corespunde realității, sau se descoperă o <a href=\"/teren-agricol/suprapunere-cadastrala-teren-agricol.html\">suprapunere</a> cu imobilul vecin exact când dosarul ajunge la notar.</p><p>Ce facem noi înainte ca dumneavoastră să depuneți oferta: verificăm cartea funciară și sarcinile, confruntăm suprafața din acte cu cea măsurată, verificăm dacă geometria imobilului se suprapune peste vecini în e-Terra, și — dacă terenul nu e intabulat — facem <a href=\"/servicii/intabulare-teren/\">documentația de primă înscriere</a>. Toate acestea se pot face în paralel cu găsirea cumpărătorului, ceea ce scurtează cu săptămâni întregi durata totală.</p>"
     },
     {
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
         { "q": "Pot vinde direct unui vecin, fără să mai depun oferta la primărie?", "a": "Nu. Chiar dacă vecinul este preemptor de rang III, procedura trebuie parcursă — el își exercită dreptul în cadrul ei. O vânzare directă, fără afișarea ofertei, este lovită de nulitate absolută, iar notarul nu o va autentifica." },
-        { "q": "Ce fac dacă vreau să vând unei rude apropiate?", "a": "Rudele de gradul I, soțul sau soția și rudele și afinii până la gradul al treilea sunt preemptori de rang I — cel mai bun rang. Depui oferta, ruda comunică acceptarea în termen și vânzarea se face către ea, cu prioritate față de oricine altcineva." },
+        { "q": "Ce fac dacă vreau să vând unei rude apropiate?", "a": "Rudele de gradul I, soțul sau soția și rudele și afinii până la gradul al treilea sunt preemptori de rang I — cel mai bun rang. Depuneți oferta, ruda comunică acceptarea în termen și vânzarea se face către ea, cu prioritate față de oricine altcineva." },
         { "q": "Se aplică legea și la terenul agricol din intravilan?", "a": "Nu. Legea vizează terenurile agricole situate în extravilan. Un teren arabil aflat în intravilanul satului se vinde după regulile obișnuite — dar tot are nevoie de cadastru și carte funciară pentru autentificare." },
         { "q": "Cine verifică dacă am respectat procedura?", "a": "Notarul public, la autentificare, pe baza adeverinței eliberate de primărie și a avizului. Fără aceste documente actul nu se semnează. Ulterior, orice persoană interesată poate invoca nulitatea dacă procedura a fost ocolită." },
-        { "q": "Prețul din oferta afișată poate fi negociat ulterior?", "a": "Vânzarea trebuie să respecte condițiile din oferta afișată. Un preț mai mic decât cel comunicat preemptorilor pune actul sub riscul nulității. Dacă vrei să modifici prețul în jos, procedura se reia de la capăt." },
+        { "q": "Prețul din oferta afișată poate fi negociat ulterior?", "a": "Vânzarea trebuie să respecte condițiile din oferta afișată. Un preț mai mic decât cel comunicat preemptorilor pune actul sub riscul nulității. Dacă vreți să modificați prețul în jos, procedura se reia de la capăt." },
         { "q": "Cât ține procedura, cap-coadă, dacă nimeni nu acceptă?", "a": "Socotește două termene, nu unul. Întâi cele 45 de zile lucrătoare de afișare — aproximativ nouă săptămâni calendaristice, pentru că sărbătorile legale și weekendurile nu se numără. Apoi, dacă niciun preemptor nu a acceptat, încă 30 de zile calendaristice în care cumpărătorii potențiali își pot depune dosarul. La acestea se adaugă eliberarea adeverinței, avizul și programarea la notar. Este exact motivul pentru care partea de cadastru trebuie pornită în paralel, nu după." }
       ]
     },
     {
       "type": "cta",
-      "heading": "Ai nevoie de partea tehnică pusă la punct?",
-      "text": "Trimite-ne pe WhatsApp extrasul de carte funciară sau titlul de proprietate — verificăm dacă terenul e pregătit pentru vânzare și îți spunem ce mai trebuie făcut."
+      "heading": "Aveți nevoie de partea tehnică pusă la punct?",
+      "text": "Trimiteți-ne pe WhatsApp extrasul de carte funciară sau titlul de proprietate — verificăm dacă terenul e pregătit pentru vânzare și vă spunem ce mai trebuie făcut."
     }
   ],
   "related": [

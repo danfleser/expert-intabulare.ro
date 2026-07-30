@@ -41,7 +41,7 @@
     {
       "type": "paragraph",
       "heading": "Cât durează și ce poate merge prost",
-      "html": "<p>Termenul de emitere curge de la depunerea dosarului <strong>complet</strong> — și aici e capcana. Un dosar cu un extras de carte funciară expirat sau cu o adeverință în care numele cumpărătorului e scris greșit se întoarce, iar termenul o ia de la capăt. Recomandarea practică: pregătește extrasul de carte funciară cât mai aproape de momentul depunerii dosarului de aviz, nu la începutul procedurii de preempțiune.</p><p>Motivele obișnuite de refuz sau de amânare: neconcordanțe între datele terenului din ofertă și cele din cartea funciară; nerespectarea ordinii rangurilor la alegerea cumpărătorului; cumpărător care nu poate dovedi îndeplinirea condițiilor legale; documente lipsă din dosar. Niciunul dintre aceste motive nu este fatal — toate se repară — dar fiecare adaugă săptămâni.</p><p>Există și situația inversă, mai puțin cunoscută: dacă în termenul legal avizul nu este emis și nici nu se comunică un refuz motivat, legea prevede mecanisme de deblocare. Nu te baza însă pe ele; e mult mai simplu să depui un dosar corect.</p>"
+      "html": "<p>Termenul de emitere curge de la depunerea dosarului <strong>complet</strong> — și aici e capcana. Un dosar cu un extras de carte funciară expirat sau cu o adeverință în care numele cumpărătorului e scris greșit se întoarce, iar termenul o ia de la capăt. Recomandarea practică: pregătiți extrasul de carte funciară cât mai aproape de momentul depunerii dosarului de aviz, nu la începutul procedurii de preempțiune.</p><p>Motivele obișnuite de refuz sau de amânare: neconcordanțe între datele terenului din ofertă și cele din cartea funciară; nerespectarea ordinii rangurilor la alegerea cumpărătorului; cumpărător care nu poate dovedi îndeplinirea condițiilor legale; documente lipsă din dosar. Niciunul dintre aceste motive nu este fatal — toate se repară — dar fiecare adaugă săptămâni.</p><p>Există și situația inversă, mai puțin cunoscută: dacă în termenul legal avizul nu este emis și nici nu se comunică un refuz motivat, legea prevede mecanisme de deblocare. Nu vă baza însă pe ele; e mult mai simplu să depuneți un dosar corect.</p>"
     },
     {
       "type": "paragraph",
@@ -52,16 +52,16 @@
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
-        { "q": "Am nevoie de aviz dacă vând unei rude de gradul I?", "a": "Procedura de preempțiune și avizul se aplică vânzărilor de teren agricol extravilan. Ruda de gradul I este preemptor de rang I, dar asta nu înlătură etapele: se depune oferta, ruda acceptă, se obține avizul, apoi se autentifică. Notarul îți va confirma încadrarea exactă în cazul concret." },
+        { "q": "Am nevoie de aviz dacă vând unei rude de gradul I?", "a": "Procedura de preempțiune și avizul se aplică vânzărilor de teren agricol extravilan. Ruda de gradul I este preemptor de rang I, dar asta nu înlătură etapele: se depune oferta, ruda acceptă, se obține avizul, apoi se autentifică. Notarul vă va confirma încadrarea exactă în cazul concret." },
         { "q": "Terenul e sub un hectar. Tot trebuie aviz?", "a": "Da. Legea nu prevede o suprafață minimă sub care procedura să nu se aplice; suprafața determină doar cine emite avizul — direcția județeană până la 30 ha, ministerul peste." },
-        { "q": "Avizul are termen de valabilitate?", "a": "Da, avizul se folosește pentru încheierea contractului în forma și condițiile pentru care a fost emis. Dacă se schimbă cumpărătorul, prețul sau obiectul vânzării, dosarul trebuie refăcut. Programează notariatul imediat după obținerea avizului." },
+        { "q": "Avizul are termen de valabilitate?", "a": "Da, avizul se folosește pentru încheierea contractului în forma și condițiile pentru care a fost emis. Dacă se schimbă cumpărătorul, prețul sau obiectul vânzării, dosarul trebuie refăcut. Programați notariatul imediat după obținerea avizului." },
         { "q": "Cine depune dosarul de aviz, vânzătorul sau cumpărătorul?", "a": "De regulă vânzătorul, uneori prin notarul instrumentator, dar cumpărătorul trebuie să pună la dispoziție documentele care îl privesc. Practic, cei doi lucrează împreună; noi intervenim doar pe partea de documente tehnice ale terenului." }
       ]
     },
     {
       "type": "cta",
       "heading": "Datele terenului nu se potrivesc între acte?",
-      "text": "Trimite-ne pe WhatsApp extrasul de carte funciară și titlul de proprietate — îți spunem în aceeași zi ce nu se potrivește și cum se repară înainte de dosarul de aviz."
+      "text": "Trimiteți-ne pe WhatsApp extrasul de carte funciară și titlul de proprietate — vă spunem în aceeași zi ce nu se potrivește și cum se repară înainte de dosarul de aviz."
     }
   ],
   "related": [

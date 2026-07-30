@@ -11,7 +11,7 @@
     {
       "type": "paragraph",
       "heading": "Categoria de folosință nu este același lucru cu destinația",
-      "html": "<p>Este cea mai frecventă confuzie pe care o vedem la clienții care vor să-și facă o casă în sat. În cartea funciară scrie „arabil”, iar oamenii înțeleg că terenul nu se poate construi. În realitate, contează două informații diferite: <strong>unde se află terenul</strong> — în <a href=\"/dictionar/intravilan.html\">intravilan</a> sau în extravilan, conform planului urbanistic general — și <strong>ce categorie de folosință</strong> are înscrisă.</p><p>Un teren aflat în intravilan face deja parte din zona construibilă a localității, chiar dacă în acte figurează ca arabil, fâneață sau livadă. Ce poți construi acolo rezultă din <a href=\"/dictionar/pug.html\">PUG</a> și din regulamentul local de urbanism, nu din categoria de folosință. De aceea primul document pe care îl ceri nu este un aviz agricol, ci <a href=\"/dictionar/certificat-de-urbanism.html\">certificatul de urbanism</a>.</p>"
+      "html": "<p>Este cea mai frecventă confuzie pe care o vedem la clienții care vor să-și facă o casă în sat. În cartea funciară scrie „arabil”, iar oamenii înțeleg că terenul nu se poate construi. În realitate, contează două informații diferite: <strong>unde se află terenul</strong> — în <a href=\"/dictionar/intravilan.html\">intravilan</a> sau în extravilan, conform planului urbanistic general — și <strong>ce categorie de folosință</strong> are înscrisă.</p><p>Un teren aflat în intravilan face deja parte din zona construibilă a localității, chiar dacă în acte figurează ca arabil, fâneață sau livadă. Ce puteți construi acolo rezultă din <a href=\"/dictionar/pug.html\">PUG</a> și din regulamentul local de urbanism, nu din categoria de folosință. De aceea primul document pe care îl cereți nu este un aviz agricol, ci <a href=\"/dictionar/certificat-de-urbanism.html\">certificatul de urbanism</a>.</p>"
     },
     {
       "type": "table",
@@ -46,8 +46,8 @@
     },
     {
       "type": "paragraph",
-      "heading": "Ce citești în certificatul de urbanism",
-      "html": "<p>Certificatul de urbanism nu dă dreptul de a construi, ci îți spune ce reguli se aplică terenului tău. Trei rubrici contează cel mai mult. <strong>Regimul juridic</strong> — dacă terenul e în intravilan sau extravilan și dacă are servituți sau interdicții. <strong>Regimul economic</strong> — funcțiunea zonei conform PUG și categoria de folosință actuală. <strong>Regimul tehnic</strong> — indicatorii urbanistici (<a href=\"/dictionar/pot.html\">POT</a>, <a href=\"/dictionar/cut.html\">CUT</a>), regimul de înălțime, retragerile față de aliniament și față de limitele laterale, plus lista avizelor necesare.</p><p>Dacă în certificat scrie că este necesară schimbarea categoriei de folosință sau un plan urbanistic zonal, acela este drumul — nu există scurtături. Dacă nu scrie nimic despre categoria agricolă, înseamnă că, în acea localitate, ea se actualizează odată cu înscrierea construcției în cartea funciară.</p>"
+      "heading": "Ce citiți în certificatul de urbanism",
+      "html": "<p>Certificatul de urbanism nu dă dreptul de a construi, ci vă spune ce reguli se aplică terenului dumneavoastră. Trei rubrici contează cel mai mult. <strong>Regimul juridic</strong> — dacă terenul e în intravilan sau extravilan și dacă are servituți sau interdicții. <strong>Regimul economic</strong> — funcțiunea zonei conform PUG și categoria de folosință actuală. <strong>Regimul tehnic</strong> — indicatorii urbanistici (<a href=\"/dictionar/pot.html\">POT</a>, <a href=\"/dictionar/cut.html\">CUT</a>), regimul de înălțime, retragerile față de aliniament și față de limitele laterale, plus lista avizelor necesare.</p><p>Dacă în certificat scrie că este necesară schimbarea categoriei de folosință sau un plan urbanistic zonal, acela este drumul — nu există scurtături. Dacă nu scrie nimic despre categoria agricolă, înseamnă că, în acea localitate, ea se actualizează odată cu înscrierea construcției în cartea funciară.</p>"
     },
     {
       "type": "checklist",
@@ -64,7 +64,7 @@
     {
       "type": "paragraph",
       "heading": "Ordinea corectă a pașilor",
-      "html": "<p>Ordinea în care se fac lucrurile economisește cel mai mult timp și bani. Întâi <strong>intabularea</strong>, dacă terenul nu are carte funciară — fără ea nu se emite autorizație de construire pe numele tău și nu se poate înscrie nimic la final. Apoi <strong>certificatul de urbanism</strong>, care îți spune ce se cere. Apoi <strong>planul topografic recepționat</strong>, pe care lucrează proiectantul. Apoi eventualele proceduri suplimentare — <a href=\"/teren-agricol/schimbare-categorie-folosinta-teren.html\">schimbarea categoriei de folosință</a>, PUZ, avize. La final, autorizația și, după construire, înscrierea clădirii în cartea funciară.</p><p>Greșeala clasică este să se comande proiectul înainte de certificatul de urbanism. Se ajunge la proiecte refăcute de două ori, pentru că retragerile sau înălțimea admisă erau altele decât cele presupuse.</p>"
+      "html": "<p>Ordinea în care se fac lucrurile economisește cel mai mult timp și bani. Întâi <strong>intabularea</strong>, dacă terenul nu are carte funciară — fără ea nu se emite autorizație de construire pe numele dumneavoastră și nu se poate înscrie nimic la final. Apoi <strong>certificatul de urbanism</strong>, care vă spune ce se cere. Apoi <strong>planul topografic recepționat</strong>, pe care lucrează proiectantul. Apoi eventualele proceduri suplimentare — <a href=\"/teren-agricol/schimbare-categorie-folosinta-teren.html\">schimbarea categoriei de folosință</a>, PUZ, avize. La final, autorizația și, după construire, înscrierea clădirii în cartea funciară.</p><p>Greșeala clasică este să se comande proiectul înainte de certificatul de urbanism. Se ajunge la proiecte refăcute de două ori, pentru că retragerile sau înălțimea admisă erau altele decât cele presupuse.</p>"
     },
     {
       "type": "faq",
@@ -88,7 +88,7 @@
         },
         {
           "q": "Vecinul a construit pe un teren identic cu al meu, fără să schimbe nimic în acte. Eu de ce trebuie?",
-          "a": "Cel mai frecvent, pentru că a construit înainte ca primăria să ceară dovada schimbării categoriei de folosință la recepția construcției, sau pentru că terenul lui figura deja ca și curți-construcții din vechime. Regimul juridic se stabilește pentru fiecare imobil în parte, iar ce a fost tolerat acum zece ani nu creează un drept pentru tine astăzi. Documentul care tranșează discuția este certificatul de urbanism emis pe numărul tău cadastral — nu experiența vecinului."
+          "a": "Cel mai frecvent, pentru că a construit înainte ca primăria să ceară dovada schimbării categoriei de folosință la recepția construcției, sau pentru că terenul lui figura deja ca și curți-construcții din vechime. Regimul juridic se stabilește pentru fiecare imobil în parte, iar ce a fost tolerat acum zece ani nu creează un drept pentru dumneavoastră astăzi. Documentul care tranșează discuția este certificatul de urbanism emis pe numărul dumneavoastră cadastral — nu experiența vecinului."
         },
         {
           "q": "Cât durează, realist, drumul de la teren agricol în intravilan la autorizație de construire?",
@@ -98,8 +98,8 @@
     },
     {
       "type": "cta",
-      "heading": "Vrei să construiești pe un teren cu categorie agricolă?",
-      "text": "Trimite-ne pe WhatsApp extrasul de carte funciară și certificatul de urbanism — îți spunem ce documentație trebuie și dacă e nevoie de pași suplimentari."
+      "heading": "Vreți să construiți pe un teren cu categorie agricolă?",
+      "text": "Trimiteți-ne pe WhatsApp extrasul de carte funciară și certificatul de urbanism — vă spunem ce documentație trebuie și dacă e nevoie de pași suplimentari."
     }
   ],
   "related": [

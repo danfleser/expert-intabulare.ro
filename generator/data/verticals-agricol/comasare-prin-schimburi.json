@@ -1,8 +1,8 @@
 {
   "slug": "comasare-prin-schimburi",
   "title": "Comasare prin schimburi de parcele: strategia practică, lot cu lot | Expert Intabulare",
-  "h1": "Comasarea prin schimb: cum negociezi parcelă cu parcelă",
-  "metaDescription": "Cum alegi ce parcele schimbi ca să obții un lot compact, cum se echilibrează valorile prin sultă și ce documentație cadastrală cere fiecare schimb.",
+  "h1": "Comasarea prin schimb: cum negociați parcelă cu parcelă",
+  "metaDescription": "Cum alegeți ce parcele schimbați ca să obțineți un lot compact, cum se echilibrează valorile prin sultă și ce documentație cadastrală cere fiecare schimb.",
   "whatsappTopic": "un schimb de parcele pentru a-mi aduna terenul",
   "hook": "none",
   "trustBar": true,
@@ -11,20 +11,20 @@
     {
       "type": "paragraph",
       "heading": "Schimbul este unealta cea mai ieftină de comasare",
-      "html": "<p>Cumpărarea unei parcele vecine costă bani și trece prin procedura de preempțiune. Schimbul, în schimb, mută proprietatea fără să scoți capital din fermă: dai o parcelă de care nu ai nevoie și primești una care îți continuă lotul. Este, practic, singura formă de comasare pe care doi vecini o pot face singuri, fără program public și fără finanțare.</p><p>Problema nu e juridică, ci de strategie. Într-un sat cu 400 de proprietari, nu poți negocia cu toți. Comasarea prin schimb funcționează atunci când identifici <strong>puținele schimburi care contează</strong> — cele care transformă două fâșii separate într-un lot continuu — și le urmărești pe acelea, ani la rând dacă e nevoie.</p>"
+      "html": "<p>Cumpărarea unei parcele vecine costă bani și trece prin procedura de preempțiune. Schimbul, în schimb, mută proprietatea fără să scoți capital din fermă: dați o parcelă de care nu aveți nevoie și primiți una care vă continuă lotul. Este, practic, singura formă de comasare pe care doi vecini o pot face singuri, fără program public și fără finanțare.</p><p>Problema nu e juridică, ci de strategie. Într-un sat cu 400 de proprietari, nu puteți negocia cu toți. Comasarea prin schimb funcționează atunci când identificați <strong>puținele schimburi care contează</strong> — cele care transformă două fâșii separate într-un lot continuu — și le urmăriți pe acelea, ani la rând dacă e nevoie.</p>"
     },
     {
       "type": "paragraph",
-      "heading": "Cum alegi ce schimbi: regula continuității",
-      "html": "<p>Înainte de orice discuție cu vecinii, punem pe hartă toate parcelele tale și pe cele ale vecinilor direcți din tarlalele unde ai cel mai mult teren. Din acest desen ies, de regulă, trei categorii.</p><p><strong>Parcele-cheie</strong>: cele care despart două bucăți ale tale. Dacă le obții, câștigi continuitate — o singură intrare, un singur cap de brazdă, o singură parcelă declarată la APIA. Pentru ele merită să dai mai mult decât valoarea de piață. <strong>Parcele-monedă</strong>: cele izolate, departe de restul, pe care le lucrezi doar din inerție. Ele sunt marfa ta de schimb. <strong>Parcele neutre</strong>: nici nu ajută, nici nu încurcă — le lași la urmă.</p><p>Un schimb bun leagă o parcelă-monedă de o parcelă-cheie a vecinului. Cel mai des, vecinul are exact aceeași problemă în oglindă: și el are o parcelă izolată lângă lotul tău. Când discuția se poartă pe hartă, cu suprafețe măsurate, se ajunge la înțelegere mult mai repede decât în discuțiile din poartă.</p>"
+      "heading": "Cum alegeți ce schimbați: regula continuității",
+      "html": "<p>Înainte de orice discuție cu vecinii, punem pe hartă toate parcelele dumneavoastră și pe cele ale vecinilor direcți din tarlalele unde aveți cel mai mult teren. Din acest desen ies, de regulă, trei categorii.</p><p><strong>Parcele-cheie</strong>: cele care despart două bucăți ale dumneavoastră. Dacă le obțineți, câștigi continuitate — o singură intrare, un singur cap de brazdă, o singură parcelă declarată la APIA. Pentru ele merită să dați mai mult decât valoarea de piață. <strong>Parcele-monedă</strong>: cele izolate, departe de restul, pe care le lucrați doar din inerție. Ele sunt marfa dumneavoastră de schimb. <strong>Parcele neutre</strong>: nici nu ajută, nici nu încurcă — le lăsați la urmă.</p><p>Un schimb bun leagă o parcelă-monedă de o parcelă-cheie a vecinului. Cel mai des, vecinul are exact aceeași problemă în oglindă: și el are o parcelă izolată lângă lotul dumneavoastră. Când discuția se poartă pe hartă, cu suprafețe măsurate, se ajunge la înțelegere mult mai repede decât în discuțiile din poartă.</p>"
     },
     {
       "type": "table",
-      "heading": "Ce compari înainte de a accepta un schimb",
+      "heading": "Ce comparați înainte de a accepta un schimb",
       "head": [
         "Element",
         "De ce contează",
-        "Cum îl verifici"
+        "Cum îl verificați"
       ],
       "rows": [
         [
@@ -73,7 +73,7 @@
       "items": [
         "Schimbul „pe cuvânt”, lucrat ani la rând fără act — nu produce niciun drept și se destramă la prima succesiune.",
         "Compararea suprafețelor din titluri, nu a celor măsurate — diferențele de 5–10% sunt regula, nu excepția.",
-        "Ignorarea accesului: primești o parcelă mai mare, dar fără drum de exploatare.",
+        "Ignorarea accesului: primiți o parcelă mai mare, dar fără drum de exploatare.",
         "Uitarea contractelor de arendă existente pe terenul primit — arenda continuă și îl obligă pe noul proprietar.",
         "Nedeclararea schimbului la primărie și la APIA, ceea ce produce suprapuneri în campania următoare."
       ]
@@ -84,7 +84,7 @@
       "items": [
         {
           "q": "Ce este sulta și când apare?",
-          "a": "Sulta este suma de bani cu care se echilibrează un schimb între bunuri de valori diferite. Dacă parcela pe care o primești valorează mai mult, plătești diferența; ea se trece în contract și are consecințe fiscale, pe care notarul le explică la semnare."
+          "a": "Sulta este suma de bani cu care se echilibrează un schimb între bunuri de valori diferite. Dacă parcela pe care o primiți valorează mai mult, plătiți diferența; ea se trece în contract și are consecințe fiscale, pe care notarul le explică la semnare."
         },
         {
           "q": "Se poate schimba teren extravilan cu teren intravilan?",
@@ -100,7 +100,7 @@
         },
         {
           "q": "Cum aleg parcela pe care merită să o dau la schimb?",
-          "a": "Criteriul practic nu este suprafața, ci ce câștigi în continuitate. O parcelă mică, dar situată exact între două loturi pe care le deții deja, valorează în negociere mult mai mult decât una dublă ca suprafață, aflată izolată la trei kilometri. Începe prin a pune toate parcelele pe hartă și a marca cele care, prin schimb, ar uni două trupuri existente sau ar aduce un lot la drumul de exploatare — acelea sunt primele pe care le negociezi, și tot ele sunt cele pe care le poți oferi cel mai scump."
+          "a": "Criteriul practic nu este suprafața, ci ce câștigi în continuitate. O parcelă mică, dar situată exact între două loturi pe care le deții deja, valorează în negociere mult mai mult decât una dublă ca suprafață, aflată izolată la trei kilometri. Începeți prin a pune toate parcelele pe hartă și a marca cele care, prin schimb, ar uni două trupuri existente sau ar aduce un lot la drumul de exploatare — acelea sunt primele pe care le negociați, și tot ele sunt cele pe care le puteți oferi cel mai scump."
         },
         {
           "q": "Trebuie parcurse formalitățile Legii 17/2014 și la un schimb?",
@@ -110,8 +110,8 @@
     },
     {
       "type": "cta",
-      "heading": "Ai identificat un schimb care ți-ar lega lotul?",
-      "text": "Scrie-ne pe WhatsApp ce parcele sunt în discuție — verificăm situația juridică a amândurora și îți spunem ce documentație trebuie făcută."
+      "heading": "Ați identificat un schimb care v-ar lega lotul?",
+      "text": "Scrieți-ne pe WhatsApp ce parcele sunt în discuție — verificăm situația juridică a amândurora și vă spunem ce documentație trebuie făcută."
     }
   ],
   "related": [

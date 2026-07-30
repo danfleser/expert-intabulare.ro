@@ -11,7 +11,7 @@
     {
       "type": "paragraph",
       "heading": "„Știu că am pământ acolo, dar nu știu exact unde”",
-      "html": "<p>E poate cea mai frecventă frază pe care o auzim de la moștenitori. Părinții știau fiecare brazdă; generația care a plecat la oraș a rămas cu un <a href=\"/dictionar/titlu-de-proprietate.html\">titlu de proprietate</a> care spune „tarlaua 27, parcela 43/2, arabil, 0,72 ha” — și cu o amintire vagă despre „la Podul Turcului, lângă terenul lui Moldovan”. Identificarea parcelei este operațiunea prin care aceste informații fragmentare devin un poligon cert, cu coordonate, pe care se poate construi tot restul: intabulare, vânzare, arendare, declarație APIA.</p><p>Important de înțeles: identificarea nu e o formalitate, ci partea cu adevărat grea a cadastrului agricol. A măsura e simplu — a ști <em>ce</em> măsori, exact asta desparte un topograf cu experiență locală de o aplicație de telefon.</p>"
+      "html": "<p>E poate cea mai frecventă frază pe care o auzim de la moștenitori. Părinții știau fiecare brazdă; generația care a plecat la oraș a rămas cu un <a href=\"/dictionar/titlu-de-proprietate.html\">titlu de proprietate</a> care spune „tarlaua 27, parcela 43/2, arabil, 0,72 ha” — și cu o amintire vagă despre „la Podul Turcului, lângă terenul lui Moldovan”. Identificarea parcelei este operațiunea prin care aceste informații fragmentare devin un poligon cert, cu coordonate, pe care se poate construi tot restul: intabulare, vânzare, arendare, declarație APIA.</p><p>Important de înțeles: identificarea nu e o formalitate, ci partea cu adevărat grea a cadastrului agricol. A măsura e simplu — a ști <em>ce</em> măsurați, exact asta desparte un topograf cu experiență locală de o aplicație de telefon.</p>"
     },
     {
       "type": "process",
@@ -28,11 +28,11 @@
     {
       "type": "paragraph",
       "heading": "Capcanele clasice ale identificării",
-      "html": "<p>Câteva situații pe care le întâlnim constant în tarlalele din Alba, Cluj și Mureș. <strong>Parcela „glisată”</strong>: de-a lungul anilor, arăturile succesive au împins limitele întregului șir de parcele cu metri buni față de plan — fiecare vecin e „corect” față de vecinul lui, dar tot șirul e deplasat. <strong>Drumul de exploatare mâncat</strong>: drumul dintre tarlale a fost arat și inclus treptat în parcele, iar suprafețele „cresc” pe hârtie fără acoperire juridică. <strong>Ordinea inversată</strong>: în unele tarlale punerea în posesie s-a făcut de la celălalt capăt decât arată planul, iar toate parcelele sunt în oglindă. <strong>Folosința schimbată</strong>: parcela de <a href=\"/dictionar/arabil.html\">arabil</a> din titlu e azi pârloagă sau pășune, iar reperele de cultură au dispărut. Fiecare capcană are semnătura ei în teren și în acte — și fiecare, odată recunoscută, are o rezolvare documentabilă. Ce nu funcționează niciodată: să măsori „unde zice omul că e” fără să confrunți sursele — așa apar <a href=\"/teren-agricol/suprapunere-cadastrala-teren-agricol.html\">suprapunerile cadastrale</a> pe care alții le repară ani de zile.</p>"
+      "html": "<p>Câteva situații pe care le întâlnim constant în tarlalele din Alba, Cluj și Mureș. <strong>Parcela „glisată”</strong>: de-a lungul anilor, arăturile succesive au împins limitele întregului șir de parcele cu metri buni față de plan — fiecare vecin e „corect” față de vecinul lui, dar tot șirul e deplasat. <strong>Drumul de exploatare mâncat</strong>: drumul dintre tarlale a fost arat și inclus treptat în parcele, iar suprafețele „cresc” pe hârtie fără acoperire juridică. <strong>Ordinea inversată</strong>: în unele tarlale punerea în posesie s-a făcut de la celălalt capăt decât arată planul, iar toate parcelele sunt în oglindă. <strong>Folosința schimbată</strong>: parcela de <a href=\"/dictionar/arabil.html\">arabil</a> din titlu e azi pârloagă sau pășune, iar reperele de cultură au dispărut. Fiecare capcană are semnătura ei în teren și în acte — și fiecare, odată recunoscută, are o rezolvare documentabilă. Ce nu funcționează niciodată: să măsurați „unde zice omul că e” fără să confrunți sursele — așa apar <a href=\"/teren-agricol/suprapunere-cadastrala-teren-agricol.html\">suprapunerile cadastrale</a> pe care alții le repară ani de zile.</p>"
     },
     {
       "type": "checklist",
-      "heading": "Ce ne ajută să identificăm mai repede parcela ta",
+      "heading": "Ce ne ajută să identificăm mai repede parcela dumneavoastră",
       "items": [
         "Titlul de proprietate și, dacă există, procesul-verbal de punere în posesie cu schițe",
         "Orice act vechi cu vecinii menționați: contracte, registre agricole vechi, chitanțe de arendă",
@@ -47,7 +47,7 @@
       "items": [
         {
           "q": "Nu pot găsi parcela cu o aplicație GPS de telefon?",
-          "a": "Telefonul îți arată unde ești tu, nu unde e parcela — pentru asta trebuie ca cineva să fi stabilit deja limitele ei în coordonate. Dacă parcela nu e intabulată și tarlaua nu are plan parcelar georeferențiat, aplicația nu are ce să-ți afișeze. Exact acest gol îl umple identificarea."
+          "a": "Telefonul vă arată unde sunteți dumneavoastră, nu unde e parcela — pentru asta trebuie ca cineva să fi stabilit deja limitele ei în coordonate. Dacă parcela nu e intabulată și tarlaua nu are plan parcelar georeferențiat, aplicația nu are ce să vă afișeze. Exact acest gol îl umple identificarea."
         },
         {
           "q": "Vecinii nu mai trăiesc sau nu-i cunosc. Se mai poate identifica parcela?",
@@ -55,11 +55,11 @@
         },
         {
           "q": "Cât costă doar identificarea, fără intabulare?",
-          "a": "De regulă nu le separăm: identificarea e prima etapă a documentației cadastrale, iar costul ei e inclus în lucrare. Dacă vrei doar să afli unde e terenul (de exemplu înainte să decizi dacă îl vinzi), putem face o identificare preliminară cu raport — cere o ofertă pe WhatsApp."
+          "a": "De regulă nu le separăm: identificarea e prima etapă a documentației cadastrale, iar costul ei e inclus în lucrare. Dacă vreți doar să aflați unde e terenul (de exemplu înainte să decideți dacă îl vindeți), putem face o identificare preliminară cu raport — cereți o ofertă pe WhatsApp."
         },
         {
           "q": "Ce se întâmplă dacă identificarea arată că parcela e folosită de altcineva?",
-          "a": "Se documentează situația exact așa cum e — cine folosește, de când, pe ce se bazează — și îți prezentăm opțiunile: discuție amiabilă, notificare, grănițuire sau acțiune în instanță cu expertiză. Avem o pagină despre terenul trecut pe alt nume și una despre hotarul mutat de vecin."
+          "a": "Se documentează situația exact așa cum e — cine folosește, de când, pe ce se bazează — și vă prezentăm opțiunile: discuție amiabilă, notificare, grănițuire sau acțiune în instanță cu expertiză. Avem o pagină despre terenul trecut pe alt nume și una despre hotarul mutat de vecin."
         },
         {
           "q": "Titlul spune „tarlaua 42, parcela 118/3”. Ce înseamnă fiecare cifră?",
@@ -73,8 +73,8 @@
     },
     {
       "type": "cta",
-      "heading": "Nu știi exact unde e pământul familiei?",
-      "text": "Trimite-ne pe WhatsApp o poză după titlu și tot ce știi despre zonă — îți spunem ce șanse are identificarea și de unde începem."
+      "heading": "Nu știți exact unde e pământul familiei?",
+      "text": "Trimiteți-ne pe WhatsApp o poză după titlu și tot ce știți despre zonă — vă spunem ce șanse are identificarea și de unde începem."
     }
   ],
   "related": [

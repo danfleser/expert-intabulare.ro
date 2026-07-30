@@ -11,14 +11,14 @@
     {
       "type": "paragraph",
       "heading": "Ce înseamnă, de fapt, dezmembrarea",
-      "html": "<p><a href=\"/dictionar/dezmembrare.html\">Dezmembrarea</a> este operațiunea prin care un imobil înscris în cartea funciară se împarte în două sau mai multe imobile noi, fiecare cu <a href=\"/dictionar/numar-cadastral.html\">număr cadastral</a> propriu și carte funciară proprie. Pe teren nu se schimbă nimic — nu apare niciun gard, nicio bornă obligatorie — dar juridic, din momentul înscrierii, ai două sau mai multe bunuri distincte, care pot fi vândute, ipotecate sau moștenite separat.</p><p>Prima condiție, absolut nenegociabilă: <strong>terenul trebuie să fie deja intabulat</strong>. Nu se dezmembrează un teren care există doar în titlul de proprietate. Dacă parcela ta nu are carte funciară, ordinea este întâi <a href=\"/teren-agricol/prima-inregistrare-teren-agricol.html\">prima înregistrare</a>, apoi dezmembrarea — se pot depune și în același dosar, în etape succesive, dar nu se poate sări peste prima etapă.</p>"
+      "html": "<p><a href=\"/dictionar/dezmembrare.html\">Dezmembrarea</a> este operațiunea prin care un imobil înscris în cartea funciară se împarte în două sau mai multe imobile noi, fiecare cu <a href=\"/dictionar/numar-cadastral.html\">număr cadastral</a> propriu și carte funciară proprie. Pe teren nu se schimbă nimic — nu apare niciun gard, nicio bornă obligatorie — dar juridic, din momentul înscrierii, aveți două sau mai multe bunuri distincte, care pot fi vândute, ipotecate sau moștenite separat.</p><p>Prima condiție, absolut nenegociabilă: <strong>terenul trebuie să fie deja intabulat</strong>. Nu se dezmembrează un teren care există doar în titlul de proprietate. Dacă parcela dumneavoastră nu are carte funciară, ordinea este întâi <a href=\"/teren-agricol/prima-inregistrare-teren-agricol.html\">prima înregistrare</a>, apoi dezmembrarea — se pot depune și în același dosar, în etape succesive, dar nu se poate sări peste prima etapă.</p>"
     },
     {
       "type": "process",
       "heading": "Pașii unei dezmembrări, în ordine",
       "steps": [
         "Verificarea situației juridice — Extras de carte funciară pentru informare: cine e proprietar, ce sarcini există, dacă imobilul are interdicții de înstrăinare sau ipotecă.",
-        "Stabilirea loturilor — Discutăm cu tine ce vrei să obții: loturi egale, un lot de vânzare și restul păstrat, loturi pentru copii. Aici se decide și accesul fiecărui lot.",
+        "Stabilirea loturilor — Discutăm cu dumneavoastră ce vreți să obțineți: loturi egale, un lot de vânzare și restul păstrat, loturi pentru copii. Aici se decide și accesul fiecărui lot.",
         "Măsurătorile și proiectul de dezmembrare — Măsurăm imobilul, verificăm dacă suprafața din CF corespunde realității și trasăm liniile de despărțire în coordonate Stereo 70.",
         "Documentația cadastrală — Întocmim planul de amplasament și delimitare pentru fiecare lot rezultat, plus memoriul tehnic și planul de ansamblu.",
         "Recepția la OCPI — Documentația se depune prin e-Terra. După recepție, fiecare lot primește număr cadastral provizoriu.",
@@ -55,15 +55,15 @@
       "heading": "Întrebări frecvente",
       "items": [
         { "q": "Există o suprafață minimă sub care nu se poate dezmembra un teren agricol?", "a": "Nu există o limită unică, general aplicabilă, pentru extravilanul agricol, dar loturile trebuie să fie utilizabile și identificabile, iar regulamentele locale de urbanism pot impune condiții în intravilan. În practică, avertizăm clienții când loturile rezultate devin greu vandabile sau imposibil de lucrat mecanizat." },
-        { "q": "Pot dezmembra dacă terenul e în arendă?", "a": "Da. Contractul de arendă nu împiedică dezmembrarea, dar arenda continuă asupra loturilor rezultate până la expirare. Dacă intenționezi să vinzi un lot, spune-i cumpărătorului despre arendă din start — se transmite odată cu terenul." },
+        { "q": "Pot dezmembra dacă terenul e în arendă?", "a": "Da. Contractul de arendă nu împiedică dezmembrarea, dar arenda continuă asupra loturilor rezultate până la expirare. Dacă intenționați să vindeți un lot, spuneți-i cumpărătorului despre arendă din start — se transmite odată cu terenul." },
         { "q": "Dezmembrarea schimbă suprafața totală?", "a": "Nu. Suma loturilor trebuie să dea exact suprafața imobilului-mamă din cartea funciară. Dacă măsurătorile arată o suprafață reală diferită, se rezolvă întâi această diferență, prin actualizare de date sau rectificare, și abia apoi se dezmembrează." },
         { "q": "Am nevoie de certificat de urbanism pentru dezmembrarea unui teren agricol extravilan?", "a": "Pentru o simplă dezlipire în extravilan, de regulă nu. Certificatul de urbanism devine necesar în intravilan sau când dezmembrarea este parte dintr-o operațiune de parcelare cu scop de construire. Verificăm cazul concret cu primăria înainte de a începe." }
       ]
     },
     {
       "type": "cta",
-      "heading": "Vrei să împarți un teren în loturi?",
-      "text": "Trimite-ne pe WhatsApp numărul cadastral sau extrasul de carte funciară și spune-ne câte loturi vrei — îți spunem dacă se poate așa cum ți-ai imaginat și cât costă orientativ."
+      "heading": "Vreți să împarți un teren în loturi?",
+      "text": "Trimiteți-ne pe WhatsApp numărul cadastral sau extrasul de carte funciară și spuneți-ne câte loturi vreți — vă spunem dacă se poate așa cum v-ați imaginat și cât costă orientativ."
     }
   ],
   "related": [

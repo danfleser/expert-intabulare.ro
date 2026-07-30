@@ -11,7 +11,7 @@
     {
       "type": "paragraph",
       "heading": "Ce este prima înregistrare și când e nevoie de ea",
-      "html": "<p><a href=\"/dictionar/prima-inregistrare.html\">Prima înregistrare</a> (prima înscriere) este operațiunea prin care un imobil care nu a existat niciodată în sistemul integrat de cadastru și carte funciară intră în el: primește număr cadastral, geometrie în sistemul național de coordonate și carte funciară nou-deschisă. Pentru terenurile agricole din jurul Aiudului și din Câmpia Transilvaniei, aceasta e situația tipică — pământ stăpânit pe titlu de proprietate, act de vânzare vechi sau pur și simplu „din bătrâni”, dar invizibil pentru <a href=\"/dictionar/e-terra.html\">e-Terra</a>.</p><p>Ai nevoie de prima înscriere ori de câte ori vrei să faci cu terenul un act juridic modern: vânzare la notar, dezbatere succesorală urmată de împărțire, garanție bancară, dezmembrare, alipire, schimb, aport la o societate agricolă sau dosar de finanțare. Niciunul dintre aceste drumuri nu ocolește cartea funciară.</p>"
+      "html": "<p><a href=\"/dictionar/prima-inregistrare.html\">Prima înregistrare</a> (prima înscriere) este operațiunea prin care un imobil care nu a existat niciodată în sistemul integrat de cadastru și carte funciară intră în el: primește număr cadastral, geometrie în sistemul național de coordonate și carte funciară nou-deschisă. Pentru terenurile agricole din jurul Aiudului și din Câmpia Transilvaniei, aceasta e situația tipică — pământ stăpânit pe titlu de proprietate, act de vânzare vechi sau pur și simplu „din bătrâni”, dar invizibil pentru <a href=\"/dictionar/e-terra.html\">e-Terra</a>.</p><p>Aveți nevoie de prima înscriere ori de câte ori vreți să faceți cu terenul un act juridic modern: vânzare la notar, dezbatere succesorală urmată de împărțire, garanție bancară, dezmembrare, alipire, schimb, aport la o societate agricolă sau dosar de finanțare. Niciunul dintre aceste drumuri nu ocolește cartea funciară.</p>"
     },
     {
       "type": "process",
@@ -22,14 +22,14 @@
         "Măsurătorile — Determinăm limitele imobilului cu GPS RTK în prezența proprietarului și a vecinilor; întocmim procesul-verbal de vecinătate acolo unde regulamentul o cere.",
         "Documentația cadastrală — Redactăm planul de amplasament și delimitare (PAD), memoriul tehnic și calculul suprafețelor; asamblăm dosarul cu actele juridice și îl semnează proprietarul.",
         "Depunerea la OCPI — Dosarul pleacă electronic, în format CPXML. OCPI face recepția tehnică, atribuie numărul cadastral, apoi registratorul de carte funciară pronunță încheierea de intabulare.",
-        "Ridicarea documentelor — Primești încheierea, extrasul de carte funciară și planul recepționat. Din acest moment terenul există juridic și orice notar îl poate tranzacționa."
+        "Ridicarea documentelor — Primiți încheierea, extrasul de carte funciară și planul recepționat. Din acest moment terenul există juridic și orice notar îl poate tranzacționa."
       ]
     },
     {
       "type": "checklist",
       "heading": "Dosarul de primă înscriere — piesele standard",
       "items": [
-        "Cererea de recepție și înscriere (o semnezi la noi, o completăm noi)",
+        "Cererea de recepție și înscriere (o semnați la noi, o completăm noi)",
         "Actul de proprietate în copie legalizată sau conform cu originalul, după caz",
         "Certificatul fiscal eliberat de primărie, cu terenul la rol pe numele proprietarului",
         "Actele de identitate ale proprietarilor",
@@ -40,27 +40,27 @@
     {
       "type": "paragraph",
       "heading": "Termene, tarife și ce le poate da peste cap",
-      "html": "<p>Tariful OCPI pentru prima înscriere se plătește pe imobil, conform grilei ANCPI în vigoare, cu posibilitatea de urgență contra unui tarif majorat; onorariul topografului se adaugă separat și depinde de dificultatea identificării — cifrele exacte ți le dăm pe actele tale, nu „din burtă”. Ca termen, soluționarea OCPI durează de la câteva zile la câteva săptămâni. Ce poate lungi drumul: un <a href=\"/dictionar/referat-de-completare.html\">referat de completare</a> (OCPI cere lămuriri sau acte suplimentare — se întâmplă și la dosare bune), o <a href=\"/dictionar/suprapunere-de-imobile.html\">suprapunere</a> cu un imobil deja înscris, sau constatarea că tarlaua nu are <a href=\"/dictionar/plan-parcelar.html\">plan parcelar</a> coerent. Partea noastră de meserie e să prindem aceste probleme înainte de depunere, nu după: un dosar întors costă timp, iar timpul, la o vânzare cu cumpărător care așteaptă, costă bani.</p>"
+      "html": "<p>Tariful OCPI pentru prima înscriere se plătește pe imobil, conform grilei ANCPI în vigoare, cu posibilitatea de urgență contra unui tarif majorat; onorariul topografului se adaugă separat și depinde de dificultatea identificării — cifrele exacte vi le dăm pe actele dumneavoastră, nu „din burtă”. Ca termen, soluționarea OCPI durează de la câteva zile la câteva săptămâni. Ce poate lungi drumul: un <a href=\"/dictionar/referat-de-completare.html\">referat de completare</a> (OCPI cere lămuriri sau acte suplimentare — se întâmplă și la dosare bune), o <a href=\"/dictionar/suprapunere-de-imobile.html\">suprapunere</a> cu un imobil deja înscris, sau constatarea că tarlaua nu are <a href=\"/dictionar/plan-parcelar.html\">plan parcelar</a> coerent. Partea noastră de meserie e să prindem aceste probleme înainte de depunere, nu după: un dosar întors costă timp, iar timpul, la o vânzare cu cumpărător care așteaptă, costă bani.</p>"
     },
     {
       "type": "paragraph",
       "heading": "Prima înscriere pe posesie: cazul zonelor necooperativizate",
-      "html": "<p>Există un caz special, frecvent în satele de deal și de munte care nu au trecut prin colectivizare: pământ stăpânit continuu de aceeași familie, cu acte vechi incomplete sau doar cu evidența din registrul agricol. Pentru astfel de situații, legislația cadastrului permite, în anumite condiții, înscrierea <a href=\"/dictionar/posesie.html\">posesiei</a> de fapt — un mecanism care, combinat cu certificatele eliberate de primărie și cu trecerea timpului, poate duce la dobândirea proprietății depline. Este un drum cu reguli stricte și cu diferențe importante față de intabularea pe titlu — l-am detaliat pe pagina despre <a href=\"/teren-agricol/zona-cooperativizata-vs-necooperativizata.html\">zonele cooperativizate și necooperativizate</a>. Dacă nu ești sigur în ce categorie e satul tău, întreabă-ne — pentru comunele din Alba și din județele vecine știm de regulă răspunsul din experiență directă.</p>"
+      "html": "<p>Există un caz special, frecvent în satele de deal și de munte care nu au trecut prin colectivizare: pământ stăpânit continuu de aceeași familie, cu acte vechi incomplete sau doar cu evidența din registrul agricol. Pentru astfel de situații, legislația cadastrului permite, în anumite condiții, înscrierea <a href=\"/dictionar/posesie.html\">posesiei</a> de fapt — un mecanism care, combinat cu certificatele eliberate de primărie și cu trecerea timpului, poate duce la dobândirea proprietății depline. Este un drum cu reguli stricte și cu diferențe importante față de intabularea pe titlu — l-am detaliat pe pagina despre <a href=\"/teren-agricol/zona-cooperativizata-vs-necooperativizata.html\">zonele cooperativizate și necooperativizate</a>. Dacă nu sunteți sigur în ce categorie e satul dumneavoastră, întrebați-ne — pentru comunele din Alba și din județele vecine știm de regulă răspunsul din experiență directă.</p>"
     },
     {
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
         { "q": "Care e diferența dintre „prima înscriere” și „intabulare”?", "a": "Prima înscriere e operațiunea completă pentru un imobil care nu a fost niciodată în sistem: cadastru + deschiderea cărții funciare. Intabularea e înscrierea dreptului de proprietate în cartea funciară — la prima înscriere, cele două se fac împreună, într-un singur dosar." },
-        { "q": "Pot depune eu dosarul la OCPI, fără topograf?", "a": "Nu, la prima înscriere nu: documentația cadastrală poate fi întocmită și semnată doar de o persoană autorizată ANCPI. Actele juridice le aduci tu, partea tehnică și depunerea sunt treaba noastră." },
-        { "q": "Terenul apare deja pe geoportal la vecinul meu. Ce înseamnă?", "a": "Înseamnă că cineva a intabulat un imobil care acoperă, total sau parțial, terenul tău — o suprapunere. Prima înscriere nu mai poate trece până nu se lămurește; avem o pagină dedicată suprapunerilor cadastrale pe agricol." },
-        { "q": "E adevărat că statul face cadastrul gratuit?", "a": "Da, prin înregistrarea sistematică (PNCCF), care lucrează pe comune și pe sectoare cadastrale — dar numai acolo unde sunt contractate lucrări. Dacă sectorul tău e în lucru, aștepți și primești gratuit; dacă nu e, cadastrul sporadic plătit rămâne singura cale. Verificăm noi pentru tine, gratuit." }
+        { "q": "Pot depune eu dosarul la OCPI, fără topograf?", "a": "Nu, la prima înscriere nu: documentația cadastrală poate fi întocmită și semnată doar de o persoană autorizată ANCPI. Actele juridice le aduceți dumneavoastră, partea tehnică și depunerea sunt treaba noastră." },
+        { "q": "Terenul apare deja pe geoportal la vecinul meu. Ce înseamnă?", "a": "Înseamnă că cineva a intabulat un imobil care acoperă, total sau parțial, terenul dumneavoastră — o suprapunere. Prima înscriere nu mai poate trece până nu se lămurește; avem o pagină dedicată suprapunerilor cadastrale pe agricol." },
+        { "q": "E adevărat că statul face cadastrul gratuit?", "a": "Da, prin înregistrarea sistematică (PNCCF), care lucrează pe comune și pe sectoare cadastrale — dar numai acolo unde sunt contractate lucrări. Dacă sectorul dumneavoastră e în lucru, așteptați și primiți gratuit; dacă nu e, cadastrul sporadic plătit rămâne singura cale. Verificăm noi pentru dumneavoastră, gratuit." }
       ]
     },
     {
       "type": "cta",
-      "heading": "Vrei terenul în cartea funciară?",
-      "text": "Trimite-ne pe WhatsApp actele pe care le ai și comuna — îți răspundem cu pașii exacți, durata realistă și costul orientativ pentru prima înscriere."
+      "heading": "Vreți terenul în cartea funciară?",
+      "text": "Trimiteți-ne pe WhatsApp actele pe care le aveți și comuna — vă răspundem cu pașii exacți, durata realistă și costul orientativ pentru prima înscriere."
     }
   ],
   "related": [

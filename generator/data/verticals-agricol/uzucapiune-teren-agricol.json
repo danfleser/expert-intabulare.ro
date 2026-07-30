@@ -52,7 +52,7 @@
     {
       "type": "paragraph",
       "heading": "Unde nu funcționează",
-      "html": "<p>Merită spus limpede, ca să nu se piardă timp și bani.</p><p><strong>Pe terenurile cu titlu de proprietate emis altcuiva</strong>, discuția este de regulă una de fond funciar sau de revendicare, nu de uzucapiune. <strong>Pe terenurile aparținând domeniului public</strong> nu se poate uzucapa. <strong>Când ai stăpânit ca arendaș, comodatar sau simplu tolerat</strong>, posesia nu este sub nume de proprietar, deci nu produce efecte. Și <strong>când proprietarul te-a tulburat</strong> — te-a chemat în judecată, te-a somat, a intrat efectiv pe teren — continuitatea se rupe.</p><p>Există, în plus, o alternativă administrativă mai simplă pentru multe situații din satele noastre: <strong>notarea posesiei în cartea funciară</strong> în cadrul înregistrării sistematice, urmată, în condițiile legii cadastrului, de înscrierea dreptului de proprietate după trecerea termenului prevăzut. Acolo unde comuna intră în cadastrul sistematic, această cale este de departe cea mai ieftină și cea mai rapidă.</p>"
+      "html": "<p>Merită spus limpede, ca să nu se piardă timp și bani.</p><p><strong>Pe terenurile cu titlu de proprietate emis altcuiva</strong>, discuția este de regulă una de fond funciar sau de revendicare, nu de uzucapiune. <strong>Pe terenurile aparținând domeniului public</strong> nu se poate uzucapa. <strong>Când ați stăpânit ca arendaș, comodatar sau simplu tolerat</strong>, posesia nu este sub nume de proprietar, deci nu produce efecte. Și <strong>când proprietarul v-a tulburat</strong> — v-a chemat în judecată, v-a somat, a intrat efectiv pe teren — continuitatea se rupe.</p><p>Există, în plus, o alternativă administrativă mai simplă pentru multe situații din satele noastre: <strong>notarea posesiei în cartea funciară</strong> în cadrul înregistrării sistematice, urmată, în condițiile legii cadastrului, de înscrierea dreptului de proprietate după trecerea termenului prevăzut. Acolo unde comuna intră în cadastrul sistematic, această cale este de departe cea mai ieftină și cea mai rapidă.</p>"
     },
     {
       "type": "checklist",
@@ -89,18 +89,18 @@
         },
         {
           "q": "Cât costă și cât durează un dosar de uzucapiune?",
-          "a": "Este cea mai scumpă și cea mai lentă cale de a-ți dovedi un drept, motiv pentru care o recomandăm ultima. Se adaugă taxa judiciară de timbru calculată la valoarea terenului, onorariul de avocat, expertiza topografică dispusă de instanță și, adesea, mai multe termene de judecată pe parcursul a unu-doi ani. Partea de documentație tehnică pe care o facem noi pornește, orientativ, de la câteva sute de lei, dar ea este cea mai mică parte din costul total. Înainte de a porni pe acest drum, merită verificat dacă terenul nu poate fi obținut mai simplu — prin reconstituire, prin succesiune sau prin cumpărare de la proprietarul înscris."
+          "a": "Este cea mai scumpă și cea mai lentă cale de a vă dovedi un drept, motiv pentru care o recomandăm ultima. Se adaugă taxa judiciară de timbru calculată la valoarea terenului, onorariul de avocat, expertiza topografică dispusă de instanță și, adesea, mai multe termene de judecată pe parcursul a unu-doi ani. Partea de documentație tehnică pe care o facem noi pornește, orientativ, de la câteva sute de lei, dar ea este cea mai mică parte din costul total. Înainte de a porni pe acest drum, merită verificat dacă terenul nu poate fi obținut mai simplu — prin reconstituire, prin succesiune sau prin cumpărare de la proprietarul înscris."
         },
         {
           "q": "Comuna intră în cadastru sistematic anul viitor. Schimbă ceva pentru mine?",
-          "a": "Poate schimba mult. În cadrul înregistrării sistematice, pentru imobilele fără acte de proprietate se poate nota posesia în cartea funciară pe numele posesorului identificat la fața locului, iar legea cadastrului prevede condițiile în care, după trecerea termenului, se poate ajunge la înscrierea dreptului de proprietate. Este o cale administrativă, fără proces și fără taxe de timbru. Dacă lucrarea de cadastru sistematic este anunțată în comuna ta, cel mai util lucru pe care îl poți face este să fii prezent la măsurători și să arăți limitele — nu să deschizi între timp un proces."
+          "a": "Poate schimba mult. În cadrul înregistrării sistematice, pentru imobilele fără acte de proprietate se poate nota posesia în cartea funciară pe numele posesorului identificat la fața locului, iar legea cadastrului prevede condițiile în care, după trecerea termenului, se poate ajunge la înscrierea dreptului de proprietate. Este o cale administrativă, fără proces și fără taxe de timbru. Dacă lucrarea de cadastru sistematic este anunțată în comuna dumneavoastră, cel mai util lucru pe care îl puteți face este să fiți prezent la măsurători și să arătați limitele — nu să deschideți între timp un proces."
         }
       ]
     },
     {
       "type": "cta",
-      "heading": "Stăpânești un teren fără acte?",
-      "text": "Scrie-ne pe WhatsApp comuna și situația — verificăm întâi dacă terenul are titlu sau carte funciară, ca să știi pe ce drum ești înainte de a angaja un avocat."
+      "heading": "Stăpâniți un teren fără acte?",
+      "text": "Scrieți-ne pe WhatsApp comuna și situația — verificăm întâi dacă terenul are titlu sau carte funciară, ca să știți pe ce drum sunteți înainte de a angaja un avocat."
     }
   ],
   "related": [

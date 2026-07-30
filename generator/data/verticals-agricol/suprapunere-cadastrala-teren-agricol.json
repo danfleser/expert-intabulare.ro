@@ -11,7 +11,7 @@
     {
       "type": "paragraph",
       "heading": "Cum se descoperă, de obicei",
-      "html": "<p>Scenariul este aproape mereu același. Vrei să intabulezi o parcelă, documentația se depune la OCPI, iar în loc de încheiere de înscriere primești un referat de completare sau o respingere, cu mențiunea că imobilul se suprapune cu un altul, deja înscris. <a href=\"/dictionar/suprapunere-de-imobile.html\">Suprapunerea de imobile</a> înseamnă exact asta: două documentații cadastrale plasează, în coordonate, două imobile diferite peste aceeași porțiune de teren.</p><p>Este una dintre cele mai frecvente cauze de blocaj pe terenurile agricole din zona noastră — și, în majoritatea cazurilor, nu este vina nimănui în particular, ci consecința unei istorii de măsurători făcute în ani diferiți, cu tehnologii diferite, pe planuri parcelare de calități diferite.</p>"
+      "html": "<p>Scenariul este aproape mereu același. Vreți să intabulați o parcelă, documentația se depune la OCPI, iar în loc de încheiere de înscriere primiți un referat de completare sau o respingere, cu mențiunea că imobilul se suprapune cu un altul, deja înscris. <a href=\"/dictionar/suprapunere-de-imobile.html\">Suprapunerea de imobile</a> înseamnă exact asta: două documentații cadastrale plasează, în coordonate, două imobile diferite peste aceeași porțiune de teren.</p><p>Este una dintre cele mai frecvente cauze de blocaj pe terenurile agricole din zona noastră — și, în majoritatea cazurilor, nu este vina nimănui în particular, ci consecința unei istorii de măsurători făcute în ani diferiți, cu tehnologii diferite, pe planuri parcelare de calități diferite.</p>"
     },
     {
       "type": "table",
@@ -47,7 +47,7 @@
     {
       "type": "paragraph",
       "heading": "De unde vin, concret",
-      "html": "<p><strong>Planuri parcelare aproximative.</strong> În multe comune, <a href=\"/dictionar/plan-parcelar.html\">planul parcelar</a> al unei tarlale a fost întocmit prin scanarea și georeferențierea unor planuri vechi. Erorile de câțiva metri se propagă la toate parcelele din tarla.</p><p><strong>Măsurători vechi, în sisteme diferite.</strong> Documentațiile din primii ani ai cadastrului au fost transformate în Stereo 70 prin metode mai puțin precise decât cele de azi.</p><p><strong>Punerea în posesie făcută altfel decât în acte.</strong> Este cauza cea mai des întâlnită și cea mai delicată: proprietarii au fost puși în posesie „unde a fost loc”, iar titlurile au rămas cu numerele inițiale. În teren, întreaga tarla este deplasată cu o parcelă.</p><p><strong>Cadastrul sistematic.</strong> Acolo unde s-au înscris imobile în cadrul PNCCF pe baza posesiei sau a unor evidențe incomplete, pot apărea neconcordanțe cu documentațiile sporadice anterioare.</p>"
+      "html": "<p><strong>Planuri parcelare aproximative.</strong> În multe comune, <a href=\"/dictionar/plan-parcelar.html\">planul parcelar</a> al unei tarlale a fost întocmit prin scanarea și georeferențierea unor planuri vechi. Erorile de câțiva metri se propagă la toate parcelele din tarla.</p><p><strong>Măsurători vechi, în sisteme diferite.</strong> Documentațiile din primii ani aveți cadastrului au fost transformate în Stereo 70 prin metode mai puțin precise decât cele de azi.</p><p><strong>Punerea în posesie făcută altfel decât în acte.</strong> Este cauza cea mai des întâlnită și cea mai delicată: proprietarii au fost puși în posesie „unde a fost loc”, iar titlurile au rămas cu numerele inițiale. În teren, întreaga tarla este deplasată cu o parcelă.</p><p><strong>Cadastrul sistematic.</strong> Acolo unde s-au înscris imobile în cadrul PNCCF pe baza posesiei sau a unor evidențe incomplete, pot apărea neconcordanțe cu documentațiile sporadice anterioare.</p>"
     },
     {
       "type": "process",
@@ -64,12 +64,12 @@
     },
     {
       "type": "checklist",
-      "heading": "Ce ne trebuie de la tine ca să analizăm situația",
+      "heading": "Ce ne trebuie de la dumneavoastră ca să analizăm situația",
       "items": [
         "Titlul de proprietate sau actul de dobândire, în întregime, inclusiv anexele.",
         "Referatul de completare sau încheierea de respingere primită de la OCPI.",
         "Numărul cadastral al imobilului cu care se suprapune, dacă apare în referat.",
-        "Comuna, tarlaua și, dacă știi, numele vecinilor actuali.",
+        "Comuna, tarlaua și, dacă știți, numele vecinilor actuali.",
         "Disponibilitatea de a merge împreună în teren — cine cunoaște hotarele este informația cea mai valoroasă."
       ]
     },
@@ -95,18 +95,18 @@
         },
         {
           "q": "Suprapunerea e de doar câțiva metri pătrați. Merită deranjul?",
-          "a": "Depinde unde cade. O suprapunere de doi-trei metri pătrați într-un colț, provenită dintr-o transformare veche de coordonate, se rezolvă de regulă în cadrul documentației de actualizare și nu schimbă nimic în teren. Aceeași suprafață, dacă apare exact pe linia pe care vrei să ridici un gard sau pe traseul unui drum de acces, devine o problemă reală, pentru că materializezi în beton o limită contestată. Regula practică: dacă suprapunerea nu atinge nicio limită pe care urmează să o folosești sau să o construiești, poate aștepta; dacă o atinge, se rezolvă acum."
+          "a": "Depinde unde cade. O suprapunere de doi-trei metri pătrați într-un colț, provenită dintr-o transformare veche de coordonate, se rezolvă de regulă în cadrul documentației de actualizare și nu schimbă nimic în teren. Aceeași suprafață, dacă apare exact pe linia pe care vreți să ridicați un gard sau pe traseul unui drum de acces, devine o problemă reală, pentru că materializați în beton o limită contestată. Regula practică: dacă suprapunerea nu atinge nicio limită pe care urmează să o folosiți sau să o construiți, poate aștepta; dacă o atinge, se rezolvă acum."
         },
         {
           "q": "Ce se întâmplă cu subvenția APIA pe perioada în care suprapunerea nu e rezolvată?",
-          "a": "Cele două evidențe sunt separate: APIA lucrează cu blocuri fizice și cu declarații digitizate, nu cu numere cadastrale. O suprapunere în cartea funciară nu îți blochează automat plata, dar dacă limita reală e în discuție, foarte probabil apare și o suprapunere de declarații între tine și vecin. În practică, aceeași măsurătoare rezolvă ambele: coordonatele colțurilor reale servesc și la corectarea documentației cadastrale, și la redesenarea corectă a parcelei în aplicația geospațială."
+          "a": "Cele două evidențe sunt separate: APIA lucrează cu blocuri fizice și cu declarații digitizate, nu cu numere cadastrale. O suprapunere în cartea funciară nu vă blochează automat plata, dar dacă limita reală e în discuție, foarte probabil apare și o suprapunere de declarații între dumneavoastră și vecin. În practică, aceeași măsurătoare rezolvă ambele: coordonatele colțurilor reale servesc și la corectarea documentației cadastrale, și la redesenarea corectă a parcelei în aplicația geospațială."
         }
       ]
     },
     {
       "type": "cta",
-      "heading": "Ți-a fost respinsă documentația pentru suprapunere?",
-      "text": "Trimite-ne pe WhatsApp referatul de la OCPI și actele terenului — analizăm situația și îți spunem dacă e o deplasare de plan sau o suprapunere reală."
+      "heading": "V-a fost respinsă documentația pentru suprapunere?",
+      "text": "Trimiteți-ne pe WhatsApp referatul de la OCPI și actele terenului — analizăm situația și vă spunem dacă e o deplasare de plan sau o suprapunere reală."
     }
   ],
   "related": [

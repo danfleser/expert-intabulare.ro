@@ -2,7 +2,7 @@
   "slug": "intabulare-teren-agricol-mostenit",
   "title": "Intabulare teren agricol moștenit: succesiune și cadastru în ordinea corectă | Expert Intabulare",
   "h1": "Intabularea unui teren agricol moștenit",
-  "metaDescription": "Teren agricol moștenit: ce faci întâi — succesiunea sau cadastrul? Acte necesare, moștenitori multipli, titluri pe numele bunicilor, costuri orientative.",
+  "metaDescription": "Teren agricol moștenit: ce faceți întâi — succesiunea sau cadastrul? Acte necesare, moștenitori multipli, titluri pe numele bunicilor, costuri orientative.",
   "whatsappTopic": "intabularea unui teren agricol moștenit",
   "hook": "none",
   "trustBar": true,
@@ -27,7 +27,7 @@
     },
     {
       "type": "checklist",
-      "heading": "Actele pe care ți le va cere notarul și pe care le folosim și noi",
+      "heading": "Actele pe care vi le va cere notarul și pe care le folosim și noi",
       "items": [
         "Titlul de proprietate (original) și, dacă există, procesul-verbal de punere în posesie",
         "Certificatul de deces al titularului și al fiecărei verigi intermediare decedate",
@@ -41,7 +41,7 @@
     {
       "type": "paragraph",
       "heading": "Situațiile complicate pe care le vedem cel mai des",
-      "html": "<p><strong>Titlu emis pe „moștenitorii defunctului”.</strong> Este perfect valabil, dar nu spune cine sunt aceștia — legătura o face certificatul de moștenitor. Fără el, OCPI nu poate ști pe cine să înscrie.</p><p><strong>Moștenitori care nu se înțeleg.</strong> Cadastrul se poate face oricum: imobilul se înscrie pe toți, cu <a href=\"/dictionar/cota-parte.html\">cote-părți</a>. Împărțirea efectivă se face ulterior, prin <a href=\"/teren-agricol/partaj-teren-agricol-mostenitori.html\">partaj voluntar</a> la notar sau, dacă nu există acord, prin instanță.</p><p><strong>Un moștenitor a murit între timp.</strong> Se adaugă încă o succesiune în lanț. E motivul pentru care sfatul „faceți actele cât trăiesc părinții” nu e o vorbă goală: fiecare generație amânată înseamnă mai multe certificate, mai multe semnături și mai mulți bani.</p><p><strong>Parcelele nu se mai găsesc pe teren.</strong> Foarte frecvent la moștenitorii plecați de zeci de ani. Aici intervine <a href=\"/teren-agricol/identificare-parcela-tarla.html\">identificarea parcelei în tarla</a>: plan parcelar, ortofotoplanuri istorice, vecini, imobile deja înscrise.</p><p><strong>Terenul e lucrat de altcineva.</strong> Faptul că un vecin sau un fermier a arat parcela ani la rând nu îi dă drept de proprietate automat, dar poate genera pretenții. Documentăm situația exact așa cum e și îți arătăm opțiunile — inclusiv riscul de <a href=\"/teren-agricol/uzucapiune-teren-agricol.html\">uzucapiune</a> în cazurile vechi.</p>"
+      "html": "<p><strong>Titlu emis pe „moștenitorii defunctului”.</strong> Este perfect valabil, dar nu spune cine sunt aceștia — legătura o face certificatul de moștenitor. Fără el, OCPI nu poate ști pe cine să înscrie.</p><p><strong>Moștenitori care nu se înțeleg.</strong> Cadastrul se poate face oricum: imobilul se înscrie pe toți, cu <a href=\"/dictionar/cota-parte.html\">cote-părți</a>. Împărțirea efectivă se face ulterior, prin <a href=\"/teren-agricol/partaj-teren-agricol-mostenitori.html\">partaj voluntar</a> la notar sau, dacă nu există acord, prin instanță.</p><p><strong>Un moștenitor a murit între timp.</strong> Se adaugă încă o succesiune în lanț. E motivul pentru care sfatul „faceți actele cât trăiesc părinții” nu e o vorbă goală: fiecare generație amânată înseamnă mai multe certificate, mai multe semnături și mai mulți bani.</p><p><strong>Parcelele nu se mai găsesc pe teren.</strong> Foarte frecvent la moștenitorii plecați de zeci de ani. Aici intervine <a href=\"/teren-agricol/identificare-parcela-tarla.html\">identificarea parcelei în tarla</a>: plan parcelar, ortofotoplanuri istorice, vecini, imobile deja înscrise.</p><p><strong>Terenul e lucrat de altcineva.</strong> Faptul că un vecin sau un fermier a arat parcela ani la rând nu îi dă drept de proprietate automat, dar poate genera pretenții. Documentăm situația exact așa cum e și vă arătăm opțiunile — inclusiv riscul de <a href=\"/teren-agricol/uzucapiune-teren-agricol.html\">uzucapiune</a> în cazurile vechi.</p>"
     },
     {
       "type": "table",
@@ -59,7 +59,7 @@
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
-        { "q": "Pot face cadastrul înainte de succesiune, ca să câștig timp?", "a": "Uneori da, dar numai după ce verificăm actele. Măsurătorile și identificarea rămân valabile indiferent cine ajunge proprietar, însă dosarul nu se poate finaliza la OCPI fără actul care arată moștenitorii. Îți spunem clar dacă în cazul tău merită paralelizarea sau doar produce costuri fără rezultat." },
+        { "q": "Pot face cadastrul înainte de succesiune, ca să câștig timp?", "a": "Uneori da, dar numai după ce verificăm actele. Măsurătorile și identificarea rămân valabile indiferent cine ajunge proprietar, însă dosarul nu se poate finaliza la OCPI fără actul care arată moștenitorii. Vă spunem clar dacă în cazul dumneavoastră merită paralelizarea sau doar produce costuri fără rezultat." },
         { "q": "Suntem patru frați și doi sunt în străinătate. Trebuie să vină toți în țară?", "a": "Nu, dacă dau procură notarială unuia dintre voi sau unui împuternicit. Procura se poate face și la ambasadă sau consulat, ori la notar local cu apostilă și traducere legalizată. Pentru partea de teren, semnătura noastră de proces-verbal de vecinătate nu cere prezența tuturor." },
         { "q": "Bunicul are titlu pe 3 hectare în trei tarlale diferite. Se face o singură lucrare?", "a": "Se face un singur dosar de succesiune, dar fiecare parcelă primește propriul număr cadastral și propria carte funciară — deci sunt mai multe documentații cadastrale. Costul pe parcelă scade însă considerabil, pentru că identificarea și deplasarea se fac o singură dată." },
         { "q": "Titlul e pierdut. Se mai poate face ceva?", "a": "Da. Se obține duplicat, după publicarea declarației de pierdere în Monitorul Oficial al României, Partea a III-a, și pe baza cererii adresate comisiei de fond funciar. Avem o pagină dedicată acestei proceduri, cu actele exacte." }
@@ -67,8 +67,8 @@
     },
     {
       "type": "cta",
-      "heading": "Ai un teren rămas de la părinți sau bunici?",
-      "text": "Trimite-ne pe WhatsApp poze după titlu și spune-ne cine a decedat și când — îți spunem exact câte succesiuni sunt de făcut și în ce ordine mergem."
+      "heading": "Aveți un teren rămas de la părinți sau bunici?",
+      "text": "Trimiteți-ne pe WhatsApp poze după titlu și spuneți-ne cine a decedat și când — vă spunem exact câte succesiuni sunt de făcut și în ce ordine mergem."
     }
   ],
   "related": [

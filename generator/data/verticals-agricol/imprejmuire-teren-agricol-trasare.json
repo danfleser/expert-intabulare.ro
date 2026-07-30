@@ -11,7 +11,7 @@
     {
       "type": "paragraph",
       "heading": "Gardul mutat cu 40 de centimetri costă cât un proces",
-      "html": "<p>Un gard pare o lucrare simplă: stâlpi, plasă, o zi de muncă. În realitate, gardul este actul cel mai vizibil de afirmare a unei limite de proprietate — și, odată ridicat, devine referința pe care toată lumea o va folosi ani la rând. Dacă a fost pus greșit, îl va contesta cineva: vecinul de acum, cumpărătorul de peste zece ani sau moștenitorii.</p><p><a href=\"/dictionar/trasare.html\">Trasarea</a> este operațiunea inversă măsurării: în loc să măsurăm ce există în teren, materializăm în teren ceea ce există în acte. Pornim de la coordonatele din documentația cadastrală recepționată de OCPI și marcăm fizic, cu țăruși sau borne, colțurile imobilului tău — exact acolo unde le arată cartea funciară.</p>"
+      "html": "<p>Un gard pare o lucrare simplă: stâlpi, plasă, o zi de muncă. În realitate, gardul este actul cel mai vizibil de afirmare a unei limite de proprietate — și, odată ridicat, devine referința pe care toată lumea o va folosi ani la rând. Dacă a fost pus greșit, îl va contesta cineva: vecinul de acum, cumpărătorul de peste zece ani sau moștenitorii.</p><p><a href=\"/dictionar/trasare.html\">Trasarea</a> este operațiunea inversă măsurării: în loc să măsurăm ce există în teren, materializăm în teren ceea ce există în acte. Pornim de la coordonatele din documentația cadastrală recepționată de OCPI și marcăm fizic, cu țăruși sau borne, colțurile imobilului dumneavoastră — exact acolo unde le arată cartea funciară.</p>"
     },
     {
       "type": "table",
@@ -19,17 +19,17 @@
       "head": [
         "Operațiune",
         "Când se face",
-        "Ce obții"
+        "Ce obțineți"
       ],
       "rows": [
         [
           "Măsurare (ridicare topografică)",
-          "Când vrei să afli ce ai în teren",
+          "Când vreți să aflați ce aveți în teren",
           "Plan cu suprafața și limitele reale"
         ],
         [
           "Trasare",
-          "Când imobilul e deja intabulat și vrei limitele materializate",
+          "Când imobilul e deja intabulat și vreți limitele materializate",
           "Colțuri marcate în teren + proces-verbal de trasare"
         ],
         [
@@ -52,15 +52,15 @@
         "Dacă imobilul nu e intabulat, nu există ce trasa — se face întâi documentația cadastrală; altfel am materializa o limită fără suport în acte.",
         "Ne deplasăm în teren cu receptoare GNSS-RTK și materializăm punctele de hotar din inventarul de coordonate, cu precizie centimetrică.",
         "Marcăm colțurile durabil: țăruși metalici, borne sau repere pe elemente existente, în funcție de ce cere terenul.",
-        "Verificăm dacă limita trasată corespunde cu situația faptică — garduri vechi, brazde, plantații — și îți semnalăm orice diferență.",
-        "Întocmim procesul-verbal de trasare, cu schița punctelor materializate, semnat de noi și de tine.",
+        "Verificăm dacă limita trasată corespunde cu situația faptică — garduri vechi, brazde, plantații — și vă semnalăm orice diferență.",
+        "Întocmim procesul-verbal de trasare, cu schița punctelor materializate, semnat de noi și de dumneavoastră.",
         "Recomandăm invitarea vecinilor la trasare: o limită acceptată pe loc, în scris, previne aproape toate conflictele ulterioare."
       ]
     },
     {
       "type": "paragraph",
       "heading": "Ce se întâmplă când trasarea nu se potrivește cu realitatea",
-      "html": "<p>Se întâmplă des, mai ales pe terenurile de la marginea satului. Trasarea arată că gardul vechi este cu un metru în interiorul proprietății tale — sau, invers, că el ocupă din vecin. În acel moment ai o informație clară și trei variante.</p><p>Poți <strong>muta gardul pe limita corectă</strong>, discutând cu vecinul și consemnând înțelegerea în scris. Poți <strong>lăsa lucrurile așa cum sunt</strong>, dar cu asumarea faptului că problema se transmite mai departe. Sau, dacă vecinul contestă limita din acte, se ajunge la <a href=\"/dictionar/granituire.html\">grănițuire</a>: mai întâi prin înțelegere la notar, iar în lipsa ei prin instanță, unde <a href=\"/dictionar/expertiza-topografica-judiciara.html\">expertiza topografică</a> este proba principală.</p><p>Diferența pe care o face trasarea este că discuția se poartă pe cifre, nu pe impresii. Iar <a href=\"/dictionar/proces-verbal-de-trasare.html\">procesul-verbal de trasare</a>, semnat și datat, rămâne o probă utilă oricând în viitor.</p>"
+      "html": "<p>Se întâmplă des, mai ales pe terenurile de la marginea satului. Trasarea arată că gardul vechi este cu un metru în interiorul proprietății dumneavoastră — sau, invers, că el ocupă din vecin. În acel moment aveți o informație clară și trei variante.</p><p>Puteți <strong>muta gardul pe limita corectă</strong>, discutând cu vecinul și consemnând înțelegerea în scris. Puteți <strong>lăsa lucrurile așa cum sunt</strong>, dar cu asumarea faptului că problema se transmite mai departe. Sau, dacă vecinul contestă limita din acte, se ajunge la <a href=\"/dictionar/granituire.html\">grănițuire</a>: mai întâi prin înțelegere la notar, iar în lipsa ei prin instanță, unde <a href=\"/dictionar/expertiza-topografica-judiciara.html\">expertiza topografică</a> este proba principală.</p><p>Diferența pe care o face trasarea este că discuția se poartă pe cifre, nu pe impresii. Iar <a href=\"/dictionar/proces-verbal-de-trasare.html\">procesul-verbal de trasare</a>, semnat și datat, rămâne o probă utilă oricând în viitor.</p>"
     },
     {
       "type": "checklist",
@@ -70,8 +70,8 @@
         "Înainte de a planta o livadă, o vie sau un aliniament de pomi pe marginea parcelei.",
         "După o dezmembrare, pentru a materializa limita dintre loturile nou create.",
         "După un partaj, ca fiecare moștenitor să știe exact ce a primit.",
-        "Când cumperi teren și vrei să vezi în teren ce scrie în extras, înainte de a plăti.",
-        "Când terenul a fost lucrat de altcineva ani la rând și vrei să reiei folosința pe limitele reale."
+        "Când cumpărați teren și vreți să vedeți în teren ce scrie în extras, înainte de a plăti.",
+        "Când terenul a fost lucrat de altcineva ani la rând și vreți să reluați folosința pe limitele reale."
       ]
     },
     {
@@ -84,7 +84,7 @@
         },
         {
           "q": "Am nevoie de acordul vecinului pentru trasare?",
-          "a": "Nu, trasarea se face pe imobilul tău, pe baza actelor tale. Îl inviți însă în interesul tău: o limită materializată în prezența vecinului, consemnată în procesul-verbal, este mult mai greu de contestat ulterior."
+          "a": "Nu, trasarea se face pe imobilul dumneavoastră, pe baza actelor dumneavoastră. Îl inviți însă în interesul dumneavoastră: o limită materializată în prezența vecinului, consemnată în procesul-verbal, este mult mai greu de contestat ulterior."
         },
         {
           "q": "Țărușii se pot muta. Ce fac?",
@@ -96,18 +96,18 @@
         },
         {
           "q": "Am nevoie de autorizație de construire pentru un gard la teren agricol?",
-          "a": "Depinde de amplasament și de tipul împrejmuirii, iar răspunsul îl dă compartimentul de urbanism al primăriei, prin certificatul de urbanism. Regula pe care o vedem cel mai des în practică este că împrejmuirile la stradă și cele din intravilan intră în atenția urbanismului, în timp ce delimitările simple din extravilan au un regim mai permisiv. Nu ghici: un telefon la primărie înainte de a cumpăra stâlpii costă zero și te scutește de o desființare."
+          "a": "Depinde de amplasament și de tipul împrejmuirii, iar răspunsul îl dă compartimentul de urbanism al primăriei, prin certificatul de urbanism. Regula pe care o vedem cel mai des în practică este că împrejmuirile la stradă și cele din intravilan intră în atenția urbanismului, în timp ce delimitările simple din extravilan au un regim mai permisiv. Nu ghiciți: un telefon la primărie înainte de a cumpăra stâlpii costă zero și vă scutește de o desființare."
         },
         {
           "q": "Ce primesc, concret, la finalul unei trasări?",
-          "a": "Punctele materializate în teren — țăruși, borne sau țevi bătute, în funcție de ce alegi — plus un proces-verbal de trasare cu inventarul de coordonate al fiecărui punct în sistemul Stereo 70 și o schiță. Actul contează la fel de mult ca țărușii: dacă un punct dispare sau este mutat, oricine poate reface poziția exactă pe baza coordonatelor, fără să repete toată analiza actelor. Recomandăm și semnarea procesului-verbal de către vecinii prezenți."
+          "a": "Punctele materializate în teren — țăruși, borne sau țevi bătute, în funcție de ce alegeți — plus un proces-verbal de trasare cu inventarul de coordonate al fiecărui punct în sistemul Stereo 70 și o schiță. Actul contează la fel de mult ca țărușii: dacă un punct dispare sau este mutat, oricine poate reface poziția exactă pe baza coordonatelor, fără să repete toată analiza actelor. Recomandăm și semnarea procesului-verbal de către vecinii prezenți."
         }
       ]
     },
     {
       "type": "cta",
       "heading": "Pui gard anul acesta?",
-      "text": "Trimite-ne pe WhatsApp extrasul de carte funciară — venim, marcăm colțurile reale și îți dăm procesul-verbal de trasare, înainte să sapi primul stâlp."
+      "text": "Trimiteți-ne pe WhatsApp extrasul de carte funciară — venim, marcăm colțurile reale și vă dăm procesul-verbal de trasare, înainte să săpați primul stâlp."
     }
   ],
   "related": [

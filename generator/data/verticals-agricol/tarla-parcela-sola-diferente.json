@@ -1,7 +1,7 @@
 {
   "slug": "tarla-parcela-sola-diferente",
   "title": "Tarla, parcelă, solă: cum se citește corect un titlu de proprietate | Expert Intabulare",
-  "h1": "Tarla, parcelă, solă — ce înseamnă fiecare în titlul tău",
+  "h1": "Tarla, parcelă, solă — ce înseamnă fiecare în titlul dumneavoastră",
   "metaDescription": "Ce este tarlaua, ce este parcela, ce înseamnă sola și cum se citesc rândurile dintr-un titlu de proprietate emis după Legea 18/1991, cu vecinătăți și suprafețe.",
   "whatsappTopic": "citirea unui titlu de proprietate cu tarla și parcelă",
   "hook": "none",
@@ -27,16 +27,16 @@
     },
     {
       "type": "paragraph",
-      "heading": "Cum citești, rând cu rând, un titlu",
+      "heading": "Cum citiți, rând cu rând, un titlu",
       "html": "<p>Un titlu obișnuit are un tabel cu suprafețe, împărțit pe categorii de folosință: arabil, pășune, fâneață, vie, livadă, uneori pădure. Fiecare rând conține tarlaua, parcela, suprafața și, cel mai important, <strong>vecinătățile</strong> — la nord, sud, est, vest. Aceste patru nume de vecini sunt, în multe cazuri, singura informație care permite localizarea reală a parcelei, pentru că numerele de tarla și parcelă nu au sens fără planul la care se raportează.</p><p>Aici apare capcana pe care o explicăm cel mai des: <strong>numerotarea din titlu se raportează la planurile de fond funciar folosite de comisia locală în anii '90</strong>, nu la <a href=\"/dictionar/plan-cadastral.html\">planul cadastral</a> de azi și nu la numerotarea din alte comune. „Tarlaua 47, parcela 12” înseamnă altceva în fiecare UAT, iar în unele comune numerotarea s-a schimbat între timp, odată cu întocmirea <a href=\"/dictionar/plan-parcelar.html\">planului parcelar</a>.</p><p>De aceea, primul lucru pe care îl facem la o identificare este să obținem planul parcelar al tarlalei de la primărie sau de la OCPI și să verificăm corespondența: numărul din titlu, poziția din plan, vecinii declarați și situația din teren. Când toate patru se potrivesc, parcela e localizată; când nu, avem o problemă concretă de rezolvat, nu o presupunere.</p>"
     },
     {
       "type": "checklist",
-      "heading": "Ce verifici singur, în cinci minute, pe titlul tău",
+      "heading": "Ce verificați singur, în cinci minute, pe titlul dumneavoastră",
       "items": [
         "Numele titularilor — sunt toți moștenitorii trecuți sau doar unul dintre ei?",
         "Suprafața totală și suma suprafețelor pe rânduri — trebuie să coincidă.",
-        "Categoriile de folosință — arabil, pășune, fâneață, vie, livadă; ele determină ce poți declara la APIA.",
+        "Categoriile de folosință — arabil, pășune, fâneață, vie, livadă; ele determină ce puteți declara la APIA.",
         "Numerele de tarla și parcelă pentru fiecare rând, notate separat.",
         "Vecinătățile pe cele patru laturi — sunt cheia identificării în teren.",
         "Mențiunile de pe verso sau anexele, dacă există: rectificări, îndreptări de erori, mențiuni ale comisiei."
@@ -52,15 +52,15 @@
       "heading": "Întrebări frecvente",
       "items": [
         { "q": "În titlu scrie o suprafață, în teren am alta. Care e corectă?", "a": "Suprafața din titlu provine dintr-un calcul pe planuri vechi, la nivel de tarla, și poate diferi cu procente bune de realitate. Suprafața corectă este cea măsurată topografic pe limitele reale; ea se înscrie în cartea funciară la prima înregistrare." },
-        { "q": "Am două titluri cu aceeași tarla și parcele diferite. E o greșeală?", "a": "Nu neapărat — este situația normală când ai primit mai multe parcele în aceeași tarla, ceea ce se întâmplă des la reconstituire. Devine problemă doar dacă aceleași numere de parcelă apar în titluri diferite, caz în care se verifică la comisia locală." },
+        { "q": "Am două titluri cu aceeași tarla și parcele diferite. E o greșeală?", "a": "Nu neapărat — este situația normală când ați primit mai multe parcele în aceeași tarla, ceea ce se întâmplă des la reconstituire. Devine problemă doar dacă aceleași numere de parcelă apar în titluri diferite, caz în care se verifică la comisia locală." },
         { "q": "Ce fac dacă vecinii din titlu au murit demult?", "a": "Numele vecinilor din titlu rămân utile chiar și așa: ele indică poziția relativă în plan, nu proprietarul actual. Le folosim împreună cu planul parcelar pentru identificare, iar în teren discutăm cu cei care lucrează acum parcelele vecine." },
         { "q": "Titlul meu nu are numere de tarla și parcelă. E valabil?", "a": "Există titluri, mai ales din primii ani după 1991, cu descrieri sumare. Titlul rămâne act de proprietate, dar identificarea în teren cere mai multă muncă: plan parcelar, anexe ale comisiei locale, procese-verbale de punere în posesie și, uneori, titlurile vecinilor." }
       ]
     },
     {
       "type": "cta",
-      "heading": "Nu înțelegi ce scrie în titlul tău?",
-      "text": "Trimite-ne o poză pe WhatsApp — îți explicăm rând cu rând ce ai, unde se află și ce se poate intabula."
+      "heading": "Nu înțelegeți ce scrie în titlul dumneavoastră?",
+      "text": "Trimiteți-ne o poză pe WhatsApp — vă explicăm rând cu rând ce aveți, unde se află și ce se poate intabula."
     }
   ],
   "related": [

@@ -1,7 +1,7 @@
 {
   "slug": "teren-agricol-fara-cadastru-riscuri",
-  "title": "Teren agricol fără cadastru: ce riști la vânzare, moștenire și subvenții | Expert Intabulare",
-  "h1": "Ce riști dacă terenul agricol nu are cadastru și carte funciară",
+  "title": "Teren agricol fără cadastru: ce riscați la vânzare, moștenire și subvenții | Expert Intabulare",
+  "h1": "Ce riscați dacă terenul agricol nu are cadastru și carte funciară",
   "metaDescription": "Teren fără cadastru: nu poate fi vândut la notar, blochează succesiunea, complică dosarul APIA și finanțările. Riscurile reale și ordinea în care se repară.",
   "whatsappTopic": "un teren agricol care nu are cadastru",
   "hook": "none",
@@ -11,69 +11,69 @@
     {
       "type": "paragraph",
       "heading": "„Merge și așa” — până în ziua în care nu mai merge",
-      "html": "<p>Un teren agricol fără <a href=\"/dictionar/carte-funciara.html\">carte funciară</a> funcționează perfect atâta timp cât nu faci nimic cu el. Îl ari, îl semeni, îl dai în arendă pe bază de contract, plătești impozitul pe rol și viața merge înainte. Din acest motiv, sute de mii de hectare din România stau și azi doar pe <a href=\"/dictionar/titlu-de-proprietate.html\">titlul de proprietate</a> emis în anii '90, fără nicio înscriere în evidențele de <a href=\"/dictionar/cadastru.html\">cadastru</a>.</p><p>Problema apare exact în momentele în care terenul trebuie să facă altceva decât să producă: când se vinde, când moare proprietarul, când banca sau AFIR cere garanții, când APIA controlează dosarul. Atunci lipsa cadastrului nu mai e o formalitate amânată, ci un blocaj care costă timp — de regulă între câteva săptămâni și câteva luni — și, uneori, chiar tranzacția.</p><p>Mai jos sunt riscurile concrete, în ordinea în care le întâlnim la clienți, nu în ordinea în care apar în lege.</p>"
+      "html": "<p>Un teren agricol fără <a href=\"/dictionar/carte-funciara.html\">carte funciară</a> funcționează perfect atâta timp cât nu faceți nimic cu el. Îl arați, îl semănați, îl dați în arendă pe bază de contract, plătiți impozitul pe rol și viața merge înainte. Din acest motiv, sute de mii de hectare din România stau și azi doar pe <a href=\"/dictionar/titlu-de-proprietate.html\">titlul de proprietate</a> emis în anii '90, fără nicio înscriere în evidențele de <a href=\"/dictionar/cadastru.html\">cadastru</a>.</p><p>Problema apare exact în momentele în care terenul trebuie să facă altceva decât să producă: când se vinde, când moare proprietarul, când banca sau AFIR cere garanții, când APIA controlează dosarul. Atunci lipsa cadastrului nu mai e o formalitate amânată, ci un blocaj care costă timp — de regulă între câteva săptămâni și câteva luni — și, uneori, chiar tranzacția.</p><p>Mai jos sunt riscurile concrete, în ordinea în care le întâlnim la clienți, nu în ordinea în care apar în lege.</p>"
     },
     {
       "type": "table",
       "heading": "Riscurile, situație cu situație",
-      "head": ["Ce vrei să faci", "Ce se întâmplă fără cadastru", "Cât întârzie"],
+      "head": ["Ce vreți să faceți", "Ce se întâmplă fără cadastru", "Cât întârzie"],
       "rows": [
-        ["Vinzi terenul la notar", "Notarul nu poate autentifica: nu există extras de carte funciară pentru autentificare. Vânzarea se oprește.", "4–10 săptămâni pentru documentație + înscriere"],
+        ["Vindeți terenul la notar", "Notarul nu poate autentifica: nu există extras de carte funciară pentru autentificare. Vânzarea se oprește.", "4–10 săptămâni pentru documentație + înscriere"],
         ["Dezbați succesiunea", "Notarul poate dezbate moștenirea pe baza titlului, dar imobilul nu se poate înscrie pe moștenitori până nu are cadastru", "Se adaugă la durata succesiunii"],
-        ["Iei credit sau garantezi o finanțare", "Nu se poate constitui ipotecă pe un imobil neînscris în cartea funciară", "Blocant până la intabulare"],
-        ["Depui proiect AFIR / fonduri europene", "Dovada dreptului asupra terenului se face de regulă cu extras de carte funciară — actele pe rol nu sunt suficiente", "Poate rata sesiunea de depunere"],
-        ["Dezmembrezi sau alipești parcele", "Imposibil: operațiunile se fac numai asupra unor imobile deja înscrise", "Blocant"],
-        ["Aperi terenul de un vecin sau de un ocupant", "Nu ai poziție cu coordonate cu care să dovedești limita; totul se mută în expertiză judiciară", "Luni sau ani, cu costuri de proces"]
+        ["Luați credit sau garantați o finanțare", "Nu se poate constitui ipotecă pe un imobil neînscris în cartea funciară", "Blocant până la intabulare"],
+        ["Depuneți proiect AFIR / fonduri europene", "Dovada dreptului asupra terenului se face de regulă cu extras de carte funciară — actele pe rol nu sunt suficiente", "Poate rata sesiunea de depunere"],
+        ["Dezmembrați sau alipiți parcele", "Imposibil: operațiunile se fac numai asupra unor imobile deja înscrise", "Blocant"],
+        ["Apărați terenul de un vecin sau de un ocupant", "Nu aveți poziție cu coordonate cu care să dovediți limita; totul se mută în expertiză judiciară", "Luni sau ani, cu costuri de proces"]
       ]
     },
     {
       "type": "paragraph",
-      "heading": "Riscul pe care nimeni nu-l vede: terenul se „intabulează” fără tine",
-      "html": "<p>Cel mai neplăcut scenariu pe care îl întâlnim în tarlalele din Câmpia Transilvaniei nu e blocajul la notar, ci acesta: vecinul tău intabulează primul, iar în lipsa unui <a href=\"/dictionar/plan-parcelar.html\">plan parcelar</a> recepționat, documentația lui se poziționează aproximativ — și înghite o fâșie din parcela ta. Când ajungi și tu la OCPI, primești respingere pentru <a href=\"/dictionar/suprapunere-de-imobile.html\">suprapunere de imobile</a> și trebuie să repari o situație pe care nu ai creat-o.</p><p>Un al doilea scenariu, la fel de real: comuna intră în <a href=\"/dictionar/inregistrare-sistematica.html\">înregistrarea sistematică</a>, iar terenurile se înscriu pe baza informațiilor din teren și din registrul agricol. Dacă nu ești prezent, nu depui acte și nu verifici publicarea documentelor tehnice, imobilul poate fi înscris cu suprafață greșită, cu categorie de folosință greșită sau chiar cu posesor în loc de proprietar. Corectarea ulterioară este posibilă, dar mult mai lentă decât dacă îți susțineai dosarul la momentul potrivit.</p>"
+      "heading": "Riscul pe care nimeni nu-l vede: terenul se „intabulează” fără dumneavoastră",
+      "html": "<p>Cel mai neplăcut scenariu pe care îl întâlnim în tarlalele din Câmpia Transilvaniei nu e blocajul la notar, ci acesta: vecinul dumneavoastră intabulează primul, iar în lipsa unui <a href=\"/dictionar/plan-parcelar.html\">plan parcelar</a> recepționat, documentația lui se poziționează aproximativ — și înghite o fâșie din parcela dumneavoastră. Când ajungeți și dumneavoastră la OCPI, primiți respingere pentru <a href=\"/dictionar/suprapunere-de-imobile.html\">suprapunere de imobile</a> și trebuie să reparați o situație pe care nu aveți creat-o.</p><p>Un al doilea scenariu, la fel de real: comuna intră în <a href=\"/dictionar/inregistrare-sistematica.html\">înregistrarea sistematică</a>, iar terenurile se înscriu pe baza informațiilor din teren și din registrul agricol. Dacă nu sunteți prezent, nu depuneți acte și nu verificați publicarea documentelor tehnice, imobilul poate fi înscris cu suprafață greșită, cu categorie de folosință greșită sau chiar cu posesor în loc de proprietar. Corectarea ulterioară este posibilă, dar mult mai lentă decât dacă vă susțineai dosarul la momentul potrivit.</p>"
     },
     {
       "type": "checklist",
-      "heading": "Semnale că trebuie să te miști acum, nu „la anul”",
+      "heading": "Semnale că trebuie să vă mișcați acum, nu „la anul”",
       "items": [
         "Un proprietar din familie are peste 70 de ani și terenul e încă pe numele unui părinte decedat — costul succesiunii crește cu fiecare generație care se adaugă.",
-        "Ai primit ofertă de cumpărare sau te gândești să vinzi în următorul an.",
-        "Vecinii de tarla au început să se intabuleze — poziția lor devine referință pentru a ta.",
-        "Ai depus sau vrei să depui la APIA și primăria îți dă adeverință cu suprafață diferită de cea din titlu.",
-        "Pregătești un proiect cu finanțare (fermă, hală, plantație, panouri) pentru care se cere dovada dreptului asupra terenului.",
-        "Terenul e lucrat de altcineva de mai mulți ani și nu ai niciun act care să arate unde e limita."
+        "Ați primit ofertă de cumpărare sau vă gândiți să vindeți în următorul an.",
+        "Vecinii de tarla au început să se intabuleze — poziția lor devine referință pentru a dumneavoastră.",
+        "Ați depus sau vreți să depuneți la APIA și primăria vă dă adeverință cu suprafață diferită de cea din titlu.",
+        "Pregătiți un proiect cu finanțare (fermă, hală, plantație, panouri) pentru care se cere dovada dreptului asupra terenului.",
+        "Terenul e lucrat de altcineva de mai mulți ani și nu aveți niciun act care să arate unde e limita."
       ]
     },
     {
       "type": "process",
       "heading": "Ordinea corectă de reparație",
       "steps": [
-        "Inventarul actelor — Titlu de proprietate, proces-verbal de punere în posesie, certificate de moștenitor, contracte. Fotografiezi tot și trimiți pe WhatsApp; în 24 de ore știi dacă dosarul e simplu sau complicat.",
+        "Inventarul actelor — Titlu de proprietate, proces-verbal de punere în posesie, certificate de moștenitor, contracte. Fotografiați tot și trimiți pe WhatsApp; în 24 de ore știți dacă dosarul e simplu sau complicat.",
         "Verificarea situației juridice — Vedem dacă imobilul e deja înscris (uneori este, fără ca proprietarul să știe), dacă tarlaua are plan parcelar și dacă comuna e în program de cadastru sistematic.",
         "Rezolvarea lanțului de acte — Dacă titularul din titlu a decedat, succesiunea se face înainte sau în paralel; fără ea, înscrierea se face pe o persoană care nu mai există.",
-        "Identificarea și măsurarea — Suprapunem plan parcelar, ortofotoplan și imobilele vecine, apoi măsurăm cu GPS RTK și materializăm limitele împreună cu tine.",
+        "Identificarea și măsurarea — Suprapunem plan parcelar, ortofotoplan și imobilele vecine, apoi măsurăm cu GPS RTK și materializăm limitele împreună cu dumneavoastră.",
         "Depunerea la OCPI — Documentația pleacă electronic prin e-Terra. Termenul standard de soluționare este de ordinul săptămânilor; există și regim de urgență, cu tarif majorat.",
-        "Verificarea finală — Primești extrasul de carte funciară și numărul cadastral. Din acest moment terenul poate fi vândut, ipotecat, dezmembrat sau moștenit fără blocaje."
+        "Verificarea finală — Primiți extrasul de carte funciară și numărul cadastral. Din acest moment terenul poate fi vândut, ipotecat, dezmembrat sau moștenit fără blocaje."
       ]
     },
     {
       "type": "paragraph",
       "heading": "Cât costă amânarea, în cifre orientative",
-      "html": "<p>Costul unei prime înscrieri pe o parcelă de extravilan este, orientativ, de ordinul câtorva sute de lei onorariu plus tariful OCPI. Costul amânării nu se măsoară în lei, ci în opțiuni pierdute: o vânzare care se amână două luni poate însemna alt preț sau alt cumpărător; o succesiune nedezbătută la timp adaugă moștenitori și, implicit, semnături necesare; o suprapunere apărută între timp transformă o lucrare simplă într-una cu documentație de <a href=\"/dictionar/repozitionare-imobil.html\">repoziționare</a>, corespondență cu vecinul și, în cazuri rele, proces.</p><p>Există și o excepție onestă: dacă localitatea ta este cuprinsă într-un contract activ de <a href=\"/teren-agricol/cadastru-sistematic-vs-sporadic-agricol.html\">înregistrare sistematică</a> și nu ai nimic urgent de făcut cu terenul, așteptarea poate fi decizia rațională — înscrierea este gratuită pentru proprietar. Îți spunem sincer când ești în această situație, chiar dacă înseamnă că nu facem lucrarea.</p>"
+      "html": "<p>Costul unei prime înscrieri pe o parcelă de extravilan este, orientativ, de ordinul câtorva sute de lei onorariu plus tariful OCPI. Costul amânării nu se măsoară în lei, ci în opțiuni pierdute: o vânzare care se amână două luni poate însemna alt preț sau alt cumpărător; o succesiune nedezbătută la timp adaugă moștenitori și, implicit, semnături necesare; o suprapunere apărută între timp transformă o lucrare simplă într-una cu documentație de <a href=\"/dictionar/repozitionare-imobil.html\">repoziționare</a>, corespondență cu vecinul și, în cazuri rele, proces.</p><p>Există și o excepție onestă: dacă localitatea dumneavoastră este cuprinsă într-un contract activ de <a href=\"/teren-agricol/cadastru-sistematic-vs-sporadic-agricol.html\">înregistrare sistematică</a> și nu aveți nimic urgent de făcut cu terenul, așteptarea poate fi decizia rațională — înscrierea este gratuită pentru proprietar. Vă spunem sincer când sunteți în această situație, chiar dacă înseamnă că nu facem lucrarea.</p>"
     },
     {
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
-        { "q": "Plătesc impozit pe teren la primărie. Nu înseamnă că e al meu?", "a": "Rolul fiscal dovedește că plătești impozit, nu că ești proprietar. Sunt situații frecvente în care terenul figurează pe rol la o persoană și în titlu la alta. Dovada proprietății se face cu actul de proprietate și, pentru opozabilitate față de terți, cu înscrierea în cartea funciară." },
+        { "q": "Plătesc impozit pe teren la primărie. Nu înseamnă că e al meu?", "a": "Rolul fiscal dovedește că plătiți impozit, nu că sunteți proprietar. Sunt situații frecvente în care terenul figurează pe rol la o persoană și în titlu la alta. Dovada proprietății se face cu actul de proprietate și, pentru opozabilitate față de terți, cu înscrierea în cartea funciară." },
         { "q": "Am contract de arendă. Arendașul nu poate intabula terenul pe numele lui?", "a": "Nu. Arenda dă drept de folosință pe durata contractului, nu drept de proprietate, iar contractul nu poate sta la baza unei intabulări pe numele arendașului. Riscul real nu e acesta, ci ca limitele să se estompeze în timp, prin lucrări mecanizate care ignoră hotarele istorice." },
-        { "q": "Terenul e mic, sub un hectar. Merită cadastrul?", "a": "Depinde de ce urmează. Pentru o parcelă mică pe care o lucrezi și atât, poți amâna. Pentru orice tranzacție, moștenire sau finanțare, suprafața nu contează — actele se cer identic. Un truc practic: la parcele mici, gruparea lucrării cu vecinii sau cu alte parcele proprii reduce semnificativ costul pe parcelă." },
-        { "q": "Cât durează, realist, de la prima discuție la extrasul de carte funciară?", "a": "Pentru o parcelă cu acte curate și plan parcelar existent, socotește orientativ 4–8 săptămâni: măsurători, întocmirea documentației, depunere și soluționare la OCPI. Dosarele cu succesiuni nefăcute, titluri cu erori sau tarlale fără plan parcelar durează mai mult și îți spunem asta de la început." }
+        { "q": "Terenul e mic, sub un hectar. Merită cadastrul?", "a": "Depinde de ce urmează. Pentru o parcelă mică pe care o lucrați și atât, puteți amâna. Pentru orice tranzacție, moștenire sau finanțare, suprafața nu contează — actele se cer identic. Un truc practic: la parcele mici, gruparea lucrării cu vecinii sau cu alte parcele proprii reduce semnificativ costul pe parcelă." },
+        { "q": "Cât durează, realist, de la prima discuție la extrasul de carte funciară?", "a": "Pentru o parcelă cu acte curate și plan parcelar existent, socotește orientativ 4–8 săptămâni: măsurători, întocmirea documentației, depunere și soluționare la OCPI. Dosarele cu succesiuni nefăcute, titluri cu erori sau tarlale fără plan parcelar durează mai mult și vă spunem asta de la început." }
       ]
     },
     {
       "type": "cta",
-      "heading": "Vrei să știi în ce situație ești?",
-      "text": "Trimite-ne pe WhatsApp poze după titlul de proprietate și spune-ne comuna — îți răspundem cu ce riști concret și cu ce ordine de pași îți recomandăm."
+      "heading": "Vreți să știți în ce situație sunteți?",
+      "text": "Trimiteți-ne pe WhatsApp poze după titlul de proprietate și spuneți-ne comuna — vă răspundem cu ce riscați concret și cu ce ordine de pași vă recomandăm."
     }
   ],
   "related": [

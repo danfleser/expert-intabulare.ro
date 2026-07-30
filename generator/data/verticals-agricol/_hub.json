@@ -9,13 +9,13 @@
   "sections": [
     {
       "type": "paragraph",
-      "heading": "Pământul care lucrează pentru tine trebuie să existe și în acte",
-      "html": "<p>În jurul Aiudului, pe Valea Mureșului și în Câmpia Transilvaniei, cele mai multe terenuri agricole au o istorie complicată: reconstituite după <a href=\"/dictionar/legea-18-1991.html\">Legea 18/1991</a>, descrise în titluri de proprietate pe <a href=\"/dictionar/tarla.html\">tarlale</a> și parcele, lucrate în arendă sau „din bătrâni”, declarate la APIA — dar de multe ori neînscrise în cartea funciară. Câtă vreme doar cultivi, sistemul funcționează. În momentul în care vrei să vinzi, să moștenești, să comasezi, să construiești o anexă agricolă sau să accesezi o finanțare, lipsa cadastrului devine zidul de care se lovește totul.</p><p>Această secțiune a site-ului este scrisă pentru proprietarii de teren agricol, fermieri, arendași și moștenitori: explicăm, pe înțeles, cum se <a href=\"/servicii/intabulare-teren/\">intabulează un teren agricol</a>, cum se citește un titlu de proprietate, ce faci când suprafețele nu se potrivesc, cum funcționează vânzarea cu preempțiune după Legea 17/2014, ce măsurători cere un dosar APIA și cum se repară problemele frecvente — de la titluri pierdute la vecini care mută hotarul.</p>"
+      "heading": "Pământul care lucrează pentru dumneavoastră trebuie să existe și în acte",
+      "html": "<p>În jurul Aiudului, pe Valea Mureșului și în Câmpia Transilvaniei, cele mai multe terenuri agricole au o istorie complicată: reconstituite după <a href=\"/dictionar/legea-18-1991.html\">Legea 18/1991</a>, descrise în titluri de proprietate pe <a href=\"/dictionar/tarla.html\">tarlale</a> și parcele, lucrate în arendă sau „din bătrâni”, declarate la APIA — dar de multe ori neînscrise în cartea funciară. Câtă vreme doar cultivi, sistemul funcționează. În momentul în care vreți să vindeți, să moșteniți, să comasați, să construiți o anexă agricolă sau să accesați o finanțare, lipsa cadastrului devine zidul de care se lovește totul.</p><p>Această secțiune a site-ului este scrisă pentru proprietarii de teren agricol, fermieri, arendași și moștenitori: explicăm, pe înțeles, cum se <a href=\"/servicii/intabulare-teren/\">intabulează un teren agricol</a>, cum se citește un titlu de proprietate, ce faceți când suprafețele nu se potrivesc, cum funcționează vânzarea cu preempțiune după Legea 17/2014, ce măsurători cere un dosar APIA și cum se repară problemele frecvente — de la titluri pierdute la vecini care mută hotarul.</p>"
     },
     {
       "type": "table",
-      "heading": "Ce situație ai? Găsește-ți pagina",
-      "head": ["Situația ta", "De unde începi"],
+      "heading": "Ce situație aveți? Găsiți-vă pagina",
+      "head": ["Situația dumneavoastră", "De unde începeți"],
       "rows": [
         ["Am titlu de proprietate din anii '90, terenul nu e în cartea funciară", "Paginile despre intabularea cu titlu de proprietate și prima înregistrare"],
         ["Vreau să vând sau să cumpăr teren extravilan", "Paginile despre vânzarea cu preempțiune, Legea 17/2014 și verificările înainte de cumpărare"],
@@ -34,29 +34,29 @@
       "type": "checklist",
       "heading": "Primele 3 verificări pentru orice teren agricol",
       "items": [
-        "Caută actul de bază: titlul de proprietate, contractul de vânzare sau certificatul de moștenitor. Notează numărul de tarla și de parcelă din el.",
-        "Verifică dacă terenul are carte funciară: un extras de informare sau o căutare pe geoportalul ANCPI îți spune în câteva minute dacă imobilul e înscris.",
-        "Compară suprafața din acte cu ce folosești în realitate — diferențele mari sunt semnal de probleme de plan parcelar sau de vecinătăți și e bine să le afli înainte de orice tranzacție."
+        "Căutați actul de bază: titlul de proprietate, contractul de vânzare sau certificatul de moștenitor. Notați numărul de tarla și de parcelă din el.",
+        "Verificați dacă terenul are carte funciară: un extras de informare sau o căutare pe geoportalul ANCPI vă spune în câteva minute dacă imobilul e înscris.",
+        "Comparați suprafața din acte cu ce folosiți în realitate — diferențele mari sunt semnal de probleme de plan parcelar sau de vecinătăți și e bine să le aflați înainte de orice tranzacție."
       ]
     },
     {
       "type": "paragraph",
       "heading": "Cum lucrăm pe terenurile agricole",
-      "html": "<p>Suntem un birou de topografie și cadastru autorizat ANCPI, cu sediul în Aiud, și lucrăm pe teren în județul Alba și în județele vecine — Cluj, Mureș, Sibiu, Hunedoara. Terenul agricol este pâinea noastră de zi cu zi: identificăm parcele din titluri vechi suprapunând <a href=\"/dictionar/plan-parcelar.html\">planul parcelar</a>, ortofotoplanul și măsurătorile GPS, întocmim documentații de primă înscriere, dezmembrări, alipiri și planuri topografice, și ducem dosarele până la încheierea de carte funciară. Primul pas e întotdeauna gratuit: ne trimiți pe WhatsApp poze după actele pe care le ai, iar noi îți spunem sincer ce se poate face, cât durează realist și cât costă orientativ — inclusiv când răspunsul corect este „mai așteaptă, comuna ta intră în cadastrul sistematic gratuit”.</p>"
+      "html": "<p>Suntem un birou de topografie și cadastru autorizat ANCPI, cu sediul în Aiud, și lucrăm pe teren în județul Alba și în județele vecine — Cluj, Mureș, Sibiu, Hunedoara. Terenul agricol este pâinea noastră de zi cu zi: identificăm parcele din titluri vechi suprapunând <a href=\"/dictionar/plan-parcelar.html\">planul parcelar</a>, ortofotoplanul și măsurătorile GPS, întocmim documentații de primă înscriere, dezmembrări, alipiri și planuri topografice, și ducem dosarele până la încheierea de carte funciară. Primul pas e întotdeauna gratuit: ne trimiți pe WhatsApp poze după actele pe care le aveți, iar noi vă spunem sincer ce se poate face, cât durează realist și cât costă orientativ — inclusiv când răspunsul corect este „mai așteaptă, comuna dumneavoastră intră în cadastrul sistematic gratuit”.</p>"
     },
     {
       "type": "cta",
-      "heading": "Nu știi de unde să începi?",
-      "text": "Trimite-ne pe WhatsApp o poză după titlul de proprietate sau după actele pe care le ai — îți spunem în aceeași zi ce e de făcut și cu ce să începi."
+      "heading": "Nu știți de unde să începeți?",
+      "text": "Trimiteți-ne pe WhatsApp o poză după titlul de proprietate sau după actele pe care le aveți — vă spunem în aceeași zi ce e de făcut și cu ce să începeți."
     },
     {
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
-        { "q": "Cât costă intabularea unui teren agricol?", "a": "Orientativ, o primă înscriere pentru o parcelă de extravilan pornește de la câteva sute de lei ca onorariu, la care se adaugă tariful OCPI. Prețul exact depinde de comună, de starea planului parcelar și de numărul de parcele — la mai multe parcele în aceeași tarla, costul pe parcelă scade. Cere o ofertă cu actele în față." },
-        { "q": "Am doar titlul de proprietate din 1993. E suficient?", "a": "Titlul este actul de bază, dar nu ține loc de carte funciară. Pentru vânzare, moștenire, credit sau finanțare ai nevoie de cadastru și intabulare — titlul e punctul de plecare al documentației, iar noi ne ocupăm de restul." },
+        { "q": "Cât costă intabularea unui teren agricol?", "a": "Orientativ, o primă înscriere pentru o parcelă de extravilan pornește de la câteva sute de lei ca onorariu, la care se adaugă tariful OCPI. Prețul exact depinde de comună, de starea planului parcelar și de numărul de parcele — la mai multe parcele în aceeași tarla, costul pe parcelă scade. Cereți o ofertă cu actele în față." },
+        { "q": "Am doar titlul de proprietate din 1993. E suficient?", "a": "Titlul este actul de bază, dar nu ține loc de carte funciară. Pentru vânzare, moștenire, credit sau finanțare aveți nevoie de cadastru și intabulare — titlul e punctul de plecare al documentației, iar noi ne ocupăm de restul." },
         { "q": "Lucrați și în afara județului Alba?", "a": "Da — facem măsurători de teren în Alba și în județele vecine: Cluj, Mureș, Sibiu și Hunedoara. Depunerea la OCPI se face electronic, prin e-Terra, deci distanța până la un birou de cadastru nu mai contează." },
-        { "q": "Comuna mea e în programul de cadastru gratuit. Mai are rost să plătesc?", "a": "Depinde de ce urmează să faci cu terenul. Dacă vinzi sau ai nevoie de acte în lunile următoare, cadastrul sporadic plătit e de regulă singura opțiune rapidă. Dacă nu te grăbește nimic, așteptarea înregistrării sistematice poate fi decizia corectă — îți spunem deschis în care situație ești, avem o pagină dedicată exact acestui calcul." }
+        { "q": "Comuna mea e în programul de cadastru gratuit. Mai are rost să plătesc?", "a": "Depinde de ce urmează să faceți cu terenul. Dacă vindeți sau aveți nevoie de acte în lunile următoare, cadastrul sporadic plătit e de regulă singura opțiune rapidă. Dacă nu vă grăbește nimic, așteptarea înregistrării sistematice poate fi decizia corectă — vă spunem deschis în care situație sunteți, avem o pagină dedicată exact acestui calcul." }
       ]
     }
   ],

@@ -11,7 +11,7 @@
     {
       "type": "paragraph",
       "heading": "Ce înseamnă, de fapt, o suprapunere",
-      "html": "<p>Sistemul APIA nu compară nume de proprietari, ci poligoane. Când doi fermieri desenează în aplicația geospațială suprafețe care se ating sau se acoperă parțial, sistemul semnalează suprapunerea și oprește plata pentru porțiunea comună, până la clarificare. Ghidurile LPIS spun răspicat consecința: dublă declarare a terenului și nerealizarea de plăți pentru suprafața suprapusă delimitată de fermieri, la care se adaugă penalizări conform legislației în vigoare atunci când se constată supradeclarare.</p><p>Vestea bună este că majoritatea suprapunerilor din zona noastră nu sunt fraude, ci erori de desen. Vestea proastă este că, până le lămurești, banii stau pe loc — iar termenele campaniei nu așteaptă.</p>"
+      "html": "<p>Sistemul APIA nu compară nume de proprietari, ci poligoane. Când doi fermieri desenează în aplicația geospațială suprafețe care se ating sau se acoperă parțial, sistemul semnalează suprapunerea și oprește plata pentru porțiunea comună, până la clarificare. Ghidurile LPIS spun răspicat consecința: dublă declarare a terenului și nerealizarea de plăți pentru suprafața suprapusă delimitată de fermieri, la care se adaugă penalizări conform legislației în vigoare atunci când se constată supradeclarare.</p><p>Vestea bună este că majoritatea suprapunerilor din zona noastră nu sunt fraude, ci erori de desen. Vestea proastă este că, până le lămuriți, banii stau pe loc — iar termenele campaniei nu așteaptă.</p>"
     },
     {
       "type": "table",
@@ -46,31 +46,31 @@
     },
     {
       "type": "process",
-      "heading": "Pașii de urmat când primești notificarea",
+      "heading": "Pașii de urmat când primiți notificarea",
       "steps": [
-        "Nu ignora termenul din notificare — suprapunerile nelămurite se soluționează în defavoarea ambelor părți, nu se sting de la sine.",
-        "Identifică celălalt fermier. În aplicație vezi suprapunerea; la centrul local APIA afli cu cine trebuie să discuți, în limitele permise de lege.",
-        "Verifică ce ai declarat tu: deschide parcela în aplicație și compar-o cu ortofotoplanul și cu limitele reale pe care le lucrezi.",
-        "Adună actele care dovedesc dreptul de folosință: titlul, extrasul de carte funciară, contractul de arendă înregistrat la primărie, adeverința din registrul agricol.",
-        "Dacă limita reală e în discuție, cheamă un topograf: măsurăm colțurile parcelei și suprapunem rezultatul peste ambele declarații.",
-        "Depune la APIA memoriul cu documentele și planul de situație; dacă ambele părți acceptă corectarea, fiecare își redesenează parcela în limitele reale.",
+        "Nu ignorați termenul din notificare — suprapunerile nelămurite se soluționează în defavoarea ambelor părți, nu se sting de la sine.",
+        "Identificați celălalt fermier. În aplicație vedeți suprapunerea; la centrul local APIA aflați cu cine trebuie să discuți, în limitele permise de lege.",
+        "Verificați ce ați declarat dumneavoastră: deschideți parcela în aplicație și comparați-o cu ortofotoplanul și cu limitele reale pe care le lucrați.",
+        "Adunați actele care dovedesc dreptul de folosință: titlul, extrasul de carte funciară, contractul de arendă înregistrat la primărie, adeverința din registrul agricol.",
+        "Dacă limita reală e în discuție, chemați un topograf: măsurăm colțurile parcelei și suprapunem rezultatul peste ambele declarații.",
+        "Depuneți la APIA memoriul cu documentele și planul de situație; dacă ambele părți acceptă corectarea, fiecare își redesenează parcela în limitele reale.",
         "Dacă nu se ajunge la înțelegere, calea rămâne cea juridică — grănițuire sau acțiune în instanță, cu expertiză topografică."
       ]
     },
     {
       "type": "paragraph",
       "heading": "De ce măsurătoarea schimbă discuția",
-      "html": "<p>Într-o dispută pe suprapunere, argumentele obișnuite sună toate la fel: „așa am apucat”, „așa a lucrat tata”, „așa mi-a arătat primarul la punerea în posesie”. Niciunul nu este verificabil. Un plan de situație în coordonate <a href=\"/dictionar/coordonate-stereo-70.html\">Stereo 70</a>, cu punctele de hotar măsurate GNSS și suprapus peste <a href=\"/dictionar/plan-parcelar.html\">planul parcelar</a> al tarlalei, este.</p><p>În practică, măsurătoarea produce unul din trei rezultate. Ori arată că parcela ta este exact unde crezi și celălalt fermier a digitizat greșit — caz în care corecția e imediată. Ori arată că tu ești deplasat cu o parcelă în tarla, ceea ce se întâmplă des acolo unde <a href=\"/dictionar/punere-in-posesie.html\">punerea în posesie</a> s-a făcut sumar. Ori arată că planul parcelar al tarlalei este el însuși greșit, iar atunci discuția se mută la primărie și la <a href=\"/dictionar/comisia-locala-de-fond-funciar.html\">comisia locală de fond funciar</a>.</p>"
+      "html": "<p>Într-o dispută pe suprapunere, argumentele obișnuite sună toate la fel: „așa am apucat”, „așa a lucrat tata”, „așa mi-a arătat primarul la punerea în posesie”. Niciunul nu este verificabil. Un plan de situație în coordonate <a href=\"/dictionar/coordonate-stereo-70.html\">Stereo 70</a>, cu punctele de hotar măsurate GNSS și suprapus peste <a href=\"/dictionar/plan-parcelar.html\">planul parcelar</a> al tarlalei, este.</p><p>În practică, măsurătoarea produce unul din trei rezultate. Ori arată că parcela dumneavoastră este exact unde credeți și celălalt fermier a digitizat greșit — caz în care corecția e imediată. Ori arată că dumneavoastră sunteți deplasat cu o parcelă în tarla, ceea ce se întâmplă des acolo unde <a href=\"/dictionar/punere-in-posesie.html\">punerea în posesie</a> s-a făcut sumar. Ori arată că planul parcelar al tarlalei este el însuși greșit, iar atunci discuția se mută la primărie și la <a href=\"/dictionar/comisia-locala-de-fond-funciar.html\">comisia locală de fond funciar</a>.</p>"
     },
     {
       "type": "checklist",
-      "heading": "Cum eviți suprapunerile în campania următoare",
+      "heading": "Cum evitați suprapunerile în campania următoare",
       "items": [
         "Digitizează pe ortofotoplan mărit la maximum, urmărind limitele vizibile, nu conturul aproximativ din anul trecut.",
-        "Verifică anual dacă toate contractele de arendă sunt în vigoare și înregistrate la primărie pentru suprafețele pe care le declari.",
+        "Verificați anual dacă toate contractele de arendă sunt în vigoare și înregistrate la primărie pentru suprafețele pe care le declarați.",
         "Nu declara „pe încredere” suprafețe pe care nu le-ai văzut în teren în anul curent.",
-        "Marchează durabil colțurile parcelelor importante — un punct de hotar materializat elimină ani de discuții.",
-        "Dacă ai preluat teren nou, cere-i proprietarului actele complete înainte de campanie, nu în ultima săptămână."
+        "Marcați durabil colțurile parcelelor importante — un punct de hotar materializat elimină ani de discuții.",
+        "Dacă ați preluat teren nou, cereți-i proprietarului actele complete înainte de campanie, nu în ultima săptămână."
       ]
     },
     {
@@ -79,15 +79,15 @@
       "items": [
         {
           "q": "Pierd toată subvenția dacă am o suprapunere?",
-          "a": "Nu neapărat. Plata se blochează pentru suprafața suprapusă, nu automat pentru toată ferma, dar supradeclararea constatată atrage sancțiuni care pot depăși suprafața în cauză. Cu cât lămurești mai repede, cu atât pierderea e mai mică."
+          "a": "Nu neapărat. Plata se blochează pentru suprafața suprapusă, nu automat pentru toată ferma, dar supradeclararea constatată atrage sancțiuni care pot depăși suprafața în cauză. Cu cât lămuriți mai repede, cu atât pierderea e mai mică."
         },
         {
           "q": "Celălalt fermier refuză să-și corecteze parcela. Ce pot face?",
-          "a": "Depui la APIA documentele care îți dovedesc dreptul de folosință și limitele reale, inclusiv planul de situație măsurat. Dacă disputa rămâne, ea este una de proprietate sau de folosință și se tranșează în instanță, unde expertiza topografică este proba principală."
+          "a": "Depuneți la APIA documentele care vă dovedesc dreptul de folosință și limitele reale, inclusiv planul de situație măsurat. Dacă disputa rămâne, ea este una de proprietate sau de folosință și se tranșează în instanță, unde expertiza topografică este proba principală."
         },
         {
           "q": "Cât durează o măsurătoare de acest tip?",
-          "a": "Deplasarea și măsurătoarea pe una-două parcele înseamnă de regulă o zi, iar planul îl primești în câteva zile lucrătoare. Când e nevoie de studiul planului parcelar la primărie și la OCPI, durata crește cu timpul de răspuns al instituțiilor."
+          "a": "Deplasarea și măsurătoarea pe una-două parcele înseamnă de regulă o zi, iar planul îl primiți în câteva zile lucrătoare. Când e nevoie de studiul planului parcelar la primărie și la OCPI, durata crește cu timpul de răspuns al instituțiilor."
         },
         {
           "q": "Suprapunerea înseamnă că vecinul mi-a luat din teren?",
@@ -95,7 +95,7 @@
         },
         {
           "q": "Cum arată, concret, ce vă trimit ca să pregătiți lucrarea?",
-          "a": "Ne folosesc trei lucruri: notificarea primită de la APIA, cu suprafața și blocul fizic în discuție; captura de ecran din aplicația geospațială cu parcela ta digitizată; și actele terenului — titlu de proprietate sau contract de arendă înregistrat. Cu acestea putem spune, de multe ori înainte de a ieși în teren, dacă vorbim despre o eroare de digitizare, care se corectează în aplicație, sau despre o problemă reală de limite, care cere măsurători."
+          "a": "Ne folosesc trei lucruri: notificarea primită de la APIA, cu suprafața și blocul fizic în discuție; captura de ecran din aplicația geospațială cu parcela dumneavoastră digitizată; și actele terenului — titlu de proprietate sau contract de arendă înregistrat. Cu acestea putem spune, de multe ori înainte de a ieși în teren, dacă vorbim despre o eroare de digitizare, care se corectează în aplicație, sau despre o problemă reală de limite, care cere măsurători."
         },
         {
           "q": "Am corectat digitizarea, dar suprapunerea a reapărut anul următor. De ce?",
@@ -105,8 +105,8 @@
     },
     {
       "type": "cta",
-      "heading": "Ai primit notificare de suprapunere?",
-      "text": "Trimite-ne pe WhatsApp notificarea și actele terenului — îți spunem ce document rezolvă cel mai repede situația și, dacă e nevoie, venim să măsurăm."
+      "heading": "Ați primit notificare de suprapunere?",
+      "text": "Trimiteți-ne pe WhatsApp notificarea și actele terenului — vă spunem ce document rezolvă cel mai repede situația și, dacă e nevoie, venim să măsurăm."
     }
   ],
   "related": [

@@ -31,33 +31,33 @@
     {
       "type": "paragraph",
       "heading": "Ce se întâmplă când planul parcelar lipsește sau e greșit",
-      "html": "<p>Aici e partea despre care proprietarii află, de regulă, în cel mai prost moment: la vânzare. Dacă tarlaua nu are plan parcelar recepționat, OCPI nu are pe ce să așeze parcela ta — iar intabularea individuală devine dificilă sau imposibilă până nu se reconstituie ordinea parcelelor. Dacă planul există dar e greșit — suprafețele titlurilor adunate depășesc tarlaua reală, ordinea proprietarilor nu corespunde cu terenul — fiecare intabulare nouă moștenește și amplifică eroarea. Semnele după care recunoști o tarla cu probleme: vecini care „nu-și mai încap” în suprafețe, diferențe mari între ce arată titlul și ce se ară în fapt, dosare respinse la OCPI pe motiv de neconcordanță cu planul parcelar. Pentru aceste situații am scris o pagină separată, despre <a href=\"/teren-agricol/plan-parcelar-lipsa.html\">ce faci când nu există plan parcelar</a> — soluțiile există, dar cer metodă și, adesea, cooperarea mai multor proprietari din tarla.</p>"
+      "html": "<p>Aici e partea despre care proprietarii află, de regulă, în cel mai prost moment: la vânzare. Dacă tarlaua nu are plan parcelar recepționat, OCPI nu are pe ce să așeze parcela dumneavoastră — iar intabularea individuală devine dificilă sau imposibilă până nu se reconstituie ordinea parcelelor. Dacă planul există dar e greșit — suprafețele titlurilor adunate depășesc tarlaua reală, ordinea proprietarilor nu corespunde cu terenul — fiecare intabulare nouă moștenește și amplifică eroarea. Semnele după care recunoașteți o tarla cu probleme: vecini care „nu-și mai încap” în suprafețe, diferențe mari între ce arată titlul și ce se ară în fapt, dosare respinse la OCPI pe motiv de neconcordanță cu planul parcelar. Pentru aceste situații am scris o pagină separată, despre <a href=\"/teren-agricol/plan-parcelar-lipsa.html\">ce faceți când nu există plan parcelar</a> — soluțiile există, dar cer metodă și, adesea, cooperarea mai multor proprietari din tarla.</p>"
     },
     {
       "type": "checklist",
-      "heading": "Cum afli în ce situație e tarlaua ta",
+      "heading": "Cum aflați în ce situație e tarlaua dumneavoastră",
       "items": [
-        "Întreabă la primărie sau la comisia locală de fond funciar dacă tarlaua are plan parcelar și în ce an a fost întocmit",
-        "Cere-ne o verificare la OCPI: vedem dacă planul e recepționat și dacă parcelele din el au primit numere cadastrale",
-        "Verifică pe geoportalul ANCPI dacă în tarla apar imobile înscrise — un mozaic de parcele intabulate e semn bun",
-        "Compară suprafața din titlul tău cu ce folosești în realitate — nepotrivirile mari indică probleme de plan, nu doar de măsurătoare",
-        "Întreabă vecinii dacă au avut dosare respinse la intabulare — respingerile în lanț sunt simptomul clasic al tarlalei incoerente"
+        "Întrebați la primărie sau la comisia locală de fond funciar dacă tarlaua are plan parcelar și în ce an a fost întocmit",
+        "Cereți-ne o verificare la OCPI: vedem dacă planul e recepționat și dacă parcelele din el au primit numere cadastrale",
+        "Verificați pe geoportalul ANCPI dacă în tarla apar imobile înscrise — un mozaic de parcele intabulate e semn bun",
+        "Comparați suprafața din titlul dumneavoastră cu ce folosiți în realitate — nepotrivirile mari indică probleme de plan, nu doar de măsurătoare",
+        "Întrebați vecinii dacă au avut dosare respinse la intabulare — respingerile în lanț sunt simptomul clasic al tarlalei incoerente"
       ]
     },
     {
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
-        { "q": "Pot să-mi intabulez parcela dacă tarlaua nu are plan parcelar?", "a": "Uneori da — depinde de practica oficiului teritorial și de situația concretă a tarlalei: dacă poziția parcelei poate fi determinată cert din alte surse (schițe de punere în posesie, imobile vecine deja înscrise, ortofotoplanuri istorice), documentația poate trece. Alteori OCPI condiționează înscrierea de existența planului. Verificăm gratuit înainte să-ți promitem ceva." },
+        { "q": "Pot să-mi intabulez parcela dacă tarlaua nu are plan parcelar?", "a": "Uneori da — depinde de practica oficiului teritorial și de situația concretă a tarlalei: dacă poziția parcelei poate fi determinată cert din alte surse (schițe de punere în posesie, imobile vecine deja înscrise, ortofotoplanuri istorice), documentația poate trece. Alteori OCPI condiționează înscrierea de existența planului. Verificăm gratuit înainte să vă promitem ceva." },
         { "q": "Cine aprobă planul parcelar — primăria sau OCPI?", "a": "Rolurile sunt diferite: comisia locală și primăria validează evidența proprietarilor, iar OCPI face recepția tehnică a planului. Efectele juridice (numere cadastrale, cărți funciare) vin de la recepția OCPI." },
-        { "q": "Cât costă un plan parcelar făcut la inițiativa proprietarilor?", "a": "Depinde de mărimea tarlalei, numărul de parcele și calitatea arhivelor — se calculează pe tarla, nu pe parcelă, și se împarte între proprietari. Orientativ, la o tarla obișnuită, costul pe proprietar iese de regulă comparabil cu o documentație cadastrală individuală sau sub ea. Cere-ne o estimare concretă." },
-        { "q": "Dacă vine cadastrul sistematic, planul parcelar se face automat?", "a": "Da — înregistrarea sistematică produce, sector cu sector, exact acest rezultat: toate imobilele măsurate și înscrise, gratuit pentru proprietari. De aceea primul pas e mereu verificarea: e comuna ta (și sectorul tău) în program sau nu?" }
+        { "q": "Cât costă un plan parcelar făcut la inițiativa proprietarilor?", "a": "Depinde de mărimea tarlalei, numărul de parcele și calitatea arhivelor — se calculează pe tarla, nu pe parcelă, și se împarte între proprietari. Orientativ, la o tarla obișnuită, costul pe proprietar iese de regulă comparabil cu o documentație cadastrală individuală sau sub ea. Cereți-ne o estimare concretă." },
+        { "q": "Dacă vine cadastrul sistematic, planul parcelar se face automat?", "a": "Da — înregistrarea sistematică produce, sector cu sector, exact acest rezultat: toate imobilele măsurate și înscrise, gratuit pentru proprietari. De aceea primul pas e mereu verificarea: e comuna dumneavoastră (și sectorul dumneavoastră) în program sau nu?" }
       ]
     },
     {
       "type": "cta",
-      "heading": "Nu știi dacă tarlaua ta are plan parcelar?",
-      "text": "Scrie-ne pe WhatsApp comuna și numărul tarlalei din titlu — verificăm la OCPI și îți spunem exact în ce situație ești și ce opțiuni ai."
+      "heading": "Nu știți dacă tarlaua dumneavoastră are plan parcelar?",
+      "text": "Scrieți-ne pe WhatsApp comuna și numărul tarlalei din titlu — verificăm la OCPI și vă spunem exact în ce situație sunteți și ce opțiuni aveți."
     }
   ],
   "related": [

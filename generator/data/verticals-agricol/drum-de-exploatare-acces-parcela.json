@@ -1,8 +1,8 @@
 {
   "slug": "drum-de-exploatare-acces-parcela",
-  "title": "Drum de exploatare: cine îl întreține și ce faci când a fost arat | Expert Intabulare",
-  "h1": "Drumul de exploatare: cine răspunde de el și cum îl recuperezi",
-  "metaDescription": "Ce este drumul de exploatare, cui aparține, ce faci când vecinul l-a arat sau l-a îngustat și cum se demonstrează traseul lui cu măsurători și plan parcelar.",
+  "title": "Drum de exploatare: cine îl întreține și ce faceți când a fost arat | Expert Intabulare",
+  "h1": "Drumul de exploatare: cine răspunde de el și cum îl recuperați",
+  "metaDescription": "Ce este drumul de exploatare, cui aparține, ce faceți când vecinul l-a arat sau l-a îngustat și cum se demonstrează traseul lui cu măsurători și plan parcelar.",
   "whatsappTopic": "un drum de exploatare arat sau blocat",
   "hook": "none",
   "trustBar": true,
@@ -19,7 +19,7 @@
       "head": [
         "Tip",
         "Cui aparține",
-        "Ce drepturi ai"
+        "Ce drepturi aveți"
       ],
       "rows": [
         [
@@ -46,7 +46,7 @@
     },
     {
       "type": "paragraph",
-      "heading": "Ce faci concret când drumul a fost arat",
+      "heading": "Ce faceți concret când drumul a fost arat",
       "html": "<p>Primul pas nu este scandalul în tarla, ci <strong>proba</strong>. Mergem în teren cu planul parcelar și cu ortofotoplanuri din ani diferiți și măsurăm GNSS ce există azi: marginea culturii vecinului, resturile de traseu, capetele de drum care încă se văd la intrarea în tarla. Suprapunerea peste plan arată, în metri, cât s-a arat și pe ce lungime.</p><p>Cu acest plan de situație în mână, discuția se mută la <strong>primărie</strong>. Drumul de exploatare este, de obicei, în administrarea comunei, iar consiliul local are atât interesul, cât și mijloacele de a-l reface — mai ales când sesizarea vine de la mai mulți proprietari deodată. În practică, o sesizare scrisă, însoțită de un plan cu coordonate, rezolvă situația fără instanță în majoritatea cazurilor.</p><p>Când drumul nu este al comunei, ci trecerea se făcea pe terenul unui vecin, discuția e alta: acolo vorbim de <a href=\"/dictionar/servitute-de-trecere.html\">servitute de trecere</a>, care se constituie prin act notarial sau, în lipsa înțelegerii, prin hotărâre judecătorească, în condițiile Codului civil privind terenul lipsit de acces la calea publică.</p>"
     },
     {
@@ -76,7 +76,7 @@
         },
         {
           "q": "Pot să-mi fac singur drum peste terenul vecinului?",
-          "a": "Nu. Trecerea fără drept poate fi oprită oricând, iar culturile distruse se plătesc. Dacă terenul tău este efectiv lipsit de acces la calea publică, soluția legală este servitutea de trecere, obținută prin înțelegere la notar sau prin instanță."
+          "a": "Nu. Trecerea fără drept poate fi oprită oricând, iar culturile distruse se plătesc. Dacă terenul dumneavoastră este efectiv lipsit de acces la calea publică, soluția legală este servitutea de trecere, obținută prin înțelegere la notar sau prin instanță."
         },
         {
           "q": "Cine repară drumul de exploatare distrus?",
@@ -88,18 +88,18 @@
         },
         {
           "q": "Drumul apare pe planul parcelar, dar în teren e arat de ani buni. Ce fac practic?",
-          "a": "Primul pas este să documentezi diferența, nu să pornești conflictul. Măsurăm traseul așa cum rezultă din planul parcelar și din titlurile din tarla, îl suprapunem peste ortofotoplanuri din ani diferiți și peste situația actuală, iar rezultatul arată clar unde a fost drumul și cât din el a fost cuprins în cultură. Cu acest material te poți adresa primăriei, care administrează drumurile de exploatare, sau poți deschide o discuție cu vecinul având un argument tehnic, nu o amintire."
+          "a": "Primul pas este să documentați diferența, nu să porniți conflictul. Măsurăm traseul așa cum rezultă din planul parcelar și din titlurile din tarla, îl suprapunem peste ortofotoplanuri din ani diferiți și peste situația actuală, iar rezultatul arată clar unde a fost drumul și cât din el a fost cuprins în cultură. Cu acest material vă puteți adresa primăriei, care administrează drumurile de exploatare, sau puteți deschide o discuție cu vecinul având un argument tehnic, nu o amintire."
         },
         {
           "q": "Se poate intabula un drum de exploatare?",
-          "a": "Drumurile de exploatare fac parte, de regulă, din domeniul unității administrativ-teritoriale sau sunt cuprinse în planul parcelar al tarlalei ca teren cu această destinație, iar înscrierea lor se face în cadrul lucrărilor comunei, nu la cererea unui proprietar individual. Ce poți face tu este să te asiguri că, la întocmirea documentației pentru parcela ta, limita spre drum este corect stabilită și că nu îți însușești din el și nici nu cedezi din terenul tău."
+          "a": "Drumurile de exploatare fac parte, de regulă, din domeniul unității administrativ-teritoriale sau sunt cuprinse în planul parcelar al tarlalei ca teren cu această destinație, iar înscrierea lor se face în cadrul lucrărilor comunei, nu la cererea unui proprietar individual. Ce puteți face dumneavoastră este să vă asigurați că, la întocmirea documentației pentru parcela dumneavoastră, limita spre drum este corect stabilită și că nu vă însușiți din el și nici nu cedați din terenul dumneavoastră."
         }
       ]
     },
     {
       "type": "cta",
-      "heading": "Ți-a dispărut drumul de tarla?",
-      "text": "Trimite-ne pe WhatsApp comuna, tarlaua și o poză din teren — verificăm planul parcelar și îți spunem ce se poate dovedi și cum."
+      "heading": "V-a dispărut drumul de tarla?",
+      "text": "Trimiteți-ne pe WhatsApp comuna, tarlaua și o poză din teren — verificăm planul parcelar și vă spunem ce se poate dovedi și cum."
     }
   ],
   "related": [

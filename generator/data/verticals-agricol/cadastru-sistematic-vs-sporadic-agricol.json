@@ -1,8 +1,8 @@
 {
   "slug": "cadastru-sistematic-vs-sporadic-agricol",
-  "title": "Cadastru sistematic sau sporadic: aștepți programul gratuit sau plătești acum? | Expert Intabulare",
+  "title": "Cadastru sistematic sau sporadic: așteptați programul gratuit sau plătiți acum? | Expert Intabulare",
   "h1": "Cadastru sistematic vs. sporadic: calculul de decizie pentru fermier",
-  "metaDescription": "Comuna ta intră în cadastrul gratuit? Când merită să aștepți înregistrarea sistematică și când e mai ieftin să faci cadastru sporadic acum. Criterii clare.",
+  "metaDescription": "Comuna dumneavoastră intră în cadastrul gratuit? Când merită să așteptați înregistrarea sistematică și când e mai ieftin să faceți cadastru sporadic acum. Criterii clare.",
   "whatsappTopic": "dacă să aștept cadastrul gratuit sau să fac cadastru acum",
   "hook": "none",
   "trustBar": true,
@@ -11,7 +11,7 @@
     {
       "type": "paragraph",
       "heading": "Două drumuri către aceeași carte funciară",
-      "html": "<p>În România, un teren ajunge înscris în cartea funciară pe două căi. Prima este <a href=\"/dictionar/inregistrare-sistematica.html\">înregistrarea sistematică</a>: statul, prin ANCPI și primării, contractează lucrări pe sectoare cadastrale întregi, iar proprietarul nu plătește nimic. A doua este <a href=\"/dictionar/cadastru-sporadic.html\">cadastrul sporadic</a>: proprietarul comandă documentația la un topograf autorizat și o depune singur, plătind onorariul și tariful OCPI.</p><p>Programul Național de Cadastru și Carte Funciară avansează constant — ANCPI a raportat în iulie 2026 peste 750.000 de imobile înregistrate gratuit doar de la începutul anului, cu 492 de UAT-uri finalizate integral și lucrări în derulare în peste 2.600 de unități administrativ-teritoriale. Cifrele sunt reale și impresionante, dar înseamnă și altceva: <strong>„în lucru” nu e același lucru cu „gata”</strong>, iar între semnarea contractului pe un sector și eliberarea cărților funciare pot trece ani.</p><p>Întrebarea corectă nu este care variantă e mai bună în general, ci care e mai bună pentru tine, în situația ta, anul acesta.</p>"
+      "html": "<p>În România, un teren ajunge înscris în cartea funciară pe două căi. Prima este <a href=\"/dictionar/inregistrare-sistematica.html\">înregistrarea sistematică</a>: statul, prin ANCPI și primării, contractează lucrări pe sectoare cadastrale întregi, iar proprietarul nu plătește nimic. A doua este <a href=\"/dictionar/cadastru-sporadic.html\">cadastrul sporadic</a>: proprietarul comandă documentația la un topograf autorizat și o depune singur, plătind onorariul și tariful OCPI.</p><p>Programul Național de Cadastru și Carte Funciară avansează constant — ANCPI a raportat în iulie 2026 peste 750.000 de imobile înregistrate gratuit doar de la începutul anului, cu 492 de UAT-uri finalizate integral și lucrări în derulare în peste 2.600 de unități administrativ-teritoriale. Cifrele sunt reale și impresionante, dar înseamnă și altceva: <strong>„în lucru” nu e același lucru cu „gata”</strong>, iar între semnarea contractului pe un sector și eliberarea cărților funciare pot trece ani.</p><p>Întrebarea corectă nu este care variantă e mai bună în general, ci care e mai bună pentru dumneavoastră, în situația dumneavoastră, anul acesta.</p>"
     },
     {
       "type": "table",
@@ -21,7 +21,7 @@
         ["Cine plătește", "Statul, prin ANCPI și primărie", "Proprietarul"],
         ["Cine decide calendarul", "Programul; proprietarul nu-l poate grăbi", "Proprietarul — pornește când vrea"],
         ["Durată până la extras CF", "Imprevizibilă: de la câteva luni la câțiva ani de la contractare", "Orientativ 4–8 săptămâni la un dosar curat"],
-        ["Ce se măsoară", "Tot sectorul, inclusiv parcelele vecine", "Doar imobilul tău"],
+        ["Ce se măsoară", "Tot sectorul, inclusiv parcelele vecine", "Doar imobilul dumneavoastră"],
         ["Rol activ al proprietarului", "Esențial în perioada de publicare a documentelor tehnice", "Permanent, prin topograful ales"],
         ["Riscul tipic", "Date preluate din registrul agricol, cu erori de suprafață sau de titular", "Cost imediat, chiar dacă programul ar fi ajuns în 2 ani"],
         ["Se poate corecta ulterior", "Da, prin cereri de rectificare — dar mai lent", "Da, prin actualizare de date sau rectificare"]
@@ -29,51 +29,51 @@
     },
     {
       "type": "checklist",
-      "heading": "Semne că trebuie să faci cadastru sporadic acum",
+      "heading": "Semne că trebuie să faceți cadastru sporadic acum",
       "items": [
-        "Ai o vânzare, o ipotecă, un partaj sau o succesiune de finalizat în următoarele 12 luni.",
-        "Depui un proiect cu finanțare care cere extras de carte funciară la dosar.",
-        "Vecinii din tarla se intabulează deja — poziția lor devine referință și e mai bine să nu fii ultimul.",
-        "Vrei să dezmembrezi, să alipești sau să scoți terenul din circuitul agricol; toate cer imobil deja înscris.",
-        "Ai un conflict deschis pe limite: fără coordonate proprii pornești în dezavantaj.",
-        "Primăria nu are contract activ de înregistrare sistematică pe sectorul unde ai terenul."
+        "Aveți o vânzare, o ipotecă, un partaj sau o succesiune de finalizat în următoarele 12 luni.",
+        "Depuneți un proiect cu finanțare care cere extras de carte funciară la dosar.",
+        "Vecinii din tarla se intabulează deja — poziția lor devine referință și e mai bine să nu fiți ultimul.",
+        "Vreți să dezmembrați, să alipiți sau să scoți terenul din circuitul agricol; toate cer imobil deja înscris.",
+        "Aveți un conflict deschis pe limite: fără coordonate proprii porniți în dezavantaj.",
+        "Primăria nu are contract activ de înregistrare sistematică pe sectorul unde aveți terenul."
       ]
     },
     {
       "type": "checklist",
-      "heading": "Semne că merită să aștepți programul gratuit",
+      "heading": "Semne că merită să așteptați programul gratuit",
       "items": [
         "Sectorul cadastral în care se află terenul este în lucru, iar primăria confirmă un termen apropiat.",
-        "Nu ai nicio operațiune juridică planificată — doar cultivi sau ții terenul în arendă.",
-        "Actele sunt clare, iar riscul de a fi înscris greșit este mic (titlu pe numele tău, fără succesiuni în lanț).",
-        "Ai multe parcele mici într-un sector în lucru: acolo economia din program este cea mai mare.",
-        "Ești dispus să urmărești perioada de publicare a documentelor tehnice și să depui cerere de rectificare dacă apare o eroare."
+        "Nu aveți nicio operațiune juridică planificată — doar cultivi sau ții terenul în arendă.",
+        "Actele sunt clare, iar riscul de a fi înscris greșit este mic (titlu pe numele dumneavoastră, fără succesiuni în lanț).",
+        "Aveți multe parcele mici într-un sector în lucru: acolo economia din program este cea mai mare.",
+        "Sunteți dispus să urmăriți perioada de publicare a documentelor tehnice și să depuneți cerere de rectificare dacă apare o eroare."
       ]
     },
     {
       "type": "paragraph",
-      "heading": "Cum verifici concret în ce situație e comuna ta",
-      "html": "<p>Trei surse, în ordinea utilității. <strong>Primăria</strong> — secretarul general sau compartimentul de fond funciar știe dacă există contract semnat, pe ce sectoare și în ce stadiu; e cea mai la zi informație. <strong>Geoportalul ANCPI</strong> — stratul de lucrări sistematice arată UAT-urile și sectoarele contractate sau finalizate; îți dă imaginea de ansamblu, dar nu întotdeauna termenul. <strong>OCPI-ul județean</strong> — confirmă dacă documentele tehnice pentru un sector au fost deja publicate, moment din care începe termenul de contestații.</p><p>Un detaliu care scapă multora: chiar și în UAT-urile cuprinse în program, <strong>nu toate sectoarele intră deodată</strong>. Sunt comune în care intravilanul e finalizat de ani buni, iar tarlalele de extravilan nici măcar nu sunt contractate. De aceea răspunsul „comuna mea e în cadastru gratuit” nu e suficient — contează sectorul în care se află parcela ta.</p>"
+      "heading": "Cum verificați concret în ce situație e comuna dumneavoastră",
+      "html": "<p>Trei surse, în ordinea utilității. <strong>Primăria</strong> — secretarul general sau compartimentul de fond funciar știe dacă există contract semnat, pe ce sectoare și în ce stadiu; e cea mai la zi informație. <strong>Geoportalul ANCPI</strong> — stratul de lucrări sistematice arată UAT-urile și sectoarele contractate sau finalizate; vă dă imaginea de ansamblu, dar nu întotdeauna termenul. <strong>OCPI-ul județean</strong> — confirmă dacă documentele tehnice pentru un sector au fost deja publicate, moment din care începe termenul de contestații.</p><p>Un detaliu care scapă multora: chiar și în UAT-urile cuprinse în program, <strong>nu toate sectoarele intră deodată</strong>. Sunt comune în care intravilanul e finalizat de ani buni, iar tarlalele de extravilan nici măcar nu sunt contractate. De aceea răspunsul „comuna mea e în cadastru gratuit” nu e suficient — contează sectorul în care se află parcela dumneavoastră.</p>"
     },
     {
       "type": "paragraph",
       "heading": "Ce facem noi în fiecare dintre cele două scenarii",
-      "html": "<p>Dacă răspunsul corect este „așteaptă”, ți-l spunem — și nu îți vindem o lucrare de care nu ai nevoie. Îți explicăm ce urmărești în perioada de publicare: numele titularului, suprafața, <a href=\"/dictionar/categorie-de-folosinta.html\">categoria de folosință</a>, vecinătățile și, foarte important, dacă imobilul apare înscris cu drept de proprietate sau doar cu posesie. O eroare prinsă în termenul de contestații se corectează gratuit; aceeași eroare descoperită peste doi ani, la notar, costă o documentație de rectificare.</p><p>Dacă răspunsul e „nu aștepta”, facem lucrarea integral: identificare în tarla, măsurători cu GPS RTK, documentație cadastrală, depunere electronică prin e-Terra și urmărirea dosarului până la <a href=\"/dictionar/incheiere-de-carte-funciara.html\">încheierea de carte funciară</a>. Iar dacă între timp sectorul intră în program, imobilul tău deja înscris este preluat ca atare — munca nu se pierde și nu se plătește de două ori.</p>"
+      "html": "<p>Dacă răspunsul corect este „așteaptă”, vi-l spunem — și nu vă vindem o lucrare de care nu aveți nevoie. Vă explicăm ce urmăriți în perioada de publicare: numele titularului, suprafața, <a href=\"/dictionar/categorie-de-folosinta.html\">categoria de folosință</a>, vecinătățile și, foarte important, dacă imobilul apare înscris cu drept de proprietate sau doar cu posesie. O eroare prinsă în termenul de contestații se corectează gratuit; aceeași eroare descoperită peste doi ani, la notar, costă o documentație de rectificare.</p><p>Dacă răspunsul e „nu aștepta”, facem lucrarea integral: identificare în tarla, măsurători cu GPS RTK, documentație cadastrală, depunere electronică prin e-Terra și urmărirea dosarului până la <a href=\"/dictionar/incheiere-de-carte-funciara.html\">încheierea de carte funciară</a>. Iar dacă între timp sectorul intră în program, imobilul dumneavoastră deja înscris este preluat ca atare — munca nu se pierde și nu se plătește de două ori.</p>"
     },
     {
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
-        { "q": "Dacă fac cadastru pe banii mei și apoi vine programul gratuit, pierd banii?", "a": "Nu în sensul că lucrarea ar deveni inutilă: imobilul deja înscris rămâne înscris și e integrat în lucrările sistematice. Pierzi doar diferența economică față de scenariul în care ai fi așteptat — motiv pentru care merită să verifici stadiul sectorului înainte de a comanda." },
-        { "q": "Pot cere primăriei să grăbească sectorul unde am terenul?", "a": "Prioritizarea sectoarelor se face la nivelul contractului dintre ANCPI și executant, nu la cererea unui proprietar. Ce poți face util e să te asiguri că datele tale din registrul agricol sunt corecte și că actele tale ajung la echipa care lucrează sectorul." },
-        { "q": "Ce înseamnă că imobilul e înscris „cu posesie” și nu cu drept de proprietate?", "a": "În înregistrarea sistematică, când proprietarul nu prezintă act de proprietate, imobilul se poate înscrie pe posesor, cu efecte juridice limitate. Pentru vânzare sau ipotecă e nevoie de trecerea la drept de proprietate, ceea ce presupune acte suplimentare. Dacă ai titlu, prezintă-l în timpul lucrărilor — eviți exact această situație." },
-        { "q": "Am parcele în două comune, una în program și una nu. Ce fac?", "a": "Le tratezi separat, ca două decizii independente. Este scenariul cel mai comun în zona noastră și, în general, se lucrează sporadic acolo unde programul nu a ajuns, iar în cealaltă comună se urmărește publicarea documentelor tehnice." }
+        { "q": "Dacă fac cadastru pe banii mei și apoi vine programul gratuit, pierd banii?", "a": "Nu în sensul că lucrarea ar deveni inutilă: imobilul deja înscris rămâne înscris și e integrat în lucrările sistematice. Pierdeți doar diferența economică față de scenariul în care ați fi așteptat — motiv pentru care merită să verificați stadiul sectorului înainte de a comanda." },
+        { "q": "Pot cere primăriei să grăbească sectorul unde am terenul?", "a": "Prioritizarea sectoarelor se face la nivelul contractului dintre ANCPI și executant, nu la cererea unui proprietar. Ce puteți face util e să vă asigurați că datele dumneavoastră din registrul agricol sunt corecte și că actele dumneavoastră ajung la echipa care lucrează sectorul." },
+        { "q": "Ce înseamnă că imobilul e înscris „cu posesie” și nu cu drept de proprietate?", "a": "În înregistrarea sistematică, când proprietarul nu prezintă act de proprietate, imobilul se poate înscrie pe posesor, cu efecte juridice limitate. Pentru vânzare sau ipotecă e nevoie de trecerea la drept de proprietate, ceea ce presupune acte suplimentare. Dacă aveți titlu, prezentați-l în timpul lucrărilor — evitați exact această situație." },
+        { "q": "Am parcele în două comune, una în program și una nu. Ce fac?", "a": "Le tratați separat, ca două decizii independente. Este scenariul cel mai comun în zona noastră și, în general, se lucrează sporadic acolo unde programul nu a ajuns, iar în cealaltă comună se urmărește publicarea documentelor tehnice." }
       ]
     },
     {
       "type": "cta",
-      "heading": "Nu știi dacă să aștepți sau să pornești?",
-      "text": "Scrie-ne pe WhatsApp comuna și tarlaua — verificăm stadiul sectorului și îți spunem sincer care variantă te costă mai puțin, chiar dacă răspunsul e „mai așteaptă”."
+      "heading": "Nu știți dacă să așteptați sau să porniți?",
+      "text": "Scrieți-ne pe WhatsApp comuna și tarlaua — verificăm stadiul sectorului și vă spunem sincer care variantă vă costă mai puțin, chiar dacă răspunsul e „mai așteaptă”."
     }
   ],
   "related": [

@@ -1,7 +1,7 @@
 {
   "slug": "subventie-apia-teren-neintabulat",
   "title": "Subvenție APIA pe teren neintabulat: adeverința de rol vs. cartea funciară | Expert Intabulare",
-  "h1": "Iei subvenție APIA pe un teren care nu e intabulat?",
+  "h1": "Luați subvenție APIA pe un teren care nu e intabulat?",
   "metaDescription": "Ce dovedește adeverința din registrul agricol, când e suficientă pentru cererea unică și de ce intabularea rămâne singura soluție durabilă pentru terenul agricol.",
   "whatsappTopic": "un teren neintabulat pe care îl declar la APIA",
   "hook": "none",
@@ -11,55 +11,55 @@
     {
       "type": "paragraph",
       "heading": "Ce cere de fapt APIA: folosința, nu proprietatea tabulară",
-      "html": "<p>Regula de bază surprinde mulți fermieri: cererea unică de plată nu se condiționează de existența unei cărți funciare. Ce trebuie dovedit este că terenul se află <strong>la dispoziția ta</strong> la data depunerii cererii — ca proprietar, arendaș, concesionar sau titular al unui alt drept de folosință. Documentele care fac dovada trebuie să existe și să fie valabile la acea dată.</p><p>De aici vine practica pe care o vedem în toate comunele din jurul Aiudului: <a href=\"/dictionar/adeverinta-de-rol-agricol.html\">adeverința din registrul agricol</a>, eliberată de primărie, plus titlul de proprietate sau contractul de arendă, țin loc de dosar la APIA ani la rând, fără ca terenul să fie vreodată înscris în cartea funciară. Funcționează — până în ziua în care nu mai funcționează.</p>"
+      "html": "<p>Regula de bază surprinde mulți fermieri: cererea unică de plată nu se condiționează de existența unei cărți funciare. Ce trebuie dovedit este că terenul se află <strong>la dispoziția dumneavoastră</strong> la data depunerii cererii — ca proprietar, arendaș, concesionar sau titular al unui alt drept de folosință. Documentele care fac dovada trebuie să existe și să fie valabile la acea dată.</p><p>De aici vine practica pe care o vedem în toate comunele din jurul Aiudului: <a href=\"/dictionar/adeverinta-de-rol-agricol.html\">adeverința din registrul agricol</a>, eliberată de primărie, plus titlul de proprietate sau contractul de arendă, țin loc de dosar la APIA ani la rând, fără ca terenul să fie vreodată înscris în cartea funciară. Funcționează — până în ziua în care nu mai funcționează.</p>"
     },
     {
       "type": "table",
       "heading": "Ce dovedește fiecare document și unde se oprește",
       "head": ["Document", "Ce dovedește", "Limita lui"],
       "rows": [
-        ["Adeverința din registrul agricol", "Că suprafața figurează în evidența primăriei pe numele tău", "Este o evidență administrativă, nu un titlu; se poate corecta sau contesta"],
+        ["Adeverința din registrul agricol", "Că suprafața figurează în evidența primăriei pe numele dumneavoastră", "Este o evidență administrativă, nu un titlu; se poate corecta sau contesta"],
         ["Titlul de proprietate", "Dreptul reconstituit după Legea 18/1991, cu tarla și parcelă", "Nu localizează cu precizie parcela și nu este opozabil ca înscriere de carte funciară"],
-        ["Contractul de arendă înregistrat", "Că folosința îți aparține pe durata contractului", "Depinde de dreptul arendatorului; se rupe dacă proprietatea e contestată"],
+        ["Contractul de arendă înregistrat", "Că folosința vă aparține pe durata contractului", "Depinde de dreptul arendatorului; se rupe dacă proprietatea e contestată"],
         ["Extrasul de carte funciară", "Proprietatea înscrisă, cu suprafață măsurată și sarcini vizibile", "Presupune cadastru făcut; costă și durează, dar închide discuția"]
       ]
     },
     {
       "type": "paragraph",
       "heading": "Unde se rupe lanțul, în practică",
-      "html": "<p>Primul punct de rupere este <strong>registrul agricol</strong>. Dacă suprafața nu figurează corect acolo, adeverința nu se poate elibera pentru ea — iar registrul agricol reflectă declarațiile făcute de-a lungul anilor, nu o măsurătoare. Al doilea este <strong>moștenirea nedezbătută</strong>: terenul figurează în continuare pe un părinte decedat, iar succesorii declară „prin obișnuință”. Al treilea este <strong>arenda</strong> pe un teren al cărui proprietar nu poate produce actele, situație în care arendașul rămâne fără suprafață declarabilă.</p><p>Al patrulea, tot mai frecvent, este <strong>vânzarea</strong>. Un teren fără carte funciară nu poate fi vândut la notar — ceea ce înseamnă că, în ziua în care vrei să valorifici terenul pe care ai luat ani la rând subvenție, descoperi că trebuie să faci oricum <a href=\"/teren-agricol/prima-inregistrare-teren-agricol.html\">prima înscriere</a>, doar că sub presiunea unui cumpărător care așteaptă.</p>"
+      "html": "<p>Primul punct de rupere este <strong>registrul agricol</strong>. Dacă suprafața nu figurează corect acolo, adeverința nu se poate elibera pentru ea — iar registrul agricol reflectă declarațiile făcute de-a lungul anilor, nu o măsurătoare. Al doilea este <strong>moștenirea nedezbătută</strong>: terenul figurează în continuare pe un părinte decedat, iar succesorii declară „prin obișnuință”. Al treilea este <strong>arenda</strong> pe un teren al cărui proprietar nu poate produce actele, situație în care arendașul rămâne fără suprafață declarabilă.</p><p>Al patrulea, tot mai frecvent, este <strong>vânzarea</strong>. Un teren fără carte funciară nu poate fi vândut la notar — ceea ce înseamnă că, în ziua în care vreți să valorificați terenul pe care ați luat ani la rând subvenție, descoperi că trebuie să faceți oricum <a href=\"/teren-agricol/prima-inregistrare-teren-agricol.html\">prima înscriere</a>, doar că sub presiunea unui cumpărător care așteaptă.</p>"
     },
     {
       "type": "checklist",
       "heading": "Situații în care intabularea nu mai poate fi amânată",
       "items": [
-        "Vrei să vinzi terenul sau să-l aduci ca garanție pentru un credit ori o finanțare.",
+        "Vreți să vindeți terenul sau să-l aduceți ca garanție pentru un credit ori o finanțare.",
         "Proprietarul din acte a decedat și succesiunea nu s-a dezbătut — adeverința devine tot mai greu de obținut.",
-        "Ai suprapuneri repetate la APIA cu alți fermieri și îți trebuie un argument care ține în fața oricui.",
-        "Vrei să încheii o arendă lungă, cu investiții, sau să o notezi în cartea funciară.",
+        "Aveți suprapuneri repetate la APIA cu alți fermieri și vă trebuie un argument care ține în fața oricui.",
+        "Vreți să încheii o arendă lungă, cu investiții, sau să o notați în cartea funciară.",
         "Terenul intră într-un proiect: comasare, scoatere din circuitul agricol, racord, parc fotovoltaic.",
-        "Ai moștenit teren în mai multe comune și vrei să faci ordine o singură dată, nu în fiecare an."
+        "Ați moștenit teren în mai multe comune și vreți să faceți ordine o singură dată, nu în fiecare an."
       ]
     },
     {
       "type": "paragraph",
       "heading": "Ce facem noi, concret",
-      "html": "<p>Pentru un fermier care declară azi pe adeverință, drumul obișnuit are trei etape. Întâi <strong>identificăm parcelele</strong> din titlu în teren, cu <a href=\"/dictionar/plan-parcelar.html\">planul parcelar</a> și ortofotoplanul în mână — pas care rezolvă, singur, o bună parte din problemele de declarare. Apoi <strong>măsurăm și întocmim documentația cadastrală</strong> de primă înscriere pentru fiecare imobil, cu depunere electronică la OCPI prin e-Terra. La final, terenul are număr cadastral și carte funciară, iar suprafața reală devine cifra oficială — cea pe care o folosești și în contractul de arendă, și în declarația APIA, și la impozit.</p><p>Când parcelele sunt mai multe în aceeași tarla, costul pe parcelă scade sensibil, pentru că deplasarea și studiul planului parcelar se fac o singură dată. Este motivul pentru care recomandăm fermierilor să nu facă „o parcelă pe an”, ci să grupeze lucrarea.</p>"
+      "html": "<p>Pentru un fermier care declară azi pe adeverință, drumul obișnuit are trei etape. Întâi <strong>identificăm parcelele</strong> din titlu în teren, cu <a href=\"/dictionar/plan-parcelar.html\">planul parcelar</a> și ortofotoplanul în mână — pas care rezolvă, singur, o bună parte din problemele de declarare. Apoi <strong>măsurăm și întocmim documentația cadastrală</strong> de primă înscriere pentru fiecare imobil, cu depunere electronică la OCPI prin e-Terra. La final, terenul are număr cadastral și carte funciară, iar suprafața reală devine cifra oficială — cea pe care o folosiți și în contractul de arendă, și în declarația APIA, și la impozit.</p><p>Când parcelele sunt mai multe în aceeași tarla, costul pe parcelă scade sensibil, pentru că deplasarea și studiul planului parcelar se fac o singură dată. Este motivul pentru care recomandăm fermierilor să nu facă „o parcelă pe an”, ci să grupeze lucrarea.</p>"
     },
     {
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
-        { "q": "Pot lua subvenție dacă terenul e pe numele bunicului decedat?", "a": "Practic, doar câtă vreme primăria îți eliberează adeverință și nu apare o contestație. Este o situație fragilă: orice moștenitor nemulțumit sau orice verificare mai atentă o poate opri. Corect este să se dezbată succesiunea și apoi să se facă intabularea." },
-        { "q": "APIA îmi cere extras de carte funciară. E legal?", "a": "APIA cere documentele care dovedesc că terenul e la dispoziția ta; lista concretă și forma acceptată se stabilesc prin ghidul campaniei și pot diferi de la o situație la alta. Extrasul de carte funciară este întotdeauna acceptat și este cel mai puternic dintre documente." },
+        { "q": "Pot lua subvenție dacă terenul e pe numele bunicului decedat?", "a": "Practic, doar câtă vreme primăria vă eliberează adeverință și nu apare o contestație. Este o situație fragilă: orice moștenitor nemulțumit sau orice verificare mai atentă o poate opri. Corect este să se dezbată succesiunea și apoi să se facă intabularea." },
+        { "q": "APIA îmi cere extras de carte funciară. E legal?", "a": "APIA cere documentele care dovedesc că terenul e la dispoziția dumneavoastră; lista concretă și forma acceptată se stabilesc prin ghidul campaniei și pot diferi de la o situație la alta. Extrasul de carte funciară este întotdeauna acceptat și este cel mai puternic dintre documente." },
         { "q": "Cât costă intabularea unui teren agricol?", "a": "Orientativ, o primă înscriere pentru o parcelă de extravilan pornește de la câteva sute de lei onorariu, plus tariful OCPI. Prețul depinde de comună, de starea planului parcelar și de numărul de parcele; la un pachet de parcele în aceeași tarla, costul unitar scade." },
-        { "q": "Comuna mea intră în cadastrul sistematic gratuit. Aștept?", "a": "Depinde de calendarul tău. Dacă nu vinzi și nu ai probleme la APIA, așteptarea poate fi rezonabilă. Dacă ai nevoie de acte în lunile următoare, cadastrul sporadic plătit este singura variantă rapidă — avem o pagină dedicată exact acestui calcul." }
+        { "q": "Comuna mea intră în cadastrul sistematic gratuit. Aștept?", "a": "Depinde de calendarul dumneavoastră. Dacă nu vindeți și nu aveți probleme la APIA, așteptarea poate fi rezonabilă. Dacă aveți nevoie de acte în lunile următoare, cadastrul sporadic plătit este singura variantă rapidă — avem o pagină dedicată exact acestui calcul." }
       ]
     },
     {
       "type": "cta",
-      "heading": "Declari pe adeverință și vrei să faci ordine în acte?",
-      "text": "Trimite-ne pe WhatsApp titlurile pe care le ai și lista parcelelor — îți spunem ce se poate intabula acum, în ce ordine și cât costă orientativ."
+      "heading": "Declarați pe adeverință și vreți să faceți ordine în acte?",
+      "text": "Trimiteți-ne pe WhatsApp titlurile pe care le aveți și lista parcelelor — vă spunem ce se poate intabula acum, în ce ordine și cât costă orientativ."
     }
   ],
   "related": [

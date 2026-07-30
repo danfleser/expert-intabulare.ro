@@ -11,21 +11,21 @@
     {
       "type": "paragraph",
       "heading": "Ce înseamnă, de fapt, intabularea unui teren agricol",
-      "html": "<p>Intabularea este înscrierea dreptului de proprietate în cartea funciară. Pentru un teren agricol, drumul până acolo trece obligatoriu prin cadastru: terenul trebuie mai întâi măsurat, identificat și recepționat de OCPI, abia apoi registratorul deschide cartea funciară. De aceea vorbim de fapt despre o singură lucrare cu două etape — <a href=\"/servicii/intabulare-teren/\">cadastru și intabulare</a> — pe care o face un topograf autorizat ANCPI împreună cu proprietarul.</p><p>Specificul agricol este identificarea. Un apartament îl găsești după adresă; o parcelă de <a href=\"/dictionar/extravilan.html\">extravilan</a> o găsești după numărul de <a href=\"/dictionar/tarla.html\">tarla</a> și de parcelă din titlul de proprietate, confruntat cu <a href=\"/dictionar/plan-parcelar.html\">planul parcelar</a> al tarlalei și cu realitatea din teren. Când aceste trei surse spun același lucru, intabularea e rutină. Când nu — și în multe comune nu spun — partea de detectivistică e cea care desparte o lucrare de câteva săptămâni de una de câteva luni.</p>"
+      "html": "<p>Intabularea este înscrierea dreptului de proprietate în cartea funciară. Pentru un teren agricol, drumul până acolo trece obligatoriu prin cadastru: terenul trebuie mai întâi măsurat, identificat și recepționat de OCPI, abia apoi registratorul deschide cartea funciară. De aceea vorbim de fapt despre o singură lucrare cu două etape — <a href=\"/servicii/intabulare-teren/\">cadastru și intabulare</a> — pe care o face un topograf autorizat ANCPI împreună cu proprietarul.</p><p>Specificul agricol este identificarea. Un apartament îl găsiți după adresă; o parcelă de <a href=\"/dictionar/extravilan.html\">extravilan</a> o găsiți după numărul de <a href=\"/dictionar/tarla.html\">tarla</a> și de parcelă din titlul de proprietate, confruntat cu <a href=\"/dictionar/plan-parcelar.html\">planul parcelar</a> al tarlalei și cu realitatea din teren. Când aceste trei surse spun același lucru, intabularea e rutină. Când nu — și în multe comune nu spun — partea de detectivistică e cea care desparte o lucrare de câteva săptămâni de una de câteva luni.</p>"
     },
     {
       "type": "process",
       "heading": "Pașii intabulării, de la primul telefon la cartea funciară",
       "steps": [
         "Verificarea actelor — Ne trimiți titlul de proprietate sau actul de dobândire (vânzare, moștenire, donație) și, dacă există, acte vechi cu schițe. Verificăm la OCPI dacă tarlaua are plan parcelar recepționat și dacă terenul nu e cumva deja înscris prin cadastrul sistematic.",
-        "Măsurătorile în teren — Stabilim o zi, mergem la parcelă împreună cu tine (și ideal cu vecinii de parcelă) și măsurăm limitele reale cu GPS RTK. La extravilan, confirmarea vecinilor previne litigii mai târziu.",
+        "Măsurătorile în teren — Stabilim o zi, mergem la parcelă împreună cu dumneavoastră (și ideal cu vecinii de parcelă) și măsurăm limitele reale cu GPS RTK. La extravilan, confirmarea vecinilor previne litigii mai târziu.",
         "Documentația cadastrală — Întocmim planul de amplasament și delimitare (PAD), memoriul tehnic și dosarul de primă înscriere, pe care îl depunem electronic la OCPI, în format CPXML, prin e-Terra.",
-        "Recepția și intabularea — OCPI recepționează documentația și atribuie număr cadastral, apoi registratorul de carte funciară intabulează dreptul de proprietate. Primești extrasul de carte funciară — dovada că terenul există juridic."
+        "Recepția și intabularea — OCPI recepționează documentația și atribuie număr cadastral, apoi registratorul de carte funciară intabulează dreptul de proprietate. Primiți extrasul de carte funciară — dovada că terenul există juridic."
       ]
     },
     {
       "type": "checklist",
-      "heading": "Actele de care ai nevoie",
+      "heading": "Actele de care aveți nevoie",
       "items": [
         "Actul de proprietate: titlul de proprietate eliberat după Legea 18/1991, contract de vânzare-cumpărare, certificat de moștenitor sau hotărâre judecătorească",
         "Actele de identitate ale proprietarilor (toți, dacă terenul e pe mai multe persoane)",
@@ -37,7 +37,7 @@
     {
       "type": "paragraph",
       "heading": "Cât costă și cât durează — cifre orientative, spuse cinstit",
-      "html": "<p>Onorariul pentru prima înscriere a unei parcele agricole pornește, orientativ, de la câteva sute de lei și crește cu dificultatea identificării, distanța și starea planului parcelar. La el se adaugă <strong>tariful OCPI</strong>, achitat separat, conform grilei ANCPI în vigoare. Două lucruri reduc semnificativ costul pe parcelă: <strong>gruparea</strong> — dacă ai mai multe parcele în aceeași tarla sau în tarlale vecine, o singură zi de teren acoperă mai multe documentații — și <strong>vecinii</strong> — când mai mulți proprietari dintr-o tarla se organizează împreună, împart cheltuiala de deplasare. Ca durată: măsurătorile se fac de regulă în câteva zile de la comandă, iar soluționarea la OCPI durează de la câteva zile la câteva săptămâni, în funcție de încărcarea oficiului și de eventualele <a href=\"/dictionar/referat-de-completare.html\">referate de completare</a>. Nu promitem termene pe care nu le controlăm — îți spunem termenul realist pentru comuna ta, pentru că lucrăm constant cu aceleași birouri teritoriale.</p>"
+      "html": "<p>Onorariul pentru prima înscriere a unei parcele agricole pornește, orientativ, de la câteva sute de lei și crește cu dificultatea identificării, distanța și starea planului parcelar. La el se adaugă <strong>tariful OCPI</strong>, achitat separat, conform grilei ANCPI în vigoare. Două lucruri reduc semnificativ costul pe parcelă: <strong>gruparea</strong> — dacă aveți mai multe parcele în aceeași tarla sau în tarlale vecine, o singură zi de teren acoperă mai multe documentații — și <strong>vecinii</strong> — când mai mulți proprietari dintr-o tarla se organizează împreună, împart cheltuiala de deplasare. Ca durată: măsurătorile se fac de regulă în câteva zile de la comandă, iar soluționarea la OCPI durează de la câteva zile la câteva săptămâni, în funcție de încărcarea oficiului și de eventualele <a href=\"/dictionar/referat-de-completare.html\">referate de completare</a>. Nu promitem termene pe care nu le controlăm — vă spunem termenul realist pentru comuna dumneavoastră, pentru că lucrăm constant cu aceleași birouri teritoriale.</p>"
     },
     {
       "type": "paragraph",
@@ -48,16 +48,16 @@
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
-        { "q": "Terenul e trecut în registrul agricol. Nu înseamnă că e intabulat?", "a": "Nu. Registrul agricol este o evidență fiscal-administrativă a primăriei; cartea funciară este evidența juridică a proprietății, ținută de OCPI. Poți figura de zeci de ani la rol fără ca terenul să aibă carte funciară — iar la vânzare sau moștenire contează doar cartea funciară." },
-        { "q": "Suprafața din titlu diferă de cea măsurată. Se poate intabula?", "a": "De regulă da: regulamentul ANCPI permite înscrierea suprafeței măsurate dacă diferența față de acte se încadrează în toleranțe (la extravilan, orientativ până la 5%). Peste toleranță, analizăm cauza — de la erori de plan parcelar la ocupări de către vecini — și îți propunem calea corectă." },
+        { "q": "Terenul e trecut în registrul agricol. Nu înseamnă că e intabulat?", "a": "Nu. Registrul agricol este o evidență fiscal-administrativă a primăriei; cartea funciară este evidența juridică a proprietății, ținută de OCPI. Puteți figura de zeci de ani la rol fără ca terenul să aibă carte funciară — iar la vânzare sau moștenire contează doar cartea funciară." },
+        { "q": "Suprafața din titlu diferă de cea măsurată. Se poate intabula?", "a": "De regulă da: regulamentul ANCPI permite înscrierea suprafeței măsurate dacă diferența față de acte se încadrează în toleranțe (la extravilan, orientativ până la 5%). Peste toleranță, analizăm cauza — de la erori de plan parcelar la ocupări de către vecini — și vă propunem calea corectă." },
         { "q": "Pot intabula doar o parte din parcelele din titlu?", "a": "Da. Fiecare parcelă devine un imobil separat, cu propria carte funciară. Recomandăm totuși gruparea lucrărilor — costul pe parcelă scade sensibil când măsurăm mai multe în aceeași zi." },
-        { "q": "Terenul e moștenit și succesiunea nu e dezbătută. Ce fac întâi?", "a": "Ordinea corectă depinde de situație: uneori cadastrul se face pe numele defunctului înainte de succesiune, alteori după. Avem o pagină dedicată intabulării terenului moștenit — sau ne scrii pe WhatsApp și îți spunem ordinea pentru cazul tău concret." }
+        { "q": "Terenul e moștenit și succesiunea nu e dezbătută. Ce fac întâi?", "a": "Ordinea corectă depinde de situație: uneori cadastrul se face pe numele defunctului înainte de succesiune, alteori după. Avem o pagină dedicată intabulării terenului moștenit — sau ne scrieți pe WhatsApp și vă spunem ordinea pentru cazul dumneavoastră concret." }
       ]
     },
     {
       "type": "cta",
-      "heading": "Vrei să știi exact cât ar costa la tine?",
-      "text": "Trimite-ne pe WhatsApp o poză după titlul de proprietate și numele comunei — primești o evaluare sinceră: preț orientativ, durată realistă și eventualele probleme pe care le vedem din start."
+      "heading": "Vreți să știți exact cât ar costa la dumneavoastră?",
+      "text": "Trimiteți-ne pe WhatsApp o poză după titlul de proprietate și numele comunei — primiți o evaluare sinceră: preț orientativ, durată realistă și eventualele probleme pe care le vedem din start."
     }
   ],
   "related": [

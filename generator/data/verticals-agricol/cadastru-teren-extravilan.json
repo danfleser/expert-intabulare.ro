@@ -11,7 +11,7 @@
     {
       "type": "paragraph",
       "heading": "Extravilan și intravilan: aceeași lege, lucrări foarte diferite",
-      "html": "<p>Formal, documentația cadastrală arată la fel pentru orice teren: plan de amplasament și delimitare, memoriu tehnic, dosar depus la OCPI. În practică, un teren din <a href=\"/dictionar/extravilan.html\">extravilan</a> — afara vetrei satului, unde se întind arabilul, pășunile și fânețele — se lucrează altfel decât unul din <a href=\"/dictionar/intravilan.html\">intravilan</a>. Diferența începe de la întrebarea de bază: <em>unde e terenul?</em> În intravilan, răspunsul e o adresă și un gard. În extravilan, răspunsul e o poziție într-o <a href=\"/dictionar/tarla.html\">tarla</a>, dedusă din titlul de proprietate, din <a href=\"/dictionar/plan-parcelar.html\">planul parcelar</a> și din ordinea istorică a vecinilor — pentru că parcela ta de arabil nu are, de cele mai multe ori, niciun semn fizic pe teren în afară de brazda dintre culturi.</p><p>Din acest motiv, la extravilan lucrarea de cadastru este întâi o lucrare de <strong>identificare</strong> și abia apoi una de măsurare. Iar erorile de identificare sunt scumpe: o parcelă intabulată pe poziția greșită blochează nu doar terenul tău, ci și pe ale vecinilor.</p>"
+      "html": "<p>Formal, documentația cadastrală arată la fel pentru orice teren: plan de amplasament și delimitare, memoriu tehnic, dosar depus la OCPI. În practică, un teren din <a href=\"/dictionar/extravilan.html\">extravilan</a> — afara vetrei satului, unde se întind arabilul, pășunile și fânețele — se lucrează altfel decât unul din <a href=\"/dictionar/intravilan.html\">intravilan</a>. Diferența începe de la întrebarea de bază: <em>unde e terenul?</em> În intravilan, răspunsul e o adresă și un gard. În extravilan, răspunsul e o poziție într-o <a href=\"/dictionar/tarla.html\">tarla</a>, dedusă din titlul de proprietate, din <a href=\"/dictionar/plan-parcelar.html\">planul parcelar</a> și din ordinea istorică a vecinilor — pentru că parcela dumneavoastră de arabil nu are, de cele mai multe ori, niciun semn fizic pe teren în afară de brazda dintre culturi.</p><p>Din acest motiv, la extravilan lucrarea de cadastru este întâi o lucrare de <strong>identificare</strong> și abia apoi una de măsurare. Iar erorile de identificare sunt scumpe: o parcelă intabulată pe poziția greșită blochează nu doar terenul dumneavoastră, ci și pe ale vecinilor.</p>"
     },
     {
       "type": "table",
@@ -29,14 +29,14 @@
     {
       "type": "paragraph",
       "heading": "Toleranțele: ce se întâmplă când suprafața nu iese la fix",
-      "html": "<p>Aproape niciodată suprafața măsurată nu coincide la metru pătrat cu cea din titlu. Regulamentul ANCPI acceptă acest lucru: dacă diferența dintre <a href=\"/dictionar/suprafata-masurata.html\">suprafața măsurată</a> și <a href=\"/dictionar/suprafata-din-acte.html\">suprafața din acte</a> se încadrează în toleranță — la extravilan, orientativ până la 5% — se înscrie suprafața măsurată, iar actele rămân valabile. Peste toleranță, începe analiza cauzelor: uneori planul parcelar a fost întocmit cu erori sistematice și toată tarlaua e „strâmbă”; alteori un drum de exploatare a mușcat o fâșie; alteori vecinul ară, de ani de zile, un metru din parcela ta la fiecare trecere. Fiecare cauză are altă rezolvare — de la documentație cu suprafața rectificată la procedura de modificare a suprafeței sau, în cazurile conflictuale, expertiză și grănițuire. Important e că diferența nu se „ajustează din pix”: se documentează, pentru că altfel se transformă în litigiu la prima vânzare.</p>"
+      "html": "<p>Aproape niciodată suprafața măsurată nu coincide la metru pătrat cu cea din titlu. Regulamentul ANCPI acceptă acest lucru: dacă diferența dintre <a href=\"/dictionar/suprafata-masurata.html\">suprafața măsurată</a> și <a href=\"/dictionar/suprafata-din-acte.html\">suprafața din acte</a> se încadrează în toleranță — la extravilan, orientativ până la 5% — se înscrie suprafața măsurată, iar actele rămân valabile. Peste toleranță, începe analiza cauzelor: uneori planul parcelar a fost întocmit cu erori sistematice și toată tarlaua e „strâmbă”; alteori un drum de exploatare a mușcat o fâșie; alteori vecinul ară, de ani de zile, un metru din parcela dumneavoastră la fiecare trecere. Fiecare cauză are altă rezolvare — de la documentație cu suprafața rectificată la procedura de modificare a suprafeței sau, în cazurile conflictuale, expertiză și grănițuire. Important e că diferența nu se „ajustează din pix”: se documentează, pentru că altfel se transformă în litigiu la prima vânzare.</p>"
     },
     {
       "type": "checklist",
       "heading": "Ce verificăm înainte să măsurăm un extravilan",
       "items": [
         "Există plan parcelar recepționat la OCPI pentru tarlaua respectivă? Dacă da, identificarea e mult mai sigură.",
-        "Tarlaua a intrat în înregistrarea sistematică (cadastru gratuit pe sectoare)? Dacă lucrările sunt în curs, uneori e mai înțelept să aștepți.",
+        "Tarlaua a intrat în înregistrarea sistematică (cadastru gratuit pe sectoare)? Dacă lucrările sunt în curs, uneori e mai înțelept să așteptați.",
         "Titlul de proprietate descrie parcela cu vecini care mai pot fi identificați? Vecinii bătrâni sunt cea mai bună „arhivă” a tarlalei.",
         "Suprafețele titlurilor din tarla, adunate, încap în tarlaua reală? Dacă nu, toleranțele se vor consuma pe nepotrivirea colectivă.",
         "Categoria de folosință din acte (arabil, pășune, fâneață, vie, livadă) mai corespunde cu realitatea? Diferențele se lămuresc înainte de depunere."
@@ -44,14 +44,14 @@
     },
     {
       "type": "paragraph",
-      "heading": "Prețuri orientative și cum le poți reduce",
+      "heading": "Prețuri orientative și cum le puteți reduce",
       "html": "<p>Pentru o parcelă de extravilan cu plan parcelar în regulă, onorariul de <a href=\"/servicii/cadastru-si-intabulare/\">cadastru și intabulare</a> pornește, orientativ, de la câteva sute de lei, plus tariful OCPI. Costul crește când identificarea e grea (plan parcelar lipsă, titluri contradictorii) și scade semnificativ la lucrări grupate: deplasarea și instalarea echipamentului GPS se împart între parcele, așa că a doua și a treia parcelă din aceeași zi costă vizibil mai puțin decât prima. De aceea, sfatul nostru constant pentru sate întregi: vorbiți între vecini. O tarla care se intabulează „în valuri”, câte un proprietar pe an, costă în total mai mult decât aceeași tarla lucrată coordonat — și lasă în urmă mai puține nepotriviri.</p>"
     },
     {
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
-        { "q": "Terenul extravilan are nevoie de certificat de urbanism pentru cadastru?", "a": "Nu, pentru prima înscriere a unui teren agricol nu e necesar certificat de urbanism. Acesta devine relevant abia dacă vrei să construiești sau să schimbi destinația terenului." },
+        { "q": "Terenul extravilan are nevoie de certificat de urbanism pentru cadastru?", "a": "Nu, pentru prima înscriere a unui teren agricol nu e necesar certificat de urbanism. Acesta devine relevant abia dacă vreți să construiți sau să schimbați destinația terenului." },
         { "q": "Pot să îmi îngrădesc parcela de extravilan după cadastru?", "a": "Împrejmuirea are regulile ei — în extravilan poate necesita autorizație, iar înainte de orice gard recomandăm trasarea limitelor pe baza coordonatelor din documentație. Avem o pagină dedicată trasării înainte de împrejmuire." },
         { "q": "Ce se întâmplă dacă parcela mea e deja înscrisă greșit de altcineva?", "a": "Se întâmplă — mai ales în tarlale fără plan parcelar, unde un vecin s-a intabulat pe o poziție aproximativă. Rezolvarea trece prin compararea documentațiilor și, după caz, repoziționare sau rectificare. Avem o pagină despre suprapunerile cadastrale pe agricol." },
         { "q": "Măsurați și parcele foarte mici, de câteva sute de metri pătrați?", "a": "Da. La parcele mici problema nu e măsurarea, ci raportul dintre cost și valoarea terenului — de aceea la loturile mici recomandăm aproape întotdeauna gruparea cu alte parcele sau cu vecinii." }
@@ -59,8 +59,8 @@
     },
     {
       "type": "cta",
-      "heading": "Ai o parcelă în extravilan de pus în acte?",
-      "text": "Scrie-ne pe WhatsApp comuna, tarlaua și ce acte ai — îți spunem dacă identificarea e simplă sau complicată și cât ar costa orientativ."
+      "heading": "Aveți o parcelă în extravilan de pus în acte?",
+      "text": "Scrieți-ne pe WhatsApp comuna, tarlaua și ce acte aveți — vă spunem dacă identificarea e simplă sau complicată și cât ar costa orientativ."
     }
   ],
   "related": [

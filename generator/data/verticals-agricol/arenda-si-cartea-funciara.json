@@ -25,7 +25,7 @@
     },
     {
       "type": "paragraph",
-      "heading": "De ce contează registrul primăriei mai mult decât crezi",
+      "heading": "De ce contează registrul primăriei mai mult decât credeți",
       "html": "<p>Primul motiv este <strong>APIA</strong>. Documentele care dovedesc că terenul se află la dispoziția fermierului trebuie să existe și să fie valabile la data depunerii cererii unice de plată. Adeverința eliberată de primărie, pe baza <a href=\"/dictionar/registrul-agricol.html\">registrului agricol</a>, și copia contractului de arendă sunt, împreună, dovada standard pentru suprafețele lucrate în arendă. Un contract nedepus la primărie nu apare în registrul agricol, iar adeverința nu se poate elibera pentru acea suprafață.</p><p>Al doilea motiv este <strong>preempțiunea</strong>. Arendașul este preemptor de rang II la vânzarea terenului agricol extravilan, potrivit <a href=\"/dictionar/legea-17-2014.html\">Legii 17/2014</a>. Calitatea lui se dovedește cu contractul înregistrat la primărie. Pentru proprietar, asta înseamnă că nu poate „uita” arendașul când depune oferta de vânzare; pentru arendaș, înseamnă că fără înregistrare își pierde practic poziția.</p><p>Al treilea motiv este <strong>proba folosinței</strong>. Într-un conflict pe hotare sau într-o discuție despre cine a lucrat parcela, un contract înregistrat cu dată certă la primărie cântărește mult mai mult decât o înțelegere verbală.</p>"
     },
     {
@@ -52,15 +52,15 @@
       "heading": "Întrebări frecvente",
       "items": [
         { "q": "Contractul de arendă trebuie autentificat la notar?", "a": "Codul civil cere forma scrisă, sub sancțiunea nulității absolute, și depunerea unui exemplar la consiliul local pentru înregistrare în registrul special. Autentificarea notarială nu este obligatorie pentru un contract obișnuit, dar devine utilă la arende lungi sau când se dorește notarea în cartea funciară." },
-        { "q": "Am cumpărat un teren arendat. Pot să-l lucrez eu de anul viitor?", "a": "Nu automat. Arenda continuă în condițiile contractului, iar tu preiei poziția de arendator. Poți negocia încetarea anticipată cu arendașul, dar nu o poți impune. Verifică întotdeauna registrul primăriei înainte de a cumpăra." },
-        { "q": "Proprietarul refuză să-mi dea o copie a titlului. Pot depune la APIA doar cu contractul?", "a": "Documentele cerute sunt cele care dovedesc că terenul se află la dispoziția ta: contractul de arendă și adeverința din registrul agricol. Dacă suprafața nu figurează corect în registrul agricol, discuția se poartă la primărie, împreună cu proprietarul. Fără corespondența datelor, suprafața rămâne nedeclarabilă." },
+        { "q": "Am cumpărat un teren arendat. Pot să-l lucrez eu de anul viitor?", "a": "Nu automat. Arenda continuă în condițiile contractului, iar dumneavoastră preiei poziția de arendator. Puteți negocia încetarea anticipată cu arendașul, dar nu o puteți impune. Verificați întotdeauna registrul primăriei înainte de a cumpăra." },
+        { "q": "Proprietarul refuză să-mi dea o copie a titlului. Pot depune la APIA doar cu contractul?", "a": "Documentele cerute sunt cele care dovedesc că terenul se află la dispoziția dumneavoastră: contractul de arendă și adeverința din registrul agricol. Dacă suprafața nu figurează corect în registrul agricol, discuția se poartă la primărie, împreună cu proprietarul. Fără corespondența datelor, suprafața rămâne nedeclarabilă." },
         { "q": "Ce fac dacă suprafața din contract nu corespunde cu cea măsurată?", "a": "Se face un act adițional cu suprafața reală. E o situație frecventă la parcelele descrise doar prin titlu, unde suprafața scriptică diferă de teren. O măsurătoare corectă rezolvă și problema arendei, și pe cea a declarației APIA, și pe cea a impozitului." }
       ]
     },
     {
       "type": "cta",
-      "heading": "Ai teren în arendă și suprafețele nu se potrivesc?",
-      "text": "Scrie-ne pe WhatsApp ce parcele sunt în discuție — le măsurăm și îți dăm suprafețele reale, pe care le poți folosi și în contract, și la APIA."
+      "heading": "Aveți teren în arendă și suprafețele nu se potrivesc?",
+      "text": "Scrieți-ne pe WhatsApp ce parcele sunt în discuție — le măsurăm și vă dăm suprafețele reale, pe care le puteți folosi și în contract, și la APIA."
     }
   ],
   "related": [

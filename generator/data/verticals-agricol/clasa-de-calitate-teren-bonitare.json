@@ -52,11 +52,11 @@
     {
       "type": "paragraph",
       "heading": "De ce contează la taxe",
-      "html": "<p>Taxele pentru scoaterea definitivă din circuitul agricol se stabilesc potrivit anexelor la <a href=\"/dictionar/legea-18-1991.html\">Legea 18/1991</a>, în funcție de clasa de calitate a terenului, iar tarifele se indexează anual cu rata inflației prin ordin al ministrului agriculturii. Pentru 2026, MADR a majorat tarifele față de anul precedent ca urmare a indexării cu rata inflației de 7,3%, valorile fiind valabile până la 31 decembrie 2026.</p><p>Consecința e directă: pe același proiect, un amplasament ales pe teren de clasa I costă la autorizare mult mai mult decât unul pe clasa a IV-a sau a V-a. Când investiția se face pe o proprietate mai mare — hală, platformă, obiectiv energetic — merită să cunoști distribuția claselor pe parcelă <em>înainte</em> de a hotărî unde amplasezi. Este unul dintre puținele locuri unde o decizie de proiectare poate reduce o factură publică în mod perfect legal.</p><p>Aceeași logică se aplică și proiectelor fotovoltaice: interesul dezvoltatorilor pentru clasele inferioare de calitate nu este întâmplător, ci ține de costul autorizării și de sensibilitatea publică față de ocuparea terenurilor bune.</p>"
+      "html": "<p>Taxele pentru scoaterea definitivă din circuitul agricol se stabilesc potrivit anexelor la <a href=\"/dictionar/legea-18-1991.html\">Legea 18/1991</a>, în funcție de clasa de calitate a terenului, iar tarifele se indexează anual cu rata inflației prin ordin al ministrului agriculturii. Pentru 2026, MADR a majorat tarifele față de anul precedent ca urmare a indexării cu rata inflației de 7,3%, valorile fiind valabile până la 31 decembrie 2026.</p><p>Consecința e directă: pe același proiect, un amplasament ales pe teren de clasa I costă la autorizare mult mai mult decât unul pe clasa a IV-a sau a V-a. Când investiția se face pe o proprietate mai mare — hală, platformă, obiectiv energetic — merită să cunoașteți distribuția claselor pe parcelă <em>înainte</em> de a hotărî unde amplasați. Este unul dintre puținele locuri unde o decizie de proiectare poate reduce o factură publică în mod perfect legal.</p><p>Aceeași logică se aplică și proiectelor fotovoltaice: interesul dezvoltatorilor pentru clasele inferioare de calitate nu este întâmplător, ci ține de costul autorizării și de sensibilitatea publică față de ocuparea terenurilor bune.</p>"
     },
     {
       "type": "checklist",
-      "heading": "Ce pregătești pentru un studiu pedologic",
+      "heading": "Ce pregătiți pentru un studiu pedologic",
       "items": [
         "Extrasul de carte funciară și extrasul de plan cadastral pentru terenul în cauză.",
         "Plan topografic sau plan de situație cu limitele reale ale suprafeței studiate, în coordonate Stereo 70.",
@@ -93,7 +93,7 @@
         },
         {
           "q": "Clasa de calitate influențează prețul de vânzare al terenului?",
-          "a": "Indirect, dar consistent. Cumpărătorii agricoli se uită la producțiile pe care le poate susține terenul, iar clasa de calitate este o exprimare sintetică a acestora. Pentru investitorii care vizează o altă folosință, clasa contează în sens invers: cu cât terenul este mai bun, cu atât tariful datorat la scoaterea din circuitul agricol este mai mare. Sunt două logici opuse care se întâlnesc pe aceeași parcelă, iar dacă vinzi merită să știi din ce categorie face parte cumpărătorul tău."
+          "a": "Indirect, dar consistent. Cumpărătorii agricoli se uită la producțiile pe care le poate susține terenul, iar clasa de calitate este o exprimare sintetică a acestora. Pentru investitorii care vizează o altă folosință, clasa contează în sens invers: cu cât terenul este mai bun, cu atât tariful datorat la scoaterea din circuitul agricol este mai mare. Sunt două logici opuse care se întâlnesc pe aceeași parcelă, iar dacă vindeți merită să știți din ce categorie face parte cumpărătorul dumneavoastră."
         },
         {
           "q": "Studiul pedologic are termen de valabilitate?",
@@ -103,8 +103,8 @@
     },
     {
       "type": "cta",
-      "heading": "Ai nevoie de studiu pedologic pentru un dosar?",
-      "text": "Trimite-ne pe WhatsApp extrasul de carte funciară și scopul lucrării — delimităm suprafața care trebuie studiată și îți pregătim planul topografic."
+      "heading": "Aveți nevoie de studiu pedologic pentru un dosar?",
+      "text": "Trimiteți-ne pe WhatsApp extrasul de carte funciară și scopul lucrării — delimităm suprafața care trebuie studiată și vă pregătim planul topografic."
     }
   ],
   "related": [

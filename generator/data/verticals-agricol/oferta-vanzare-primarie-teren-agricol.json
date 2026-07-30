@@ -2,7 +2,7 @@
   "slug": "oferta-vanzare-primarie-teren-agricol",
   "title": "Oferta de vânzare la primărie: dosarul și afișarea de 45 de zile | Expert Intabulare",
   "h1": "Oferta de vânzare a terenului agricol depusă la primărie",
-  "metaDescription": "Ce conține dosarul ofertei de vânzare pentru teren extravilan, cum se afișează 45 de zile lucrătoare, ce primești la final și ce greșeli anulează procedura.",
+  "metaDescription": "Ce conține dosarul ofertei de vânzare pentru teren extravilan, cum se afișează 45 de zile lucrătoare, ce primiți la final și ce greșeli anulează procedura.",
   "whatsappTopic": "dosarul ofertei de vânzare pentru un teren agricol",
   "hook": "none",
   "trustBar": true,
@@ -11,7 +11,7 @@
     {
       "type": "paragraph",
       "heading": "Actul cu care începe efectiv vânzarea",
-      "html": "<p>Oferta de vânzare depusă la primărie este momentul din care procedura devine oficială și din care încep să curgă termenele. Până atunci, orice discuție cu un cumpărător este o intenție; din clipa înregistrării ofertei, ai un dosar public, un termen fix și un traseu care nu se mai poate scurta.</p><p>Oferta se depune la <strong>primăria pe raza căreia se află terenul</strong> — nu la cea de domiciliu al vânzătorului. Dacă parcela e în altă comună decât locuiești, acolo se depune. Dacă ai două parcele în două comune diferite, sunt două dosare separate, cu termene care curg independent.</p><p>Formularele sunt tipizate, aprobate prin normele de aplicare a <a href=\"/dictionar/legea-17-2014.html\">Legii 17/2014</a>, iar primăriile le au la compartimentul de fond funciar sau registru agricol. Nu inventa formulare: un dosar depus pe hârtie liberă se întoarce.</p>"
+      "html": "<p>Oferta de vânzare depusă la primărie este momentul din care procedura devine oficială și din care încep să curgă termenele. Până atunci, orice discuție cu un cumpărător este o intenție; din clipa înregistrării ofertei, aveți un dosar public, un termen fix și un traseu care nu se mai poate scurta.</p><p>Oferta se depune la <strong>primăria pe raza căreia se află terenul</strong> — nu la cea de domiciliu al vânzătorului. Dacă parcela e în altă comună decât locuiți, acolo se depune. Dacă aveți două parcele în două comune diferite, sunt două dosare separate, cu termene care curg independent.</p><p>Formularele sunt tipizate, aprobate prin normele de aplicare a <a href=\"/dictionar/legea-17-2014.html\">Legii 17/2014</a>, iar primăriile le au la compartimentul de fond funciar sau registru agricol. Nu inventa formulare: un dosar depus pe hârtie liberă se întoarce.</p>"
     },
     {
       "type": "checklist",
@@ -43,14 +43,14 @@
     {
       "type": "paragraph",
       "heading": "Greșelile care întorc dosarul sau anulează vânzarea",
-      "html": "<p><strong>Datele terenului nu corespund cu cartea funciară.</strong> Cea mai frecventă situație: în ofertă se trece suprafața din titlul de proprietate, iar în extras figurează suprafața măsurată, diferită. Preemptorii și, ulterior, notarul se raportează la actul de carte funciară. Verifică potrivirea înainte de a depune — sau, dacă diferența e reală și mare, rezolv-o printr-o <a href=\"/servicii/actualizare-carte-funciara/\">actualizare de date</a>.</p><p><strong>Lipsește un coproprietar.</strong> Dacă terenul e în <a href=\"/dictionar/indiviziune.html\">indiviziune</a> între frați, oferta trebuie să fie a tuturor. Un singur semnatar poate vinde doar cota lui — situație posibilă juridic, dar aproape imposibil de vândut în practică.</p><p><strong>Prețul „de formă”.</strong> Un preț artificial mare, afișat ca să descurajeze preemptorii și apoi scăzut la notar, este exact scenariul care atrage nulitatea. Vânzarea se face în condițiile ofertei.</p><p><strong>Terenul nu e intabulat.</strong> Fără extras de carte funciară, dosarul nu se poate constitui. Este motivul pentru care recomandăm ca partea de <a href=\"/teren-agricol/prima-inregistrare-teren-agricol.html\">primă înregistrare</a> să pornească cu luni înainte de intenția de vânzare.</p><p><strong>Se uită contractul de arendă.</strong> Arendașul este preemptor și primăria are contractul înregistrat în registrul special. Nu ai ce ascunde și nici nu ai de ce.</p>"
+      "html": "<p><strong>Datele terenului nu corespund cu cartea funciară.</strong> Cea mai frecventă situație: în ofertă se trece suprafața din titlul de proprietate, iar în extras figurează suprafața măsurată, diferită. Preemptorii și, ulterior, notarul se raportează la actul de carte funciară. Verificați potrivirea înainte de a depune — sau, dacă diferența e reală și mare, rezolv-o printr-o <a href=\"/servicii/actualizare-carte-funciara/\">actualizare de date</a>.</p><p><strong>Lipsește un coproprietar.</strong> Dacă terenul e în <a href=\"/dictionar/indiviziune.html\">indiviziune</a> între frați, oferta trebuie să fie a tuturor. Un singur semnatar poate vinde doar cota lui — situație posibilă juridic, dar aproape imposibil de vândut în practică.</p><p><strong>Prețul „de formă”.</strong> Un preț artificial mare, afișat ca să descurajeze preemptorii și apoi scăzut la notar, este exact scenariul care atrage nulitatea. Vânzarea se face în condițiile ofertei.</p><p><strong>Terenul nu e intabulat.</strong> Fără extras de carte funciară, dosarul nu se poate constitui. Este motivul pentru care recomandăm ca partea de <a href=\"/teren-agricol/prima-inregistrare-teren-agricol.html\">primă înregistrare</a> să pornească cu luni înainte de intenția de vânzare.</p><p><strong>Se uită contractul de arendă.</strong> Arendașul este preemptor și primăria are contractul înregistrat în registrul special. Nu aveți ce ascunde și nici nu aveți de ce.</p>"
     },
     {
       "type": "table",
       "heading": "Calendar realist al procedurii",
       "head": ["Moment", "Ce se întâmplă", "Timp cumulat orientativ"],
       "rows": [
-        ["Ziua 0", "Depui dosarul complet la primărie", "0"],
+        ["Ziua 0", "Depuneți dosarul complet la primărie", "0"],
         ["Ziua 1", "Începe afișarea ofertei", "1 zi"],
         ["Zilele 1–45 lucrătoare", "Curge termenul de preempțiune", "aproximativ 9 săptămâni"],
         ["După expirare", "Se închide situația acceptărilor", "+ câteva zile"],
@@ -64,16 +64,16 @@
       "type": "faq",
       "heading": "Întrebări frecvente",
       "items": [
-        { "q": "Pot retrage oferta după ce a fost afișată?", "a": "Retragerea ofertei este posibilă, dar are consecințe: procedura se închide, iar dacă vrei să vinzi mai târziu, o reiei de la zero, cu un nou termen de 45 de zile lucrătoare. Discută cu primăria modul exact de retragere, pentru că se consemnează în dosar." },
-        { "q": "Cât costă depunerea ofertei?", "a": "Depunerea la primărie nu presupune un onorariu, dar ai de plătit documentele necesare: extrasul de carte funciară pentru informare, certificatul fiscal și, dacă e cazul, procura notarială. Costul real al pregătirii stă în partea cadastrală, atunci când terenul nu e încă înscris." },
+        { "q": "Pot retrage oferta după ce a fost afișată?", "a": "Retragerea ofertei este posibilă, dar are consecințe: procedura se închide, iar dacă vreți să vindeți mai târziu, o reluați de la zero, cu un nou termen de 45 de zile lucrătoare. Discutați cu primăria modul exact de retragere, pentru că se consemnează în dosar." },
+        { "q": "Cât costă depunerea ofertei?", "a": "Depunerea la primărie nu presupune un onorariu, dar aveți de plătit documentele necesare: extrasul de carte funciară pentru informare, certificatul fiscal și, dacă e cazul, procura notarială. Costul real al pregătirii stă în partea cadastrală, atunci când terenul nu e încă înscris." },
         { "q": "Ce fac dacă un preemptor acceptă, dar apoi nu se prezintă la notar?", "a": "Legea prevede consecințe pentru neprezentarea preemptorului care a acceptat oferta. Practic, vânzătorul documentează situația la primărie și continuă cu următorul rang sau, după caz, cu vânzarea liberă. Este o etapă în care merită consultat notarul, pentru că fiecare caz are nuanțe." },
-        { "q": "Dacă vând două parcele alăturate, depun o ofertă sau două?", "a": "Se depune ofertă pentru fiecare imobil, identificat prin numărul cadastral și cartea funciară. Dacă vrei un singur dosar și un singur act, soluția e să alipești parcelele înainte, printr-o documentație de alipire — dar asta adaugă timp înainte de a porni procedura." }
+        { "q": "Dacă vând două parcele alăturate, depun o ofertă sau două?", "a": "Se depune ofertă pentru fiecare imobil, identificat prin numărul cadastral și cartea funciară. Dacă vreți un singur dosar și un singur act, soluția e să alipiți parcelele înainte, printr-o documentație de alipire — dar asta adaugă timp înainte de a porni procedura." }
       ]
     },
     {
       "type": "cta",
-      "heading": "Vrei să depui oferta fără să te întorci de la ghișeu?",
-      "text": "Trimite-ne pe WhatsApp extrasul de carte funciară și titlul — verificăm dacă datele terenului se potrivesc și ce trebuie corectat înainte de depunere."
+      "heading": "Vreți să depuneți oferta fără să vă întoarceți de la ghișeu?",
+      "text": "Trimiteți-ne pe WhatsApp extrasul de carte funciară și titlul — verificăm dacă datele terenului se potrivesc și ce trebuie corectat înainte de depunere."
     }
   ],
   "related": [
