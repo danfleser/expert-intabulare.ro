@@ -1820,7 +1820,7 @@
     ],
     "process": [
       "Ne trimiteți extrasul CF sau proiectul autorizat și stabilim ce trasăm.",
-      "Pregătim coordonatele punctelor de trasat din documentație sau din proiect.",
+      "Pregătim coordonatele punctelor de trasat și verificăm sistemul în care sunt date: documentațiile cadastrale se raportează în Stereografic 1970, iar valorile dintr-un plan mai vechi, în sistem local, se aduc întâi acolo.",
       "Marcăm punctele pe teren, în {localitate}, cu GPS/stație totală: țăruși, borne sau vopsea.",
       "Verificăm geometria trasată și cotele, unde este cazul.",
       "Predăm procesul-verbal de trasare — constructorului sau dumneavoastră."
