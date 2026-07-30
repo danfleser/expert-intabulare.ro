@@ -9,8 +9,8 @@
   "sections": [
     {
       "type": "html",
-      "heading": "Un singur topograf pe tot ciclul de viață al parcului",
-      "html": "<p>La un parc de peste 1 MW, topografia nu mai e o comandă punctuală — e un fir care traversează tot proiectul: zeci de parcele de comasat, superficie de înscris pe fiecare imobil, studiu topografic pe zeci de hectare, mii de piloni de trasat în ritmul șantierului, apoi as-built-ul fără de care nu treceți de recepție. Când fiecare etapă o face altă echipă, plătiți de fiecare dată remobilizare, altă referință de coordonate și timp pierdut la interfețe.</p><p>Noi acoperim întregul lanț dintr-o singură bază de date și o singură rețea de sprijin materializată pe teren la prima vizită. Colaborăm cu dezvoltatori și constructori — de la fondul care cumpără proiectul până la echipele care bat pilonii — și predăm fiecărei părți livrabilele în formatul ei: rapoarte pentru investitor, dwg/LandXML pentru proiectant, tabele de trasare pentru șantier, documentații conform Ordinului ANCPI 700/2014 pentru instituții.</p>"
+      "heading": "O singură referință de coordonate pe tot ciclul de viață al parcului",
+      "html": "<p>La un parc de peste 1 MW, topografia nu mai e o comandă punctuală — e un fir care traversează tot proiectul: zeci de parcele de comasat, superficie de înscris pe fiecare imobil, studiu topografic pe zeci de hectare, mii de piloni de trasat în ritmul șantierului, apoi as-built-ul fără de care nu treceți de recepție. Când fiecare etapă pornește de la altă măsurătoare, plătiți de fiecare dată remobilizare, altă referință de coordonate și timp pierdut la interfețe.</p><p>Noi acoperim întregul lanț dintr-o singură bază de date și o singură rețea de sprijin materializată pe teren la prima vizită. Colaborăm cu dezvoltatori și constructori — de la fondul care cumpără proiectul până la echipele care bat pilonii — și predăm fiecărei părți livrabilele în formatul ei: rapoarte pentru investitor, dwg/LandXML pentru proiectant, tabele de trasare pentru șantier, documentații conform Ordinului ANCPI 700/2014 pentru instituții.</p>"
     },
     {
       "type": "table",
