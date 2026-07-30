@@ -575,6 +575,38 @@ function buildServiceLocality(ctx, service, loc, emitted) {
       (localNote ? `<p>${escHtml(localNote)}</p>` : '') +
       `</div>`
     : '';
+  // Per-locality × per-SERVICE note (PLAN-rank-first.md §1.5).
+  //
+  // Data contract — a locality record in generator/data/localities/<county>.json:
+  //   "serviceNotes": { "<service-slug>": "one paragraph" }
+  //
+  // Why this shape and not a per-county or per-profile block: a note keyed on
+  // locality × service renders on exactly ONE page, so every word in it is
+  // page-exclusive and it can only push that page's unique-word count up and its
+  // overlap down. A block keyed on county (Alba = 35% of a 222-page sibling
+  // group) or on BCPI office (5-11%) sits below the 50% boilerplate cut, lands
+  // in the residual and drives overlap UP on every leaf it touches. That is the
+  // whole reason this field is service-scoped rather than a second localNote.
+  //
+  // Renders nothing while the key is absent, which is the state of every
+  // locality record today — the render ships as a zero-diff build and the data
+  // follows in Phase 3.
+  //
+  // The slot shares localNoteBlock's line in page-service-locality.html on
+  // purpose: an empty slot on a line of its own still emits its indent and
+  // newline, which rewrites all 1,516 leaves with a whitespace-only diff before
+  // a single note exists. Same line => genuinely 0 bytes changed.
+  //
+  // Authoring constraints for whoever fills it (SOP §0.5, chair D6): geography,
+  // land-use pattern, document-type mix and BCPI logistics only. No PNCCF year,
+  // sector, parcel count, completion status, date, price, tariff, turnaround or
+  // ANCPI authorization number.
+  const serviceNote = (loc.serviceNotes && loc.serviceNotes[service.slug]) || '';
+  const serviceNoteBlock = serviceNote
+    ? `<div class="mb-5"><h2 class="h5 mb-3">${escHtml(service.name)} în ${escHtml(loc.name)} — ce este specific</h2>` +
+      `<p>${escHtml(serviceNote)}</p></div>`
+    : '';
+
   // Keyed off county, not matrix: the deplasare note applies to every non-Alba locality,
   // including tier-2 towns upgraded to the full matrix (g-plan §1a condition).
   const deplasare = loc.countySlug !== 'alba' ? chrome.deplasareBlock(site) : '';
@@ -638,7 +670,7 @@ function buildServiceLocality(ctx, service, loc, emitted) {
 
   const waTopic = `${midSentence(service.shortName || service.name)} în ${loc.name}, județul ${countyName}`;
   const content = renderTemplate(tpl('page-service-locality.html'), {
-    introHtml, ocpiBlock, villagesBlock, localNoteBlock,
+    introHtml, ocpiBlock, villagesBlock, localNoteBlock, serviceNoteBlock,
     deplasareBlock: deplasare, documentsBlock, processBlock, priceBlock, countyNoteBlock, faqBlock,
     sidebar: chrome.contactCard(site, { namespace: 'servicii', topic: waTopic }),
     ownerBlock: chrome.ownerCard(site),
