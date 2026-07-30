@@ -8,7 +8,7 @@
     {
       "type": "paragraph",
       "heading": "Ce este PNCCF, pe scurt",
-      "text": "Programul Național de Cadastru și Carte Funciară (PNCCF) este programul prin care statul își propune înregistrarea gratuită a tuturor imobilelor din România în sistemul integrat de cadastru și carte funciară. Lucrările se numesc „înregistrare sistematică”: o firmă contractată de primărie sau de ANCPI măsoară toate imobilele dintr-o localitate sau dintr-un sector cadastral, confruntă măsurătorile cu actele și registrele agricole, afișează public rezultatele, iar la final fiecare imobil primește carte funciară — fără ca proprietarii să plătească măsurătorile sau tarifele de înscriere.\n\nProgramul avansează real, dar inegal: conform datelor ANCPI, în 2026 înregistrarea sistematică era finalizată sau în derulare în peste 2.600 din cele 3.181 de unități administrativ-teritoriale ale țării, iar numărul imobilelor înregistrate din fonduri europene a depășit 3,4 milioane. Unele comune sunt terminate integral, altele doar pe câteva sectoare cadastrale (de regulă extravilanul agricol), iar altele nu au început deloc."
+      "text": "Programul Național de Cadastru și Carte Funciară (PNCCF) este programul prin care statul își propune înregistrarea gratuită a tuturor imobilelor din România în sistemul integrat de cadastru și carte funciară. Lucrările se numesc „înregistrare sistematică”: o firmă contractată de primărie sau de ANCPI măsoară toate imobilele dintr-o localitate sau dintr-un sector cadastral, confruntă măsurătorile cu actele și registrele agricole, afișează public rezultatele, iar la final fiecare imobil primește carte funciară — fără ca proprietarii să plătească măsurătorile sau tarifele de înscriere.\n\nProgramul avansează real, dar inegal: conform datelor publicate de ANCPI în iunie 2026, lucrările de înregistrare sistematică erau în derulare în peste 2.600 din cele 3.181 de unități administrativ-teritoriale ale țării, iar numărul imobilelor înregistrate gratuit din fonduri europene depășise 3,4 milioane. Sunt cifrele instituției la acea dată, nu ale noastre, și se schimbă de la o lună la alta. Unele comune sunt terminate integral, altele doar pe câteva sectoare cadastrale (de regulă extravilanul agricol), iar altele nu au început deloc."
     },
     {
       "type": "paragraph",
@@ -17,12 +17,12 @@
     },
     {
       "type": "table",
-      "heading": "Cadastru gratuit (sistematic) vs. cadastru la cerere (sporadic)",
+      "heading": "Cadastru gratuit (sistematic) vs. cadastru la cerere (sporadic) — durate estimative",
       "head": ["", "PNCCF / sistematic", "La cerere / individual"],
       "rows": [
         ["Cine plătește", "statul / fonduri europene — gratuit pentru proprietar", "proprietarul (onorariu topograf; tariful ANCPI de primă înregistrare este oricum scutit)"],
         ["Când se întâmplă", "doar când primăria derulează lucrările în UAT/sectorul respectiv", "oricând doriți"],
-        ["Cât durează pentru proprietar", "luni sau ani, în ritmul programului", "de regulă 3–6 săptămâni în total"],
+        ["Cât durează pentru proprietar", "luni sau ani, în ritmul programului", "orientativ 3–6 săptămâni în total, în funcție de acte și de biroul teritorial"],
         ["Cine alege topograful", "firma contractată de primărie/ANCPI", "dumneavoastră"],
         ["Nivel de control", "limitat — participați la identificare și verificați afișarea publică", "complet — lucrarea se face pe situația și actele dumneavoastră"],
         ["Potrivit pentru", "imobile fără grabă, situații de familie clare", "vânzare, credit, moștenire de clarificat, finanțări cu termen"]
@@ -62,7 +62,7 @@
     {
       "type": "cta",
       "heading": "Verificați-vă situația înainte de a decide",
-      "text": "Scrieți-ne pe WhatsApp localitatea și ce plănuiți cu terenul (vânzare, credit, doar clarificare). Vă spunem dacă zona e în PNCCF, dacă merită să așteptați și cât ar costa varianta la cerere. Informațiile din acest ghid au caracter informativ și nu constituie consultanță juridică."
+      "text": "Scrieți-ne pe WhatsApp sau sunați-ne cu localitatea și cu ce plănuiți să faceți cu terenul (vânzare, credit, doar clarificare). Vă spunem dacă zona e în PNCCF, dacă merită să așteptați, cât ar costa varianta la cerere și în cât timp ar fi gata — termenele din tabelul de mai sus sunt estimări, iar cel pentru dumneavoastră îl dăm pe cazul concret. Informațiile din acest ghid au caracter informativ și nu constituie consultanță juridică."
     }
   ],
   "related": {
@@ -70,6 +70,7 @@
     "guides": ["diferenta-dintre-cadastru-si-intabulare", "acte-necesare-intabulare-teren", "suprafata-din-acte-difera-de-teren", "preturi-cadastru-topografie-2026", "intabulare-teren-fara-acte"]
   },
   "sources": [
+    "https://www.ancpi.ro/bucuresti-08-06-2026-peste-34-milioane-de-imobile-inregistrate-gratuit-pentru-cetateni-cu-fonduri-europene/",
     "https://www.ancpi.ro/pnccf/stadiu-lucrarilor.html",
     "https://www.avocatnet.ro/articol_69621/Cadastrare-gratuit%C4%83-2026-Cum-decurge-procesul-de-inregistrare-a-tuturor-propriet%C4%83%C8%9Bilor-din-Romania.html",
     "https://www.infocontact.ro/cadastru-gratuit-acte-verificare-lista-pnccf/",
