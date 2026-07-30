@@ -1,13 +1,13 @@
 {
   "slug": "trasare-teren-cand-ai-nevoie",
-  "title": "Trasare teren și limite de proprietate — când ai nevoie",
-  "h1": "Trasarea terenului și a limitelor de proprietate: când ai nevoie și cum se face",
-  "metaDescription": "Când ai nevoie de trasarea limitelor de proprietate: gard nou, conflict cu vecinul, teren cumpărat, începerea construcției. Cum se face trasarea GPS, ce primești și cât costă orientativ.",
+  "title": "Trasare teren și limite de proprietate — când aveți nevoie",
+  "h1": "Trasarea terenului și a limitelor de proprietate: când aveți nevoie și cum se face",
+  "metaDescription": "Când aveți nevoie de trasarea limitelor de proprietate: gard nou, conflict cu vecinul, teren cumpărat, începerea construcției. Cum se face trasarea GPS, ce primiți și cât costă orientativ.",
   "whatsappTopic": "trasarea limitelor unui teren",
   "sections": [
     {
       "type": "paragraph",
-      "heading": "Ce este trasarea și ce primești concret",
+      "heading": "Ce este trasarea și ce primiți concret",
       "text": "Trasarea este operațiunea prin care limitele din documentația cadastrală — coordonatele oficiale ale imobilului dumneavoastră — sunt transpuse fizic pe teren, cu precizie de ordinul centimetrilor, folosind echipament GNSS/GPS sau stație totală. Practic: topograful vine la teren, identifică din coordonate colțurile proprietății și le materializează cu țăruși, borne sau vopsea, exact acolo unde sunt în evidențele OCPI.\n\nLa final primiți limitele marcate pe teren și, la cerere, un proces-verbal de trasare cu schița punctelor — documentul care consemnează operația și pe care vă puteți sprijini la construirea gardului, în discuțiile cu vecinii sau în fața constructorului. Este serviciul cu cel mai bun raport preț/liniște sufletească din topografie: costă orientativ 500–1.200 lei pentru un teren obișnuit și previne conflicte care pot costa ani și zeci de mii de lei."
     },
     {
@@ -60,7 +60,7 @@
         },
         {
           "q": "Cât de precisă este trasarea GPS?",
-          "a": "Echipamentele GNSS profesionale, cu corecții în timp real, lucrează la precizie de 2–3 centimetri — mai mult decât suficient pentru garduri și construcții. Nu confundați cu GPS-ul telefonului, care are erori de metri: „am verificat pe telefon” nu este o verificare."
+          "a": "Echipamentele GNSS profesionale, cu corecții în timp real, lucrează la precizie de 2–3 centimetri — mai mult decât suficient pentru garduri și construcții. Nu confundațiți cu GPS-ul telefonului, care are erori de metri: „am verificat pe telefon” nu este o verificare."
         },
         {
           "q": "Vecinul și-a tras gardul peste limita mea acum 20 de ani. Trasarea rezolvă?",

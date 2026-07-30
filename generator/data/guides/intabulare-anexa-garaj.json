@@ -30,7 +30,7 @@
     },
     {
       "type": "process",
-      "heading": "Pașii concreți ai unei înscrieri de anexă",
+      "heading": "Pașii concreți aveți unei înscrieri de anexă",
       "steps": [
         {
           "title": "Verificarea situației actuale",
@@ -61,7 +61,7 @@
       "rows": [
         ["Construită cu autorizație, recepționată", "autorizația de construire, procesul-verbal de recepție la terminarea lucrărilor, certificatul de atestare a edificării de la primărie"],
         ["Construită înainte de 1 august 2001", "certificat de atestare fiscală din care rezultă înregistrarea construcției la rol; adeverință din registrul agricol, unde există"],
-        ["Construită după 2001, fără autorizație", "procedura de intrare în legalitate: expertiză tehnică, documentație la primărie, certificat de atestare a edificării — vezi ghidul dedicat"],
+        ["Construită după 2001, fără autorizație", "procedura de intrare în legalitate: expertiză tehnică, documentație la primărie, certificat de atestare a edificării — vedeți ghidul dedicat"],
         ["Anexă agricolă în extravilan, exceptată de la autorizare", "actele care susțin exceptarea și destinația agricolă; adeverință de la primărie"],
         ["Anexă demolată, dar înscrisă în CF", "autorizația de desființare și procesul-verbal de recepție a desființării — este radiere, nu înscriere"]
       ]

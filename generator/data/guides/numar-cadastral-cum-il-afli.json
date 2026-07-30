@@ -1,6 +1,6 @@
 {
   "slug": "numar-cadastral-cum-il-afli",
-  "title": "Cum afli numărul cadastral al unui imobil — 5 metode",
+  "title": "Cum aflați numărul cadastral al unui imobil — 5 metode",
   "h1": "Cum aflați numărul cadastral al terenului sau al casei",
   "metaDescription": "Cinci metode sigure de a găsi numărul cadastral: extrasul de carte funciară, geoportalul ANCPI, actele vechi, primăria și documentația de la topograf. Ce faceți dacă nu există.",
   "whatsappTopic": "aflarea numărului cadastral al unui imobil",
@@ -38,7 +38,7 @@
     },
     {
       "type": "table",
-      "heading": "Nu confundați cele patru numere",
+      "heading": "Nu confundațiți cele patru numere",
       "head": ["Numărul", "Ce identifică", "Unde apare"],
       "rows": [
         ["Număr cadastral", "imobilul în evidența de cadastru, unic pe UAT", "foaia A din extras, planul de amplasament"],
