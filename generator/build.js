@@ -190,6 +190,37 @@ function main() {
     }
   }
 
+  // ---------- service × county hubs: the routing parent of every leaf ----------
+  // `ls docs/servicii/*/*/index.html` returned ZERO before this: there was no
+  // service×county node anywhere on the site, so every leaf's breadcrumb had to
+  // jump to the service-AGNOSTIC /zone/<county>/ hub, which made
+  // intabulare-apartament/alba/alba-iulia and cadastru-si-intabulare/alba/noslac
+  // siblings under one node (PLAN-rank-first.md §1.0).
+  //
+  // Built from the DATA-gate candidate set, i.e. before the render-gate fixpoint,
+  // for two reasons: pages.js needs the set while it renders leaf breadcrumbs, and
+  // the invariant must be one-directional. Render-gate demotions only shrink a
+  // hub's locality lists; they can never remove a hub that a surviving leaf's
+  // breadcrumb points at.
+  const serviceCountyHubs = new Set(); // "<serviceSlug>/<countySlug>"
+  const countyHasLeaves = new Set();
+  for (const key of emitted) {
+    const [sSlug, cSlug] = key.split('/');
+    countyHasLeaves.add(`${sSlug}/${cSlug}`);
+  }
+  for (const s of services) {
+    for (const c of counties) {
+      // Ship a hub where the service has locality inventory in that county, plus
+      // Alba for the four hubOnly services: they have no inventory anywhere, and
+      // Alba is the county the business actually sits in, so this is their only
+      // county-level surface. A hubOnly service in a neighbouring county would be
+      // a page with no locality content at all — not shipped.
+      const has = countyHasLeaves.has(`${s.slug}/${c.slug}`);
+      if (has || (c.slug === 'alba' && s.hubOnly === true)) serviceCountyHubs.add(`${s.slug}/${c.slug}`);
+    }
+  }
+  ctx.serviceCountyHubs = serviceCountyHubs;
+
   // ---------- render gate (fixpoint: demotions update cross-links) ----------
   const demotedRender = []; // {key, reasons}
   let localityPages = [];
@@ -221,6 +252,13 @@ function main() {
   for (const p of localityPages) if (emitted.has(p.key)) allPages.push(p.page);
 
   for (const s of services) allPages.push(pages.buildServiceHub(ctx, s, emitted));
+
+  for (const s of services) {
+    for (const c of counties) {
+      if (!serviceCountyHubs.has(`${s.slug}/${c.slug}`)) continue;
+      allPages.push(pages.buildServiceCountyHub(ctx, s, c, emitted));
+    }
+  }
 
   const demotedNotes = new Map();
   for (const d of [...demotedData, ...demotedRender]) {

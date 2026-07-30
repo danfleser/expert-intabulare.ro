@@ -1,13 +1,13 @@
 BUILD REPORT — expert-intabulare.ro generator (buildDate 2026-07-29)
 
-Pages emitted: 2095  (+ 10 sitemap/robots files)
+Pages emitted: 2139  (+ 10 sitemap/robots files)
   agricol: 48
   core: 5
   dictionar: 305
   en: 41
   ghid: 53
-  serviciiAlba: 636
-  serviciiVecini: 892
+  serviciiAlba: 648
+  serviciiVecini: 924
   verticale: 115
 
 Data shards missing/unreadable (tolerated — build what exists): 0

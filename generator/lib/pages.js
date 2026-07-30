@@ -218,6 +218,12 @@ function depunereOf(service) {
   const d = typeof raw === 'string' ? { atBcpi: false, cardText: raw } : (raw || {});
   return {
     atBcpi: d.atBcpi !== false,
+    // Did anyone actually tell us? Absent field means "nobody has ruled on this
+    // service", which is not the same as "yes, it goes to BCPI". The eight
+    // services with locality pages have asserted BCPI lodging on 1,516 live
+    // leaves and are settled; the four hubOnly services have no authored copy at
+    // all, so their hubs must not originate the claim (see buildServiceCountyHub).
+    declared: raw != null,
     cardHeading: d.cardHeading || null,
     cardText: d.cardText || null,
     introSentence: d.introSentence || null,
@@ -637,8 +643,17 @@ function buildServiceHub(ctx, service, emitted) {
     const lis = locs
       .map((l) => `<li class="mb-1"><a href="/servicii/${service.slug}/${l.countySlug}/${l.slug}.html">${escHtml(l.name)}</a></li>`)
       .join('');
+    // The county group heading links down to the service × county hub where one
+    // exists: that hub is the leaves' breadcrumb parent, so the hierarchy has to
+    // be walkable from the national hub too, not only upwards from a leaf.
+    const hubHref = ctx.serviceCountyHubs && ctx.serviceCountyHubs.has(`${service.slug}/${c.slug}`)
+      ? `/servicii/${service.slug}/${c.slug}/`
+      : null;
+    const heading = hubHref
+      ? `<h3 class="h6 mb-3"><a href="${escAttr(hubHref)}">${escHtml(service.name)} în județul ${escHtml(c.label)}</a></h3>`
+      : `<h3 class="h6 mb-3">Județul ${escHtml(c.label)}</h3>`;
     groups.push(
-      `<div class="col-12 col-sm-6 col-lg-3"><h3 class="h6 mb-3">Județul ${escHtml(c.label)}</h3><ul class="list-unstyled fz-14">${lis}</ul></div>`
+      `<div class="col-12 col-sm-6 col-lg-3">${heading}<ul class="list-unstyled fz-14">${lis}</ul></div>`
     );
   }
   const localityIndex = groups.length
@@ -688,6 +703,261 @@ function buildServiceHub(ctx, service, emitted) {
     hreflangRo: enPath ? urlPath(pagePath) : null,
     hreflangEn: enPath,
     enHref: enPath || '/en/',
+  });
+}
+
+// ---------- service × county hub ----------
+
+/**
+ * Hub params for a county-scoped page: authored {placeholders} written for leaf
+ * copy must not reach the page as literal braces (same keys/aliases as copyParams).
+ */
+function countyHubParams(service, county, atBcpi) {
+  const p = {
+    locality: 'localitatea dumneavoastră',
+    county: county.name,
+    ocpi: atBcpi ? 'biroul de cadastru competent' : 'instituția competentă',
+    service: service.name,
+    distance: '', distanceKm: '', villages: '', profile: '',
+  };
+  p.localitate = p.locality; p.judet = p.county; p.distanta = p.distance;
+  p.serviciu = p.service; p.sate = p.villages;
+  return p;
+}
+
+/**
+ * Lead paragraph for a service × county hub.
+ *
+ * Data contract — `services.json`, optional:
+ *   "countyIntro": { "alba": "…", "cluj": "…" }   // one paragraph per county
+ *   "countyIntro": "…"                            // read as the ALBA paragraph only
+ *
+ * The bare-string form is deliberately restricted to Alba: PLAN-rank-first.md
+ * §2.2 specifies the authored paragraph must name «județul Alba» and Alba Iulia
+ * explicitly, and that text would be factually wrong on a Cluj or Sibiu hub.
+ * Counties without an authored paragraph get the composed fallback below, which
+ * states only what our own data already says.
+ */
+function countyIntroOf(service, county) {
+  const ci = service.countyIntro;
+  if (!ci) return null;
+  if (typeof ci === 'string') return county.slug === 'alba' ? ci : null;
+  return ci[county.slug] || null;
+}
+
+/** Towns (municipii + orașe) of a county that have an emitted page for this service. */
+function countyTowns(ctx, service, county, emitted) {
+  const rank = (t) => (t === 'municipiu' ? 0 : t === 'oras' ? 1 : 2);
+  return ctx.localities
+    .filter((l) => l.countySlug === county.slug && l.type !== 'comuna' &&
+      emitted.has(`${service.slug}/${l.countySlug}/${l.slug}`))
+    .sort((a, b) => rank(a.type) - rank(b.type) || a.name.localeCompare(b.name, 'ro'));
+}
+
+function buildServiceCountyHub(ctx, service, county, emitted) {
+  const { site } = ctx;
+  const pagePath = `/servicii/${service.slug}/${county.slug}/index.html`;
+  const dep = depunereOf(service);
+  const params = countyHubParams(service, county, dep.atBcpi);
+  const towns = countyTowns(ctx, service, county, emitted);
+  const locs = ctx.localities
+    .filter((l) => l.countySlug === county.slug && emitted.has(`${service.slug}/${l.countySlug}/${l.slug}`))
+    .sort((a, b) => a.name.localeCompare(b.name, 'ro'));
+  // entries are {name, address, covers} objects (counties.json) or plain strings
+  const offices = (county.bcpiOffices || []).map((o) => (typeof o === 'string' ? { name: o } : o)).filter((o) => o && o.name);
+  const ocpiHqText = county.ocpiHq && typeof county.ocpiHq === 'object'
+    ? `${county.ocpiHq.name}${county.ocpiHq.address ? `, ${county.ocpiHq.address}` : ''}`
+    : county.ocpiHq;
+
+  // Lead. Authored per county when available, otherwise composed from data we
+  // already hold: no place fact, count, date or duration is originated here.
+  const authoredIntro = countyIntroOf(service, county);
+  let introHtml;
+  if (authoredIntro) {
+    introHtml = authoredIntro.trim().startsWith('<')
+      ? authoredIntro
+      : `<p class="lead">${escHtml(fillParams(authoredIntro, params))}</p>`;
+  } else {
+    const roList = (xs) => (xs.length > 1 ? `${xs.slice(0, -1).join(', ')} și ${xs[xs.length - 1]}` : xs[0]);
+    const named = towns.slice(0, 3).map((t) => t.name);
+    // Deliberately service-agnostic: this paragraph is the fallback for every one
+    // of the 12 services, so it may not assert anything specific to cadastral work.
+    const sentences = [
+      `${service.name} în județul ${county.name}: ne ocupăm de lucrare de la prima discuție ` +
+      `până la documentația finală, cu deplasare la fața locului din biroul nostru din Aiud.`,
+    ];
+    if (named.length) {
+      sentences.push(`Lucrăm în tot județul — inclusiv în ${roList(named)} — și ne deplasăm în orice localitate din listele de mai jos.`);
+    }
+    // Only announce sections this page actually has.
+    const has = ['actele de pregătit', 'pașii lucrării'];
+    if (offices.length) has.push('birourile teritoriale din județ');
+    if (locs.length) has.push('localitățile în care lucrăm');
+    sentences.push(`Mai jos găsiți ${roList(has)}.`);
+    introHtml = `<p class="lead">${escHtml(sentences[0])}</p>` +
+      sentences.slice(1).map((s) => `<p>${escHtml(s)}</p>`).join('');
+  }
+
+  // Orașe principale — above the A–Z list, with the service in the anchor text.
+  const townsBlock = towns.length
+    ? `<div class="mb-5"><h2 class="h5 mb-3">Orașe și municipii din județul ${escHtml(county.name)}</h2>` +
+      `<ul class="list-unstyled row g-2 mb-0">${towns
+        .map((l) => `<li class="col-12 col-sm-6"><a href="/servicii/${escAttr(service.slug)}/${escAttr(l.countySlug)}/${escAttr(l.slug)}.html">${escHtml(service.name)} în ${escHtml(l.name)}</a></li>`)
+        .join('')}</ul></div>`
+    : '';
+
+  const documentsBlock = checklistBlock('Acte necesare (orientativ)', service.documents);
+  const processBlock = (service.process && service.process.length)
+    ? `<div class="mb-5"><h2 class="h5 mb-3">Cum decurge procesul</h2><ol class="ps-3">${service.process.map((s) => `<li class="mb-2">${escHtml(fillParams(s, params))}</li>`).join('')}</ol></div>`
+    : '';
+  // Existing hedged orientative range only — no new figure, and never the price table.
+  const priceBlock = service.priceRange
+    ? `<div class="mb-5"><h2 class="h5 mb-3">Preț orientativ în județul ${escHtml(county.name)}</h2>` +
+      `<p class="mb-0"><strong>${escHtml(service.priceRange)}</strong> <span class="fz-14">${escHtml(site.priceDisclaimer)}</span></p></div>`
+    : '';
+
+  // The BCPI block's home (chair D4): office facts belong on the hub, not on the
+  // leaves. `covers` is authored per office; on the neighbouring counties it lists
+  // only the localities inside our working area, so the phrasing states a subset
+  // and never claims to be the office's full catchment.
+  // Services with locality inventory have asserted BCPI lodging on their live
+  // leaves; for the four hubOnly services nobody has ruled yet, so their hub
+  // lists the offices as reference and hedges the lodging sentence instead of
+  // asserting it. `depunere` in services.json settles it either way.
+  const assertsLodging = dep.atBcpi && (dep.declared || service.hubOnly !== true);
+  let bcpiBlock = '';
+  if (assertsLodging && (offices.length || county.ocpiHq)) {
+    const officeItems = offices
+      .map((o) => {
+        const covers = (o.covers || []).filter(Boolean);
+        return `<li class="mb-3"><strong>${escHtml(o.name)}</strong>${o.address ? ` — ${escHtml(o.address)}` : ''}` +
+          (covers.length ? `<br><span class="fz-14">Din localitățile în care lucrăm, aici se depun dosarele pentru: ${covers.map(escHtml).join(', ')}.</span>` : '') +
+          `</li>`;
+      })
+      .join('');
+    bcpiBlock = cardBlock(
+      `Unde se depune dosarul în județul ${county.name}`,
+      (county.ocpiHq ? `<p>Instituția coordonatoare este ${escHtml(ocpiHqText)}. Dosarul se depune însă la biroul teritorial competent pentru localitatea imobilului:</p>` : '') +
+      (officeItems ? `<ul class="list-unstyled mb-0">${officeItems}</ul>` : '') +
+      `<p class="fz-14 mb-0 mt-3">Depunerea și urmărirea dosarului le facem noi.</p>`,
+      'bi-geo-alt'
+    );
+  } else if (dep.cardText) {
+    bcpiBlock = cardBlock(
+      dep.cardHeading || `Unde se depune dosarul în județul ${county.name}`,
+      `<p class="mb-0">${escHtml(fillParams(dep.cardText, params))}</p>`,
+      'bi-geo-alt'
+    );
+  } else if (dep.atBcpi && offices.length) {
+    bcpiBlock = cardBlock(
+      `Birourile de cadastru din județul ${county.name}`,
+      (county.ocpiHq ? `<p>Instituția coordonatoare este ${escHtml(ocpiHqText)}, cu birouri teritoriale în județ:</p>` : '') +
+      `<ul class="list-unstyled mb-0">${offices
+        .map((o) => `<li class="mb-2"><strong>${escHtml(o.name)}</strong>${o.address ? ` — ${escHtml(o.address)}` : ''}</li>`)
+        .join('')}</ul>` +
+      `<p class="fz-14 mb-0 mt-3">Lucrările care se înscriu în cartea funciară se depun la biroul competent pentru localitatea imobilului; ne ocupăm noi de depunere.</p>`,
+      'bi-geo-alt'
+    );
+  }
+
+  // `countyNote` and `feeNote` are both written from the land-registry point of
+  // view ("dosarul se depune întotdeauna la biroul competent…", ANCPI tariffs), so
+  // they ride on the same flag as the lodging claim: true for the eight cadastral
+  // services, withheld until declared for the four that have no authored copy.
+  const countyNoteBlock = (assertsLodging && county.countyNote)
+    ? cardBlock(`Particularități în județul ${county.name}`, `<p class="mb-0">${escHtml(county.countyNote)}</p>`, 'bi-info-circle')
+    : '';
+  const feeNoteBlock = (assertsLodging && county.feeNote) ? `<div class="mb-5"><p class="fz-14 mb-0">${escHtml(county.feeNote)}</p></div>` : '';
+
+  // FAQ is mandatory on a county hub (PLAN §1.1): a hub with no FAQ is weaker
+  // than its own children on the one signal Google renders in the SERP.
+  // `service.hubFaq` (authored, hub voice) wins; until it exists we fall back to
+  // the head of the approved per-service pool, parameterised for a hub.
+  let faqs = [];
+  if (service.hubFaq && service.hubFaq.length) {
+    faqs = service.hubFaq;
+  } else if (service.faqPool && service.faqPool.length) {
+    faqs = service.faqPool.slice(0, 4).map((f) => ({
+      q: fillParams(f.q, params),
+      a: fillParams(f.a, params),
+    }));
+  }
+  const faqBlock = faqs.length
+    ? `<div class="mb-5"><h2 class="h5 mb-3">Întrebări frecvente — ${escHtml(midSentence(service.name))} în județul ${escHtml(county.name)}</h2>${faqDetails(faqs)}</div>`
+    : '';
+
+  // A–Z index of every emitted leaf for this service in this county, with the
+  // service in the anchor text (chair W3a).
+  const localityIndex = locs.length
+    ? `<div class="mt-5"><h2 class="h4 mb-4">${escHtml(service.name)} — localități din județul ${escHtml(county.name)}</h2>` +
+      `<div class="row g-2">${locs
+        .map((l) => `<div class="col-12 col-sm-6 col-lg-4 fz-14"><a href="/servicii/${escAttr(service.slug)}/${escAttr(l.countySlug)}/${escAttr(l.slug)}.html">${escHtml(service.name)} în ${escHtml(l.name)}</a></div>`)
+        .join('')}</div></div>`
+    : '';
+
+  const hubLinksBlock = chrome.linkCard('Vezi și', [
+    { href: `/servicii/${service.slug}/`, label: `${service.name} — toate zonele` },
+    { href: `/zone/${county.slug}/`, label: `Toate serviciile în județul ${county.name}` },
+  ]);
+  const otherCounties = (ctx.serviceCountyHubs ? [...site.nav.counties] : [])
+    .filter((c) => c.slug !== county.slug && ctx.serviceCountyHubs.has(`${service.slug}/${c.slug}`))
+    .map((c) => ({ href: `/servicii/${service.slug}/${c.slug}/`, label: `${service.name} în județul ${c.label}` }));
+  const otherCountiesBlock = chrome.linkCard(`${service.name} în alte județe`, otherCounties);
+  const resources = (service.resources || [])
+    .filter((r) => r && r.href && r.label)
+    .map((r) => ({ href: r.href, label: r.label }));
+  const resourcesBlock = chrome.linkCard('Ghiduri și termeni utili', resources);
+
+  const waTopic = `${midSentence(service.shortName || service.name)} în județul ${county.name}`;
+  const content = renderTemplate(tpl('page-service-county-hub.html'), {
+    introHtml, townsBlock, documentsBlock, processBlock, priceBlock,
+    bcpiBlock, countyNoteBlock, feeNoteBlock, faqBlock,
+    sidebar: chrome.contactCard(site, { namespace: 'servicii', topic: waTopic }),
+    hubLinksBlock, resourcesBlock, otherCountiesBlock, localityIndex,
+  }, ctx.warnings, pagePath);
+
+  const META_MAX_CHARS = 155;
+  const metaHead = `${service.name} în județul ${county.name}`;
+  const metaPhone = `. Tel. ${site.nap.phoneDisplay}.`;
+  const metaMids = dep.atBcpi
+    ? [': localități, birouri BCPI, acte, prețuri orientative. Topograf autorizat ANCPI',
+       ': localități, acte, prețuri orientative. Topograf autorizat ANCPI']
+    : [': localități acoperite, acte necesare, prețuri orientative. Topograf autorizat ANCPI',
+       ': localități, acte, prețuri orientative. Topograf autorizat ANCPI'];
+  const metaDescription = metaHead +
+    (metaMids.find((m) => [...(metaHead + m + metaPhone)].length <= META_MAX_CHARS) || '') +
+    metaPhone;
+
+  const jsonldExtra = [
+    schema.serviceSchema(site, {
+      serviceName: `${service.name} în județul ${county.name}`,
+      description: metaDescription,
+      areaServed: `Județul ${county.name}`,
+      url: urlPath(pagePath),
+    }),
+  ];
+  if (faqs.length) jsonldExtra.push(schema.faqPage(faqs));
+
+  return assemblePage(ctx, {
+    path: pagePath,
+    section: county.slug === 'alba' ? 'serviciiAlba' : 'serviciiVecini',
+    title: fitTitle([
+      `${service.name} în județul ${county.name}`,
+      ' — Topograf autorizat ANCPI',
+      ' | Fleser Aurel Expert',
+    ]),
+    metaDescription,
+    h1: `${service.name} în județul ${county.name}`,
+    breadcrumbItems: [
+      { name: 'Acasă', url: '/' },
+      { name: service.name, url: `/servicii/${service.slug}/` },
+      { name: `Județul ${county.name}`, url: urlPath(pagePath) },
+    ],
+    content,
+    jsonldExtra,
+    namespace: 'servicii',
+    waTopic,
+    hreflangRo: null, hreflangEn: null,
   });
 }
 
@@ -1178,7 +1448,7 @@ function buildEnPage(ctx, entry) {
 
 module.exports = {
   canonicalUrl, urlPath, distanceKm, midSentence,
-  buildServiceLocality, buildServiceHub, buildCountyHub,
+  buildServiceLocality, buildServiceHub, buildServiceCountyHub, buildCountyHub,
   buildAuthoredPage, buildVerticalHub, buildGuideHub,
   buildDictTerm, buildDictIndex, buildEnPage,
 };

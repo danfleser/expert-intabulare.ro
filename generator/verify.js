@@ -267,10 +267,17 @@ function main() {
   }
 
   // ---------- 10. uniqueness gates re-check on rendered files ----------
+  // The sibling group must be exactly what build.js gated: the locality LEAVES of
+  // one service across all counties (build.js groups `localityPages`). The
+  // service×county hub lives at servicii/<service>/<county>/index.html, which the
+  // leaf pattern below also matches — and folding it in would both measure a hub
+  // against the leaf gates it is explicitly exempt from (hub gate class = size
+  // only) and shift the shingle document frequencies of 222 live leaves, so
+  // verify would judge a group the build never built.
   const byService = new Map();
   for (const rel of htmlFiles) {
     const m = rel.match(/^servicii\/([^/]+)\/([^/]+)\/([^/]+)\.html$/);
-    if (!m) continue;
+    if (!m || m[3] === 'index') continue;
     if (!byService.has(m[1])) byService.set(m[1], []);
     byService.get(m[1]).push({ key: rel, html: utf8.get(rel) || '' });
   }
