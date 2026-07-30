@@ -51,6 +51,9 @@
     "profile": "urban",
     "countyNotesRef": "alba",
     "localNote": "Aiudul este orașul nostru de bază: biroul PFA se află chiar în municipiu, pe Str. Florilor 1A, astfel că lucrările locale se programează cel mai rapid. Orașul e așezat pe valea Mureșului, pe DN1 (E81), la jumătatea drumului între Alba Iulia și Turda, cu Cetatea Aiudului în centrul istoric. BCPI Aiud, de pe Str. Cuza Vodă nr. 14, primește dosarele pentru municipiu și pentru localitățile aparținătoare, de la Ciumbrud până la Gârbova de Sus.",
+    "serviceNotes": {
+      "cadastru-si-intabulare": "Dosarele de primă înscriere din Aiud adună acte de vechimi foarte diferite: contracte autentificate în oraș, certificate de moștenitor rămase nefolosite mult timp și titluri emise pentru terenurile din lunca Mureșului. Înainte de întocmirea documentației comparăm suprafața trecută în act cu cea rezultată din măsurătoare și lămurim diferențele împreună cu proprietarul. Dosarul ajunge apoi la registratura biroului de carte funciară din municipiu."
+    },
     "nearby": []
   },
   {
@@ -75,6 +78,9 @@
     "profile": "urban",
     "countyNotesRef": "alba",
     "localNote": "Alba Iulia, reședința județului, se află pe malul Mureșului, la intersecția DN1 (E81) cu DN74 și în apropierea autostrăzii A10. Cetatea Alba Carolina, cea mai mare fortificație de tip Vauban din România, domină orașul, iar cartierele rezidențiale s-au extins rapid spre Micești, Oarda și Pâclișa. Aici funcționează sediul OCPI Alba și BCPI Alba Iulia, unde se depun dosarele pentru municipiu și comunele arondate.",
+    "serviceNotes": {
+      "cadastru-si-intabulare": "În Alba Iulia conviețuiesc două realități cadastrale: nucleul dens din Cetate și din centru, unde vecinătățile sunt deja înscrise și limitele trebuie corelate cu evidențele existente, și marginile dinspre Oarda, Micești și Pâclișa, unde loturile provin din suprafețe agricole parcelate de curând. Prima înscriere cere aici o citire atentă a istoricului de carte funciară, fiindcă multe imobile au trecut prin transcrieri succesive."
+    },
     "nearby": []
   },
   {
