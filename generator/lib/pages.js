@@ -770,8 +770,15 @@ function buildServiceHub(ctx, service, emitted) {
       .filter((l) => l.countySlug === c.slug && emitted.has(`${service.slug}/${l.countySlug}/${l.slug}`))
       .sort((a, b) => a.name.localeCompare(b.name, 'ro'));
     if (!locs.length) continue;
+    // Descriptive anchor text, never the bare place name (chair W3a). A link
+    // reading only «Doștat» tells Google nothing about what the target page is
+    // for, and this hub is the single largest source of internal anchors to the
+    // leaves — 222 of them on a full-matrix service. The county hub and
+    // /zone/<county>/ already name the service in their anchors; this was the
+    // last index that did not, so the same leaf was described three different
+    // ways depending on which parent linked it.
     const lis = locs
-      .map((l) => `<li class="mb-1"><a href="/servicii/${service.slug}/${l.countySlug}/${l.slug}.html">${escHtml(l.name)}</a></li>`)
+      .map((l) => `<li class="mb-1"><a href="/servicii/${service.slug}/${l.countySlug}/${l.slug}.html">${escHtml(service.name)} în ${escHtml(l.name)}</a></li>`)
       .join('');
     // The county group heading links down to the service × county hub where one
     // exists: that hub is the leaves' breadcrumb parent, so the hierarchy has to
