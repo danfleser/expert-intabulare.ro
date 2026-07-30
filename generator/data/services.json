@@ -430,7 +430,7 @@
     ],
     "process": [
       "Ne trimiți pe WhatsApp actele apartamentului și ne spui scopul: vânzare, moștenire, credit.",
-      "Facem releveul apartamentului, cu deplasare în {localitate} — durează sub o oră.",
+      "Facem releveul apartamentului, cu deplasare în {localitate}, la ora care vă convine.",
       "Întocmim documentația cadastrală de unitate individuală, cu cotele din părțile comune.",
       "Depunem dosarul la {ocpi} și urmărim soluționarea.",
       "Primești extrasul de carte funciară al apartamentului, gata pentru notar sau bancă."
@@ -1029,11 +1029,11 @@
     "tier2Available": false,
     "hubOnly": true,
     "metaDescription": "Certificat de performanță energetică pentru vânzare sau închiriere: evaluare, clasă energetică, eliberare rapidă. Alba și împrejurimi.",
-    "hubIntro": "Certificatul de performanță energetică este obligatoriu la vânzarea sau închirierea oricărei locuințe — notarul îl cere la semnare. Documentul încadrează imobilul într-o clasă energetică, de la A la G, pe baza caracteristicilor constructive și a instalațiilor. Împreună cu partenerii noștri auditori energetici atestați, vă asigurăm certificatul rapid, de regulă în aceeași săptămână, pentru apartamente și case din zona Aiud – Alba și împrejurimi.",
+    "hubIntro": "Certificatul de performanță energetică este obligatoriu la vânzarea sau închirierea oricărei locuințe — notarul îl cere la semnare. Documentul încadrează imobilul într-o clasă energetică, de la A la G, pe baza caracteristicilor constructive și a instalațiilor. Îl întocmim noi, de la vizita la imobil până la predarea certificatului, pentru apartamente și case din Alba Iulia, Aiud, Sebeș, Blaj, Ocna Mureș, Teiuș și restul județului Alba.",
     "process": [
       "Ne trimiteți pe WhatsApp datele imobilului și actele existente.",
-      "Programăm vizita pentru releveu și fotografii — durează sub o oră.",
-      "Auditorul energetic atestat întocmește certificatul.",
+      "Programăm vizita pentru releveu și fotografii, la ora care vă convine.",
+      "Întocmim certificatul de performanță energetică și stabilim clasa energetică a imobilului.",
       "Primiți certificatul electronic și în original, gata pentru notar."
     ],
     "documents": [
@@ -1060,8 +1060,8 @@
         "a": "Izolația pereților și a acoperișului, tâmplăria, sistemul de încălzire și de apă caldă, suprafețele vitrate. Casele vechi neizolate ies de regulă în clase inferioare — ceea ce nu împiedică vânzarea, dar informează cumpărătorul."
       },
       {
-        "q": "Certificatul e făcut de voi sau de un auditor?",
-        "a": "Certificatul se emite legal doar de auditori energetici atestați. Noi facem releveul și coordonăm întreg procesul cu auditorii parteneri, ca dumneavoastră să aveți un singur interlocutor și un termen sigur."
+        "q": "Cine eliberează certificatul energetic?",
+        "a": "Certificatul de performanță energetică se eliberează pe baza evaluării făcute de un auditor energetic atestat. Noi facem toată lucrarea: venim la imobil, luăm măsurătorile și releveul, calculăm performanța energetică și vă predăm certificatul semnat, cu clasa energetică stabilită. Aveți un singur interlocutor de la primul mesaj până la documentul pus în dosarul de la notar."
       }
     ],
     "related": [
