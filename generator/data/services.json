@@ -111,7 +111,7 @@
       },
       {
         "q": "Suprafața reală diferă de cea din acte. Ce se întâmplă?",
-        "a": "Este printre cele mai frecvente situații. În funcție de mărimea diferenței și de prevederile legale, se poate înscrie suprafața măsurată sau este nevoie de proceduri suplimentare. Vă spunem varianta exactă imediat după măsurătoare."
+        "a": "Este printre cele mai frecvente situații. În funcție de mărimea diferenței și de prevederile legale, se poate înscrie suprafața măsurată sau este nevoie de proceduri suplimentare."
       },
       {
         "q": "Pot vinde un imobil neintabulat?",
@@ -419,7 +419,7 @@
       },
       {
         "q": "Terenul are suprafață diferită în acte față de teren. Ce facem?",
-        "a": "Situația este frecventă la titlurile vechi. În funcție de diferență, legea permite înscrierea suprafeței măsurate cu acordul vecinilor sau impune proceduri suplimentare. Vă spunem exact varianta aplicabilă după măsurătoare."
+        "a": "Situația este frecventă la titlurile vechi. În funcție de diferență, legea permite înscrierea suprafeței măsurate cu acordul vecinilor sau impune proceduri suplimentare."
       },
       {
         "q": "Faceți și dezmembrarea dacă vreau să vând doar o parte din teren?",
@@ -431,11 +431,11 @@
       },
       {
         "q": "Pot intabula terenul dacă e cadastru sistematic în {localitate}?",
-        "a": "Dacă în sectorul cadastral respectiv s-a finalizat cadastrul sistematic, imobilul poate fi deja înscris din oficiu — verificăm gratuit situația. Dacă lucrările sunt doar anunțate, intabularea sporadică rămâne calea sigură și rapidă."
+        "a": "Dacă în sectorul cadastral respectiv s-a finalizat cadastrul sistematic, imobilul poate fi deja înscris din oficiu — verificăm gratuit situația. Dacă lucrările sunt doar anunțate, intabularea sporadică rămâne calea de urmat."
       },
       {
         "q": "E nevoie de intabulare pentru arendă sau APIA?",
-        "a": "Pentru subvenții și contracte de arendă înregistrate, evidența clară a proprietății ajută întotdeauna, iar la vânzarea terenului sau accesarea de fonduri devine obligatorie. Un teren intabulat valorează mai mult și se tranzacționează fără blocaje."
+        "a": "Pentru subvenții și contracte de arendă înregistrate, evidența clară a proprietății ajută întotdeauna, iar la vânzarea terenului sau accesarea de fonduri devine obligatorie."
       }
     ],
     "related": [
@@ -2122,7 +2122,7 @@
     "faqPool": [
       {
         "q": "Ce înseamnă rectificarea suprafeței și când e posibilă?",
-        "a": "Înscrierea în cartea funciară a suprafeței reale, măsurate, în locul celei vechi din acte. Este posibilă în condițiile legii — în funcție de mărimea diferenței și de acordul vecinilor — iar noi vă spunem exact varianta aplicabilă după măsurătoare."
+        "a": "Înscrierea în cartea funciară a suprafeței reale, măsurate, în locul celei vechi din acte. Este posibilă în condițiile legii, în funcție de mărimea diferenței și de acordul vecinilor."
       },
       {
         "q": "Cum schimb categoria de folosință a terenului din {localitate}?",
