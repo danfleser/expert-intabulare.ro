@@ -22,7 +22,7 @@
       },
       {
         "profile": "montan-apuseni",
-        "text": "Pentru imobilele din satele risipite din jurul localității {localitate}, cadastrul cere identificare atentă: acte vechi, martori ai limitelor, planuri parcelare. Avem experiența terenului din zona de munte și ducem dosarul până la înscrierea în cartea funciară la {ocpi}."
+        "text": "Pentru imobilele din satele risipite din jurul localității {localitate}, cadastrul cere identificare atentă: acte vechi, martori ai limitelor, planuri parcelare. Ducem dosarul până la înscrierea în cartea funciară la {ocpi}."
       },
       {
         "profile": "urban",
@@ -357,7 +357,7 @@
       },
       {
         "profile": "periurban",
-        "text": "Loturile din {localitate} sunt tot mai căutate pentru case noi — dar un teren fără carte funciară nu poate primi autorizație de construire pe numele tău. Rezolvăm intabularea rapid: măsurătoare, documentație, depunere la {ocpi} și extras final."
+        "text": "Loturile din {localitate} sunt tot mai căutate pentru case noi — dar un teren fără carte funciară nu poate primi autorizație de construire pe numele tău. Rezolvăm intabularea: măsurătoare, documentație, depunere la {ocpi} și extras final."
       },
       {
         "profile": "agricol-campie",
@@ -932,7 +932,7 @@
       },
       {
         "profile": "montan-apuseni",
-        "text": "Și în orașele mici din zona montană, precum {localitate}, apartamentele din blocurile vechi se vând doar cu cadastru și intabulare la zi. Facem releveul locuinței, documentația cadastrală și înscrierea la {ocpi}, cu programare rapidă."
+        "text": "Și în orașele mici din zona montană, precum {localitate}, apartamentele din blocurile vechi se vând doar cu cadastru și intabulare la zi. Facem releveul locuinței, documentația cadastrală și înscrierea la {ocpi}."
       },
       {
         "profile": "montan-apuseni",
@@ -948,11 +948,11 @@
       },
       {
         "profile": "periurban",
-        "text": "Blocurile noi din zona {localitate} se apartamentează la finalizare: fiecare locuință primește carte funciară proprie, cu cotele din părțile comune. Lucrăm cu dezvoltatori și cu proprietari individuali, de la releveu până la înscrierea la {ocpi}."
+        "text": "Blocurile noi din zona {localitate} se apartamentează la finalizare: fiecare locuință primește carte funciară proprie, cu cotele din părțile comune. Facem releveul, documentația de unitate individuală și înscrierea la {ocpi}, pentru fiecare locuință din clădire."
       },
       {
         "profile": "periurban",
-        "text": "Cumperi un apartament în {localitate} prin credit? Banca cere cadastru și intabulare corecte. Verificăm documentația existentă, refacem ce este necesar și ne încadrăm în termenul băncii."
+        "text": "Cumperi un apartament în {localitate} prin credit? Banca cere cadastru și intabulare corecte. Verificăm documentația existentă și refacem ce este necesar înainte de evaluare."
       }
     ],
     "process": [
@@ -1496,7 +1496,7 @@
       },
       {
         "profile": "montan-apuseni",
-        "text": "Pentru cabane, pensiuni și case de vacanță în zona {localitate}, primăriile cer plan topografic vizat OCPI la autorizare. Ne deplasăm oriunde în zona de munte și predăm planul complet, cu inventar de coordonate."
+        "text": "Pentru cabane, pensiuni și case de vacanță în zona {localitate}, primăriile cer plan topografic vizat OCPI la autorizare. Predăm planul complet, cu inventar de coordonate."
       },
       {
         "profile": "urban",
@@ -1512,7 +1512,7 @@
       },
       {
         "profile": "periurban",
-        "text": "Pregătești un proiect în {localitate} — casă, hală, spălătorie, stație? Planul topografic vizat OCPI este printre primele piese cerute prin certificatul de urbanism. Îl realizăm rapid, cu deplasare la fața locului și predare digitală și pe hârtie."
+        "text": "Pregătești un proiect în {localitate} — casă, hală, spălătorie, stație? Planul topografic vizat OCPI este printre primele piese cerute prin certificatul de urbanism. Îl realizăm cu deplasare la fața locului și predare digitală și pe hârtie."
       },
       {
         "profile": "agricol-campie",
@@ -1781,11 +1781,11 @@
       },
       {
         "profile": "agricol-campie",
-        "text": "Neînțelegeri cu vecinul pe limita terenului din {localitate}? Trasarea limitelor pe baza coordonatelor din documentația cadastrală arată negru pe alb unde este hotarul înscris. Este cel mai rapid mod de a lămuri discuția."
+        "text": "Neînțelegeri cu vecinul pe limita terenului din {localitate}? Trasarea limitelor pe baza coordonatelor din documentația cadastrală arată negru pe alb unde este hotarul înscris."
       },
       {
         "profile": "montan-apuseni",
-        "text": "Pe terenurile din zona {localitate}, cu limite lungi prin fânețe și păduri, trasarea hotarelor cere echipament bun și experiență de teren. Marcăm punctele de hotar oriunde, indiferent de relief."
+        "text": "Pe terenurile din zona {localitate}, cu limite lungi prin fânețe și păduri, hotarele nu se mai văd pe teren. Materializăm punctele de hotar din documentația cadastrală, cu țăruși sau borne."
       },
       {
         "profile": "montan-apuseni",
@@ -2585,7 +2585,7 @@
       },
       {
         "profile": "agricol-campie",
-        "text": "Ridicați o hală, un grajd sau o platformă în {localitate}? Măsurăm terenul pentru planul topografic cerut la autorizare, trasăm construcția pe amplasament, verificăm cotele de fundație și stabilim cantitățile de pământ săpat și adus, necesare decontărilor. Pe teren deschis lucrăm eficient, așa că deplasarea nu scumpește devizul."
+        "text": "Ridicați o hală, un grajd sau o platformă în {localitate}? Măsurăm terenul pentru planul topografic cerut la autorizare, trasăm construcția pe amplasament, verificăm cotele de fundație și stabilim cantitățile de pământ săpat și adus, necesare decontărilor."
       },
       {
         "profile": "agricol-campie",
@@ -2593,7 +2593,7 @@
       },
       {
         "profile": "montan-apuseni",
-        "text": "Ridicați o casă sau o pensiune în zona {localitate}? Pe teren în pantă, cota zero și încadrarea construcției se stabilesc pe măsurători, nu din ochi — altfel apar diferențe de nivel pe care le plătiți la fundație. Folosim stația totală pe amplasamentele unde coroana pădurii blochează recepția satelitară, așa că panta nu ne oprește."
+        "text": "Ridicați o casă sau o pensiune în zona {localitate}? Pe teren în pantă, cota zero și încadrarea construcției se stabilesc pe măsurători, nu din ochi — altfel apar diferențe de nivel pe care le plătiți la fundație. Folosim stația totală pe amplasamentele unde coroana pădurii blochează recepția satelitară."
       },
       {
         "profile": "montan-apuseni",
@@ -3410,7 +3410,7 @@
       "montan-apuseni": [
         "În jurul {localitate} limitele se sprijină pe firul apei, pe muchia dealului sau pe lizieră — repere care se mută singure în timp. Raportul arată și linia din acte, și ce se vede astăzi pe teren, ca diferența dintre ele să poată fi judecată.",
         "Fânețele în pantă de pe raza {localitate} s-au fărâmițat la fiecare succesiune, iar mulți coproprietari nu mai locuiesc în sat. Înainte de măsurătoare adunăm actele tuturor părților, altfel expertiza se oprește la prima vecinătate neclară.",
-        "La imobilele izolate din {localitate} folosim aparatul potrivit fiecărei situații, inclusiv acolo unde coroana pădurii sau panta prea mare împiedică recepția satelitară, astfel încât punctele din raport să poată fi regăsite de oricine reface lucrarea.",
+        "La imobilele izolate din {localitate} măsurăm cu stația totală acolo unde coroana pădurii sau panta prea mare împiedică recepția satelitară, astfel încât punctele din raport să poată fi regăsite de oricine reface lucrarea.",
         "În {localitate} multe construcții de munte s-au ridicat în etape, pe teren moștenit și fără documentație păstrată. Expertiza le consemnează așa cum sunt — poziție, dimensiuni, vecinătăți — pentru dosarul care urmează."
       ],
       "periurban": [
