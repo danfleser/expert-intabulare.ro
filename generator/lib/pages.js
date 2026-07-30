@@ -224,12 +224,24 @@ function depunereOf(service) {
     // leaves and are settled; the four hubOnly services have no authored copy at
     // all, so their hubs must not originate the claim (see buildServiceCountyHub).
     declared: raw != null,
+    dropLocalNoteCadastral: d.dropLocalNoteCadastral === true,
     cardHeading: d.cardHeading || null,
     cardText: d.cardText || null,
     introSentence: d.introSentence || null,
     contextSentence: d.contextSentence || null,
     metaTail: d.metaTail || null,
   };
+}
+/**
+ * The site-wide disclaimer ends "…depinde de teren, documente și situația din cartea
+ * funciară" — the three things that actually move a cadastral quote. For a service
+ * with no land and no CF in it, that sentence names cost drivers the job does not
+ * have, on a page whose own card says it has nothing to do with cartea funciară. A
+ * service may therefore override it; every service that does not gets `site`'s
+ * string, unchanged.
+ */
+function priceDisclaimerFor(site, service) {
+  return (service && service.priceDisclaimer) || site.priceDisclaimer;
 }
 function ocpiAddress(loc) {
   return loc.ocpiOffice && typeof loc.ocpiOffice === 'object' ? loc.ocpiOffice.address : null;
@@ -367,10 +379,72 @@ function buildLocalContext(ctx, service, loc, county, seed) {
       `Trecerea din extravilan în intravilan, frecventă în zona ${loc.name}, schimbă regimul imobilului — vă spunem ce presupune pentru actele dumneavoastră.`,
     ],
   };
-  const pool = profilePools[loc.profile];
+  // The built-in pools above are written from the CADASTRAL point of view — parcels,
+  // plan parcelar, titluri de proprietate, istoricul cărții funciare, extravilan →
+  // intravilan. They are true for the ten services that survey land and false for a
+  // service that evaluates a building's thermal envelope: "lucrările de certificat
+  // energetic se corelează cu imobile învecinate deja cadastrate" is simply not what
+  // an energy certificate involves. `svc` substitution makes such a sentence read as
+  // if it were about this service, which is worse than generic.
+  //
+  // So a service may supply `profileNotes` in services.json — same shape, keyed by
+  // locality profile — and it wins per profile. Absent field, or a profile the
+  // service does not override, falls through to the built-in pool, so this is
+  // byte-identical for every service that declares nothing. Authored strings go
+  // through fillParams, so {localitate}, {judet}, {ocpi}, {sate} are available.
+  const authored = (service && service.profileNotes) || null;
+  const pool = (authored && Array.isArray(authored[loc.profile]) && authored[loc.profile].length)
+    ? authored[loc.profile].map((t) => fillParams(t, copyParams(ctx.site, service, loc, county)))
+    : profilePools[loc.profile];
   if (pool) s.push(pool[fnv1a(`prof:${loc.slug}:${service.slug}`) % pool.length]);
 
   return s.map(escHtml).join(' ');
+}
+
+/**
+ * `localNote` is a per-LOCALITY fact, reused across all twelve services, and it was
+ * written when every service on the site was a cadastral one. Almost every record
+ * closes on the competent land-registry office ("Dosarele se depun la BCPI Turda",
+ * "Competența este la BCPI Blaj"), and many describe the locality through its
+ * cadastral workload ("turismul a înmulțit cererile de intabulare", "loturile noi
+ * se dezmembrează și se intabulează în ritm alert"). On a cadastral page all of
+ * that is exactly right. On a page that has just told the reader, in its own card,
+ * that this document "nu se depune la biroul de cadastru și nu are legătură cu
+ * cartea funciară", the same sentences contradict the page two paragraphs later —
+ * and they sit under the heading "Despre lucrări în X", where they read as a
+ * description of the work THIS page sells.
+ *
+ * A service opts in with `depunere.dropLocalNoteCadastral: true`; sentences naming
+ * a land-registry office, record or procedure are then dropped from that service's
+ * leaves only. Deliberately NOT keyed off `atBcpi`: expertize-documentatii also
+ * sets atBcpi:false, yet its documentații de îndreptare genuinely ARE lodged at the
+ * competent office and its own contextSentence says so — the cadastral sentences
+ * belong on those pages. Sentence-level, not string-level, so the geography, the
+ * terrain and the building stock all survive; only the land-registry material goes.
+ */
+const CADASTRAL_SENTENCE = new RegExp([
+  'BCPI', 'OCPI', 'birou(l|ului)? de cadastru', 'birou(l|ului) din',
+  'cart(e|ea|ii)? funciar', 'cărții funciare', 'cadastru', 'cadastral', 'cadastrate',
+  'intabul', 'dezmembr', 'apartamentar', 'extras(ul)? CF',
+  'plan(ul)? parcelar', 'punere în posesie', 'arondat',
+  'dosar(ul|e|ele)? se depun', 'not(ă|e|ele) de completare',
+].join('|'), 'i');
+// Splitting on ". " alone tears the address abbreviations these notes are full of:
+// "BCPI Orăștie, de pe Str. George Coșbuc nr. 7, acoperă estul județului" broke after
+// "Str.", so the lodging half was dropped and the orphan tail "George Coșbuc nr. 7,
+// acoperă estul județului." was published. Verified counts in the locality data:
+// "Str." ×10, "nr." ×14, "Bd." ×1. Protect them, split, restore.
+const ABBREV = /\b(Str|str|Bd|bd|Nr|nr|jud|aprox|ap|et|sc)\.(?=\s)/g;
+const ABBREV_DOT = '\u0001'; // sentinel; cannot occur in authored copy
+function splitSentences(text) {
+  return String(text)
+    .replace(ABBREV, (m, w) => w + ABBREV_DOT)
+    .split(/(?<=\.)\s+/)
+    .map((s) => s.split(ABBREV_DOT).join('.'));
+}
+function stripCadastralSentences(note) {
+  const kept = splitSentences(note).filter((sentence) => !CADASTRAL_SENTENCE.test(sentence));
+  return kept.join(' ').trim();
 }
 
 function buildServiceLocality(ctx, service, loc, emitted) {
@@ -459,10 +533,13 @@ function buildServiceLocality(ctx, service, loc, emitted) {
   // component villages, neighbors) run through seeded sentence frames so adjacent
   // localities never share phrasing. This is data-driven prose, not spun text.
   const localContext = buildLocalContext(ctx, service, loc, county, seed);
-  const localNoteBlock = (loc.localNote || localContext)
+  const localNote = loc.localNote
+    ? (dep.dropLocalNoteCadastral ? stripCadastralSentences(loc.localNote) : loc.localNote)
+    : '';
+  const localNoteBlock = (localNote || localContext)
     ? `<div class="mb-5"><h2 class="h5 mb-3">Despre lucrări în ${escHtml(loc.name)}</h2>` +
       (localContext ? `<p>${localContext}</p>` : '') +
-      (loc.localNote ? `<p>${escHtml(loc.localNote)}</p>` : '') +
+      (localNote ? `<p>${escHtml(localNote)}</p>` : '') +
       `</div>`
     : '';
   // Keyed off county, not matrix: the deplasare note applies to every non-Alba locality,
@@ -473,7 +550,7 @@ function buildServiceLocality(ctx, service, loc, emitted) {
     ? `<div class="mb-5"><h2 class="h5 mb-3">Cum decurge procesul</h2><ol class="ps-3">${service.process.map((s) => `<li class="mb-2">${escHtml(fillParams(s, params))}</li>`).join('')}</ol></div>`
     : '';
   const priceBlock = service.priceRange
-    ? `<div class="mb-5"><p><strong>Preț orientativ:</strong> ${escHtml(service.priceRange)}. <span class="fz-14">${escHtml(site.priceDisclaimer)}</span></p></div>`
+    ? `<div class="mb-5"><p><strong>Preț orientativ:</strong> ${escHtml(service.priceRange)}. <span class="fz-14">${escHtml(priceDisclaimerFor(site, service))}</span></p></div>`
     : '';
   // Same ruling as the county hub (see buildServiceCountyHub): `countyNote` is
   // written from the land-registry point of view — it ends "dosarul se depune
@@ -640,9 +717,9 @@ function buildServiceHub(ctx, service, emitted) {
     priceBlock =
       `<div class="mb-5"><h2 class="h5 mb-3">Prețuri orientative</h2><div class="table-scroll"><table class="table">` +
       (head ? `<thead><tr>${head}</tr></thead>` : '') + `<tbody>${rows}</tbody></table></div>` +
-      `<p class="fz-14">${escHtml(site.priceDisclaimer)}</p></div>`;
+      `<p class="fz-14">${escHtml(priceDisclaimerFor(site, service))}</p></div>`;
   } else if (service.priceRange) {
-    priceBlock = `<div class="mb-5"><p><strong>Preț orientativ:</strong> ${escHtml(service.priceRange)}. <span class="fz-14">${escHtml(site.priceDisclaimer)}</span></p></div>`;
+    priceBlock = `<div class="mb-5"><p><strong>Preț orientativ:</strong> ${escHtml(service.priceRange)}. <span class="fz-14">${escHtml(priceDisclaimerFor(site, service))}</span></p></div>`;
   }
 
   let faqBlock = '';
@@ -832,7 +909,7 @@ function buildServiceCountyHub(ctx, service, county, emitted) {
   // Existing hedged orientative range only — no new figure, and never the price table.
   const priceBlock = service.priceRange
     ? `<div class="mb-5"><h2 class="h5 mb-3">Preț orientativ în județul ${escHtml(county.name)}</h2>` +
-      `<p class="mb-0"><strong>${escHtml(service.priceRange)}</strong> <span class="fz-14">${escHtml(site.priceDisclaimer)}</span></p></div>`
+      `<p class="mb-0"><strong>${escHtml(service.priceRange)}</strong> <span class="fz-14">${escHtml(priceDisclaimerFor(site, service))}</span></p></div>`
     : '';
 
   // The BCPI block's home (chair D4): office facts belong on the hub, not on the

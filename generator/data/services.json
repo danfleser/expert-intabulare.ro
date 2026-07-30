@@ -2852,7 +2852,7 @@
     "slug": "certificat-energetic",
     "shortName": "certificat energetic",
     "tier2Available": false,
-    "hubOnly": true,
+    "hubOnly": false,
     "metaDescription": "Certificat de performanță energetică pentru vânzare sau închiriere: evaluare, clasă energetică, eliberare rapidă. Alba și împrejurimi.",
     "hubIntro": "Certificatul de performanță energetică este obligatoriu la vânzarea sau închirierea oricărei locuințe — notarul îl cere la semnare. Documentul încadrează imobilul într-o clasă energetică, de la A la G, pe baza caracteristicilor constructive și a instalațiilor. Îl întocmim noi, de la vizita la imobil până la predarea certificatului, pentru apartamente și case din Alba Iulia, Aiud, Sebeș, Blaj, Ocna Mureș, Teiuș și restul județului Alba.",
     "process": [
@@ -2900,7 +2900,8 @@
       "cardText": "Certificatul de performanță energetică nu se depune la biroul de cadastru și nu are legătură cu cartea funciară. După vizita la imobil întocmim certificatul, acesta primește număr de înregistrare și vi-l predăm dumneavoastră, ca proprietar — de acolo merge la notar, la cumpărător sau la chiriaș, împreună cu contractul.",
       "introSentence": "Venim la imobil pentru evaluare și vă predăm certificatul de performanță energetică, cu clasa energetică stabilită, gata pentru dosarul de la notar.",
       "contextSentence": "Pentru certificatul energetic nu există dosar de depus la biroul de cadastru: evaluarea se face la imobil, iar documentul vă rămâne dumneavoastră.",
-      "metaTail": "Certificat gata pentru notar"
+      "metaTail": "Certificat gata pentru notar",
+      "dropLocalNoteCadastral": true
     },
     "hubFaq": [
       {
@@ -3091,7 +3092,34 @@
         "profile": "periurban",
         "text": "Ați terminat casa lângă {localitate} și urmează recepția? Certificatul de performanță energetică se cere la recepția la terminarea lucrărilor, alături de celelalte documente. Îl facem după proiect și după execuția reală, cu o vizită la imobil, ca să nu vă întârzie dosarul."
       }
-    ]
+    ],
+    "priceDisclaimer": "Prețurile afișate sunt orientative; costul exact depinde de tipul imobilului, de suprafața evaluată și de complexitatea instalațiilor.",
+    "profileNotes": {
+      "urban": [
+        "În {localitate}, cele mai multe certificate le întocmim pentru apartamente, iar acolo contează poziția în bloc — colț, ultim etaj, deasupra unui spațiu neîncălzit — starea tâmplăriei și felul în care se fac încălzirea și apa caldă.",
+        "Blocurile din {localitate} au fost ridicate după proiecte-tip, însă între timp fiecare apartament a fost schimbat pe cont propriu: termopan, centrală proprie, balcon închis, uneori fațadă izolată doar la unele scări. De aceea evaluarea se face pe locuința dumneavoastră, nu pe clădire în general.",
+        "La casele din {localitate} ridicate în etape, anvelopa este amestecată — un corp vechi cu ziduri groase lipit de o extindere modernă — iar calculul trebuie să le ia pe rând, fiecare cu suprafața și cu materialul ei.",
+        "În {localitate} vânzările se mișcă repede, iar cumpărătorii se uită la clasa energetică încă din anunț, așa că certificatul e bine să existe înainte de publicarea ofertei, nu în ziua semnării."
+      ],
+      "agricol-campie": [
+        "Casele din {localitate} sunt de obicei din cărămidă sau din chirpici, cu pereți groși, tavan de lemn și pod nefolosit — o alcătuire care se poartă bine vara și slab iarna, iar evaluarea o arată ca atare.",
+        "În gospodăriile din {localitate}, încălzirea se face frecvent cu sobe pe lemne, uneori doar în două camere din toată casa. Notăm exact ce sistem există și pe ce suprafață lucrează, fiindcă asta cântărește mult în clasa finală.",
+        "Multe locuințe de la sat au crescut în timp cu o cameră, o verandă închisă sau o bucătărie de vară alipită. Le măsurăm pe toate la fața locului, pentru că în {localitate} suprafața reală rar coincide cu cea trecută în actul de proprietate.",
+        "Pentru casele vechi din {localitate} nu se mai găsește aproape niciodată un proiect păstrat. Nu este o piedică: facem noi releveul pe teren și pe el se sprijină tot calculul."
+      ],
+      "montan-apuseni": [
+        "Pe raza localității {localitate} multe imobile sunt case de vacanță și pensiuni cu mansardă amenajată sub acoperiș, unde căldura se pierde în sus — un detaliu care schimbă simțitor rezultatul evaluării.",
+        "Locuințele de munte din jurul localității {localitate} se încălzesc cu lemne, din sobe sau din centrale pe combustibil solid, iar apa caldă se pregătește separat. Fiecare dintre aceste alegeri intră distinct în calcul.",
+        "Construcțiile din {localitate} au adesea pereți de lemn sau structură mixtă, lemn peste zidărie, cu ferestre mici. Le evaluăm ca atare, fără să le forțăm în tiparul unui bloc de oraș.",
+        "Urcăm la imobil oriunde s-ar afla pe raza localității {localitate}, inclusiv la cabanele greu accesibile pe timp de iarnă, pentru că o evaluare corectă cere văzută construcția pe viu."
+      ],
+      "periurban": [
+        "În {localitate} se vând multe case terminate recent, cu fațadă izolată, tâmplărie performantă și centrală proprie — imobile care ies de regulă în clase superioare, iar atunci certificatul devine un argument de vânzare, nu o formalitate.",
+        "Pentru casele nou construite din {localitate}, certificatul se cere și la recepția la terminarea lucrărilor, nu doar la vânzare. Îl întocmim după proiect și după execuția reală, care nu se suprapune întotdeauna peste planșe.",
+        "Ansamblurile de locuințe înșiruite din jurul localității {localitate} au unități aparent identice, dar cea de capăt are un perete în plus către exterior și iese altfel la calcul. Evaluăm unitatea dumneavoastră, nu pe cea a vecinului.",
+        "Multe locuințe din {localitate} au fost date în folosință pe etape, iar instalația de încălzire s-a completat pe parcurs. Consemnăm ce funcționează efectiv în ziua vizitei, nu ce era prevăzut."
+      ]
+    }
   },
   {
     "name": "Expertize și documentații",
