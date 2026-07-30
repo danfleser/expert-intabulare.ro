@@ -32,11 +32,23 @@ Read this in full before doing anything. Then follow it literally.
    prices (necesit.ro 560–810 lei, brig.ro 336–2.100 RON, Cadastru Maxim 300 lei); removing ours
    would be a competitive loss. **CEO ruling 2026-07-29: keep them.**
 
+   **ALSO ALLOWED — hedged, NON-NUMERIC duration language. CEO ruling 2026-07-30.**
+   The four lines already live in `services.json` (`:90`, `:217`, `:561`, `:1012`) stay:
+   *"de regulă câteva săptămâni"*, *"de regulă în câteva zile lucrătoare"*, *"termenul obișnuit
+   de soluționare este de ordinul săptămânilor"*. They contain **no numbers**, they are hedged
+   with *de regulă* / *câteva*, and duration is the deadline-driven seller's first question.
+   An earlier draft of this SOP banned them; that was an over-extension of the CEO's ruling and
+   the plan produced under it wrongly flagged them as violations. **Do not strip them. Do not
+   re-flag them.**
+
    **FORBIDDEN:**
    - The **exact ANCPI tariff** paid by the client. We do not know it.
-   - **Any turnaround or duration claim** — "se rezolvă în X zile", "aproximativ N zile
-     lucrătoare", "în aceeași zi" applied to BCPI processing, "termen de finalizare N zile".
-     These are checkable facts about a government office that neither we nor the agent knows.
+   - **NUMERIC turnaround claims** — "se rezolvă în 10 zile", "aproximativ 15 zile lucrătoare",
+     "termen de finalizare 7 zile", "3–6 săptămâni". A number turns a hedge into a checkable
+     promise about a government office's speed. The test is simple: **contains a digit or a
+     specific count → forbidden; hedged and qualitative → allowed.**
+   - "în aceeași zi" applied to **BCPI processing** (as opposed to Aurel's own reply time, which
+     is allowed and live).
    - Inventing any NEW price figure not already in `generator/data/services.json`.
 
    The distinction: a **hedged range we already publish and stand behind** is fine. A **specific
