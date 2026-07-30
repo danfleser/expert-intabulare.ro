@@ -1,8 +1,8 @@
 {
   "slug": "greseli-studiu-topografic-autorizatie",
   "title": "Greșeli în studiul topografic care blochează autorizația",
-  "h1": "Greșelile din studiile topografice care îți blochează autorizația — și cum verifici un studiu primit",
-  "metaDescription": "Studiu topografic fără viză OCPI, coordonate în alt sistem decât Stereo 70, rețele lipsă: greșelile care blochează autorizația și cum verifici un studiu primit.",
+  "h1": "Greșelile din studiile topografice care vă blochează autorizația — și cum verificați un studiu primit",
+  "metaDescription": "Studiu topografic fără viză OCPI, coordonate în alt sistem decât Stereo 70, rețele lipsă: greșelile care blochează autorizația și cum verificați un studiu primit.",
   "whatsappTopic": "verificarea unui studiu topografic primit, înainte de autorizare",
   "hook": "none",
   "trustBar": true,
@@ -10,7 +10,7 @@
     {
       "type": "html",
       "heading": "Studiul moștenit: cel mai scump document gratuit din proiect",
-      "html": "<p>Multe proiecte fotovoltaice pornesc cu un studiu topografic primit „la pachet”: de la vânzătorul terenului, de la un dezvoltator anterior sau dintr-o ofertă foarte ieftină. Problema iese la iveală târziu — la proiectant, la primărie sau la avizare — când documentul se dovedește inutilizabil, iar tu ai construit luni de planificare pe el. Un studiu prost nu e doar de refăcut: e timp pierdut în cel mai scump punct al calendarului, cel cu autorizația pe drumul critic.</p><p>Am strâns aici greșelile pe care le găsim cel mai des în studiile aduse de clienți, plus verificarea rapidă pe care o poți face singur înainte să te bazezi pe un studiu primit. Iar dacă vrei verdictul unui profesionist: trimite-ne studiul în PDF și extrasul CF pe WhatsApp și îți spunem dacă documentul e utilizabil, actualizabil sau de refăcut.</p>"
+      "html": "<p>Multe proiecte fotovoltaice pornesc cu un studiu topografic primit „la pachet”: de la vânzătorul terenului, de la un dezvoltator anterior sau dintr-o ofertă foarte ieftină. Problema iese la iveală târziu — la proiectant, la primărie sau la avizare — când documentul se dovedește inutilizabil, iar dumneavoastră ați construit luni de planificare pe el. Un studiu prost nu e doar de refăcut: e timp pierdut în cel mai scump punct al calendarului, cel cu autorizația pe drumul critic.</p><p>Am strâns aici greșelile pe care le găsim cel mai des în studiile aduse de clienți, plus verificarea rapidă pe care o puteți face singur înainte să vă bazați pe un studiu primit. Iar dacă vreți verdictul unui profesionist: trimiteți-ne studiul în PDF și extrasul CF pe WhatsApp și vă spunem dacă documentul e utilizabil, actualizabil sau de refăcut.</p>"
     },
     {
       "type": "html",
@@ -19,22 +19,22 @@
     },
     {
       "type": "checklist",
-      "heading": "Cum verifici singur un studiu primit, în 15 minute",
+      "heading": "Cum verificați singur un studiu primit, în 15 minute",
       "items": [
-        "Caută viza de recepție OCPI pe planșă — număr de înregistrare, dată, parafa de recepție; dacă lipsesc, oprește-te aici",
-        "Verifică sistemul de coordonate declarat în memoriu și pe planșă: trebuie să fie Stereografic 1970 (Stereo 70); coordonatele plane au valori de sute de mii de metri pe ambele axe",
-        "Compară limitele din studiu cu geoportalul ANCPI — imobilul tău și vecinii înregistrați trebuie să se așeze coerent, fără suprapuneri evidente",
-        "Verifică data măsurătorii față de ce s-a întâmplat pe teren de atunci: lucrări, construcții, modificări cadastrale",
-        "Caută pe plan liniile electrice cu stâlpi, conductele și canalele pe care le știi din teren — dacă ceva vizibil pe teren lipsește de pe plan, întreabă de ce",
-        "Verifică existența curbelor de nivel la o echidistanță declarată și a inventarului de coordonate",
-        "Cere fișierele native (dwg/dxf) și verifică dacă proiectantul tău le poate deschide și folosi direct",
-        "Întreabă cine a semnat: documentația trebuie întocmită de o persoană autorizată ANCPI"
+        "Căutați viza de recepție OCPI pe planșă — număr de înregistrare, dată, parafa de recepție; dacă lipsesc, opriți-vă aici",
+        "Verificați sistemul de coordonate declarat în memoriu și pe planșă: trebuie să fie Stereografic 1970 (Stereo 70); coordonatele plane au valori de sute de mii de metri pe ambele axe",
+        "Comparați limitele din studiu cu geoportalul ANCPI — imobilul dumneavoastră și vecinii înregistrați trebuie să se așeze coerent, fără suprapuneri evidente",
+        "Verificați data măsurătorii față de ce s-a întâmplat pe teren de atunci: lucrări, construcții, modificări cadastrale",
+        "Căutați pe plan liniile electrice cu stâlpi, conductele și canalele pe care le știți din teren — dacă ceva vizibil pe teren lipsește de pe plan, întreabă de ce",
+        "Verificați existența curbelor de nivel la o echidistanță declarată și a inventarului de coordonate",
+        "Cereți fișierele native (dwg/dxf) și verifică dacă proiectantul dumneavoastră le poate deschide și folosi direct",
+        "Întrebați cine a semnat: documentația trebuie întocmită de o persoană autorizată ANCPI"
       ]
     },
     {
       "type": "html",
       "heading": "Ce facem noi când primim un studiu de la terți",
-      "html": "<p>Verificarea profesionistă merge cu un pas mai departe decât checklist-ul: confruntăm studiul cu evidențele OCPI și cu geoportalul, verificăm prin sondaj câteva puncte pe teren cu GNSS RTK — cel mai rapid mod de a depista un sistem de coordonate greșit sau o măsurătoare neglijentă — și analizăm calitatea altimetriei față de nevoile proiectantului tău. Verdictul vine în una din trei forme: studiul e utilizabil ca atare; e actualizabil cu o completare de măsurători (mai ieftin decât refacerea); sau e de refăcut, cu argumentele pe masă.</p><p>Un detaliu care merită știut: refacerea nu pornește de la zero ca preț și timp dacă limitele cadastrale sunt în regulă — de aceea verdictul diferențiat contează. Detalii despre cum arată un studiu făcut corect găsești pe pagina <a href=\"/parcuri-fotovoltaice/studiu-topografic-parc-fotovoltaic.html\">studiului topografic pentru parc fotovoltaic</a>, iar despre respingerile documentațiilor cadastrale, pe pagina despre <a href=\"/parcuri-fotovoltaice/respingere-documentatie-ocpi.html\">respingerile OCPI</a>.</p>"
+      "html": "<p>Verificarea profesionistă merge cu un pas mai departe decât checklist-ul: confruntăm studiul cu evidențele OCPI și cu geoportalul, verificăm prin sondaj câteva puncte pe teren cu GNSS RTK — cel mai rapid mod de a depista un sistem de coordonate greșit sau o măsurătoare neglijentă — și analizăm calitatea altimetriei față de nevoile proiectantului dumneavoastră. Verdictul vine în una din trei forme: studiul e utilizabil ca atare; e actualizabil cu o completare de măsurători (mai ieftin decât refacerea); sau e de refăcut, cu argumentele pe masă.</p><p>Un detaliu care merită știut: refacerea nu pornește de la zero ca preț și timp dacă limitele cadastrale sunt în regulă — de aceea verdictul diferențiat contează. Detalii despre cum arată un studiu făcut corect găsiți pe pagina <a href=\"/parcuri-fotovoltaice/studiu-topografic-parc-fotovoltaic.html\">studiului topografic pentru parc fotovoltaic</a>, iar despre respingerile documentațiilor cadastrale, pe pagina despre <a href=\"/parcuri-fotovoltaice/respingere-documentatie-ocpi.html\">respingerile OCPI</a>.</p>"
     },
     {
       "type": "faq",
@@ -53,7 +53,7 @@
         },
         {
           "q": "Cine răspunde dacă studiul greșit a fost făcut de altcineva?",
-          "a": "Răspunderea profesională aparține celui care a semnat documentația. Practic însă, întârzierea o suportă proiectul tău — de aceea verificarea înainte de utilizare e mai valoroasă decât orice discuție ulterioară despre vinovății."
+          "a": "Răspunderea profesională aparține celui care a semnat documentația. Practic însă, întârzierea o suportă proiectul dumneavoastră — de aceea verificarea înainte de utilizare e mai valoroasă decât orice discuție ulterioară despre vinovății."
         }
       ]
     }

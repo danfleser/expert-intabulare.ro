@@ -10,7 +10,7 @@
     {
       "type": "html",
       "heading": "Piesa fără de care proiectul nu avansează",
-      "html": "<p>Studiul topografic este primul livrabil tehnic serios al unui proiect fotovoltaic: fără el nu există certificat de urbanism pe date reale, nu există proiectare corectă a structurii și nu există autorizație de construire. Este ridicarea completă a amplasamentului — relief, limite, vecinătăți, drumuri, rețele vizibile, elemente construite — întocmită în sistemul național de coordonate Stereo 70, recepționată de OCPI conform Ordinului ANCPI nr. 700/2014.</p><p>Pentru un dezvoltator, întrebările reale sunt trei: ce conține exact, cât durează până e vizat și în ce format ajunge la proiectant. Le luăm pe rând. Iar dacă vrei un răspuns direct pe terenul tău: trimite-ne extrasul CF pe WhatsApp și îți spunem în aceeași zi ce presupune studiul pentru amplasamentul respectiv.</p>"
+      "html": "<p>Studiul topografic este primul livrabil tehnic serios al unui proiect fotovoltaic: fără el nu există certificat de urbanism pe date reale, nu există proiectare corectă a structurii și nu există autorizație de construire. Este ridicarea completă a amplasamentului — relief, limite, vecinătăți, drumuri, rețele vizibile, elemente construite — întocmită în sistemul național de coordonate Stereo 70, recepționată de OCPI conform Ordinului ANCPI nr. 700/2014.</p><p>Pentru un dezvoltator, întrebările reale sunt trei: ce conține exact, cât durează până e vizat și în ce format ajunge la proiectant. Le luăm pe rând. Iar dacă vreți un răspuns direct pe terenul dumneavoastră: trimiteți-ne extrasul CF pe WhatsApp și vă spunem în aceeași zi ce presupune studiul pentru amplasamentul respectiv.</p>"
     },
     {
       "type": "html",
@@ -35,8 +35,8 @@
     },
     {
       "type": "html",
-      "heading": "Valabilitate și greșelile care te costă autorizația",
-      "html": "<p>Studiul topografic nu are un termen de valabilitate fixat printr-o normă unică — dar primăria sau proiectantul îl pot respinge dacă terenul s-a schimbat între timp (terasamente, construcții noi, drumuri modificate) sau dacă documentația nu mai corespunde situației cadastrale la zi. Practic: un studiu mai vechi de 1–2 ani sau făcut înaintea unei alipiri/dezlipiri trebuie cel puțin verificat, adesea actualizat.</p><p>Cele mai frecvente probleme pe care le găsim în studiile aduse de clienți de la terți sunt lipsa vizei de recepție OCPI, coordonate în alt sistem decât Stereo 70, rețele electrice existente nefigurate și limite cadastrale preluate din acte fără verificare pe teren. Am strâns lista completă, cu modul în care verifici singur un studiu primit, pe pagina despre <a href=\"/parcuri-fotovoltaice/greseli-studiu-topografic-autorizatie.html\">erorile din studiile topografice care blochează autorizația</a>.</p>"
+      "heading": "Valabilitate și greșelile care vă costă autorizația",
+      "html": "<p>Studiul topografic nu are un termen de valabilitate fixat printr-o normă unică — dar primăria sau proiectantul îl pot respinge dacă terenul s-a schimbat între timp (terasamente, construcții noi, drumuri modificate) sau dacă documentația nu mai corespunde situației cadastrale la zi. Practic: un studiu mai vechi de 1–2 ani sau făcut înaintea unei alipiri/dezlipiri trebuie cel puțin verificat, adesea actualizat.</p><p>Cele mai frecvente probleme pe care le găsim în studiile aduse de clienți de la terți sunt lipsa vizei de recepție OCPI, coordonate în alt sistem decât Stereo 70, rețele electrice existente nefigurate și limite cadastrale preluate din acte fără verificare pe teren. Am strâns lista completă, cu modul în care verificați singur un studiu primit, pe pagina despre <a href=\"/parcuri-fotovoltaice/greseli-studiu-topografic-autorizatie.html\">erorile din studiile topografice care blochează autorizația</a>.</p>"
     },
     {
       "type": "html",
@@ -52,11 +52,11 @@
         },
         {
           "q": "Pot folosi un studiu topografic făcut acum 3 ani de alt topograf?",
-          "a": "Doar după verificare. Dacă terenul sau situația cadastrală s-au schimbat între timp, ori documentația nu e recepționată OCPI sau nu e în Stereo 70, primăria sau proiectantul o vor respinge. Facem verificarea pe documentația existentă înainte să decizi dacă refaci."
+          "a": "Doar după verificare. Dacă terenul sau situația cadastrală s-au schimbat între timp, ori documentația nu e recepționată OCPI sau nu e în Stereo 70, primăria sau proiectantul o vor respinge. Facem verificarea pe documentația existentă înainte să decideți dacă refaceți."
         },
         {
           "q": "Ce îmi trebuie ca să primesc o ofertă?",
-          "a": "Extrasul CF sau măcar numărul cadastral și localitatea, plus suprafața vizată. Trimite-le pe WhatsApp și primești oferta cu termene pe etape — de regulă în aceeași zi."
+          "a": "Extrasul CF sau măcar numărul cadastral și localitatea, plus suprafața vizată. Trimiteți-le pe WhatsApp și primiți oferta cu termene pe etape — de regulă în aceeași zi."
         },
         {
           "q": "Lucrați cu proiectantul nostru?",

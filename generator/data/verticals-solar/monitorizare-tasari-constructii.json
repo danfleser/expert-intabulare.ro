@@ -1,7 +1,7 @@
 {
   "slug": "monitorizare-tasari-constructii",
   "title": "Monitorizare tasări construcții — reperi, cicluri de măsurare, rapoarte",
-  "h1": "Monitorizarea tasărilor: cum dovedești asigurătorului și finanțatorului că stația stă pe loc",
+  "h1": "Monitorizarea tasărilor: cum dovediți asigurătorului și finanțatorului că stația stă pe loc",
   "metaDescription": "Monitorizare tasări pentru stații de transformare, BESS și construcții din parcuri fotovoltaice: reperi, cicluri de nivelment de precizie, rapoarte pentru lender.",
   "whatsappTopic": "monitorizarea tasărilor pentru construcțiile unui parc fotovoltaic",
   "hook": "none",
@@ -10,12 +10,12 @@
     {
       "type": "html",
       "heading": "Tasarea nu se vede cu ochiul liber — până când e târziu",
-      "html": "<p>Orice fundație se așază în teren după execuție: o tasare uniformă, de câțiva milimetri, e normală și inofensivă. Problema e tasarea diferențială — când un colț al fundației coboară mai mult decât celelalte. La o stație de transformare sau la un container BESS, tasarea diferențială înseamnă echipamente scumpe care lucrează înclinat, racorduri rigide tensionate și, în timp, fisuri. Nimic din toate acestea nu se vede cu ochiul liber la început; se măsoară însă, cu precizie, de la primul ciclu.</p><p>Monitorizarea tasărilor răspunde la o întrebare simplă cu o metodă riguroasă: se mișcă construcția, cât și în ce direcție? Măsurăm prin nivelment geometric de precizie — metoda care, la clasa înaltă, atinge precizie sub-milimetrică pe kilometru de drumuire dublă — și livrăm rapoarte pe care le înțeleg și inginerul structurist, și asigurătorul, și banca. Scrie-ne pe WhatsApp și îți propunem un program de monitorizare pe construcțiile parcului tău.</p>"
+      "html": "<p>Orice fundație se așază în teren după execuție: o tasare uniformă, de câțiva milimetri, e normală și inofensivă. Problema e tasarea diferențială — când un colț al fundației coboară mai mult decât celelalte. La o stație de transformare sau la un container BESS, tasarea diferențială înseamnă echipamente scumpe care lucrează înclinat, racorduri rigide tensionate și, în timp, fisuri. Nimic din toate acestea nu se vede cu ochiul liber la început; se măsoară însă, cu precizie, de la primul ciclu.</p><p>Monitorizarea tasărilor răspunde la o întrebare simplă cu o metodă riguroasă: se mișcă construcția, cât și în ce direcție? Măsurăm prin nivelment geometric de precizie — metoda care, la clasa înaltă, atinge precizie sub-milimetrică pe kilometru de drumuire dublă — și livrăm rapoarte pe care le înțeleg și inginerul structurist, și asigurătorul, și banca. Scrieți-ne pe WhatsApp și vă propunem un program de monitorizare pe construcțiile parcului dumneavoastră.</p>"
     },
     {
       "type": "html",
       "heading": "Cum se construiește un program de monitorizare serios",
-      "html": "<ul><li><strong>Reperi de referință stabili</strong>, amplasați în afara zonei de influență a construcției — baza fixă față de care se măsoară totul. Fără reperi stabili, monitorizarea măsoară zgomot.</li><li><strong>Mărci de tasare pe construcție</strong> — puncte materializate pe fundații și elementele structurale relevante, stabilite împreună cu proiectantul structurii, în pozițiile unde tasarea diferențială s-ar manifesta prima.</li><li><strong>Măsurătoarea zero</strong> — ciclul de referință, făcut imediat după execuția fundațiilor sau la montajul echipamentelor. Tot ce urmează se raportează la el; de aceea cel mai bun moment să începi monitorizarea e la recepție, nu la prima fisură.</li><li><strong>Cicluri periodice</strong> — frecvența o dictează proiectantul și natura terenului: mai des în primul an, apoi rărit dacă valorile se stabilizează. Pe terenuri cu umpluturi sau foste amenajări, programul e mai strâns de la început.</li><li><strong>Raport după fiecare ciclu</strong> — cotele măsurate, tasările față de ciclul zero și față de ciclul anterior, graficul de evoluție în timp și semnalarea imediată a oricărei tendințe care nu se stabilizează.</li></ul>"
+      "html": "<ul><li><strong>Reperi de referință stabili</strong>, amplasați în afara zonei de influență a construcției — baza fixă față de care se măsoară totul. Fără reperi stabili, monitorizarea măsoară zgomot.</li><li><strong>Mărci de tasare pe construcție</strong> — puncte materializate pe fundații și elementele structurale relevante, stabilite împreună cu proiectantul structurii, în pozițiile unde tasarea diferențială s-ar manifesta prima.</li><li><strong>Măsurătoarea zero</strong> — ciclul de referință, făcut imediat după execuția fundațiilor sau la montajul echipamentelor. Tot ce urmează se raportează la el; de aceea cel mai bun moment să începeți monitorizarea e la recepție, nu la prima fisură.</li><li><strong>Cicluri periodice</strong> — frecvența o dictează proiectantul și natura terenului: mai des în primul an, apoi rărit dacă valorile se stabilizează. Pe terenuri cu umpluturi sau foste amenajări, programul e mai strâns de la început.</li><li><strong>Raport după fiecare ciclu</strong> — cotele măsurate, tasările față de ciclul zero și față de ciclul anterior, graficul de evoluție în timp și semnalarea imediată a oricărei tendințe care nu se stabilizează.</li></ul>"
     },
     {
       "type": "html",
@@ -27,7 +27,7 @@
       "heading": "Program orientativ de monitorizare pentru o stație de transformare",
       "head": ["Etapă", "Cicluri", "Observații"],
       "rows": [
-        ["Ciclul zero", "la recepția fundațiilor / montaj", "Referința întregii serii; se leagă de reperii de nivelment ai șantierului"],
+        ["Ciclul zero", "la recepția fundațiilor / montaj", "Referința întregii serii; se leagă de reperii de nivelment aveți șantierului"],
         ["Primul an", "trimestrial, orientativ", "Perioada în care se produc de regulă cele mai mari tasări"],
         ["Anii următori", "semestrial sau anual, orientativ", "Dacă valorile se stabilizează; frecvența o confirmă proiectantul"],
         ["Situații speciale", "la eveniment", "După inundații, săpături în vecinătate, incidente — ciclu suplimentar imediat"]
@@ -51,7 +51,7 @@
         },
         {
           "q": "Parcul e deja în funcțiune de doi ani. Mai are sens să începem?",
-          "a": "Da. Nu mai poți recupera istoricul, dar un ciclu zero făcut acum plus cicluri periodice îți dau tendința de aici înainte — iar pentru asigurător și lender, o serie de măsurători începută târziu e incomparabil mai bună decât niciuna."
+          "a": "Da. Nu mai puteți recupera istoricul, dar un ciclu zero făcut acum plus cicluri periodice vă dau tendința de aici înainte — iar pentru asigurător și lender, o serie de măsurători începută târziu e incomparabil mai bună decât niciuna."
         },
         {
           "q": "Ce se întâmplă dacă măsurătorile arată tasări în creștere?",

@@ -10,14 +10,14 @@
     {
       "type": "html",
       "heading": "Răspunsurile scurte, într-un singur loc",
-      "html": "<p>Am strâns aici întrebările pe care ni le pun cel mai des dezvoltatorii, constructorii și investitorii în proiecte fotovoltaice — cu răspunsuri scurte și cu trimiteri către paginile unde fiecare subiect e tratat pe larg. Dacă întrebarea ta nu e aici sau vrei răspunsul aplicat pe terenul tău, calea rapidă rămâne aceeași: trimite-ne extrasul CF pe WhatsApp și îți răspundem în aceeași zi, la obiect.</p>"
+      "html": "<p>Am strâns aici întrebările pe care ni le pun cel mai des dezvoltatorii, constructorii și investitorii în proiecte fotovoltaice — cu răspunsuri scurte și cu trimiteri către paginile unde fiecare subiect e tratat pe larg. Dacă întrebarea dumneavoastră nu e aici sau vreți răspunsul aplicat pe terenul dumneavoastră, calea rapidă rămâne aceeași: trimiteți-ne extrasul CF pe WhatsApp și vă răspundem în aceeași zi, la obiect.</p>"
     },
     {
       "type": "faq",
       "items": [
         {
           "q": "Ce este studiul topografic și de ce am nevoie de el?",
-          "a": "E ridicarea completă a terenului — relief, limite, vecinătăți, elemente existente — în sistemul Stereo 70, recepționată de OCPI. Fără el nu ai certificat de urbanism pe date reale, proiectare corectă sau autorizație. Detalii pe pagina <a href=\"/parcuri-fotovoltaice/studiu-topografic-parc-fotovoltaic.html\">studiului topografic</a>."
+          "a": "E ridicarea completă a terenului — relief, limite, vecinătăți, elemente existente — în sistemul Stereo 70, recepționată de OCPI. Fără el nu aveți certificat de urbanism pe date reale, proiectare corectă sau autorizație. Detalii pe pagina <a href=\"/parcuri-fotovoltaice/studiu-topografic-parc-fotovoltaic.html\">studiului topografic</a>."
         },
         {
           "q": "Cât durează un studiu topografic pentru un parc fotovoltaic?",
@@ -49,7 +49,7 @@
         },
         {
           "q": "Se schimbă regula celor 50 de hectare?",
-          "a": "Există un proiect legislativ în dezbatere, PLx 255/2025, care propune ridicarea plafonului la 100 ha și eliminarea cerinței de PUZ. Cât timp nu e adoptat, planifici pe legea în vigoare — nu construi calendarul proiectului pe un proiect de lege."
+          "a": "Există un proiect legislativ în dezbatere, PLx 255/2025, care propune ridicarea plafonului la 100 ha și eliminarea cerinței de PUZ. Cât timp nu e adoptat, planificați pe legea în vigoare — nu construiți calendarul proiectului pe un proiect de lege."
         },
         {
           "q": "Pot pune panouri pe o pășune?",
@@ -73,11 +73,11 @@
         },
         {
           "q": "Ce e o suprapunere cadastrală și cât de gravă e?",
-          "a": "Două imobile înscrise parțial pe aceeași suprafață. Descoperită după plata avansului, poate amâna proiectul cu ani sau îl poate opri. Se depistează prin verificări pe geoportal ANCPI și măsurători — vezi <a href=\"/parcuri-fotovoltaice/verificare-suprapunere-cadastrala-teren.html\">verificarea suprapunerilor</a>."
+          "a": "Două imobile înscrise parțial pe aceeași suprafață. Descoperită după plata avansului, poate amâna proiectul cu ani sau îl poate opri. Se depistează prin verificări pe geoportal ANCPI și măsurători — vedeți <a href=\"/parcuri-fotovoltaice/verificare-suprapunere-cadastrala-teren.html\">verificarea suprapunerilor</a>."
         },
         {
           "q": "Cum verific cartea funciară înainte să cumpăr terenul?",
-          "a": "Ceri un extras de informare recent și îl citești cu toate sarcinile, notările și servituțile lui — sau ni-l trimiți nouă pe WhatsApp pentru un raport desk, valabil pentru orice județ. De reținut: finanțatorii cer uzual extras nu mai vechi de 30 de zile, iar extrasul de autentificare notarială e valabil 10 zile. Detalii la <a href=\"/parcuri-fotovoltaice/verificare-carte-funciara-cumparare-teren.html\">verificarea CF</a>."
+          "a": "Cereți un extras de informare recent și îl citiți cu toate sarcinile, notările și servituțile lui — sau ni-l trimiți nouă pe WhatsApp pentru un raport desk, valabil pentru orice județ. De reținut: finanțatorii cer uzual extras nu mai vechi de 30 de zile, iar extrasul de autentificare notarială e valabil 10 zile. Detalii la <a href=\"/parcuri-fotovoltaice/verificare-carte-funciara-cumparare-teren.html\">verificarea CF</a>."
         },
         {
           "q": "Ce precizie au măsurătorile topografice?",
@@ -93,7 +93,7 @@
         },
         {
           "q": "Ce e ATR-ul și ce legătură are cu topografia?",
-          "a": "Avizul tehnic de racordare, emis de operatorul de distribuție — primul pas al lanțului de racordare, urmat de contractul de racordare, punerea în funcțiune și certificatul de racordare. Topografia intră la măsurarea traseului real de racord — vezi <a href=\"/parcuri-fotovoltaice/distanta-racordare-parc-fotovoltaic.html\">distanța de racordare</a> și termenul <a href=\"/dictionar/atr-aviz-tehnic-de-racordare.html\">ATR în dicționar</a>."
+          "a": "Avizul tehnic de racordare, emis de operatorul de distribuție — primul pas al lanțului de racordare, urmat de contractul de racordare, punerea în funcțiune și certificatul de racordare. Topografia intră la măsurarea traseului real de racord — vedeți <a href=\"/parcuri-fotovoltaice/distanta-racordare-parc-fotovoltaic.html\">distanța de racordare</a> și termenul <a href=\"/dictionar/atr-aviz-tehnic-de-racordare.html\">ATR în dicționar</a>."
         },
         {
           "q": "Am nevoie de PUZ pentru parcul meu?",
@@ -109,7 +109,7 @@
         },
         {
           "q": "Ce vă trimit ca să primesc o ofertă?",
-          "a": "Extrasul CF sau măcar numărul cadastral și localitatea, plus ce vrei să faci pe teren. Trimite-le pe WhatsApp și primești de regulă în aceeași zi o evaluare a situației și oferta pe etape, cu termene realiste pentru fiecare livrabil."
+          "a": "Extrasul CF sau măcar numărul cadastral și localitatea, plus ce vreți să faceți pe teren. Trimiteți-le pe WhatsApp și primiți de regulă în aceeași zi o evaluare a situației și oferta pe etape, cu termene realiste pentru fiecare livrabil."
         }
       ]
     }

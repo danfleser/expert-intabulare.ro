@@ -10,7 +10,7 @@
     {
       "type": "html",
       "heading": "Măsurătoarea pe care se așază tot proiectul",
-      "html": "<p>Ridicarea topografică este măsurătoarea propriu-zisă a terenului: mii de puncte cu coordonate X, Y și cotă Z, determinate în sistemul național Stereo 70, din care se construiesc apoi planșele, modelul digital al terenului și toate calculele de proiectare. Dacă <a href=\"/parcuri-fotovoltaice/studiu-topografic-parc-fotovoltaic.html\">studiul topografic</a> este livrabilul vizat de OCPI, ridicarea este materia lui primă — iar calitatea ei nu se mai poate corecta din birou.</p><p>Pentru un teren de parc fotovoltaic, două lucruri fac diferența între o măsurătoare pe care proiectantul o poate folosi și una pe care o refaci: densitatea punctelor, adaptată reliefului, și acuratețea cotelor. Structura pe piloni bătuți urmărește terenul metru cu metru, deci fiecare denivelare nefigurată devine o surpriză de șantier. Trimite-ne extrasul CF pe WhatsApp și îți spunem în aceeași zi cum am aborda măsurătoarea pe terenul tău și cât ar dura.</p>"
+      "html": "<p>Ridicarea topografică este măsurătoarea propriu-zisă a terenului: mii de puncte cu coordonate X, Y și cotă Z, determinate în sistemul național Stereo 70, din care se construiesc apoi planșele, modelul digital al terenului și toate calculele de proiectare. Dacă <a href=\"/parcuri-fotovoltaice/studiu-topografic-parc-fotovoltaic.html\">studiul topografic</a> este livrabilul vizat de OCPI, ridicarea este materia lui primă — iar calitatea ei nu se mai poate corecta din birou.</p><p>Pentru un teren de parc fotovoltaic, două lucruri fac diferența între o măsurătoare pe care proiectantul o poate folosi și una pe care o refaceți: densitatea punctelor, adaptată reliefului, și acuratețea cotelor. Structura pe piloni bătuți urmărește terenul metru cu metru, deci fiecare denivelare nefigurată devine o surpriză de șantier. Trimiteți-ne extrasul CF pe WhatsApp și vă spunem în aceeași zi cum am aborda măsurătoarea pe terenul dumneavoastră și cât ar dura.</p>"
     },
     {
       "type": "html",
@@ -34,7 +34,7 @@
     },
     {
       "type": "html",
-      "heading": "Ce primești și cum ajunge la proiectant",
+      "heading": "Ce primiți și cum ajunge la proiectant",
       "html": "<p>Livrăm inventarul de coordonate, planul topografic cu curbe de nivel la echidistanța convenită, <a href=\"/parcuri-fotovoltaice/model-digital-teren-parc-fotovoltaic.html\">modelul digital al terenului</a> cu breaklines și, la cerere, norul de puncte și ortofotoplanul din zborul UAV. Formatele: dwg/dxf pentru proiectare, LandXML pentru softurile civile, shp și GeoTIFF pentru GIS — detaliem pe pagina de <a href=\"/parcuri-fotovoltaice/date-topografice-format-proiectare.html\">formate pentru proiectanți</a>. Dacă ridicarea urmează să intre într-o documentație pentru autorizare, o predăm în forma cerută de Ordinul ANCPI nr. 700/2014, cu recepție OCPI.</p><p>Colaborăm cu dezvoltatori și constructori și stabilim de la început, împreună cu proiectantul structurii, densitatea, echidistanța și formatele — ca măsurătoarea să fie făcută o singură dată și folosită în toate fazele, de la <a href=\"/parcuri-fotovoltaice/panta-teren-parc-fotovoltaic.html\">analiza pantelor</a> până la trasare.</p>"
     },
     {
@@ -54,7 +54,7 @@
         },
         {
           "q": "Cât durează măsurătoarea pe un teren de 10 hectare?",
-          "a": "Orientativ, 1–2 zile de teren pentru un amplasament de această dimensiune, în funcție de relief, vegetație și accese, plus prelucrarea la birou. Termenul exact ți-l confirmăm după ce vedem extrasul CF și ortofotoplanul zonei."
+          "a": "Orientativ, 1–2 zile de teren pentru un amplasament de această dimensiune, în funcție de relief, vegetație și accese, plus prelucrarea la birou. Termenul exact vi-l confirmăm după ce vedem extrasul CF și ortofotoplanul zonei."
         }
       ]
     }

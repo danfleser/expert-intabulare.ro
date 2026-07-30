@@ -10,7 +10,7 @@
     {
       "type": "html",
       "heading": "Un proiect, două dosare: al finanțatorului și al autorizării",
-      "html": "<p>Un parc fotovoltaic finanțat din fonduri europene trece prin două filtre documentare care seamănă, dar nu coincid. Finanțatorul verifică dreptul asupra terenului și situația lui juridică — vrea să știe că investiția stă pe un imobil cert, liber de probleme, pe toată durata de monitorizare a proiectului. Primăria și instituțiile de avizare verifică partea de urbanism și autorizare — vor plan de situație, studiu topografic vizat OCPI, încadrarea corectă a terenului. Cine pregătește un singur dosar și speră că acoperă ambele filtre descoperă diferențele la cel mai prost moment: în clarificări, pe termen de 5 zile.</p><p>Noi pregătim partea topo-cadastrală pentru ambele dosare, din aceeași bază de măsurători, pentru companii și pentru UAT-uri. Pagina de față e puntea către verticala noastră dedicată <a href=\"/fonduri-europene/\">proiectelor cu fonduri europene</a>, unde găsești și ghiduri pe situații specifice. Iar dacă vrei diagnosticul rapid: trimite-ne extrasul CF pe WhatsApp și îți spunem în aceeași zi dacă terenul e „bancabil\" documentar sau ce mai are de rezolvat.</p>"
+      "html": "<p>Un parc fotovoltaic finanțat din fonduri europene trece prin două filtre documentare care seamănă, dar nu coincid. Finanțatorul verifică dreptul asupra terenului și situația lui juridică — vrea să știe că investiția stă pe un imobil cert, liber de probleme, pe toată durata de monitorizare a proiectului. Primăria și instituțiile de avizare verifică partea de urbanism și autorizare — vor plan de situație, studiu topografic vizat OCPI, încadrarea corectă a terenului. Cine pregătește un singur dosar și speră că acoperă ambele filtre descoperă diferențele la cel mai prost moment: în clarificări, pe termen de 5 zile.</p><p>Noi pregătim partea topo-cadastrală pentru ambele dosare, din aceeași bază de măsurători, pentru companii și pentru UAT-uri. Pagina de față e puntea către verticala noastră dedicată <a href=\"/fonduri-europene/\">proiectelor cu fonduri europene</a>, unde găsiți și ghiduri pe situații specifice. Iar dacă vreți diagnosticul rapid: trimiteți-ne extrasul CF pe WhatsApp și vă spunem în aceeași zi dacă terenul e „bancabil\" documentar sau ce mai are de rezolvat.</p>"
     },
     {
       "type": "checklist",
@@ -44,14 +44,14 @@
     {
       "type": "html",
       "heading": "De ce contează superficia pentru punctaj și pentru contractare",
-      "html": "<p>Pe terenuri care nu sunt în proprietatea beneficiarului, forma dreptului face diferența. Arenda sau închirierea simplă nu se ipotechează și oferă finanțatorului o garanție slabă; de aceea practica finanțatorilor și a băncilor care cofinanțează este să ceară un drept real înscris în cartea funciară — uzual <a href=\"/parcuri-fotovoltaice/superficie-parc-fotovoltaic.html\">superficia</a>, care se poate constitui până la 99 de ani și se înscrie în CF. Comparația detaliată e pe pagina <a href=\"/parcuri-fotovoltaice/arenda-sau-superficie-parc-fotovoltaic.html\">arendă sau superficie</a>.</p><p>Partea noastră aici: documentația cadastrală pe care notarul constituie superficia și planurile care delimitează exact suprafața grevată. Făcută corect de la început, superficia acoperă și cerințele finanțatorului, și pe cele ale băncii, și autorizarea — un singur set de acte pentru toate cele trei mese la care va sta dosarul tău.</p>"
+      "html": "<p>Pe terenuri care nu sunt în proprietatea beneficiarului, forma dreptului face diferența. Arenda sau închirierea simplă nu se ipotechează și oferă finanțatorului o garanție slabă; de aceea practica finanțatorilor și a băncilor care cofinanțează este să ceară un drept real înscris în cartea funciară — uzual <a href=\"/parcuri-fotovoltaice/superficie-parc-fotovoltaic.html\">superficia</a>, care se poate constitui până la 99 de ani și se înscrie în CF. Comparația detaliată e pe pagina <a href=\"/parcuri-fotovoltaice/arenda-sau-superficie-parc-fotovoltaic.html\">arendă sau superficie</a>.</p><p>Partea noastră aici: documentația cadastrală pe care notarul constituie superficia și planurile care delimitează exact suprafața grevată. Făcută corect de la început, superficia acoperă și cerințele finanțatorului, și pe cele ale băncii, și autorizarea — un singur set de acte pentru toate cele trei mese la care va sta dosarul dumneavoastră.</p>"
     },
     {
       "type": "faq",
       "items": [
         {
           "q": "Cât de recent trebuie să fie extrasul CF la depunere?",
-          "a": "Ghidurile cer uzual un extras de informare nu mai vechi de 30 de zile la depunere, iar la contractare se cere din nou unul proaspăt. Pentru actele notariale, extrasul de autentificare e valabil 10 zile. Planifică obținerea lor pe calendarul apelului, nu invers."
+          "a": "Ghidurile cer uzual un extras de informare nu mai vechi de 30 de zile la depunere, iar la contractare se cere din nou unul proaspăt. Pentru actele notariale, extrasul de autentificare e valabil 10 zile. Planificați obținerea lor pe calendarul apelului, nu invers."
         },
         {
           "q": "Pot depune proiectul cu antecontract pe teren?",
@@ -59,7 +59,7 @@
         },
         {
           "q": "Ce se întâmplă dacă suprafața din CF diferă de cea din cererea de finanțare?",
-          "a": "Primești clarificări, iar în cazuri grave proiectul pică pe eligibilitate. De aceea măsurăm terenul înainte de scrierea cererii: cifra din proiect trebuie să fie cea reală, confirmată de măsurătoare și corelată cu CF-ul."
+          "a": "Primiți clarificări, iar în cazuri grave proiectul pică pe eligibilitate. De aceea măsurăm terenul înainte de scrierea cererii: cifra din proiect trebuie să fie cea reală, confirmată de măsurătoare și corelată cu CF-ul."
         },
         {
           "q": "Lucrați împreună cu consultantul care ne scrie proiectul?",

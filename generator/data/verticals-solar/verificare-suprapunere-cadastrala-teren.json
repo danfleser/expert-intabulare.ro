@@ -9,8 +9,8 @@
   "sections": [
     {
       "type": "html",
-      "heading": "Scenariul pe care nu vrei să-l trăiești",
-      "html": "<p>Arată așa: ai plătit avansul pe teren, ai comandat documentația cadastrală pentru dezmembrare sau superficie, iar de la OCPI vine răspunsul că imobilul se suprapune cu imobilul vecin. Din acel moment, nimic nu mai avansează pe partea de carte funciară până nu se rezolvă suprapunerea — iar rezolvarea poate cere documentații de rectificare, acordul unor vecini pe care nu-i controlezi sau, în cazurile conflictuale, instanța. Am văzut proiecte în care „terenul perfect\" a devenit un dosar de ani. Pentru un dezvoltator cu calendar de racordare și finanțare, o suprapunere descoperită după avans înseamnă de multe ori un proiect mort.</p><p>Vestea bună: suprapunerile se pot depista aproape întotdeauna înainte de a plăti ceva. Verificarea costă o fracțiune din avans și durează zile, nu luni. Trimite-ne extrasul CF pe WhatsApp și îți spunem rapid dacă geometria imobilului arată curat sau are semne de întrebare care cer măsurători.</p>"
+      "heading": "Scenariul pe care nu vreți să-l trăiți",
+      "html": "<p>Arată așa: ați plătit avansul pe teren, ați comandat documentația cadastrală pentru dezmembrare sau superficie, iar de la OCPI vine răspunsul că imobilul se suprapune cu imobilul vecin. Din acel moment, nimic nu mai avansează pe partea de carte funciară până nu se rezolvă suprapunerea — iar rezolvarea poate cere documentații de rectificare, acordul unor vecini pe care nu-i controlați sau, în cazurile conflictuale, instanța. Am văzut proiecte în care „terenul perfect\" a devenit un dosar de ani. Pentru un dezvoltator cu calendar de racordare și finanțare, o suprapunere descoperită după avans înseamnă de multe ori un proiect mort.</p><p>Vestea bună: suprapunerile se pot depista aproape întotdeauna înainte de a plăti ceva. Verificarea costă o fracțiune din avans și durează zile, nu luni. Trimiteți-ne extrasul CF pe WhatsApp și vă spunem rapid dacă geometria imobilului arată curat sau are semne de întrebare care cer măsurători.</p>"
     },
     {
       "type": "html",
@@ -20,12 +20,12 @@
     {
       "type": "html",
       "heading": "Cum verificăm: întâi desk, apoi teren",
-      "html": "<p><strong>Pasul 1 — analiza desk pe geoportalul ANCPI.</strong> Comparăm geometria imobilului din evidențele cadastrale publice cu imobilele vecine și cu ortofotoplanul: poziție, formă, goluri și încălecări vizibile, concordanța cu limitele folosite în teren. Analiza desk e rapidă și acoperă terenuri din toată țara — dar are limite oneste: geoportalul reflectă evidențele, nu adevărul din teren, iar o geometrie aparent curată nu garantează absența problemelor, după cum nu orice anomalie vizuală e o suprapunere reală.</p><p><strong>Pasul 2 — măsurători pe teren.</strong> Pentru parcelele care trec de primul filtru și intră serios în discuție, măsurăm limitele reale — gardurile, hațurile, folosința — cu GPS/GNSS RTK, cu precizie de ±2–3 cm, și le suprapunem peste limitele înscrise. Abia această comparație spune definitiv dacă terenul pe care îl cumperi e terenul din cartea funciară. Măsurătorile le facem în Alba, Cluj, Mureș, Sibiu și Hunedoara.</p>"
+      "html": "<p><strong>Pasul 1 — analiza desk pe geoportalul ANCPI.</strong> Comparăm geometria imobilului din evidențele cadastrale publice cu imobilele vecine și cu ortofotoplanul: poziție, formă, goluri și încălecări vizibile, concordanța cu limitele folosite în teren. Analiza desk e rapidă și acoperă terenuri din toată țara — dar are limite oneste: geoportalul reflectă evidențele, nu adevărul din teren, iar o geometrie aparent curată nu garantează absența problemelor, după cum nu orice anomalie vizuală e o suprapunere reală.</p><p><strong>Pasul 2 — măsurători pe teren.</strong> Pentru parcelele care trec de primul filtru și intră serios în discuție, măsurăm limitele reale — gardurile, hațurile, folosința — cu GPS/GNSS RTK, cu precizie de ±2–3 cm, și le suprapunem peste limitele înscrise. Abia această comparație spune definitiv dacă terenul pe care îl cumpărați e terenul din cartea funciară. Măsurătorile le facem în Alba, Cluj, Mureș, Sibiu și Hunedoara.</p>"
     },
     {
       "type": "html",
-      "heading": "Ce faci dacă suprapunerea există",
-      "html": "<p>Depinde de natura și de întinderea ei, iar aici e nevoie de diagnostic, nu de panică. Unele suprapuneri provin din erori de înscriere și se remediază prin documentații cadastrale de rectificare sau repoziționare, întocmite conform Ordinului ANCPI nr. 700/2014 — uneori cu acordul vecinilor afectați. Altele reflectă un conflict real de proprietate asupra aceleiași fâșii de teren, iar acolo soluția iese din sfera topografiei și intră la notar sau în instanță. Diferența de durată e enormă: săptămâni în primul caz, potențial ani în al doilea.</p><p>Rolul nostru: stabilim prin măsurători exact ce se suprapune, pe ce suprafață și din ce cauză, și îți spunem onest în care dintre scenarii ești. Cu diagnosticul în mână poți decide în cunoștință de cauză — negociezi prețul, condiționezi plata de rezolvare în antecontract sau renunți la parcelă și reconfigurezi amplasamentul. Toate variantele sunt mai bune decât să afli după avans.</p>"
+      "heading": "Ce faceți dacă suprapunerea există",
+      "html": "<p>Depinde de natura și de întinderea ei, iar aici e nevoie de diagnostic, nu de panică. Unele suprapuneri provin din erori de înscriere și se remediază prin documentații cadastrale de rectificare sau repoziționare, întocmite conform Ordinului ANCPI nr. 700/2014 — uneori cu acordul vecinilor afectați. Altele reflectă un conflict real de proprietate asupra aceleiași fâșii de teren, iar acolo soluția iese din sfera topografiei și intră la notar sau în instanță. Diferența de durată e enormă: săptămâni în primul caz, potențial ani în al doilea.</p><p>Rolul nostru: stabilim prin măsurători exact ce se suprapune, pe ce suprafață și din ce cauză, și vă spunem onest în care dintre scenarii sunteți. Cu diagnosticul în mână puteți decide în cunoștință de cauză — negociați prețul, condiționați plata de rezolvare în antecontract sau renunți la parcelă și reconfigurați amplasamentul. Toate variantele sunt mai bune decât să aflați după avans.</p>"
     },
     {
       "type": "checklist",
@@ -43,7 +43,7 @@
       "items": [
         {
           "q": "Pot verifica singur suprapunerile pe geoportalul ANCPI?",
-          "a": "Poți vedea geometria imobilelor și poți observa anomalii evidente — și e un exercițiu util. Dar interpretarea cere experiență: nu orice decalaj vizual e o suprapunere reală, iar unele probleme serioase nu se văd deloc în geoportal. Verificarea profesionistă combină analiza evidențelor cu măsurători de teren."
+          "a": "Puteți vedea geometria imobilelor și puteți observa anomalii evidente — și e un exercițiu util. Dar interpretarea cere experiență: nu orice decalaj vizual e o suprapunere reală, iar unele probleme serioase nu se văd deloc în geoportal. Verificarea profesionistă combină analiza evidențelor cu măsurători de teren."
         },
         {
           "q": "Cât durează o verificare de suprapunere?",

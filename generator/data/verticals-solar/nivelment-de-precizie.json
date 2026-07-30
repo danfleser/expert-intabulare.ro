@@ -10,7 +10,7 @@
     {
       "type": "html",
       "heading": "Unde centimetrii nu mai sunt suficienți",
-      "html": "<p>Pe cea mai mare parte a unui parc fotovoltaic, precizia centimetrică a GNSS-ului e exact ce trebuie. Există însă câteva zone unde ștacheta urcă: fundațiile stației de transformare, platformele punctelor de conexiune, fundațiile containerelor BESS și, la parcurile mari, echipamentele din stația de evacuare. Aici transformatoarele, celulele de medie tensiune și containerele de baterii se așază pe fundații care trebuie să fie plane și la cotă în limite strânse — echipamentele grele nu se „ajustează\" după o fundație strâmbă, iar producătorii condiționează garanția de respectarea toleranțelor de montaj.</p><p>Instrumentul potrivit pentru aceste cote este nivelmentul geometric de precizie: metoda clasică, cu nivelă optică sau digitală și mire, care la clasa înaltă atinge precizie sub-milimetrică pe kilometru de drumuire dublă. Nu folosim GNSS pentru cote critice — componenta verticală a măsurătorii satelitare e cea mai slabă dintre toate. Scrie-ne pe WhatsApp cu proiectul de fundații și îți spunem ce program de nivelment are sens pentru stația ta.</p>"
+      "html": "<p>Pe cea mai mare parte a unui parc fotovoltaic, precizia centimetrică a GNSS-ului e exact ce trebuie. Există însă câteva zone unde ștacheta urcă: fundațiile stației de transformare, platformele punctelor de conexiune, fundațiile containerelor BESS și, la parcurile mari, echipamentele din stația de evacuare. Aici transformatoarele, celulele de medie tensiune și containerele de baterii se așază pe fundații care trebuie să fie plane și la cotă în limite strânse — echipamentele grele nu se „ajustează\" după o fundație strâmbă, iar producătorii condiționează garanția de respectarea toleranțelor de montaj.</p><p>Instrumentul potrivit pentru aceste cote este nivelmentul geometric de precizie: metoda clasică, cu nivelă optică sau digitală și mire, care la clasa înaltă atinge precizie sub-milimetrică pe kilometru de drumuire dublă. Nu folosim GNSS pentru cote critice — componenta verticală a măsurătorii satelitare e cea mai slabă dintre toate. Scrieți-ne pe WhatsApp cu proiectul de fundații și vă spunem ce program de nivelment are sens pentru stația dumneavoastră.</p>"
     },
     {
       "type": "html",
@@ -36,7 +36,7 @@
     {
       "type": "html",
       "heading": "Cum se desfășoară lucrarea pe un șantier real",
-      "html": "<p>Concret, pe o stație de transformare tipică: la mobilizare materializăm doi-trei reperi de nivelment în zone stabile, în afara traficului de utilaje, și îi legăm de referința altimetrică a proiectului — aceeași folosită la restul șantierului. La fiecare fază convenită cu constructorul venim pe o fereastră scurtă, anunțată din timp: verificăm cota fundului de săpătură înainte de turnarea betonului de egalizare, cotele cofrajului înainte de turnarea fundației, apoi platforma finită pe caroiajul cerut de furnizorul echipamentului. Fiecare vizită se încheie cu un proces-verbal cu cotele măsurate și abaterile față de proiect — semnat pe loc, cât situația se mai poate corecta ieftin.</p><p>Pentru constructor, asta înseamnă zero improvizație la montaj; pentru beneficiar, un dosar de calitate care se construiește singur pe parcurs. Trimite-ne proiectul de fundații pe WhatsApp și îți propunem programul de vizite mulat pe graficul turnărilor — cu termene ferme pentru fiecare raport.</p>"
+      "html": "<p>Concret, pe o stație de transformare tipică: la mobilizare materializăm doi-trei reperi de nivelment în zone stabile, în afara traficului de utilaje, și îi legăm de referința altimetrică a proiectului — aceeași folosită la restul șantierului. La fiecare fază convenită cu constructorul venim pe o fereastră scurtă, anunțată din timp: verificăm cota fundului de săpătură înainte de turnarea betonului de egalizare, cotele cofrajului înainte de turnarea fundației, apoi platforma finită pe caroiajul cerut de furnizorul echipamentului. Fiecare vizită se încheie cu un proces-verbal cu cotele măsurate și abaterile față de proiect — semnat pe loc, cât situația se mai poate corecta ieftin.</p><p>Pentru constructor, asta înseamnă zero improvizație la montaj; pentru beneficiar, un dosar de calitate care se construiește singur pe parcurs. Trimiteți-ne proiectul de fundații pe WhatsApp și vă propunem programul de vizite mulat pe graficul turnărilor — cu termene ferme pentru fiecare raport.</p>"
     },
     {
       "type": "faq",
@@ -47,7 +47,7 @@
         },
         {
           "q": "Ce toleranțe trebuie respectate la fundația unei stații de transformare?",
-          "a": "Cele din proiectul de fundații și din documentația de montaj a furnizorului echipamentului — diferă de la caz la caz, așa că nu cităm o cifră universală. Noi măsurăm la precizie milimetrică și raportăm abaterile față de valorile cerute în documentele proiectului tău."
+          "a": "Cele din proiectul de fundații și din documentația de montaj a furnizorului echipamentului — diferă de la caz la caz, așa că nu cităm o cifră universală. Noi măsurăm la precizie milimetrică și raportăm abaterile față de valorile cerute în documentele proiectului dumneavoastră."
         },
         {
           "q": "Faceți nivelment de precizie și în afara parcurilor fotovoltaice?",

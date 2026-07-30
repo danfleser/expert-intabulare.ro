@@ -1,7 +1,7 @@
 {
   "slug": "calcul-volumetrie-terasamente",
   "title": "Calcul volumetrie terasamente — cut/fill optimizat pentru parcuri fotovoltaice",
-  "h1": "Calculul de volumetrie: cum transformi relieful terenului într-un buget de nivelare pe care te poți baza",
+  "h1": "Calculul de volumetrie: cum transformați relieful terenului într-un buget de nivelare pe care vă puteți baza",
   "metaDescription": "Calcul cut/fill din măsurători reale pentru parcuri fotovoltaice: volume de săpătură și umplutură, optimizarea cotei de nivelare, verificarea cantităților facturate.",
   "whatsappTopic": "un calcul de volumetrie pentru terasamentele unui parc fotovoltaic",
   "hook": "none",
@@ -9,8 +9,8 @@
   "sections": [
     {
       "type": "html",
-      "heading": "Terasamentele sunt un cost negociabil — dacă ai cifrele",
-      "html": "<p>Pe un teren înclinat sau valonat, terasamentele pot fi una dintre cele mai mari poziții din bugetul de construcție al parcului fotovoltaic — și una dintre puținele pe care le poți optimiza serios înainte de a mișca primul metru cub de pământ. Calculul de volumetrie (cut/fill) îți spune exact câți metri cubi de săpătură și câți de umplutură cere fiecare variantă de nivelare, unde se compensează între ele și cât pământ trebuie adus sau evacuat de pe amplasament.</p><p>Diferența dintre o estimare „la ochi\" a constructorului și un calcul pe măsurători reale se măsoară în zeci de procente din volum — adică în bani reali, la tarife pe metru cub. Calculul se face pe <a href=\"/parcuri-fotovoltaice/model-digital-teren-parc-fotovoltaic.html\">modelul digital al terenului</a> din măsurători proprii, nu pe date publice. Trimite-ne extrasul CF pe WhatsApp și îți spunem în aceeași zi ce presupune calculul pentru terenul tău.</p>"
+      "heading": "Terasamentele sunt un cost negociabil — dacă aveți cifrele",
+      "html": "<p>Pe un teren înclinat sau valonat, terasamentele pot fi una dintre cele mai mari poziții din bugetul de construcție al parcului fotovoltaic — și una dintre puținele pe care le puteți optimiza serios înainte de a mișca primul metru cub de pământ. Calculul de volumetrie (cut/fill) vă spune exact câți metri cubi de săpătură și câți de umplutură cere fiecare variantă de nivelare, unde se compensează între ele și cât pământ trebuie adus sau evacuat de pe amplasament.</p><p>Diferența dintre o estimare „la ochi\" a constructorului și un calcul pe măsurători reale se măsoară în zeci de procente din volum — adică în bani reali, la tarife pe metru cub. Calculul se face pe <a href=\"/parcuri-fotovoltaice/model-digital-teren-parc-fotovoltaic.html\">modelul digital al terenului</a> din măsurători proprii, nu pe date publice. Trimiteți-ne extrasul CF pe WhatsApp și vă spunem în aceeași zi ce presupune calculul pentru terenul dumneavoastră.</p>"
     },
     {
       "type": "html",
@@ -19,12 +19,12 @@
     },
     {
       "type": "table",
-      "heading": "Cele trei momente în care volumetria îți face bani",
+      "heading": "Cele trei momente în care volumetria vă face bani",
       "head": ["Moment", "Ce calculăm", "Ce câștigi"],
       "rows": [
-        ["Înainte de cumpărarea terenului", "Volume orientative pe variante de nivelare", "Argument de negociere a prețului terenului; eviți terenul care doar pare ieftin"],
+        ["Înainte de cumpărarea terenului", "Volume orientative pe variante de nivelare", "Argument de negociere a prețului terenului; evitați terenul care doar pare ieftin"],
         ["La proiectare", "Cut/fill pe scenarii de cotă și layout", "Cota optimă de nivelare, bugete comparabile între variante"],
-        ["În execuție și la decont", "Volume executate, din măsurători înainte/după", "Decontezi cantități măsurate, nu declarate"]
+        ["În execuție și la decont", "Volume executate, din măsurători înainte/după", "Decontați cantități măsurate, nu declarate"]
       ]
     },
     {
@@ -35,14 +35,14 @@
     {
       "type": "html",
       "heading": "Un exemplu de logică, fără cifre inventate",
-      "html": "<p>Gândește-te la un amplasament valonat pe care furnizorul structurii acceptă terenul natural pe cea mai mare parte a suprafeței, dar două zone depășesc toleranțele de pantă pe rând. Scenariul „nivelăm tot\" produce un volum uriaș și un cost pe măsură; scenariul „nivelăm doar cele două zone, cu compensare locală cut/fill\" produce o fracțiune din volum — dar numai calculul pe model îți spune dacă pământul săpat acolo ajunge pentru umplutura de alături sau dacă rămâi cu transport. Adaugă un al treilea scenariu, în care layoutul se rotește câteva grade și una dintre zone iese complet din câmpul de panouri, și ai o decizie de sute de mii de lei luată pe trei rulări ale aceluiași model.</p><p>Exact acest tip de comparație e livrabilul nostru: nu un singur număr, ci scenarii puse față în față, cu volumele, hărțile și ipotezele fiecăruia — ca decizia să fie a ta, luată pe cifre măsurate. Dacă vrei să vedem împreună ce scenarii au sens pe terenul tău, scrie-ne pe WhatsApp cu numărul cadastral și stadiul proiectului.</p>"
+      "html": "<p>Gândiți-vă la un amplasament valonat pe care furnizorul structurii acceptă terenul natural pe cea mai mare parte a suprafeței, dar două zone depășesc toleranțele de pantă pe rând. Scenariul „nivelăm tot\" produce un volum uriaș și un cost pe măsură; scenariul „nivelăm doar cele două zone, cu compensare locală cut/fill\" produce o fracțiune din volum — dar numai calculul pe model vă spune dacă pământul săpat acolo ajunge pentru umplutura de alături sau dacă rămâneți cu transport. Adaugă un al treilea scenariu, în care layoutul se rotește câteva grade și una dintre zone iese complet din câmpul de panouri, și aveți o decizie de sute de mii de lei luată pe trei rulări ale aceluiași model.</p><p>Exact acest tip de comparație e livrabilul nostru: nu un singur număr, ci scenarii puse față în față, cu volumele, hărțile și ipotezele fiecăruia — ca decizia să fie a dumneavoastră, luată pe cifre măsurate. Dacă vreți să vedem împreună ce scenarii au sens pe terenul dumneavoastră, scrieți-ne pe WhatsApp cu numărul cadastral și stadiul proiectului.</p>"
     },
     {
       "type": "faq",
       "items": [
         {
           "q": "Nu poate face constructorul de terasamente acest calcul?",
-          "a": "Poate, dar e partea care facturează metrii cubi — iar tu ai nevoie de o cifră independentă. Calculul topografic pe măsurători proprii îți dă o bază neutră pentru contractare și pentru verificarea situațiilor de lucrări."
+          "a": "Poate, dar e partea care facturează metrii cubi — iar dumneavoastră aveți nevoie de o cifră independentă. Calculul topografic pe măsurători proprii vă dă o bază neutră pentru contractare și pentru verificarea situațiilor de lucrări."
         },
         {
           "q": "Ce precizie are calculul de volume?",

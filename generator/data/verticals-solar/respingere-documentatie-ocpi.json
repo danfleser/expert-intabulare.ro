@@ -1,7 +1,7 @@
 {
   "slug": "respingere-documentatie-ocpi",
   "title": "Documentație respinsă la OCPI — cauze frecvente și remedii",
-  "h1": "Respingerea documentației la OCPI: de ce se întâmplă pe lucrările mari și cum o deblochezi",
+  "h1": "Respingerea documentației la OCPI: de ce se întâmplă pe lucrările mari și cum o deblocați",
   "metaDescription": "Documentație cadastrală respinsă la OCPI? Cauzele frecvente pe lucrări mari — suprapuneri, neconcordanțe acte-măsurătoare — și remediile, pe Ordinul 700/2014.",
   "whatsappTopic": "deblocarea unei documentații cadastrale respinse la OCPI",
   "hook": "none",
@@ -10,12 +10,12 @@
     {
       "type": "html",
       "heading": "O respingere costă săptămâni — pe un proiect fotovoltaic, costă și finanțarea",
-      "html": "<p>Documentațiile cadastrale se avizează și se recepționează după regulile Ordinului ANCPI nr. 700/2014. Când ceva nu se leagă, primești o notă de completare sau o respingere — iar pe lucrările mari, tipice proiectelor fotovoltaice (alipiri de zeci de parcele, dezmembrări, superficie, actualizări de limite), probabilitatea unei note crește cu fiecare imobil implicat. Fiecare rundă de corecturi înseamnă săptămâni de așteptare, iar termenele față de vânzători, bancă sau avizatori nu așteaptă odată cu tine.</p><p>Vestea bună: cauzele respingerilor sunt surprinzător de repetitive. Cine le cunoaște le poate preveni aproape complet — sau, dacă documentația a fost deja respinsă, poate citi referatul și ști exact ce urmează. Dacă ai primit o respingere, trimite-ne referatul și extrasul CF pe WhatsApp și îți spunem în aceeași zi ce e de făcut și cât durează.</p>"
+      "html": "<p>Documentațiile cadastrale se avizează și se recepționează după regulile Ordinului ANCPI nr. 700/2014. Când ceva nu se leagă, primiți o notă de completare sau o respingere — iar pe lucrările mari, tipice proiectelor fotovoltaice (alipiri de zeci de parcele, dezmembrări, superficie, actualizări de limite), probabilitatea unei note crește cu fiecare imobil implicat. Fiecare rundă de corecturi înseamnă săptămâni de așteptare, iar termenele față de vânzători, bancă sau avizatori nu așteaptă odată cu dumneavoastră.</p><p>Vestea bună: cauzele respingerilor sunt surprinzător de repetitive. Cine le cunoaște le poate preveni aproape complet — sau, dacă documentația a fost deja respinsă, poate citi referatul și ști exact ce urmează. Dacă ați primit o respingere, trimiteți-ne referatul și extrasul CF pe WhatsApp și vă spunem în aceeași zi ce e de făcut și cât durează.</p>"
     },
     {
       "type": "html",
       "heading": "Cauzele frecvente pe lucrările mari",
-      "html": "<ul><li><strong>Suprapunere cu imobile deja înregistrate</strong> — măsurătoarea ta intră peste limitele unui imobil vecin recepționat anterior. Pe terenurile agricole comasate din mai multe parcele e cea mai frecventă problemă; uneori eroarea e în documentația veche a vecinului, nu în a ta, ceea ce complică remedierea.</li><li><strong>Neconcordanțe între acte și măsurătoare</strong> — suprafața rezultată din măsurare diferă de cea din acte peste toleranțele admise, sau categoria de folosință din teren nu corespunde cu cea din cartea funciară.</li><li><strong>Identificare incertă în planul parcelar</strong> — pe tarlalele fără cadastru sistematic, imobilul trebuie așezat corect în <a href=\"/parcuri-fotovoltaice/plan-parcelar-identificare-teren.html\">planul parcelar</a>; dacă planul lipsește sau poziția e contestabilă, documentația se întoarce.</li><li><strong>Acte de proprietate incomplete</strong> — succesiuni nedezbătute, titluri cu erori de nume sau de vecinătăți, mențiuni care nu se leagă între ele.</li><li><strong>Erori tehnice de întocmire</strong> — inventar de coordonate greșit sau incomplet, fișier de date neconform, piese lipsă din dosar, semnături sau formate neconforme cu regulamentul.</li></ul>"
+      "html": "<ul><li><strong>Suprapunere cu imobile deja înregistrate</strong> — măsurătoarea dumneavoastră intră peste limitele unui imobil vecin recepționat anterior. Pe terenurile agricole comasate din mai multe parcele e cea mai frecventă problemă; uneori eroarea e în documentația veche a vecinului, nu în a dumneavoastră, ceea ce complică remedierea.</li><li><strong>Neconcordanțe între acte și măsurătoare</strong> — suprafața rezultată din măsurare diferă de cea din acte peste toleranțele admise, sau categoria de folosință din teren nu corespunde cu cea din cartea funciară.</li><li><strong>Identificare incertă în planul parcelar</strong> — pe tarlalele fără cadastru sistematic, imobilul trebuie așezat corect în <a href=\"/parcuri-fotovoltaice/plan-parcelar-identificare-teren.html\">planul parcelar</a>; dacă planul lipsește sau poziția e contestabilă, documentația se întoarce.</li><li><strong>Acte de proprietate incomplete</strong> — succesiuni nedezbătute, titluri cu erori de nume sau de vecinătăți, mențiuni care nu se leagă între ele.</li><li><strong>Erori tehnice de întocmire</strong> — inventar de coordonate greșit sau incomplet, fișier de date neconform, piese lipsă din dosar, semnături sau formate neconforme cu regulamentul.</li></ul>"
     },
     {
       "type": "html",
@@ -40,7 +40,7 @@
         },
         {
           "q": "Cât durează deblocarea unei documentații respinse?",
-          "a": "Depinde de cauză: erorile de întocmire se rezolvă în zile, suprapunerile și problemele de acte pot dura săptămâni sau luni, pentru că implică terți. După analiza referatului îți dăm un termen realist, pe pași."
+          "a": "Depinde de cauză: erorile de întocmire se rezolvă în zile, suprapunerile și problemele de acte pot dura săptămâni sau luni, pentru că implică terți. După analiza referatului vă dăm un termen realist, pe pași."
         },
         {
           "q": "Respingerea la OCPI îmi afectează autorizația de construire?",

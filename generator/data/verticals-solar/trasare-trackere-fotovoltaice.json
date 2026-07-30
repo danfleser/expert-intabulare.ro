@@ -10,7 +10,7 @@
     {
       "type": "html",
       "heading": "Un tracker iartă mai puțin decât o structură fixă",
-      "html": "<p>La structura fixă, fiecare masă de panouri e o unitate aproape independentă — abaterile mici se pierd în construcție. La tracker-ul monoaxial, zeci de piloni de pe același rând poartă un singur ax de rotație acționat de un motor: dacă pilonii nu stau pe aliniament și la cotele corecte, axul se torsionează, lagărele se uzează, iar sistemul de acționare lucrează forțat. De aceea furnizorii de trackere impun toleranțe stricte de aliniament și verticalitate pe rând — conform specificației fiecărui furnizor, tipic sub ±2 cm pe aliniament — și le verifică înainte să valideze montajul.</p><p>Practic, trasarea tracker-elor e o lucrare în care topograful răspunde direct față de specificația unui echipament, nu doar față de un plan de situație. Noi lucrăm exact așa: cu specificația furnizorului pe masă înainte de mobilizare. Scrie-ne pe WhatsApp cu layoutul și specificația de montaj și îți spunem cum organizăm trasarea și verificările.</p>"
+      "html": "<p>La structura fixă, fiecare masă de panouri e o unitate aproape independentă — abaterile mici se pierd în construcție. La tracker-ul monoaxial, zeci de piloni de pe același rând poartă un singur ax de rotație acționat de un motor: dacă pilonii nu stau pe aliniament și la cotele corecte, axul se torsionează, lagărele se uzează, iar sistemul de acționare lucrează forțat. De aceea furnizorii de trackere impun toleranțe stricte de aliniament și verticalitate pe rând — conform specificației fiecărui furnizor, tipic sub ±2 cm pe aliniament — și le verifică înainte să valideze montajul.</p><p>Practic, trasarea tracker-elor e o lucrare în care topograful răspunde direct față de specificația unui echipament, nu doar față de un plan de situație. Noi lucrăm exact așa: cu specificația furnizorului pe masă înainte de mobilizare. Scrieți-ne pe WhatsApp cu layoutul și specificația de montaj și vă spunem cum organizăm trasarea și verificările.</p>"
     },
     {
       "type": "html",
@@ -37,14 +37,14 @@
     {
       "type": "html",
       "heading": "Terenul se pregătește înainte, nu se repară după",
-      "html": "<p>Cele mai multe probleme de aliniament la trackere nu vin din trasare, ci din teren: rânduri proiectate peste schimbări de pantă care depășesc specificația, zone nivelate sumar, umpluturi proaspete în care pilonii nu țin poziția. De aceea insistăm ca înainte de trasare să existe două lucruri: harta reală de pantă pe direcția rândurilor, calculată pe modelul digital al terenului, și confirmarea proiectantului că nivelarea executată corespunde proiectului. Acolo unde <a href=\"/parcuri-fotovoltaice/calcul-volumetrie-terasamente.html\">terasamentele</a> au modificat terenul, măsurăm suprafața nivelată înainte de a trasa pe ea — trasarea pe cote presupuse e cel mai scurt drum către rânduri în afara specificației.</p><p>Costul acestei discipline e mic: câteva zile de măsurători și o versiune actualizată de model. Beneficiul e că recepția montajului de către furnizorul de tracker devine o formalitate cu cifre pe masă, nu o negociere. Trimite-ne extrasul CF și layoutul pe WhatsApp și îți spunem, înainte de mobilizare, dacă terenul e pregătit pentru trasarea rândurilor sau ce mai lipsește.</p>"
+      "html": "<p>Cele mai multe probleme de aliniament la trackere nu vin din trasare, ci din teren: rânduri proiectate peste schimbări de pantă care depășesc specificația, zone nivelate sumar, umpluturi proaspete în care pilonii nu țin poziția. De aceea insistăm ca înainte de trasare să existe două lucruri: harta reală de pantă pe direcția rândurilor, calculată pe modelul digital al terenului, și confirmarea proiectantului că nivelarea executată corespunde proiectului. Acolo unde <a href=\"/parcuri-fotovoltaice/calcul-volumetrie-terasamente.html\">terasamentele</a> au modificat terenul, măsurăm suprafața nivelată înainte de a trasa pe ea — trasarea pe cote presupuse e cel mai scurt drum către rânduri în afara specificației.</p><p>Costul acestei discipline e mic: câteva zile de măsurători și o versiune actualizată de model. Beneficiul e că recepția montajului de către furnizorul de tracker devine o formalitate cu cifre pe masă, nu o negociere. Trimiteți-ne extrasul CF și layoutul pe WhatsApp și vă spunem, înainte de mobilizare, dacă terenul e pregătit pentru trasarea rândurilor sau ce mai lipsește.</p>"
     },
     {
       "type": "faq",
       "items": [
         {
           "q": "Care e toleranța de aliniament pentru trackere?",
-          "a": "Nu există o cifră universală valabilă pentru toți furnizorii — fiecare o stabilește prin specificația proprie de montaj, tipic sub ±2 cm pe aliniament. Lucrăm întotdeauna pe documentul furnizorului tău, nu pe o valoare presupusă."
+          "a": "Nu există o cifră universală valabilă pentru toți furnizorii — fiecare o stabilește prin specificația proprie de montaj, tipic sub ±2 cm pe aliniament. Lucrăm întotdeauna pe documentul furnizorului dumneavoastră, nu pe o valoare presupusă."
         },
         {
           "q": "GNSS RTK este suficient pentru trasarea trackerelor?",

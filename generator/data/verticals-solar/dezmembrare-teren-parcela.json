@@ -1,7 +1,7 @@
 {
   "slug": "dezmembrare-teren-parcela",
   "title": "Dezmembrarea terenului — dezlipire doar pe lotul util proiectului",
-  "h1": "Dezmembrarea parcelei: cumperi doar terenul de care are nevoie proiectul",
+  "h1": "Dezmembrarea parcelei: cumpărați doar terenul de care are nevoie proiectul",
   "metaDescription": "Dezmembrare teren pentru parc fotovoltaic: dezlipirea lotului util dintr-o parcelă mare, documentație cadastrală OCPI, economie la taxe notariale și preț.",
   "whatsappTopic": "dezmembrarea unei parcele de teren pentru un proiect fotovoltaic",
   "hook": "none",
@@ -9,20 +9,20 @@
   "sections": [
     {
       "type": "html",
-      "heading": "De ce ai plăti pentru hectare pe care nu le vei folosi niciodată",
-      "html": "<p>Situația e frecventă: proprietarul are o parcelă de 15 hectare, proiectul tău are nevoie de 8. Sau terenul e bun doar parțial — o zonă e prea înclinată, alta e aproape de un curs de apă, iar proprietarul oricum vrea să-și păstreze o parte pentru agricultură. Soluția cadastrală este dezmembrarea (dezlipirea): împărțirea imobilului în două sau mai multe loturi, fiecare cu număr cadastral și carte funciară proprie, astfel încât actul de vânzare sau de superficie să poarte exact asupra lotului util.</p><p>Efectul financiar e direct: prețul terenului, taxele notariale și onorariile se calculează pe suprafața lotului dezmembrat, nu pe parcela întreagă, iar sarcinile viitoare — ipoteca finanțatorului, superficia — grevează doar terenul proiectului. Pentru proprietar, la fel de important: restul parcelei rămâne liber, în circuitul lui normal, fără nicio legătură juridică cu parcul.</p>"
+      "heading": "De ce ați plăti pentru hectare pe care nu le veți folosi niciodată",
+      "html": "<p>Situația e frecventă: proprietarul are o parcelă de 15 hectare, proiectul dumneavoastră are nevoie de 8. Sau terenul e bun doar parțial — o zonă e prea înclinată, alta e aproape de un curs de apă, iar proprietarul oricum vrea să-și păstreze o parte pentru agricultură. Soluția cadastrală este dezmembrarea (dezlipirea): împărțirea imobilului în două sau mai multe loturi, fiecare cu număr cadastral și carte funciară proprie, astfel încât actul de vânzare sau de superficie să poarte exact asupra lotului util.</p><p>Efectul financiar e direct: prețul terenului, taxele notariale și onorariile se calculează pe suprafața lotului dezmembrat, nu pe parcela întreagă, iar sarcinile viitoare — ipoteca finanțatorului, superficia — grevează doar terenul proiectului. Pentru proprietar, la fel de important: restul parcelei rămâne liber, în circuitul lui normal, fără nicio legătură juridică cu parcul.</p>"
     },
     {
       "type": "html",
       "heading": "Cum decurge dezmembrarea, pas cu pas",
-      "html": "<p>Dezlipirea se face pe baza unei documentații cadastrale întocmite de un topograf autorizat și recepționate de OCPI, conform Ordinului ANCPI nr. 700/2014, urmată de actul autentic notarial și de înscrierea loturilor în cartea funciară. Concret, la noi arată așa:</p><ol><li><strong>Verificarea imobilului</strong> — extrasul CF, documentația cadastrală existentă, limitele reale măsurate pe teren cu GNSS RTK la ±2–3 cm; dacă limitele din evidențe nu corespund terenului, corectăm întâi acolo.</li><li><strong>Proiectarea loturilor</strong> — linia de dezlipire se trasează pe criteriile proiectului: suprafața necesară, accesul, traseul de racordare, zonele de teren slab; o desenăm împreună cu tine, pe măsurătoare reală, nu pe schiță.</li><li><strong>Documentația și recepția OCPI</strong> — planurile de amplasament pentru fiecare lot, cu inventarul de coordonate în Stereo 70.</li><li><strong>Notarul și înscrierea</strong> — actul de dezmembrare se autentifică și loturile primesc CF-uri proprii; de regulă, în aceeași sesiune notarială se poate autentifica și actul pentru care ai făcut dezlipirea — vânzarea sau superficia.</li></ol><p>Cu acte curate, întreaga procedură se măsoară în săptămâni, dominate de termenele OCPI și de programarea notarială.</p><p>Un avantaj practic al măsurătorii făcute serios la dezmembrare: limita nouă e materializată pe teren, cu borne, nu doar desenată în documentație. Proprietarul vede exact ce păstrează, tu vezi exact ce iei, iar discuțiile ulterioare de tip „eu am înțeles altceva” dispar înainte să apară. Aceleași borne servesc apoi la împrejmuirea parcului și la trasarea lucrărilor.</p>"
+      "html": "<p>Dezlipirea se face pe baza unei documentații cadastrale întocmite de un topograf autorizat și recepționate de OCPI, conform Ordinului ANCPI nr. 700/2014, urmată de actul autentic notarial și de înscrierea loturilor în cartea funciară. Concret, la noi arată așa:</p><ol><li><strong>Verificarea imobilului</strong> — extrasul CF, documentația cadastrală existentă, limitele reale măsurate pe teren cu GNSS RTK la ±2–3 cm; dacă limitele din evidențe nu corespund terenului, corectăm întâi acolo.</li><li><strong>Proiectarea loturilor</strong> — linia de dezlipire se trasează pe criteriile proiectului: suprafața necesară, accesul, traseul de racordare, zonele de teren slab; o desenăm împreună cu dumneavoastră, pe măsurătoare reală, nu pe schiță.</li><li><strong>Documentația și recepția OCPI</strong> — planurile de amplasament pentru fiecare lot, cu inventarul de coordonate în Stereo 70.</li><li><strong>Notarul și înscrierea</strong> — actul de dezmembrare se autentifică și loturile primesc CF-uri proprii; de regulă, în aceeași sesiune notarială se poate autentifica și actul pentru care ați făcut dezlipirea — vânzarea sau superficia.</li></ol><p>Cu acte curate, întreaga procedură se măsoară în săptămâni, dominate de termenele OCPI și de programarea notarială.</p><p>Un avantaj practic al măsurătorii făcute serios la dezmembrare: limita nouă e materializată pe teren, cu borne, nu doar desenată în documentație. Proprietarul vede exact ce păstrează, dumneavoastră vedeți exact ce luați, iar discuțiile ulterioare de tip „eu am înțeles altceva” dispar înainte să apară. Aceleași borne servesc apoi la împrejmuirea parcului și la trasarea lucrărilor.</p>"
     },
     {
       "type": "checklist",
       "heading": "La ce suntem atenți când trasăm linia de dezlipire",
       "items": [
         "Accesul fiecărui lot: lotul proiectului trebuie să aibă acces asigurat, altfel autorizarea se blochează — verificăm situația drumului înainte de a fixa limita",
-        "Traseul de evacuare a energiei: linia de dezlipire se corelează cu coridorul de racordare, ca să nu-ți creezi singur nevoia unei servituți în plus",
+        "Traseul de evacuare a energiei: linia de dezlipire se corelează cu coridorul de racordare, ca să nu vă creați singur nevoia unei servituți în plus",
         "Geometria utilă: câteva zeci de metri mutați pe limită pot însemna un rând întreg de panouri — trasăm pe layout, nu pe ochi",
         "Restul proprietarului: lotul rămas trebuie să fie el însuși utilizabil și accesibil, altfel negocierea se împotmolește",
         "Categoria de folosință și clasa terenului pe fiecare lot, relevante pentru scoaterea din circuitul agricol de mai târziu"
@@ -31,7 +31,7 @@
     {
       "type": "html",
       "heading": "Dezmembrarea în strategia proiectului",
-      "html": "<p>Dezlipirea nu e un scop în sine — e o unealtă care se combină cu celelalte operațiuni cadastrale. Pe proiectele cu multe parcele mici lucrezi cu <a href=\"/parcuri-fotovoltaice/alipire-parcele-teren.html\">alipirea</a>; pe parcelele mari, cu dezmembrarea; des le folosim în serie: dezmembrezi loturile utile din mai multe parcele, apoi le alipești într-un singur imobil de proiect. Pe lotul rezultat se înscrie <a href=\"/parcuri-fotovoltaice/superficie-parc-fotovoltaic.html\">superficia</a>, se face <a href=\"/parcuri-fotovoltaice/scoatere-din-circuit-agricol-fotovoltaic.html\">scoaterea din circuitul agricol</a> strict pe suprafața necesară și se autorizează construirea.</p><p>Verificarea accesului merită subliniată încă o dată: un lot dezmembrat fără <a href=\"/parcuri-fotovoltaice/drum-acces-teren-carte-funciara.html\">drum de acces înscris</a> e un proiect blocat la autorizare. Noi ridicăm problema înainte de a depune orice documentație. Trimite-ne extrasul CF pe WhatsApp, cu o schiță a zonei care te interesează din parcelă — îți răspundem în aceeași zi cu pașii, durata și costul orientativ.</p>"
+      "html": "<p>Dezlipirea nu e un scop în sine — e o unealtă care se combină cu celelalte operațiuni cadastrale. Pe proiectele cu multe parcele mici lucrați cu <a href=\"/parcuri-fotovoltaice/alipire-parcele-teren.html\">alipirea</a>; pe parcelele mari, cu dezmembrarea; des le folosim în serie: dezmembrați loturile utile din mai multe parcele, apoi le alipiți într-un singur imobil de proiect. Pe lotul rezultat se înscrie <a href=\"/parcuri-fotovoltaice/superficie-parc-fotovoltaic.html\">superficia</a>, se face <a href=\"/parcuri-fotovoltaice/scoatere-din-circuit-agricol-fotovoltaic.html\">scoaterea din circuitul agricol</a> strict pe suprafața necesară și se autorizează construirea.</p><p>Verificarea accesului merită subliniată încă o dată: un lot dezmembrat fără <a href=\"/parcuri-fotovoltaice/drum-acces-teren-carte-funciara.html\">drum de acces înscris</a> e un proiect blocat la autorizare. Noi ridicăm problema înainte de a depune orice documentație. Trimiteți-ne extrasul CF pe WhatsApp, cu o schiță a zonei care vă interesează din parcelă — vă răspundem în aceeași zi cu pașii, durata și costul orientativ.</p>"
     },
     {
       "type": "faq",
@@ -42,7 +42,7 @@
         },
         {
           "q": "Câte loturi pot rezulta dintr-o dezmembrare?",
-          "a": "Două sau mai multe, după nevoie — de exemplu lotul parcului, lotul rămas proprietarului și o fâșie pentru drum de acces. Geometria o stabilim pe măsurătoare, împreună cu tine și cu proiectantul."
+          "a": "Două sau mai multe, după nevoie — de exemplu lotul parcului, lotul rămas proprietarului și o fâșie pentru drum de acces. Geometria o stabilim pe măsurătoare, împreună cu dumneavoastră și cu proiectantul."
         },
         {
           "q": "Se poate dezmembra un teren cu ipotecă?",
@@ -50,7 +50,7 @@
         },
         {
           "q": "Cât durează dezmembrarea, de la comandă la CF-uri noi?",
-          "a": "Cu documentația cadastrală a imobilului în regulă: măsurătoarea și documentația de dezlipire în una-două săptămâni, apoi termenele OCPI pentru recepție și programarea la notar. Realist, câteva săptămâni cap la cap. Dacă imobilul are probleme cadastrale de rezolvat întâi, evaluăm și îți spunem înainte."
+          "a": "Cu documentația cadastrală a imobilului în regulă: măsurătoarea și documentația de dezlipire în una-două săptămâni, apoi termenele OCPI pentru recepție și programarea la notar. Realist, câteva săptămâni cap la cap. Dacă imobilul are probleme cadastrale de rezolvat întâi, evaluăm și vă spunem înainte."
         },
         {
           "q": "Dezmembrarea schimbă categoria de folosință a terenului?",

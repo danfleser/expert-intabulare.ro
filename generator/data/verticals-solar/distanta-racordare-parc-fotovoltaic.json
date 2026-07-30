@@ -10,7 +10,7 @@
     {
       "type": "html",
       "heading": "Kilometrul de racord se plătește pe traseul real",
-      "html": "<p>Distanța până la punctul de racordare e unul dintre cei mai mari factori de cost ai unui proiect fotovoltaic — și unul dintre cei mai prost estimați. Reflexul obișnuit e să măsori linia dreaptă pe hartă între teren și stația sau linia vizată. Numai că niciun cablu nu merge în linie dreaptă: traseul real urmează drumuri și limite de proprietate, ocolește obstacole și traversează terenurile altora — iar costul racordării, care e integral în sarcina ta ca beneficiar, se calculează pe kilometrii reali, nu pe cei din birou.</p><p>Noi măsurăm traseul real: ridicarea topografică a coridorului, profilul longitudinal pentru proiectantul de rețea și identificarea fiecărei cărți funciare traversate. Cu aceste date, estimarea de cost devine calcul, iar negocierile cu proprietarii de pe traseu încep devreme, nu în criză de timp.</p>"
+      "html": "<p>Distanța până la punctul de racordare e unul dintre cei mai mari factori de cost aveți unui proiect fotovoltaic — și unul dintre cei mai prost estimați. Reflexul obișnuit e să măsurați linia dreaptă pe hartă între teren și stația sau linia vizată. Numai că niciun cablu nu merge în linie dreaptă: traseul real urmează drumuri și limite de proprietate, ocolește obstacole și traversează terenurile altora — iar costul racordării, care e integral în sarcina dumneavoastră ca beneficiar, se calculează pe kilometrii reali, nu pe cei din birou.</p><p>Noi măsurăm traseul real: ridicarea topografică a coridorului, profilul longitudinal pentru proiectantul de rețea și identificarea fiecărei cărți funciare traversate. Cu aceste date, estimarea de cost devine calcul, iar negocierile cu proprietarii de pe traseu încep devreme, nu în criză de timp.</p>"
     },
     {
       "type": "html",
@@ -25,7 +25,7 @@
     {
       "type": "html",
       "heading": "Ce măsurăm pe traseu",
-      "html": "<p>Pentru coridorul de racordare livrăm pachetul de care are nevoie proiectantul de rețea:</p><ul><li><a href=\"/parcuri-fotovoltaice/ridicare-topografica-racord-electric.html\">ridicarea topografică a traseului</a> — planimetrie și altimetrie pe întreg coridorul, cu drumuri, șanțuri, rețele existente și stâlpii liniilor aeriene;</li><li><a href=\"/parcuri-fotovoltaice/profil-longitudinal-traseu-electric.html\">profilul longitudinal</a> — cote pe axul traseului, pentru pozare, subtraversări și calculul real al lungimii;</li><li><strong>inventarul cărților funciare traversate</strong> — lista imobilelor afectate, cu proprietarii din CF, baza pentru negocierea servituților;</li><li><strong>planurile de servitute</strong> — câte unul per imobil afectat, pentru notar și înscrierea în cartea funciară;</li><li><strong>punctele critice</strong> — traversări de drumuri și ape, zone cu recepție GNSS slabă, porțiuni cu pante mari, documentate separat.</li></ul><p>Trimite-ne extrasul CF al terenului și punctul de racordare avut în vedere pe WhatsApp — îți spunem ce presupune măsurarea coridorului și în cât timp o putem face.</p>"
+      "html": "<p>Pentru coridorul de racordare livrăm pachetul de care are nevoie proiectantul de rețea:</p><ul><li><a href=\"/parcuri-fotovoltaice/ridicare-topografica-racord-electric.html\">ridicarea topografică a traseului</a> — planimetrie și altimetrie pe întreg coridorul, cu drumuri, șanțuri, rețele existente și stâlpii liniilor aeriene;</li><li><a href=\"/parcuri-fotovoltaice/profil-longitudinal-traseu-electric.html\">profilul longitudinal</a> — cote pe axul traseului, pentru pozare, subtraversări și calculul real al lungimii;</li><li><strong>inventarul cărților funciare traversate</strong> — lista imobilelor afectate, cu proprietarii din CF, baza pentru negocierea servituților;</li><li><strong>planurile de servitute</strong> — câte unul per imobil afectat, pentru notar și înscrierea în cartea funciară;</li><li><strong>punctele critice</strong> — traversări de drumuri și ape, zone cu recepție GNSS slabă, porțiuni cu pante mari, documentate separat.</li></ul><p>Trimiteți-ne extrasul CF al terenului și punctul de racordare avut în vedere pe WhatsApp — vă spunem ce presupune măsurarea coridorului și în cât timp o putem face.</p>"
     },
     {
       "type": "faq",
@@ -36,7 +36,7 @@
         },
         {
           "q": "Cu cât e mai lung traseul real față de linia dreaptă?",
-          "a": "Nu există un procent universal — depinde de drumuri, obstacole și proprietăți. Diferențe semnificative sunt regula, nu excepția, și exact de aceea estimarea de buget pe linia dreaptă e periculoasă. Măsurătoarea îți dă lungimea reală, pe coridorul construibil."
+          "a": "Nu există un procent universal — depinde de drumuri, obstacole și proprietăți. Diferențe semnificative sunt regula, nu excepția, și exact de aceea estimarea de buget pe linia dreaptă e periculoasă. Măsurătoarea vă dă lungimea reală, pe coridorul construibil."
         },
         {
           "q": "Când are sens să măsurați traseul — înainte sau după ATR?",
@@ -44,7 +44,7 @@
         },
         {
           "q": "Ce se întâmplă dacă un proprietar de pe traseu refuză servitutea?",
-          "a": "Coridorul se reproiectează pe o variantă ocolitoare — de aceea inventarul CF-urilor traversate trebuie făcut devreme. E mult mai ieftin să afli refuzul înainte de proiectare decât după."
+          "a": "Coridorul se reproiectează pe o variantă ocolitoare — de aceea inventarul CF-urilor traversate trebuie făcut devreme. E mult mai ieftin să aflați refuzul înainte de proiectare decât după."
         }
       ]
     }

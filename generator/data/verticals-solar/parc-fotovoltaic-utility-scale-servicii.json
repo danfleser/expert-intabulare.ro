@@ -10,7 +10,7 @@
     {
       "type": "html",
       "heading": "Un singur topograf pe tot ciclul de viață al parcului",
-      "html": "<p>La un parc de peste 1 MW, topografia nu mai e o comandă punctuală — e un fir care traversează tot proiectul: zeci de parcele de comasat, superficie de înscris pe fiecare imobil, studiu topografic pe zeci de hectare, mii de piloni de trasat în ritmul șantierului, apoi as-built-ul fără de care nu treci de recepție. Când fiecare etapă o face altă echipă, plătești de fiecare dată remobilizare, altă referință de coordonate și timp pierdut la interfețe.</p><p>Noi acoperim întregul lanț dintr-o singură bază de date și o singură rețea de sprijin materializată pe teren la prima vizită. Colaborăm cu dezvoltatori și constructori — de la fondul care cumpără proiectul până la echipele care bat pilonii — și predăm fiecărei părți livrabilele în formatul ei: rapoarte pentru investitor, dwg/LandXML pentru proiectant, tabele de trasare pentru șantier, documentații conform Ordinului ANCPI 700/2014 pentru instituții.</p>"
+      "html": "<p>La un parc de peste 1 MW, topografia nu mai e o comandă punctuală — e un fir care traversează tot proiectul: zeci de parcele de comasat, superficie de înscris pe fiecare imobil, studiu topografic pe zeci de hectare, mii de piloni de trasat în ritmul șantierului, apoi as-built-ul fără de care nu treceți de recepție. Când fiecare etapă o face altă echipă, plătiți de fiecare dată remobilizare, altă referință de coordonate și timp pierdut la interfețe.</p><p>Noi acoperim întregul lanț dintr-o singură bază de date și o singură rețea de sprijin materializată pe teren la prima vizită. Colaborăm cu dezvoltatori și constructori — de la fondul care cumpără proiectul până la echipele care bat pilonii — și predăm fiecărei părți livrabilele în formatul ei: rapoarte pentru investitor, dwg/LandXML pentru proiectant, tabele de trasare pentru șantier, documentații conform Ordinului ANCPI 700/2014 pentru instituții.</p>"
     },
     {
       "type": "table",
@@ -38,14 +38,14 @@
     {
       "type": "html",
       "heading": "Capacitate și mod de lucru",
-      "html": "<p>Lucrăm din Aiud, județul Alba — în centrul Transilvaniei — cu deplasare pe teren în Alba, Cluj, Mureș, Sibiu și Hunedoara; verificările pe documente le facem pentru proiecte din toată țara. Echipare completă pentru lucrări mari: GNSS RTK, stație totală, dronă pentru fotogrametrie cu puncte de control la sol, cu precizii de 2–5 cm pe suprafețe de zeci de hectare.</p><p>Modul de lucru preferat pe utility-scale: intrăm devreme, la due diligence, și rămânem pe proiect până la as-built — cu ofertă pe etape și termene per livrabil. Dacă proiectul e deja în derulare și ai nevoie de o etapă anume, intrăm și punctual: preluăm documentații existente după o verificare onestă a ceea ce se poate refolosi. Trimite-ne extrasul CF și stadiul proiectului pe WhatsApp — revenim în aceeași zi cu pașii și oferta orientativă.</p>"
+      "html": "<p>Lucrăm din Aiud, județul Alba — în centrul Transilvaniei — cu deplasare pe teren în Alba, Cluj, Mureș, Sibiu și Hunedoara; verificările pe documente le facem pentru proiecte din toată țara. Echipare completă pentru lucrări mari: GNSS RTK, stație totală, dronă pentru fotogrametrie cu puncte de control la sol, cu precizii de 2–5 cm pe suprafețe de zeci de hectare.</p><p>Modul de lucru preferat pe utility-scale: intrăm devreme, la due diligence, și rămânem pe proiect până la as-built — cu ofertă pe etape și termene per livrabil. Dacă proiectul e deja în derulare și aveți nevoie de o etapă anume, intrăm și punctual: preluăm documentații existente după o verificare onestă a ceea ce se poate refolosi. Trimiteți-ne extrasul CF și stadiul proiectului pe WhatsApp — revenim în aceeași zi cu pașii și oferta orientativă.</p>"
     },
     {
       "type": "faq",
       "items": [
         {
           "q": "Lucrați ca subcontractor pentru EPC-uri?",
-          "a": "Colaborăm cu dezvoltatori și constructori, în forma de contract care se potrivește proiectului — direct cu dezvoltatorul, cu constructorul sau cu ambii. Important pentru tine e că toate etapele topografice stau pe aceeași referință, indiferent cine le contractează."
+          "a": "Colaborăm cu dezvoltatori și constructori, în forma de contract care se potrivește proiectului — direct cu dezvoltatorul, cu constructorul sau cu ambii. Important pentru dumneavoastră e că toate etapele topografice stau pe aceeași referință, indiferent cine le contractează."
         },
         {
           "q": "Puteți ține ritmul unui șantier cu termene strânse?",
@@ -53,11 +53,11 @@
         },
         {
           "q": "Ce se întâmplă dacă am deja studiul topografic de la altă firmă?",
-          "a": "Îl verificăm și îți spunem onest ce se poate refolosi: dacă e recepționat OCPI, în Stereo 70 și actual, construim pe el. Dacă nu, primești lista exactă a problemelor și costul actualizării față de refacere."
+          "a": "Îl verificăm și vă spunem onest ce se poate refolosi: dacă e recepționat OCPI, în Stereo 70 și actual, construim pe el. Dacă nu, primiți lista exactă a problemelor și costul actualizării față de refacere."
         },
         {
           "q": "Acoperiți și partea de proiectare sau studii geotehnice?",
-          "a": "Nu — facem exclusiv topografie și cadastru. Ne coordonăm însă curent cu proiectanții, geotehnicienii și consultanții de permitting ai proiectului, iar livrabilele noastre ajung la ei în formatele de care au nevoie."
+          "a": "Nu — facem exclusiv topografie și cadastru. Ne coordonăm însă curent cu proiectanții, geotehnicienii și consultanții de permitting aveți proiectului, iar livrabilele noastre ajung la ei în formatele de care au nevoie."
         }
       ]
     }

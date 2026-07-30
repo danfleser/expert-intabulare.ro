@@ -1,21 +1,21 @@
 {
   "slug": "plan-de-situatie-parc-fotovoltaic",
   "title": "Plan de situație pentru parc fotovoltaic — 1:5000 / 1:2000 pentru certificatul de urbanism",
-  "h1": "Planul de situație pentru parc fotovoltaic: ce cere primăria la CU și de unde îl obții",
-  "metaDescription": "Plan de situație 1:5000 sau 1:2000 pe ortofotoplan pentru certificatul de urbanism al parcului fotovoltaic. De la OCPI sau de la topograf — ce alegi și când.",
+  "h1": "Planul de situație pentru parc fotovoltaic: ce cere primăria la CU și de unde îl obțineți",
+  "metaDescription": "Plan de situație 1:5000 sau 1:2000 pe ortofotoplan pentru certificatul de urbanism al parcului fotovoltaic. De la OCPI sau de la topograf — ce alegeți și când.",
   "whatsappTopic": "un plan de situație pentru certificatul de urbanism al unui parc fotovoltaic",
   "hook": "none",
   "trustBar": true,
   "sections": [
     {
       "type": "html",
-      "heading": "Prima hârtie tehnică pe care ți-o cere primăria",
-      "html": "<p>Ca să obții certificatul de urbanism pentru un parc fotovoltaic, cererea trebuie însoțită de planuri de situație — de regulă la scara 1:5000 și 1:2000 — care arată unde se află imobilul și ce se învecinează cu el. Este un livrabil simplu în aparență, dar e primul filtru al proiectului: dacă planul nu corespunde cu evidența cadastrală sau nu identifică imobilul fără echivoc, cererea se întoarce, iar tu pierzi săptămâni chiar înainte de a începe discuția serioasă despre autorizare.</p><p>Vestea bună: e un livrabil rapid și ieftin comparativ cu restul documentației. Vestea și mai bună: dacă îl faci cu topograful care va lucra tot proiectul, planul de situație devine primul strat al unei baze de date care crește odată cu proiectul, în loc să fie o hârtie de unică folosință. Trimite-ne extrasul CF pe WhatsApp și îți spunem în aceeași zi ce variantă de plan are sens pentru cererea ta de CU.</p>"
+      "heading": "Prima hârtie tehnică pe care vi-o cere primăria",
+      "html": "<p>Ca să obțineți certificatul de urbanism pentru un parc fotovoltaic, cererea trebuie însoțită de planuri de situație — de regulă la scara 1:5000 și 1:2000 — care arată unde se află imobilul și ce se învecinează cu el. Este un livrabil simplu în aparență, dar e primul filtru al proiectului: dacă planul nu corespunde cu evidența cadastrală sau nu identifică imobilul fără echivoc, cererea se întoarce, iar dumneavoastră pierdeți săptămâni chiar înainte de a începe discuția serioasă despre autorizare.</p><p>Vestea bună: e un livrabil rapid și ieftin comparativ cu restul documentației. Vestea și mai bună: dacă îl faceți cu topograful care va lucra tot proiectul, planul de situație devine primul strat al unei baze de date care crește odată cu proiectul, în loc să fie o hârtie de unică folosință. Trimiteți-ne extrasul CF pe WhatsApp și vă spunem în aceeași zi ce variantă de plan are sens pentru cererea dumneavoastră de CU.</p>"
     },
     {
       "type": "html",
       "heading": "Extras de plan de la OCPI sau plan întocmit de topograf?",
-      "html": "<p>Ai două căi de a obține planul de situație, și diferența dintre ele merită înțeleasă:</p><ul><li><strong>Extrasul de plan cadastral de la OCPI</strong> — o copie a evidenței cadastrale existente, pe ortofotoplan. E rapid și suficient atunci când imobilul e intabulat, limitele sunt corecte și primăria nu cere detalii suplimentare. Nu conține însă relieful, elementele din teren sau vecinătățile nefigurate în evidență.</li><li><strong>Planul de situație întocmit de topograf</strong> — construit pe măsurători reale sau pe ortofotoplan verificat, cu imobilul identificat prin numele UAT, numărul cadastral și numărul de carte funciară, cu vecinătățile, drumurile de acces și liniile electrice relevante figurate. E varianta de care ai nevoie când terenul are situație cadastrală incompletă, când primăria cere elemente pe care evidența OCPI nu le arată sau când vrei ca planul să fie coerent cu documentația care urmează.</li></ul><p>În practică, pentru proiecte fotovoltaice recomandăm a doua cale ori de câte ori proiectul merge mai departe de CU: același contur, aceleași coordonate Stereo 70 și aceeași referință se regăsesc apoi în <a href=\"/parcuri-fotovoltaice/studiu-topografic-parc-fotovoltaic.html\">studiul topografic</a>, în documentația de <a href=\"/parcuri-fotovoltaice/aviz-ocpi-puz-parc-fotovoltaic.html\">aviz OCPI pentru PUZ</a> și în planșele de autorizare.</p>"
+      "html": "<p>Aveți două căi de a obține planul de situație, și diferența dintre ele merită înțeleasă:</p><ul><li><strong>Extrasul de plan cadastral de la OCPI</strong> — o copie a evidenței cadastrale existente, pe ortofotoplan. E rapid și suficient atunci când imobilul e intabulat, limitele sunt corecte și primăria nu cere detalii suplimentare. Nu conține însă relieful, elementele din teren sau vecinătățile nefigurate în evidență.</li><li><strong>Planul de situație întocmit de topograf</strong> — construit pe măsurători reale sau pe ortofotoplan verificat, cu imobilul identificat prin numele UAT, numărul cadastral și numărul de carte funciară, cu vecinătățile, drumurile de acces și liniile electrice relevante figurate. E varianta de care aveți nevoie când terenul are situație cadastrală incompletă, când primăria cere elemente pe care evidența OCPI nu le arată sau când vreți ca planul să fie coerent cu documentația care urmează.</li></ul><p>În practică, pentru proiecte fotovoltaice recomandăm a doua cale ori de câte ori proiectul merge mai departe de CU: același contur, aceleași coordonate Stereo 70 și aceeași referință se regăsesc apoi în <a href=\"/parcuri-fotovoltaice/studiu-topografic-parc-fotovoltaic.html\">studiul topografic</a>, în documentația de <a href=\"/parcuri-fotovoltaice/aviz-ocpi-puz-parc-fotovoltaic.html\">aviz OCPI pentru PUZ</a> și în planșele de autorizare.</p>"
     },
     {
       "type": "checklist",
@@ -33,12 +33,12 @@
     {
       "type": "html",
       "heading": "Capcanele care întorc cererea de CU",
-      "html": "<p>Cele mai frecvente motive pentru care un plan de situație se întoarce de la primărie: ortofotoplan vechi, pe care nu se regăsesc drumuri sau construcții apărute între timp; limite preluate din acte fără verificare, care nu se închid cu evidența cadastrală; imobil format din mai multe parcele tratate neunitar; și lipsa oricărei mențiuni despre accesul la teren. Niciuna nu e complicată de evitat — toate cer însă ca cel care întocmește planul să fi verificat situația reală, nu doar să fi copiat un contur.</p><p>Dacă terenul are probleme mai adânci — <a href=\"/parcuri-fotovoltaice/verificare-suprapunere-cadastrala-teren.html\">suprapuneri cadastrale</a>, imobil <a href=\"/parcuri-fotovoltaice/teren-neintabulat-parc-fotovoltaic.html\">neintabulat</a> sau diferențe de suprafață — planul de situație e momentul ieftin în care le descoperi. E mult mai bine să afli la CU decât la avizul OCPI sau, mai rău, la bancă.</p>"
+      "html": "<p>Cele mai frecvente motive pentru care un plan de situație se întoarce de la primărie: ortofotoplan vechi, pe care nu se regăsesc drumuri sau construcții apărute între timp; limite preluate din acte fără verificare, care nu se închid cu evidența cadastrală; imobil format din mai multe parcele tratate neunitar; și lipsa oricărei mențiuni despre accesul la teren. Niciuna nu e complicată de evitat — toate cer însă ca cel care întocmește planul să fi verificat situația reală, nu doar să fi copiat un contur.</p><p>Dacă terenul are probleme mai adânci — <a href=\"/parcuri-fotovoltaice/verificare-suprapunere-cadastrala-teren.html\">suprapuneri cadastrale</a>, imobil <a href=\"/parcuri-fotovoltaice/teren-neintabulat-parc-fotovoltaic.html\">neintabulat</a> sau diferențe de suprafață — planul de situație e momentul ieftin în care le descoperiți. E mult mai bine să aflați la CU decât la avizul OCPI sau, mai rău, la bancă.</p>"
     },
     {
       "type": "html",
       "heading": "Termene, cost și pasul următor",
-      "html": "<p>Pentru un imobil intabulat, cu situație cadastrală curată, planul de situație pentru CU e o lucrare de zile, nu de săptămâni — orientativ 2–5 zile lucrătoare de la primirea documentelor, fără deplasare pe teren dacă suportul cartografic e suficient. Costul e o fracțiune din cel al studiului topografic; îți dăm un interval orientativ imediat ce vedem extrasul CF. Colaborăm cu dezvoltatori și constructori, iar dacă proiectul merge mai departe, măsurătorile și planșele de la CU se refolosesc integral în etapele următoare — de la <a href=\"/parcuri-fotovoltaice/ridicare-topografica-teren-fotovoltaic.html\">ridicarea topografică</a> completă până la <a href=\"/parcuri-fotovoltaice/as-built-parc-fotovoltaic.html\">as-built</a>.</p>"
+      "html": "<p>Pentru un imobil intabulat, cu situație cadastrală curată, planul de situație pentru CU e o lucrare de zile, nu de săptămâni — orientativ 2–5 zile lucrătoare de la primirea documentelor, fără deplasare pe teren dacă suportul cartografic e suficient. Costul e o fracțiune din cel al studiului topografic; vă dăm un interval orientativ imediat ce vedem extrasul CF. Colaborăm cu dezvoltatori și constructori, iar dacă proiectul merge mai departe, măsurătorile și planșele de la CU se refolosesc integral în etapele următoare — de la <a href=\"/parcuri-fotovoltaice/ridicare-topografica-teren-fotovoltaic.html\">ridicarea topografică</a> completă până la <a href=\"/parcuri-fotovoltaice/as-built-parc-fotovoltaic.html\">as-built</a>.</p>"
     },
     {
       "type": "faq",
@@ -49,11 +49,11 @@
         },
         {
           "q": "Pot depune la CU doar extrasul de plan cadastral de la OCPI?",
-          "a": "Adesea da, dacă imobilul e intabulat corect și primăria nu cere mai mult. Verifică însă cerințele exacte din formularul de CU al primăriei respective — unele cer explicit plan de situație întocmit pe ortofotoplan, cu vecinătăți și acces figurate."
+          "a": "Adesea da, dacă imobilul e intabulat corect și primăria nu cere mai mult. Verificați însă cerințele exacte din formularul de CU al primăriei respective — unele cer explicit plan de situație întocmit pe ortofotoplan, cu vecinătăți și acces figurate."
         },
         {
           "q": "Ce documente vă trebuie ca să întocmiți planul?",
-          "a": "Extrasul de carte funciară, numărul cadastral și localitatea. Dacă imobilul are documentație cadastrală veche sau incompletă, ne trebuie și actele de proprietate. Trimite-le pe WhatsApp și îți confirmăm termenul în aceeași zi."
+          "a": "Extrasul de carte funciară, numărul cadastral și localitatea. Dacă imobilul are documentație cadastrală veche sau incompletă, ne trebuie și actele de proprietate. Trimiteți-le pe WhatsApp și vă confirmăm termenul în aceeași zi."
         },
         {
           "q": "Faceți planuri de situație și pentru terenuri din alte județe?",

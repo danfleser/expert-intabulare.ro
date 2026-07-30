@@ -2,7 +2,7 @@
   "slug": "teren-inundabil-parc-fotovoltaic",
   "title": "Teren posibil inundabil pentru parc fotovoltaic — ce spun cotele",
   "h1": "Teren inundabil? Cotele măsurate față de emisar decid — înainte de bancă și de asigurător",
-  "metaDescription": "Teren posibil inundabil pentru parc fotovoltaic: cote precise față de emisar, profile pentru studiul hidrologic și zonele unde apa băltește. Măsurăm, tu decizi.",
+  "metaDescription": "Teren posibil inundabil pentru parc fotovoltaic: cote precise față de emisar, profile pentru studiul hidrologic și zonele unde apa băltește. Măsurăm, dumneavoastră decideți.",
   "whatsappTopic": "verificarea cotelor unui teren posibil inundabil pentru fotovoltaic",
   "hook": "none",
   "trustBar": true,
@@ -10,7 +10,7 @@
     {
       "type": "html",
       "heading": "Terenul de lângă apă e ieftin cu motiv",
-      "html": "<p>Terenurile din lunci și de pe lângă văi apar des în ofertele pentru fotovoltaic: plate, deschise, ieftine. Întrebarea care decide totul e una singură: la ce cote stă terenul față de emisar — râul, pârâul sau canalul care preia apa din zonă? Un teren cu doar câteva zeci de centimetri prea jos poate însemna echipamente sub apă la prima viitură serioasă, o asigurare scumpă sau refuzată și un finanțator care se retrage la due diligence.</p><p>Partea noastră e măsurătoarea: cote precise ale terenului, profile prin albie și teren, modelul digital al terenului cu zonele depresionare. Evaluarea riscului de inundabilitate în sine e treaba studiului hidrologic, pe care nu îl facem noi — dar lucrăm coordonat cu specialiștii care îl fac, iar secțiunile și cotele noastre sunt exact datele de care au ei nevoie. Trimite-ne extrasul CF pe WhatsApp și îți spunem ce măsurători are sens să faci pe terenul tău înainte de orice avans.</p>"
+      "html": "<p>Terenurile din lunci și de pe lângă văi apar des în ofertele pentru fotovoltaic: plate, deschise, ieftine. Întrebarea care decide totul e una singură: la ce cote stă terenul față de emisar — râul, pârâul sau canalul care preia apa din zonă? Un teren cu doar câteva zeci de centimetri prea jos poate însemna echipamente sub apă la prima viitură serioasă, o asigurare scumpă sau refuzată și un finanțator care se retrage la due diligence.</p><p>Partea noastră e măsurătoarea: cote precise ale terenului, profile prin albie și teren, modelul digital al terenului cu zonele depresionare. Evaluarea riscului de inundabilitate în sine e treaba studiului hidrologic, pe care nu îl facem noi — dar lucrăm coordonat cu specialiștii care îl fac, iar secțiunile și cotele noastre sunt exact datele de care au ei nevoie. Trimiteți-ne extrasul CF pe WhatsApp și vă spunem ce măsurători are sens să faceți pe terenul dumneavoastră înainte de orice avans.</p>"
     },
     {
       "type": "html",
@@ -20,12 +20,12 @@
     {
       "type": "html",
       "heading": "Cum se folosesc datele în proiect",
-      "html": "<p>Cotele măsurate nu rămân într-un raport frumos — intră direct în deciziile scumpe ale proiectului:</p><ol><li><strong>Studiul hidrologic</strong> — specialistul hidrolog lucrează pe secțiunile și cotele noastre; fără topografie de precizie, studiul lui pleacă din estimări.</li><li><strong>Cotele de siguranță ale echipamentelor</strong> — proiectantul așază stația de transformare, invertoarele și eventuala zonă BESS pe platforme înălțate la cote stabilite pe baza studiului hidrologic; noi facem apoi <a href=\"/parcuri-fotovoltaice/nivelment-de-precizie.html\">nivelmentul de precizie</a> al platformelor și trasarea lor.</li><li><strong>Drumurile interne</strong> — traseele se aleg pe cumpăna terenului, nu prin punctele joase, ca accesul să rămână practicabil și după ploi.</li><li><strong>Terasamentele</strong> — dacă e nevoie de înălțări locale, <a href=\"/parcuri-fotovoltaice/calcul-volumetrie-terasamente.html\">calculul de volumetrie</a> îți spune câți metri cubi și, implicit, câți bani înseamnă soluția — un argument concret în negocierea prețului terenului.</li><li><strong>Dosarul pentru finanțator și asigurător</strong> — cote documentate, măsurate cu precizie declarată, în locul unor aprecieri vizuale.</li></ol>"
+      "html": "<p>Cotele măsurate nu rămân într-un raport frumos — intră direct în deciziile scumpe ale proiectului:</p><ol><li><strong>Studiul hidrologic</strong> — specialistul hidrolog lucrează pe secțiunile și cotele noastre; fără topografie de precizie, studiul lui pleacă din estimări.</li><li><strong>Cotele de siguranță ale echipamentelor</strong> — proiectantul așază stația de transformare, invertoarele și eventuala zonă BESS pe platforme înălțate la cote stabilite pe baza studiului hidrologic; noi facem apoi <a href=\"/parcuri-fotovoltaice/nivelment-de-precizie.html\">nivelmentul de precizie</a> al platformelor și trasarea lor.</li><li><strong>Drumurile interne</strong> — traseele se aleg pe cumpăna terenului, nu prin punctele joase, ca accesul să rămână practicabil și după ploi.</li><li><strong>Terasamentele</strong> — dacă e nevoie de înălțări locale, <a href=\"/parcuri-fotovoltaice/calcul-volumetrie-terasamente.html\">calculul de volumetrie</a> vă spune câți metri cubi și, implicit, câți bani înseamnă soluția — un argument concret în negocierea prețului terenului.</li><li><strong>Dosarul pentru finanțator și asigurător</strong> — cote documentate, măsurate cu precizie declarată, în locul unor aprecieri vizuale.</li></ol>"
     },
     {
       "type": "html",
-      "heading": "Semnale de alarmă pe care le vezi înainte de orice studiu",
-      "html": "<p>Câteva indicii se citesc direct din teren și din măsurătoarea preliminară: vegetație de zonă umedă (rogoz, stuf, sălcii) pe porțiuni din parcelă; depuneri de mâl sau resturi aduse de apă pe garduri și vegetație; terenul vizibil sub nivelul drumului sau al terenurilor vecine; canale de desecare colmatate care nu mai preiau nimic; urme de băltire pe ortofotoplanurile din ani diferiți. Niciunul dintre aceste semnale nu înseamnă automat teren compromis — dar fiecare înseamnă că măsurătoarea de cote și discuția cu un hidrolog trebuie să vină înainte de antecontract, nu după.</p><p>Costul unei ridicări altimetrice preliminare e mic în raport cu miza: pe un teren cu adevărat problematic îți salvează avansul, pe un teren doar aparent problematic îți dă argumentele să îl cumperi liniștit — eventual mai ieftin.</p>"
+      "heading": "Semnale de alarmă pe care le vedeți înainte de orice studiu",
+      "html": "<p>Câteva indicii se citesc direct din teren și din măsurătoarea preliminară: vegetație de zonă umedă (rogoz, stuf, sălcii) pe porțiuni din parcelă; depuneri de mâl sau resturi aduse de apă pe garduri și vegetație; terenul vizibil sub nivelul drumului sau al terenurilor vecine; canale de desecare colmatate care nu mai preiau nimic; urme de băltire pe ortofotoplanurile din ani diferiți. Niciunul dintre aceste semnale nu înseamnă automat teren compromis — dar fiecare înseamnă că măsurătoarea de cote și discuția cu un hidrolog trebuie să vină înainte de antecontract, nu după.</p><p>Costul unei ridicări altimetrice preliminare e mic în raport cu miza: pe un teren cu adevărat problematic vă salvează avansul, pe un teren doar aparent problematic vă dă argumentele să îl cumpărați liniștit — eventual mai ieftin.</p>"
     },
     {
       "type": "faq",
@@ -44,7 +44,7 @@
         },
         {
           "q": "Banca cere dovada că terenul nu e inundabil. Ce îi dau?",
-          "a": "Pachetul convingător e format din studiul hidrologic al specialistului plus topografia de precizie pe care se sprijină: cote, profile, model digital al terenului. Noi livrăm a doua parte și o predăm direct hidrologului tău."
+          "a": "Pachetul convingător e format din studiul hidrologic al specialistului plus topografia de precizie pe care se sprijină: cote, profile, model digital al terenului. Noi livrăm a doua parte și o predăm direct hidrologului dumneavoastră."
         }
       ]
     }

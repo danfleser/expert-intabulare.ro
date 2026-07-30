@@ -2,7 +2,7 @@
   "slug": "actualizare-carte-funciara-teren",
   "title": "Actualizarea cărții funciare — terenul pregătit se vinde mai bine",
   "h1": "Actualizarea cărții funciare: de ce vânzătorii pregătiți primesc un preț mai bun",
-  "metaDescription": "Actualizare carte funciară pentru teren: construcții neînscrise, categorie de folosință, limite corecte. Pregătește terenul pentru dezvoltatorii fotovoltaici.",
+  "metaDescription": "Actualizare carte funciară pentru teren: construcții neînscrise, categorie de folosință, limite corecte. Pregătiți terenul pentru dezvoltatorii fotovoltaici.",
   "whatsappTopic": "actualizarea cărții funciare pentru un teren",
   "hook": "none",
   "trustBar": true,
@@ -10,34 +10,34 @@
     {
       "type": "html",
       "heading": "Dezvoltatorul nu cumpără doar teren — cumpără certitudine juridică",
-      "html": "<p>Când un dezvoltator fotovoltaic analizează un teren, primul document pe care îl deschide e extrasul de carte funciară. Fiecare neconcordanță găsită acolo — o construcție demolată care încă figurează, o categorie de folosință care nu mai corespunde realității, o suprafață incertă, un fost proprietar decedat rămas înscris — se transformă în una din două: un discount cerut la preț sau o clauză de amânare până la clarificare. În ambele cazuri, pierde vânzătorul.</p><p>Regula pe care o vedem confirmată la fiecare tranzacție: terenul cu cartea funciară actualizată se negociază mai repede și mai aproape de prețul cerut. Pentru dezvoltator, o CF curată înseamnă că poate merge la notar și la finanțator fără luni de teme suplimentare; pentru proprietar, înseamnă că nu oferă niciun pretext de renegociere. Pagina de față e pentru amândoi: ce înseamnă concret actualizarea, cum îți dai seama că e nevoie de ea și în ce ordine se fac pașii.</p>"
+      "html": "<p>Când un dezvoltator fotovoltaic analizează un teren, primul document pe care îl deschide e extrasul de carte funciară. Fiecare neconcordanță găsită acolo — o construcție demolată care încă figurează, o categorie de folosință care nu mai corespunde realității, o suprafață incertă, un fost proprietar decedat rămas înscris — se transformă în una din două: un discount cerut la preț sau o clauză de amânare până la clarificare. În ambele cazuri, pierde vânzătorul.</p><p>Regula pe care o vedem confirmată la fiecare tranzacție: terenul cu cartea funciară actualizată se negociază mai repede și mai aproape de prețul cerut. Pentru dezvoltator, o CF curată înseamnă că poate merge la notar și la finanțator fără luni de teme suplimentare; pentru proprietar, înseamnă că nu oferă niciun pretext de renegociere. Pagina de față e pentru amândoi: ce înseamnă concret actualizarea, cum vă dați seama că e nevoie de ea și în ce ordine se fac pașii.</p>"
     },
     {
       "type": "html",
       "heading": "Ce înseamnă concret „actualizarea cărții funciare\"",
-      "html": "<p>Actualizarea nu e o singură procedură, ci o familie de documentații cadastrale întocmite de un topograf autorizat și recepționate de OCPI conform Ordinului ANCPI nr. 700/2014. Cele mai frecvente, în practica terenurilor vizate de proiecte fotovoltaice:</p><ul><li><strong>Înscrierea construcțiilor edificate</strong> care nu figurează în CF — sau, invers, radierea celor demolate care încă apar acolo.</li><li><strong>Actualizarea categoriei de folosință</strong>, când folosința reală a terenului diferă de cea înscrisă.</li><li><strong>Corectarea limitelor și a suprafeței</strong>, când măsurătoarea reală nu corespunde cu geometria înscrisă — situație detaliată pe pagina despre <a href=\"/parcuri-fotovoltaice/suprafata-teren-mai-mica-decat-in-acte.html\">suprafața mai mică decât în acte</a>.</li><li><strong>Actualizarea datelor proprietarului</strong> după succesiuni, schimbări de nume sau reorganizări — de multe ori împreună cu notarul.</li><li><strong>Prima înscriere</strong>, pentru terenurile care nu au deloc carte funciară — caz tratat separat la <a href=\"/parcuri-fotovoltaice/teren-neintabulat-parc-fotovoltaic.html\">teren neintabulat</a>.</li></ul><p>Fiecare documentație pleacă de la măsurători pe teren în sistemul Stereo 70 și de la actele existente; noi îți spunem de la început care dintre proceduri e necesară și dacă unele se pot comasa în aceeași depunere.</p>"
+      "html": "<p>Actualizarea nu e o singură procedură, ci o familie de documentații cadastrale întocmite de un topograf autorizat și recepționate de OCPI conform Ordinului ANCPI nr. 700/2014. Cele mai frecvente, în practica terenurilor vizate de proiecte fotovoltaice:</p><ul><li><strong>Înscrierea construcțiilor edificate</strong> care nu figurează în CF — sau, invers, radierea celor demolate care încă apar acolo.</li><li><strong>Actualizarea categoriei de folosință</strong>, când folosința reală a terenului diferă de cea înscrisă.</li><li><strong>Corectarea limitelor și a suprafeței</strong>, când măsurătoarea reală nu corespunde cu geometria înscrisă — situație detaliată pe pagina despre <a href=\"/parcuri-fotovoltaice/suprafata-teren-mai-mica-decat-in-acte.html\">suprafața mai mică decât în acte</a>.</li><li><strong>Actualizarea datelor proprietarului</strong> după succesiuni, schimbări de nume sau reorganizări — de multe ori împreună cu notarul.</li><li><strong>Prima înscriere</strong>, pentru terenurile care nu au deloc carte funciară — caz tratat separat la <a href=\"/parcuri-fotovoltaice/teren-neintabulat-parc-fotovoltaic.html\">teren neintabulat</a>.</li></ul><p>Fiecare documentație pleacă de la măsurători pe teren în sistemul Stereo 70 și de la actele existente; noi vă spunem de la început care dintre proceduri e necesară și dacă unele se pot comasa în aceeași depunere.</p>"
     },
     {
       "type": "checklist",
-      "heading": "Semne că terenul tău are nevoie de actualizare înainte de vânzare",
+      "heading": "Semne că terenul dumneavoastră are nevoie de actualizare înainte de vânzare",
       "items": [
         "În CF figurează construcții care nu mai există pe teren — sau pe teren există construcții care nu figurează în CF.",
         "Categoria de folosință înscrisă (de exemplu vie sau livadă) nu mai corespunde folosinței reale de zeci de ani.",
         "Proprietarul înscris e un părinte sau bunic decedat, iar succesiunea nu a fost dezbătută complet.",
-        "Suprafața din acte diferă de cea pe care o știi din folosință sau de cea din măsurători vechi.",
+        "Suprafața din acte diferă de cea pe care o știți din folosință sau de cea din măsurători vechi.",
         "Terenul provine dintr-o dezmembrare sau comasare veche, iar planurile nu au fost niciodată puse de acord cu terenul.",
         "Extrasul CF arată sarcini stinse demult — ipoteci achitate, interdicții expirate — care nu au fost radiate."
       ]
     },
     {
       "type": "html",
-      "heading": "Extrasul CF are termen: actualizezi întâi, extragi la final",
-      "html": "<p>Un detaliu de calendar pe care mulți proprietari îl află abia la notar: extrasul de carte funciară pentru autentificare e valabil 10 zile, iar finanțatorii cer de regulă un extras de informare recent, emis în ultimele 30 de zile. Asta înseamnă că ordinea corectă e: întâi rezolvi actualizările în CF, apoi extragi documentele pentru tranzacție — nu invers. Un extras scos azi, cu probleme în el, nu folosește nimănui peste trei luni.</p><p>Pentru dezvoltatorul care citește această pagină din poziția cumpărătorului: cere întotdeauna un extras proaspăt înainte de antecontract și compară-l cu realitatea din teren, nu doar cu spusele vânzătorului. Facem astfel de <a href=\"/parcuri-fotovoltaice/verificare-carte-funciara-cumparare-teren.html\">verificări de carte funciară</a> ca serviciu de birou, pentru terenuri din toată țara.</p>"
+      "heading": "Extrasul CF are termen: actualizați întâi, extragi la final",
+      "html": "<p>Un detaliu de calendar pe care mulți proprietari îl află abia la notar: extrasul de carte funciară pentru autentificare e valabil 10 zile, iar finanțatorii cer de regulă un extras de informare recent, emis în ultimele 30 de zile. Asta înseamnă că ordinea corectă e: întâi rezolvați actualizările în CF, apoi extragi documentele pentru tranzacție — nu invers. Un extras scos azi, cu probleme în el, nu folosește nimănui peste trei luni.</p><p>Pentru dezvoltatorul care citește această pagină din poziția cumpărătorului: cereți întotdeauna un extras proaspăt înainte de antecontract și comparați-l cu realitatea din teren, nu doar cu spusele vânzătorului. Facem astfel de <a href=\"/parcuri-fotovoltaice/verificare-carte-funciara-cumparare-teren.html\">verificări de carte funciară</a> ca serviciu de birou, pentru terenuri din toată țara.</p>"
     },
     {
       "type": "html",
       "heading": "Cum lucrăm și cât durează",
-      "html": "<p>Începem întotdeauna cu o evaluare pe acte: trimite-ne extrasul CF pe WhatsApp și îți spunem în aceeași zi ce actualizări sunt necesare, în ce ordine și cu ce termene orientative. Măsurătorile le facem în Alba și în județele vecine — Cluj, Mureș, Sibiu, Hunedoara — iar analiza documentelor o facem pentru terenuri din orice județ. Partea de măsurători și întocmire durează de regulă câteva zile până la două săptămâni pe documentație, orientativ; recepția și înscrierea urmează termenele OCPI în vigoare.</p><p>Colaborăm cu dezvoltatori și constructori, dar la fel de des lucrăm direct cu proprietarii care își pregătesc terenul pentru vânzare sau pentru un contract de superficie. O carte funciară pusă la punct înainte de negociere e cel mai ieftin argument de preț pe care îl poți avea.</p>"
+      "html": "<p>Începem întotdeauna cu o evaluare pe acte: trimiteți-ne extrasul CF pe WhatsApp și vă spunem în aceeași zi ce actualizări sunt necesare, în ce ordine și cu ce termene orientative. Măsurătorile le facem în Alba și în județele vecine — Cluj, Mureș, Sibiu, Hunedoara — iar analiza documentelor o facem pentru terenuri din orice județ. Partea de măsurători și întocmire durează de regulă câteva zile până la două săptămâni pe documentație, orientativ; recepția și înscrierea urmează termenele OCPI în vigoare.</p><p>Colaborăm cu dezvoltatori și constructori, dar la fel de des lucrăm direct cu proprietarii care își pregătesc terenul pentru vânzare sau pentru un contract de superficie. O carte funciară pusă la punct înainte de negociere e cel mai ieftin argument de preț pe care îl puteți avea.</p>"
     },
     {
       "type": "faq",
@@ -52,7 +52,7 @@
         },
         {
           "q": "Ce documente trebuie să vă trimit pentru o evaluare?",
-          "a": "Extrasul CF — chiar și unul mai vechi — plus, dacă există, actele de proprietate și orice planuri vechi. Le poți trimite pe WhatsApp; îți răspundem cu lista pașilor necesari și o ofertă orientativă pe etape."
+          "a": "Extrasul CF — chiar și unul mai vechi — plus, dacă există, actele de proprietate și orice planuri vechi. Le puteți trimite pe WhatsApp; vă răspundem cu lista pașilor necesari și o ofertă orientativă pe etape."
         },
         {
           "q": "Lucrați și pentru cumpărător, nu doar pentru vânzător?",
@@ -64,7 +64,7 @@
   "related": [
     { "href": "/parcuri-fotovoltaice/verificare-carte-funciara-cumparare-teren.html", "label": "Verificare CF înainte de cumpărare" },
     { "href": "/parcuri-fotovoltaice/suprafata-teren-mai-mica-decat-in-acte.html", "label": "Suprafața reală mai mică decât în acte" },
-    { "href": "/parcuri-fotovoltaice/teren-neintabulat-parc-fotovoltaic.html", "label": "Teren neintabulat — ce faci" },
+    { "href": "/parcuri-fotovoltaice/teren-neintabulat-parc-fotovoltaic.html", "label": "Teren neintabulat — ce faceți" },
     { "href": "/parcuri-fotovoltaice/intabulare-teren-parc-fotovoltaic.html", "label": "Intabularea terenului pentru parc fotovoltaic" },
     { "href": "/servicii/actualizare-carte-funciara/", "label": "Actualizare carte funciară — serviciul de bază" },
     { "href": "/dictionar/extras-de-carte-funciara-pentru-informare.html", "label": "Dicționar: extras de carte funciară" }

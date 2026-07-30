@@ -10,7 +10,7 @@
     {
       "type": "html",
       "heading": "Terenul de parc se cumpără bucată cu bucată — dar se dezvoltă întreg",
-      "html": "<p>În zonele agricole din Transilvania, un amplasament de 20 de hectare înseamnă rareori un singur proprietar: tipic sunt 10–30 de parcele înguste, moștenite pe familii, fiecare cu istoria ei cadastrală. Le cumperi pe rând, dar proiectul nu se poate așeza pe un mozaic de CF-uri: fiecare act notarial, fiecare înscriere de superficie sau ipotecă și fiecare documentație de autorizare s-ar multiplica cu numărul parcelelor. Soluția este alipirea — operațiunea cadastrală care unește imobilele alăturate într-unul singur, cu un număr cadastral nou și o singură carte funciară.</p><p>Ce primești la final: un imobil unic, cu limite verificate pe teren, pe care banca înscrie o singură ipotecă, notarul autentifică o singură superficie și primăria emite o singură autorizație. Diferența de cost administrativ și de timp față de varianta „lucrăm pe 20 de CF-uri” se simte în fiecare etapă care urmează.</p>"
+      "html": "<p>În zonele agricole din Transilvania, un amplasament de 20 de hectare înseamnă rareori un singur proprietar: tipic sunt 10–30 de parcele înguste, moștenite pe familii, fiecare cu istoria ei cadastrală. Le cumpărați pe rând, dar proiectul nu se poate așeza pe un mozaic de CF-uri: fiecare act notarial, fiecare înscriere de superficie sau ipotecă și fiecare documentație de autorizare s-ar multiplica cu numărul parcelelor. Soluția este alipirea — operațiunea cadastrală care unește imobilele alăturate într-unul singur, cu un număr cadastral nou și o singură carte funciară.</p><p>Ce primiți la final: un imobil unic, cu limite verificate pe teren, pe care banca înscrie o singură ipotecă, notarul autentifică o singură superficie și primăria emite o singură autorizație. Diferența de cost administrativ și de timp față de varianta „lucrăm pe 20 de CF-uri” se simte în fiecare etapă care urmează.</p>"
     },
     {
       "type": "html",
@@ -31,7 +31,7 @@
     {
       "type": "html",
       "heading": "Cum lucrăm și cât durează",
-      "html": "<p>Începem de la evidențele OCPI și de la măsurători pe teren: verificăm fiecare parcelă cu GNSS RTK la ±2–3 cm, comparăm limitele reale cu cele din documentațiile existente și semnalăm din timp orice nepotrivire — e mult mai ieftin să corectezi o documentație veche înainte de alipire decât să o descoperi respinsă în dosar. Apoi întocmim documentația de alipire, o depunem la OCPI pentru recepție, iar după autentificarea actului la notar imobilul rezultat se înscrie în cartea funciară.</p><p>Durata depinde aproape integral de starea de pornire: cu toate parcelele intabulate curat, vorbim de săptămâni, dominate de termenele OCPI și de programarea la notar; cu parcele de intabulat sau documentații vechi de corectat, calendarul îl dictează <a href=\"/parcuri-fotovoltaice/intabulare-teren-parc-fotovoltaic.html\">intabularea</a> prealabilă. De aceea prima livrare utilă e un audit scurt: îți spunem exact care parcele sunt gata de alipire și care au teme de rezolvat. Trimite-ne extrasele CF pe WhatsApp — sau doar lista numerelor cadastrale — și primești evaluarea în câteva zile.</p>"
+      "html": "<p>Începem de la evidențele OCPI și de la măsurători pe teren: verificăm fiecare parcelă cu GNSS RTK la ±2–3 cm, comparăm limitele reale cu cele din documentațiile existente și semnalăm din timp orice nepotrivire — e mult mai ieftin să corectați o documentație veche înainte de alipire decât să o descoperiți respinsă în dosar. Apoi întocmim documentația de alipire, o depunem la OCPI pentru recepție, iar după autentificarea actului la notar imobilul rezultat se înscrie în cartea funciară.</p><p>Durata depinde aproape integral de starea de pornire: cu toate parcelele intabulate curat, vorbim de săptămâni, dominate de termenele OCPI și de programarea la notar; cu parcele de intabulat sau documentații vechi de corectat, calendarul îl dictează <a href=\"/parcuri-fotovoltaice/intabulare-teren-parc-fotovoltaic.html\">intabularea</a> prealabilă. De aceea prima livrare utilă e un audit scurt: vă spunem exact care parcele sunt gata de alipire și care au teme de rezolvat. Trimiteți-ne extrasele CF pe WhatsApp — sau doar lista numerelor cadastrale — și primiți evaluarea în câteva zile.</p>"
     },
     {
       "type": "html",
@@ -43,7 +43,7 @@
       "items": [
         {
           "q": "Putem alipi parcele cumpărate pe firme diferite din același grup?",
-          "a": "Nu direct — imobilele alipite trebuie să aibă același proprietar în CF. Structura de deținere se aliniază înainte, cu juristul proiectului; noi îți spunem din audit care CF-uri au proprietari diferiți, ca tema să ajungă la jurist devreme."
+          "a": "Nu direct — imobilele alipite trebuie să aibă același proprietar în CF. Structura de deținere se aliniază înainte, cu juristul proiectului; noi vă spunem din audit care CF-uri au proprietari diferiți, ca tema să ajungă la jurist devreme."
         },
         {
           "q": "Un drum de exploatare taie terenul în două. Se poate alipi?",
