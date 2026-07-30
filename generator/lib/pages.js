@@ -608,6 +608,7 @@ function buildServiceLocality(ctx, service, loc, emitted) {
     introHtml, ocpiBlock, villagesBlock, localNoteBlock,
     deplasareBlock: deplasare, documentsBlock, processBlock, priceBlock, countyNoteBlock, faqBlock,
     sidebar: chrome.contactCard(site, { namespace: 'servicii', topic: waTopic }),
+    ownerBlock: chrome.ownerCard(site),
     otherServicesBlock, nearbyBlock, hubLinksBlock,
   }, ctx.warnings, pagePath);
 
@@ -765,6 +766,7 @@ function buildServiceHub(ctx, service, emitted) {
   const content = renderTemplate(tpl('page-service-hub.html'), {
     introHtml, documentsBlock, processBlock, priceBlock, faqBlock,
     sidebar: chrome.contactCard(site, { namespace: 'servicii', topic: waTopic }),
+    ownerBlock: chrome.ownerCard(site),
     relatedServicesBlock: chrome.linkCard('Servicii conexe', related),
     localityIndex,
   }, ctx.warnings, pagePath);
@@ -1009,6 +1011,7 @@ function buildServiceCountyHub(ctx, service, county, emitted) {
     introHtml, townsBlock, documentsBlock, processBlock, priceBlock,
     bcpiBlock, countyNoteBlock, feeNoteBlock, faqBlock,
     sidebar: chrome.contactCard(site, { namespace: 'servicii', topic: waTopic }),
+    ownerBlock: chrome.ownerCard(site),
     hubLinksBlock, resourcesBlock, otherCountiesBlock, localityIndex,
   }, ctx.warnings, pagePath);
 

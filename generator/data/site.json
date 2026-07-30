@@ -16,6 +16,13 @@
     "mapsUrl": "https://www.google.com/maps/place/Birou+particular+Cadastru,+Topografie,+Releveu+-+Trasare,+Intabulare,+Extras+CF/@46.3212173,23.7176085,19z/data=!3m1!4b1!4m5!3m4!1s0x4749578f1113eda7:0x79df4f368ffdd9!8m2!3d46.3212173!4d23.718157",
     "hours": "Disponibili Luni-Vineri, între 9:00 - 17:00"
   },
+  "owner": {
+    "name": "Fleser Aurel",
+    "role": "topograf autorizat ANCPI",
+    "roleEn": "ANCPI-licensed surveyor",
+    "line": "Lucrările le face Fleser Aurel, topograf autorizat ANCPI, din biroul propriu din Aiud. Este aceeași persoană cu care vorbiți de la primul mesaj până la final — nu preluăm lucrări ca să le dăm mai departe.",
+    "lineEn": "The work is done by Fleser Aurel, an ANCPI-licensed surveyor, from his own office in Aiud. He is the same person you deal with from the first message to the last — we do not take work on and pass it along."
+  },
   "whatsapp": {
     "phone": "40741478540",
     "greetings": {
@@ -89,7 +96,7 @@
     "preFooterHeading": "Ready when you are",
     "preFooterText": "Send us a WhatsApp message describing your project — we usually reply within one business day.",
     "contactCardHeading": "Quick contact",
-    "contactCardText": "Licensed ANCPI surveyor, 25+ years of field experience in Alba county, Romania.",
+    "contactCardText": "Fleser Aurel, ANCPI-licensed surveyor — 25+ years of field experience in Alba county, Romania.",
     "cookieText": "This website uses cookies to ensure you get the best experience. For details, please check our ",
     "cookieLinkLabel": "Privacy Policy.",
     "cookieButton": "I agree"
@@ -98,7 +105,7 @@
     "preFooterHeading": "Ai o situație asemănătoare?",
     "preFooterText": "Scrie-ne pe WhatsApp sau sună-ne — răspundem de obicei în aceeași zi lucrătoare.",
     "contactCardHeading": "Contact rapid",
-    "contactCardText": "Topograf autorizat ANCPI, 25+ ani de experiență în județul Alba și împrejurimi.",
+    "contactCardText": "Fleser Aurel, topograf autorizat ANCPI — 25+ ani de experiență în județul Alba și împrejurimi.",
     "cookieText": "Acest site folosește cookie-uri. Folosim cookie-uri pentru a ne asigura că aveți cea mai bună experiență pe site-ul nostru. Pentru detalii, vă rugăm să verificați",
     "cookieLinkLabel": "Politica de Confidențialitate.",
     "cookieButton": "Sunt de acord"

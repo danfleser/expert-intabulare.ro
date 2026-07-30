@@ -237,6 +237,37 @@ function contactCard(site, { namespace, topic, literalMessage, en = false }) {
   );
 }
 
+/**
+ * "Cine face lucrarea" — the named surveyor, inside the gated content region.
+ *
+ * Measured before this existed: "Fleser Aurel" appeared ZERO times inside
+ * <!--content:start-->…<!--content:end--> on every service page. He was in the
+ * page chrome only — brand, footer NAP, schema — which is exactly where a reader
+ * skimming the page body never looks, and it is the one trust signal the
+ * competing surveyor pages all carry.
+ *
+ * Gate-safe by construction: the string is identical on every page of every
+ * sibling group, so its shingles sit at 100% document frequency, get dropped as
+ * boilerplate before overlap is computed, and cannot move any page's overlap
+ * ratio. It adds no page-exclusive words either — it is a trust signal, not
+ * word-count padding.
+ *
+ * No ANCPI authorization number (standing CEO ruling) and no "inginer" — the
+ * repo carries zero support for that title anywhere.
+ */
+function ownerCard(site, { en = false } = {}) {
+  const o = site.owner;
+  if (!o || !o.name) return '';
+  const heading = en ? 'Who does the work' : 'Cine face lucrarea';
+  const line = en ? o.lineEn : o.line;
+  if (!line) return '';
+  return (
+    `<div class="card about-card mb-4"><div class="card-body">` +
+    `<h2 class="h6 mb-2"><i class="bi bi-person-badge me-1"></i>${escHtml(heading)}</h2>` +
+    `<p class="fz-14 mb-0">${escHtml(line)}</p></div></div>`
+  );
+}
+
 /** Generic sidebar link-list card. */
 function linkCard(heading, links) {
   if (!links.length) return '';
@@ -255,5 +286,5 @@ module.exports = {
   waMessage, waHrefFor, ctaWhatsapp,
   headerRo, headerEn, footerRo, footerEn,
   cookieAlert, trustBar, dataStrip, deplasareBlock,
-  breadcrumbs, contactCard, linkCard,
+  breadcrumbs, contactCard, ownerCard, linkCard,
 };
