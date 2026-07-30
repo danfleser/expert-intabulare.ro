@@ -1099,27 +1099,36 @@ function buildCountyHub(ctx, county, emitted, demotedNotes) {
   const rows = locs.map((l) => {
     const km = distanceKm(site, l);
     const kmTxt = km != null ? ` — aprox. ${km} km de Aiud` : '';
-    // Inline, comma-joined, and the anchor carries the SERVICE only — the locality
-    // is already the <summary> of the panel this list sits inside, so repeating it
-    // in every anchor was pure duplication.
+    // ONE anchor per locality, not one per locality × service.
     //
-    // This is a size fix with a hard number behind it. The matrix is
-    // localities × emitted services, so promoting the four hub-only services took
-    // Alba from 8 to 12 services over 78 localities = 936 links. At the old shape
-    // (`<li class="mb-1">` plus "Serviciu în Localitate") that page measures
-    // 145,102 B against MAX_HUB_BYTES = 122,880 — a build failure, not a warning.
-    // Measured alternatives: keeping the full anchor text and only dropping the
-    // <li> wrapper still lands at 133,661 B, and keeping it inline with full
-    // anchors at 127,109 B. Both over. This shape measures 114,341 B.
-    // The full "Serviciu în Localitate" anchor is not lost — it is what every
-    // leaf's own service×county hub A–Z index uses, which is that leaf's
-    // breadcrumb parent since R3 and its strongest internal link.
-    const links = ctx.services
-      .filter((s) => emitted.has(`${s.slug}/${l.countySlug}/${l.slug}`))
-      .map((s) => `<a href="/servicii/${s.slug}/${l.countySlug}/${l.slug}.html">${escHtml(s.name)}</a>`);
+    // The full matrix nearly broke the build twice. It is localities × emitted
+    // services, so promoting the four hub-only services took Alba from 8 to 12
+    // services over 78 localities = 936 links: 145,102 B at the original shape
+    // against MAX_HUB_BYTES = 122,880, then 114,545 B after the anchors were
+    // stripped to the service name and joined inline — still 93.2% of the cap,
+    // with room for only ~7 more localities before a hard build failure that the
+    // next person to touch the locality data would have had no way to anticipate.
+    //
+    // Cutting it costs no crawl path. Measured: the 936 leaf URLs this page
+    // linked are the SAME 936 reachable from the twelve /servicii/<s>/alba/
+    // hubs — set difference in both directions is empty. Those hubs are each
+    // leaf's breadcrumb parent since R3 and its strongest internal link, and
+    // all twelve are linked from this page's own sidebar card. So every leaf
+    // stays two clicks from here instead of one, and the links now sit on the
+    // topically focused hub instead of being diluted 936-ways on this one.
+    //
+    // What replaces the list is worth more to a county head term than a wall of
+    // repeated service names: the locality's component villages, which are real
+    // local content this page did not previously carry.
+    const head = ctx.services.find((s) => emitted.has(`${s.slug}/${l.countySlug}/${l.slug}`));
     let body;
-    if (links.length) {
-      body = `<p class="fz-14 mb-0">${links.join(', ')}.</p>`;
+    if (head) {
+      const vill = (l.villages || []).filter(Boolean);
+      body =
+        `<p class="fz-14 mb-0">` +
+        `<a href="/servicii/${head.slug}/${l.countySlug}/${l.slug}.html">${escHtml(head.name)} în ${escHtml(l.name)}</a>` +
+        (vill.length > 1 ? ` — sate aparținătoare: ${vill.map(escHtml).join(', ')}.` : '.') +
+        `</p>`;
     } else {
       const note = demotedNotes.get(`${l.countySlug}/${l.slug}`);
       body =
