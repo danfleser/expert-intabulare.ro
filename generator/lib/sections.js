@@ -26,7 +26,7 @@ function renderSections(sections, ctx, warnings) {
         parts.push(
           `<div class="card about-card mb-5 checklist-print"><div class="card-body">${heading}` +
           `<ul class="list-unstyled mb-3">${items}</ul>` +
-          `<p class="fz-14 mb-0 d-print-none"><a href="javascript:window.print()"><i class="bi bi-printer me-1"></i>Printează lista</a></p>` +
+          `<p class="fz-14 mb-0 d-print-none"><a href="javascript:window.print()"><i class="bi bi-printer me-1"></i>Printați lista</a></p>` +
           `</div></div>`
         );
         break;

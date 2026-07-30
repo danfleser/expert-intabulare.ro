@@ -45,7 +45,7 @@ function hreflangTags(site, roPath, enPath) {
  *
  * `title` is the <title> tag and some verticals append the site suffix
  * ("… | Expert Intabulare"). That suffix is meaningless inside an on-page
- * "Citește și" list, so prefer the page's h1 and otherwise strip the suffix.
+ * "Citiți și" list, so prefer the page's h1 and otherwise strip the suffix.
  */
 function displayLabel(entry) {
   if (!entry) return '';
@@ -138,7 +138,7 @@ function checklistBlock(heading, items) {
   return (
     `<div class="card about-card mb-5 checklist-print"><div class="card-body">` +
     `<h2 class="h5 mb-3">${escHtml(heading)}</h2><ul class="list-unstyled mb-3">${lis}</ul>` +
-    `<p class="fz-14 mb-0 d-print-none"><a href="javascript:window.print()"><i class="bi bi-printer me-1"></i>Printează lista</a></p></div></div>`
+    `<p class="fz-14 mb-0 d-print-none"><a href="javascript:window.print()"><i class="bi bi-printer me-1"></i>Printați lista</a></p></div></div>`
   );
 }
 
@@ -1419,7 +1419,7 @@ function buildAuthoredPage(ctx, kind, entry, allEntries) {
   }
   // Cross-namespace labels resolve at link-check time; use the slug as a readable fallback label.
   for (const r of related) if (!r.label) r.label = (r.slugOnly || '').replace(/-/g, ' ');
-  const relatedBlock = chrome.linkCard('Citește și', related);
+  const relatedBlock = chrome.linkCard('Citiți și', related);
 
   const jsonldExtra = [];
   if (faqs.length) jsonldExtra.push(schema.faqPage(faqs));
@@ -1684,7 +1684,7 @@ function buildDictIndex(ctx, terms) {
     filterPlaceholder: 'ex. intabulare, extras CF, dezmembrare…',
     letterNav,
     termList: listParts.join('\n'),
-    noResultsText: 'Niciun termen găsit. Încearcă alt cuvânt sau scrie-ne pe WhatsApp.',
+    noResultsText: 'Niciun termen găsit. Încercați alt cuvânt sau scrieți-ne pe WhatsApp.',
     sidebar: chrome.contactCard(site, { namespace: 'dictionar', topic: waTopic }) + chrome.ownerCard(site),
   }, ctx.warnings, pagePath);
 
