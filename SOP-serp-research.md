@@ -41,15 +41,29 @@ Read this in full before doing anything. Then follow it literally.
    the plan produced under it wrongly flagged them as violations. **Do not strip them. Do not
    re-flag them.**
 
-   **FORBIDDEN:**
+   **FORBIDDEN — no exact numbers for ANYTHING related to delivery. CEO ruling 2026-07-30:**
+
+   > *"The idea is not to use exact numbers for anything related to delivery. Aurel might have
+   > his own and it depends on each case."*
+
+   Aurel sets his own timings and they vary case by case. A number printed on 2,000 pages
+   becomes a promise he never made, about a job he has not seen. So:
+
    - The **exact ANCPI tariff** paid by the client. We do not know it.
-   - **NUMERIC turnaround claims** — "se rezolvă în 10 zile", "aproximativ 15 zile lucrătoare",
-     "termen de finalizare 7 zile", "3–6 săptămâni". A number turns a hedge into a checkable
-     promise about a government office's speed. The test is simple: **contains a digit or a
-     specific count → forbidden; hedged and qualitative → allowed.**
+   - **Any digit-bearing delivery figure** — how long the measurement takes, how long the file
+     sits at BCPI, how long the whole job runs, how many days to a document, how many visits,
+     how many working days for anything. "se rezolvă în 10 zile", "15 zile lucrătoare",
+     "3–6 săptămâni", "în 2 zile", "termen de finalizare 7 zile".
    - "în aceeași zi" applied to **BCPI processing** (as opposed to Aurel's own reply time, which
      is allowed and live).
    - Inventing any NEW price figure not already in `generator/data/services.json`.
+
+   **THE TEST — apply it mechanically:** does the statement contain a digit or a specific count,
+   and is it about how long something takes or when it will be done? → **FORBIDDEN.**
+   Is it hedged and qualitative? → **ALLOWED.**
+
+   Write "de regulă câteva săptămâni", never "de regulă 3 săptămâni". The hedge is honest
+   precisely because it does not commit Aurel to a number he has not agreed to.
 
    The distinction: a **hedged range we already publish and stand behind** is fine. A **specific
    claim about how fast a third party works**, or a tariff we have not verified, is not.
