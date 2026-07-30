@@ -316,7 +316,8 @@
         "situation": "Neînțelegere de limită cu vecinul",
         "text": "Vecinul a mutat gardul, a arat peste hotar sau susține că o parte din curte este a lui, iar din acte nu reiese clar pe unde trece limita. Măsurăm imobilul pe coordonate, comparăm ce am găsit la fața locului cu actele și cu planurile existente și punem pe hârtie unde este limita în realitate. Rezultatul este un document pe care îl puteți arăta vecinului, primăriei sau instanței."
       }
-    ]
+    ],
+    "countyIntro": "În județul Alba — de la Alba Iulia și Aiud până la comunele de pe valea Mureșului și satele din Apuseni — cele mai multe lucrări de cadastru și intabulare pornesc de la o problemă concretă: notarul nu poate autentifica vânzarea, banca cere carte funciară pentru credit, iar moștenitorii găsesc un teren trecut încă pe numele părinților. Verificăm întâi ce este înscris în evidențe, măsurăm imobilul la fața locului, întocmim documentația cadastrală și depunem dosarul la biroul de cadastru și publicitate imobiliară care are în competență localitatea dumneavoastră."
   },
   {
     "name": "Intabulare teren",
@@ -592,7 +593,8 @@
         "situation": "Terenul e cerut ca garanție la bancă sau într-un dosar de finanțare",
         "text": "Banca, finanțatorul sau consultantul de fonduri v-a cerut extras de carte funciară pentru teren și ați descoperit că nu aveți așa ceva. Fără număr cadastral și fără înscriere, terenul nu poate fi ipotecat și nu este acceptat ca garanție într-un dosar de finanțare. Facem măsurătoarea, întocmim documentația și depunem dosarul, iar la final primiți extrasul cerut. Scrieți-ne ce vi s-a cerut și de când aveți nevoie."
       }
-    ]
+    ],
+    "countyIntro": "Un teren fără carte funciară vă blochează exact atunci când aveți nevoie de el: notarul nu autentifică vânzarea, banca nu acceptă garanția, iar terenul moștenit rămâne pe numele unui părinte decedat. Facem intabularea terenurilor în județul Alba, de la Alba Iulia, Aiud, Blaj și Sebeș până la satele din Apuseni: identificăm parcela în planul parcelar, o măsurăm la fața locului împreună cu dumneavoastră și cu vecinii, întocmim documentația cadastrală și depunem dosarul la biroul de cadastru care are în competență localitatea. La final primiți extrasul de carte funciară."
   },
   {
     "name": "Intabulare casă / construcție",
@@ -911,7 +913,8 @@
         "situation": "gospodăria s-a extins în timp, iar suprafața din acte nu mai corespunde cu realitatea",
         "text": "În timp, gospodăria a crescut: o cameră în plus, o terasă închisă, un garaj, o șură. În cartea funciară a rămas însă situația veche, iar suprafața construită scrisă acolo nu se mai potrivește cu realitatea din curte. Orice vânzare, credit sau succesiune se lovește de această diferență. Remăsurăm tot ce există, refacem releveele și actualizăm documentația cadastrală."
       }
-    ]
+    ],
+    "countyIntro": "În județul Alba, blocajele care ajung la noi au aproape mereu aceeași formă: notarul nu autentifică vânzarea pentru că în extrasul de carte funciară apare doar terenul, banca a oprit dosarul de credit, iar casa părintească nu figurează în acte pe nimeni. Lucrăm în tot județul, de la locuințele noi din Alba Iulia și din comunele din jur până la gospodăriile și cabanele din Apuseni. Intabulăm construcții noi, pe bază de autorizație și proces-verbal de recepție, dar și case vechi fără autorizație, pe baza certificatului de atestare eliberat de primărie: măsurăm construcția, întocmim planul de amplasament și releveele și depunem dosarul la biroul de cadastru competent."
   },
   {
     "name": "Intabulare apartament",
@@ -1179,7 +1182,8 @@
         "situation": "bloc-nou-fara-carte-funciara-proprie",
         "text": "Ați cumpărat într-un bloc nou, ați primit cheile, dar apartamentul încă nu are carte funciară proprie — toată clădirea figurează pe un singur număr. Până când nu se face apartamentarea, locuința nu poate fi ipotecată și nu poate fi vândută ca bun de sine stătător. Facem documentația de apartamentare pentru clădire și cadastrul fiecărei unități individuale, cu cotele din părțile comune și din teren."
       }
-    ]
+    ],
+    "countyIntro": "Vânzarea unui apartament se oprește la notar când locuința nu apare în evidențe cu act propriu. În județul Alba lucrul acesta se întâmplă mai ales la blocurile vechi, de la Alba Iulia și Sebeș până la Aiud, Blaj sau Cugir: contractele semnate cândva cu statul nu au fost urmate de nicio înscriere, iar apartamentele lăsate moștenire au rămas pe numele părinților. Măsurăm locuința, stabilim cotele care îi revin din spațiile comune și din terenul blocului și depunem documentația la biroul de cadastru competent, ca dumneavoastră să obțineți extrasul cerut de notar sau de bancă."
   },
   {
     "name": "Dezmembrare / alipire",
@@ -1471,7 +1475,8 @@
         "situation": "Vrea să dea un lot copilului sau să construiască pe o parte din teren",
         "text": "Vreți să dați un lot copilului sau să construiți pe o parte din teren, iar restul să rămână cum este. Înainte de orice, trebuie știut ce permite primăria: suprafață minimă, deschidere la stradă, acces. Citim regulamentul local, apoi măsurăm și proiectăm loturile astfel încât fiecare să poată fi aprobat și fiecare să aibă ieșire la drum."
       }
-    ]
+    ],
+    "countyIntro": "În județul Alba, de la Alba Iulia și Aiud până la comunele din Apuseni, dezmembrarea și alipirea pornesc de obicei de la o situație blocată: notarul nu poate perfecta vânzarea pentru că se vinde doar o parte din teren, ori casa nu se poate intabula fiindcă stă peste limita dintre două parcele. Prima situație se rezolvă prin dezmembrare teren — imobilul se împarte în loturi cu cărți funciare separate; a doua prin alipire teren — parcelele învecinate devin un singur imobil. În ambele cazuri facem măsurătorile, întocmim documentația cadastrală, o depunem la biroul de cadastru competent și pregătim actele pentru notar."
   },
   {
     "name": "Plan topografic",
@@ -1764,7 +1769,8 @@
         "situation": "Operatorul de utilități i-a cerut un plan cu rețelele existente",
         "text": "Ați cerut branșament de gaz sau de curent, iar operatorul v-a răspuns cu o listă în care apare un plan de situație cu rețelele existente. Este o piesă topografică, nu o schiță făcută acasă. Mergem la teren, ridicăm căminele, stâlpii și limitele reale, preluăm traseele subterane din avizele deținătorilor de rețele și predăm planul în formatul cerut de operator."
       }
-    ]
+    ],
+    "countyIntro": "În județul Alba, planul topografic este piesa cerută prin certificatul de urbanism înaintea oricărei autorizații de construire — la Alba Iulia și Aiud la fel ca în comunele de pe valea Mureșului sau din Apuseni. Cei mai mulți proprietari află de el abia când proiectantul refuză să înceapă fără cotele reale ale terenului sau când dosarul depus la primărie se întoarce cu observația că planul nu este vizat OCPI. Mergem la fața locului oriunde în județul Alba, măsurăm terenul așa cum arată astăzi și predăm planul în formatele cerute de primărie și de proiectant."
   },
   {
     "name": "Trasare teren",
@@ -2061,7 +2067,8 @@
         "situation": "Ridicați gard nou și nu vreți să îl mutați mai târziu",
         "text": "V-ați apucat de împrejmuire și ați stabilit aliniamentul din ochi, după gardul vecinului sau după cum a fost dintotdeauna. Este exact felul în care se ajunge la un gard care trebuie mutat pe cheltuiala dumneavoastră. Punem întâi pe teren linia din acte, materializăm colțurile, iar gropile pentru stâlpi se sapă abia după aceea."
       }
-    ]
+    ],
+    "countyIntro": "În județul Alba, trasarea se cere de regulă într-o situație anume: vecinul a mutat gardul, constructorul nu sapă fundația fără proces-verbal de trasare, ori cumpărați un teren pe care nu se vede niciun semn. Lucrăm în Alba Iulia și în restul localităților județului, de la orașele de pe valea Mureșului până la comunele din Apuseni. Pornim de la coordonatele din documentația cadastrală recepționată de OCPI, materializăm pe teren colțurile, axele și cota, iar la final rămâneți cu procesul-verbal semnat, care cuprinde schița și poziția numerică a fiecărui punct."
   },
   {
     "name": "Actualizare carte funciară",
@@ -2343,7 +2350,8 @@
         "situation": "terenul figurează arabil, deși pe el sunt casa și curtea",
         "text": "Plătiți impozit ca pentru teren arabil, deși pe el aveți casa și curtea. Ori invers: cereți o autorizație și vi se spune că terenul are categoria de folosință greșită. Categoria se corectează printr-o documentație cadastrală de actualizare, împreună cu actele emise de primărie. Contează la impozit, la autorizație și la vânzare, iar de multe ori este cerută înaintea oricărei alte operațiuni."
       }
-    ]
+    ],
+    "countyIntro": "În județul Alba, de la Alba Iulia până în satele de pe Valea Arieșului, cele mai multe blocaje la notar sau la bancă vin din același loc: cartea funciară nu mai arată ce există pe teren. O casă ridicată demult și neînscrisă, o suprafață măsurată altfel decât în titlu, o categorie de folosință rămasă „arabil” peste curte, o construcție demolată care încă figurează. Fiecare dintre aceste situații se îndreaptă printr-o documentație cadastrală de actualizare, întocmită pe măsurători și depusă la biroul de cadastru competent pentru localitatea imobilului."
   },
   {
     "name": "Topografie construcții",
@@ -2599,7 +2607,8 @@
         "profile": "montan-apuseni",
         "text": "Pe amplasamentele din zona {localitate}, accesul greu și relieful frământat fac din ridicarea topografică piesa care decide cât costă execuția. Măsurăm terenul complet — cote, taluzuri, drum de acces —, trasăm apoi construcția pe proiectul autorizat și verificăm cotele la fiecare etapă a șantierului."
       }
-    ]
+    ],
+    "countyIntro": "În județul Alba lucrăm pe șantiere din Alba Iulia, Aiud și din localitățile de pe valea Mureșului până în Apuseni, iar cererile se repetă: primăria cere plan topografic vizat OCPI pentru certificatul de urbanism, constructorul cere procesul-verbal de trasare înainte de a intra cu utilajele, iar comisia cere documentația as-built la recepție. Venim la fața locului cu stație totală și GPS RTK, trasăm construcția din proiectul autorizat, verificăm cotele pe etape și predăm fiecare măsurătoare în scris. Scrieți-ne pe WhatsApp ce vi s-a cerut și de la cine, iar noi vă spunem ce lucrare acoperă cererea."
   },
   {
     "name": "Servicii OCPI",
@@ -2845,7 +2854,8 @@
         "profile": "periurban",
         "text": "În jurul orașelor din județul {judet}, cum este cazul localității {localitate}, terenurile își schimbă repede proprietarul și destinația. Înainte să semnați, merită să știți exact ce spune cartea funciară: proprietarul de drept, sarcinile, notările, poziția reală a parcelei pe plan. Cerem la {ocpi} extrasul de carte funciară împreună cu extrasul de plan cadastral și vi le explicăm."
       }
-    ]
+    ],
+    "countyIntro": "În județul Alba, multe blocaje de carte funciară nu cer o măsurătoare, ci o hârtie scoasă din evidențe: extrasul cerut de notar cu puțin timp înainte de semnare, planul vechi rămas în arhivă, verificarea unui teren înainte de plata avansului. Nu toate dosarele merg la Alba Iulia — județul are cinci birouri teritoriale, iar competent este cel al localității în care se află imobilul. Vă spunem la care se depune al dumneavoastră, obținem documentul din evidență sau din arhivă și urmărim dosarul până la rezultat, fără să vă deplasați la ghișeu."
   },
   {
     "name": "Certificat energetic",
@@ -3118,7 +3128,8 @@
         "Ansamblurile de locuințe înșiruite din jurul localității {localitate} au unități aparent identice, dar cea de capăt are un perete în plus către exterior și iese altfel la calcul. Evaluăm unitatea dumneavoastră, nu pe cea a vecinului.",
         "Multe locuințe din {localitate} au fost date în folosință pe etape, iar instalația de încălzire s-a completat pe parcurs. Consemnăm ce funcționează efectiv în ziua vizitei, nu ce era prevăzut."
       ]
-    }
+    },
+    "countyIntro": "În județul Alba — la Alba Iulia, Aiud, Sebeș, Blaj sau în comunele din jur — certificatul de performanță energetică apare de obicei în ultima discuție cu notarul: dosarul de vânzare este gata, iar acest document lipsește. Nu ține de cadastru și nu are legătură cu cartea funciară. Se stabilește la fața locului, pe baza suprafețelor, a tâmplăriei, a izolației și a sistemului de încălzire, iar rezultatul este o clasă energetică de la A la G. Întocmim certificate pentru apartamente, case și spații comerciale, cu deplasare de la biroul nostru din Aiud."
   },
   {
     "name": "Expertize și documentații",
@@ -3418,6 +3429,7 @@
         "Construcțiile recente din {localitate} trec destul de des peste limita de proprietate cu streașina, cu terasa sau cu fundația. Le ridicăm în coordonate și le desenăm în plan, cu abaterea față de limita din acte.",
         "Unde arabilul a devenit teren de construcții pe raza {localitate}, documentațiile noi stau alături de titluri de proprietate vechi și de planuri parcelare care nu cad unul peste altul. Identificarea imobilului cere confruntarea tuturor acestor surse."
       ]
-    }
+    },
+    "countyIntro": "Un gard mutat, o suprapunere care v-a întors documentația de la cadastru, o moștenire pe care frații nu o pot împărți fiindcă nimeni nu știe pe unde trec limitele: în județul Alba, de la Alba Iulia și Aiud până la satele din Apuseni, astfel de situații ajung în instanță pentru că lipsește o măsurătoare pusă pe hârtie. Venim la fața locului, ridicăm limitele așa cum sunt astăzi, le comparăm cu actele dumneavoastră și cu planurile din arhivă și întocmim raportul de expertiză — pentru dosarul din instanță sau numai pentru dumneavoastră, dacă vreți să vedeți cum stați înainte de a deschide un proces. Trimiteți-ne actele pe WhatsApp."
   }
 ]
