@@ -524,10 +524,34 @@ function buildServiceLocality(ctx, service, loc, emitted) {
     ' — Topograf autorizat',
     ' | Fleser Aurel Expert',
   ]);
+  // Meta description tail. The distance from Aiud is a selling point when the
+  // locality is genuinely close and an argument against us when it is not: the
+  // snippet for a 94 km commune used to read "aprox. 94 km de Aiud", i.e. it
+  // advertised the distance from the customer inside the SERP, in a string that
+  // differed from its ~221 siblings only by service, place and a number
+  // (PLAN-rank-first.md §1.4). Above the threshold the distance is replaced by
+  // the one fact a searcher at county level actually needs — which office the
+  // file goes to. Meta lives in <head>, outside the gated content region, so
+  // this touches no gate. Home-office case ("birou chiar în X") is unchanged.
+  const META_DISTANCE_MAX_KM = 25;
+  const META_MAX_CHARS = 155;
+  const metaHead = `${service.name} în ${loc.name}: acte, pași, prețuri orientative. Topograf autorizat ANCPI`;
+  const metaPhone = `. Tel. ${site.nap.phoneDisplay}.`;
+  const metaOffice = dep.atBcpi ? ocpiName(loc) : null;
+  // Candidates, most informative first; the first one that fits the snippet
+  // budget wins. Long service + long place + long office name is the only case
+  // that falls all the way through to no tail (7 of 1,516 leaves).
+  const metaTails =
+    km === 0 ? [`, birou chiar în ${loc.name}`]
+      : (km != null && km <= META_DISTANCE_MAX_KM) ? [`, aprox. ${km} km de Aiud`]
+        : dep.metaTail ? [`. ${fillParams(dep.metaTail, params)}`]
+          : metaOffice ? [`. Dosarul se depune la ${metaOffice}`, `. Depunere la ${metaOffice}`]
+            : [];
+  metaTails.push('');
   const metaDescription =
-    `${service.name} în ${loc.name}: acte, pași, prețuri orientative. Topograf autorizat ANCPI` +
-    (km === 0 ? `, birou chiar în ${loc.name}` : km != null ? `, aprox. ${km} km de Aiud` : '') +
-    `. Tel. ${site.nap.phoneDisplay}.`;
+    metaHead +
+    (metaTails.find((t) => [...(metaHead + t + metaPhone)].length <= META_MAX_CHARS) || '') +
+    metaPhone;
 
   const jsonldExtra = [
     schema.serviceSchema(site, {
