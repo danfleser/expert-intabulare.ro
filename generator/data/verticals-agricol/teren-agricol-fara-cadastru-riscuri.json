@@ -19,7 +19,7 @@
       "head": ["Ce vreți să faceți", "Ce se întâmplă fără cadastru", "Cât întârzie"],
       "rows": [
         ["Vindeți terenul la notar", "Notarul nu poate autentifica: nu există extras de carte funciară pentru autentificare. Vânzarea se oprește.", "4–10 săptămâni pentru documentație + înscriere"],
-        ["Dezbați succesiunea", "Notarul poate dezbate moștenirea pe baza titlului, dar imobilul nu se poate înscrie pe moștenitori până nu are cadastru", "Se adaugă la durata succesiunii"],
+        ["Dezbateți succesiunea", "Notarul poate dezbate moștenirea pe baza titlului, dar imobilul nu se poate înscrie pe moștenitori până nu are cadastru", "Se adaugă la durata succesiunii"],
         ["Luați credit sau garantați o finanțare", "Nu se poate constitui ipotecă pe un imobil neînscris în cartea funciară", "Blocant până la intabulare"],
         ["Depuneți proiect AFIR / fonduri europene", "Dovada dreptului asupra terenului se face de regulă cu extras de carte funciară — actele pe rol nu sunt suficiente", "Poate rata sesiunea de depunere"],
         ["Dezmembrați sau alipiți parcele", "Imposibil: operațiunile se fac numai asupra unor imobile deja înscrise", "Blocant"],

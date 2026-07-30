@@ -18,7 +18,7 @@
       "heading": "Instrumentele disponibile azi și ce fac",
       "head": ["Instrument", "Ce obțineți", "Ce presupune"],
       "rows": [
-        ["Contract de schimb", "Muți proprietatea dintr-o zonă în alta, fără bani (sau cu sultă)", "Act notarial, documentație cadastrală pentru ambele terenuri, acordul celuilalt proprietar"],
+        ["Contract de schimb", "Mutați proprietatea dintr-o zonă în alta, fără bani (sau cu sultă)", "Act notarial, documentație cadastrală pentru ambele terenuri, acordul celuilalt proprietar"],
         ["Cumpărare de parcele vecine", "Extindeți lotul existent", "Procedura de preempțiune a Legii 17/2014 pentru extravilan"],
         ["Arendare grupată", "Lucrați compact fără să cumpărați", "Contracte de arendă înregistrate; nu schimbă proprietatea"],
         ["Alipire cadastrală", "Din mai multe imobile alăturate rezultă unul singur, cu o carte funciară", "Toate imobilele să fie intabulate, alăturate și cu același proprietar"]
@@ -28,7 +28,7 @@
       "type": "process",
       "heading": "Pașii unui proiect de comasare, în ordine",
       "steps": [
-        "Inventarul propriu — punem pe hartă tot ce deții și tot ce lucrați: parcele, suprafețe, acte, tarlale, distanțe. Fără această imagine, orice negociere e pe ghicite.",
+        "Inventarul propriu — punem pe hartă tot ce dețineți și tot ce lucrați: parcele, suprafețe, acte, tarlale, distanțe. Fără această imagine, orice negociere e pe ghicite.",
         "Identificarea în teren — verificăm unde se află efectiv fiecare parcelă din titluri, folosind planul parcelar, ortofotoplanul și măsurători GNSS. Aici apar de obicei primele surprize.",
         "Punerea în ordine a actelor — parcelele care nu au carte funciară se intabulează; fără intabulare nu se poate face niciun act notarial și nicio alipire.",
         "Alegerea zonei-țintă — se decide unde vreți să aveți lotul mare: acolo unde aveți deja cel mai mult, unde solul e mai bun sau unde accesul e cel mai ușor.",
