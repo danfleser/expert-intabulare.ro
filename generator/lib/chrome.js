@@ -118,6 +118,8 @@ function footerRo(site) {
     telDisplay: site.nap.phoneDisplay,
     waHrefFooter: waHrefFor(site, 'default'),
     mapsUrl: site.nap.mapsUrl,
+    facebookUrl: site.profiles.facebook,
+    linkedinUrl: site.profiles.linkedin,
     year: site.buildDate.slice(0, 4),
   });
 }
@@ -141,6 +143,8 @@ function footerEn(site, { roHref, enPages }) {
     telDisplay: site.nap.phoneDisplay,
     waHrefFooter: waHrefFor(site, 'default'),
     mapsUrl: site.nap.mapsUrl,
+    facebookUrl: site.profiles.facebook,
+    linkedinUrl: site.profiles.linkedin,
     year: site.buildDate.slice(0, 4),
   });
 }

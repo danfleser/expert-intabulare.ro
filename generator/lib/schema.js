@@ -24,7 +24,9 @@ function localBusiness(site) {
       addressCountry: 'RO',
     },
     geo: { '@type': 'GeoCoordinates', latitude: n.lat, longitude: n.lon },
-    sameAs: [n.mapsUrl],
+    sameAs: site.profiles
+      ? [site.profiles.facebook, site.profiles.linkedin, site.profiles.google]
+      : [n.mapsUrl],
   };
 }
 

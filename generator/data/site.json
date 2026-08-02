@@ -13,8 +13,13 @@
     "email": "aurelfleser@yahoo.com",
     "lat": 46.3212173,
     "lon": 23.718157,
-    "mapsUrl": "https://www.google.com/maps/place/Birou+particular+Cadastru,+Topografie,+Releveu+-+Trasare,+Intabulare,+Extras+CF/@46.3212173,23.7176085,19z/data=!3m1!4b1!4m5!3m4!1s0x4749578f1113eda7:0x79df4f368ffdd9!8m2!3d46.3212173!4d23.718157",
+    "mapsUrl": "https://maps.google.com/?cid=34304003492806105",
     "hours": "Disponibili Luni-Vineri, între 9:00 - 17:00"
+  },
+  "profiles": {
+    "google": "https://maps.google.com/?cid=34304003492806105",
+    "facebook": "https://www.facebook.com/topoexpertaiud",
+    "linkedin": "https://www.linkedin.com/company/topoexpert-aiud/"
   },
   "owner": {
     "name": "Fleser Aurel",
